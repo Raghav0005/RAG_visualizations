@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-82341fceea6f51fa03934a09e237576e"
+  },
+  "datasets": {
+    "data-82341fceea6f51fa03934a09e237576e": [
+      {
+        "TSNE-1": -6.86077880859375,
+        "TSNE-2": -2.759244680404663,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -11.587092399597168,
+        "TSNE-2": -2.5896811485290527,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 11.966422080993652,
+        "TSNE-2": -2.0375189781188965,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": 3.738434076309204,
+        "TSNE-2": 7.7876057624816895,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": 11.835772514343262,
+        "TSNE-2": -2.243471145629883,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": 1.4472651481628418,
+        "TSNE-2": 11.108010292053223,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": 1.5440456867218018,
+        "TSNE-2": -3.4145705699920654,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": -4.671281814575195,
+        "TSNE-2": 2.08939266204834,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 3.2607309818267822,
+        "TSNE-2": 0.06791083514690399,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 8.927903175354004,
+        "TSNE-2": 7.321369647979736,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -0.6671017408370972,
+        "TSNE-2": -5.6335601806640625,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 9.275534629821777,
+        "TSNE-2": 2.3475310802459717,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -4.283368110656738,
+        "TSNE-2": -0.24188131093978882,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -5.85498046875,
+        "TSNE-2": -7.365323543548584,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 0.2345891296863556,
+        "TSNE-2": 7.887199878692627,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": 0.5866953134536743,
+        "TSNE-2": -9.12455940246582,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 8.384509086608887,
+        "TSNE-2": -7.199976921081543,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": -4.717544078826904,
+        "TSNE-2": 1.2866274118423462,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 2.2749218940734863,
+        "TSNE-2": -8.786924362182617,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": 6.573742866516113,
+        "TSNE-2": 0.03677855432033539,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": 2.683762788772583,
+        "TSNE-2": 6.587712287902832,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": -3.8511390686035156,
+        "TSNE-2": 5.511905670166016,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 1.7794015407562256,
+        "TSNE-2": 6.506795406341553,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": -8.515725135803223,
+        "TSNE-2": -4.933084487915039,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 1.0111116170883179,
+        "TSNE-2": -6.2274603843688965,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": -6.329877853393555,
+        "TSNE-2": 0.8655310869216919,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 6.239166259765625,
+        "TSNE-2": 4.288854122161865,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -4.657398700714111,
+        "TSNE-2": -2.4434094429016113,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 8.420560836791992,
+        "TSNE-2": 8.38996410369873,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -12.273198127746582,
+        "TSNE-2": 3.5552597045898438,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 3.599402904510498,
+        "TSNE-2": -0.6302676200866699,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 7.840999603271484,
+        "TSNE-2": -2.235626459121704,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -5.095461845397949,
+        "TSNE-2": -0.5959442853927612,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -3.8194122314453125,
+        "TSNE-2": 4.319547653198242,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 6.552751064300537,
+        "TSNE-2": -7.665004253387451,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": -3.4376864433288574,
+        "TSNE-2": -3.6035335063934326,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": -2.685879707336426,
+        "TSNE-2": -0.8961167931556702,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 10.096595764160156,
+        "TSNE-2": 2.0795719623565674,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -7.221494197845459,
+        "TSNE-2": 2.7648000717163086,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -2.882591962814331,
+        "TSNE-2": -7.762660026550293,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": -11.388647079467773,
+        "TSNE-2": -1.8170543909072876,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -0.40240713953971863,
+        "TSNE-2": -3.159282684326172,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": -6.647416591644287,
+        "TSNE-2": -0.5448135137557983,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -4.5975542068481445,
+        "TSNE-2": -6.3337836265563965,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": -1.9661946296691895,
+        "TSNE-2": -2.4185802936553955,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 3.948564291000366,
+        "TSNE-2": 13.370532989501953,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": 6.6745171546936035,
+        "TSNE-2": 0.8557720184326172,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": 9.934136390686035,
+        "TSNE-2": 5.670156002044678,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -0.6671017408370972,
+        "TSNE-2": -5.6335601806640625,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": -0.1556285321712494,
+        "TSNE-2": -1.676781415939331,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 0.9021339416503906,
+        "TSNE-2": 2.340198040008545,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 9.802868843078613,
+        "TSNE-2": 8.062562942504883,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -5.856485843658447,
+        "TSNE-2": -0.7837144136428833,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -6.4838714599609375,
+        "TSNE-2": 7.514936447143555,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 3.210003614425659,
+        "TSNE-2": -8.204794883728027,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": 5.426516532897949,
+        "TSNE-2": 3.504242181777954,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": 1.157889723777771,
+        "TSNE-2": -10.301002502441406,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 4.643736362457275,
+        "TSNE-2": 8.334657669067383,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": 4.237215042114258,
+        "TSNE-2": -3.3635666370391846,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": 1.5551670789718628,
+        "TSNE-2": 5.326266288757324,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": -11.477622985839844,
+        "TSNE-2": 4.778389930725098,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 2.5787129402160645,
+        "TSNE-2": 2.5865983963012695,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 2.9290452003479004,
+        "TSNE-2": 2.186292886734009,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": -5.235655307769775,
+        "TSNE-2": -10.4165678024292,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": -0.8370001912117004,
+        "TSNE-2": -1.1166173219680786,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": -7.8937883377075195,
+        "TSNE-2": -2.5569064617156982,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -1.4925743341445923,
+        "TSNE-2": -0.09660224616527557,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": -8.640463829040527,
+        "TSNE-2": -0.5920583009719849,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": -1.1653051376342773,
+        "TSNE-2": 1.943382978439331,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 4.742094039916992,
+        "TSNE-2": 6.05959939956665,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": -0.6224675178527832,
+        "TSNE-2": 0.8742251396179199,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 8.384509086608887,
+        "TSNE-2": -7.199976921081543,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": -1.7547502517700195,
+        "TSNE-2": -10.714717864990234,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 2.98964262008667,
+        "TSNE-2": -5.424530506134033,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": 0.29675161838531494,
+        "TSNE-2": -0.25660496950149536,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 1.886344075202942,
+        "TSNE-2": -2.3970789909362793,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 4.698040008544922,
+        "TSNE-2": -4.803246021270752,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": -1.7547502517700195,
+        "TSNE-2": -10.714717864990234,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 1.5968571901321411,
+        "TSNE-2": 2.5418739318847656,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": 9.123653411865234,
+        "TSNE-2": 6.424958229064941,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": -7.443464756011963,
+        "TSNE-2": -6.149377822875977,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 0.4005107283592224,
+        "TSNE-2": 13.142756462097168,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": -11.601175308227539,
+        "TSNE-2": 4.889505863189697,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 2.1176772117614746,
+        "TSNE-2": 12.46300220489502,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": -2.882591962814331,
+        "TSNE-2": -7.762660026550293,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 1.701545238494873,
+        "TSNE-2": 8.92559814453125,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": 2.5667922496795654,
+        "TSNE-2": 12.818814277648926,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      },
+      {
+        "TSNE-1": 5.971526622772217,
+        "TSNE-2": -12.096246719360352,
+        "cluster": 0,
+        "keywords": "minimalism, style, british, design, abstract"
+      },
+      {
+        "TSNE-1": -3.3667819499969482,
+        "TSNE-2": -5.395692348480225,
+        "cluster": 4,
+        "keywords": "creativity, essential, simplicity, emphasizes, various"
+      },
+      {
+        "TSNE-1": 4.407758712768555,
+        "TSNE-2": -2.3673250675201416,
+        "cluster": 3,
+        "keywords": "current, pop, expressionism, protest, art"
+      },
+      {
+        "TSNE-1": -7.657697677612305,
+        "TSNE-2": 0.7992775440216064,
+        "cluster": 1,
+        "keywords": "creative, document, minimalist, form, movement"
+      },
+      {
+        "TSNE-1": 7.840999603271484,
+        "TSNE-2": -2.235626459121704,
+        "cluster": 5,
+        "keywords": "late, york, artist, new, rather"
+      },
+      {
+        "TSNE-1": 4.3947577476501465,
+        "TSNE-2": 5.711849212646484,
+        "cluster": 2,
+        "keywords": "template, word, latin, meaning, powerpoint"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_98",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-27366 - does minimalism comes from creativity?"
+  }
+}

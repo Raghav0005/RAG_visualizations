@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7f6f090c86c0f11e852bcecc5a8dfc05"
+  },
+  "datasets": {
+    "data-7f6f090c86c0f11e852bcecc5a8dfc05": [
+      {
+        "TSNE-1": -1.850219964981079,
+        "TSNE-2": 0.8341585993766785,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -4.921077251434326,
+        "TSNE-2": 2.3445141315460205,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 0.2665497064590454,
+        "TSNE-2": -7.5184221267700195,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 6.614459991455078,
+        "TSNE-2": 10.3335599899292,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": 0.2665497064590454,
+        "TSNE-2": -7.5184221267700195,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 2.0304646492004395,
+        "TSNE-2": -10.436654090881348,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": -0.25227493047714233,
+        "TSNE-2": -9.08256721496582,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": -5.436744689941406,
+        "TSNE-2": -0.8727610111236572,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 11.078179359436035,
+        "TSNE-2": 1.5995965003967285,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": -9.109210014343262,
+        "TSNE-2": -8.445503234863281,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": 2.658022165298462,
+        "TSNE-2": 0.7002807855606079,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": 5.545629024505615,
+        "TSNE-2": 7.724452495574951,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -2.7984492778778076,
+        "TSNE-2": -0.5982034802436829,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -2.692803382873535,
+        "TSNE-2": -4.306873321533203,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 1.1590285301208496,
+        "TSNE-2": 8.577130317687988,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": -3.9842748641967773,
+        "TSNE-2": -7.711555004119873,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 10.411498069763184,
+        "TSNE-2": -0.009857062250375748,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": -5.436744689941406,
+        "TSNE-2": -0.8727610111236572,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -2.6607894897460938,
+        "TSNE-2": -10.669403076171875,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 5.956812381744385,
+        "TSNE-2": 5.3757219314575195,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": 1.3285208940505981,
+        "TSNE-2": 11.016461372375488,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": -1.4833711385726929,
+        "TSNE-2": -6.3868303298950195,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 2.8138787746429443,
+        "TSNE-2": 7.988673686981201,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -0.7413341403007507,
+        "TSNE-2": -4.561731815338135,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 2.7753183841705322,
+        "TSNE-2": -8.264193534851074,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": -5.060900688171387,
+        "TSNE-2": 0.7147193551063538,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 6.4151787757873535,
+        "TSNE-2": 9.914124488830566,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -1.3430644273757935,
+        "TSNE-2": -8.049359321594238,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 10.178750038146973,
+        "TSNE-2": -6.956557273864746,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": -3.3984310626983643,
+        "TSNE-2": 11.530350685119629,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": 8.758381843566895,
+        "TSNE-2": -3.202632427215576,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": 3.6314494609832764,
+        "TSNE-2": 4.009102821350098,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -0.992429256439209,
+        "TSNE-2": -0.7432519793510437,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -3.646909236907959,
+        "TSNE-2": -6.654510498046875,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": -5.933111190795898,
+        "TSNE-2": -2.8492915630340576,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": -5.642070293426514,
+        "TSNE-2": -4.9293131828308105,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": 1.0903470516204834,
+        "TSNE-2": 3.2731964588165283,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 3.344137191772461,
+        "TSNE-2": -4.175909042358398,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": -3.3241848945617676,
+        "TSNE-2": 0.9511748552322388,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -6.098876476287842,
+        "TSNE-2": 4.651520252227783,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -7.639389991760254,
+        "TSNE-2": -2.3186841011047363,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": 8.471707344055176,
+        "TSNE-2": 7.485661029815674,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -3.0373611450195312,
+        "TSNE-2": -1.382132649421692,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -3.8615729808807373,
+        "TSNE-2": -4.009433746337891,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": 0.6251756548881531,
+        "TSNE-2": 1.2535696029663086,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 6.61855936050415,
+        "TSNE-2": -6.778810977935791,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": 4.822964668273926,
+        "TSNE-2": 2.590174913406372,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -13.036139488220215,
+        "TSNE-2": -3.423445224761963,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": 2.658022165298462,
+        "TSNE-2": 0.7002807855606079,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": 0.8987065553665161,
+        "TSNE-2": -3.187002658843994,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": -5.084920883178711,
+        "TSNE-2": 8.662118911743164,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": -9.359395980834961,
+        "TSNE-2": -7.919962406158447,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": -1.5177695751190186,
+        "TSNE-2": -1.3751274347305298,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 4.688539028167725,
+        "TSNE-2": 9.990761756896973,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": 1.511687994003296,
+        "TSNE-2": -5.749666213989258,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 4.57366943359375,
+        "TSNE-2": 6.663341999053955,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -4.775369167327881,
+        "TSNE-2": -9.413450241088867,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": -2.3979175090789795,
+        "TSNE-2": 10.008970260620117,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": 6.580102443695068,
+        "TSNE-2": -2.2769834995269775,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": 5.51322078704834,
+        "TSNE-2": 11.39960765838623,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -10.11223316192627,
+        "TSNE-2": -1.2898391485214233,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": 7.354416370391846,
+        "TSNE-2": 2.095235824584961,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": 9.039549827575684,
+        "TSNE-2": 3.760324478149414,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": 3.6314494609832764,
+        "TSNE-2": 4.009102821350098,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -0.8188431262969971,
+        "TSNE-2": 2.696479320526123,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -6.809823989868164,
+        "TSNE-2": 2.471243381500244,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -2.3532018661499023,
+        "TSNE-2": 3.729995012283325,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -8.197738647460938,
+        "TSNE-2": 1.3301701545715332,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 1.0271629095077515,
+        "TSNE-2": -1.0388250350952148,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 0.7870724201202393,
+        "TSNE-2": 11.20062255859375,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": 7.9641828536987305,
+        "TSNE-2": 7.156368255615234,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": 10.411498069763184,
+        "TSNE-2": -0.009857062250375748,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": -2.780153751373291,
+        "TSNE-2": 6.487823963165283,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": -8.876309394836426,
+        "TSNE-2": 3.8180699348449707,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -1.2756398916244507,
+        "TSNE-2": 3.9685378074645996,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -7.089555263519287,
+        "TSNE-2": -0.3112744092941284,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 4.375245094299316,
+        "TSNE-2": -0.8524693250656128,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": -2.780153751373291,
+        "TSNE-2": 6.487823963165283,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": 7.3868207931518555,
+        "TSNE-2": 2.6235897541046143,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": -1.998534917831421,
+        "TSNE-2": 9.497885704040527,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      },
+      {
+        "TSNE-1": -1.221435785293579,
+        "TSNE-2": -3.1870710849761963,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 6.355207443237305,
+        "TSNE-2": -6.512597560882568,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": -10.11223316192627,
+        "TSNE-2": -1.2898391485214233,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": 3.9089508056640625,
+        "TSNE-2": -9.18808650970459,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": -6.098876476287842,
+        "TSNE-2": 4.651520252227783,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": -10.122735023498535,
+        "TSNE-2": -7.109970569610596,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": 4.476308345794678,
+        "TSNE-2": -10.620893478393555,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": -8.080506324768066,
+        "TSNE-2": -5.927712440490723,
+        "cluster": 0,
+        "keywords": "company, business, value, kind, create"
+      },
+      {
+        "TSNE-1": -2.8200302124023438,
+        "TSNE-2": -9.761503219604492,
+        "cluster": 3,
+        "keywords": "decision, resource, opportunity, limited, allocate"
+      },
+      {
+        "TSNE-1": 8.370193481445312,
+        "TSNE-2": -2.426471471786499,
+        "cluster": 1,
+        "keywords": "activity, may, tradeoff, occur, strategic"
+      },
+      {
+        "TSNE-1": -4.419384956359863,
+        "TSNE-2": -1.911834716796875,
+        "cluster": 4,
+        "keywords": "competitive, different, one, customer, cost"
+      },
+      {
+        "TSNE-1": 3.6314494609832764,
+        "TSNE-2": 4.009102821350098,
+        "cluster": 5,
+        "keywords": "organizational, management, position, clear, employee"
+      },
+      {
+        "TSNE-1": 2.018873691558838,
+        "TSNE-2": 8.157442092895508,
+        "cluster": 2,
+        "keywords": "important, repositioners, need, protect, choice"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_11",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-214630 - why are trade-offs so important to the success of a business?"
+  }
+}

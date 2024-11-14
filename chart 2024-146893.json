@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-117c3ba9393c9981cca2ac7fae717337"
+  },
+  "datasets": {
+    "data-117c3ba9393c9981cca2ac7fae717337": [
+      {
+        "TSNE-1": 4.306036472320557,
+        "TSNE-2": -6.27528715133667,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 2.5537140369415283,
+        "TSNE-2": -4.664238929748535,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -2.1372592449188232,
+        "TSNE-2": -11.837363243103027,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": -6.81633996963501,
+        "TSNE-2": -0.6262891888618469,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": -2.1372592449188232,
+        "TSNE-2": -11.837363243103027,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": -9.203782081604004,
+        "TSNE-2": 3.2118499279022217,
+        "cluster": 2,
+        "keywords": "prevent, abroad, sent, army, doc"
+      },
+      {
+        "TSNE-1": -0.1726393848657608,
+        "TSNE-2": 6.945864677429199,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 3.333360433578491,
+        "TSNE-2": -2.3728890419006348,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -0.5932245254516602,
+        "TSNE-2": -4.895603179931641,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -4.292476177215576,
+        "TSNE-2": -4.054906845092773,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": -6.462905406951904,
+        "TSNE-2": -10.182394027709961,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": 7.711838245391846,
+        "TSNE-2": -6.397822856903076,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 2.885972738265991,
+        "TSNE-2": 0.5047183036804199,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 10.435556411743164,
+        "TSNE-2": 8.62600040435791,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -14.007912635803223,
+        "TSNE-2": 0.06952524930238724,
+        "cluster": 2,
+        "keywords": "prevent, abroad, sent, army, doc"
+      },
+      {
+        "TSNE-1": 8.587930679321289,
+        "TSNE-2": 1.9415878057479858,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 6.10830020904541,
+        "TSNE-2": 3.86155104637146,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 3.333360433578491,
+        "TSNE-2": -2.3728890419006348,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 10.758373260498047,
+        "TSNE-2": 1.6506232023239136,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -7.933788776397705,
+        "TSNE-2": 8.406259536743164,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -10.438045501708984,
+        "TSNE-2": -4.280300617218018,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": 2.8054583072662354,
+        "TSNE-2": 2.9515485763549805,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -8.686287879943848,
+        "TSNE-2": -2.950756549835205,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": 12.460691452026367,
+        "TSNE-2": -1.0689936876296997,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 4.537768840789795,
+        "TSNE-2": 2.3783040046691895,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 8.789398193359375,
+        "TSNE-2": -0.15732647478580475,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -7.609039783477783,
+        "TSNE-2": -1.1672344207763672,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": -0.8263012766838074,
+        "TSNE-2": 6.598722457885742,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -15.102341651916504,
+        "TSNE-2": -0.281561017036438,
+        "cluster": 2,
+        "keywords": "prevent, abroad, sent, army, doc"
+      },
+      {
+        "TSNE-1": -9.985986709594727,
+        "TSNE-2": 2.7850887775421143,
+        "cluster": 2,
+        "keywords": "prevent, abroad, sent, army, doc"
+      },
+      {
+        "TSNE-1": -0.13514725863933563,
+        "TSNE-2": -4.458579063415527,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -5.564206600189209,
+        "TSNE-2": 4.97670841217041,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -0.1771930307149887,
+        "TSNE-2": 4.620100498199463,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -1.342036247253418,
+        "TSNE-2": -0.46535810828208923,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -1.6163073778152466,
+        "TSNE-2": 9.275099754333496,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 1.6665774583816528,
+        "TSNE-2": 0.8065410256385803,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 6.860505104064941,
+        "TSNE-2": -1.442716360092163,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 0.5863161683082581,
+        "TSNE-2": 10.321674346923828,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 1.5321813821792603,
+        "TSNE-2": 4.194357872009277,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 9.92483901977539,
+        "TSNE-2": -1.4993369579315186,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 12.158303260803223,
+        "TSNE-2": 6.042637825012207,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 6.025126934051514,
+        "TSNE-2": 6.684565544128418,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 4.50186014175415,
+        "TSNE-2": -0.023214343935251236,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -2.2417643070220947,
+        "TSNE-2": 7.397586822509766,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 6.874244213104248,
+        "TSNE-2": -2.617769241333008,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -1.0823580026626587,
+        "TSNE-2": 13.817741394042969,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -6.729301452636719,
+        "TSNE-2": 6.854060649871826,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -6.2786760330200195,
+        "TSNE-2": -4.551944255828857,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": -6.462905406951904,
+        "TSNE-2": -10.182394027709961,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": -1.6910189390182495,
+        "TSNE-2": 3.961153745651245,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 2.6007535457611084,
+        "TSNE-2": 9.557374000549316,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -4.292476177215576,
+        "TSNE-2": -4.054906845092773,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": 0.27183839678764343,
+        "TSNE-2": 3.513232946395874,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -1.0823580026626587,
+        "TSNE-2": 13.817741394042969,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -0.20263709127902985,
+        "TSNE-2": -1.6071434020996094,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -9.199126243591309,
+        "TSNE-2": -1.2354122400283813,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": 10.341711044311523,
+        "TSNE-2": 3.6534972190856934,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -14.461142539978027,
+        "TSNE-2": -0.9295094013214111,
+        "cluster": 2,
+        "keywords": "prevent, abroad, sent, army, doc"
+      },
+      {
+        "TSNE-1": 2.1139795780181885,
+        "TSNE-2": -1.3390793800354004,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": -9.51957893371582,
+        "TSNE-2": -3.5943055152893066,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": 0.9525362849235535,
+        "TSNE-2": -9.88619327545166,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": 2.1211373805999756,
+        "TSNE-2": 6.502181529998779,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 3.5348756313323975,
+        "TSNE-2": 5.698408126831055,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -7.441377639770508,
+        "TSNE-2": 6.052626609802246,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 4.7755126953125,
+        "TSNE-2": -8.785200119018555,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": 5.0591301918029785,
+        "TSNE-2": -1.8542935848236084,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 8.108031272888184,
+        "TSNE-2": -3.5901577472686768,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 5.223058700561523,
+        "TSNE-2": -4.207197666168213,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 6.939871788024902,
+        "TSNE-2": 7.989320278167725,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -4.219694137573242,
+        "TSNE-2": -2.7498648166656494,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": 7.117453098297119,
+        "TSNE-2": 7.2324371337890625,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 6.10830020904541,
+        "TSNE-2": 3.86155104637146,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -1.9257192611694336,
+        "TSNE-2": -7.329511642456055,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": -3.832937479019165,
+        "TSNE-2": 1.2518583536148071,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": 0.4017261862754822,
+        "TSNE-2": 1.4222991466522217,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 9.6550931930542,
+        "TSNE-2": 6.394795894622803,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -3.0676639080047607,
+        "TSNE-2": 2.198434591293335,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -1.9257192611694336,
+        "TSNE-2": -7.329511642456055,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": 3.6251933574676514,
+        "TSNE-2": 4.902952194213867,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -6.412247657775879,
+        "TSNE-2": -5.685060024261475,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      },
+      {
+        "TSNE-1": 12.565454483032227,
+        "TSNE-2": 0.8392084836959839,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 7.711838245391846,
+        "TSNE-2": -6.397822856903076,
+        "cluster": 1,
+        "keywords": "world, military, woman, united, ii"
+      },
+      {
+        "TSNE-1": 0.9895312786102295,
+        "TSNE-2": -9.344042778015137,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": 4.645636558532715,
+        "TSNE-2": 8.426522254943848,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": 9.92483901977539,
+        "TSNE-2": -1.4993369579315186,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -14.474194526672363,
+        "TSNE-2": -2.51021409034729,
+        "cluster": 2,
+        "keywords": "prevent, abroad, sent, army, doc"
+      },
+      {
+        "TSNE-1": 4.429672718048096,
+        "TSNE-2": -12.443802833557129,
+        "cluster": 4,
+        "keywords": "mexican, annexation, expansionist, immigration, expansion"
+      },
+      {
+        "TSNE-1": -10.075777053833008,
+        "TSNE-2": 8.773294448852539,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 9.208306312561035,
+        "TSNE-2": 2.8618710041046143,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -1.297493577003479,
+        "TSNE-2": 5.640718460083008,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": 6.091871738433838,
+        "TSNE-2": 0.2703244686126709,
+        "cluster": 3,
+        "keywords": "civil, state, significant, many, conflict"
+      },
+      {
+        "TSNE-1": -5.564206600189209,
+        "TSNE-2": 4.97670841217041,
+        "cluster": 0,
+        "keywords": "hispanic, war, spanish, american, member"
+      },
+      {
+        "TSNE-1": -4.757369041442871,
+        "TSNE-2": -1.7698712348937988,
+        "cluster": 5,
+        "keywords": "actively, vietnam, cuban, mention, since"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_233",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-146893 - what lead up to hispanic americans going to war?"
+  }
+}

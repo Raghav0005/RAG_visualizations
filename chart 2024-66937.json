@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-b21512e613841769266a77fff1516e14"
+  },
+  "datasets": {
+    "data-b21512e613841769266a77fff1516e14": [
+      {
+        "TSNE-1": -4.485200881958008,
+        "TSNE-2": -6.474908351898193,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": -7.056849479675293,
+        "TSNE-2": -5.287135601043701,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": 11.557523727416992,
+        "TSNE-2": 7.560957431793213,
+        "cluster": 2,
+        "keywords": "document, importance, highlight, aware, awareness"
+      },
+      {
+        "TSNE-1": 5.544766426086426,
+        "TSNE-2": 8.822248458862305,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 11.557523727416992,
+        "TSNE-2": 7.560957431793213,
+        "cluster": 2,
+        "keywords": "document, importance, highlight, aware, awareness"
+      },
+      {
+        "TSNE-1": -19.19849395751953,
+        "TSNE-2": -20.62417221069336,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 16.036027908325195,
+        "TSNE-2": 8.116451263427734,
+        "cluster": 2,
+        "keywords": "document, importance, highlight, aware, awareness"
+      },
+      {
+        "TSNE-1": 3.9806761741638184,
+        "TSNE-2": -5.25540828704834,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -4.142395496368408,
+        "TSNE-2": 5.0660810470581055,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": -7.812821388244629,
+        "TSNE-2": 13.05166244506836,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": -3.7612380981445312,
+        "TSNE-2": -14.412847518920898,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 1.4715931415557861,
+        "TSNE-2": 9.485162734985352,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 7.468875885009766,
+        "TSNE-2": -1.3597142696380615,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 10.60293197631836,
+        "TSNE-2": -0.9008585214614868,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 6.2339253425598145,
+        "TSNE-2": 4.372179985046387,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": -0.05112076550722122,
+        "TSNE-2": -7.8145623207092285,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 0.0653899684548378,
+        "TSNE-2": 4.982584476470947,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 3.9806761741638184,
+        "TSNE-2": -5.25540828704834,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 1.4938631057739258,
+        "TSNE-2": -9.065444946289062,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": -12.00776481628418,
+        "TSNE-2": -2.6600184440612793,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -12.058629989624023,
+        "TSNE-2": 6.073690891265869,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": 6.626648902893066,
+        "TSNE-2": -8.53647232055664,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -7.707381725311279,
+        "TSNE-2": 9.980271339416504,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": 10.298365592956543,
+        "TSNE-2": -7.452845573425293,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -2.4401755332946777,
+        "TSNE-2": 0.9216771721839905,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 6.123039722442627,
+        "TSNE-2": -6.125200271606445,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -11.419917106628418,
+        "TSNE-2": -6.694064140319824,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": 15.140582084655762,
+        "TSNE-2": 10.807762145996094,
+        "cluster": 2,
+        "keywords": "document, importance, highlight, aware, awareness"
+      },
+      {
+        "TSNE-1": 6.2339253425598145,
+        "TSNE-2": 4.372179985046387,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": -3.2421700954437256,
+        "TSNE-2": 6.527559280395508,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": -3.042567253112793,
+        "TSNE-2": -4.903252601623535,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": -13.558091163635254,
+        "TSNE-2": -0.7427098751068115,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": 7.662137508392334,
+        "TSNE-2": -2.5828402042388916,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 9.893667221069336,
+        "TSNE-2": -3.498753547668457,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 8.81932544708252,
+        "TSNE-2": -11.449373245239258,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -0.09240388870239258,
+        "TSNE-2": 1.8481600284576416,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 2.55001163482666,
+        "TSNE-2": -2.327918291091919,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 1.3127119541168213,
+        "TSNE-2": -13.947192192077637,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": -5.322754859924316,
+        "TSNE-2": -8.958598136901855,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": -1.1421042680740356,
+        "TSNE-2": -2.34566593170166,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 4.048131942749023,
+        "TSNE-2": -11.099085807800293,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -3.0588738918304443,
+        "TSNE-2": -1.2721244096755981,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": 5.775449275970459,
+        "TSNE-2": -2.9354937076568604,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 9.58426570892334,
+        "TSNE-2": 0.6667913794517517,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 1.56424880027771,
+        "TSNE-2": -1.2116836309432983,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": -0.9474672079086304,
+        "TSNE-2": 11.95621395111084,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": -11.32420539855957,
+        "TSNE-2": -0.477662593126297,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -6.450305938720703,
+        "TSNE-2": 13.799509048461914,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": -3.7612380981445312,
+        "TSNE-2": -14.412847518920898,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 0.38422891497612,
+        "TSNE-2": 0.23728613555431366,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 2.2345082759857178,
+        "TSNE-2": 2.718447685241699,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": -6.761322498321533,
+        "TSNE-2": 11.381977081298828,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": 6.06234073638916,
+        "TSNE-2": -1.1289983987808228,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -0.9474672079086304,
+        "TSNE-2": 11.95621395111084,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": 8.880905151367188,
+        "TSNE-2": -5.691874027252197,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -10.17569637298584,
+        "TSNE-2": 2.8368613719940186,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -0.8344936370849609,
+        "TSNE-2": -9.133920669555664,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": -12.058629989624023,
+        "TSNE-2": 6.073690891265869,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": -5.0464372634887695,
+        "TSNE-2": -0.3688570261001587,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -9.705517768859863,
+        "TSNE-2": -7.112076759338379,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": 13.10692024230957,
+        "TSNE-2": 10.138927459716797,
+        "cluster": 2,
+        "keywords": "document, importance, highlight, aware, awareness"
+      },
+      {
+        "TSNE-1": 3.861940860748291,
+        "TSNE-2": 1.9436155557632446,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": -6.641495227813721,
+        "TSNE-2": 2.836026191711426,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -14.630553245544434,
+        "TSNE-2": -2.990858793258667,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": 3.447617530822754,
+        "TSNE-2": -1.650510549545288,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -3.3783698081970215,
+        "TSNE-2": -7.931581974029541,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 1.6974009275436401,
+        "TSNE-2": -5.179157733917236,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 13.388994216918945,
+        "TSNE-2": -0.4992770254611969,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -0.9120092988014221,
+        "TSNE-2": -6.179319858551025,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": -12.058629989624023,
+        "TSNE-2": 6.073690891265869,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": -0.9623057246208191,
+        "TSNE-2": -4.5690484046936035,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 0.0653899684548378,
+        "TSNE-2": 4.982584476470947,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 16.225156784057617,
+        "TSNE-2": 14.343470573425293,
+        "cluster": 2,
+        "keywords": "document, importance, highlight, aware, awareness"
+      },
+      {
+        "TSNE-1": -7.038516998291016,
+        "TSNE-2": -2.558112144470215,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -3.5074892044067383,
+        "TSNE-2": -10.382219314575195,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 9.05844783782959,
+        "TSNE-2": 3.2682201862335205,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": -7.474998474121094,
+        "TSNE-2": -1.5625028610229492,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": 16.225156784057617,
+        "TSNE-2": 14.343470573425293,
+        "cluster": 2,
+        "keywords": "document, importance, highlight, aware, awareness"
+      },
+      {
+        "TSNE-1": -5.384182453155518,
+        "TSNE-2": 2.38899564743042,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -6.761322498321533,
+        "TSNE-2": 11.381977081298828,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": 7.137847423553467,
+        "TSNE-2": -4.520574569702148,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": 1.4715931415557861,
+        "TSNE-2": 9.485162734985352,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 13.10692024230957,
+        "TSNE-2": 10.138927459716797,
+        "cluster": 2,
+        "keywords": "document, importance, highlight, aware, awareness"
+      },
+      {
+        "TSNE-1": -4.823706150054932,
+        "TSNE-2": -3.0558218955993652,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -1.1421042680740356,
+        "TSNE-2": -2.34566593170166,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 6.2339253425598145,
+        "TSNE-2": 4.372179985046387,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": -2.1291892528533936,
+        "TSNE-2": 8.614130020141602,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      },
+      {
+        "TSNE-1": -7.613686561584473,
+        "TSNE-2": -10.755785942077637,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 0.3905055522918701,
+        "TSNE-2": -10.897347450256348,
+        "cluster": 3,
+        "keywords": "avoid, therapeutic, respect, bias, affect"
+      },
+      {
+        "TSNE-1": 2.10119891166687,
+        "TSNE-2": 6.953457832336426,
+        "cluster": 1,
+        "keywords": "client, must, value, attitude, well"
+      },
+      {
+        "TSNE-1": 4.0859174728393555,
+        "TSNE-2": -7.748608112335205,
+        "cluster": 0,
+        "keywords": "professional, counselor, cultural, personal, belief"
+      },
+      {
+        "TSNE-1": -13.558091163635254,
+        "TSNE-2": -0.7427098751068115,
+        "cluster": 4,
+        "keywords": "may, different, also, set, theory"
+      },
+      {
+        "TSNE-1": -12.058629989624023,
+        "TSNE-2": 6.073690891265869,
+        "cluster": 5,
+        "keywords": "religious, sense, factor, various, culturally"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_260",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-66937 - how mighht a counselors attitudes, values and beliefs be shaped"
+  }
+}

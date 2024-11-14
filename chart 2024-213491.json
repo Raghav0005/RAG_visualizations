@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7b92013770c4005a4ff8d3c12af80753"
+  },
+  "datasets": {
+    "data-7b92013770c4005a4ff8d3c12af80753": [
+      {
+        "TSNE-1": -4.193821430206299,
+        "TSNE-2": -4.26254415512085,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 8.23779010772705,
+        "TSNE-2": -11.009527206420898,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": 10.931654930114746,
+        "TSNE-2": 4.925045013427734,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": -10.27702522277832,
+        "TSNE-2": 8.048187255859375,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 10.931654930114746,
+        "TSNE-2": 4.925045013427734,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": -13.236905097961426,
+        "TSNE-2": 7.758292198181152,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 2.2728705406188965,
+        "TSNE-2": -11.199048042297363,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 10.039005279541016,
+        "TSNE-2": -5.220176696777344,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -1.6159955263137817,
+        "TSNE-2": 3.7325780391693115,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": -12.137764930725098,
+        "TSNE-2": 3.24934720993042,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 0.5837741494178772,
+        "TSNE-2": -1.9143693447113037,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 9.912288665771484,
+        "TSNE-2": -0.40513676404953003,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": 2.109434127807617,
+        "TSNE-2": -6.193817138671875,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 5.913475036621094,
+        "TSNE-2": -0.507503092288971,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -4.978969573974609,
+        "TSNE-2": 6.015503406524658,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 5.736512660980225,
+        "TSNE-2": -5.385538101196289,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": 7.171475887298584,
+        "TSNE-2": 6.833353042602539,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": -1.1674062013626099,
+        "TSNE-2": -1.2996997833251953,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 6.57138729095459,
+        "TSNE-2": -6.2842793464660645,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -7.273070335388184,
+        "TSNE-2": -0.4212682545185089,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 1.9373522996902466,
+        "TSNE-2": 13.287349700927734,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": 0.5316808819770813,
+        "TSNE-2": -5.023386478424072,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -7.581338405609131,
+        "TSNE-2": 10.12911319732666,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 4.680964946746826,
+        "TSNE-2": -1.9962422847747803,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": 2.302288055419922,
+        "TSNE-2": 2.5741922855377197,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": -1.4045439958572388,
+        "TSNE-2": -3.0603160858154297,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": -9.690064430236816,
+        "TSNE-2": 7.020730495452881,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 3.1124746799468994,
+        "TSNE-2": -10.68696403503418,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -5.7983479499816895,
+        "TSNE-2": 7.045454025268555,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 7.2674970626831055,
+        "TSNE-2": 3.30549693107605,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": -2.156153678894043,
+        "TSNE-2": 3.8803067207336426,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": -0.9668689966201782,
+        "TSNE-2": 6.986059665679932,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": 2.798673629760742,
+        "TSNE-2": -7.70344877243042,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -4.160451412200928,
+        "TSNE-2": -6.390365123748779,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 4.581138610839844,
+        "TSNE-2": 6.794079780578613,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": 2.0882253646850586,
+        "TSNE-2": 4.598448753356934,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": -11.129669189453125,
+        "TSNE-2": 0.38570624589920044,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": -2.4882266521453857,
+        "TSNE-2": -12.093502044677734,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 2.5114173889160156,
+        "TSNE-2": -3.727341413497925,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 2.3326025009155273,
+        "TSNE-2": 0.3421165943145752,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 10.391501426696777,
+        "TSNE-2": -5.757823944091797,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -1.0667603015899658,
+        "TSNE-2": -8.737777709960938,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 0.880443274974823,
+        "TSNE-2": -6.9376540184021,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -2.525177240371704,
+        "TSNE-2": -2.963744878768921,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 4.388274669647217,
+        "TSNE-2": 2.424882411956787,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": 11.460609436035156,
+        "TSNE-2": -0.07679922878742218,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -6.057429790496826,
+        "TSNE-2": 0.8996320962905884,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": -9.481173515319824,
+        "TSNE-2": 9.111882209777832,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 0.5837741494178772,
+        "TSNE-2": -1.9143693447113037,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": -10.705814361572266,
+        "TSNE-2": 2.3032045364379883,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": -2.5714259147644043,
+        "TSNE-2": 13.197358131408691,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": -8.75282096862793,
+        "TSNE-2": 5.244602203369141,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 1.2460718154907227,
+        "TSNE-2": -7.935601234436035,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 2.417228937149048,
+        "TSNE-2": 5.377600193023682,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": -3.405109167098999,
+        "TSNE-2": -5.710541725158691,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 4.003180980682373,
+        "TSNE-2": 10.21488094329834,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": 6.506669998168945,
+        "TSNE-2": -4.241072177886963,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -4.6363348960876465,
+        "TSNE-2": 7.219590663909912,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": -2.609957218170166,
+        "TSNE-2": -0.430449515581131,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 4.573776721954346,
+        "TSNE-2": 10.442030906677246,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": -3.0495729446411133,
+        "TSNE-2": -10.324419021606445,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -3.174506187438965,
+        "TSNE-2": 12.31591510772705,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": -1.596701741218567,
+        "TSNE-2": 12.333309173583984,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": -5.556664943695068,
+        "TSNE-2": 1.7727103233337402,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": -11.478625297546387,
+        "TSNE-2": 1.8023896217346191,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 4.915919780731201,
+        "TSNE-2": -8.561322212219238,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -5.805930137634277,
+        "TSNE-2": -7.23753547668457,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -1.7383692264556885,
+        "TSNE-2": -6.0390801429748535,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -0.34873783588409424,
+        "TSNE-2": -9.895413398742676,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -11.22284984588623,
+        "TSNE-2": 6.91726016998291,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": -0.8254406452178955,
+        "TSNE-2": 10.861985206604004,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": 7.171475887298584,
+        "TSNE-2": 6.833353042602539,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": 0.7522554397583008,
+        "TSNE-2": -12.879121780395508,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 8.78554916381836,
+        "TSNE-2": -8.277335166931152,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": 0.24238251149654388,
+        "TSNE-2": 0.9045558571815491,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 2.535449266433716,
+        "TSNE-2": -14.236015319824219,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -7.1443586349487305,
+        "TSNE-2": -3.3134186267852783,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 0.7522554397583008,
+        "TSNE-2": -12.879121780395508,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": -2.3900744915008545,
+        "TSNE-2": 11.308029174804688,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": -8.497777938842773,
+        "TSNE-2": 7.311922550201416,
+        "cluster": 2,
+        "keywords": "mention, context, information, discusses, various"
+      },
+      {
+        "TSNE-1": 3.4647157192230225,
+        "TSNE-2": -2.6106531620025635,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 11.823673248291016,
+        "TSNE-2": 0.717621386051178,
+        "cluster": 0,
+        "keywords": "document, water, may, perpetrator, sexual"
+      },
+      {
+        "TSNE-1": -3.0495729446411133,
+        "TSNE-2": -10.324419021606445,
+        "cluster": 1,
+        "keywords": "child, activity, abuse, risk, physical"
+      },
+      {
+        "TSNE-1": 3.466805934906006,
+        "TSNE-2": -5.440509796142578,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": 2.3326025009155273,
+        "TSNE-2": 0.3421165943145752,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": -4.437004089355469,
+        "TSNE-2": 8.413860321044922,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": 12.072592735290527,
+        "TSNE-2": -1.3693100214004517,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": 3.6677613258361816,
+        "TSNE-2": 14.306951522827148,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": 5.135684490203857,
+        "TSNE-2": -6.630648136138916,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -3.763352870941162,
+        "TSNE-2": -1.1892906427383423,
+        "cluster": 3,
+        "keywords": "woman, increase, vulnerability, often, individual"
+      },
+      {
+        "TSNE-1": 7.209505081176758,
+        "TSNE-2": -8.299821853637695,
+        "cluster": 4,
+        "keywords": "abuser, emotional, inappropriate, like, behavior"
+      },
+      {
+        "TSNE-1": -0.9668689966201782,
+        "TSNE-2": 6.986059665679932,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      },
+      {
+        "TSNE-1": 1.9373522996902466,
+        "TSNE-2": 13.287349700927734,
+        "cluster": 5,
+        "keywords": "offender, text, advance, stimulation, sexuality"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_219",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-213491 - why activities involving water may increase sexual abuse"
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e82df5db20d91b47000d22c73cf07cb0"
+  },
+  "datasets": {
+    "data-e82df5db20d91b47000d22c73cf07cb0": [
+      {
+        "TSNE-1": -3.6417274475097656,
+        "TSNE-2": 1.417049527168274,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 16.389936447143555,
+        "TSNE-2": -22.08618927001953,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": 1.9439046382904053,
+        "TSNE-2": 27.638641357421875,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": 17.71593475341797,
+        "TSNE-2": -17.66257667541504,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": 1.9439046382904053,
+        "TSNE-2": 27.638641357421875,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": -25.0142879486084,
+        "TSNE-2": 1.806835651397705,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": -14.411407470703125,
+        "TSNE-2": 0.11216216534376144,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": 5.6604180335998535,
+        "TSNE-2": 7.489001750946045,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 22.03660011291504,
+        "TSNE-2": -3.841641664505005,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 2.4939725399017334,
+        "TSNE-2": -5.81831169128418,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": 1.6103456020355225,
+        "TSNE-2": -17.936017990112305,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": -9.215103149414062,
+        "TSNE-2": -1.2131423950195312,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -26.299646377563477,
+        "TSNE-2": -5.375631809234619,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": -1.3286727666854858,
+        "TSNE-2": -29.769723892211914,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": -15.580683708190918,
+        "TSNE-2": -6.955074787139893,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": 9.600868225097656,
+        "TSNE-2": 21.97649383544922,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": -14.411407470703125,
+        "TSNE-2": 0.11216216534376144,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": -11.259258270263672,
+        "TSNE-2": -16.872983932495117,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": 2.959885835647583,
+        "TSNE-2": 16.580474853515625,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": 17.011974334716797,
+        "TSNE-2": -13.296841621398926,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 7.255944728851318,
+        "TSNE-2": -10.997649192810059,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": 9.971799850463867,
+        "TSNE-2": -6.293829441070557,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": -3.962682008743286,
+        "TSNE-2": 22.952646255493164,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 0.8522016406059265,
+        "TSNE-2": 6.773648262023926,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -9.322527885437012,
+        "TSNE-2": 3.0798752307891846,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -25.968950271606445,
+        "TSNE-2": 18.737516403198242,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": -21.53540802001953,
+        "TSNE-2": 1.9948269128799438,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": 21.71721076965332,
+        "TSNE-2": 0.1184421181678772,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 4.5958685874938965,
+        "TSNE-2": 12.54711627960205,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": 5.714137077331543,
+        "TSNE-2": 5.192997932434082,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -4.785433769226074,
+        "TSNE-2": 7.1338958740234375,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -4.088282585144043,
+        "TSNE-2": -3.6915347576141357,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -16.036130905151367,
+        "TSNE-2": -12.941513061523438,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -17.285207748413086,
+        "TSNE-2": 7.022314548492432,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": 6.166393280029297,
+        "TSNE-2": -20.7637882232666,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": 7.929723739624023,
+        "TSNE-2": -15.791998863220215,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": -11.188457489013672,
+        "TSNE-2": 25.352441787719727,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 2.2563936710357666,
+        "TSNE-2": -12.915925025939941,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": -6.040539741516113,
+        "TSNE-2": -9.612113952636719,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -22.256654739379883,
+        "TSNE-2": 11.359111785888672,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": 22.50213623046875,
+        "TSNE-2": 7.094458103179932,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": -6.949371814727783,
+        "TSNE-2": -3.872889995574951,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -9.54534912109375,
+        "TSNE-2": 17.265111923217773,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -11.53158950805664,
+        "TSNE-2": 7.298151016235352,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -5.178070068359375,
+        "TSNE-2": -17.164854049682617,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -0.6526095271110535,
+        "TSNE-2": 10.567809104919434,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 16.191614151000977,
+        "TSNE-2": -1.0605015754699707,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 2.4939725399017334,
+        "TSNE-2": -5.81831169128418,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -2.5506763458251953,
+        "TSNE-2": 17.662240982055664,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 19.97992706298828,
+        "TSNE-2": 23.36027717590332,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": 18.061216354370117,
+        "TSNE-2": 1.2657599449157715,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": -6.0986247062683105,
+        "TSNE-2": -1.1409504413604736,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -0.891231894493103,
+        "TSNE-2": -20.85495948791504,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": -20.76915168762207,
+        "TSNE-2": -11.099053382873535,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": 17.704071044921875,
+        "TSNE-2": -7.677341938018799,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": -11.269582748413086,
+        "TSNE-2": -11.725234985351562,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -12.671479225158691,
+        "TSNE-2": 12.360000610351562,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 9.409711837768555,
+        "TSNE-2": 10.763580322265625,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": 4.792267322540283,
+        "TSNE-2": -7.7325758934021,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 8.577298164367676,
+        "TSNE-2": -28.022563934326172,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": 19.97992706298828,
+        "TSNE-2": 23.36027717590332,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": 10.770103454589844,
+        "TSNE-2": 4.350704193115234,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": -0.6607834100723267,
+        "TSNE-2": 3.3833789825439453,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 6.763636112213135,
+        "TSNE-2": -3.6913204193115234,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 9.37518310546875,
+        "TSNE-2": -0.5825837850570679,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 13.313636779785156,
+        "TSNE-2": 14.954985618591309,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": -26.6895809173584,
+        "TSNE-2": 7.317065238952637,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": -19.234106063842773,
+        "TSNE-2": -19.207958221435547,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": 13.963094711303711,
+        "TSNE-2": -6.525573253631592,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": -18.31922721862793,
+        "TSNE-2": 23.101930618286133,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": 9.600868225097656,
+        "TSNE-2": 21.97649383544922,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": 2.5189247131347656,
+        "TSNE-2": 0.17687270045280457,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -0.9303983449935913,
+        "TSNE-2": -9.077167510986328,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": 14.938131332397461,
+        "TSNE-2": 7.071699142456055,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 18.500755310058594,
+        "TSNE-2": 11.838395118713379,
+        "cluster": 1,
+        "keywords": "nan, version, people, document, percent"
+      },
+      {
+        "TSNE-1": -8.278813362121582,
+        "TSNE-2": 10.256560325622559,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 2.5189247131347656,
+        "TSNE-2": 0.17687270045280457,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -17.44858741760254,
+        "TSNE-2": 18.1002254486084,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": 18.46920394897461,
+        "TSNE-2": -2.946990489959717,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": -21.24736213684082,
+        "TSNE-2": -5.074045181274414,
+        "cluster": 2,
+        "keywords": "law, educational, education, certain, topic"
+      },
+      {
+        "TSNE-1": -3.0960679054260254,
+        "TSNE-2": -15.410982131958008,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": 8.577298164367676,
+        "TSNE-2": -28.022563934326172,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": 28.754913330078125,
+        "TSNE-2": -1.0979574918746948,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": -6.040539741516113,
+        "TSNE-2": -9.612113952636719,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -2.027035713195801,
+        "TSNE-2": -26.71465492248535,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": 23.386112213134766,
+        "TSNE-2": -14.08743953704834,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      },
+      {
+        "TSNE-1": 12.118346214294434,
+        "TSNE-2": -16.246767044067383,
+        "cluster": 0,
+        "keywords": "black, history, school, state, teach"
+      },
+      {
+        "TSNE-1": -10.843086242675781,
+        "TSNE-2": -7.040749549865723,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -4.074061870574951,
+        "TSNE-2": 12.98624038696289,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": -8.99061107635498,
+        "TSNE-2": -22.826383590698242,
+        "cluster": 3,
+        "keywords": "often, historical, slavery, project, among"
+      },
+      {
+        "TSNE-1": -4.785433769226074,
+        "TSNE-2": 7.1338958740234375,
+        "cluster": 4,
+        "keywords": "american, african, taught, student, united"
+      },
+      {
+        "TSNE-1": 13.799396514892578,
+        "TSNE-2": -9.006978988647461,
+        "cluster": 5,
+        "keywords": "article, promote, cultural, importance, illegal"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_145",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-221278 - why is it illegal to teach black history in schools?"
+  }
+}

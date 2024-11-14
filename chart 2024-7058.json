@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-20d07cbde4252be27a8e6945ce8ef157"
+  },
+  "datasets": {
+    "data-20d07cbde4252be27a8e6945ce8ef157": [
+      {
+        "TSNE-1": 5.687000751495361,
+        "TSNE-2": 3.849745988845825,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -2.992551565170288,
+        "TSNE-2": -7.669065475463867,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": 13.99819278717041,
+        "TSNE-2": 2.222165107727051,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -1.7605199813842773,
+        "TSNE-2": 13.34891128540039,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": 13.747188568115234,
+        "TSNE-2": 1.6873615980148315,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -4.853123664855957,
+        "TSNE-2": 7.963451385498047,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": 8.686161041259766,
+        "TSNE-2": 3.6135079860687256,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 4.207264423370361,
+        "TSNE-2": -0.4303287863731384,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 7.353697776794434,
+        "TSNE-2": 7.532565593719482,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -6.570967197418213,
+        "TSNE-2": 2.8836917877197266,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -0.924777090549469,
+        "TSNE-2": -0.29072684049606323,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 7.490637302398682,
+        "TSNE-2": -3.1746678352355957,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": 3.0769267082214355,
+        "TSNE-2": 1.5321000814437866,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -2.7803399562835693,
+        "TSNE-2": -1.494451642036438,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -6.570967197418213,
+        "TSNE-2": 2.8836917877197266,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -7.717282772064209,
+        "TSNE-2": -1.2560621500015259,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -10.414859771728516,
+        "TSNE-2": -4.267279624938965,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": 4.207264423370361,
+        "TSNE-2": -0.4303287863731384,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -6.500650405883789,
+        "TSNE-2": -0.39666101336479187,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": 10.971335411071777,
+        "TSNE-2": -9.350324630737305,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -11.985610008239746,
+        "TSNE-2": 5.5672502517700195,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      },
+      {
+        "TSNE-1": -9.540695190429688,
+        "TSNE-2": 1.2286019325256348,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -12.537161827087402,
+        "TSNE-2": 4.611665725708008,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      },
+      {
+        "TSNE-1": -8.54105281829834,
+        "TSNE-2": 5.137353897094727,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      },
+      {
+        "TSNE-1": 1.5475705862045288,
+        "TSNE-2": -4.699497699737549,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": 1.573973536491394,
+        "TSNE-2": -0.2021990716457367,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -1.1250123977661133,
+        "TSNE-2": 12.48699951171875,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": 4.1775102615356445,
+        "TSNE-2": -3.9625906944274902,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -6.570967197418213,
+        "TSNE-2": 2.8836917877197266,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -2.5969302654266357,
+        "TSNE-2": -12.921100616455078,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": 6.879602909088135,
+        "TSNE-2": -0.9965238571166992,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": 7.636416435241699,
+        "TSNE-2": -10.411620140075684,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": 4.202080249786377,
+        "TSNE-2": 2.807034730911255,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -0.8442054986953735,
+        "TSNE-2": -9.561653137207031,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": 8.915716171264648,
+        "TSNE-2": 0.22978320717811584,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": 1.448030948638916,
+        "TSNE-2": 4.995192527770996,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 0.12027895450592041,
+        "TSNE-2": 4.458639144897461,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 1.9407674074172974,
+        "TSNE-2": -9.780346870422363,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": 3.194554567337036,
+        "TSNE-2": -7.059314250946045,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -9.598448753356934,
+        "TSNE-2": -8.542680740356445,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -4.003398418426514,
+        "TSNE-2": -8.970118522644043,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": 3.2424604892730713,
+        "TSNE-2": 7.072730541229248,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 5.08207893371582,
+        "TSNE-2": 1.6309728622436523,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -0.6675732135772705,
+        "TSNE-2": -6.772773742675781,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -1.249450445175171,
+        "TSNE-2": 3.089944839477539,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 10.683792114257812,
+        "TSNE-2": -3.466722249984741,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": 12.225439071655273,
+        "TSNE-2": -4.543368339538574,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -6.284332752227783,
+        "TSNE-2": 6.185478687286377,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      },
+      {
+        "TSNE-1": -0.924777090549469,
+        "TSNE-2": -0.29072684049606323,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -1.2017630338668823,
+        "TSNE-2": 4.551903247833252,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -5.899420261383057,
+        "TSNE-2": -4.7632060050964355,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -6.570967197418213,
+        "TSNE-2": 2.8836917877197266,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": 3.1861507892608643,
+        "TSNE-2": 2.7192633152008057,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 8.413774490356445,
+        "TSNE-2": -4.625673770904541,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -3.405303955078125,
+        "TSNE-2": 0.28106632828712463,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -2.5513598918914795,
+        "TSNE-2": 11.837418556213379,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": 3.417182683944702,
+        "TSNE-2": 10.160629272460938,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": -8.537654876708984,
+        "TSNE-2": 9.451315879821777,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      },
+      {
+        "TSNE-1": 3.0716466903686523,
+        "TSNE-2": -2.7604458332061768,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -13.148599624633789,
+        "TSNE-2": 2.9197916984558105,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      },
+      {
+        "TSNE-1": 0.9777876734733582,
+        "TSNE-2": -2.6305904388427734,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -13.340088844299316,
+        "TSNE-2": -1.5717504024505615,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -5.398597240447998,
+        "TSNE-2": -2.410564661026001,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": 13.248489379882812,
+        "TSNE-2": -5.6319403648376465,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -1.1580255031585693,
+        "TSNE-2": 6.387081146240234,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": -7.288112163543701,
+        "TSNE-2": -6.560704708099365,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -1.984479308128357,
+        "TSNE-2": 7.220426082611084,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": 0.9250717759132385,
+        "TSNE-2": -6.769073486328125,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -2.910738706588745,
+        "TSNE-2": -4.8472900390625,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -6.570967197418213,
+        "TSNE-2": 2.8836917877197266,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": 4.174741744995117,
+        "TSNE-2": 6.687121868133545,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -11.045299530029297,
+        "TSNE-2": -4.363483428955078,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": 3.6047754287719727,
+        "TSNE-2": -11.308756828308105,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -1.6835931539535522,
+        "TSNE-2": -4.386471748352051,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": 1.3715214729309082,
+        "TSNE-2": 6.6898512840271,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": -4.371458530426025,
+        "TSNE-2": -5.299894332885742,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": 5.822726249694824,
+        "TSNE-2": -5.884537696838379,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": 3.6047754287719727,
+        "TSNE-2": -11.308756828308105,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -12.521675109863281,
+        "TSNE-2": -1.262751817703247,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": -9.627277374267578,
+        "TSNE-2": 9.49262809753418,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      },
+      {
+        "TSNE-1": -3.0998926162719727,
+        "TSNE-2": 2.2720415592193604,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": 7.490637302398682,
+        "TSNE-2": -3.1746678352355957,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": 0.2740839123725891,
+        "TSNE-2": -2.5403249263763428,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": -5.71235990524292,
+        "TSNE-2": 10.974363327026367,
+        "cluster": 4,
+        "keywords": "interested, story, people, doc, news"
+      },
+      {
+        "TSNE-1": -9.598448753356934,
+        "TSNE-2": -8.542680740356445,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -10.537551879882812,
+        "TSNE-2": 8.793577194213867,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      },
+      {
+        "TSNE-1": 9.689554214477539,
+        "TSNE-2": -6.497262954711914,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -6.449998378753662,
+        "TSNE-2": -11.450528144836426,
+        "cluster": 3,
+        "keywords": "popularity, since, million, start, television"
+      },
+      {
+        "TSNE-1": -4.76685094833374,
+        "TSNE-2": 0.26893123984336853,
+        "cluster": 1,
+        "keywords": "content, narrative, show, niche, various"
+      },
+      {
+        "TSNE-1": 11.640907287597656,
+        "TSNE-2": -2.356828212738037,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": 1.3805543184280396,
+        "TSNE-2": 1.16060471534729,
+        "cluster": 5,
+        "keywords": "like, across, significant, often, audience"
+      },
+      {
+        "TSNE-1": 7.636416435241699,
+        "TSNE-2": -10.411620140075684,
+        "cluster": 0,
+        "keywords": "crime, true, popular, book, genre"
+      },
+      {
+        "TSNE-1": -13.585172653198242,
+        "TSNE-2": 6.228188514709473,
+        "cluster": 2,
+        "keywords": "passage, one, definitely, podcasts, text"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_77",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-7058 - are true crime narratives a popular content writing niche"
+  }
+}

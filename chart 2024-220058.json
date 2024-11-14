@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d37370434847bb71a5581a04ed592a7a"
+  },
+  "datasets": {
+    "data-d37370434847bb71a5581a04ed592a7a": [
+      {
+        "TSNE-1": -1.1707394123077393,
+        "TSNE-2": -1.233151912689209,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": -6.544965744018555,
+        "TSNE-2": -1.9363195896148682,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 3.2699971199035645,
+        "TSNE-2": -4.950416088104248,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": 6.286176681518555,
+        "TSNE-2": 6.757875442504883,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": 3.2699971199035645,
+        "TSNE-2": -4.950416088104248,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": 6.533517360687256,
+        "TSNE-2": -0.21666406095027924,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 3.1214654445648193,
+        "TSNE-2": -6.629322052001953,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": -3.887326717376709,
+        "TSNE-2": -0.970790445804596,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": -5.4101786613464355,
+        "TSNE-2": -10.790108680725098,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 9.881711959838867,
+        "TSNE-2": -0.24757955968379974,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -2.003321886062622,
+        "TSNE-2": -5.537549018859863,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 7.763966083526611,
+        "TSNE-2": 12.25627326965332,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -6.996188163757324,
+        "TSNE-2": 1.0561634302139282,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 0.3866197168827057,
+        "TSNE-2": 5.3390421867370605,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": 9.71924114227295,
+        "TSNE-2": 3.0671138763427734,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -4.6493120193481445,
+        "TSNE-2": 5.83683443069458,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": -0.6580443978309631,
+        "TSNE-2": 11.512849807739258,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": -3.887326717376709,
+        "TSNE-2": -0.970790445804596,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": -9.587233543395996,
+        "TSNE-2": 0.023434504866600037,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 3.2410643100738525,
+        "TSNE-2": 4.762014389038086,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 10.48324203491211,
+        "TSNE-2": -6.965803146362305,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": 0.38807016611099243,
+        "TSNE-2": -0.6447451114654541,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 11.739042282104492,
+        "TSNE-2": -6.2527947425842285,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": -2.506286144256592,
+        "TSNE-2": 4.425434589385986,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": -1.8581416606903076,
+        "TSNE-2": -2.587322473526001,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": -4.965760231018066,
+        "TSNE-2": 0.21471351385116577,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 4.787097454071045,
+        "TSNE-2": 7.4562153816223145,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -0.9893439412117004,
+        "TSNE-2": -3.667762517929077,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 11.773934364318848,
+        "TSNE-2": 1.0987235307693481,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": 6.676942348480225,
+        "TSNE-2": 0.5374683737754822,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": -4.516486644744873,
+        "TSNE-2": -9.76722526550293,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 12.767571449279785,
+        "TSNE-2": 6.517914295196533,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -6.102199077606201,
+        "TSNE-2": 0.9455547332763672,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": -5.0738139152526855,
+        "TSNE-2": 2.839740037918091,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 5.302656650543213,
+        "TSNE-2": -7.405937671661377,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": 5.898176193237305,
+        "TSNE-2": -4.316648483276367,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": 1.7948087453842163,
+        "TSNE-2": 3.012824058532715,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": -1.8249106407165527,
+        "TSNE-2": -7.695596218109131,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": -3.2312140464782715,
+        "TSNE-2": 3.1142704486846924,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": -7.540307521820068,
+        "TSNE-2": 5.876760482788086,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": -1.0443923473358154,
+        "TSNE-2": -10.920961380004883,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 4.712256908416748,
+        "TSNE-2": -2.2257518768310547,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": -7.258724212646484,
+        "TSNE-2": -0.21099287271499634,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 0.3919202387332916,
+        "TSNE-2": 4.624398708343506,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": 0.5537702441215515,
+        "TSNE-2": -7.427031517028809,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": -12.436163902282715,
+        "TSNE-2": -5.784107685089111,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 9.943181037902832,
+        "TSNE-2": 7.078024864196777,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": 9.136449813842773,
+        "TSNE-2": 1.1340608596801758,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -2.003321886062622,
+        "TSNE-2": -5.537549018859863,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 2.9350478649139404,
+        "TSNE-2": -0.20218440890312195,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 3.90765118598938,
+        "TSNE-2": -2.540522575378418,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 10.202251434326172,
+        "TSNE-2": 1.220754623413086,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -6.583584308624268,
+        "TSNE-2": 2.211249828338623,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": -12.436163902282715,
+        "TSNE-2": -5.784107685089111,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": -4.380400657653809,
+        "TSNE-2": -2.9891109466552734,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 12.4671049118042,
+        "TSNE-2": -4.691606521606445,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": -9.859723091125488,
+        "TSNE-2": -1.3742390871047974,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 7.4650559425354,
+        "TSNE-2": 5.501357555389404,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": 0.4728183448314667,
+        "TSNE-2": -4.882514953613281,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 11.111101150512695,
+        "TSNE-2": -4.992375373840332,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": 6.078912258148193,
+        "TSNE-2": -9.86533260345459,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": 2.003329038619995,
+        "TSNE-2": -3.3936562538146973,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": -13.168654441833496,
+        "TSNE-2": -0.315640389919281,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 12.767571449279785,
+        "TSNE-2": 6.517914295196533,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -1.9055495262145996,
+        "TSNE-2": 0.4166627526283264,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": -3.8652265071868896,
+        "TSNE-2": 1.4900014400482178,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 3.545464277267456,
+        "TSNE-2": 1.6949443817138672,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": -1.4813143014907837,
+        "TSNE-2": 2.223839044570923,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 1.2981486320495605,
+        "TSNE-2": -2.0759177207946777,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 10.076761245727539,
+        "TSNE-2": -6.390275001525879,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": -3.0223770141601562,
+        "TSNE-2": 7.888562202453613,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": -0.6580443978309631,
+        "TSNE-2": 11.512849807739258,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": -8.095760345458984,
+        "TSNE-2": -8.168413162231445,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 2.4079558849334717,
+        "TSNE-2": -9.739337921142578,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": 2.636817455291748,
+        "TSNE-2": 1.472625732421875,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 0.11534687876701355,
+        "TSNE-2": 7.784795761108398,
+        "cluster": 5,
+        "keywords": "strain, inadequacy, rate, caregiver, developmental"
+      },
+      {
+        "TSNE-1": -6.1706647872924805,
+        "TSNE-2": -4.648172378540039,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": -8.095760345458984,
+        "TSNE-2": -8.168413162231445,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": -7.4974822998046875,
+        "TSNE-2": -5.118025302886963,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": 9.84995174407959,
+        "TSNE-2": -1.1359083652496338,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": -8.274736404418945,
+        "TSNE-2": 2.6715846061706543,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 7.763966083526611,
+        "TSNE-2": 12.25627326965332,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": 6.078912258148193,
+        "TSNE-2": -9.86533260345459,
+        "cluster": 0,
+        "keywords": "premature, text, child, risk, factor"
+      },
+      {
+        "TSNE-1": -3.9612040519714355,
+        "TSNE-2": -6.058128356933594,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": -7.540307521820068,
+        "TSNE-2": 5.876760482788086,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": 12.05097770690918,
+        "TSNE-2": -0.7409369945526123,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": 9.380339622497559,
+        "TSNE-2": 12.059867858886719,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": -4.835191249847412,
+        "TSNE-2": -7.3614654541015625,
+        "cluster": 2,
+        "keywords": "higher, increase, low, parent, likely"
+      },
+      {
+        "TSNE-1": -5.432100296020508,
+        "TSNE-2": 4.376533031463623,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": -11.482933044433594,
+        "TSNE-2": 3.272094488143921,
+        "cluster": 4,
+        "keywords": "infant, stress, may, parental, family"
+      },
+      {
+        "TSNE-1": -0.24729907512664795,
+        "TSNE-2": 1.2235015630722046,
+        "cluster": 1,
+        "keywords": "baby, abuse, care, due, health"
+      },
+      {
+        "TSNE-1": 12.767571449279785,
+        "TSNE-2": 6.517914295196533,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      },
+      {
+        "TSNE-1": 6.027314186096191,
+        "TSNE-2": 7.605568885803223,
+        "cluster": 3,
+        "keywords": "explicitly, born, type, alcohol, birth"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_31",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-220058 - why is being born premature a risk factor for child abuse"
+  }
+}

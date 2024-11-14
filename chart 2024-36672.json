@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d86d1a7c7a375bdf5dc099617f27706e"
+  },
+  "datasets": {
+    "data-d86d1a7c7a375bdf5dc099617f27706e": [
+      {
+        "TSNE-1": 8.741277694702148,
+        "TSNE-2": 4.901546001434326,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 3.42348575592041,
+        "TSNE-2": -2.548889636993408,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": -2.5755014419555664,
+        "TSNE-2": 2.0589194297790527,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": -7.731152534484863,
+        "TSNE-2": -6.116079330444336,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": -2.5755014419555664,
+        "TSNE-2": 2.0589194297790527,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": -21.933862686157227,
+        "TSNE-2": -9.007394790649414,
+        "cluster": 5,
+        "keywords": "nan, york, facilitate, explore, expression"
+      },
+      {
+        "TSNE-1": 0.41092321276664734,
+        "TSNE-2": -1.4915603399276733,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 3.8786425590515137,
+        "TSNE-2": 0.13632261753082275,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 4.425868034362793,
+        "TSNE-2": -4.229254245758057,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": -3.9955222606658936,
+        "TSNE-2": 8.554512023925781,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 6.089177131652832,
+        "TSNE-2": -5.4347825050354,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": -7.176768779754639,
+        "TSNE-2": 4.913686752319336,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 2.3914034366607666,
+        "TSNE-2": 1.670549750328064,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 0.018683556467294693,
+        "TSNE-2": 6.006837844848633,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": -5.193357467651367,
+        "TSNE-2": -7.480882167816162,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": 6.234986305236816,
+        "TSNE-2": 0.8078861832618713,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 0.8995398283004761,
+        "TSNE-2": -10.99028205871582,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 3.8786425590515137,
+        "TSNE-2": 0.13632261753082275,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 0.17337694764137268,
+        "TSNE-2": 1.7208950519561768,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -10.86192798614502,
+        "TSNE-2": 3.564268112182617,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": -6.102039337158203,
+        "TSNE-2": -2.965487480163574,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": 2.043836832046509,
+        "TSNE-2": 4.695347309112549,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": -7.395097255706787,
+        "TSNE-2": -1.566800594329834,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 3.2086610794067383,
+        "TSNE-2": 6.168116569519043,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 1.7808635234832764,
+        "TSNE-2": -1.0051977634429932,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 3.566758871078491,
+        "TSNE-2": -1.1083877086639404,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -7.621416091918945,
+        "TSNE-2": -6.634995937347412,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": 8.97924518585205,
+        "TSNE-2": -3.578655481338501,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": -5.175149440765381,
+        "TSNE-2": -8.717866897583008,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": 2.275020122528076,
+        "TSNE-2": -8.062437057495117,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 0.04659557342529297,
+        "TSNE-2": -6.885191440582275,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": -9.042491912841797,
+        "TSNE-2": 1.9535040855407715,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 1.384713888168335,
+        "TSNE-2": 0.41998162865638733,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 5.324831008911133,
+        "TSNE-2": -0.6121075749397278,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 0.09671460092067719,
+        "TSNE-2": 9.647481918334961,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 1.9734572172164917,
+        "TSNE-2": 8.682976722717285,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 10.040261268615723,
+        "TSNE-2": 7.975305080413818,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -0.014594674110412598,
+        "TSNE-2": -4.241258144378662,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 8.75633716583252,
+        "TSNE-2": -1.7683347463607788,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 6.040372848510742,
+        "TSNE-2": 5.201122283935547,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 2.4331252574920654,
+        "TSNE-2": -3.5311551094055176,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 4.636867046356201,
+        "TSNE-2": 3.077035427093506,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 1.870015025138855,
+        "TSNE-2": 1.0337071418762207,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 8.976932525634766,
+        "TSNE-2": 1.2355053424835205,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 2.200401544570923,
+        "TSNE-2": 9.400253295898438,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": -6.6718573570251465,
+        "TSNE-2": 3.0545613765716553,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": -10.227957725524902,
+        "TSNE-2": 3.061148166656494,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": -5.278859615325928,
+        "TSNE-2": 8.146809577941895,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 6.089177131652832,
+        "TSNE-2": -5.4347825050354,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 1.3132622241973877,
+        "TSNE-2": 9.192192077636719,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": -2.5950682163238525,
+        "TSNE-2": -2.4026873111724854,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": -4.329410552978516,
+        "TSNE-2": 8.178223609924316,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 2.376862049102783,
+        "TSNE-2": 0.08086715638637543,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -6.977375507354736,
+        "TSNE-2": 4.698492527008057,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 5.2490315437316895,
+        "TSNE-2": 1.2371755838394165,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -3.3576297760009766,
+        "TSNE-2": 5.479772090911865,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 7.03932523727417,
+        "TSNE-2": -0.6121341586112976,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -4.082129001617432,
+        "TSNE-2": -8.748769760131836,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": -0.34001070261001587,
+        "TSNE-2": -0.002762068994343281,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -4.12554931640625,
+        "TSNE-2": 4.771110534667969,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 5.055357933044434,
+        "TSNE-2": -9.347185134887695,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": -2.552772283554077,
+        "TSNE-2": -3.3467626571655273,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": -1.1380972862243652,
+        "TSNE-2": -2.65242600440979,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": 3.5320067405700684,
+        "TSNE-2": 12.064644813537598,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 9.820094108581543,
+        "TSNE-2": 7.131038188934326,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 9.19226360321045,
+        "TSNE-2": 5.721996307373047,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 9.32075023651123,
+        "TSNE-2": 9.530714988708496,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 6.816572666168213,
+        "TSNE-2": 3.1984565258026123,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -3.895545482635498,
+        "TSNE-2": -4.2881269454956055,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": -6.060335636138916,
+        "TSNE-2": -6.706210613250732,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": 1.9039965867996216,
+        "TSNE-2": -2.00954008102417,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 0.8995398283004761,
+        "TSNE-2": -10.99028205871582,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": -0.7869983315467834,
+        "TSNE-2": 4.250232219696045,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 5.575332164764404,
+        "TSNE-2": -2.467625379562378,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 9.309094429016113,
+        "TSNE-2": 9.569001197814941,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": 2.1603095531463623,
+        "TSNE-2": -5.191608428955078,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 1.904944896697998,
+        "TSNE-2": 2.895671844482422,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -0.7869983315467834,
+        "TSNE-2": 4.250232219696045,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": -2.552772283554077,
+        "TSNE-2": -3.3467626571655273,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": -1.7233152389526367,
+        "TSNE-2": 5.805276870727539,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": 2.6098697185516357,
+        "TSNE-2": 6.070460319519043,
+        "cluster": 0,
+        "keywords": "war, digital, development, new, impact"
+      },
+      {
+        "TSNE-1": -7.8928327560424805,
+        "TSNE-2": -0.7663038969039917,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 5.055357933044434,
+        "TSNE-2": -9.347185134887695,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 0.6628528833389282,
+        "TSNE-2": -6.4784932136535645,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      },
+      {
+        "TSNE-1": 6.040372848510742,
+        "TSNE-2": 5.201122283935547,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -5.993656635284424,
+        "TSNE-2": -8.324030876159668,
+        "cluster": 1,
+        "keywords": "mention, context, technology, discusses, material"
+      },
+      {
+        "TSNE-1": -4.3160481452941895,
+        "TSNE-2": -1.038883924484253,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": -11.26412582397461,
+        "TSNE-2": 1.2579529285430908,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 3.9965217113494873,
+        "TSNE-2": 1.89072847366333,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -11.462336540222168,
+        "TSNE-2": 0.7182389497756958,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 6.218727111816406,
+        "TSNE-2": 6.884227275848389,
+        "cluster": 3,
+        "keywords": "technological, construction, advancement, design, like"
+      },
+      {
+        "TSNE-1": -9.042491912841797,
+        "TSNE-2": 1.9535040855407715,
+        "cluster": 4,
+        "keywords": "affected, economy, military, also, world"
+      },
+      {
+        "TSNE-1": 7.955322265625,
+        "TSNE-2": -7.73304557800293,
+        "cluster": 2,
+        "keywords": "postwar, architecture, building, use, modern"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_102",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-36672 - how did the archetecture affect the technonlogy after the war"
+  }
+}

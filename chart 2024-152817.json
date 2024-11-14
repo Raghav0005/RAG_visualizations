@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-631e50f31de1228ae0f386aa28c9857f"
+  },
+  "datasets": {
+    "data-631e50f31de1228ae0f386aa28c9857f": [
+      {
+        "TSNE-1": 4.58802604675293,
+        "TSNE-2": -1.1400883197784424,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 7.6583571434021,
+        "TSNE-2": 2.6068053245544434,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": -0.0026037991046905518,
+        "TSNE-2": -3.9637718200683594,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": -3.497037887573242,
+        "TSNE-2": 2.1721091270446777,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -0.0026037991046905518,
+        "TSNE-2": -3.9637718200683594,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 14.514815330505371,
+        "TSNE-2": 5.7560529708862305,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": 11.54832649230957,
+        "TSNE-2": -4.373694896697998,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": 0.8208327293395996,
+        "TSNE-2": 0.8637482523918152,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": -13.502701759338379,
+        "TSNE-2": 2.276273727416992,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": -6.795334339141846,
+        "TSNE-2": 11.000041007995605,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -2.1387481689453125,
+        "TSNE-2": 7.231837272644043,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -12.176077842712402,
+        "TSNE-2": -5.296647548675537,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 1.19233238697052,
+        "TSNE-2": 3.758195400238037,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 4.670774936676025,
+        "TSNE-2": 2.800896406173706,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": -17.081501007080078,
+        "TSNE-2": -1.1168098449707031,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": -8.842120170593262,
+        "TSNE-2": 4.09519624710083,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -5.651494979858398,
+        "TSNE-2": -12.680976867675781,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 0.8208327293395996,
+        "TSNE-2": 0.8637482523918152,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 0.8606441020965576,
+        "TSNE-2": -6.054348468780518,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": -2.305036783218384,
+        "TSNE-2": 10.01374340057373,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 4.368293762207031,
+        "TSNE-2": 12.698868751525879,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": 4.849656105041504,
+        "TSNE-2": 5.581643581390381,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": -7.259272575378418,
+        "TSNE-2": -0.21601542830467224,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 5.868274211883545,
+        "TSNE-2": 0.49278518557548523,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": -1.0771774053573608,
+        "TSNE-2": 5.641273021697998,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 2.941182851791382,
+        "TSNE-2": 0.8151485323905945,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": -4.9502763748168945,
+        "TSNE-2": 1.8525335788726807,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 12.547931671142578,
+        "TSNE-2": -5.254338264465332,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": -17.081501007080078,
+        "TSNE-2": -1.1168098449707031,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 1.715335726737976,
+        "TSNE-2": 9.217166900634766,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": -12.169303894042969,
+        "TSNE-2": 0.08490598946809769,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 7.777904510498047,
+        "TSNE-2": -10.373326301574707,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": 2.4529829025268555,
+        "TSNE-2": 3.1876537799835205,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": -3.3292784690856934,
+        "TSNE-2": -4.3476948738098145,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": -9.906582832336426,
+        "TSNE-2": -6.961947917938232,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 12.302800178527832,
+        "TSNE-2": 3.1436567306518555,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": 10.888976097106934,
+        "TSNE-2": 3.57184100151062,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": -9.89778995513916,
+        "TSNE-2": 5.736766338348389,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -6.52233362197876,
+        "TSNE-2": 7.260360240936279,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 3.9565467834472656,
+        "TSNE-2": 7.788420677185059,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": 7.3635759353637695,
+        "TSNE-2": -2.1667869091033936,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": -1.8876339197158813,
+        "TSNE-2": 11.562213897705078,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 3.0576717853546143,
+        "TSNE-2": 4.438542366027832,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 2.4008383750915527,
+        "TSNE-2": -3.3305087089538574,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 11.8211669921875,
+        "TSNE-2": 1.7078369855880737,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": -10.763242721557617,
+        "TSNE-2": -3.685234308242798,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": -1.4597108364105225,
+        "TSNE-2": 13.199799537658691,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": 8.004255294799805,
+        "TSNE-2": 10.592551231384277,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": -2.1387481689453125,
+        "TSNE-2": 7.231837272644043,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 3.076849937438965,
+        "TSNE-2": -1.1962941884994507,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 12.699774742126465,
+        "TSNE-2": -3.3967835903167725,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": -7.643064498901367,
+        "TSNE-2": 10.82204818725586,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 0.6831621527671814,
+        "TSNE-2": 3.0732169151306152,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": -10.763242721557617,
+        "TSNE-2": -3.685234308242798,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": -1.891179084777832,
+        "TSNE-2": -3.8835582733154297,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 6.758880615234375,
+        "TSNE-2": 9.669761657714844,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": -0.734386682510376,
+        "TSNE-2": -8.792431831359863,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": 10.174782752990723,
+        "TSNE-2": 12.536824226379395,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": -1.6643750667572021,
+        "TSNE-2": 1.5748518705368042,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 6.521780490875244,
+        "TSNE-2": 10.924982070922852,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": -6.6451616287231445,
+        "TSNE-2": -3.893578052520752,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 4.768561363220215,
+        "TSNE-2": -6.213399887084961,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": -3.7219460010528564,
+        "TSNE-2": 5.513477802276611,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -5.25140380859375,
+        "TSNE-2": -6.961236000061035,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 10.236947059631348,
+        "TSNE-2": 1.6372495889663696,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": 0.4783380627632141,
+        "TSNE-2": -0.9461512565612793,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 11.061511993408203,
+        "TSNE-2": 0.12823809683322906,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": 7.663895606994629,
+        "TSNE-2": 6.009284019470215,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": -8.343094825744629,
+        "TSNE-2": 2.021885633468628,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -5.09968900680542,
+        "TSNE-2": -0.5170562267303467,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 0.27805954217910767,
+        "TSNE-2": -11.396843910217285,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": -5.651494979858398,
+        "TSNE-2": -12.680976867675781,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 2.690483808517456,
+        "TSNE-2": -9.35922908782959,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": -1.7660048007965088,
+        "TSNE-2": -1.1753021478652954,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": 9.73849105834961,
+        "TSNE-2": 0.13327375054359436,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": 6.6223344802856445,
+        "TSNE-2": -3.603276491165161,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": 14.533576965332031,
+        "TSNE-2": -2.9979333877563477,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": 2.690483808517456,
+        "TSNE-2": -9.35922908782959,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": -3.686053514480591,
+        "TSNE-2": 4.042096138000488,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -8.711348533630371,
+        "TSNE-2": 12.096083641052246,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 5.895336151123047,
+        "TSNE-2": 1.5377209186553955,
+        "cluster": 5,
+        "keywords": "like, still, factory, condition, secure"
+      },
+      {
+        "TSNE-1": -12.176077842712402,
+        "TSNE-2": -5.296647548675537,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": -6.6451616287231445,
+        "TSNE-2": -3.893578052520752,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": 1.5028958320617676,
+        "TSNE-2": 6.271510124206543,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": 3.9565467834472656,
+        "TSNE-2": 7.788420677185059,
+        "cluster": 1,
+        "keywords": "properly, data, waste, personal, accept"
+      },
+      {
+        "TSNE-1": 8.190014839172363,
+        "TSNE-2": -6.74540901184082,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": 15.656698226928711,
+        "TSNE-2": 0.15595640242099762,
+        "cluster": 2,
+        "keywords": "center, individual, battery, school, additionally"
+      },
+      {
+        "TSNE-1": -7.256252765655518,
+        "TSNE-2": 15.384840965270996,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": -2.4988625049591064,
+        "TSNE-2": -6.6365966796875,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": -13.741726875305176,
+        "TSNE-2": 3.0551888942718506,
+        "cluster": 0,
+        "keywords": "electronics, step, electronic, dispose, device"
+      },
+      {
+        "TSNE-1": -6.101472854614258,
+        "TSNE-2": 4.363621711730957,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      },
+      {
+        "TSNE-1": 7.777904510498047,
+        "TSNE-2": -10.373326301574707,
+        "cluster": 3,
+        "keywords": "local, also, program, nonprofit, facility"
+      },
+      {
+        "TSNE-1": -4.3117499351501465,
+        "TSNE-2": 0.9367290735244751,
+        "cluster": 4,
+        "keywords": "sell, donate, service, retailer, charity"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_207",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-152817 - what steps should individuals take to dispose of their electronic devices?"
+  }
+}

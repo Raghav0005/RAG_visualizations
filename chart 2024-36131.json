@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-0603828fb8afea544e79639d30b0bb4a"
+  },
+  "datasets": {
+    "data-0603828fb8afea544e79639d30b0bb4a": [
+      {
+        "TSNE-1": 2.828798532485962,
+        "TSNE-2": -0.5730212330818176,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -1.2675237655639648,
+        "TSNE-2": 1.4967151880264282,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -0.6263532638549805,
+        "TSNE-2": 6.18474817276001,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -0.6263532638549805,
+        "TSNE-2": 6.18474817276001,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": 5.652469635009766,
+        "TSNE-2": 1.71536386013031,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -14.619438171386719,
+        "TSNE-2": 6.593879699707031,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -0.9170554876327515,
+        "TSNE-2": -1.6962801218032837,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": 3.1163644790649414,
+        "TSNE-2": 11.681234359741211,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -6.382035732269287,
+        "TSNE-2": 11.208905220031738,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": 14.28937816619873,
+        "TSNE-2": -7.333051681518555,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": -3.0686936378479004,
+        "TSNE-2": 7.414917469024658,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -7.395902156829834,
+        "TSNE-2": 1.1762046813964844,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": 6.454059600830078,
+        "TSNE-2": -0.2403017282485962,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -1.2097468376159668,
+        "TSNE-2": -7.309340000152588,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": 5.498443126678467,
+        "TSNE-2": -18.425460815429688,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": -0.9170554876327515,
+        "TSNE-2": -1.6962801218032837,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -3.737537384033203,
+        "TSNE-2": -9.208407402038574,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": -3.947465181350708,
+        "TSNE-2": -19.16646385192871,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -8.755475044250488,
+        "TSNE-2": 8.622437477111816,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": 9.702980041503906,
+        "TSNE-2": 14.41822338104248,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -7.065195560455322,
+        "TSNE-2": -7.228095531463623,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -9.302362442016602,
+        "TSNE-2": 15.030460357666016,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -1.325730562210083,
+        "TSNE-2": -4.068245887756348,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -13.695296287536621,
+        "TSNE-2": 5.423464775085449,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": 13.275336265563965,
+        "TSNE-2": 1.1084603071212769,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 4.902432918548584,
+        "TSNE-2": 10.553390502929688,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -17.944149017333984,
+        "TSNE-2": -1.819256067276001,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -8.94320011138916,
+        "TSNE-2": 1.303646206855774,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": 0.1006476879119873,
+        "TSNE-2": -9.907710075378418,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": 15.865015983581543,
+        "TSNE-2": -3.824554204940796,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 3.2845749855041504,
+        "TSNE-2": -10.517440795898438,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": 3.564269542694092,
+        "TSNE-2": -6.104795932769775,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 3.1182479858398438,
+        "TSNE-2": 7.646171569824219,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": 9.739919662475586,
+        "TSNE-2": -5.596791744232178,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": -3.994016408920288,
+        "TSNE-2": -0.6491113901138306,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -14.980454444885254,
+        "TSNE-2": 11.176430702209473,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": 7.544584274291992,
+        "TSNE-2": 7.343733310699463,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -6.7133612632751465,
+        "TSNE-2": -1.693491816520691,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": 1.322837471961975,
+        "TSNE-2": -3.355320692062378,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": 5.9195475578308105,
+        "TSNE-2": -7.137483596801758,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 3.1165435314178467,
+        "TSNE-2": 4.864813804626465,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -15.03477954864502,
+        "TSNE-2": -0.19349271059036255,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -8.803873062133789,
+        "TSNE-2": -11.660115242004395,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": 14.28937816619873,
+        "TSNE-2": -7.333051681518555,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 4.951385974884033,
+        "TSNE-2": -8.897272109985352,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": -0.7089366316795349,
+        "TSNE-2": -13.398860931396484,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -8.675333023071289,
+        "TSNE-2": -1.0140925645828247,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -15.929585456848145,
+        "TSNE-2": -4.742640495300293,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -4.424330234527588,
+        "TSNE-2": -7.547494888305664,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -10.290289878845215,
+        "TSNE-2": -7.449466228485107,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -11.383353233337402,
+        "TSNE-2": -0.8919467329978943,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -8.803873062133789,
+        "TSNE-2": -11.660115242004395,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": 13.722163200378418,
+        "TSNE-2": 10.29893970489502,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -1.8798681497573853,
+        "TSNE-2": -14.708617210388184,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": -11.095404624938965,
+        "TSNE-2": 5.364959716796875,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -14.687315940856934,
+        "TSNE-2": -5.231661319732666,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": 4.5202178955078125,
+        "TSNE-2": -4.30045223236084,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 7.538934230804443,
+        "TSNE-2": -3.6835289001464844,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 7.9684367179870605,
+        "TSNE-2": -10.188258171081543,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 11.050719261169434,
+        "TSNE-2": -3.837972640991211,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 8.961894035339355,
+        "TSNE-2": 3.910780429840088,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": 9.277292251586914,
+        "TSNE-2": 5.254151344299316,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": 4.193870544433594,
+        "TSNE-2": -18.199939727783203,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": -8.634734153747559,
+        "TSNE-2": -18.06181526184082,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": -8.9328031539917,
+        "TSNE-2": -4.109501361846924,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": 6.380547523498535,
+        "TSNE-2": -11.24866008758545,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": -6.247085094451904,
+        "TSNE-2": 3.798189640045166,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": 0.9972779750823975,
+        "TSNE-2": 2.149991512298584,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -8.634734153747559,
+        "TSNE-2": -18.06181526184082,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": 11.317157745361328,
+        "TSNE-2": -13.221641540527344,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": -8.803873062133789,
+        "TSNE-2": -11.660115242004395,
+        "cluster": 3,
+        "keywords": "massacre, rebellion, first, many, across"
+      },
+      {
+        "TSNE-1": -12.756221771240234,
+        "TSNE-2": -10.813681602478027,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": 4.582540035247803,
+        "TSNE-2": 4.246200084686279,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": 14.304792404174805,
+        "TSNE-2": 9.011497497558594,
+        "cluster": 5,
+        "keywords": "state, lenape, four, date, schoolmaster"
+      },
+      {
+        "TSNE-1": -3.657512903213501,
+        "TSNE-2": 2.1761159896850586,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -3.994016408920288,
+        "TSNE-2": -0.6491113901138306,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": 14.555879592895508,
+        "TSNE-2": 1.6171725988388062,
+        "cluster": 0,
+        "keywords": "school, mass, shooter, access, medium"
+      },
+      {
+        "TSNE-1": 1.426161527633667,
+        "TSNE-2": 18.773269653320312,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": 0.41382327675819397,
+        "TSNE-2": -7.307570934295654,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -5.372225761413574,
+        "TSNE-2": 6.572350978851318,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      },
+      {
+        "TSNE-1": -3.9813578128814697,
+        "TSNE-2": -4.130340099334717,
+        "cluster": 1,
+        "keywords": "incident, student, early, significant, united"
+      },
+      {
+        "TSNE-1": -17.944149017333984,
+        "TSNE-2": -1.819256067276001,
+        "cluster": 4,
+        "keywords": "teacher, near, another, american, foster"
+      },
+      {
+        "TSNE-1": -3.6553268432617188,
+        "TSNE-2": 14.803776741027832,
+        "cluster": 2,
+        "keywords": "case, men, shot, three, ten"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_128",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-36131 - how did mass school shootings start"
+  }
+}

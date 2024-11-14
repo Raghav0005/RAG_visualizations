@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-63e0e39ed856457f5e779fc74ca83b0b"
+  },
+  "datasets": {
+    "data-63e0e39ed856457f5e779fc74ca83b0b": [
+      {
+        "TSNE-1": -3.6172051429748535,
+        "TSNE-2": 1.9154715538024902,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 2.9089884757995605,
+        "TSNE-2": -6.402748107910156,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -11.782086372375488,
+        "TSNE-2": 0.6476395726203918,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 3.29207444190979,
+        "TSNE-2": 4.725505828857422,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": -11.764704704284668,
+        "TSNE-2": 0.6509711742401123,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": -6.445486545562744,
+        "TSNE-2": -9.661986351013184,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": -8.308870315551758,
+        "TSNE-2": -0.5684378743171692,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 3.0857222080230713,
+        "TSNE-2": -9.54747486114502,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 10.115574836730957,
+        "TSNE-2": -2.63897967338562,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": -3.246788501739502,
+        "TSNE-2": 8.690691947937012,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": -6.786290168762207,
+        "TSNE-2": 2.373060464859009,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 1.8966034650802612,
+        "TSNE-2": 10.654709815979004,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": 0.24580465257167816,
+        "TSNE-2": -3.18597674369812,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 4.38878059387207,
+        "TSNE-2": -1.910159707069397,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": -3.1391255855560303,
+        "TSNE-2": 5.3923726081848145,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": -1.417698860168457,
+        "TSNE-2": -1.8209480047225952,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -7.940492630004883,
+        "TSNE-2": -4.320647239685059,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 1.728653073310852,
+        "TSNE-2": -5.129155158996582,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -3.42581844329834,
+        "TSNE-2": -0.22621840238571167,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 7.9543137550354,
+        "TSNE-2": 2.698270082473755,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": 2.778865098953247,
+        "TSNE-2": 8.09854793548584,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": 0.06132303178310394,
+        "TSNE-2": 4.829599380493164,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 2.691376209259033,
+        "TSNE-2": 8.07968807220459,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": 4.848579406738281,
+        "TSNE-2": -4.119129180908203,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": 5.671101093292236,
+        "TSNE-2": -0.5111144781112671,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": 1.8551758527755737,
+        "TSNE-2": -4.0905351638793945,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -4.2658586502075195,
+        "TSNE-2": -6.248498439788818,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": -8.540074348449707,
+        "TSNE-2": -0.5539103150367737,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": -3.695768356323242,
+        "TSNE-2": 7.517334938049316,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": -4.81210994720459,
+        "TSNE-2": -9.64353084564209,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 0.10975485295057297,
+        "TSNE-2": 1.3537230491638184,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 7.845428943634033,
+        "TSNE-2": 5.315786838531494,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": 0.2529982924461365,
+        "TSNE-2": -4.498471260070801,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -2.427563190460205,
+        "TSNE-2": -4.14802885055542,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -7.346803665161133,
+        "TSNE-2": -5.904199123382568,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 2.9459545612335205,
+        "TSNE-2": 1.9519625902175903,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": 0.669943630695343,
+        "TSNE-2": 4.280192852020264,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 8.400606155395508,
+        "TSNE-2": -4.0907301902771,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": 2.8840858936309814,
+        "TSNE-2": -3.3827977180480957,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 1.3335062265396118,
+        "TSNE-2": -1.6196448802947998,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 3.0859174728393555,
+        "TSNE-2": -9.120448112487793,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -5.011894226074219,
+        "TSNE-2": -3.08939266204834,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": -0.9376040101051331,
+        "TSNE-2": -4.148494243621826,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 2.9365828037261963,
+        "TSNE-2": -0.2804259657859802,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 2.1764564514160156,
+        "TSNE-2": 2.1697628498077393,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": -2.857905387878418,
+        "TSNE-2": -10.838979721069336,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 7.244528293609619,
+        "TSNE-2": 3.761420726776123,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": -0.8323668241500854,
+        "TSNE-2": 10.261893272399902,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": -6.786290168762207,
+        "TSNE-2": 2.373060464859009,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 1.0603352785110474,
+        "TSNE-2": 3.1128273010253906,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": -6.332981586456299,
+        "TSNE-2": 4.365238666534424,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": -3.623572587966919,
+        "TSNE-2": 8.367249488830566,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": -0.03672633320093155,
+        "TSNE-2": -2.783592462539673,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -1.901009440422058,
+        "TSNE-2": 6.956625938415527,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": -2.922649621963501,
+        "TSNE-2": -3.0799388885498047,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -5.221219539642334,
+        "TSNE-2": 10.568862915039062,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": 0.4484310746192932,
+        "TSNE-2": -7.172973155975342,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 0.3154250979423523,
+        "TSNE-2": 8.590825080871582,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": -0.26175686717033386,
+        "TSNE-2": -0.540608823299408,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -2.1512629985809326,
+        "TSNE-2": 4.010932445526123,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 7.973736763000488,
+        "TSNE-2": -8.132867813110352,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": -4.921239852905273,
+        "TSNE-2": 5.10249662399292,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": -3.8300726413726807,
+        "TSNE-2": 6.556704521179199,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 5.031203269958496,
+        "TSNE-2": 1.8796206712722778,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": 6.008452892303467,
+        "TSNE-2": 7.20511531829834,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": -4.094014644622803,
+        "TSNE-2": 3.1103577613830566,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 7.145949363708496,
+        "TSNE-2": 7.058877944946289,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": -5.282308578491211,
+        "TSNE-2": 0.0907544493675232,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": -1.6049174070358276,
+        "TSNE-2": -0.37284594774246216,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -4.452476501464844,
+        "TSNE-2": -6.31355619430542,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": -2.328911542892456,
+        "TSNE-2": -0.8619656562805176,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -7.940492630004883,
+        "TSNE-2": -4.320647239685059,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 8.494423866271973,
+        "TSNE-2": -2.6842868328094482,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": -0.6252701282501221,
+        "TSNE-2": 3.019773483276367,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 0.6440845727920532,
+        "TSNE-2": 6.371700763702393,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": 6.134374618530273,
+        "TSNE-2": -6.063868999481201,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": -4.565672397613525,
+        "TSNE-2": -1.194059133529663,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 8.494423866271973,
+        "TSNE-2": -2.6842868328094482,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": -1.3770806789398193,
+        "TSNE-2": 1.3131052255630493,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": -0.45335865020751953,
+        "TSNE-2": 10.026893615722656,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": 4.739493370056152,
+        "TSNE-2": -3.027360439300537,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": -4.238740921020508,
+        "TSNE-2": -10.564010620117188,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 7.973736763000488,
+        "TSNE-2": -8.132867813110352,
+        "cluster": 2,
+        "keywords": "flare, well, human, social, cause"
+      },
+      {
+        "TSNE-1": -1.3500540256500244,
+        "TSNE-2": -6.901297092437744,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 1.3335062265396118,
+        "TSNE-2": -1.6196448802947998,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -1.2873873710632324,
+        "TSNE-2": 11.269425392150879,
+        "cluster": 1,
+        "keywords": "one, may, dream, psychological, digestive"
+      },
+      {
+        "TSNE-1": -5.359471321105957,
+        "TSNE-2": -10.061518669128418,
+        "cluster": 0,
+        "keywords": "born, eclipse, solar, document, mental"
+      },
+      {
+        "TSNE-1": 0.6567686200141907,
+        "TSNE-2": 0.6857481598854065,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -2.7429771423339844,
+        "TSNE-2": -2.1542742252349854,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": -8.515412330627441,
+        "TSNE-2": 5.826026916503906,
+        "cluster": 3,
+        "keywords": "might, effect, unusual, also, agitation"
+      },
+      {
+        "TSNE-1": 0.0031251139007508755,
+        "TSNE-2": -5.545322895050049,
+        "cluster": 5,
+        "keywords": "emotional, physical, lead, people, relationship"
+      },
+      {
+        "TSNE-1": 7.845428943634033,
+        "TSNE-2": 5.315786838531494,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      },
+      {
+        "TSNE-1": 3.6699421405792236,
+        "TSNE-2": 4.935073375701904,
+        "cluster": 4,
+        "keywords": "conscious, health, belief, event, moon"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_108",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-79154 - how the solar eclipse can affect mental health"
+  }
+}

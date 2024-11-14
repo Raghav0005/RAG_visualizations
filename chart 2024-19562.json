@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3a74733bde5aff2c59790599449b9ba7"
+  },
+  "datasets": {
+    "data-3a74733bde5aff2c59790599449b9ba7": [
+      {
+        "TSNE-1": -4.313421726226807,
+        "TSNE-2": 4.866208553314209,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": -4.247909069061279,
+        "TSNE-2": -0.6835512518882751,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -11.15406608581543,
+        "TSNE-2": 1.2635736465454102,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": -3.919084072113037,
+        "TSNE-2": 2.4571025371551514,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -11.15406608581543,
+        "TSNE-2": 1.2635736465454102,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": 9.018985748291016,
+        "TSNE-2": -6.2910590171813965,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -12.412259101867676,
+        "TSNE-2": 2.6519219875335693,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": 0.003911398351192474,
+        "TSNE-2": -0.24915261566638947,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -3.91961407661438,
+        "TSNE-2": -7.330833435058594,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": 11.558267593383789,
+        "TSNE-2": -1.5609487295150757,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -5.64690637588501,
+        "TSNE-2": 0.7367236614227295,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 9.502644538879395,
+        "TSNE-2": 8.122767448425293,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -1.581599235534668,
+        "TSNE-2": -1.2707207202911377,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -1.1091679334640503,
+        "TSNE-2": 2.7348854541778564,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 12.271963119506836,
+        "TSNE-2": 0.9609711170196533,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 5.00858211517334,
+        "TSNE-2": 1.3920691013336182,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 6.669715881347656,
+        "TSNE-2": -3.459521770477295,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 0.003911398351192474,
+        "TSNE-2": -0.24915261566638947,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 3.967283248901367,
+        "TSNE-2": 2.2552552223205566,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -2.6652307510375977,
+        "TSNE-2": 12.498690605163574,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": -6.256494522094727,
+        "TSNE-2": -10.534775733947754,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": -7.293716907501221,
+        "TSNE-2": 2.8091721534729004,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": -5.108014106750488,
+        "TSNE-2": -11.680291175842285,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": -0.30546635389328003,
+        "TSNE-2": 5.505528926849365,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": -3.5060012340545654,
+        "TSNE-2": 4.284943103790283,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -1.1308367252349854,
+        "TSNE-2": 0.8678839206695557,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -1.526350498199463,
+        "TSNE-2": -8.78145980834961,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": -2.3169565200805664,
+        "TSNE-2": -3.1051485538482666,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 5.07064962387085,
+        "TSNE-2": -8.1500825881958,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": 9.384855270385742,
+        "TSNE-2": -6.625134468078613,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -6.5849528312683105,
+        "TSNE-2": -0.9571939706802368,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -0.9922055602073669,
+        "TSNE-2": 12.044394493103027,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": -2.3271901607513428,
+        "TSNE-2": -0.8477354645729065,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 5.780025005340576,
+        "TSNE-2": -0.21846850216388702,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -3.6189708709716797,
+        "TSNE-2": -4.298352241516113,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": -1.1409450769424438,
+        "TSNE-2": -5.329074859619141,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": 2.0494771003723145,
+        "TSNE-2": -4.285151958465576,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": -8.85815143585205,
+        "TSNE-2": -0.393983393907547,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": -1.167280912399292,
+        "TSNE-2": 4.803664207458496,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": 2.2675774097442627,
+        "TSNE-2": 3.7692370414733887,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -12.024630546569824,
+        "TSNE-2": 5.545026779174805,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": 0.30332157015800476,
+        "TSNE-2": 1.8068863153457642,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -2.1530563831329346,
+        "TSNE-2": -1.8005071878433228,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 1.6065700054168701,
+        "TSNE-2": -1.2930214405059814,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": 0.08027493953704834,
+        "TSNE-2": -4.940959453582764,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": 4.908411026000977,
+        "TSNE-2": 10.62148666381836,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": 3.9877569675445557,
+        "TSNE-2": -4.945038318634033,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": 9.20037841796875,
+        "TSNE-2": -0.8015478253364563,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -5.64690637588501,
+        "TSNE-2": 0.7367236614227295,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 0.7355037927627563,
+        "TSNE-2": -4.400303840637207,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": -8.894577980041504,
+        "TSNE-2": 4.684479236602783,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": 0.9323691725730896,
+        "TSNE-2": -9.539728164672852,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": -3.387118101119995,
+        "TSNE-2": -1.745467185974121,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 5.103017807006836,
+        "TSNE-2": 10.568562507629395,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": 6.250349521636963,
+        "TSNE-2": 0.4200659692287445,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -5.5616021156311035,
+        "TSNE-2": -11.355680465698242,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": 3.957963228225708,
+        "TSNE-2": 0.6653372645378113,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 9.480691909790039,
+        "TSNE-2": -2.1557185649871826,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 0.37411725521087646,
+        "TSNE-2": -1.6213710308074951,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": -6.595989227294922,
+        "TSNE-2": -9.668678283691406,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": -3.4315998554229736,
+        "TSNE-2": 8.35449504852295,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": -8.045225143432617,
+        "TSNE-2": 6.505317211151123,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": -6.868110179901123,
+        "TSNE-2": 4.228207588195801,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": -3.733090877532959,
+        "TSNE-2": 12.555858612060547,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": 1.0181509256362915,
+        "TSNE-2": -5.930080413818359,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": 1.7756332159042358,
+        "TSNE-2": 0.8665788769721985,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 0.21539409458637238,
+        "TSNE-2": -3.2554547786712646,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": 0.5128045082092285,
+        "TSNE-2": 4.0122246742248535,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 3.831368923187256,
+        "TSNE-2": -1.3787511587142944,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": -2.0832996368408203,
+        "TSNE-2": -8.132781982421875,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": -2.4570250511169434,
+        "TSNE-2": 5.829366207122803,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": 6.669715881347656,
+        "TSNE-2": -3.459521770477295,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -5.652630805969238,
+        "TSNE-2": 8.21655559539795,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": -7.033580303192139,
+        "TSNE-2": -3.5519423484802246,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": 2.2613792419433594,
+        "TSNE-2": -2.785133123397827,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": -12.07496166229248,
+        "TSNE-2": 4.766594886779785,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": -5.66099214553833,
+        "TSNE-2": -4.724925518035889,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      },
+      {
+        "TSNE-1": -5.652630805969238,
+        "TSNE-2": 8.21655559539795,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": -7.369352340698242,
+        "TSNE-2": 6.539235591888428,
+        "cluster": 2,
+        "keywords": "career, different, field, land, least"
+      },
+      {
+        "TSNE-1": 11.914929389953613,
+        "TSNE-2": 0.6271832585334778,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 0.5554618835449219,
+        "TSNE-2": 6.100618839263916,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": 9.502644538879395,
+        "TSNE-2": 8.122767448425293,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -3.4315998554229736,
+        "TSNE-2": 8.35449504852295,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": 3.741023063659668,
+        "TSNE-2": 4.856007099151611,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 2.2675774097442627,
+        "TSNE-2": 3.7692370414733887,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": 5.697429180145264,
+        "TSNE-2": -7.53864860534668,
+        "cluster": 0,
+        "keywords": "japanese, american, various, immigrant, significant"
+      },
+      {
+        "TSNE-1": 8.442831039428711,
+        "TSNE-2": 3.743668794631958,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 5.750086307525635,
+        "TSNE-2": 6.875207424163818,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": 6.048139572143555,
+        "TSNE-2": 1.974886417388916,
+        "cluster": 1,
+        "keywords": "hardship, despite, even, war, able"
+      },
+      {
+        "TSNE-1": -4.932190895080566,
+        "TSNE-2": -2.7357001304626465,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -2.7054190635681152,
+        "TSNE-2": 0.7750161290168762,
+        "cluster": 4,
+        "keywords": "law, military, particularly, discrimination, economic"
+      },
+      {
+        "TSNE-1": -0.9922055602073669,
+        "TSNE-2": 12.044394493103027,
+        "cluster": 3,
+        "keywords": "united, camp, japan, internment, geographical"
+      },
+      {
+        "TSNE-1": -0.8744358420372009,
+        "TSNE-2": -9.0039644241333,
+        "cluster": 5,
+        "keywords": "view, america, people, fear, many"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_286",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-19562 - did the japanese do well in america regardless of hardships"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-74f7a3061c51bb81dcee1e237cc05f5b"
+  },
+  "datasets": {
+    "data-74f7a3061c51bb81dcee1e237cc05f5b": [
+      {
+        "TSNE-1": -0.5044765472412109,
+        "TSNE-2": 12.257328033447266,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 2.272000789642334,
+        "TSNE-2": 13.194997787475586,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 6.501298427581787,
+        "TSNE-2": 11.660057067871094,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": -7.285265922546387,
+        "TSNE-2": -3.2607414722442627,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 6.501298427581787,
+        "TSNE-2": 11.660057067871094,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 11.65943431854248,
+        "TSNE-2": 0.8130993247032166,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": 5.395439147949219,
+        "TSNE-2": 8.495119094848633,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 3.3009119033813477,
+        "TSNE-2": 8.149301528930664,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 3.7924938201904297,
+        "TSNE-2": 16.337905883789062,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": -0.3241356313228607,
+        "TSNE-2": -2.6851892471313477,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 6.1293816566467285,
+        "TSNE-2": -4.833881855010986,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -11.889434814453125,
+        "TSNE-2": -1.8060543537139893,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 0.3804663419723511,
+        "TSNE-2": 7.849870204925537,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 0.8036311268806458,
+        "TSNE-2": 4.199767589569092,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": -0.3241356313228607,
+        "TSNE-2": -2.6851892471313477,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -1.9868733882904053,
+        "TSNE-2": 2.25046706199646,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -10.193591117858887,
+        "TSNE-2": 6.244312763214111,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": 3.3009119033813477,
+        "TSNE-2": 8.149301528930664,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": -2.8213589191436768,
+        "TSNE-2": 3.607614755630493,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": 13.32824420928955,
+        "TSNE-2": 7.244137763977051,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -4.336969375610352,
+        "TSNE-2": -4.582337379455566,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 14.281288146972656,
+        "TSNE-2": 7.200628757476807,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": 1.682693362236023,
+        "TSNE-2": -1.8584413528442383,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 2.32405161857605,
+        "TSNE-2": 2.2332019805908203,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -1.5813428163528442,
+        "TSNE-2": -5.143125534057617,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 1.7154879570007324,
+        "TSNE-2": 6.404757022857666,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": -8.466479301452637,
+        "TSNE-2": -1.7808648347854614,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 9.153726577758789,
+        "TSNE-2": 8.237872123718262,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -0.3241356313228607,
+        "TSNE-2": -2.6851892471313477,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 7.979215621948242,
+        "TSNE-2": 3.285396099090576,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": 4.545383453369141,
+        "TSNE-2": -2.45436954498291,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 8.738966941833496,
+        "TSNE-2": 6.165757179260254,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -0.4143869876861572,
+        "TSNE-2": 9.137009620666504,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 1.597084641456604,
+        "TSNE-2": -9.966468811035156,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": -9.010736465454102,
+        "TSNE-2": 9.147453308105469,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": 2.082749128341675,
+        "TSNE-2": -5.498743057250977,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -5.005959510803223,
+        "TSNE-2": -9.126818656921387,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": 3.919451951980591,
+        "TSNE-2": -13.117609977722168,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": -1.1778581142425537,
+        "TSNE-2": -11.401628494262695,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": 4.083048343658447,
+        "TSNE-2": 0.5164290070533752,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 1.0934442281723022,
+        "TSNE-2": 12.70062255859375,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": -4.166564464569092,
+        "TSNE-2": 12.973769187927246,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": -0.45009228587150574,
+        "TSNE-2": 7.230112075805664,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 3.619978904724121,
+        "TSNE-2": 4.667361259460449,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 1.2317067384719849,
+        "TSNE-2": -5.82222843170166,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 5.488137722015381,
+        "TSNE-2": 6.0889787673950195,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 6.132136344909668,
+        "TSNE-2": 1.6306078433990479,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -9.960907936096191,
+        "TSNE-2": -2.104503631591797,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 6.1293816566467285,
+        "TSNE-2": -4.833881855010986,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 0.3605166971683502,
+        "TSNE-2": 0.8764412999153137,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 12.072587966918945,
+        "TSNE-2": -5.446916103363037,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -6.009958744049072,
+        "TSNE-2": -0.5499027371406555,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": -1.0358881950378418,
+        "TSNE-2": 6.20121431350708,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 6.801875591278076,
+        "TSNE-2": -0.1745721995830536,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": 0.44291457533836365,
+        "TSNE-2": -9.244258880615234,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": -5.138481140136719,
+        "TSNE-2": -4.3965654373168945,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": -1.9765557050704956,
+        "TSNE-2": 0.9103705883026123,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -3.134737014770508,
+        "TSNE-2": -1.7822248935699463,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": -3.529940605163574,
+        "TSNE-2": 9.627259254455566,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": -5.479759216308594,
+        "TSNE-2": -5.693521022796631,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 5.342079162597656,
+        "TSNE-2": -9.351943969726562,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": 10.844948768615723,
+        "TSNE-2": -2.9296727180480957,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -12.024508476257324,
+        "TSNE-2": -4.792742729187012,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 9.591809272766113,
+        "TSNE-2": 3.454413652420044,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -5.079856872558594,
+        "TSNE-2": -11.087075233459473,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": -2.269432544708252,
+        "TSNE-2": -7.723567962646484,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": -7.276187896728516,
+        "TSNE-2": -8.66574764251709,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": -1.6010178327560425,
+        "TSNE-2": -9.488866806030273,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": 7.72450065612793,
+        "TSNE-2": -2.4847331047058105,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -0.3241356313228607,
+        "TSNE-2": -2.6851892471313477,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -5.595200061798096,
+        "TSNE-2": 6.373651027679443,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": -10.193591117858887,
+        "TSNE-2": 6.244312763214111,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": -6.096310138702393,
+        "TSNE-2": 3.0090150833129883,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": 2.3172576427459717,
+        "TSNE-2": -13.588435173034668,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": -6.391817569732666,
+        "TSNE-2": -9.8765287399292,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": 8.697368621826172,
+        "TSNE-2": 14.711037635803223,
+        "cluster": 2,
+        "keywords": "home, high, due, medical, various"
+      },
+      {
+        "TSNE-1": 0.541111946105957,
+        "TSNE-2": -12.16728687286377,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": -6.096310138702393,
+        "TSNE-2": 3.0090150833129883,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": 11.531503677368164,
+        "TSNE-2": -5.8914008140563965,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -9.398032188415527,
+        "TSNE-2": 0.020514503121376038,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 2.017359495162964,
+        "TSNE-2": 0.3798139989376068,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 10.848444938659668,
+        "TSNE-2": 5.2878336906433105,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": 5.342079162597656,
+        "TSNE-2": -9.351943969726562,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": 2.531787872314453,
+        "TSNE-2": -3.5230839252471924,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": 4.083048343658447,
+        "TSNE-2": 0.5164290070533752,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -8.366235733032227,
+        "TSNE-2": -4.333319664001465,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      },
+      {
+        "TSNE-1": 10.692326545715332,
+        "TSNE-2": 1.3350472450256348,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": 2.8158957958221436,
+        "TSNE-2": -7.656632423400879,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": -0.811237633228302,
+        "TSNE-2": 2.877815008163452,
+        "cluster": 1,
+        "keywords": "digital, service, like, many, significant"
+      },
+      {
+        "TSNE-1": -5.341137409210205,
+        "TSNE-2": 9.779776573181152,
+        "cluster": 0,
+        "keywords": "product, physical, demand, consumer, decline"
+      },
+      {
+        "TSNE-1": -2.8324027061462402,
+        "TSNE-2": -10.89055347442627,
+        "cluster": 4,
+        "keywords": "store, shopping, customer, retail, online"
+      },
+      {
+        "TSNE-1": 8.738966941833496,
+        "TSNE-2": 6.165757179260254,
+        "cluster": 5,
+        "keywords": "document, electronic, factor, productivity, marginal"
+      },
+      {
+        "TSNE-1": -6.009958744049072,
+        "TSNE-2": -0.5499027371406555,
+        "cluster": 3,
+        "keywords": "necessarily, text, context, mention, highlight"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_197",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-5675 - are physical products out of demand"
+  }
+}

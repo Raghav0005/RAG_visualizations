@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-f48d935b9b7bba76dffecb086dd575e7"
+  },
+  "datasets": {
+    "data-f48d935b9b7bba76dffecb086dd575e7": [
+      {
+        "TSNE-1": 2.5727553367614746,
+        "TSNE-2": -1.3539402484893799,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": 3.377732992172241,
+        "TSNE-2": -10.361746788024902,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -0.032489530742168427,
+        "TSNE-2": -9.469353675842285,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 7.061665058135986,
+        "TSNE-2": -5.804433822631836,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": -0.032489530742168427,
+        "TSNE-2": -9.469353675842285,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 4.822831630706787,
+        "TSNE-2": 9.701518058776855,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -4.9177350997924805,
+        "TSNE-2": 1.8045997619628906,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 1.1989376544952393,
+        "TSNE-2": -0.055185798555612564,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -4.774753570556641,
+        "TSNE-2": 8.890338897705078,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": -9.851280212402344,
+        "TSNE-2": -3.3016068935394287,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": 11.828211784362793,
+        "TSNE-2": 0.23405884206295013,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": 7.177813529968262,
+        "TSNE-2": 7.696346759796143,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": 1.5363843441009521,
+        "TSNE-2": 4.4557695388793945,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": 2.035811424255371,
+        "TSNE-2": 2.6929640769958496,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -9.852684020996094,
+        "TSNE-2": -2.5907304286956787,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": -1.8368209600448608,
+        "TSNE-2": -1.4543054103851318,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 4.685436725616455,
+        "TSNE-2": -2.989359140396118,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": 1.1989376544952393,
+        "TSNE-2": -0.055185798555612564,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -1.7514625787734985,
+        "TSNE-2": -0.1649845540523529,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 2.560152530670166,
+        "TSNE-2": 8.215548515319824,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -8.885612487792969,
+        "TSNE-2": 7.672719955444336,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": 3.180079460144043,
+        "TSNE-2": 1.8874109983444214,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -8.885612487792969,
+        "TSNE-2": 7.672719955444336,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": 6.587428569793701,
+        "TSNE-2": 3.8079276084899902,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": 0.7661179304122925,
+        "TSNE-2": 6.471135139465332,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": 2.606708288192749,
+        "TSNE-2": 0.6367084980010986,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 7.683522701263428,
+        "TSNE-2": -4.935564994812012,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": -3.892202377319336,
+        "TSNE-2": 1.333140254020691,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -9.192425727844238,
+        "TSNE-2": -1.8067129850387573,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": -1.1282726526260376,
+        "TSNE-2": 12.796260833740234,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": -4.245436668395996,
+        "TSNE-2": 7.791144371032715,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": -2.771017551422119,
+        "TSNE-2": -4.6189141273498535,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 1.116224765777588,
+        "TSNE-2": 1.2258899211883545,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -3.912122964859009,
+        "TSNE-2": -6.378457546234131,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 4.1919145584106445,
+        "TSNE-2": 5.527397155761719,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -4.678955078125,
+        "TSNE-2": -4.824461936950684,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 7.7583746910095215,
+        "TSNE-2": -0.35361558198928833,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": -3.307939052581787,
+        "TSNE-2": 4.811726093292236,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": -1.5941441059112549,
+        "TSNE-2": 2.864856481552124,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 4.249151229858398,
+        "TSNE-2": 3.5580337047576904,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -3.819087505340576,
+        "TSNE-2": -8.721505165100098,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -2.01387619972229,
+        "TSNE-2": 1.3963119983673096,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 0.6879533529281616,
+        "TSNE-2": 3.845515727996826,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": 1.033428430557251,
+        "TSNE-2": -2.1052215099334717,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 0.3424757122993469,
+        "TSNE-2": -4.847094535827637,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 9.68969440460205,
+        "TSNE-2": 6.4058518409729,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -6.93938684463501,
+        "TSNE-2": 2.649169921875,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -0.7724171876907349,
+        "TSNE-2": 9.116522789001465,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": 11.828211784362793,
+        "TSNE-2": 0.23405884206295013,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": 0.6202645301818848,
+        "TSNE-2": -4.027292251586914,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -0.18718257546424866,
+        "TSNE-2": 8.53576374053955,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": -11.216373443603516,
+        "TSNE-2": 0.8393255472183228,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": 2.913803815841675,
+        "TSNE-2": 4.5851521492004395,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": 9.034184455871582,
+        "TSNE-2": 6.391066551208496,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -0.7240361571311951,
+        "TSNE-2": -2.617445945739746,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 2.9054031372070312,
+        "TSNE-2": -5.8767805099487305,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -3.858717203140259,
+        "TSNE-2": -2.7612552642822266,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -11.348214149475098,
+        "TSNE-2": 2.5331735610961914,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": -2.3315296173095703,
+        "TSNE-2": -6.51038932800293,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -7.3963847160339355,
+        "TSNE-2": -4.882076263427734,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": 2.9953136444091797,
+        "TSNE-2": -7.099296569824219,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -5.12558650970459,
+        "TSNE-2": -0.5893608331680298,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -5.734575271606445,
+        "TSNE-2": -1.1497684717178345,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -2.771017551422119,
+        "TSNE-2": -4.6189141273498535,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -1.0364360809326172,
+        "TSNE-2": -4.548206329345703,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 4.943109035491943,
+        "TSNE-2": 0.4124385714530945,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": 6.712465763092041,
+        "TSNE-2": -1.3592458963394165,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": -0.054031744599342346,
+        "TSNE-2": 2.2134714126586914,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -0.28655701875686646,
+        "TSNE-2": 0.5076570510864258,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 3.7766122817993164,
+        "TSNE-2": -5.522310733795166,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": -0.035825762897729874,
+        "TSNE-2": -1.2578297853469849,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": 4.685436725616455,
+        "TSNE-2": -2.989359140396118,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": -0.13625985383987427,
+        "TSNE-2": -12.04889965057373,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -0.6872138977050781,
+        "TSNE-2": -6.362253189086914,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 7.499715328216553,
+        "TSNE-2": -1.6523479223251343,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": -3.7742972373962402,
+        "TSNE-2": 2.9613120555877686,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -7.516329765319824,
+        "TSNE-2": 0.08246903121471405,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": -0.13625985383987427,
+        "TSNE-2": -12.04889965057373,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": -4.259829044342041,
+        "TSNE-2": -0.0713038444519043,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -11.890096664428711,
+        "TSNE-2": -0.1426728367805481,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": 3.332256555557251,
+        "TSNE-2": 0.05292081460356712,
+        "cluster": 3,
+        "keywords": "level, financial, operational, account, high"
+      },
+      {
+        "TSNE-1": 7.177813529968262,
+        "TSNE-2": 7.696346759796143,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -18.153430938720703,
+        "TSNE-2": -21.37157440185547,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": -0.28641390800476074,
+        "TSNE-2": 5.026567459106445,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": 4.249151229858398,
+        "TSNE-2": 3.5580337047576904,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -11.578644752502441,
+        "TSNE-2": 2.828577756881714,
+        "cluster": 2,
+        "keywords": "positive, able, supplier, stay, nan"
+      },
+      {
+        "TSNE-1": -1.172911524772644,
+        "TSNE-2": 12.987367630004883,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": -7.457783222198486,
+        "TSNE-2": 3.9464077949523926,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": -2.678804397583008,
+        "TSNE-2": -2.021625280380249,
+        "cluster": 5,
+        "keywords": "flow, meet, efficient, current, effective"
+      },
+      {
+        "TSNE-1": -3.859356164932251,
+        "TSNE-2": 7.857223033905029,
+        "cluster": 4,
+        "keywords": "interruption, well, company, manage, organization"
+      },
+      {
+        "TSNE-1": 5.7822957038879395,
+        "TSNE-2": 2.0360639095306396,
+        "cluster": 0,
+        "keywords": "capital, business, cash, healthy, inventory"
+      },
+      {
+        "TSNE-1": -2.771017551422119,
+        "TSNE-2": -4.6189141273498535,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      },
+      {
+        "TSNE-1": 4.314044952392578,
+        "TSNE-2": -7.601667404174805,
+        "cluster": 1,
+        "keywords": "management, fund, proper, liquidity, ratio"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_54",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-33359 - how businesses that manage their working capital well stay healthy"
+  }
+}

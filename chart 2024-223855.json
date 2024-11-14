@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-66a922cc4ba391778cc4a75970c55cd6"
+  },
+  "datasets": {
+    "data-66a922cc4ba391778cc4a75970c55cd6": [
+      {
+        "TSNE-1": 2.586798667907715,
+        "TSNE-2": 4.583568096160889,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 7.093787670135498,
+        "TSNE-2": 8.808829307556152,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 4.6253228187561035,
+        "TSNE-2": -9.302395820617676,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 2.6536781787872314,
+        "TSNE-2": -12.397194862365723,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 4.6253228187561035,
+        "TSNE-2": -9.302395820617676,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -0.7966019511222839,
+        "TSNE-2": -9.522520065307617,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": 3.2331154346466064,
+        "TSNE-2": -8.796564102172852,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -0.43110013008117676,
+        "TSNE-2": 5.6878790855407715,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -4.974309921264648,
+        "TSNE-2": 2.80354642868042,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -10.604835510253906,
+        "TSNE-2": -0.694708526134491,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": 4.486287593841553,
+        "TSNE-2": -0.7045822143554688,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 5.455643177032471,
+        "TSNE-2": -7.86502742767334,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -0.30427151918411255,
+        "TSNE-2": 0.44475314021110535,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 7.98625373840332,
+        "TSNE-2": 3.680497169494629,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -10.025341987609863,
+        "TSNE-2": -3.360224485397339,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": -1.5737888813018799,
+        "TSNE-2": 4.076308727264404,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -4.972828388214111,
+        "TSNE-2": -0.427638441324234,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": -0.43110013008117676,
+        "TSNE-2": 5.6878790855407715,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 0.13100363314151764,
+        "TSNE-2": 3.4894938468933105,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 6.361161708831787,
+        "TSNE-2": -3.016613483428955,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -5.355894565582275,
+        "TSNE-2": -11.296180725097656,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": 9.599615097045898,
+        "TSNE-2": -6.742562294006348,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -5.370845317840576,
+        "TSNE-2": -9.714807510375977,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": 6.980285167694092,
+        "TSNE-2": 1.7846134901046753,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -2.4900147914886475,
+        "TSNE-2": 0.5627886056900024,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 2.2297956943511963,
+        "TSNE-2": 0.8019843697547913,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 2.6536781787872314,
+        "TSNE-2": -12.397194862365723,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 2.5008139610290527,
+        "TSNE-2": -3.1325631141662598,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -10.45946979522705,
+        "TSNE-2": -2.0442426204681396,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": -1.2758644819259644,
+        "TSNE-2": -10.904495239257812,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": -3.9738173484802246,
+        "TSNE-2": 3.702800989151001,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 7.719676494598389,
+        "TSNE-2": -1.8542295694351196,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 0.20829710364341736,
+        "TSNE-2": -0.4305218458175659,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 3.42318058013916,
+        "TSNE-2": 6.18527889251709,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -2.602001667022705,
+        "TSNE-2": 6.766904354095459,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -5.6232452392578125,
+        "TSNE-2": 5.671695232391357,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -3.4623312950134277,
+        "TSNE-2": 5.426578044891357,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 13.172470092773438,
+        "TSNE-2": -4.641905307769775,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 5.966197490692139,
+        "TSNE-2": 5.717081069946289,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 4.929442405700684,
+        "TSNE-2": 4.406586170196533,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 7.115083694458008,
+        "TSNE-2": 6.667197227478027,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -6.992678642272949,
+        "TSNE-2": 4.74280309677124,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 0.39086705446243286,
+        "TSNE-2": 1.2567657232284546,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 1.71946120262146,
+        "TSNE-2": -1.4861078262329102,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 9.998527526855469,
+        "TSNE-2": 7.110518932342529,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -10.004682540893555,
+        "TSNE-2": -8.76130485534668,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": 9.120545387268066,
+        "TSNE-2": -2.7773375511169434,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -11.711207389831543,
+        "TSNE-2": -0.14508622884750366,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": 4.486287593841553,
+        "TSNE-2": -0.7045822143554688,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -5.291517734527588,
+        "TSNE-2": 7.564311981201172,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -1.0720939636230469,
+        "TSNE-2": -5.928067684173584,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": -10.604835510253906,
+        "TSNE-2": -0.694708526134491,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": -0.7930923700332642,
+        "TSNE-2": 1.478299617767334,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 4.170175075531006,
+        "TSNE-2": -6.776989936828613,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 4.200516223907471,
+        "TSNE-2": 8.299315452575684,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -4.669975280761719,
+        "TSNE-2": -10.555634498596191,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": 1.4465123414993286,
+        "TSNE-2": 5.9475998878479,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -10.92860221862793,
+        "TSNE-2": -4.769143104553223,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": -1.9891210794448853,
+        "TSNE-2": 7.893012523651123,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -4.135052680969238,
+        "TSNE-2": -8.687686920166016,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": 13.060382843017578,
+        "TSNE-2": -5.162389278411865,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -7.19015645980835,
+        "TSNE-2": 9.284481048583984,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -7.117024898529053,
+        "TSNE-2": 7.019749164581299,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 9.263956069946289,
+        "TSNE-2": -1.1094846725463867,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 2.604253053665161,
+        "TSNE-2": 10.621014595031738,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 3.981696128845215,
+        "TSNE-2": 2.8836045265197754,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 1.919293999671936,
+        "TSNE-2": 11.050841331481934,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 2.1078643798828125,
+        "TSNE-2": 8.052898406982422,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -7.922529697418213,
+        "TSNE-2": 3.5240375995635986,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 2.6536781787872314,
+        "TSNE-2": -12.397194862365723,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -8.70254135131836,
+        "TSNE-2": 6.057637691497803,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -5.373408317565918,
+        "TSNE-2": -0.17659369111061096,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": -4.880868434906006,
+        "TSNE-2": -3.419288396835327,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": 10.584059715270996,
+        "TSNE-2": 4.279335021972656,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 3.962785482406616,
+        "TSNE-2": 10.828978538513184,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -1.8876484632492065,
+        "TSNE-2": 8.958184242248535,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": 10.74545669555664,
+        "TSNE-2": 2.8392577171325684,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -4.880868434906006,
+        "TSNE-2": -3.419288396835327,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": -7.053964138031006,
+        "TSNE-2": 7.637888431549072,
+        "cluster": 0,
+        "keywords": "woman, new, opportunity, big, job"
+      },
+      {
+        "TSNE-1": -12.114972114562988,
+        "TSNE-2": -1.5809648036956787,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": 6.770296573638916,
+        "TSNE-2": 3.243496894836426,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -9.337140083312988,
+        "TSNE-2": -8.860992431640625,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": -19.23280143737793,
+        "TSNE-2": -17.94392967224121,
+        "cluster": 4,
+        "keywords": "nan, young, explore, face, facet"
+      },
+      {
+        "TSNE-1": 4.572336196899414,
+        "TSNE-2": 6.989658832550049,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 4.929442405700684,
+        "TSNE-2": 4.406586170196533,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": -8.298812866210938,
+        "TSNE-2": -5.102444171905518,
+        "cluster": 2,
+        "keywords": "textile, found, manufacturing, employment, early"
+      },
+      {
+        "TSNE-1": 6.673604965209961,
+        "TSNE-2": -6.48469352722168,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": -1.3181285858154297,
+        "TSNE-2": -5.379891395568848,
+        "cluster": 5,
+        "keywords": "number, men, document, shortage, industry"
+      },
+      {
+        "TSNE-1": 1.4499058723449707,
+        "TSNE-2": 3.1080801486968994,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 2.809567928314209,
+        "TSNE-2": -4.775674819946289,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 3.399569511413574,
+        "TSNE-2": 1.7154293060302734,
+        "cluster": 3,
+        "keywords": "economic, war, role, labor, social"
+      },
+      {
+        "TSNE-1": 7.719676494598389,
+        "TSNE-2": -1.8542295694351196,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      },
+      {
+        "TSNE-1": 2.6536781787872314,
+        "TSNE-2": -12.397194862365723,
+        "cluster": 1,
+        "keywords": "ready, availability, industrial, many, corporation"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_257",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-223855 - why many women flocked to big corporations in the 1900s"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-0f93acbdb9f437a8004c432deab6f2c8"
+  },
+  "datasets": {
+    "data-0f93acbdb9f437a8004c432deab6f2c8": [
+      {
+        "TSNE-1": -6.399697303771973,
+        "TSNE-2": 1.9574015140533447,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 6.012386322021484,
+        "TSNE-2": -7.157480239868164,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -2.8134727478027344,
+        "TSNE-2": -0.8926454782485962,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": -6.949295520782471,
+        "TSNE-2": -11.587299346923828,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": -2.8134727478027344,
+        "TSNE-2": -0.8926454782485962,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 8.870113372802734,
+        "TSNE-2": -3.71925687789917,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 0.3979048728942871,
+        "TSNE-2": -6.169794082641602,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": -6.365401268005371,
+        "TSNE-2": -1.1704298257827759,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": -12.02580738067627,
+        "TSNE-2": -1.0798602104187012,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": -2.077413558959961,
+        "TSNE-2": -9.9378080368042,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": -3.1720705032348633,
+        "TSNE-2": 7.973921298980713,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": 5.231818675994873,
+        "TSNE-2": 0.7259194254875183,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 0.3070197105407715,
+        "TSNE-2": 7.825678825378418,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -2.2725327014923096,
+        "TSNE-2": -2.4455533027648926,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": -3.6115379333496094,
+        "TSNE-2": -10.90645694732666,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": 5.701144218444824,
+        "TSNE-2": 7.767960071563721,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -6.361124515533447,
+        "TSNE-2": -5.674035549163818,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": -6.099742889404297,
+        "TSNE-2": -0.3862980604171753,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 5.918082237243652,
+        "TSNE-2": 11.07970142364502,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -8.922179222106934,
+        "TSNE-2": 10.844146728515625,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": -3.5331313610076904,
+        "TSNE-2": -7.906577110290527,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": 0.3228376805782318,
+        "TSNE-2": -0.021958451718091965,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": -6.977956771850586,
+        "TSNE-2": 11.739189147949219,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": 0.012364674359560013,
+        "TSNE-2": 3.473705530166626,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -3.943096399307251,
+        "TSNE-2": 9.850506782531738,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": -2.953680992126465,
+        "TSNE-2": 3.5878031253814697,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": -6.949295520782471,
+        "TSNE-2": -11.587299346923828,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": 1.0402096509933472,
+        "TSNE-2": -6.275328636169434,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": -2.077413558959961,
+        "TSNE-2": -9.9378080368042,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": 3.2038445472717285,
+        "TSNE-2": -4.71366548538208,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": -10.596435546875,
+        "TSNE-2": -0.6039169430732727,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 3.2797646522521973,
+        "TSNE-2": 4.811457633972168,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": 1.5998319387435913,
+        "TSNE-2": 7.381507873535156,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -6.040462970733643,
+        "TSNE-2": 7.232931613922119,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": 2.875169277191162,
+        "TSNE-2": 10.068233489990234,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -12.07143783569336,
+        "TSNE-2": 2.0718636512756348,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 8.68417739868164,
+        "TSNE-2": -8.787232398986816,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 1.583347201347351,
+        "TSNE-2": -1.6173863410949707,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": -4.655510902404785,
+        "TSNE-2": 5.127590656280518,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": 1.9385745525360107,
+        "TSNE-2": 1.0628221035003662,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": 13.37982177734375,
+        "TSNE-2": -3.643064498901367,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 8.738757133483887,
+        "TSNE-2": -1.8210456371307373,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 1.081254005432129,
+        "TSNE-2": 6.047418594360352,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -1.3302806615829468,
+        "TSNE-2": 0.7715736031532288,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": -9.925448417663574,
+        "TSNE-2": -7.718671798706055,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": 5.56605863571167,
+        "TSNE-2": -1.1978434324264526,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -6.261910438537598,
+        "TSNE-2": 3.756063461303711,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": -9.322968482971191,
+        "TSNE-2": -10.779528617858887,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": -3.1720705032348633,
+        "TSNE-2": 7.973921298980713,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": 1.8419854640960693,
+        "TSNE-2": 11.431756019592285,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": 10.054729461669922,
+        "TSNE-2": 2.4875006675720215,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -2.077413558959961,
+        "TSNE-2": -9.9378080368042,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": -1.9286819696426392,
+        "TSNE-2": 3.6240131855010986,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": -10.608735084533691,
+        "TSNE-2": 8.444798469543457,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": -7.118288993835449,
+        "TSNE-2": 5.7309160232543945,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": -2.8503570556640625,
+        "TSNE-2": -5.721803188323975,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": 6.816681861877441,
+        "TSNE-2": 6.917370319366455,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": 2.7818446159362793,
+        "TSNE-2": -11.651702880859375,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": 7.181682109832764,
+        "TSNE-2": 1.9272096157073975,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -2.867746114730835,
+        "TSNE-2": -4.811798572540283,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": -3.7590584754943848,
+        "TSNE-2": 1.3688522577285767,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 12.640697479248047,
+        "TSNE-2": -0.589614748954773,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 10.906813621520996,
+        "TSNE-2": 0.5742866396903992,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 5.090904235839844,
+        "TSNE-2": 2.2988531589508057,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": 8.568473815917969,
+        "TSNE-2": -5.249218463897705,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -8.709616661071777,
+        "TSNE-2": -3.424121618270874,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 10.849919319152832,
+        "TSNE-2": -5.409775733947754,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -3.053422212600708,
+        "TSNE-2": 5.404852867126465,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": 9.775744438171387,
+        "TSNE-2": -1.3680189847946167,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -11.23890495300293,
+        "TSNE-2": -9.64111614227295,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": 10.324875831604004,
+        "TSNE-2": -3.007053852081299,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -6.361124515533447,
+        "TSNE-2": -5.674035549163818,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": 10.226140975952148,
+        "TSNE-2": 9.145527839660645,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -8.611320495605469,
+        "TSNE-2": 3.5728859901428223,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 9.799983978271484,
+        "TSNE-2": -6.996592044830322,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 11.505183219909668,
+        "TSNE-2": -2.187152147293091,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -8.966322898864746,
+        "TSNE-2": 4.9566850662231445,
+        "cluster": 5,
+        "keywords": "toxic, carbon, emission, release, water"
+      },
+      {
+        "TSNE-1": 10.226140975952148,
+        "TSNE-2": 9.145527839660645,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": 9.22415828704834,
+        "TSNE-2": 0.837561845779419,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -7.661552429199219,
+        "TSNE-2": -13.432415008544922,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": -0.8609328269958496,
+        "TSNE-2": 2.223440647125244,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 5.937743663787842,
+        "TSNE-2": -2.3297066688537598,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -3.7590584754943848,
+        "TSNE-2": 1.3688522577285767,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 7.303178310394287,
+        "TSNE-2": -0.0029184482991695404,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": 1.9385745525360107,
+        "TSNE-2": 1.0628221035003662,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": 2.0548527240753174,
+        "TSNE-2": -11.73872184753418,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": 4.675650596618652,
+        "TSNE-2": -4.2180304527282715,
+        "cluster": 1,
+        "keywords": "lead, use, wave, contribute, human"
+      },
+      {
+        "TSNE-1": -13.700770378112793,
+        "TSNE-2": -7.204432964324951,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      },
+      {
+        "TSNE-1": 4.1314616203308105,
+        "TSNE-2": 9.70067024230957,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": 5.561588287353516,
+        "TSNE-2": -3.361372709274292,
+        "cluster": 3,
+        "keywords": "power, solar, damage, storm, cause"
+      },
+      {
+        "TSNE-1": -9.656856536865234,
+        "TSNE-2": -3.612929582595825,
+        "cluster": 2,
+        "keywords": "electronic, disposal, device, greenhouse, production"
+      },
+      {
+        "TSNE-1": 3.2797646522521973,
+        "TSNE-2": 4.811457633972168,
+        "cluster": 0,
+        "keywords": "natural, disaster, electronics, activity, environmental"
+      },
+      {
+        "TSNE-1": -11.103599548339844,
+        "TSNE-2": -9.14688491821289,
+        "cluster": 4,
+        "keywords": "discusses, mention, text, context, directly"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_92",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-41849 - how does our use of electronics cause natural disasters"
+  }
+}

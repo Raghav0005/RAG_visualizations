@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-95f6b18e28cd1cac83108626b7c8222c"
+  },
+  "datasets": {
+    "data-95f6b18e28cd1cac83108626b7c8222c": [
+      {
+        "TSNE-1": -2.250472068786621,
+        "TSNE-2": -3.165576934814453,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -8.273571968078613,
+        "TSNE-2": 4.2920637130737305,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 9.601239204406738,
+        "TSNE-2": 11.83749008178711,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": -4.204897880554199,
+        "TSNE-2": 10.560595512390137,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 9.601239204406738,
+        "TSNE-2": 11.83749008178711,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": 18.95159149169922,
+        "TSNE-2": -21.003400802612305,
+        "cluster": 5,
+        "keywords": "nan, explore, expand, expansion, explicitly"
+      },
+      {
+        "TSNE-1": 4.892112731933594,
+        "TSNE-2": -7.814481735229492,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 1.3357630968093872,
+        "TSNE-2": -1.459088921546936,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 8.534611701965332,
+        "TSNE-2": -5.706714153289795,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 3.7590606212615967,
+        "TSNE-2": 9.087411880493164,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": 7.518983364105225,
+        "TSNE-2": -11.873050689697266,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 1.0862983465194702,
+        "TSNE-2": 4.801699638366699,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": -2.2612929344177246,
+        "TSNE-2": 0.48907792568206787,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -0.947636067867279,
+        "TSNE-2": -8.992830276489258,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": 3.049590826034546,
+        "TSNE-2": 12.012651443481445,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": -5.098237991333008,
+        "TSNE-2": -5.771345138549805,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": 13.361124038696289,
+        "TSNE-2": 6.004171371459961,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": 1.3357630968093872,
+        "TSNE-2": -1.459088921546936,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -8.820096969604492,
+        "TSNE-2": -4.326460361480713,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -9.343070030212402,
+        "TSNE-2": 1.6895501613616943,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -3.615931987762451,
+        "TSNE-2": 7.80165433883667,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 5.035603046417236,
+        "TSNE-2": -2.958106756210327,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -4.911420822143555,
+        "TSNE-2": 12.414878845214844,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 9.871370315551758,
+        "TSNE-2": -0.4204773008823395,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 0.3259143531322479,
+        "TSNE-2": -5.90819787979126,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -0.3659883141517639,
+        "TSNE-2": -2.608368396759033,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 7.121616840362549,
+        "TSNE-2": -0.5235790610313416,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 3.8028359413146973,
+        "TSNE-2": -6.719604015350342,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 3.3992674350738525,
+        "TSNE-2": 10.687858581542969,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": 7.457095623016357,
+        "TSNE-2": 6.234550952911377,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": 8.814936637878418,
+        "TSNE-2": -3.9575154781341553,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -8.497212409973145,
+        "TSNE-2": -7.574733257293701,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": 2.5648319721221924,
+        "TSNE-2": -2.7588984966278076,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -7.352588176727295,
+        "TSNE-2": -0.8028445243835449,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 5.975617408752441,
+        "TSNE-2": -5.162932872772217,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -9.386014938354492,
+        "TSNE-2": -0.5176056027412415,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -1.43833589553833,
+        "TSNE-2": 5.089014053344727,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 3.659163475036621,
+        "TSNE-2": -4.503660202026367,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -0.4157100021839142,
+        "TSNE-2": 0.6386210918426514,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -1.051058053970337,
+        "TSNE-2": -4.232271194458008,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 6.733124732971191,
+        "TSNE-2": -2.5131380558013916,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 3.408818006515503,
+        "TSNE-2": -0.5445735454559326,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -3.0068228244781494,
+        "TSNE-2": 0.11715734750032425,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 2.480621814727783,
+        "TSNE-2": -6.002556324005127,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -4.758166790008545,
+        "TSNE-2": 0.9597193598747253,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -4.976125240325928,
+        "TSNE-2": 4.277500152587891,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": -7.038501739501953,
+        "TSNE-2": 1.2774460315704346,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 3.011812448501587,
+        "TSNE-2": 8.070830345153809,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": 7.518983364105225,
+        "TSNE-2": -11.873050689697266,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -5.014963150024414,
+        "TSNE-2": -0.49791935086250305,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -0.2534291446208954,
+        "TSNE-2": 7.937458515167236,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 5.663125514984131,
+        "TSNE-2": 7.716662883758545,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": -1.1062408685684204,
+        "TSNE-2": -0.9807311296463013,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -4.1682610511779785,
+        "TSNE-2": 3.3946073055267334,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -3.0697743892669678,
+        "TSNE-2": -6.712863445281982,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -2.8751142024993896,
+        "TSNE-2": 9.551370620727539,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": -6.280293941497803,
+        "TSNE-2": -4.4712371826171875,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 4.866816520690918,
+        "TSNE-2": 8.500574111938477,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": 1.289347529411316,
+        "TSNE-2": -3.930920362472534,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -0.99193274974823,
+        "TSNE-2": 8.987140655517578,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 3.8111603260040283,
+        "TSNE-2": -8.393716812133789,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -0.5259793996810913,
+        "TSNE-2": -13.989660263061523,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -1.0972646474838257,
+        "TSNE-2": -14.582525253295898,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -8.497212409973145,
+        "TSNE-2": -7.574733257293701,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -0.44855034351348877,
+        "TSNE-2": 3.419553756713867,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": -4.019659042358398,
+        "TSNE-2": -2.6300430297851562,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -0.6577948927879333,
+        "TSNE-2": 2.280008554458618,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 0.8726763725280762,
+        "TSNE-2": 1.8879408836364746,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 4.315618991851807,
+        "TSNE-2": 0.7760006189346313,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -4.622161865234375,
+        "TSNE-2": 9.92756462097168,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 2.9305782318115234,
+        "TSNE-2": 1.4042541980743408,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 13.361124038696289,
+        "TSNE-2": 6.004171371459961,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": -12.173081398010254,
+        "TSNE-2": -1.7683802843093872,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 3.8096370697021484,
+        "TSNE-2": 3.9713053703308105,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": -1.9891343116760254,
+        "TSNE-2": 3.4981987476348877,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": -7.5286383628845215,
+        "TSNE-2": 7.4137444496154785,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": -2.478917121887207,
+        "TSNE-2": -1.5596567392349243,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -12.173081398010254,
+        "TSNE-2": -1.7683802843093872,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 8.907344818115234,
+        "TSNE-2": 8.322953224182129,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": -5.860507488250732,
+        "TSNE-2": -11.300057411193848,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -2.3105528354644775,
+        "TSNE-2": -9.018025398254395,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -4.967758655548096,
+        "TSNE-2": 5.184101581573486,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 4.295266151428223,
+        "TSNE-2": -9.265975952148438,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": -0.009374231100082397,
+        "TSNE-2": -6.988070964813232,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -1.051058053970337,
+        "TSNE-2": -4.232271194458008,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -2.3528292179107666,
+        "TSNE-2": 12.130559921264648,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      },
+      {
+        "TSNE-1": 10.820259094238281,
+        "TSNE-2": -4.98958683013916,
+        "cluster": 0,
+        "keywords": "energy, gas, russian, europe, eu"
+      },
+      {
+        "TSNE-1": 0.49160823225975037,
+        "TSNE-2": -10.723496437072754,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -6.262662410736084,
+        "TSNE-2": -2.9359042644500732,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": 8.182782173156738,
+        "TSNE-2": 2.3922197818756104,
+        "cluster": 1,
+        "keywords": "mention, trade, context, document, percent"
+      },
+      {
+        "TSNE-1": -3.087966203689575,
+        "TSNE-2": -4.777859210968018,
+        "cluster": 4,
+        "keywords": "significant, import, like, source, dependency"
+      },
+      {
+        "TSNE-1": -8.497212409973145,
+        "TSNE-2": -7.574733257293701,
+        "cluster": 3,
+        "keywords": "country, ukraine, united, effort, still"
+      },
+      {
+        "TSNE-1": -0.04622504860162735,
+        "TSNE-2": 10.276788711547852,
+        "cluster": 2,
+        "keywords": "text, european, natural, dependence, renewable"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_20",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-43037 - how europe solved its russian gas problem"
+  }
+}

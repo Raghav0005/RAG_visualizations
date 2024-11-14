@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-198753f9fe66601745e6afba8e9d685a"
+  },
+  "datasets": {
+    "data-198753f9fe66601745e6afba8e9d685a": [
+      {
+        "TSNE-1": -7.146265029907227,
+        "TSNE-2": 5.159419059753418,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": 2.2606558799743652,
+        "TSNE-2": -5.6375203132629395,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": -13.784257888793945,
+        "TSNE-2": 0.9264329671859741,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": 7.9134392738342285,
+        "TSNE-2": 2.6143569946289062,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -13.784257888793945,
+        "TSNE-2": 0.9264329671859741,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": -13.200912475585938,
+        "TSNE-2": -5.462192058563232,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -6.224323749542236,
+        "TSNE-2": -5.820592880249023,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -1.860691785812378,
+        "TSNE-2": 0.4686417281627655,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 12.798179626464844,
+        "TSNE-2": 0.8842153549194336,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": 7.2034993171691895,
+        "TSNE-2": -11.469343185424805,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": -4.490154266357422,
+        "TSNE-2": -13.874250411987305,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": 11.034497261047363,
+        "TSNE-2": -8.907273292541504,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": -2.8820459842681885,
+        "TSNE-2": 4.15884256362915,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -10.801889419555664,
+        "TSNE-2": 4.063186168670654,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": 8.410017013549805,
+        "TSNE-2": -4.1935505867004395,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": -1.8077541589736938,
+        "TSNE-2": -5.6564860343933105,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -1.311092734336853,
+        "TSNE-2": -10.96626091003418,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": -1.860691785812378,
+        "TSNE-2": 0.4686417281627655,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 0.07965794205665588,
+        "TSNE-2": -7.408404350280762,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": -8.036535263061523,
+        "TSNE-2": -1.1017602682113647,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 3.606306791305542,
+        "TSNE-2": -11.884271621704102,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": -7.309629917144775,
+        "TSNE-2": -3.6704578399658203,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 2.888641595840454,
+        "TSNE-2": -12.499512672424316,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": -11.548843383789062,
+        "TSNE-2": 6.884613037109375,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": 1.812320351600647,
+        "TSNE-2": 5.163355827331543,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -4.817721366882324,
+        "TSNE-2": 5.417630195617676,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 6.957498073577881,
+        "TSNE-2": 0.2755785286426544,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -8.807440757751465,
+        "TSNE-2": -6.467180252075195,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 9.158467292785645,
+        "TSNE-2": -2.855717658996582,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": -8.943951606750488,
+        "TSNE-2": -10.118439674377441,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -3.96811580657959,
+        "TSNE-2": 12.526021003723145,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -10.326234817504883,
+        "TSNE-2": -4.548608779907227,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -3.4082961082458496,
+        "TSNE-2": 1.5366171598434448,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -2.484828233718872,
+        "TSNE-2": -6.437238693237305,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 4.505216121673584,
+        "TSNE-2": -0.8868403434753418,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": 1.749264121055603,
+        "TSNE-2": 8.47684097290039,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 3.4355218410491943,
+        "TSNE-2": 6.119367599487305,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -8.293961524963379,
+        "TSNE-2": 1.7580783367156982,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": -0.454783171415329,
+        "TSNE-2": 6.859095573425293,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -2.8356471061706543,
+        "TSNE-2": 7.601800441741943,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -5.365293979644775,
+        "TSNE-2": 8.675224304199219,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 0.3681632876396179,
+        "TSNE-2": 1.5283031463623047,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -3.5088980197906494,
+        "TSNE-2": 3.1445529460906982,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -0.27460241317749023,
+        "TSNE-2": -3.1082305908203125,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 3.2077200412750244,
+        "TSNE-2": 1.3171814680099487,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": 14.562067985534668,
+        "TSNE-2": -6.9298577308654785,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": -9.323912620544434,
+        "TSNE-2": -2.5823395252227783,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 9.203046798706055,
+        "TSNE-2": 6.00550651550293,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -4.490154266357422,
+        "TSNE-2": -13.874250411987305,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": 0.8087397217750549,
+        "TSNE-2": -0.8300949931144714,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": 4.822652816772461,
+        "TSNE-2": 13.637497901916504,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 7.524547100067139,
+        "TSNE-2": -12.223031997680664,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": -1.808384895324707,
+        "TSNE-2": 2.4305195808410645,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 15.337322235107422,
+        "TSNE-2": -6.618785858154297,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": 1.3509654998779297,
+        "TSNE-2": 2.713376998901367,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": 5.789129257202148,
+        "TSNE-2": -6.738058567047119,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": -5.638852119445801,
+        "TSNE-2": 3.0680768489837646,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": 11.410969734191895,
+        "TSNE-2": 6.699014663696289,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -5.9517645835876465,
+        "TSNE-2": 0.5348160862922668,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 6.145570278167725,
+        "TSNE-2": -7.551942825317383,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": 3.1231601238250732,
+        "TSNE-2": 14.08908748626709,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 14.102768898010254,
+        "TSNE-2": -3.3626551628112793,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": 16.070825576782227,
+        "TSNE-2": -1.602210521697998,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": -10.326234817504883,
+        "TSNE-2": -4.548608779907227,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 1.961625337600708,
+        "TSNE-2": 0.28187096118927,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -1.4076082706451416,
+        "TSNE-2": 4.951704978942871,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 3.603724718093872,
+        "TSNE-2": 3.156497001647949,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -7.850063323974609,
+        "TSNE-2": 7.55564546585083,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": 2.9485793113708496,
+        "TSNE-2": -2.2413127422332764,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": 7.729682445526123,
+        "TSNE-2": -2.4300341606140137,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": 1.9644958972930908,
+        "TSNE-2": -2.8155078887939453,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -1.311092734336853,
+        "TSNE-2": -10.96626091003418,
+        "cluster": 5,
+        "keywords": "tend, mostly, leadership, affordable, medicare"
+      },
+      {
+        "TSNE-1": 11.324057579040527,
+        "TSNE-2": 3.242875337600708,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": 0.8072733283042908,
+        "TSNE-2": 10.322325706481934,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 4.982609748840332,
+        "TSNE-2": 3.7308554649353027,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -3.296168327331543,
+        "TSNE-2": -1.9319833517074585,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 5.399557113647461,
+        "TSNE-2": 8.068367004394531,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 11.324057579040527,
+        "TSNE-2": 3.242875337600708,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": 16.070825576782227,
+        "TSNE-2": -1.602210521697998,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": 8.989492416381836,
+        "TSNE-2": 6.751540184020996,
+        "cluster": 0,
+        "keywords": "political, aarp, candidate, organization, democratic"
+      },
+      {
+        "TSNE-1": -11.786211967468262,
+        "TSNE-2": 5.674074172973633,
+        "cluster": 2,
+        "keywords": "effort, care, policy, republican, donation"
+      },
+      {
+        "TSNE-1": 11.034497261047363,
+        "TSNE-2": -8.907273292541504,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": 3.1231601238250732,
+        "TSNE-2": 14.08908748626709,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -3.8213441371917725,
+        "TSNE-2": -0.1677226573228836,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -2.8356471061706543,
+        "TSNE-2": 7.601800441741943,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": 9.850441932678223,
+        "TSNE-2": -1.0022412538528442,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      },
+      {
+        "TSNE-1": -7.350060939788818,
+        "TSNE-2": -9.278960227966309,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -2.2029407024383545,
+        "TSNE-2": 12.318894386291504,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -2.617715835571289,
+        "TSNE-2": -4.27250862121582,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": -7.350060939788818,
+        "TSNE-2": -9.278960227966309,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 0.24684996902942657,
+        "TSNE-2": 4.304050922393799,
+        "cluster": 3,
+        "keywords": "board, employee, cause, member, nonpartisan"
+      },
+      {
+        "TSNE-1": -10.326234817504883,
+        "TSNE-2": -4.548608779907227,
+        "cluster": 1,
+        "keywords": "contribution, federal, total, percent, individual"
+      },
+      {
+        "TSNE-1": 8.410017013549805,
+        "TSNE-2": -4.1935505867004395,
+        "cluster": 4,
+        "keywords": "tends, donate, party, often, support"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_57",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-25032 - does aarp tend to be democratic or republican"
+  }
+}

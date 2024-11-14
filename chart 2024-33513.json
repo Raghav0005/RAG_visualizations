@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-8682d03beb134570da7830ae1a904c8b"
+  },
+  "datasets": {
+    "data-8682d03beb134570da7830ae1a904c8b": [
+      {
+        "TSNE-1": -0.10790728777647018,
+        "TSNE-2": -0.6581692695617676,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -3.886384963989258,
+        "TSNE-2": -0.4231879711151123,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": -3.0543394088745117,
+        "TSNE-2": 8.40256118774414,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": 0.6824931502342224,
+        "TSNE-2": 6.007387161254883,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -3.0543394088745117,
+        "TSNE-2": 8.40256118774414,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": -3.143059253692627,
+        "TSNE-2": 10.429780006408691,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": 4.353085517883301,
+        "TSNE-2": 5.809226989746094,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": 3.8610963821411133,
+        "TSNE-2": -2.643083333969116,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -8.06220531463623,
+        "TSNE-2": 4.9344987869262695,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": -3.3586924076080322,
+        "TSNE-2": -8.653474807739258,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": 9.828511238098145,
+        "TSNE-2": 7.438844203948975,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": 7.841680526733398,
+        "TSNE-2": 3.775805950164795,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": 2.601133346557617,
+        "TSNE-2": -4.351898670196533,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -1.424986481666565,
+        "TSNE-2": -3.585240602493286,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -5.992156028747559,
+        "TSNE-2": -8.59855842590332,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": -4.026458263397217,
+        "TSNE-2": -2.9774672985076904,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 6.628347396850586,
+        "TSNE-2": 10.64651870727539,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": 3.8610963821411133,
+        "TSNE-2": -2.643083333969116,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -5.481814861297607,
+        "TSNE-2": -1.6201204061508179,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": -8.57160758972168,
+        "TSNE-2": -0.4389496445655823,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 1.6017638444900513,
+        "TSNE-2": 7.459959030151367,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": 0.12348584830760956,
+        "TSNE-2": 1.343363881111145,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 1.6017638444900513,
+        "TSNE-2": 7.459959030151367,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -5.317920207977295,
+        "TSNE-2": 0.8701421618461609,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 1.6130660772323608,
+        "TSNE-2": -0.07882294058799744,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -0.05711367726325989,
+        "TSNE-2": -3.396261692047119,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -1.1016868352890015,
+        "TSNE-2": 5.26038122177124,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": -4.559515476226807,
+        "TSNE-2": 3.3538761138916016,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": -5.992156028747559,
+        "TSNE-2": -8.59855842590332,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": -1.451059341430664,
+        "TSNE-2": 7.235212326049805,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": -7.740762233734131,
+        "TSNE-2": 5.43175745010376,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": -10.111664772033691,
+        "TSNE-2": -0.605737030506134,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 1.6480543613433838,
+        "TSNE-2": -3.4142003059387207,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -2.9564883708953857,
+        "TSNE-2": 1.5079200267791748,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 1.9345200061798096,
+        "TSNE-2": -2.0144195556640625,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 6.674611568450928,
+        "TSNE-2": 5.392425060272217,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": 2.961341381072998,
+        "TSNE-2": -7.668627738952637,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 4.724970817565918,
+        "TSNE-2": 2.9487955570220947,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": -1.1583399772644043,
+        "TSNE-2": -5.646668434143066,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": -1.7770228385925293,
+        "TSNE-2": 0.23622199892997742,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 3.7732391357421875,
+        "TSNE-2": 0.7978367805480957,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -0.3613879978656769,
+        "TSNE-2": 2.861557722091675,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": 2.5904252529144287,
+        "TSNE-2": -3.4646153450012207,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 3.504699468612671,
+        "TSNE-2": 4.599763870239258,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -6.028409957885742,
+        "TSNE-2": 7.581272125244141,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": 9.611705780029297,
+        "TSNE-2": 0.5368648767471313,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": -11.108776092529297,
+        "TSNE-2": -0.24768242239952087,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": -4.475079536437988,
+        "TSNE-2": -11.304828643798828,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": 9.824088096618652,
+        "TSNE-2": 7.4298930168151855,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": -5.672147750854492,
+        "TSNE-2": 6.954787731170654,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": 1.383109211921692,
+        "TSNE-2": 3.621265411376953,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -3.8004608154296875,
+        "TSNE-2": -9.153952598571777,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": 1.1094615459442139,
+        "TSNE-2": -4.165902137756348,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 9.611705780029297,
+        "TSNE-2": 0.5368648767471313,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": -2.850076913833618,
+        "TSNE-2": -1.515139102935791,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 1.4785280227661133,
+        "TSNE-2": 9.314794540405273,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -5.107373237609863,
+        "TSNE-2": -2.4121687412261963,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": -6.787633419036865,
+        "TSNE-2": -10.51536750793457,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": 6.481455326080322,
+        "TSNE-2": -0.2012907713651657,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": -0.6593160033226013,
+        "TSNE-2": 8.938364028930664,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -1.1923586130142212,
+        "TSNE-2": 9.983195304870605,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -5.835538387298584,
+        "TSNE-2": -5.1593475341796875,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": 3.3958792686462402,
+        "TSNE-2": 8.576956748962402,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": 1.450250267982483,
+        "TSNE-2": 1.7696254253387451,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 3.781270980834961,
+        "TSNE-2": -7.245937824249268,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 1.4722826480865479,
+        "TSNE-2": -5.960988998413086,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 5.6904401779174805,
+        "TSNE-2": -7.311501979827881,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -0.6907159090042114,
+        "TSNE-2": -1.8530329465866089,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 0.2571963965892792,
+        "TSNE-2": 3.9463016986846924,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": 0.5059294700622559,
+        "TSNE-2": 7.572175979614258,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": 1.7925845384597778,
+        "TSNE-2": 5.27605676651001,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": 6.628347396850586,
+        "TSNE-2": 10.64651870727539,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -2.8060364723205566,
+        "TSNE-2": 5.862267971038818,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": 6.172573566436768,
+        "TSNE-2": -2.6584908962249756,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 6.782070159912109,
+        "TSNE-2": -5.348677635192871,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 0.6226861476898193,
+        "TSNE-2": -8.0475435256958,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": 3.20762038230896,
+        "TSNE-2": -5.26094388961792,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -2.8060364723205566,
+        "TSNE-2": 5.862267971038818,
+        "cluster": 4,
+        "keywords": "better, time, often, become, challenge"
+      },
+      {
+        "TSNE-1": -5.278031826019287,
+        "TSNE-2": -5.811711311340332,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": -5.1197686195373535,
+        "TSNE-2": -10.27908706665039,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": -1.4951285123825073,
+        "TSNE-2": -1.8166307210922241,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": 7.841680526733398,
+        "TSNE-2": 3.775805950164795,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": -1.3198360204696655,
+        "TSNE-2": 10.838521957397461,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": 2.3826651573181152,
+        "TSNE-2": -0.9405393600463867,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -1.7770228385925293,
+        "TSNE-2": 0.23622199892997742,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": -7.151491165161133,
+        "TSNE-2": -8.672399520874023,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": -8.094691276550293,
+        "TSNE-2": 4.000363349914551,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 1.2387008666992188,
+        "TSNE-2": 10.921192169189453,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      },
+      {
+        "TSNE-1": -3.3230087757110596,
+        "TSNE-2": -3.9087376594543457,
+        "cluster": 2,
+        "keywords": "face, situation, hiding, difficult, sense"
+      },
+      {
+        "TSNE-1": 10.835631370544434,
+        "TSNE-2": 3.6895077228546143,
+        "cluster": 3,
+        "keywords": "life, affect, decision, success, fulfillment"
+      },
+      {
+        "TSNE-1": 4.438145637512207,
+        "TSNE-2": -1.062164068222046,
+        "cluster": 0,
+        "keywords": "individual, good, positive, likely, high"
+      },
+      {
+        "TSNE-1": -10.111664772033691,
+        "TSNE-2": -0.605737030506134,
+        "cluster": 5,
+        "keywords": "allows, navigate, also, resilience, view"
+      },
+      {
+        "TSNE-1": 2.605684518814087,
+        "TSNE-2": 6.871188640594482,
+        "cluster": 1,
+        "keywords": "able, ask, help, overcome, accept"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_278",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-33513 - how can good self-esteem help you through difficult situations?"
+  }
+}

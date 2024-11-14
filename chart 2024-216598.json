@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e95664f70c4221d53740f3d6d375ea27"
+  },
+  "datasets": {
+    "data-e95664f70c4221d53740f3d6d375ea27": [
+      {
+        "TSNE-1": -6.407130241394043,
+        "TSNE-2": -0.16699782013893127,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -8.970455169677734,
+        "TSNE-2": 3.951051712036133,
+        "cluster": 0,
+        "keywords": "nan, teenager, risk, may, fragile"
+      },
+      {
+        "TSNE-1": -0.12599217891693115,
+        "TSNE-2": 14.730325698852539,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": 4.54757833480835,
+        "TSNE-2": -6.126900672912598,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": -0.12599217891693115,
+        "TSNE-2": 14.730325698852539,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": 4.746185302734375,
+        "TSNE-2": -4.400909423828125,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": -5.3726701736450195,
+        "TSNE-2": -3.4848878383636475,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -5.56455659866333,
+        "TSNE-2": 2.2872893810272217,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -11.05471134185791,
+        "TSNE-2": -0.5345816016197205,
+        "cluster": 0,
+        "keywords": "nan, teenager, risk, may, fragile"
+      },
+      {
+        "TSNE-1": 8.053560256958008,
+        "TSNE-2": -1.3123140335083008,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -9.892098426818848,
+        "TSNE-2": -4.458469390869141,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -3.6178667545318604,
+        "TSNE-2": -8.715591430664062,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": 0.5610190629959106,
+        "TSNE-2": 4.548219680786133,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": 9.88298225402832,
+        "TSNE-2": 5.367062091827393,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 0.6600063443183899,
+        "TSNE-2": -8.761598587036133,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -2.158043146133423,
+        "TSNE-2": 2.519965171813965,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -12.067605972290039,
+        "TSNE-2": 6.882035732269287,
+        "cluster": 0,
+        "keywords": "nan, teenager, risk, may, fragile"
+      },
+      {
+        "TSNE-1": -5.56455659866333,
+        "TSNE-2": 2.2872893810272217,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -2.1494503021240234,
+        "TSNE-2": 1.1737827062606812,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": 5.421767234802246,
+        "TSNE-2": 8.847978591918945,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -5.117321491241455,
+        "TSNE-2": 10.01174259185791,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": 2.472231149673462,
+        "TSNE-2": 9.6318941116333,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": 8.761427879333496,
+        "TSNE-2": -7.275486946105957,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 11.37187671661377,
+        "TSNE-2": 3.8278746604919434,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 2.9828901290893555,
+        "TSNE-2": 11.489151000976562,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": -4.227478981018066,
+        "TSNE-2": 1.0173012018203735,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": 4.646238803863525,
+        "TSNE-2": -7.696244239807129,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 3.35536789894104,
+        "TSNE-2": -11.125032424926758,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 1.0971627235412598,
+        "TSNE-2": -8.332365989685059,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -2.290841579437256,
+        "TSNE-2": -12.572282791137695,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -12.414667129516602,
+        "TSNE-2": -0.14563830196857452,
+        "cluster": 0,
+        "keywords": "nan, teenager, risk, may, fragile"
+      },
+      {
+        "TSNE-1": 3.700982093811035,
+        "TSNE-2": 7.163613319396973,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 1.3573861122131348,
+        "TSNE-2": 4.792733669281006,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -0.503229022026062,
+        "TSNE-2": 1.82989501953125,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -13.14869213104248,
+        "TSNE-2": 5.1391282081604,
+        "cluster": 0,
+        "keywords": "nan, teenager, risk, may, fragile"
+      },
+      {
+        "TSNE-1": 5.481330394744873,
+        "TSNE-2": 3.1124134063720703,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 0.16400612890720367,
+        "TSNE-2": -2.8195018768310547,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": 10.27817153930664,
+        "TSNE-2": -3.529937505722046,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 1.0692298412322998,
+        "TSNE-2": 0.05892305076122284,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -0.20728488266468048,
+        "TSNE-2": 8.982138633728027,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": -8.275486946105957,
+        "TSNE-2": 4.521055221557617,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -6.421504974365234,
+        "TSNE-2": -4.026360988616943,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -0.3023153245449066,
+        "TSNE-2": 5.849479675292969,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -4.297222137451172,
+        "TSNE-2": 6.2545366287231445,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": 5.5671563148498535,
+        "TSNE-2": 1.9635111093521118,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -7.803336143493652,
+        "TSNE-2": -9.393333435058594,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": 6.439869403839111,
+        "TSNE-2": 7.333439826965332,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 7.806967735290527,
+        "TSNE-2": -4.415097713470459,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": -9.892098426818848,
+        "TSNE-2": -4.458469390869141,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": 4.820071697235107,
+        "TSNE-2": 1.6809300184249878,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 6.753983497619629,
+        "TSNE-2": 10.870980262756348,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 8.670539855957031,
+        "TSNE-2": -2.1611874103546143,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 0.8308748006820679,
+        "TSNE-2": 6.07045841217041,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": -7.803336143493652,
+        "TSNE-2": -9.393333435058594,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -3.3935070037841797,
+        "TSNE-2": 1.9873318672180176,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -4.447615623474121,
+        "TSNE-2": 12.872115135192871,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": -2.5653178691864014,
+        "TSNE-2": 3.6055748462677,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": 6.937361717224121,
+        "TSNE-2": -3.355639696121216,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 6.979825496673584,
+        "TSNE-2": 5.318075656890869,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -4.38419771194458,
+        "TSNE-2": 11.641401290893555,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": 6.244094371795654,
+        "TSNE-2": -0.7792736291885376,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 7.585109710693359,
+        "TSNE-2": -10.931437492370605,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 9.23616886138916,
+        "TSNE-2": -10.479354858398438,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 4.945888042449951,
+        "TSNE-2": 5.917626857757568,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 0.7734749913215637,
+        "TSNE-2": -3.5960514545440674,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -2.186771869659424,
+        "TSNE-2": -0.41614505648612976,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -1.0304838418960571,
+        "TSNE-2": -3.6047203540802,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": 1.4212079048156738,
+        "TSNE-2": 1.3951395750045776,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -2.3857388496398926,
+        "TSNE-2": 5.223186492919922,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -7.004664421081543,
+        "TSNE-2": 7.61619758605957,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": 3.0622477531433105,
+        "TSNE-2": 3.1604907512664795,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -12.067605972290039,
+        "TSNE-2": 6.882035732269287,
+        "cluster": 0,
+        "keywords": "nan, teenager, risk, may, fragile"
+      },
+      {
+        "TSNE-1": 10.46613883972168,
+        "TSNE-2": -0.07640177011489868,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 2.605159282684326,
+        "TSNE-2": -1.9605060815811157,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -1.520224690437317,
+        "TSNE-2": -2.794877767562866,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -7.649768352508545,
+        "TSNE-2": 1.8150084018707275,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": 3.245481252670288,
+        "TSNE-2": -1.2891656160354614,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 10.46613883972168,
+        "TSNE-2": -0.07640177011489868,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": 8.484773635864258,
+        "TSNE-2": -11.14770221710205,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 6.540197849273682,
+        "TSNE-2": -4.9322991371154785,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 10.043593406677246,
+        "TSNE-2": 4.18255090713501,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -3.6178667545318604,
+        "TSNE-2": -8.715591430664062,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": -24.648372650146484,
+        "TSNE-2": -11.593177795410156,
+        "cluster": 0,
+        "keywords": "nan, teenager, risk, may, fragile"
+      },
+      {
+        "TSNE-1": -1.9442322254180908,
+        "TSNE-2": 8.026909828186035,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": -0.20728488266468048,
+        "TSNE-2": 8.982138633728027,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": 6.749185562133789,
+        "TSNE-2": -5.920587539672852,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": 12.326279640197754,
+        "TSNE-2": -5.455294609069824,
+        "cluster": 3,
+        "keywords": "bleak, due, face, various, reason"
+      },
+      {
+        "TSNE-1": -7.8133039474487305,
+        "TSNE-2": 10.685402870178223,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      },
+      {
+        "TSNE-1": -4.070498466491699,
+        "TSNE-2": -0.6606309413909912,
+        "cluster": 5,
+        "keywords": "many, economic, teen, fear, medium"
+      },
+      {
+        "TSNE-1": -13.299917221069336,
+        "TSNE-2": 0.05570586025714874,
+        "cluster": 0,
+        "keywords": "nan, teenager, risk, may, fragile"
+      },
+      {
+        "TSNE-1": -2.3505382537841797,
+        "TSNE-2": -4.663329601287842,
+        "cluster": 4,
+        "keywords": "mental, health, disorder, pressure, able"
+      },
+      {
+        "TSNE-1": 3.700982093811035,
+        "TSNE-2": 7.163613319396973,
+        "cluster": 1,
+        "keywords": "adolescent, future, emotional, lack, sensitivity"
+      },
+      {
+        "TSNE-1": -5.382638454437256,
+        "TSNE-2": 8.667027473449707,
+        "cluster": 2,
+        "keywords": "document, social, negative, unrealistic, lead"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_177",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-216598 - why do adolescents face a bleak future"
+  }
+}

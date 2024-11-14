@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-a7274875384f9141fad76f109cfab3c6"
+  },
+  "datasets": {
+    "data-a7274875384f9141fad76f109cfab3c6": [
+      {
+        "TSNE-1": -18.026859283447266,
+        "TSNE-2": -11.271263122558594,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 30.09074592590332,
+        "TSNE-2": -12.03046989440918,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -1.5046108961105347,
+        "TSNE-2": 29.230701446533203,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 0.4199199378490448,
+        "TSNE-2": 17.19434356689453,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": -1.5046108961105347,
+        "TSNE-2": 29.230701446533203,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": -23.85077667236328,
+        "TSNE-2": -14.169214248657227,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": -22.497528076171875,
+        "TSNE-2": -4.60148811340332,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 13.970075607299805,
+        "TSNE-2": 18.214542388916016,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 18.21316146850586,
+        "TSNE-2": 26.311647415161133,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -2.396472692489624,
+        "TSNE-2": 12.596216201782227,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": -11.606142044067383,
+        "TSNE-2": -2.1764938831329346,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": -13.494247436523438,
+        "TSNE-2": 7.4241862297058105,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 12.1913480758667,
+        "TSNE-2": 11.21229362487793,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 14.34093952178955,
+        "TSNE-2": -1.6265342235565186,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": 3.6796655654907227,
+        "TSNE-2": -4.133409023284912,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -7.8773908615112305,
+        "TSNE-2": -11.614462852478027,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": -6.985400676727295,
+        "TSNE-2": 22.65261459350586,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 13.970075607299805,
+        "TSNE-2": 18.214542388916016,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -19.30668067932129,
+        "TSNE-2": 3.303701400756836,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 10.291208267211914,
+        "TSNE-2": -29.96248435974121,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": 14.414583206176758,
+        "TSNE-2": -12.290787696838379,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -154.64610290527344,
+        "TSNE-2": -20.67481231689453,
+        "cluster": 5,
+        "keywords": "exclude, evolutionarily, evolve, exacerbate, exacerbates"
+      },
+      {
+        "TSNE-1": 7.042751789093018,
+        "TSNE-2": -7.666903495788574,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": 18.45661735534668,
+        "TSNE-2": -7.946817874908447,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": 17.552961349487305,
+        "TSNE-2": 7.784866809844971,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 11.652155876159668,
+        "TSNE-2": 2.9294300079345703,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -1.928533673286438,
+        "TSNE-2": 5.527904033660889,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": 21.602523803710938,
+        "TSNE-2": -17.061491012573242,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": 0.3074614703655243,
+        "TSNE-2": -29.13566780090332,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": 33.01409912109375,
+        "TSNE-2": 6.255300045013428,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -33.626426696777344,
+        "TSNE-2": -1.9214273691177368,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 24.37802505493164,
+        "TSNE-2": 8.23039722442627,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 11.9043607711792,
+        "TSNE-2": 7.655287742614746,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 7.96261739730835,
+        "TSNE-2": -23.35260772705078,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -30.247373580932617,
+        "TSNE-2": -10.627750396728516,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": -12.649560928344727,
+        "TSNE-2": -24.698930740356445,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": -25.592817306518555,
+        "TSNE-2": 1.2181451320648193,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 22.74042510986328,
+        "TSNE-2": 17.802505493164062,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 3.3963797092437744,
+        "TSNE-2": 3.373965263366699,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": 9.141647338867188,
+        "TSNE-2": -2.3844597339630127,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": 17.030210494995117,
+        "TSNE-2": -22.397085189819336,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": 19.648441314697266,
+        "TSNE-2": 1.9542607069015503,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 7.434492588043213,
+        "TSNE-2": 11.649367332458496,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 0.5696810483932495,
+        "TSNE-2": -1.8372904062271118,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -18.81418800354004,
+        "TSNE-2": 11.334200859069824,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 28.412973403930664,
+        "TSNE-2": -0.21272864937782288,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -3.1288020610809326,
+        "TSNE-2": -9.323124885559082,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": 10.410002708435059,
+        "TSNE-2": -9.901935577392578,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -14.067983627319336,
+        "TSNE-2": -1.6095266342163086,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": -15.77012825012207,
+        "TSNE-2": -21.74184226989746,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": -0.022356398403644562,
+        "TSNE-2": -6.450558185577393,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": 0.08936279267072678,
+        "TSNE-2": 11.346985816955566,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 8.986433982849121,
+        "TSNE-2": 14.077256202697754,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -13.914300918579102,
+        "TSNE-2": 4.865887641906738,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": -10.855833053588867,
+        "TSNE-2": -8.056453704833984,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 13.012158393859863,
+        "TSNE-2": -6.422003269195557,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -0.2793508470058441,
+        "TSNE-2": -13.128158569335938,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -13.429850578308105,
+        "TSNE-2": 16.932493209838867,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": -16.169004440307617,
+        "TSNE-2": -16.61292266845703,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 9.646510124206543,
+        "TSNE-2": -12.825258255004883,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": 6.70777702331543,
+        "TSNE-2": 24.87726402282715,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -3.42626690864563,
+        "TSNE-2": -16.55708122253418,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -6.469785213470459,
+        "TSNE-2": -22.980825424194336,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": 24.26685905456543,
+        "TSNE-2": -8.030121803283691,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -3.647648334503174,
+        "TSNE-2": -2.505920171737671,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -10.574857711791992,
+        "TSNE-2": -16.295949935913086,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": -18.321704864501953,
+        "TSNE-2": -25.72382164001465,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 3.7332634925842285,
+        "TSNE-2": -10.735617637634277,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -7.0090227127075195,
+        "TSNE-2": -5.065216541290283,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -8.986587524414062,
+        "TSNE-2": 10.236992835998535,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 19.5040225982666,
+        "TSNE-2": -2.847529172897339,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -6.985400676727295,
+        "TSNE-2": 22.65261459350586,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 0.42938536405563354,
+        "TSNE-2": -22.3697566986084,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -7.729108810424805,
+        "TSNE-2": -31.780729293823242,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -28.447675704956055,
+        "TSNE-2": 3.245917558670044,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 4.027444362640381,
+        "TSNE-2": -16.75930404663086,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -26.783918380737305,
+        "TSNE-2": -21.07427215576172,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 0.42938536405563354,
+        "TSNE-2": -22.3697566986084,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": -6.9938459396362305,
+        "TSNE-2": 5.730312347412109,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": -7.28498649597168,
+        "TSNE-2": 12.783488273620605,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 6.360322952270508,
+        "TSNE-2": 1.0119892358779907,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -19.025348663330078,
+        "TSNE-2": 22.485403060913086,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 6.70777702331543,
+        "TSNE-2": 24.87726402282715,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -24.978313446044922,
+        "TSNE-2": 9.230388641357422,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 9.141647338867188,
+        "TSNE-2": -2.3844597339630127,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -10.262260437011719,
+        "TSNE-2": 15.248383522033691,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": 7.337165355682373,
+        "TSNE-2": 6.4562087059021,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      },
+      {
+        "TSNE-1": -26.397428512573242,
+        "TSNE-2": 16.552001953125,
+        "cluster": 4,
+        "keywords": "context, discusses, document, state, text"
+      },
+      {
+        "TSNE-1": -15.259940147399902,
+        "TSNE-2": -7.2342939376831055,
+        "cluster": 0,
+        "keywords": "grief, emotional, cause, one, response"
+      },
+      {
+        "TSNE-1": 6.823963165283203,
+        "TSNE-2": 17.907005310058594,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": 10.197099685668945,
+        "TSNE-2": -18.45974349975586,
+        "cluster": 3,
+        "keywords": "may, reaction, reminder, lead, experience"
+      },
+      {
+        "TSNE-1": 24.37802505493164,
+        "TSNE-2": 8.23039722442627,
+        "cluster": 2,
+        "keywords": "positive, individual, trigger, process, help"
+      },
+      {
+        "TSNE-1": -3.5299439430236816,
+        "TSNE-2": 2.6701416969299316,
+        "cluster": 1,
+        "keywords": "classical, stimulus, conditioning, mention, loss"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_248",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-40996 - how does classical condition affect loss of a loved one"
+  }
+}

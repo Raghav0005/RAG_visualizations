@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-bbfa7eb1c6cd75a7813680f6fec5b5a3"
+  },
+  "datasets": {
+    "data-bbfa7eb1c6cd75a7813680f6fec5b5a3": [
+      {
+        "TSNE-1": -9.024042129516602,
+        "TSNE-2": -9.338046073913574,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -5.666350841522217,
+        "TSNE-2": -10.984371185302734,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -2.2893643379211426,
+        "TSNE-2": -10.429858207702637,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": 5.3591766357421875,
+        "TSNE-2": 8.192320823669434,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": -2.2893643379211426,
+        "TSNE-2": -10.429858207702637,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": 23.91950225830078,
+        "TSNE-2": -22.491268157958984,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": 14.629234313964844,
+        "TSNE-2": -7.363138675689697,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -4.642717361450195,
+        "TSNE-2": 6.657908916473389,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 15.779492378234863,
+        "TSNE-2": 3.4658939838409424,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": 11.365312576293945,
+        "TSNE-2": -3.6979820728302,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": 5.988007545471191,
+        "TSNE-2": -12.514753341674805,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": 16.246227264404297,
+        "TSNE-2": 9.382009506225586,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": -8.734184265136719,
+        "TSNE-2": -6.223536491394043,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -8.644408226013184,
+        "TSNE-2": -12.251948356628418,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -2.292726755142212,
+        "TSNE-2": 15.031723976135254,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": -14.761849403381348,
+        "TSNE-2": -7.782201766967773,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": 5.370441913604736,
+        "TSNE-2": 18.897720336914062,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": -4.642717361450195,
+        "TSNE-2": 6.657908916473389,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 0.8888994455337524,
+        "TSNE-2": -10.547874450683594,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": 3.2930166721343994,
+        "TSNE-2": -8.539042472839355,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": -4.365251064300537,
+        "TSNE-2": 11.791671752929688,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": -1.952352523803711,
+        "TSNE-2": -13.615339279174805,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -5.74228572845459,
+        "TSNE-2": 18.559791564941406,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": -5.29956579208374,
+        "TSNE-2": -6.3430094718933105,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -4.158334732055664,
+        "TSNE-2": -19.667285919189453,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -11.789578437805176,
+        "TSNE-2": -1.6259727478027344,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 8.336116790771484,
+        "TSNE-2": -9.318202018737793,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": 15.682209014892578,
+        "TSNE-2": -8.272089004516602,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -2.292726755142212,
+        "TSNE-2": 15.031723976135254,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": 10.473718643188477,
+        "TSNE-2": 7.271406173706055,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": 1.8856664896011353,
+        "TSNE-2": 10.228836059570312,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": 12.805943489074707,
+        "TSNE-2": 1.0986177921295166,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -10.567352294921875,
+        "TSNE-2": -6.7395339012146,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -15.873053550720215,
+        "TSNE-2": -2.6806063652038574,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": -9.207662582397461,
+        "TSNE-2": -15.677813529968262,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": 2.628551483154297,
+        "TSNE-2": -3.0085036754608154,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": 5.20623779296875,
+        "TSNE-2": -2.622222900390625,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": 4.853082656860352,
+        "TSNE-2": 5.026458740234375,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": -9.183995246887207,
+        "TSNE-2": -3.293599843978882,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 2.434297561645508,
+        "TSNE-2": 0.8640081286430359,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -12.023719787597656,
+        "TSNE-2": 2.543255090713501,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": -5.032326698303223,
+        "TSNE-2": 2.02846360206604,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": -1.871038794517517,
+        "TSNE-2": -3.1192851066589355,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 2.559401512145996,
+        "TSNE-2": -12.832359313964844,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": 0.6542623043060303,
+        "TSNE-2": -2.0860347747802734,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 13.180235862731934,
+        "TSNE-2": 14.240803718566895,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": 9.84939956665039,
+        "TSNE-2": 0.36782538890838623,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -0.7038956880569458,
+        "TSNE-2": 3.9194016456604004,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 5.988007545471191,
+        "TSNE-2": -12.514753341674805,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": 0.14202773571014404,
+        "TSNE-2": -3.873943328857422,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": -2.8229923248291016,
+        "TSNE-2": -15.879098892211914,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -7.5084991455078125,
+        "TSNE-2": 17.83078956604004,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": -11.253872871398926,
+        "TSNE-2": -4.840986728668213,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": 13.180235862731934,
+        "TSNE-2": 14.240803718566895,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": -15.51478385925293,
+        "TSNE-2": -5.292581558227539,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": 0.13095644116401672,
+        "TSNE-2": 8.901159286499023,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": -6.418177127838135,
+        "TSNE-2": -3.5172712802886963,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": -3.8353068828582764,
+        "TSNE-2": 18.843801498413086,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": 6.873322010040283,
+        "TSNE-2": -4.863902568817139,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": 7.079126834869385,
+        "TSNE-2": 11.735518455505371,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": 8.421908378601074,
+        "TSNE-2": 5.426556587219238,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": -16.08906364440918,
+        "TSNE-2": 4.474781036376953,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 2.4176690578460693,
+        "TSNE-2": -17.8848876953125,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": 12.805943489074707,
+        "TSNE-2": 1.0986177921295166,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": 7.223655700683594,
+        "TSNE-2": -2.8792083263397217,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -11.051145553588867,
+        "TSNE-2": -9.597478866577148,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -2.9121763706207275,
+        "TSNE-2": -7.173655033111572,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -4.951933860778809,
+        "TSNE-2": -1.1542941331863403,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": -10.171120643615723,
+        "TSNE-2": -0.24664781987667084,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 10.654806137084961,
+        "TSNE-2": -11.42377758026123,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": -5.913574695587158,
+        "TSNE-2": 3.025979518890381,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 5.370441913604736,
+        "TSNE-2": 18.897720336914062,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": 17.096752166748047,
+        "TSNE-2": -3.2162013053894043,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -9.04123592376709,
+        "TSNE-2": 6.907675266265869,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 6.74852991104126,
+        "TSNE-2": -0.9614446759223938,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -14.759688377380371,
+        "TSNE-2": -12.277783393859863,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": -0.6977260112762451,
+        "TSNE-2": 7.0181403160095215,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": 17.096752166748047,
+        "TSNE-2": -3.2162013053894043,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": 1.1607697010040283,
+        "TSNE-2": -18.483362197875977,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": -0.9760340452194214,
+        "TSNE-2": 2.365607261657715,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": -7.075275421142578,
+        "TSNE-2": -7.917998313903809,
+        "cluster": 0,
+        "keywords": "quantum, determinism, relativity, mechanic, deterministic"
+      },
+      {
+        "TSNE-1": 16.246227264404297,
+        "TSNE-2": 9.382009506225586,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": 8.421908378601074,
+        "TSNE-2": 5.426556587219238,
+        "cluster": 5,
+        "keywords": "document, compatibility, concept, context, must"
+      },
+      {
+        "TSNE-1": -8.58230209350586,
+        "TSNE-2": 2.969174861907959,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 2.434297561645508,
+        "TSNE-2": 0.8640081286430359,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -0.724219799041748,
+        "TSNE-2": 17.517621994018555,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": 4.628252029418945,
+        "TSNE-2": 14.070265769958496,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      },
+      {
+        "TSNE-1": 3.5323996543884277,
+        "TSNE-2": -5.628559112548828,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": 0.2396131008863449,
+        "TSNE-2": -8.552648544311523,
+        "cluster": 2,
+        "keywords": "event, indeterminism, universe, inherent, nan"
+      },
+      {
+        "TSNE-1": 9.863869667053223,
+        "TSNE-2": -6.889763832092285,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -1.7621989250183105,
+        "TSNE-2": 0.03564564883708954,
+        "cluster": 3,
+        "keywords": "nature, general, probabilistic, law, special"
+      },
+      {
+        "TSNE-1": 12.805943489074707,
+        "TSNE-2": 1.0986177921295166,
+        "cluster": 4,
+        "keywords": "free, idea, might, suggests, philosophical"
+      },
+      {
+        "TSNE-1": -3.394299030303955,
+        "TSNE-2": 10.674103736877441,
+        "cluster": 1,
+        "keywords": "author, also, theory, argues, incompatible"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_28",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-5957 - are relativity and determinism compatible?"
+  }
+}

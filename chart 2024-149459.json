@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-8fdcacf4837031ae7c3eb59551194eae"
+  },
+  "datasets": {
+    "data-8fdcacf4837031ae7c3eb59551194eae": [
+      {
+        "TSNE-1": 17.66569709777832,
+        "TSNE-2": -10.90694522857666,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -11.203356742858887,
+        "TSNE-2": 5.527273178100586,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 10.641427040100098,
+        "TSNE-2": -8.241969108581543,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": 11.364143371582031,
+        "TSNE-2": 2.8631644248962402,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": 10.641427040100098,
+        "TSNE-2": -8.241969108581543,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -14.895463943481445,
+        "TSNE-2": 12.314153671264648,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": 6.761882781982422,
+        "TSNE-2": -9.202653884887695,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -6.585021495819092,
+        "TSNE-2": 16.173830032348633,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": -17.79193878173828,
+        "TSNE-2": -28.629878997802734,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": 16.150285720825195,
+        "TSNE-2": 5.6197943687438965,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": 1.9735455513000488,
+        "TSNE-2": -23.26352310180664,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": 7.929965496063232,
+        "TSNE-2": -15.12850284576416,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": -2.69293212890625,
+        "TSNE-2": 13.064669609069824,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": -5.9478349685668945,
+        "TSNE-2": 5.3334150314331055,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": 16.150285720825195,
+        "TSNE-2": 5.6197943687438965,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -13.636466979980469,
+        "TSNE-2": 7.480261325836182,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -14.857195854187012,
+        "TSNE-2": -10.794441223144531,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -6.585021495819092,
+        "TSNE-2": 16.173830032348633,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": -7.842670440673828,
+        "TSNE-2": 2.059302568435669,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 7.113799095153809,
+        "TSNE-2": 12.954636573791504,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": 17.804800033569336,
+        "TSNE-2": 0.43102067708969116,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": 18.120195388793945,
+        "TSNE-2": 10.139729499816895,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": 17.804800033569336,
+        "TSNE-2": 0.43102067708969116,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": 0.8995420336723328,
+        "TSNE-2": 5.530635833740234,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": 4.188164234161377,
+        "TSNE-2": 2.273562431335449,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -7.0204668045043945,
+        "TSNE-2": 10.341252326965332,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": 11.364143371582031,
+        "TSNE-2": 2.8631644248962402,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": 6.761882781982422,
+        "TSNE-2": -9.202653884887695,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": 16.150285720825195,
+        "TSNE-2": 5.6197943687438965,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -21.042020797729492,
+        "TSNE-2": 4.6219377517700195,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 3.248009443283081,
+        "TSNE-2": -10.149003982543945,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -0.42025864124298096,
+        "TSNE-2": -12.700090408325195,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": -4.609807968139648,
+        "TSNE-2": 12.793841361999512,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": -7.560978889465332,
+        "TSNE-2": -0.665338397026062,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 0.36351096630096436,
+        "TSNE-2": -17.057456970214844,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": -1.8385018110275269,
+        "TSNE-2": -2.173884391784668,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -4.9207611083984375,
+        "TSNE-2": -10.10446548461914,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": 0.2792612910270691,
+        "TSNE-2": -9.15929889678955,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -4.528534412384033,
+        "TSNE-2": -13.41595458984375,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": -3.5507519245147705,
+        "TSNE-2": 8.378887176513672,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": -13.156304359436035,
+        "TSNE-2": -0.9691845774650574,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -14.441383361816406,
+        "TSNE-2": 4.717662334442139,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -0.14981098473072052,
+        "TSNE-2": 12.88438606262207,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": -0.8277015089988708,
+        "TSNE-2": 15.405269622802734,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": -16.558595657348633,
+        "TSNE-2": -0.03704316169023514,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -9.82686996459961,
+        "TSNE-2": -14.934370994567871,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": -8.845377922058105,
+        "TSNE-2": -4.8103251457214355,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 16.150285720825195,
+        "TSNE-2": 5.6197943687438965,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": 1.9735455513000488,
+        "TSNE-2": -23.26352310180664,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": -3.5448853969573975,
+        "TSNE-2": -3.2177071571350098,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -0.6418417692184448,
+        "TSNE-2": -5.290736198425293,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": 16.150285720825195,
+        "TSNE-2": 5.6197943687438965,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -8.911782264709473,
+        "TSNE-2": 14.38305950164795,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": 8.843823432922363,
+        "TSNE-2": -3.839674711227417,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -5.444411277770996,
+        "TSNE-2": 0.16573110222816467,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 16.463682174682617,
+        "TSNE-2": -3.974700927734375,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -17.35426139831543,
+        "TSNE-2": 7.031856536865234,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 20.395137786865234,
+        "TSNE-2": 4.4831624031066895,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -2.593388319015503,
+        "TSNE-2": -7.8095011711120605,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": 16.463682174682617,
+        "TSNE-2": -3.974700927734375,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": 7.031933784484863,
+        "TSNE-2": 8.766730308532715,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": -15.332822799682617,
+        "TSNE-2": -3.359415054321289,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 7.626816749572754,
+        "TSNE-2": -0.13785992562770844,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": 2.5394647121429443,
+        "TSNE-2": -4.414285182952881,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -0.9085394740104675,
+        "TSNE-2": 0.5812416076660156,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -11.071905136108398,
+        "TSNE-2": 1.7743442058563232,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -6.801659107208252,
+        "TSNE-2": -6.285016059875488,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 1.4174096584320068,
+        "TSNE-2": 0.9397305250167847,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -14.587220191955566,
+        "TSNE-2": 2.12337589263916,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 17.804800033569336,
+        "TSNE-2": 0.43102067708969116,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -14.587220191955566,
+        "TSNE-2": 2.12337589263916,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -14.857195854187012,
+        "TSNE-2": -10.794441223144531,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 4.500830173492432,
+        "TSNE-2": 19.57403564453125,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": 4.578351974487305,
+        "TSNE-2": -1.0400255918502808,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": 2.6792821884155273,
+        "TSNE-2": 9.20576286315918,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": 4.389951229095459,
+        "TSNE-2": -6.348844528198242,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": -5.690384864807129,
+        "TSNE-2": -17.312936782836914,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": 4.500830173492432,
+        "TSNE-2": 19.57403564453125,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": 0.9187532067298889,
+        "TSNE-2": -7.212174415588379,
+        "cluster": 1,
+        "keywords": "white, document, black, hispanic, race"
+      },
+      {
+        "TSNE-1": 13.039680480957031,
+        "TSNE-2": 8.301405906677246,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -0.8719875812530518,
+        "TSNE-2": 5.175145149230957,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": 7.929965496063232,
+        "TSNE-2": -15.12850284576416,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": 7.031933784484863,
+        "TSNE-2": 8.766730308532715,
+        "cluster": 4,
+        "keywords": "study, different, found, online, national"
+      },
+      {
+        "TSNE-1": -19.516834259033203,
+        "TSNE-2": -0.0025488585233688354,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -3.5507519245147705,
+        "TSNE-2": 8.378887176513672,
+        "cluster": 5,
+        "keywords": "across, center, another, reason, source"
+      },
+      {
+        "TSNE-1": 13.039680480957031,
+        "TSNE-2": 8.301405906677246,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      },
+      {
+        "TSNE-1": -8.649043083190918,
+        "TSNE-2": -8.268658638000488,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 2.8887383937835693,
+        "TSNE-2": -14.57231616973877,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": -4.112044334411621,
+        "TSNE-2": 1.5799237489700317,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": 5.40216064453125,
+        "TSNE-2": -12.756741523742676,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": -17.137649536132812,
+        "TSNE-2": 3.319200038909912,
+        "cluster": 3,
+        "keywords": "racial, due, among, approximately, skin"
+      },
+      {
+        "TSNE-1": -0.42025864124298096,
+        "TSNE-2": -12.700090408325195,
+        "cluster": 0,
+        "keywords": "student, higher, school, percentage, asian"
+      },
+      {
+        "TSNE-1": 13.342833518981934,
+        "TSNE-2": 1.3710166215896606,
+        "cluster": 2,
+        "keywords": "victim, bullying, latino, percent, likely"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_93",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-149459 - what percent of students are bullied because of race"
+  }
+}

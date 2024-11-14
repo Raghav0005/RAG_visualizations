@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-4a054e8f530e41417173369f2c5d37c3"
+  },
+  "datasets": {
+    "data-4a054e8f530e41417173369f2c5d37c3": [
+      {
+        "TSNE-1": -6.385402679443359,
+        "TSNE-2": -1.4919102191925049,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": -7.337224006652832,
+        "TSNE-2": -3.4542508125305176,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": 4.144672393798828,
+        "TSNE-2": 4.095571994781494,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": 0.39074423909187317,
+        "TSNE-2": 7.047078609466553,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": 4.144672393798828,
+        "TSNE-2": 4.095571994781494,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -12.026229858398438,
+        "TSNE-2": 0.40700051188468933,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": -2.6425740718841553,
+        "TSNE-2": 3.4464783668518066,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": 1.5987380743026733,
+        "TSNE-2": -7.343865394592285,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 2.654680013656616,
+        "TSNE-2": -12.897068977355957,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": -14.251568794250488,
+        "TSNE-2": -8.835740089416504,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": 5.604567050933838,
+        "TSNE-2": 9.479758262634277,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": 12.83189868927002,
+        "TSNE-2": -6.2251362800598145,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": -1.32868230342865,
+        "TSNE-2": -3.6132826805114746,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 3.503612995147705,
+        "TSNE-2": 6.1772308349609375,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -6.508843898773193,
+        "TSNE-2": -11.314213752746582,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": 0.773712158203125,
+        "TSNE-2": -3.7069358825683594,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -8.301495552062988,
+        "TSNE-2": 13.798399925231934,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": 0.7121569514274597,
+        "TSNE-2": -6.316068172454834,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -0.015931054949760437,
+        "TSNE-2": -10.336846351623535,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 8.097770690917969,
+        "TSNE-2": 5.94614839553833,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": 9.261938095092773,
+        "TSNE-2": 1.230155348777771,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -11.055838584899902,
+        "TSNE-2": 7.070399284362793,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": 11.022518157958984,
+        "TSNE-2": 1.7935243844985962,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": 2.0541293621063232,
+        "TSNE-2": 12.020930290222168,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": -8.266090393066406,
+        "TSNE-2": -5.928167819976807,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": -3.14127516746521,
+        "TSNE-2": -6.533651351928711,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -0.517078697681427,
+        "TSNE-2": 7.366023540496826,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": 7.961648464202881,
+        "TSNE-2": -1.156732201576233,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": -6.3154520988464355,
+        "TSNE-2": -12.560096740722656,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": -13.873574256896973,
+        "TSNE-2": 1.3594014644622803,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": 7.011775016784668,
+        "TSNE-2": -8.918256759643555,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": 13.307073593139648,
+        "TSNE-2": 6.025198936462402,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": 4.578197002410889,
+        "TSNE-2": -10.339010238647461,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": -3.4416277408599854,
+        "TSNE-2": -8.974323272705078,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": -11.909997940063477,
+        "TSNE-2": 3.6402268409729004,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": -2.9862289428710938,
+        "TSNE-2": 0.8428996801376343,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 0.19750383496284485,
+        "TSNE-2": 1.7196941375732422,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -1.400300145149231,
+        "TSNE-2": -13.681135177612305,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": -1.602952480316162,
+        "TSNE-2": -7.479931354522705,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -4.157854080200195,
+        "TSNE-2": -1.9088793992996216,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 3.018648624420166,
+        "TSNE-2": -7.962098121643066,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": -6.997145652770996,
+        "TSNE-2": 3.6161162853240967,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": 15.24481201171875,
+        "TSNE-2": -18.80925178527832,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": -5.068703651428223,
+        "TSNE-2": 1.6968106031417847,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": 1.1281962394714355,
+        "TSNE-2": -0.4762992560863495,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 10.546435356140137,
+        "TSNE-2": -6.3976545333862305,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": 11.115325927734375,
+        "TSNE-2": -0.7459369897842407,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": -12.154170036315918,
+        "TSNE-2": -11.242012977600098,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": 5.604567050933838,
+        "TSNE-2": 9.479758262634277,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -1.5481384992599487,
+        "TSNE-2": -0.7640113234519958,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -9.781513214111328,
+        "TSNE-2": 8.061107635498047,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": -14.66110610961914,
+        "TSNE-2": -9.583720207214355,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": -2.542290687561035,
+        "TSNE-2": -3.988424301147461,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 9.274828910827637,
+        "TSNE-2": -3.263505220413208,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": 3.5953357219696045,
+        "TSNE-2": -2.9088127613067627,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 8.172808647155762,
+        "TSNE-2": 4.043759346008301,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": 2.483616352081299,
+        "TSNE-2": -4.825186252593994,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -2.5586113929748535,
+        "TSNE-2": 14.520177841186523,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": 5.069333076477051,
+        "TSNE-2": -5.677590847015381,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": 7.698648452758789,
+        "TSNE-2": 2.6102027893066406,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -10.253168106079102,
+        "TSNE-2": -6.179307460784912,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": -0.5331493616104126,
+        "TSNE-2": 4.024890422821045,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": -3.555105447769165,
+        "TSNE-2": 4.796112537384033,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": 13.307073593139648,
+        "TSNE-2": 6.025198936462402,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -1.2434748411178589,
+        "TSNE-2": 1.7193578481674194,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -5.798910617828369,
+        "TSNE-2": -6.978280067443848,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": -0.6427971124649048,
+        "TSNE-2": -0.23928701877593994,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -4.524946212768555,
+        "TSNE-2": -4.474171161651611,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 5.877127647399902,
+        "TSNE-2": -2.0477938652038574,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": 8.959694862365723,
+        "TSNE-2": 0.3616827428340912,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -7.9264607429504395,
+        "TSNE-2": 3.1757168769836426,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": -8.291266441345215,
+        "TSNE-2": 12.978994369506836,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": 9.9517183303833,
+        "TSNE-2": 11.619211196899414,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -4.286271095275879,
+        "TSNE-2": 7.458887577056885,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": 2.0485687255859375,
+        "TSNE-2": 1.7780216932296753,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 3.532538414001465,
+        "TSNE-2": -0.3806402087211609,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -7.874917030334473,
+        "TSNE-2": -0.16354574263095856,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": 9.9517183303833,
+        "TSNE-2": 11.619211196899414,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -4.1386799812316895,
+        "TSNE-2": 5.803427219390869,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": -12.154170036315918,
+        "TSNE-2": -11.242012977600098,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": 2.1195132732391357,
+        "TSNE-2": 11.036150932312012,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": 12.862089157104492,
+        "TSNE-2": -7.042092323303223,
+        "cluster": 4,
+        "keywords": "spending, good, rate, supply, shopping"
+      },
+      {
+        "TSNE-1": -10.128899574279785,
+        "TSNE-2": -6.971014976501465,
+        "cluster": 5,
+        "keywords": "financial, limited, resource, president, severely"
+      },
+      {
+        "TSNE-1": -10.243367195129395,
+        "TSNE-2": -2.5263257026672363,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": -4.157854080200195,
+        "TSNE-2": -1.9088793992996216,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -3.3007192611694336,
+        "TSNE-2": 13.827225685119629,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": -3.8199872970581055,
+        "TSNE-2": 10.325037002563477,
+        "cluster": 2,
+        "keywords": "american, month, affect, entire, cost"
+      },
+      {
+        "TSNE-1": -7.039154052734375,
+        "TSNE-2": 8.129145622253418,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": 0.9978986978530884,
+        "TSNE-2": -2.0180301666259766,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": -9.870348930358887,
+        "TSNE-2": 5.8823137283325195,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      },
+      {
+        "TSNE-1": -1.0674724578857422,
+        "TSNE-2": -5.152191638946533,
+        "cluster": 1,
+        "keywords": "economic, consumer, inflation, economy, imbalance"
+      },
+      {
+        "TSNE-1": 12.206008911132812,
+        "TSNE-2": 6.582949638366699,
+        "cluster": 3,
+        "keywords": "significant, negative, impact, also, decline"
+      },
+      {
+        "TSNE-1": -8.30070686340332,
+        "TSNE-2": 7.621532440185547,
+        "cluster": 0,
+        "keywords": "war, billion, vietnam, military, increase"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_4",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-32912 - how bad did the vietnam war devastate the economy in 1968"
+  }
+}

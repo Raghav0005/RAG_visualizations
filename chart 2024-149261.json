@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-153dc26a7d022148d72f4169f65a66e4"
+  },
+  "datasets": {
+    "data-153dc26a7d022148d72f4169f65a66e4": [
+      {
+        "TSNE-1": -1.3388193845748901,
+        "TSNE-2": -7.197607517242432,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": -7.674102783203125,
+        "TSNE-2": -5.505679130554199,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": -13.661280632019043,
+        "TSNE-2": 5.012346267700195,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": 4.99136209487915,
+        "TSNE-2": -6.4511942863464355,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -13.526253700256348,
+        "TSNE-2": 4.537962913513184,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": 8.416463851928711,
+        "TSNE-2": -8.907773971557617,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -7.602809429168701,
+        "TSNE-2": 3.1658577919006348,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": 0.6453742384910583,
+        "TSNE-2": -1.8905823230743408,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 12.073456764221191,
+        "TSNE-2": 3.4341249465942383,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": 0.23518608510494232,
+        "TSNE-2": 10.037973403930664,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": -0.1554235816001892,
+        "TSNE-2": 14.623458862304688,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": 3.564615249633789,
+        "TSNE-2": 6.106630802154541,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": -0.8210533857345581,
+        "TSNE-2": -1.3164609670639038,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 4.586912155151367,
+        "TSNE-2": -0.9985343813896179,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": 3.2949159145355225,
+        "TSNE-2": -13.978724479675293,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": -4.880326271057129,
+        "TSNE-2": -1.64013671875,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 4.3532562255859375,
+        "TSNE-2": 9.750535011291504,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": 0.6453742384910583,
+        "TSNE-2": -1.8905823230743408,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": -4.049870014190674,
+        "TSNE-2": 1.2746812105178833,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -11.803221702575684,
+        "TSNE-2": -5.005399227142334,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": 9.713563919067383,
+        "TSNE-2": 6.887839317321777,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": -2.0316505432128906,
+        "TSNE-2": -6.265645980834961,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 10.179411888122559,
+        "TSNE-2": 7.586936950683594,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": 7.212134838104248,
+        "TSNE-2": -0.1386411339044571,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -0.7787741422653198,
+        "TSNE-2": -4.354759693145752,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 0.17994752526283264,
+        "TSNE-2": -3.4388906955718994,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 4.2086710929870605,
+        "TSNE-2": -5.530176639556885,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -5.931433200836182,
+        "TSNE-2": 7.179683685302734,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": 3.8810067176818848,
+        "TSNE-2": -14.579691886901855,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": 9.151382446289062,
+        "TSNE-2": -9.457132339477539,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": 5.685028076171875,
+        "TSNE-2": 2.7309181690216064,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -12.514799118041992,
+        "TSNE-2": -2.9361660480499268,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": -1.964613914489746,
+        "TSNE-2": -0.7724795937538147,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": -6.22249174118042,
+        "TSNE-2": -0.3605972230434418,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": 0.9093036651611328,
+        "TSNE-2": 3.975881814956665,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": 5.793600559234619,
+        "TSNE-2": -3.856142520904541,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": 7.232385635375977,
+        "TSNE-2": -5.004034042358398,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": 2.341885805130005,
+        "TSNE-2": -4.950806140899658,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": -2.4521923065185547,
+        "TSNE-2": -4.450770378112793,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": -2.0068931579589844,
+        "TSNE-2": 2.700713872909546,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -7.950024604797363,
+        "TSNE-2": -3.6183173656463623,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": -7.403723239898682,
+        "TSNE-2": -1.514658808708191,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": -2.395092010498047,
+        "TSNE-2": -1.5680476427078247,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 3.0832149982452393,
+        "TSNE-2": -0.944898784160614,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 1.2072759866714478,
+        "TSNE-2": -5.819824695587158,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 12.567938804626465,
+        "TSNE-2": 0.1549183577299118,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -10.471755981445312,
+        "TSNE-2": -6.77914571762085,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": 0.09525998681783676,
+        "TSNE-2": 10.431695938110352,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": -0.1554235816001892,
+        "TSNE-2": 14.623458862304688,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": 0.3340369760990143,
+        "TSNE-2": -10.66771125793457,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": 3.866358995437622,
+        "TSNE-2": -8.9773588180542,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": 12.131216049194336,
+        "TSNE-2": -3.71116042137146,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -1.8707211017608643,
+        "TSNE-2": 0.05261726677417755,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 12.567938804626465,
+        "TSNE-2": 0.1549183577299118,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -3.8697915077209473,
+        "TSNE-2": -0.48680612444877625,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 8.282796859741211,
+        "TSNE-2": 5.459345817565918,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": -4.4557952880859375,
+        "TSNE-2": -5.6013689041137695,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 4.350847244262695,
+        "TSNE-2": -13.209040641784668,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": 2.4238216876983643,
+        "TSNE-2": -3.3011560440063477,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 9.598917961120605,
+        "TSNE-2": 5.702978134155273,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": 2.073073387145996,
+        "TSNE-2": -7.855536460876465,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": -3.650571584701538,
+        "TSNE-2": -8.837823867797852,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": -3.2239394187927246,
+        "TSNE-2": 5.190885543823242,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -13.712787628173828,
+        "TSNE-2": -4.0565056800842285,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": 8.611723899841309,
+        "TSNE-2": -4.257140159606934,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -1.7936757802963257,
+        "TSNE-2": -2.824132204055786,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 9.261589050292969,
+        "TSNE-2": -5.190263271331787,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -0.10320057719945908,
+        "TSNE-2": 0.5227669477462769,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": -10.04699993133545,
+        "TSNE-2": 3.37203311920166,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": -4.718951225280762,
+        "TSNE-2": -11.989667892456055,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": -9.988241195678711,
+        "TSNE-2": 2.701244592666626,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": 4.3532562255859375,
+        "TSNE-2": 9.750535011291504,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": -6.30908203125,
+        "TSNE-2": 4.208626747131348,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": 1.5088129043579102,
+        "TSNE-2": 1.1183558702468872,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 7.917122840881348,
+        "TSNE-2": -3.540116310119629,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -5.7319560050964355,
+        "TSNE-2": -4.110980033874512,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": 1.6279674768447876,
+        "TSNE-2": 2.130958080291748,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": -6.30908203125,
+        "TSNE-2": 4.208626747131348,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -2.8279776573181152,
+        "TSNE-2": -9.73981761932373,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": 4.37105131149292,
+        "TSNE-2": 0.6821446418762207,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": 6.1208624839782715,
+        "TSNE-2": -0.6378145813941956,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": 3.564615249633789,
+        "TSNE-2": 6.106630802154541,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      },
+      {
+        "TSNE-1": 1.6659756898880005,
+        "TSNE-2": -8.538186073303223,
+        "cluster": 2,
+        "keywords": "cultural, still, united, education, brazil"
+      },
+      {
+        "TSNE-1": -1.2308459281921387,
+        "TSNE-2": 4.667080402374268,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -2.0068931579589844,
+        "TSNE-2": 2.700713872909546,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": 8.76882553100586,
+        "TSNE-2": 3.1308321952819824,
+        "cluster": 3,
+        "keywords": "texas, like, america, even, culture"
+      },
+      {
+        "TSNE-1": -3.392688035964966,
+        "TSNE-2": 8.354528427124023,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -10.456263542175293,
+        "TSNE-2": 7.665998458862305,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -5.240287780761719,
+        "TSNE-2": 1.0030542612075806,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -3.9200170040130615,
+        "TSNE-2": 6.981113433837891,
+        "cluster": 0,
+        "keywords": "german, immigrant, christmas, american, various"
+      },
+      {
+        "TSNE-1": -3.5428545475006104,
+        "TSNE-2": -3.0954322814941406,
+        "cluster": 4,
+        "keywords": "social, recreational, practice, many, establishment"
+      },
+      {
+        "TSNE-1": -12.514799118041992,
+        "TSNE-2": -2.9361660480499268,
+        "cluster": 1,
+        "keywords": "tree, language, tradition, also, original"
+      },
+      {
+        "TSNE-1": 8.517990112304688,
+        "TSNE-2": 4.314566612243652,
+        "cluster": 5,
+        "keywords": "turkish, scene, art, brought, islam"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_178",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-149261 - what parts of culture did germans still do when they immigrated"
+  }
+}

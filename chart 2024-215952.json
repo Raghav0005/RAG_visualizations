@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-cdc352d53ea6b3f6c06ae93ced1d1f11"
+  },
+  "datasets": {
+    "data-cdc352d53ea6b3f6c06ae93ced1d1f11": [
+      {
+        "TSNE-1": -7.53728723526001,
+        "TSNE-2": -0.2417471706867218,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -8.51342487335205,
+        "TSNE-2": -3.8920373916625977,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 4.098792552947998,
+        "TSNE-2": -1.9992454051971436,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 10.451099395751953,
+        "TSNE-2": -8.81299114227295,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      },
+      {
+        "TSNE-1": 4.127594947814941,
+        "TSNE-2": -2.010702610015869,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 8.020655632019043,
+        "TSNE-2": 6.12813663482666,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -2.8126771450042725,
+        "TSNE-2": -7.28481912612915,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 1.3081462383270264,
+        "TSNE-2": -3.2355968952178955,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 4.7844061851501465,
+        "TSNE-2": -6.395110607147217,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      },
+      {
+        "TSNE-1": 3.8267178535461426,
+        "TSNE-2": -11.283812522888184,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      },
+      {
+        "TSNE-1": 2.6976685523986816,
+        "TSNE-2": 4.689911842346191,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": 9.61694622039795,
+        "TSNE-2": -2.3793022632598877,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": -5.269054412841797,
+        "TSNE-2": 1.878373622894287,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": 0.3639276325702667,
+        "TSNE-2": -0.4228452146053314,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 6.589902877807617,
+        "TSNE-2": 4.254848957061768,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -9.232329368591309,
+        "TSNE-2": 0.5708532929420471,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": 12.450688362121582,
+        "TSNE-2": 4.999669551849365,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -3.9880716800689697,
+        "TSNE-2": 3.638885259628296,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -9.86427116394043,
+        "TSNE-2": 5.107722759246826,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -7.267609119415283,
+        "TSNE-2": -6.590456485748291,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 5.938104629516602,
+        "TSNE-2": 6.662729740142822,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -6.9681010246276855,
+        "TSNE-2": -2.0469119548797607,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": 7.041276454925537,
+        "TSNE-2": 9.034326553344727,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -6.773014068603516,
+        "TSNE-2": 4.2370805740356445,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -6.4055304527282715,
+        "TSNE-2": 1.0448167324066162,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -4.913329601287842,
+        "TSNE-2": 3.58632493019104,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": 8.84315013885498,
+        "TSNE-2": -8.633667945861816,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      },
+      {
+        "TSNE-1": 4.195424556732178,
+        "TSNE-2": -0.07183486968278885,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 7.427192687988281,
+        "TSNE-2": 4.384452819824219,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -5.782558917999268,
+        "TSNE-2": -10.682391166687012,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 4.029778957366943,
+        "TSNE-2": -6.915881633758545,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      },
+      {
+        "TSNE-1": -0.9584967494010925,
+        "TSNE-2": -11.139713287353516,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": -3.6393747329711914,
+        "TSNE-2": -0.48511189222335815,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -6.692508220672607,
+        "TSNE-2": 7.344974040985107,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -4.773386001586914,
+        "TSNE-2": -4.7299370765686035,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 1.2755324840545654,
+        "TSNE-2": -7.071065902709961,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": -1.8118757009506226,
+        "TSNE-2": -4.775768756866455,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 6.0833563804626465,
+        "TSNE-2": -2.5083353519439697,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": -5.231916904449463,
+        "TSNE-2": 5.66674280166626,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -2.2932841777801514,
+        "TSNE-2": 1.0174745321273804,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -10.816296577453613,
+        "TSNE-2": -2.1290619373321533,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -0.2500918209552765,
+        "TSNE-2": 5.877767562866211,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -4.613677501678467,
+        "TSNE-2": 0.7096987962722778,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 0.3710135221481323,
+        "TSNE-2": 0.8724622130393982,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -2.4699625968933105,
+        "TSNE-2": -4.577515602111816,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 8.604405403137207,
+        "TSNE-2": -3.6825122833251953,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 0.7239344120025635,
+        "TSNE-2": -10.122139930725098,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 7.204364776611328,
+        "TSNE-2": 2.3879237174987793,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": 2.6976685523986816,
+        "TSNE-2": 4.689911842346191,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -3.2157950401306152,
+        "TSNE-2": -3.557544231414795,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 2.687417507171631,
+        "TSNE-2": 0.4409245550632477,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 3.9708566665649414,
+        "TSNE-2": -11.027379035949707,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      },
+      {
+        "TSNE-1": -3.113032341003418,
+        "TSNE-2": -1.0333930253982544,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 7.613312721252441,
+        "TSNE-2": -3.1605303287506104,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": -8.86803150177002,
+        "TSNE-2": 4.456479549407959,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": 5.49832820892334,
+        "TSNE-2": 8.186723709106445,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -8.550676345825195,
+        "TSNE-2": 1.5065189599990845,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": 8.961054801940918,
+        "TSNE-2": 2.533108711242676,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": 1.54523766040802,
+        "TSNE-2": -3.9835004806518555,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 4.981943130493164,
+        "TSNE-2": 8.382784843444824,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -5.292299747467041,
+        "TSNE-2": 9.061103820800781,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": 2.5892372131347656,
+        "TSNE-2": 1.048567295074463,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 2.3600730895996094,
+        "TSNE-2": 2.476594924926758,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -1.7797877788543701,
+        "TSNE-2": -9.662343978881836,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": -0.1357227861881256,
+        "TSNE-2": -5.613722324371338,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": -3.629936695098877,
+        "TSNE-2": 2.133209228515625,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 0.5793519020080566,
+        "TSNE-2": -6.41899299621582,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": -6.202633857727051,
+        "TSNE-2": 2.9897403717041016,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -0.9826477766036987,
+        "TSNE-2": 6.559398174285889,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 8.84315013885498,
+        "TSNE-2": -8.633667945861816,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      },
+      {
+        "TSNE-1": -1.4741427898406982,
+        "TSNE-2": 7.150824546813965,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 12.504416465759277,
+        "TSNE-2": 4.6916279792785645,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": 0.29226088523864746,
+        "TSNE-2": 11.348236083984375,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -0.34472543001174927,
+        "TSNE-2": 3.5872139930725098,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -0.8422203660011292,
+        "TSNE-2": -2.323808431625366,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 1.0836073160171509,
+        "TSNE-2": 7.30220890045166,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -3.2494969367980957,
+        "TSNE-2": 5.549269199371338,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 0.29226088523864746,
+        "TSNE-2": 11.348236083984375,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": 5.35481595993042,
+        "TSNE-2": -5.627689361572266,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": 6.960345268249512,
+        "TSNE-2": 3.2400991916656494,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -2.390482187271118,
+        "TSNE-2": 3.4351208209991455,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 9.61694622039795,
+        "TSNE-2": -2.3793022632598877,
+        "cluster": 4,
+        "keywords": "justified, end, destroy, defend, demand"
+      },
+      {
+        "TSNE-1": -5.292299747467041,
+        "TSNE-2": 9.061103820800781,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -5.2458295822143555,
+        "TSNE-2": -1.1432957649230957,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -2.2932841777801514,
+        "TSNE-2": 1.0174745321273804,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": 8.472336769104004,
+        "TSNE-2": 3.59967041015625,
+        "cluster": 1,
+        "keywords": "must, country, much, desire, necessary"
+      },
+      {
+        "TSNE-1": -5.721386909484863,
+        "TSNE-2": -11.41665267944336,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 11.75228500366211,
+        "TSNE-2": -9.399165153503418,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      },
+      {
+        "TSNE-1": -9.702593803405762,
+        "TSNE-2": 3.3409392833709717,
+        "cluster": 5,
+        "keywords": "monarchy, threat, french, could, eliminate"
+      },
+      {
+        "TSNE-1": -5.390456676483154,
+        "TSNE-2": -7.424749374389648,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": -2.0393452644348145,
+        "TSNE-2": -1.2814379930496216,
+        "cluster": 3,
+        "keywords": "belief, louis, revolutionary, xvi, driven"
+      },
+      {
+        "TSNE-1": -0.9584967494010925,
+        "TSNE-2": -11.139713287353516,
+        "cluster": 0,
+        "keywords": "reign, revolution, robespierre, king, execution"
+      },
+      {
+        "TSNE-1": 8.84315013885498,
+        "TSNE-2": -8.633667945861816,
+        "cluster": 2,
+        "keywords": "eventually, maximilien, efficient, justify, way"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_107",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-215952 - why did robespierre care so much about killing the king"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-8fb683d1ffe9dac45a07d92136f2cf1d"
+  },
+  "datasets": {
+    "data-8fb683d1ffe9dac45a07d92136f2cf1d": [
+      {
+        "TSNE-1": -5.768974781036377,
+        "TSNE-2": -1.0173496007919312,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -12.071610450744629,
+        "TSNE-2": 6.426095008850098,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -14.993108749389648,
+        "TSNE-2": 4.927572727203369,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 10.18125057220459,
+        "TSNE-2": 9.079599380493164,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": -14.993108749389648,
+        "TSNE-2": 4.927572727203369,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 3.420501470565796,
+        "TSNE-2": 11.308279037475586,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": -2.4569156169891357,
+        "TSNE-2": 9.844828605651855,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": -9.202717781066895,
+        "TSNE-2": -1.777175784111023,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 5.098437309265137,
+        "TSNE-2": -2.6273648738861084,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": 7.684933185577393,
+        "TSNE-2": -10.719134330749512,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": 3.760748863220215,
+        "TSNE-2": -4.398238182067871,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": 15.57314682006836,
+        "TSNE-2": 1.6541582345962524,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": -6.888800144195557,
+        "TSNE-2": 1.8632973432540894,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 1.5515773296356201,
+        "TSNE-2": 8.22929859161377,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 11.292320251464844,
+        "TSNE-2": 7.279019355773926,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": -15.687342643737793,
+        "TSNE-2": 7.041104793548584,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -4.79866361618042,
+        "TSNE-2": 14.072992324829102,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": -9.202717781066895,
+        "TSNE-2": -1.777175784111023,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -14.434124946594238,
+        "TSNE-2": -0.9140676259994507,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 0.9128592014312744,
+        "TSNE-2": -2.3267345428466797,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": 7.945006370544434,
+        "TSNE-2": 4.256861209869385,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": -8.801939964294434,
+        "TSNE-2": -8.211791038513184,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": 7.003959655761719,
+        "TSNE-2": 4.0095930099487305,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 10.245699882507324,
+        "TSNE-2": 1.516959309577942,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 0.5085760951042175,
+        "TSNE-2": -5.583500862121582,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -8.320924758911133,
+        "TSNE-2": 3.4759652614593506,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 10.284539222717285,
+        "TSNE-2": -5.010814189910889,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": 0.8100025057792664,
+        "TSNE-2": 14.20824909210205,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": 11.796334266662598,
+        "TSNE-2": 7.955528736114502,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 4.167726516723633,
+        "TSNE-2": 12.209614753723145,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": 2.861011505126953,
+        "TSNE-2": -0.7007105350494385,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 3.436194896697998,
+        "TSNE-2": -9.11890983581543,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": -6.2550458908081055,
+        "TSNE-2": 0.8080635070800781,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 9.371036529541016,
+        "TSNE-2": 0.3442865312099457,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 0.04316750168800354,
+        "TSNE-2": 6.39369535446167,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 0.13875740766525269,
+        "TSNE-2": -10.084454536437988,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -4.294238567352295,
+        "TSNE-2": -3.379443883895874,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -1.2677077054977417,
+        "TSNE-2": 1.7750920057296753,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": -10.352635383605957,
+        "TSNE-2": 4.341752052307129,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -8.479949951171875,
+        "TSNE-2": 6.173755168914795,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -10.556233406066895,
+        "TSNE-2": 11.878893852233887,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": -1.5694000720977783,
+        "TSNE-2": -7.675175189971924,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -7.752256393432617,
+        "TSNE-2": 0.8278055787086487,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -5.432293891906738,
+        "TSNE-2": 7.8048176765441895,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": -1.3119107484817505,
+        "TSNE-2": -2.4837429523468018,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": 13.450257301330566,
+        "TSNE-2": -1.6098690032958984,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 4.699024200439453,
+        "TSNE-2": 0.27357950806617737,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 10.769569396972656,
+        "TSNE-2": -5.7951555252075195,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": 3.760748863220215,
+        "TSNE-2": -4.398238182067871,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": -1.6643253564834595,
+        "TSNE-2": -4.399435997009277,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -2.459786891937256,
+        "TSNE-2": 5.807787895202637,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 7.708003044128418,
+        "TSNE-2": -12.032565116882324,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": -6.245034217834473,
+        "TSNE-2": 3.1214184761047363,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 13.450257301330566,
+        "TSNE-2": -1.6098690032958984,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 7.400045871734619,
+        "TSNE-2": 0.3587883710861206,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 5.34256649017334,
+        "TSNE-2": 8.151604652404785,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": -0.8024562001228333,
+        "TSNE-2": -0.05813435837626457,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 13.538678169250488,
+        "TSNE-2": 6.97974967956543,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 0.5995825529098511,
+        "TSNE-2": 3.043370246887207,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 5.912522315979004,
+        "TSNE-2": 5.434932708740234,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 2.5840814113616943,
+        "TSNE-2": 5.873132228851318,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": -3.506524085998535,
+        "TSNE-2": 6.882335662841797,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": -2.0811195373535156,
+        "TSNE-2": 4.618880748748779,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 6.089587688446045,
+        "TSNE-2": -5.672884464263916,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": -2.9215519428253174,
+        "TSNE-2": -5.960438251495361,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -7.288015365600586,
+        "TSNE-2": -2.6883647441864014,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -3.239140510559082,
+        "TSNE-2": -3.7353737354278564,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -7.306280612945557,
+        "TSNE-2": -5.175107955932617,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -11.987648010253906,
+        "TSNE-2": 0.40570303797721863,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 6.614871025085449,
+        "TSNE-2": -14.177884101867676,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": -0.3319520652294159,
+        "TSNE-2": -7.311631679534912,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -4.79866361618042,
+        "TSNE-2": 14.072992324829102,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": 3.1622090339660645,
+        "TSNE-2": 1.9052962064743042,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": -2.9860923290252686,
+        "TSNE-2": 2.984065294265747,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": -4.5668463706970215,
+        "TSNE-2": -5.477514743804932,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -3.3488712310791016,
+        "TSNE-2": -0.4530264139175415,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": -5.8012309074401855,
+        "TSNE-2": -9.267964363098145,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": 3.1622090339660645,
+        "TSNE-2": 1.9052962064743042,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": -4.017766952514648,
+        "TSNE-2": 4.457008361816406,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": 11.606512069702148,
+        "TSNE-2": -7.3264689445495605,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": -9.62870979309082,
+        "TSNE-2": 1.8849883079528809,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 15.57314682006836,
+        "TSNE-2": 1.6541582345962524,
+        "cluster": 2,
+        "keywords": "purpose, united, towards, state, current"
+      },
+      {
+        "TSNE-1": 2.5840814113616943,
+        "TSNE-2": 5.873132228851318,
+        "cluster": 0,
+        "keywords": "communism, spread, containment, policy, successful"
+      },
+      {
+        "TSNE-1": -11.7944917678833,
+        "TSNE-2": -3.2331554889678955,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -8.479949951171875,
+        "TSNE-2": 6.173755168914795,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -1.292693018913269,
+        "TSNE-2": -13.251551628112793,
+        "cluster": 1,
+        "keywords": "communist, region, prevent, economic, country"
+      },
+      {
+        "TSNE-1": 1.8790483474731445,
+        "TSNE-2": 13.855441093444824,
+        "cluster": 5,
+        "keywords": "truman, help, doctrine, marshall, plan"
+      },
+      {
+        "TSNE-1": -13.609661102294922,
+        "TSNE-2": -6.849005222320557,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": -13.086099624633789,
+        "TSNE-2": 2.533033847808838,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 6.905487537384033,
+        "TSNE-2": -2.8601505756378174,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": -9.550352096557617,
+        "TSNE-2": -4.582637786865234,
+        "cluster": 3,
+        "keywords": "significant, soviet, western, vietnam, military"
+      },
+      {
+        "TSNE-1": 3.436194896697998,
+        "TSNE-2": -9.11890983581543,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      },
+      {
+        "TSNE-1": 7.356870651245117,
+        "TSNE-2": -14.726757049560547,
+        "cluster": 4,
+        "keywords": "answer, stop, foreign, effective, may"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_129",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-17909 - did containment actually prevent the spread of communism"
+  }
+}

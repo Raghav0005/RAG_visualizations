@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-2f3f728eec81cadc652d172b35becc88"
+  },
+  "datasets": {
+    "data-2f3f728eec81cadc652d172b35becc88": [
+      {
+        "TSNE-1": 5.786485195159912,
+        "TSNE-2": -3.228163003921509,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 0.729067325592041,
+        "TSNE-2": -3.1347951889038086,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -2.8537535667419434,
+        "TSNE-2": 3.793196439743042,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -1.0530489683151245,
+        "TSNE-2": 6.894811630249023,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -2.8537535667419434,
+        "TSNE-2": 3.793196439743042,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -1.0805250406265259,
+        "TSNE-2": -9.540488243103027,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -5.715005397796631,
+        "TSNE-2": 2.2533721923828125,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -0.36403125524520874,
+        "TSNE-2": -0.18564268946647644,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": 2.104649543762207,
+        "TSNE-2": 5.258852481842041,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -6.09714937210083,
+        "TSNE-2": 10.147320747375488,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": -6.564178466796875,
+        "TSNE-2": -5.755143642425537,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": -9.186285972595215,
+        "TSNE-2": -3.692440986633301,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": 3.2739622592926025,
+        "TSNE-2": 3.4304871559143066,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": -0.26579034328460693,
+        "TSNE-2": -7.227226257324219,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -4.305124759674072,
+        "TSNE-2": 10.609665870666504,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": 5.757214546203613,
+        "TSNE-2": -1.0517855882644653,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": -7.801571846008301,
+        "TSNE-2": -8.893304824829102,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": -0.36403125524520874,
+        "TSNE-2": -0.18564268946647644,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -2.0950658321380615,
+        "TSNE-2": -4.252345561981201,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 6.7639970779418945,
+        "TSNE-2": 6.764098167419434,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": -1.6744753122329712,
+        "TSNE-2": 8.473699569702148,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": 5.027498722076416,
+        "TSNE-2": 0.28958216309547424,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": 10.600848197937012,
+        "TSNE-2": 4.203709602355957,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": 0.8214986324310303,
+        "TSNE-2": -7.1709160804748535,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -6.098727226257324,
+        "TSNE-2": -1.5698413848876953,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": 0.39196208119392395,
+        "TSNE-2": -2.0590429306030273,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -1.481773018836975,
+        "TSNE-2": 6.573062896728516,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": 2.1030433177948,
+        "TSNE-2": 7.769852161407471,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -6.54292631149292,
+        "TSNE-2": 9.290769577026367,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": 1.3561711311340332,
+        "TSNE-2": -9.874048233032227,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -4.015264511108398,
+        "TSNE-2": 0.2032410353422165,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": 6.1030683517456055,
+        "TSNE-2": 5.349793434143066,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": 3.0987043380737305,
+        "TSNE-2": 2.2288568019866943,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": -0.4867793917655945,
+        "TSNE-2": -4.615392208099365,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -3.4226555824279785,
+        "TSNE-2": -1.5030072927474976,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -2.6009674072265625,
+        "TSNE-2": 1.3725477457046509,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": 3.966935634613037,
+        "TSNE-2": -2.011902093887329,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 4.4014892578125,
+        "TSNE-2": 10.024067878723145,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": 4.4873151779174805,
+        "TSNE-2": -5.441032886505127,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 3.1037709712982178,
+        "TSNE-2": -4.25978946685791,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -4.302543640136719,
+        "TSNE-2": -4.513758659362793,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": -6.676702976226807,
+        "TSNE-2": -0.3616557717323303,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": 2.639492988586426,
+        "TSNE-2": 1.240114450454712,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": 0.23049286007881165,
+        "TSNE-2": 6.380277156829834,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -1.872889518737793,
+        "TSNE-2": 1.1540439128875732,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -4.163443565368652,
+        "TSNE-2": -9.781123161315918,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": 7.596035480499268,
+        "TSNE-2": 4.746254920959473,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": -0.5997312068939209,
+        "TSNE-2": 5.319146156311035,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -6.547794818878174,
+        "TSNE-2": -5.757782459259033,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": -0.32328200340270996,
+        "TSNE-2": 1.7547086477279663,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -8.67842960357666,
+        "TSNE-2": 1.321042776107788,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -7.370723247528076,
+        "TSNE-2": 9.017178535461426,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": 3.865333080291748,
+        "TSNE-2": 2.6110668182373047,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": -4.163443565368652,
+        "TSNE-2": -9.781123161315918,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": -1.9405810832977295,
+        "TSNE-2": -5.5164055824279785,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -2.3025786876678467,
+        "TSNE-2": 6.161748886108398,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": 6.9466142654418945,
+        "TSNE-2": -0.780620813369751,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": -3.9769325256347656,
+        "TSNE-2": 11.299710273742676,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": -2.093972682952881,
+        "TSNE-2": -1.3401751518249512,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -3.598306894302368,
+        "TSNE-2": 5.7704854011535645,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": 6.105583190917969,
+        "TSNE-2": 9.856412887573242,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -9.987035751342773,
+        "TSNE-2": 2.347259521484375,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -8.939641952514648,
+        "TSNE-2": 2.0298116207122803,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": 8.47542667388916,
+        "TSNE-2": 6.189115047454834,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": 2.9799954891204834,
+        "TSNE-2": -1.6346262693405151,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 5.69198751449585,
+        "TSNE-2": 2.7051868438720703,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": 1.355217456817627,
+        "TSNE-2": -0.4131121337413788,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 4.436755657196045,
+        "TSNE-2": -6.502397060394287,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -5.945569038391113,
+        "TSNE-2": 1.0506089925765991,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -4.622553825378418,
+        "TSNE-2": 8.584609985351562,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": -7.651750564575195,
+        "TSNE-2": -0.2717176675796509,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -7.764382839202881,
+        "TSNE-2": -8.891093254089355,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": 1.3904863595962524,
+        "TSNE-2": 9.137808799743652,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -1.87809419631958,
+        "TSNE-2": -2.5710415840148926,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 2.025430202484131,
+        "TSNE-2": -1.3084394931793213,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -4.626659393310547,
+        "TSNE-2": -3.097377061843872,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -1.596927523612976,
+        "TSNE-2": -7.3247575759887695,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 1.3904863595962524,
+        "TSNE-2": 9.137808799743652,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -10.372769355773926,
+        "TSNE-2": 2.3594608306884766,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": -7.68487024307251,
+        "TSNE-2": 11.539764404296875,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": 0.9577453136444092,
+        "TSNE-2": -5.455717086791992,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -9.186285972595215,
+        "TSNE-2": -3.692440986633301,
+        "cluster": 5,
+        "keywords": "celebrates, tradition, folklore, author, critique"
+      },
+      {
+        "TSNE-1": 6.082457065582275,
+        "TSNE-2": 9.79226303100586,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": 2.0372674465179443,
+        "TSNE-2": -5.776627540588379,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 3.1037709712982178,
+        "TSNE-2": -4.25978946685791,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": -3.3298861980438232,
+        "TSNE-2": 8.782891273498535,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      },
+      {
+        "TSNE-1": 1.934948444366455,
+        "TSNE-2": -10.68624496459961,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 4.449519157409668,
+        "TSNE-2": 6.226546287536621,
+        "cluster": 4,
+        "keywords": "use, vivid, describe, pride, way"
+      },
+      {
+        "TSNE-1": -1.5361268520355225,
+        "TSNE-2": -4.603957176208496,
+        "cluster": 3,
+        "keywords": "american, work, eye, dialect, personal"
+      },
+      {
+        "TSNE-1": 0.16576480865478516,
+        "TSNE-2": 2.2730565071105957,
+        "cluster": 0,
+        "keywords": "culture, black, african, southern, slang"
+      },
+      {
+        "TSNE-1": 6.903724193572998,
+        "TSNE-2": 2.2967443466186523,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": 6.1030683517456055,
+        "TSNE-2": 5.349793434143066,
+        "cluster": 1,
+        "keywords": "hurston, race, cultural, racial, identity"
+      },
+      {
+        "TSNE-1": -4.79729700088501,
+        "TSNE-2": 7.481034278869629,
+        "cluster": 2,
+        "keywords": "metaphoric, express, device, white, experience"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_121",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-41465 - how does hurston convey her own cultural experiences?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-9720880151e192ae2c07ffdb41cbb401"
+  },
+  "datasets": {
+    "data-9720880151e192ae2c07ffdb41cbb401": [
+      {
+        "TSNE-1": 8.457582473754883,
+        "TSNE-2": 6.746063709259033,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 4.732922554016113,
+        "TSNE-2": 9.78807544708252,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": -4.944180488586426,
+        "TSNE-2": 13.841876983642578,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": -5.101226329803467,
+        "TSNE-2": -1.2171257734298706,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -4.944180488586426,
+        "TSNE-2": 13.841876983642578,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": -3.3173716068267822,
+        "TSNE-2": -26.536182403564453,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": -0.8194518089294434,
+        "TSNE-2": -5.607615947723389,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": 3.953749418258667,
+        "TSNE-2": 4.869115352630615,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 3.355790376663208,
+        "TSNE-2": -10.89511489868164,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": -6.298043727874756,
+        "TSNE-2": -8.66628646850586,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -0.46788132190704346,
+        "TSNE-2": -1.9894192218780518,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -14.49943733215332,
+        "TSNE-2": -5.801989555358887,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 8.971864700317383,
+        "TSNE-2": 6.629312992095947,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": -3.635380983352661,
+        "TSNE-2": -0.24124948680400848,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -5.4930739402771,
+        "TSNE-2": -6.007357597351074,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 6.735803127288818,
+        "TSNE-2": -2.6316072940826416,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -10.824996948242188,
+        "TSNE-2": -12.156233787536621,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 3.953749418258667,
+        "TSNE-2": 4.869115352630615,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 5.1902313232421875,
+        "TSNE-2": -1.401035189628601,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -11.81745433807373,
+        "TSNE-2": -1.4562668800354004,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -3.113123655319214,
+        "TSNE-2": -8.763311386108398,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": 11.877704620361328,
+        "TSNE-2": -2.907233715057373,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -7.7626953125,
+        "TSNE-2": 2.2641055583953857,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -2.7010786533355713,
+        "TSNE-2": -2.979991912841797,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": 6.510290145874023,
+        "TSNE-2": 0.7544052600860596,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": 2.383610963821411,
+        "TSNE-2": 2.377631902694702,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -6.003049850463867,
+        "TSNE-2": -1.9438406229019165,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 0.18586823344230652,
+        "TSNE-2": 8.013644218444824,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": -8.869059562683105,
+        "TSNE-2": -7.28707218170166,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 12.176200866699219,
+        "TSNE-2": -4.42589807510376,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": 1.8437165021896362,
+        "TSNE-2": -8.41311264038086,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": -13.563127517700195,
+        "TSNE-2": 0.47936928272247314,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 6.497514247894287,
+        "TSNE-2": 4.4876389503479,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 6.4463419914245605,
+        "TSNE-2": -1.1672779321670532,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": 8.958815574645996,
+        "TSNE-2": 10.30264663696289,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 1.3718416690826416,
+        "TSNE-2": 0.14531199634075165,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": 2.3019399642944336,
+        "TSNE-2": -1.3022804260253906,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -3.221682071685791,
+        "TSNE-2": 3.1464319229125977,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": 6.9491071701049805,
+        "TSNE-2": 6.977074146270752,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 7.877712249755859,
+        "TSNE-2": 2.338751792907715,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": 2.8461358547210693,
+        "TSNE-2": 11.13421630859375,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 6.452029228210449,
+        "TSNE-2": -6.023921012878418,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": 3.717240571975708,
+        "TSNE-2": 1.6636948585510254,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": 0.9838745594024658,
+        "TSNE-2": 6.411877632141113,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": -0.44669970870018005,
+        "TSNE-2": 1.8610997200012207,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -8.607147216796875,
+        "TSNE-2": 10.653554916381836,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": -11.36109447479248,
+        "TSNE-2": 2.016120433807373,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -8.936196327209473,
+        "TSNE-2": -3.702608346939087,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -0.46788132190704346,
+        "TSNE-2": -1.9894192218780518,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -1.2148404121398926,
+        "TSNE-2": 3.169829845428467,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": 4.695484161376953,
+        "TSNE-2": -7.5781683921813965,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": -4.696285724639893,
+        "TSNE-2": -4.8649396896362305,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 4.4705047607421875,
+        "TSNE-2": 3.0664284229278564,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": -8.607147216796875,
+        "TSNE-2": 10.653554916381836,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": 4.133852481842041,
+        "TSNE-2": -0.22627192735671997,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -7.742497444152832,
+        "TSNE-2": -2.276538372039795,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 5.018791198730469,
+        "TSNE-2": -3.329353094100952,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -7.924781322479248,
+        "TSNE-2": -8.091635704040527,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 13.266286849975586,
+        "TSNE-2": 0.75847327709198,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -6.910216808319092,
+        "TSNE-2": -4.04442834854126,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -4.79917573928833,
+        "TSNE-2": 5.212405681610107,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": -1.6422683000564575,
+        "TSNE-2": 8.581883430480957,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": 6.03140115737915,
+        "TSNE-2": -8.610942840576172,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": -10.43319320678711,
+        "TSNE-2": -0.9181852340698242,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": 2.041154384613037,
+        "TSNE-2": -3.825222969055176,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": 2.0026891231536865,
+        "TSNE-2": 4.3429460525512695,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 2.682192087173462,
+        "TSNE-2": -2.3928792476654053,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": 4.205806255340576,
+        "TSNE-2": 7.490399360656738,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 7.500205039978027,
+        "TSNE-2": -7.342162132263184,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": -7.767951011657715,
+        "TSNE-2": 3.0672831535339355,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": 7.36004638671875,
+        "TSNE-2": -5.472898960113525,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -10.283517837524414,
+        "TSNE-2": -12.550372123718262,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -9.916032791137695,
+        "TSNE-2": 6.670445919036865,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": 11.188501358032227,
+        "TSNE-2": 4.365026950836182,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": 2.526205539703369,
+        "TSNE-2": -5.493536472320557,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": 1.237870454788208,
+        "TSNE-2": 9.848766326904297,
+        "cluster": 0,
+        "keywords": "local, community, journalism, news, issue"
+      },
+      {
+        "TSNE-1": 11.409364700317383,
+        "TSNE-2": 1.9425090551376343,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -9.916032791137695,
+        "TSNE-2": 6.670445919036865,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": -1.7251158952713013,
+        "TSNE-2": 6.52685022354126,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": -8.1942720413208,
+        "TSNE-2": -1.1603010892868042,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -2.473695993423462,
+        "TSNE-2": -0.16165784001350403,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -14.49943733215332,
+        "TSNE-2": -5.801989555358887,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -4.79917573928833,
+        "TSNE-2": 5.212405681610107,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": 8.869367599487305,
+        "TSNE-2": 0.5469908118247986,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": 7.877712249755859,
+        "TSNE-2": 2.338751792907715,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -5.838932991027832,
+        "TSNE-2": 0.25077807903289795,
+        "cluster": 5,
+        "keywords": "engagement, resident, newspaper, education, civic"
+      },
+      {
+        "TSNE-1": -17.449539184570312,
+        "TSNE-2": 0.3533807694911957,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -3.7483952045440674,
+        "TSNE-2": 9.762045860290527,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      },
+      {
+        "TSNE-1": 8.352316856384277,
+        "TSNE-2": -1.8342622518539429,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": 2.6013238430023193,
+        "TSNE-2": -7.208913803100586,
+        "cluster": 2,
+        "keywords": "newsroom, nan, together, journalist, like"
+      },
+      {
+        "TSNE-1": 5.154491901397705,
+        "TSNE-2": 1.5573831796646118,
+        "cluster": 3,
+        "keywords": "story, leader, help, positive, resource"
+      },
+      {
+        "TSNE-1": -13.563127517700195,
+        "TSNE-2": 0.47936928272247314,
+        "cluster": 1,
+        "keywords": "information, impact, platform, sense, share"
+      },
+      {
+        "TSNE-1": -0.29428809881210327,
+        "TSNE-2": 13.761378288269043,
+        "cluster": 4,
+        "keywords": "public, people, student, business, also"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_291",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-45494 - how local journalims impacts the community example"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-408051456245365e135c27374916d18e"
+  },
+  "datasets": {
+    "data-408051456245365e135c27374916d18e": [
+      {
+        "TSNE-1": 2.4869534969329834,
+        "TSNE-2": 1.1726247072219849,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -5.170937538146973,
+        "TSNE-2": 13.713823318481445,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": 0.1040400043129921,
+        "TSNE-2": -8.114947319030762,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 5.081370830535889,
+        "TSNE-2": -10.284578323364258,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 0.1040400043129921,
+        "TSNE-2": -8.114947319030762,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -7.189959526062012,
+        "TSNE-2": -10.289202690124512,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 1.1328593492507935,
+        "TSNE-2": -6.379546165466309,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -0.6398224234580994,
+        "TSNE-2": 3.977696180343628,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 11.127172470092773,
+        "TSNE-2": -1.379493236541748,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": -6.450636863708496,
+        "TSNE-2": -3.1384785175323486,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": 7.623286724090576,
+        "TSNE-2": 10.855767250061035,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": -3.4299423694610596,
+        "TSNE-2": -10.121268272399902,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -3.21962308883667,
+        "TSNE-2": 2.5594797134399414,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -2.2903218269348145,
+        "TSNE-2": 10.438483238220215,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": 1.1276159286499023,
+        "TSNE-2": 13.557271957397461,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": 3.658264636993408,
+        "TSNE-2": 3.340280771255493,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -12.259315490722656,
+        "TSNE-2": -5.237015724182129,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": -0.6398224234580994,
+        "TSNE-2": 3.977696180343628,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -0.04533761367201805,
+        "TSNE-2": 8.262190818786621,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 9.595525741577148,
+        "TSNE-2": 2.786051034927368,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": -0.3677116334438324,
+        "TSNE-2": 17.5113468170166,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": 0.36491191387176514,
+        "TSNE-2": -0.047315001487731934,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -0.3983449339866638,
+        "TSNE-2": 17.95404624938965,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": -4.861414909362793,
+        "TSNE-2": 10.167689323425293,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": -7.038878440856934,
+        "TSNE-2": 4.21132755279541,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": -2.412269353866577,
+        "TSNE-2": 4.049884796142578,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -4.940777778625488,
+        "TSNE-2": -3.9802119731903076,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": -0.9275533556938171,
+        "TSNE-2": -10.121164321899414,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -9.798189163208008,
+        "TSNE-2": 4.339112758636475,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": 10.70952320098877,
+        "TSNE-2": -8.70065689086914,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 10.46916389465332,
+        "TSNE-2": -1.0197724103927612,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 10.411205291748047,
+        "TSNE-2": 4.9655938148498535,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": -1.0247882604599,
+        "TSNE-2": 2.085038900375366,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 4.637004852294922,
+        "TSNE-2": 5.381868362426758,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -1.6982183456420898,
+        "TSNE-2": -4.994826793670654,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 2.0524396896362305,
+        "TSNE-2": -8.522638320922852,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 1.1510961055755615,
+        "TSNE-2": 5.665425777435303,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 9.498825073242188,
+        "TSNE-2": 1.3772499561309814,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": -4.491931438446045,
+        "TSNE-2": 3.9025065898895264,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -2.9776663780212402,
+        "TSNE-2": 7.2704620361328125,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -3.2248713970184326,
+        "TSNE-2": 13.590426445007324,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": 2.8050148487091064,
+        "TSNE-2": -0.8314279913902283,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": -3.8565399646759033,
+        "TSNE-2": 1.6333317756652832,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 5.136345863342285,
+        "TSNE-2": -0.2994216978549957,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 4.875709056854248,
+        "TSNE-2": -5.4693284034729,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 9.939373016357422,
+        "TSNE-2": -6.422635555267334,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 8.696948051452637,
+        "TSNE-2": 6.361833095550537,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": -7.293352127075195,
+        "TSNE-2": -3.498281717300415,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": 7.623286724090576,
+        "TSNE-2": 10.855767250061035,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": 0.6463843584060669,
+        "TSNE-2": -2.485058546066284,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 2.7372121810913086,
+        "TSNE-2": -3.793311595916748,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -7.221707820892334,
+        "TSNE-2": -5.3172783851623535,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": -1.7850018739700317,
+        "TSNE-2": 1.4572954177856445,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 9.939373016357422,
+        "TSNE-2": -6.422635555267334,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": -4.874410152435303,
+        "TSNE-2": 5.497568607330322,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -2.4536335468292236,
+        "TSNE-2": 17.55816650390625,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": -1.583369493484497,
+        "TSNE-2": -1.0413048267364502,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 3.136580467224121,
+        "TSNE-2": 14.305180549621582,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": -3.561948776245117,
+        "TSNE-2": -0.19810539484024048,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -1.0786325931549072,
+        "TSNE-2": 19.546525955200195,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": -0.620150089263916,
+        "TSNE-2": -14.72303295135498,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -9.446186065673828,
+        "TSNE-2": -0.44895243644714355,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": 0.8525651097297668,
+        "TSNE-2": -4.668179512023926,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -1.9607799053192139,
+        "TSNE-2": -6.484593868255615,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 2.3908088207244873,
+        "TSNE-2": 5.277101039886475,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -6.137106895446777,
+        "TSNE-2": 7.876122951507568,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 0.24460232257843018,
+        "TSNE-2": 6.340799331665039,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 4.293047904968262,
+        "TSNE-2": 8.93183708190918,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": 2.7487330436706543,
+        "TSNE-2": -2.1595497131347656,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 5.381532192230225,
+        "TSNE-2": -12.500078201293945,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 1.9965980052947998,
+        "TSNE-2": -0.7095150351524353,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -12.259315490722656,
+        "TSNE-2": -5.237015724182129,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": -13.314169883728027,
+        "TSNE-2": 2.9484341144561768,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": 6.253730773925781,
+        "TSNE-2": 3.5670835971832275,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 2.374894618988037,
+        "TSNE-2": 6.9608073234558105,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 5.001512050628662,
+        "TSNE-2": 1.4588062763214111,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 1.6970245838165283,
+        "TSNE-2": 3.099569320678711,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": -13.314169883728027,
+        "TSNE-2": 2.9484341144561768,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": -8.673066139221191,
+        "TSNE-2": -0.13835936784744263,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": 0.6962988376617432,
+        "TSNE-2": 10.755716323852539,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": -3.2343740463256836,
+        "TSNE-2": 10.51039981842041,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": -3.4299423694610596,
+        "TSNE-2": -10.121268272399902,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -0.13072118163108826,
+        "TSNE-2": -14.089760780334473,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": 5.154609203338623,
+        "TSNE-2": -2.6009464263916016,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": -2.9776663780212402,
+        "TSNE-2": 7.2704620361328125,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 1.9394227266311646,
+        "TSNE-2": 13.574442863464355,
+        "cluster": 1,
+        "keywords": "higher, coast, east, association, clear"
+      },
+      {
+        "TSNE-1": 11.746359825134277,
+        "TSNE-2": -6.422995090484619,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 20.23169708251953,
+        "TSNE-2": -18.773780822753906,
+        "cluster": 4,
+        "keywords": "nan, younger, experience, explore, explicitly"
+      },
+      {
+        "TSNE-1": 0.7050960063934326,
+        "TSNE-2": 1.727403163909912,
+        "cluster": 3,
+        "keywords": "like, obesity, high, socioeconomic, environmental"
+      },
+      {
+        "TSNE-1": 6.759389400482178,
+        "TSNE-2": -8.83806037902832,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      },
+      {
+        "TSNE-1": -5.965890407562256,
+        "TSNE-2": 2.139035224914551,
+        "cluster": 5,
+        "keywords": "particularly, smoking, may, lung, reason"
+      },
+      {
+        "TSNE-1": 10.411205291748047,
+        "TSNE-2": 4.9655938148498535,
+        "cluster": 2,
+        "keywords": "region, factor, incidence, along, due"
+      },
+      {
+        "TSNE-1": 5.768366813659668,
+        "TSNE-2": -10.775984764099121,
+        "cluster": 0,
+        "keywords": "cancer, rate, state, highest, study"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_85",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-213817 - why are cancer rates higher on the east coast"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-4fa2492764212f88571df28b8d067300"
+  },
+  "datasets": {
+    "data-4fa2492764212f88571df28b8d067300": [
+      {
+        "TSNE-1": 5.271179676055908,
+        "TSNE-2": 6.6052656173706055,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": 10.873347282409668,
+        "TSNE-2": -2.932569980621338,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -0.9427942037582397,
+        "TSNE-2": 6.034124851226807,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": 8.78172492980957,
+        "TSNE-2": 1.6159218549728394,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": -0.9427942037582397,
+        "TSNE-2": 6.034124851226807,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -0.31624212861061096,
+        "TSNE-2": 9.349081993103027,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -6.61223840713501,
+        "TSNE-2": 3.7944929599761963,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -5.999323844909668,
+        "TSNE-2": -5.297928810119629,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 0.5007213354110718,
+        "TSNE-2": 0.8440001010894775,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": 6.121485233306885,
+        "TSNE-2": -1.3025225400924683,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -4.639047622680664,
+        "TSNE-2": -0.6558690667152405,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 4.4809770584106445,
+        "TSNE-2": 10.396350860595703,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -1.9886707067489624,
+        "TSNE-2": -4.258371353149414,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 0.7557094097137451,
+        "TSNE-2": -5.954268455505371,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": -3.0750017166137695,
+        "TSNE-2": 13.450724601745605,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -3.323941230773926,
+        "TSNE-2": 0.07389757037162781,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": -6.301303863525391,
+        "TSNE-2": 8.228643417358398,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -5.999323844909668,
+        "TSNE-2": -5.297928810119629,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -3.05544376373291,
+        "TSNE-2": -5.656422138214111,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": -6.311062335968018,
+        "TSNE-2": -3.4995784759521484,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 12.000068664550781,
+        "TSNE-2": 3.0768299102783203,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": 7.604098796844482,
+        "TSNE-2": -7.79495906829834,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": 10.448988914489746,
+        "TSNE-2": 4.304052829742432,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": -2.1003899574279785,
+        "TSNE-2": 1.1425284147262573,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": -0.7411701083183289,
+        "TSNE-2": -4.980826377868652,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": -4.833177089691162,
+        "TSNE-2": -8.530081748962402,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 9.4381685256958,
+        "TSNE-2": 2.5433974266052246,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": 3.367685317993164,
+        "TSNE-2": 3.108409881591797,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": 4.940296173095703,
+        "TSNE-2": -1.3888274431228638,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -0.6465438008308411,
+        "TSNE-2": 10.048481941223145,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -0.39866089820861816,
+        "TSNE-2": 3.1235506534576416,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": 2.8953938484191895,
+        "TSNE-2": -3.324455738067627,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -2.9671630859375,
+        "TSNE-2": -3.1095492839813232,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -8.815204620361328,
+        "TSNE-2": -4.214524745941162,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 8.276076316833496,
+        "TSNE-2": -4.487529277801514,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -2.8646774291992188,
+        "TSNE-2": -6.47120475769043,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": -5.889551162719727,
+        "TSNE-2": 2.0155351161956787,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 0.42032527923583984,
+        "TSNE-2": 1.8450840711593628,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": -2.9362494945526123,
+        "TSNE-2": -8.537464141845703,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 1.5856295824050903,
+        "TSNE-2": -10.462072372436523,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 1.0480269193649292,
+        "TSNE-2": 3.7642805576324463,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": -7.361678600311279,
+        "TSNE-2": 2.661431312561035,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -2.863797903060913,
+        "TSNE-2": -4.094933986663818,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 7.2929205894470215,
+        "TSNE-2": -4.702657699584961,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -12.096940994262695,
+        "TSNE-2": 1.017066240310669,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 2.94799542427063,
+        "TSNE-2": 6.601321220397949,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -2.0496251583099365,
+        "TSNE-2": 3.2453315258026123,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": 5.0234174728393555,
+        "TSNE-2": -3.840059757232666,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -4.639047622680664,
+        "TSNE-2": -0.6558690667152405,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 0.6012404561042786,
+        "TSNE-2": -1.45998215675354,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": 0.7339663505554199,
+        "TSNE-2": -13.290247917175293,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 5.876322269439697,
+        "TSNE-2": -0.6340641379356384,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -3.457646131515503,
+        "TSNE-2": -2.4639010429382324,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 1.6034060716629028,
+        "TSNE-2": 5.71449613571167,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -8.422943115234375,
+        "TSNE-2": -2.6953113079071045,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 11.959324836730957,
+        "TSNE-2": 2.3886420726776123,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": -7.777389049530029,
+        "TSNE-2": -6.806744575500488,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -4.090382099151611,
+        "TSNE-2": 13.273277282714844,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -11.9712553024292,
+        "TSNE-2": 0.4801627993583679,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 9.695672988891602,
+        "TSNE-2": 5.200922966003418,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": 5.9098124504089355,
+        "TSNE-2": 3.477675676345825,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": -4.128883361816406,
+        "TSNE-2": 6.291869640350342,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": 0.1897083818912506,
+        "TSNE-2": -13.623014450073242,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 0.33090996742248535,
+        "TSNE-2": -7.945263385772705,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": -7.226355075836182,
+        "TSNE-2": -0.6115427613258362,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -5.046777725219727,
+        "TSNE-2": -6.6962809562683105,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": -7.83059549331665,
+        "TSNE-2": 1.3282321691513062,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -2.082223415374756,
+        "TSNE-2": -7.849043846130371,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 4.078851222991943,
+        "TSNE-2": -7.118212699890137,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": 10.545491218566895,
+        "TSNE-2": 2.7349517345428467,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": 3.949347734451294,
+        "TSNE-2": -7.775751113891602,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -6.301303863525391,
+        "TSNE-2": 8.228643417358398,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -4.121208667755127,
+        "TSNE-2": 3.359078884124756,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": -0.31267812848091125,
+        "TSNE-2": -1.312242031097412,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": -5.6392927169799805,
+        "TSNE-2": 0.6588748693466187,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 1.9981659650802612,
+        "TSNE-2": 1.843880295753479,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": -1.6960121393203735,
+        "TSNE-2": -0.38364943861961365,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": -4.121208667755127,
+        "TSNE-2": 3.359078884124756,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": 2.7172160148620605,
+        "TSNE-2": -0.07319730520248413,
+        "cluster": 4,
+        "keywords": "percentage, earner, progressive, argue, rate"
+      },
+      {
+        "TSNE-1": 7.088463306427002,
+        "TSNE-2": -1.1824475526809692,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": -1.0439170598983765,
+        "TSNE-2": -3.108644485473633,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 4.4809770584106445,
+        "TSNE-2": 10.396350860595703,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": 5.9098124504089355,
+        "TSNE-2": 3.477675676345825,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      },
+      {
+        "TSNE-1": 0.49306362867355347,
+        "TSNE-2": -4.183052062988281,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": 1.5856295824050903,
+        "TSNE-2": -10.462072372436523,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": -3.637831687927246,
+        "TSNE-2": 12.710424423217773,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": 1.604843258857727,
+        "TSNE-2": 9.184572219848633,
+        "cluster": 2,
+        "keywords": "imposes, poor, particularly, system, burden"
+      },
+      {
+        "TSNE-1": -6.305128574371338,
+        "TSNE-2": -10.619041442871094,
+        "cluster": 3,
+        "keywords": "financial, ability, inequality, basic, moral"
+      },
+      {
+        "TSNE-1": -6.355273246765137,
+        "TSNE-2": -1.7530415058135986,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -11.66368579864502,
+        "TSNE-2": -2.232224941253662,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": -4.502645492553711,
+        "TSNE-2": -3.911147356033325,
+        "cluster": 1,
+        "keywords": "individual, higher, critic, pay, economic"
+      },
+      {
+        "TSNE-1": 2.820089340209961,
+        "TSNE-2": -3.2654614448547363,
+        "cluster": 0,
+        "keywords": "tax, regressive, people, income, larger"
+      },
+      {
+        "TSNE-1": 10.442797660827637,
+        "TSNE-2": 1.335022211074829,
+        "cluster": 5,
+        "keywords": "already, end, affected, greater, unjust"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_179",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-145295 - what is the primary moral argument of critics of a regressive tax system?"
+  }
+}

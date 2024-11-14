@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-8869901e6b375d621f7868293ee543f0"
+  },
+  "datasets": {
+    "data-8869901e6b375d621f7868293ee543f0": [
+      {
+        "TSNE-1": 7.236778259277344,
+        "TSNE-2": -1.5151602029800415,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -1.4213104248046875,
+        "TSNE-2": -4.5898237228393555,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -5.883208751678467,
+        "TSNE-2": 11.426968574523926,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": -6.940400123596191,
+        "TSNE-2": 0.012860290706157684,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -5.883208751678467,
+        "TSNE-2": 11.426968574523926,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": -13.119241714477539,
+        "TSNE-2": -8.95789623260498,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": 7.942424774169922,
+        "TSNE-2": 1.2249373197555542,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 3.6371958255767822,
+        "TSNE-2": -5.570675849914551,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 6.65104341506958,
+        "TSNE-2": 6.0424981117248535,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": -9.653438568115234,
+        "TSNE-2": -0.642125129699707,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": 4.087316989898682,
+        "TSNE-2": -2.25484037399292,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -10.262309074401855,
+        "TSNE-2": 10.941608428955078,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": 0.06786920875310898,
+        "TSNE-2": 6.144917964935303,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 1.0807254314422607,
+        "TSNE-2": -3.143747329711914,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -1.225829005241394,
+        "TSNE-2": 12.630661964416504,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 0.7830962538719177,
+        "TSNE-2": 1.6081138849258423,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 2.2257354259490967,
+        "TSNE-2": 8.620386123657227,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 3.6371958255767822,
+        "TSNE-2": -5.570675849914551,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 2.2944092750549316,
+        "TSNE-2": 2.6007232666015625,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 10.67805004119873,
+        "TSNE-2": 9.320505142211914,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 0.7479947209358215,
+        "TSNE-2": -12.189657211303711,
+        "cluster": 3,
+        "keywords": "nan, failure, whereas, symptom, view"
+      },
+      {
+        "TSNE-1": 5.733778476715088,
+        "TSNE-2": 8.35964298248291,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 1.5637801885604858,
+        "TSNE-2": -11.15149211883545,
+        "cluster": 3,
+        "keywords": "nan, failure, whereas, symptom, view"
+      },
+      {
+        "TSNE-1": 3.0655086040496826,
+        "TSNE-2": -0.2648249864578247,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -0.6621777415275574,
+        "TSNE-2": -1.5781471729278564,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 1.931993007659912,
+        "TSNE-2": -5.709824085235596,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": -6.234397888183594,
+        "TSNE-2": -1.7884083986282349,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -5.2414326667785645,
+        "TSNE-2": 9.05866527557373,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": -13.456860542297363,
+        "TSNE-2": 6.140506267547607,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": 9.225615501403809,
+        "TSNE-2": 10.10293960571289,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 5.8640031814575195,
+        "TSNE-2": 5.893826961517334,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": -9.851821899414062,
+        "TSNE-2": -4.412618160247803,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -0.924269437789917,
+        "TSNE-2": 4.414236545562744,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 0.17362546920776367,
+        "TSNE-2": 0.4141199290752411,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -7.0327677726745605,
+        "TSNE-2": 4.504941940307617,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": 6.088287353515625,
+        "TSNE-2": -9.20364761352539,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 13.241711616516113,
+        "TSNE-2": -3.3374252319335938,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": -1.2233140468597412,
+        "TSNE-2": 14.34610652923584,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 6.337399959564209,
+        "TSNE-2": -3.8681864738464355,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 5.0738444328308105,
+        "TSNE-2": 2.5757360458374023,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -2.2658281326293945,
+        "TSNE-2": -5.184364318847656,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": 3.1368257999420166,
+        "TSNE-2": 12.696043014526367,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 1.6299742460250854,
+        "TSNE-2": 5.051969051361084,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 0.13495127856731415,
+        "TSNE-2": -6.419314861297607,
+        "cluster": 3,
+        "keywords": "nan, failure, whereas, symptom, view"
+      },
+      {
+        "TSNE-1": -4.434143543243408,
+        "TSNE-2": 5.996242046356201,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": -5.059020519256592,
+        "TSNE-2": -12.50058650970459,
+        "cluster": 3,
+        "keywords": "nan, failure, whereas, symptom, view"
+      },
+      {
+        "TSNE-1": -11.942276954650879,
+        "TSNE-2": -5.802071571350098,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -1.3755372762680054,
+        "TSNE-2": 11.303153991699219,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 4.087316989898682,
+        "TSNE-2": -2.25484037399292,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -2.827343225479126,
+        "TSNE-2": 6.164902687072754,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": -7.3076066970825195,
+        "TSNE-2": -9.618606567382812,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -4.496175765991211,
+        "TSNE-2": -3.6515302658081055,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": 0.24689587950706482,
+        "TSNE-2": 4.356101989746094,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 13.015636444091797,
+        "TSNE-2": 5.266778945922852,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -0.43165093660354614,
+        "TSNE-2": 2.389437437057495,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 0.05948552489280701,
+        "TSNE-2": -11.247404098510742,
+        "cluster": 3,
+        "keywords": "nan, failure, whereas, symptom, view"
+      },
+      {
+        "TSNE-1": -2.131382942199707,
+        "TSNE-2": 0.8898125886917114,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -12.867570877075195,
+        "TSNE-2": 6.967295169830322,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": 2.5761327743530273,
+        "TSNE-2": -7.731357574462891,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": -1.841253399848938,
+        "TSNE-2": -10.36502742767334,
+        "cluster": 3,
+        "keywords": "nan, failure, whereas, symptom, view"
+      },
+      {
+        "TSNE-1": -2.998108386993408,
+        "TSNE-2": 3.259782552719116,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": 10.495770454406738,
+        "TSNE-2": 1.4839906692504883,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -8.160004615783691,
+        "TSNE-2": -8.346820831298828,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -6.755141258239746,
+        "TSNE-2": -5.5095601081848145,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": 10.691744804382324,
+        "TSNE-2": -7.035195350646973,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 5.294674396514893,
+        "TSNE-2": -0.0035410302225500345,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 11.617460250854492,
+        "TSNE-2": -6.26607608795166,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 8.137472152709961,
+        "TSNE-2": -4.538163661956787,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 3.2453320026397705,
+        "TSNE-2": 13.694611549377441,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": -7.48460578918457,
+        "TSNE-2": 0.8162495493888855,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": 4.231634140014648,
+        "TSNE-2": 11.493301391601562,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 2.2257354259490967,
+        "TSNE-2": 8.620386123657227,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": -2.8069140911102295,
+        "TSNE-2": -1.5358392000198364,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": 6.217135429382324,
+        "TSNE-2": -6.481232166290283,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 11.22117805480957,
+        "TSNE-2": -4.4256062507629395,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": -4.586272239685059,
+        "TSNE-2": 0.7785367965698242,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": 5.3291521072387695,
+        "TSNE-2": -8.421042442321777,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": -2.8069140911102295,
+        "TSNE-2": -1.5358392000198364,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -8.53207015991211,
+        "TSNE-2": -9.503369331359863,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -1.6441079378128052,
+        "TSNE-2": 10.038880348205566,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 2.008652925491333,
+        "TSNE-2": -0.8769730925559998,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -10.262309074401855,
+        "TSNE-2": 10.941608428955078,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": -1.9758204221725464,
+        "TSNE-2": -17.463176727294922,
+        "cluster": 3,
+        "keywords": "nan, failure, whereas, symptom, view"
+      },
+      {
+        "TSNE-1": 8.71426773071289,
+        "TSNE-2": 11.456063270568848,
+        "cluster": 5,
+        "keywords": "protect, could, status, help, law"
+      },
+      {
+        "TSNE-1": 5.0738444328308105,
+        "TSNE-2": 2.5757360458374023,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -12.53785228729248,
+        "TSNE-2": 5.277190208435059,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": -15.43196964263916,
+        "TSNE-2": 0.49480700492858887,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      },
+      {
+        "TSNE-1": -2.4108712673187256,
+        "TSNE-2": -16.9051570892334,
+        "cluster": 3,
+        "keywords": "nan, failure, whereas, symptom, view"
+      },
+      {
+        "TSNE-1": 2.2529406547546387,
+        "TSNE-2": 1.2337614297866821,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": 12.869303703308105,
+        "TSNE-2": -8.309514999389648,
+        "cluster": 1,
+        "keywords": "health, fear, threat, belief, physiological"
+      },
+      {
+        "TSNE-1": 7.981951713562012,
+        "TSNE-2": 3.2573812007904053,
+        "cluster": 2,
+        "keywords": "government, support, individual, often, solution"
+      },
+      {
+        "TSNE-1": -9.851821899414062,
+        "TSNE-2": -4.412618160247803,
+        "cluster": 4,
+        "keywords": "healthcare, may, personal, issue, rather"
+      },
+      {
+        "TSNE-1": -8.82728099822998,
+        "TSNE-2": 2.0709168910980225,
+        "cluster": 0,
+        "keywords": "conservative, document, mental, stress, religion"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_288",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-22172 - do conservatives believe in mental health"
+  }
+}

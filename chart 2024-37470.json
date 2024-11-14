@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-b6c9277324e6e8738791019e6250234e"
+  },
+  "datasets": {
+    "data-b6c9277324e6e8738791019e6250234e": [
+      {
+        "TSNE-1": 0.5389572381973267,
+        "TSNE-2": -3.0217034816741943,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 4.009234428405762,
+        "TSNE-2": -4.74916410446167,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -4.129970073699951,
+        "TSNE-2": -8.272913932800293,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": -7.2642669677734375,
+        "TSNE-2": -0.6463075876235962,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -4.165517330169678,
+        "TSNE-2": -8.251543045043945,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": -8.663293838500977,
+        "TSNE-2": -6.117879390716553,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 1.7617239952087402,
+        "TSNE-2": 8.564848899841309,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": 4.488835334777832,
+        "TSNE-2": 2.5964303016662598,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": -4.448354721069336,
+        "TSNE-2": 8.179680824279785,
+        "cluster": 1,
+        "keywords": "monetary, bank, dollarization, money, may"
+      },
+      {
+        "TSNE-1": -11.84053897857666,
+        "TSNE-2": -2.330139636993408,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 2.690094232559204,
+        "TSNE-2": -7.508864402770996,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": -10.196731567382812,
+        "TSNE-2": 4.655091285705566,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 0.09408753365278244,
+        "TSNE-2": -1.0848538875579834,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 1.7803359031677246,
+        "TSNE-2": 2.6023495197296143,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -13.23108959197998,
+        "TSNE-2": -3.7239267826080322,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 4.019741058349609,
+        "TSNE-2": -2.319159507751465,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -1.0003892183303833,
+        "TSNE-2": -7.0433430671691895,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": 4.488835334777832,
+        "TSNE-2": 2.5964303016662598,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": 2.0906176567077637,
+        "TSNE-2": -1.9983344078063965,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 2.900679111480713,
+        "TSNE-2": 5.554714679718018,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": -11.578712463378906,
+        "TSNE-2": -0.8421251773834229,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 10.331360816955566,
+        "TSNE-2": -0.48206618428230286,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -13.14206314086914,
+        "TSNE-2": 1.4150558710098267,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 0.2972787618637085,
+        "TSNE-2": 3.1233837604522705,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -6.009590148925781,
+        "TSNE-2": -0.3611760139465332,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -1.9709506034851074,
+        "TSNE-2": -1.2395954132080078,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -9.991012573242188,
+        "TSNE-2": -0.12251653522253036,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 7.836042404174805,
+        "TSNE-2": 6.277256488800049,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": -10.593035697937012,
+        "TSNE-2": -1.933571696281433,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -8.744991302490234,
+        "TSNE-2": -6.035648345947266,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -4.2424635887146,
+        "TSNE-2": 7.9958014488220215,
+        "cluster": 1,
+        "keywords": "monetary, bank, dollarization, money, may"
+      },
+      {
+        "TSNE-1": 0.18362611532211304,
+        "TSNE-2": 6.226957321166992,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": 0.06289726495742798,
+        "TSNE-2": -0.17393746972084045,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -2.2677056789398193,
+        "TSNE-2": 0.8291456699371338,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 6.056155204772949,
+        "TSNE-2": 9.368537902832031,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": 6.9520649909973145,
+        "TSNE-2": -0.8213831186294556,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": 5.153659343719482,
+        "TSNE-2": 0.06982187926769257,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": 4.227715492248535,
+        "TSNE-2": 7.260508060455322,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": -0.8535520434379578,
+        "TSNE-2": -2.4811973571777344,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 1.9877150058746338,
+        "TSNE-2": -0.5266034603118896,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 5.258223056793213,
+        "TSNE-2": -4.806796550750732,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -3.298738479614258,
+        "TSNE-2": 0.30938324332237244,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -1.439685344696045,
+        "TSNE-2": -0.37011274695396423,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 0.08503374457359314,
+        "TSNE-2": 1.232338547706604,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 7.060868740081787,
+        "TSNE-2": -3.4378247261047363,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -2.1674375534057617,
+        "TSNE-2": -11.405282974243164,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": 1.9102400541305542,
+        "TSNE-2": 5.525315761566162,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": -7.010854721069336,
+        "TSNE-2": 3.3986668586730957,
+        "cluster": 1,
+        "keywords": "monetary, bank, dollarization, money, may"
+      },
+      {
+        "TSNE-1": 2.690094232559204,
+        "TSNE-2": -7.508864402770996,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": 7.058443069458008,
+        "TSNE-2": -2.3123130798339844,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": 10.332985877990723,
+        "TSNE-2": -1.8619667291641235,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -11.84053897857666,
+        "TSNE-2": -2.330139636993408,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -0.3707389533519745,
+        "TSNE-2": -0.6273601651191711,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -2.1450655460357666,
+        "TSNE-2": -11.409627914428711,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": 1.699416995048523,
+        "TSNE-2": 0.93328458070755,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -8.681279182434082,
+        "TSNE-2": 0.613275408744812,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 3.3429179191589355,
+        "TSNE-2": -3.7823994159698486,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -9.541200637817383,
+        "TSNE-2": -1.3693311214447021,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 4.307483196258545,
+        "TSNE-2": 4.4214067459106445,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": -11.422698974609375,
+        "TSNE-2": 0.8021224737167358,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -4.501467227935791,
+        "TSNE-2": -5.0692524909973145,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": 6.786727428436279,
+        "TSNE-2": 1.7771062850952148,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": 9.76791000366211,
+        "TSNE-2": 0.38818368315696716,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": 1.3398765325546265,
+        "TSNE-2": -4.623928070068359,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 9.087498664855957,
+        "TSNE-2": -0.8782148361206055,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -2.1009390354156494,
+        "TSNE-2": 3.0989632606506348,
+        "cluster": 1,
+        "keywords": "monetary, bank, dollarization, money, may"
+      },
+      {
+        "TSNE-1": 5.566495895385742,
+        "TSNE-2": -1.9845271110534668,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -1.230868935585022,
+        "TSNE-2": -4.172003269195557,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": 6.372686386108398,
+        "TSNE-2": 0.5109354853630066,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -8.813746452331543,
+        "TSNE-2": -2.4141182899475098,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": 6.070247173309326,
+        "TSNE-2": 0.6890242695808411,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -1.0003892183303833,
+        "TSNE-2": -7.0433430671691895,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": 5.680042266845703,
+        "TSNE-2": 6.6207427978515625,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": -0.8184695243835449,
+        "TSNE-2": 1.9826936721801758,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 7.720029354095459,
+        "TSNE-2": 0.3260817527770996,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": 8.240057945251465,
+        "TSNE-2": 2.8730971813201904,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -4.049411296844482,
+        "TSNE-2": 1.9702789783477783,
+        "cluster": 1,
+        "keywords": "monetary, bank, dollarization, money, may"
+      },
+      {
+        "TSNE-1": 5.680042266845703,
+        "TSNE-2": 6.6207427978515625,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": 10.084132194519043,
+        "TSNE-2": -3.254436731338501,
+        "cluster": 3,
+        "keywords": "process, like, crisis, ecuador, economic"
+      },
+      {
+        "TSNE-1": -12.722232818603516,
+        "TSNE-2": -1.363038182258606,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -3.102292776107788,
+        "TSNE-2": -2.055823564529419,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -10.179025650024414,
+        "TSNE-2": 4.655975341796875,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -4.498985290527344,
+        "TSNE-2": -5.091163635253906,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": -3.6182632446289062,
+        "TSNE-2": 4.859094142913818,
+        "cluster": 1,
+        "keywords": "monetary, bank, dollarization, money, may"
+      },
+      {
+        "TSNE-1": 1.9877150058746338,
+        "TSNE-2": -0.5266034603118896,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": -8.90739917755127,
+        "TSNE-2": -0.9924184083938599,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      },
+      {
+        "TSNE-1": -2.6054813861846924,
+        "TSNE-2": 5.676574230194092,
+        "cluster": 1,
+        "keywords": "monetary, bank, dollarization, money, may"
+      },
+      {
+        "TSNE-1": -5.999805927276611,
+        "TSNE-2": -10.814523696899414,
+        "cluster": 2,
+        "keywords": "document, adoption, official, choose, symbol"
+      },
+      {
+        "TSNE-1": 3.728598117828369,
+        "TSNE-2": -1.2647286653518677,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 0.874860942363739,
+        "TSNE-2": 9.093806266784668,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": 3.5005855560302734,
+        "TSNE-2": 1.1021263599395752,
+        "cluster": 5,
+        "keywords": "local, policy, often, officially, control"
+      },
+      {
+        "TSNE-1": 0.18362611532211304,
+        "TSNE-2": 6.226957321166992,
+        "cluster": 0,
+        "keywords": "dollar, use, country, currency, many"
+      },
+      {
+        "TSNE-1": -11.956266403198242,
+        "TSNE-2": 1.1942174434661865,
+        "cluster": 4,
+        "keywords": "exchange, mean, rate, fix, value"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_144",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-37470 - how do countries change to the us dollar"
+  }
+}

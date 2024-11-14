@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-f1c365e499f93e5d0e3ae33ba02711ce"
+  },
+  "datasets": {
+    "data-f1c365e499f93e5d0e3ae33ba02711ce": [
+      {
+        "TSNE-1": 5.54652214050293,
+        "TSNE-2": -3.246830701828003,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": -12.713834762573242,
+        "TSNE-2": 1.5001718997955322,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 1.8146357536315918,
+        "TSNE-2": -8.491580963134766,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 3.331533670425415,
+        "TSNE-2": 9.258275985717773,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": 1.8146357536315918,
+        "TSNE-2": -8.491580963134766,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 3.780287504196167,
+        "TSNE-2": -10.834431648254395,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 2.0741372108459473,
+        "TSNE-2": -0.5012688636779785,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -8.074203491210938,
+        "TSNE-2": -12.995101928710938,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 3.7227542400360107,
+        "TSNE-2": 12.004707336425781,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": 4.01608943939209,
+        "TSNE-2": -6.623813152313232,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": -11.22713565826416,
+        "TSNE-2": 8.561972618103027,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": -8.132505416870117,
+        "TSNE-2": 2.42918062210083,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 1.3654199838638306,
+        "TSNE-2": -4.971461772918701,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 10.43867301940918,
+        "TSNE-2": 10.561781883239746,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": -3.533045768737793,
+        "TSNE-2": 1.8913824558258057,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": 12.860505104064941,
+        "TSNE-2": -0.3445967435836792,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": 2.0741372108459473,
+        "TSNE-2": -0.5012688636779785,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -3.876012086868286,
+        "TSNE-2": 4.747551441192627,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -8.685517311096191,
+        "TSNE-2": -1.5717382431030273,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 8.27020263671875,
+        "TSNE-2": 7.840813636779785,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": -4.978146076202393,
+        "TSNE-2": 7.146793842315674,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": 10.296789169311523,
+        "TSNE-2": 5.30451774597168,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": -0.8656666874885559,
+        "TSNE-2": -1.0721337795257568,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -5.238263130187988,
+        "TSNE-2": -10.635529518127441,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 4.138399600982666,
+        "TSNE-2": -1.1226227283477783,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -0.23115257918834686,
+        "TSNE-2": 10.179021835327148,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": 9.267648696899414,
+        "TSNE-2": -2.624368667602539,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": 10.648295402526855,
+        "TSNE-2": 8.745388984680176,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": -0.9280786514282227,
+        "TSNE-2": -16.023677825927734,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 11.004741668701172,
+        "TSNE-2": 3.993774175643921,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": -7.530974864959717,
+        "TSNE-2": -3.6914336681365967,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": -6.8700337409973145,
+        "TSNE-2": 2.163783550262451,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": -2.446913242340088,
+        "TSNE-2": -0.051682256162166595,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -7.840626239776611,
+        "TSNE-2": 7.249035358428955,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": 1.4485785961151123,
+        "TSNE-2": 3.5283126831054688,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -11.66234302520752,
+        "TSNE-2": -4.514247417449951,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": -0.5055035352706909,
+        "TSNE-2": -8.997380256652832,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 8.225024223327637,
+        "TSNE-2": 0.11214262247085571,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": -14.584900856018066,
+        "TSNE-2": -7.975447177886963,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": -12.617770195007324,
+        "TSNE-2": 0.38508912920951843,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 5.553053855895996,
+        "TSNE-2": -0.547328770160675,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -7.506180763244629,
+        "TSNE-2": 3.8857364654541016,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 3.3745265007019043,
+        "TSNE-2": -2.815518379211426,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -5.664394855499268,
+        "TSNE-2": -7.601611137390137,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": -5.734368801116943,
+        "TSNE-2": 13.145868301391602,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": -10.001945495605469,
+        "TSNE-2": -7.811583995819092,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 1.55740225315094,
+        "TSNE-2": 8.598676681518555,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": 4.01608943939209,
+        "TSNE-2": -6.623813152313232,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": -2.1372296810150146,
+        "TSNE-2": -12.614748001098633,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 14.44868278503418,
+        "TSNE-2": -7.415379047393799,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": 3.582693576812744,
+        "TSNE-2": 13.571718215942383,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": 0.3222966492176056,
+        "TSNE-2": 0.6576672196388245,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -5.734368801116943,
+        "TSNE-2": 13.145868301391602,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": -1.5997216701507568,
+        "TSNE-2": 2.72019100189209,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": 7.5045318603515625,
+        "TSNE-2": 9.130377769470215,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": -1.326193928718567,
+        "TSNE-2": 5.332440376281738,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": 12.324593544006348,
+        "TSNE-2": 10.062666893005371,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": 8.44153881072998,
+        "TSNE-2": -4.539121627807617,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": -0.7963631749153137,
+        "TSNE-2": 13.409012794494629,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": 6.3205060958862305,
+        "TSNE-2": -11.280136108398438,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 14.44868278503418,
+        "TSNE-2": -7.415379047393799,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": 14.44868278503418,
+        "TSNE-2": -7.415379047393799,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": -9.331808090209961,
+        "TSNE-2": -6.845259666442871,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": -5.603920936584473,
+        "TSNE-2": -6.0558271408081055,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": -3.591130256652832,
+        "TSNE-2": -1.781500220298767,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -2.0045840740203857,
+        "TSNE-2": -14.242016792297363,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 3.1070027351379395,
+        "TSNE-2": 1.5279074907302856,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -5.58065128326416,
+        "TSNE-2": -0.5365860462188721,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 5.396334648132324,
+        "TSNE-2": 12.566560745239258,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": 11.973645210266113,
+        "TSNE-2": -7.172354221343994,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": 12.860505104064941,
+        "TSNE-2": -0.3445967435836792,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": -1.938409447669983,
+        "TSNE-2": -7.30265998840332,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 6.505429267883301,
+        "TSNE-2": 3.303100347518921,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": -3.4350578784942627,
+        "TSNE-2": -12.980860710144043,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": -10.92501449584961,
+        "TSNE-2": -0.7072058916091919,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 6.974578857421875,
+        "TSNE-2": 2.14701509475708,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": -1.938409447669983,
+        "TSNE-2": -7.30265998840332,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": 14.44868278503418,
+        "TSNE-2": -7.415379047393799,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": 0.7559494972229004,
+        "TSNE-2": 11.580015182495117,
+        "cluster": 3,
+        "keywords": "often, money, woman, married, love"
+      },
+      {
+        "TSNE-1": -1.4270895719528198,
+        "TSNE-2": -2.9694173336029053,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -11.22713565826416,
+        "TSNE-2": 8.561972618103027,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 6.3205060958862305,
+        "TSNE-2": -11.280136108398438,
+        "cluster": 1,
+        "keywords": "perfume, body, royalty, also, people"
+      },
+      {
+        "TSNE-1": -0.4080312252044678,
+        "TSNE-2": -4.027331352233887,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -14.584900856018066,
+        "TSNE-2": -7.975447177886963,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 10.432209968566895,
+        "TSNE-2": 11.844846725463867,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": 8.737914085388184,
+        "TSNE-2": -6.228369235992432,
+        "cluster": 2,
+        "keywords": "new, soap, cologne, ate, fill"
+      },
+      {
+        "TSNE-1": -23.660179138183594,
+        "TSNE-2": -6.777946949005127,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": -2.3900370597839355,
+        "TSNE-2": 3.7971243858337402,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": 3.3646738529205322,
+        "TSNE-2": 7.507503986358643,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      },
+      {
+        "TSNE-1": 0.9724646806716919,
+        "TSNE-2": -2.478591203689575,
+        "cluster": 0,
+        "keywords": "use, oil, personal, powder, scent"
+      },
+      {
+        "TSNE-1": -7.530974864959717,
+        "TSNE-2": -3.6914336681365967,
+        "cluster": 4,
+        "keywords": "could, land, nan, good, scientific"
+      },
+      {
+        "TSNE-1": 5.396334648132324,
+        "TSNE-2": 12.566560745239258,
+        "cluster": 5,
+        "keywords": "cotton, immigration, rare, easier, invention"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_181",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-36355 - how did people in the 1700's get the sceant they wanted"
+  }
+}

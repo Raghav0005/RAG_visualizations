@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d2e28a3f23ffe4776341748f5b9d50aa"
+  },
+  "datasets": {
+    "data-d2e28a3f23ffe4776341748f5b9d50aa": [
+      {
+        "TSNE-1": -7.698169231414795,
+        "TSNE-2": 5.14363431930542,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 6.652040004730225,
+        "TSNE-2": 1.570053219795227,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -10.66928482055664,
+        "TSNE-2": 5.082815170288086,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -7.794978141784668,
+        "TSNE-2": -5.954221248626709,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": -10.66928482055664,
+        "TSNE-2": 5.082815170288086,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -6.036438465118408,
+        "TSNE-2": -4.575109481811523,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": 5.504438877105713,
+        "TSNE-2": -3.3232903480529785,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": 12.601508140563965,
+        "TSNE-2": 4.548793315887451,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": 10.018311500549316,
+        "TSNE-2": -2.9060134887695312,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -3.251391649246216,
+        "TSNE-2": 8.793571472167969,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 9.095071792602539,
+        "TSNE-2": 13.409357070922852,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -11.78415298461914,
+        "TSNE-2": -4.4847612380981445,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": -0.9912991523742676,
+        "TSNE-2": -1.05545175075531,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": -12.590813636779785,
+        "TSNE-2": 6.657892227172852,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -3.2363507747650146,
+        "TSNE-2": -7.923899173736572,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": 4.0148468017578125,
+        "TSNE-2": 1.5581157207489014,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": 7.999775409698486,
+        "TSNE-2": -8.402524948120117,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": 12.601508140563965,
+        "TSNE-2": 4.548793315887451,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": 6.123266696929932,
+        "TSNE-2": 4.215886116027832,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -4.830597877502441,
+        "TSNE-2": 12.480907440185547,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -1.181304693222046,
+        "TSNE-2": -12.080936431884766,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": -7.808745861053467,
+        "TSNE-2": -9.286642074584961,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": -0.44946029782295227,
+        "TSNE-2": -11.734173774719238,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": 8.047778129577637,
+        "TSNE-2": -1.172981858253479,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -6.950446128845215,
+        "TSNE-2": 0.05601378530263901,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 9.540525436401367,
+        "TSNE-2": 5.372585773468018,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -6.838514804840088,
+        "TSNE-2": -6.765224456787109,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": 6.46752405166626,
+        "TSNE-2": -4.371275424957275,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -4.17362117767334,
+        "TSNE-2": -7.392484188079834,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": -8.718439102172852,
+        "TSNE-2": -2.1234869956970215,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": -7.072080135345459,
+        "TSNE-2": 8.915891647338867,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -16.138322830200195,
+        "TSNE-2": 2.440633773803711,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -2.4493377208709717,
+        "TSNE-2": 0.044766008853912354,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 4.888095855712891,
+        "TSNE-2": 4.988295555114746,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -3.5040924549102783,
+        "TSNE-2": -1.2302640676498413,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": -3.9864377975463867,
+        "TSNE-2": 3.6364693641662598,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": -6.273648738861084,
+        "TSNE-2": 0.5629124641418457,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": -8.701478004455566,
+        "TSNE-2": 1.7772903442382812,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 7.274147033691406,
+        "TSNE-2": 5.023295879364014,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": 1.3725980520248413,
+        "TSNE-2": 0.7686495780944824,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 0.8956470489501953,
+        "TSNE-2": 4.554500579833984,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 9.306644439697266,
+        "TSNE-2": 1.0275405645370483,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -2.058818817138672,
+        "TSNE-2": -0.2255786657333374,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 9.40038776397705,
+        "TSNE-2": -1.2559945583343506,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -2.8326079845428467,
+        "TSNE-2": 2.435192823410034,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 3.369088888168335,
+        "TSNE-2": -10.196649551391602,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": -5.773495674133301,
+        "TSNE-2": 12.51478385925293,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -1.550819754600525,
+        "TSNE-2": 7.044125080108643,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 9.095071792602539,
+        "TSNE-2": 13.409357070922852,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -4.706460952758789,
+        "TSNE-2": 5.127076625823975,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 12.583836555480957,
+        "TSNE-2": -0.2954968810081482,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -2.544288396835327,
+        "TSNE-2": 8.822675704956055,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -1.084902286529541,
+        "TSNE-2": -0.034700021147727966,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 3.369088888168335,
+        "TSNE-2": -10.196649551391602,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": 4.633975028991699,
+        "TSNE-2": 6.271694183349609,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -5.34454345703125,
+        "TSNE-2": -6.519148826599121,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": 4.387115955352783,
+        "TSNE-2": 0.6546131372451782,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -5.776847839355469,
+        "TSNE-2": -8.553068161010742,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": 1.5552685260772705,
+        "TSNE-2": -4.5309038162231445,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 1.1243674755096436,
+        "TSNE-2": 9.22070598602295,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -12.386640548706055,
+        "TSNE-2": 0.3631554841995239,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 14.35472297668457,
+        "TSNE-2": -0.17290067672729492,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": 11.847870826721191,
+        "TSNE-2": -0.669596254825592,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": 3.736717462539673,
+        "TSNE-2": -5.523157596588135,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": -4.484022617340088,
+        "TSNE-2": 1.7185781002044678,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 6.175944805145264,
+        "TSNE-2": 9.253844261169434,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -2.2775158882141113,
+        "TSNE-2": 4.115988731384277,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 4.576599597930908,
+        "TSNE-2": 8.83029556274414,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": 9.193142890930176,
+        "TSNE-2": 2.0957679748535156,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -5.247848033905029,
+        "TSNE-2": -2.5118095874786377,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": 5.3413543701171875,
+        "TSNE-2": 11.541804313659668,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": 8.601438522338867,
+        "TSNE-2": -8.698440551757812,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": -0.8038573861122131,
+        "TSNE-2": -5.596174716949463,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 1.8531841039657593,
+        "TSNE-2": -1.7737138271331787,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": -0.7812788486480713,
+        "TSNE-2": 2.417701244354248,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 4.059746742248535,
+        "TSNE-2": -6.786436080932617,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": -0.8767828345298767,
+        "TSNE-2": -2.884812593460083,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": -0.8038573861122131,
+        "TSNE-2": -5.596174716949463,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 14.308619499206543,
+        "TSNE-2": -1.2711015939712524,
+        "cluster": 2,
+        "keywords": "spanish, aztec, inca, mongol, spain"
+      },
+      {
+        "TSNE-1": -3.325591802597046,
+        "TSNE-2": 6.927128791809082,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 10.198944091796875,
+        "TSNE-2": 7.6700639724731445,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -11.78415298461914,
+        "TSNE-2": -4.4847612380981445,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": -12.386640548706055,
+        "TSNE-2": 0.3631554841995239,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 2.3766698837280273,
+        "TSNE-2": 3.191736936569214,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": 1.3725980520248413,
+        "TSNE-2": 0.7686495780944824,
+        "cluster": 0,
+        "keywords": "constantinople, conquest, power, ottoman, fall"
+      },
+      {
+        "TSNE-1": -3.7137858867645264,
+        "TSNE-2": -5.8057661056518555,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": -10.041145324707031,
+        "TSNE-2": -2.9543986320495605,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      },
+      {
+        "TSNE-1": 15.479201316833496,
+        "TSNE-2": -22.513187408447266,
+        "cluster": 5,
+        "keywords": "nan, world, india, key, also"
+      },
+      {
+        "TSNE-1": 7.125157833099365,
+        "TSNE-2": 7.235318660736084,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -7.7778849601745605,
+        "TSNE-2": 10.077431678771973,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": 9.564993858337402,
+        "TSNE-2": 4.531519412994385,
+        "cluster": 1,
+        "keywords": "global, european, economic, america, cultural"
+      },
+      {
+        "TSNE-1": -16.138322830200195,
+        "TSNE-2": 2.440633773803711,
+        "cluster": 4,
+        "keywords": "turkish, point, asia, southeastern, north"
+      },
+      {
+        "TSNE-1": -4.494329452514648,
+        "TSNE-2": -3.1408684253692627,
+        "cluster": 3,
+        "keywords": "empire, byzantine, end, significant, consequence"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_250",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-225150 - why was this conquest a turning point in global history?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-6784b8da7e89b19f14f0d609e75eb930"
+  },
+  "datasets": {
+    "data-6784b8da7e89b19f14f0d609e75eb930": [
+      {
+        "TSNE-1": 2.5381789207458496,
+        "TSNE-2": 1.6963545083999634,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -1.1142555475234985,
+        "TSNE-2": -0.501975953578949,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 9.660097122192383,
+        "TSNE-2": -7.370467662811279,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -5.671445369720459,
+        "TSNE-2": -10.035490989685059,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 9.660097122192383,
+        "TSNE-2": -7.370467662811279,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": 2.0343801975250244,
+        "TSNE-2": -13.31015396118164,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": -4.847548007965088,
+        "TSNE-2": 0.11507992446422577,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 7.515814781188965,
+        "TSNE-2": 5.167908668518066,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -12.397578239440918,
+        "TSNE-2": 2.4861466884613037,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -6.951705455780029,
+        "TSNE-2": 11.390807151794434,
+        "cluster": 5,
+        "keywords": "nan, inflight, different, security, transportation"
+      },
+      {
+        "TSNE-1": 13.532889366149902,
+        "TSNE-2": 2.527890682220459,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -14.319579124450684,
+        "TSNE-2": 7.673275470733643,
+        "cluster": 5,
+        "keywords": "nan, inflight, different, security, transportation"
+      },
+      {
+        "TSNE-1": 3.7601969242095947,
+        "TSNE-2": -1.9852005243301392,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -1.6484295129776,
+        "TSNE-2": -3.1120760440826416,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": -8.241304397583008,
+        "TSNE-2": -4.513693332672119,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 2.673811674118042,
+        "TSNE-2": 4.8059210777282715,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 7.180914878845215,
+        "TSNE-2": 14.202323913574219,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": 7.515814781188965,
+        "TSNE-2": 5.167908668518066,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": 1.1494871377944946,
+        "TSNE-2": 4.581818580627441,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 0.8039029240608215,
+        "TSNE-2": -9.203407287597656,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": -2.0600736141204834,
+        "TSNE-2": -10.885149955749512,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 5.4985175132751465,
+        "TSNE-2": 2.9113669395446777,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -7.211627006530762,
+        "TSNE-2": -11.500717163085938,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 5.571584701538086,
+        "TSNE-2": -1.1254289150238037,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -15.665975570678711,
+        "TSNE-2": -1.858925461769104,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": 1.1379523277282715,
+        "TSNE-2": -0.2486780285835266,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -4.573248386383057,
+        "TSNE-2": -11.624296188354492,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": -4.181832313537598,
+        "TSNE-2": -0.33146795630455017,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 10.643394470214844,
+        "TSNE-2": -3.208906888961792,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": 14.2418794631958,
+        "TSNE-2": -3.529677629470825,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -11.223249435424805,
+        "TSNE-2": 2.975046396255493,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -12.161174774169922,
+        "TSNE-2": -4.880457878112793,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": 3.2353522777557373,
+        "TSNE-2": -2.8251194953918457,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -2.3030173778533936,
+        "TSNE-2": 5.553652763366699,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 6.712184429168701,
+        "TSNE-2": 8.69664478302002,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": 4.330808639526367,
+        "TSNE-2": 8.265932083129883,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": 3.9034762382507324,
+        "TSNE-2": 3.3440988063812256,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 9.712961196899414,
+        "TSNE-2": -2.6850438117980957,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": 4.223677158355713,
+        "TSNE-2": -5.8290886878967285,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -1.2473270893096924,
+        "TSNE-2": 1.9597452878952026,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -3.6399245262145996,
+        "TSNE-2": 3.2459816932678223,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 5.061808109283447,
+        "TSNE-2": -3.6386823654174805,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": 2.8529064655303955,
+        "TSNE-2": -1.078347086906433,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 7.656798362731934,
+        "TSNE-2": -0.5598269104957581,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -1.8743681907653809,
+        "TSNE-2": 7.745299816131592,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -9.126788139343262,
+        "TSNE-2": 7.242901802062988,
+        "cluster": 5,
+        "keywords": "nan, inflight, different, security, transportation"
+      },
+      {
+        "TSNE-1": -7.499616622924805,
+        "TSNE-2": 2.18735671043396,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -2.0441009998321533,
+        "TSNE-2": -7.299931526184082,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 13.532889366149902,
+        "TSNE-2": 2.527890682220459,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": 4.431493282318115,
+        "TSNE-2": 6.9357099533081055,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -15.145838737487793,
+        "TSNE-2": 3.255444049835205,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -6.951705455780029,
+        "TSNE-2": 11.390807151794434,
+        "cluster": 5,
+        "keywords": "nan, inflight, different, security, transportation"
+      },
+      {
+        "TSNE-1": 1.9258368015289307,
+        "TSNE-2": -2.167496681213379,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -9.126788139343262,
+        "TSNE-2": 7.242901802062988,
+        "cluster": 5,
+        "keywords": "nan, inflight, different, security, transportation"
+      },
+      {
+        "TSNE-1": 1.0558058023452759,
+        "TSNE-2": 2.545785903930664,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -1.7927722930908203,
+        "TSNE-2": -5.19287633895874,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 1.9568424224853516,
+        "TSNE-2": 11.383920669555664,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -7.740013122558594,
+        "TSNE-2": -2.436004638671875,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": 9.794565200805664,
+        "TSNE-2": 4.45804500579834,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -3.8576881885528564,
+        "TSNE-2": -5.828033924102783,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 7.860907554626465,
+        "TSNE-2": -12.171477317810059,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -14.45502758026123,
+        "TSNE-2": 2.6722633838653564,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -14.951665878295898,
+        "TSNE-2": -0.07100337743759155,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -6.866010665893555,
+        "TSNE-2": 3.411125898361206,
+        "cluster": 5,
+        "keywords": "nan, inflight, different, security, transportation"
+      },
+      {
+        "TSNE-1": 5.230622291564941,
+        "TSNE-2": -8.592782974243164,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": 4.407253265380859,
+        "TSNE-2": 0.41261225938796997,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 8.868729591369629,
+        "TSNE-2": 1.4734230041503906,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": 2.369442939758301,
+        "TSNE-2": -4.412342071533203,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": 0.7801130414009094,
+        "TSNE-2": 8.40282154083252,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -4.273952007293701,
+        "TSNE-2": -10.099905967712402,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 0.5127213597297668,
+        "TSNE-2": 7.332803726196289,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": 7.180914878845215,
+        "TSNE-2": 14.202323913574219,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -4.458158493041992,
+        "TSNE-2": -4.100581169128418,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 7.226503849029541,
+        "TSNE-2": -3.411383628845215,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -8.052803993225098,
+        "TSNE-2": -7.411501884460449,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 1.9104048013687134,
+        "TSNE-2": -7.078869342803955,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": 6.664445877075195,
+        "TSNE-2": -5.097620964050293,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": -4.458158493041992,
+        "TSNE-2": -4.100581169128418,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": -16.964712142944336,
+        "TSNE-2": 1.038946270942688,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -0.4602069854736328,
+        "TSNE-2": -5.255129337310791,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": 0.09723959118127823,
+        "TSNE-2": -3.37373948097229,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": -14.319579124450684,
+        "TSNE-2": 7.673275470733643,
+        "cluster": 5,
+        "keywords": "nan, inflight, different, security, transportation"
+      },
+      {
+        "TSNE-1": 7.860907554626465,
+        "TSNE-2": -12.171477317810059,
+        "cluster": 3,
+        "keywords": "also, decade, emergence, music, show"
+      },
+      {
+        "TSNE-1": 10.019622802734375,
+        "TSNE-2": 7.779208183288574,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -1.2473270893096924,
+        "TSNE-2": 1.9597452878952026,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -7.133150577545166,
+        "TSNE-2": -3.9476327896118164,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      },
+      {
+        "TSNE-1": -12.43011474609375,
+        "TSNE-2": -0.8425368070602417,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -2.5556323528289795,
+        "TSNE-2": 11.388467788696289,
+        "cluster": 5,
+        "keywords": "nan, inflight, different, security, transportation"
+      },
+      {
+        "TSNE-1": -0.3356490731239319,
+        "TSNE-2": 5.1346354484558105,
+        "cluster": 4,
+        "keywords": "television, cultural, pop, boy, iconic"
+      },
+      {
+        "TSNE-1": -12.43011474609375,
+        "TSNE-2": -0.8425368070602417,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": 8.724873542785645,
+        "TSNE-2": 7.145312786102295,
+        "cluster": 0,
+        "keywords": "like, entertainment, rap, culture, wrestling"
+      },
+      {
+        "TSNE-1": -12.161174774169922,
+        "TSNE-2": -4.880457878112793,
+        "cluster": 1,
+        "keywords": "one, tv, cash, kept, mainstream"
+      },
+      {
+        "TSNE-1": -4.564305782318115,
+        "TSNE-2": -8.319669723510742,
+        "cluster": 2,
+        "keywords": "new, rise, great, saw, time"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_80",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-158677 - what was entertainment like in the 1990s in the us"
+  }
+}

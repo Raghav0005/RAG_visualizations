@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e51139e44e9500a03311a62670b22b6b"
+  },
+  "datasets": {
+    "data-e51139e44e9500a03311a62670b22b6b": [
+      {
+        "TSNE-1": 6.16215181350708,
+        "TSNE-2": -1.4498447179794312,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 8.00379753112793,
+        "TSNE-2": 6.946296215057373,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 12.854092597961426,
+        "TSNE-2": 1.1838934421539307,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -0.5168489813804626,
+        "TSNE-2": -12.041145324707031,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": 12.854092597961426,
+        "TSNE-2": 1.1838934421539307,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -14.673985481262207,
+        "TSNE-2": 22.938875198364258,
+        "cluster": 2,
+        "keywords": "nan, zone, expansion, exhaustion, exists"
+      },
+      {
+        "TSNE-1": 5.614459037780762,
+        "TSNE-2": -9.019359588623047,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 0.4399164319038391,
+        "TSNE-2": -3.5123257637023926,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -4.355459213256836,
+        "TSNE-2": -5.810945510864258,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": -10.79388427734375,
+        "TSNE-2": 0.39476796984672546,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": -8.782098770141602,
+        "TSNE-2": -7.2156243324279785,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": -12.475436210632324,
+        "TSNE-2": 2.5732362270355225,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 4.431742191314697,
+        "TSNE-2": 2.116774559020996,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 3.430075168609619,
+        "TSNE-2": -2.122652053833008,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -10.52303695678711,
+        "TSNE-2": -2.07318377494812,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 9.974703788757324,
+        "TSNE-2": 3.416930913925171,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -9.796502113342285,
+        "TSNE-2": 5.553101539611816,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 0.4399164319038391,
+        "TSNE-2": -3.5123257637023926,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": 8.099869728088379,
+        "TSNE-2": -2.586520195007324,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -2.2031750679016113,
+        "TSNE-2": 0.48842304944992065,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -2.4394474029541016,
+        "TSNE-2": -8.728279113769531,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": 2.0122287273406982,
+        "TSNE-2": -11.737295150756836,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": -4.162219524383545,
+        "TSNE-2": -8.442927360534668,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": 3.867819309234619,
+        "TSNE-2": -4.487219333648682,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -1.3238722085952759,
+        "TSNE-2": -7.19063663482666,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": 7.720705986022949,
+        "TSNE-2": -0.11309356987476349,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -0.791541337966919,
+        "TSNE-2": -11.142120361328125,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": 5.295081615447998,
+        "TSNE-2": -9.542011260986328,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -11.308335304260254,
+        "TSNE-2": -2.739405393600464,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": -14.01003360748291,
+        "TSNE-2": -5.487525463104248,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": -4.52243709564209,
+        "TSNE-2": -5.172915458679199,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": -3.8685035705566406,
+        "TSNE-2": 3.48738431930542,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 6.216853141784668,
+        "TSNE-2": 2.2332570552825928,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 10.967790603637695,
+        "TSNE-2": -2.1613519191741943,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 4.087772846221924,
+        "TSNE-2": 3.8940346240997314,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 0.47011226415634155,
+        "TSNE-2": 8.558477401733398,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 0.08610087633132935,
+        "TSNE-2": 5.218330383300781,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -3.5563812255859375,
+        "TSNE-2": 5.093683242797852,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 4.048789978027344,
+        "TSNE-2": 5.750776767730713,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 5.1015777587890625,
+        "TSNE-2": -2.878638744354248,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 4.74564266204834,
+        "TSNE-2": 9.16995906829834,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 1.146780252456665,
+        "TSNE-2": -1.097286343574524,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": 6.545167446136475,
+        "TSNE-2": 1.6508370637893677,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 7.470191478729248,
+        "TSNE-2": 4.371633052825928,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -2.3492043018341064,
+        "TSNE-2": 8.376362800598145,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 1.3570491075515747,
+        "TSNE-2": 13.686427116394043,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -4.470150947570801,
+        "TSNE-2": 1.9333550930023193,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 10.208148956298828,
+        "TSNE-2": 11.675806045532227,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -8.782098770141602,
+        "TSNE-2": -7.2156243324279785,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": -1.2996553182601929,
+        "TSNE-2": 7.934992790222168,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -2.2109105587005615,
+        "TSNE-2": 12.221546173095703,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -10.97925853729248,
+        "TSNE-2": -1.0427281856536865,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 5.563961029052734,
+        "TSNE-2": 0.867185115814209,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 1.3570491075515747,
+        "TSNE-2": 13.686427116394043,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 9.48783016204834,
+        "TSNE-2": -3.477025032043457,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -4.28569221496582,
+        "TSNE-2": -9.428178787231445,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": 9.238598823547363,
+        "TSNE-2": 2.12998366355896,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -7.405054092407227,
+        "TSNE-2": -0.44219452142715454,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 1.4334315061569214,
+        "TSNE-2": -5.70536994934082,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -2.6917471885681152,
+        "TSNE-2": -9.712413787841797,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": 1.9289720058441162,
+        "TSNE-2": 2.1075797080993652,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -3.336717128753662,
+        "TSNE-2": 11.32924747467041,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -4.339901447296143,
+        "TSNE-2": 11.396429061889648,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -5.071548938751221,
+        "TSNE-2": 4.747342109680176,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 0.9188123345375061,
+        "TSNE-2": 4.962619781494141,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -1.863659381866455,
+        "TSNE-2": -3.4397544860839844,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -2.9477529525756836,
+        "TSNE-2": 8.025038719177246,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 4.228961944580078,
+        "TSNE-2": -0.5025102496147156,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": 6.327779293060303,
+        "TSNE-2": 4.907526016235352,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -1.9525669813156128,
+        "TSNE-2": -12.49042797088623,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": 9.094375610351562,
+        "TSNE-2": -5.768899917602539,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -9.796502113342285,
+        "TSNE-2": 5.553101539611816,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": -0.9718735814094543,
+        "TSNE-2": 1.2999608516693115,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -7.023910999298096,
+        "TSNE-2": 4.298720836639404,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 2.186807870864868,
+        "TSNE-2": 5.776907444000244,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 3.5207865238189697,
+        "TSNE-2": 9.315913200378418,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": -7.636030673980713,
+        "TSNE-2": 3.4665472507476807,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": -0.9718735814094543,
+        "TSNE-2": 1.2999608516693115,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": 10.702093124389648,
+        "TSNE-2": 7.666368007659912,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 9.547882080078125,
+        "TSNE-2": 11.682905197143555,
+        "cluster": 0,
+        "keywords": "agriculture, pollution, agricultural, emission, water"
+      },
+      {
+        "TSNE-1": 5.700540065765381,
+        "TSNE-2": -5.060587406158447,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -12.475436210632324,
+        "TSNE-2": 2.5732362270355225,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 1.9289720058441162,
+        "TSNE-2": 2.1075797080993652,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": 2.5645289421081543,
+        "TSNE-2": -6.606982231140137,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": 5.1015777587890625,
+        "TSNE-2": -2.878638744354248,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -7.8639445304870605,
+        "TSNE-2": -0.37342825531959534,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": -13.46870231628418,
+        "TSNE-2": -5.978316783905029,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": -4.368567943572998,
+        "TSNE-2": 0.27052628993988037,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": 9.229755401611328,
+        "TSNE-2": -4.148611068725586,
+        "cluster": 4,
+        "keywords": "significant, greenhouse, often, gas, global"
+      },
+      {
+        "TSNE-1": -5.128519058227539,
+        "TSNE-2": -3.959768295288086,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      },
+      {
+        "TSNE-1": -0.69227135181427,
+        "TSNE-2": -2.1030755043029785,
+        "cluster": 1,
+        "keywords": "document, soil, use, farmer, practice"
+      },
+      {
+        "TSNE-1": -3.8685035705566406,
+        "TSNE-2": 3.48738431930542,
+        "cluster": 3,
+        "keywords": "problem, lack, big, shortage, environmental"
+      },
+      {
+        "TSNE-1": -0.5511305928230286,
+        "TSNE-2": -9.3472318649292,
+        "cluster": 5,
+        "keywords": "facility, poor, land, food, road"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_249",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-219896 - why is agriculture a big problem"
+  }
+}

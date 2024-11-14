@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-4c1a9ed6f1471342e55447a8fb48f9d4"
+  },
+  "datasets": {
+    "data-4c1a9ed6f1471342e55447a8fb48f9d4": [
+      {
+        "TSNE-1": -1.3662478923797607,
+        "TSNE-2": 3.9371581077575684,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 1.806167483329773,
+        "TSNE-2": -1.5209507942199707,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -10.026287078857422,
+        "TSNE-2": -0.12846142053604126,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": 2.6243128776550293,
+        "TSNE-2": -5.580025672912598,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -10.026287078857422,
+        "TSNE-2": -0.12846142053604126,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": 13.591999053955078,
+        "TSNE-2": 20.781599044799805,
+        "cluster": 5,
+        "keywords": "nan, exist, expectation, experienced, expert"
+      },
+      {
+        "TSNE-1": -9.171978950500488,
+        "TSNE-2": -0.6317804455757141,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": -1.9613964557647705,
+        "TSNE-2": 2.323415994644165,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 6.395596981048584,
+        "TSNE-2": -8.042373657226562,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": 0.28324294090270996,
+        "TSNE-2": -9.0771484375,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -8.436516761779785,
+        "TSNE-2": 2.8109476566314697,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": 7.404691696166992,
+        "TSNE-2": -1.596548080444336,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -0.3780190348625183,
+        "TSNE-2": 1.212319016456604,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -2.4178507328033447,
+        "TSNE-2": 0.685560941696167,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 6.990475654602051,
+        "TSNE-2": 6.811627388000488,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -0.8769614100456238,
+        "TSNE-2": 5.761417388916016,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -6.4429779052734375,
+        "TSNE-2": -8.407331466674805,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -1.9613964557647705,
+        "TSNE-2": 2.323415994644165,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -0.5294071435928345,
+        "TSNE-2": 4.738072872161865,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 1.5739424228668213,
+        "TSNE-2": 10.21036148071289,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 3.8450586795806885,
+        "TSNE-2": -4.667550563812256,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": 0.828326940536499,
+        "TSNE-2": 4.797547340393066,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 5.332935810089111,
+        "TSNE-2": -2.324721336364746,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -3.018437147140503,
+        "TSNE-2": 7.397251129150391,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -4.917837142944336,
+        "TSNE-2": 7.2091755867004395,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 1.6183555126190186,
+        "TSNE-2": 0.8615924119949341,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 4.294836044311523,
+        "TSNE-2": 6.38502311706543,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -8.73514175415039,
+        "TSNE-2": -1.6723151206970215,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": 0.6434774398803711,
+        "TSNE-2": -8.716894149780273,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": 1.4471595287322998,
+        "TSNE-2": -10.122093200683594,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -1.1360114812850952,
+        "TSNE-2": -1.5755404233932495,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": 4.648463249206543,
+        "TSNE-2": -7.465898036956787,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -0.6964721083641052,
+        "TSNE-2": 0.36755332350730896,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -3.2267982959747314,
+        "TSNE-2": 4.332926273345947,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -2.816103935241699,
+        "TSNE-2": -6.0557708740234375,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -6.695985794067383,
+        "TSNE-2": -3.613306999206543,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -5.1448845863342285,
+        "TSNE-2": 3.397003412246704,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 1.901301622390747,
+        "TSNE-2": 2.6468207836151123,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -0.540214478969574,
+        "TSNE-2": 2.247439384460449,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -2.003542900085449,
+        "TSNE-2": -4.767202854156494,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": 2.7785587310791016,
+        "TSNE-2": -1.5421288013458252,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -3.661684513092041,
+        "TSNE-2": -0.3696707487106323,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": 0.25458264350891113,
+        "TSNE-2": 0.9361613988876343,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 1.9812777042388916,
+        "TSNE-2": -0.00031989067792892456,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -6.6254448890686035,
+        "TSNE-2": -4.997559070587158,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": 9.225966453552246,
+        "TSNE-2": -1.4013980627059937,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 4.9061431884765625,
+        "TSNE-2": -6.3438920974731445,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": 0.2183266282081604,
+        "TSNE-2": 11.40726375579834,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -8.436516761779785,
+        "TSNE-2": 2.8109476566314697,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": -6.670772075653076,
+        "TSNE-2": -5.286869049072266,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -9.272378921508789,
+        "TSNE-2": -2.9588844776153564,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": 7.612289905548096,
+        "TSNE-2": 3.752102851867676,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 0.03636833280324936,
+        "TSNE-2": -0.1428941786289215,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 8.896751403808594,
+        "TSNE-2": -1.3726797103881836,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 2.424797296524048,
+        "TSNE-2": 5.27915620803833,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 4.3995466232299805,
+        "TSNE-2": -3.5279810428619385,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": 0.002709701657295227,
+        "TSNE-2": 6.538837432861328,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 7.235665798187256,
+        "TSNE-2": 6.783100128173828,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -3.108027219772339,
+        "TSNE-2": 1.8783648014068604,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 3.1700119972229004,
+        "TSNE-2": -4.726049900054932,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": 6.9451727867126465,
+        "TSNE-2": -4.173807144165039,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -4.990706920623779,
+        "TSNE-2": -2.870107889175415,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -6.962246417999268,
+        "TSNE-2": 4.942541599273682,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": 3.555629014968872,
+        "TSNE-2": -8.445245742797852,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -6.23297643661499,
+        "TSNE-2": 1.7817461490631104,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": -4.982712745666504,
+        "TSNE-2": 4.78717041015625,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -4.98812198638916,
+        "TSNE-2": 1.4879192113876343,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": 0.4449206292629242,
+        "TSNE-2": 2.658339023590088,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 1.1343233585357666,
+        "TSNE-2": -0.4083373546600342,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 5.1421122550964355,
+        "TSNE-2": 8.780119895935059,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -3.5150084495544434,
+        "TSNE-2": -0.7502169013023376,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -6.456212043762207,
+        "TSNE-2": -8.382220268249512,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -3.731741189956665,
+        "TSNE-2": -3.2459561824798584,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -5.753495216369629,
+        "TSNE-2": -0.8727516531944275,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": -4.607176780700684,
+        "TSNE-2": 2.664825201034546,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 3.367103338241577,
+        "TSNE-2": 0.36457327008247375,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -6.183969497680664,
+        "TSNE-2": -0.8235243558883667,
+        "cluster": 2,
+        "keywords": "increase, among, african, young, greater"
+      },
+      {
+        "TSNE-1": -3.731741189956665,
+        "TSNE-2": -3.2459561824798584,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": 7.204514503479004,
+        "TSNE-2": 1.8757083415985107,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 8.312212944030762,
+        "TSNE-2": 5.526258945465088,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": -3.971165895462036,
+        "TSNE-2": 6.093911647796631,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 0.164774551987648,
+        "TSNE-2": -3.46142578125,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": 6.9451727867126465,
+        "TSNE-2": -4.173807144165039,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": 0.5875116586685181,
+        "TSNE-2": -2.8002612590789795,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -2.003542900085449,
+        "TSNE-2": -4.767202854156494,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": 7.544714450836182,
+        "TSNE-2": 7.499868392944336,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 3.438990831375122,
+        "TSNE-2": 3.0228512287139893,
+        "cluster": 1,
+        "keywords": "party, mention, central, redefine, american"
+      },
+      {
+        "TSNE-1": 0.17789600789546967,
+        "TSNE-2": -7.207688331604004,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -2.0433356761932373,
+        "TSNE-2": 5.323477268218994,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": -2.2473161220550537,
+        "TSNE-2": -2.2307965755462646,
+        "cluster": 0,
+        "keywords": "voter, election, turnout, voting, presidential"
+      },
+      {
+        "TSNE-1": -2.1723103523254395,
+        "TSNE-2": 8.350939750671387,
+        "cluster": 3,
+        "keywords": "significant, percent, particularly, early, participation"
+      },
+      {
+        "TSNE-1": 4.648463249206543,
+        "TSNE-2": -7.465898036956787,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      },
+      {
+        "TSNE-1": -0.39338189363479614,
+        "TSNE-2": -8.858880996704102,
+        "cluster": 4,
+        "keywords": "information, issue, text, provide, process"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_294",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-147917 - what might this suggest about the voting process 2008 election"
+  }
+}

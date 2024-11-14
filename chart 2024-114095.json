@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-1d3d19e2aa27f3fe801e90e89988902b"
+  },
+  "datasets": {
+    "data-1d3d19e2aa27f3fe801e90e89988902b": [
+      {
+        "TSNE-1": -2.3650894165039062,
+        "TSNE-2": -7.299206256866455,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": 6.042348384857178,
+        "TSNE-2": 1.9047448635101318,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": 5.700359344482422,
+        "TSNE-2": 9.646268844604492,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": -1.5262964963912964,
+        "TSNE-2": -1.0858830213546753,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 5.700359344482422,
+        "TSNE-2": 9.646268844604492,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": -2.340968370437622,
+        "TSNE-2": -2.460434675216675,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 3.5012826919555664,
+        "TSNE-2": -5.195315837860107,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": 1.1478022336959839,
+        "TSNE-2": -8.301434516906738,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": 11.91932487487793,
+        "TSNE-2": -0.5563147664070129,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": -11.151552200317383,
+        "TSNE-2": 11.534178733825684,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": 2.1665234565734863,
+        "TSNE-2": 2.221837282180786,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -5.639642238616943,
+        "TSNE-2": 9.013968467712402,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": 4.439840793609619,
+        "TSNE-2": -0.051957905292510986,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -4.529174327850342,
+        "TSNE-2": 0.1915179193019867,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 6.766778469085693,
+        "TSNE-2": 13.374096870422363,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": 0.7787184119224548,
+        "TSNE-2": -0.011552073061466217,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 3.1853725910186768,
+        "TSNE-2": 5.193892478942871,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": 1.1478022336959839,
+        "TSNE-2": -8.301434516906738,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": 1.3292560577392578,
+        "TSNE-2": 8.180981636047363,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": -5.379043102264404,
+        "TSNE-2": -7.747921466827393,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -6.459416389465332,
+        "TSNE-2": -3.8916537761688232,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": 7.795239448547363,
+        "TSNE-2": -9.179289817810059,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -4.611994743347168,
+        "TSNE-2": -5.326165199279785,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -8.160918235778809,
+        "TSNE-2": 0.39898213744163513,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": 9.955307960510254,
+        "TSNE-2": 1.8080196380615234,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": -0.23912166059017181,
+        "TSNE-2": -3.198559522628784,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -3.4882795810699463,
+        "TSNE-2": -3.3453750610351562,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 4.408903121948242,
+        "TSNE-2": -6.042723655700684,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -10.111855506896973,
+        "TSNE-2": 11.850117683410645,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": 7.582806587219238,
+        "TSNE-2": -2.5965969562530518,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": 11.129473686218262,
+        "TSNE-2": -0.25918298959732056,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": -8.166749000549316,
+        "TSNE-2": -8.582573890686035,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": 4.846301078796387,
+        "TSNE-2": -1.0216379165649414,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -1.5754079818725586,
+        "TSNE-2": 5.609180450439453,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -1.8632172346115112,
+        "TSNE-2": 2.2653050422668457,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -14.81984806060791,
+        "TSNE-2": 0.30931416153907776,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -11.251852989196777,
+        "TSNE-2": 5.933042526245117,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": 7.236961841583252,
+        "TSNE-2": -5.048372745513916,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -3.322916030883789,
+        "TSNE-2": 3.512660026550293,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 1.4091495275497437,
+        "TSNE-2": -4.371743679046631,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": 6.254857540130615,
+        "TSNE-2": 3.7360754013061523,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": 7.2847795486450195,
+        "TSNE-2": -14.737689018249512,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": 4.354465484619141,
+        "TSNE-2": -2.9221506118774414,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -1.160742163658142,
+        "TSNE-2": -5.3536505699157715,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -13.85916805267334,
+        "TSNE-2": -1.4190706014633179,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -4.171380519866943,
+        "TSNE-2": 10.969091415405273,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": -8.398151397705078,
+        "TSNE-2": 4.640047550201416,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": 13.295914649963379,
+        "TSNE-2": -6.336928367614746,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": 2.1665234565734863,
+        "TSNE-2": 2.221837282180786,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -15.247692108154297,
+        "TSNE-2": -0.6044715642929077,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": 11.041037559509277,
+        "TSNE-2": 5.005576133728027,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": 11.741111755371094,
+        "TSNE-2": -5.646838665008545,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": 2.5972466468811035,
+        "TSNE-2": -1.752893090248108,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -4.109831809997559,
+        "TSNE-2": 13.934507369995117,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": -0.6472604870796204,
+        "TSNE-2": 4.619589805603027,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -2.6431589126586914,
+        "TSNE-2": -0.3625183701515198,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 0.11284978687763214,
+        "TSNE-2": 0.6528612971305847,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": -2.4389491081237793,
+        "TSNE-2": -13.116140365600586,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -6.220353126525879,
+        "TSNE-2": -0.8064577579498291,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -4.400108814239502,
+        "TSNE-2": -1.9948898553848267,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 4.803423881530762,
+        "TSNE-2": -12.346054077148438,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": 12.104532241821289,
+        "TSNE-2": 6.064540863037109,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": 13.286778450012207,
+        "TSNE-2": 5.186586380004883,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": -8.166749000549316,
+        "TSNE-2": -8.582573890686035,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": 8.279473304748535,
+        "TSNE-2": -8.258330345153809,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -6.035954475402832,
+        "TSNE-2": 3.464132070541382,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": -8.129191398620605,
+        "TSNE-2": 7.222343444824219,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": -4.763514041900635,
+        "TSNE-2": 3.581596612930298,
+        "cluster": 0,
+        "keywords": "social, mental, medium, health, guideline"
+      },
+      {
+        "TSNE-1": 2.8112833499908447,
+        "TSNE-2": -12.283767700195312,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": 11.754358291625977,
+        "TSNE-2": -6.763932704925537,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": 13.383394241333008,
+        "TSNE-2": 3.7427823543548584,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": 3.1853725910186768,
+        "TSNE-2": 5.193892478942871,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": 6.750117778778076,
+        "TSNE-2": 7.395580768585205,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": -6.577041149139404,
+        "TSNE-2": 1.9076969623565674,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -10.019989967346191,
+        "TSNE-2": 6.163928985595703,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": -9.554194450378418,
+        "TSNE-2": 2.6071090698242188,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -6.060840606689453,
+        "TSNE-2": 5.555379867553711,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": 6.750117778778076,
+        "TSNE-2": 7.395580768585205,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": 11.689757347106934,
+        "TSNE-2": 7.433661937713623,
+        "cluster": 2,
+        "keywords": "report, recommends, call, taught, education"
+      },
+      {
+        "TSNE-1": -0.005315303802490234,
+        "TSNE-2": -14.317949295043945,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -8.299391746520996,
+        "TSNE-2": -1.6883705854415894,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -4.121119022369385,
+        "TSNE-2": 12.945791244506836,
+        "cluster": 4,
+        "keywords": "positive, direct, operate, behavior, around"
+      },
+      {
+        "TSNE-1": 4.803423881530762,
+        "TSNE-2": -12.346054077148438,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -9.038127899169922,
+        "TSNE-2": -5.224400043487549,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": 1.4091495275497437,
+        "TSNE-2": -4.371743679046631,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -2.4389491081237793,
+        "TSNE-2": -13.116140365600586,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -0.45209598541259766,
+        "TSNE-2": 10.856677055358887,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": 3.114858865737915,
+        "TSNE-2": 14.233440399169922,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": 0.4650157690048218,
+        "TSNE-2": 7.573497772216797,
+        "cluster": 5,
+        "keywords": "adolescent, teen, three, disorder, hour"
+      },
+      {
+        "TSNE-1": 3.5621132850646973,
+        "TSNE-2": -8.851791381835938,
+        "cluster": 1,
+        "keywords": "policy, use, mention, military, professional"
+      },
+      {
+        "TSNE-1": -16.324113845825195,
+        "TSNE-2": -1.8555830717086792,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -8.166749000549316,
+        "TSNE-2": -8.582573890686035,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      },
+      {
+        "TSNE-1": -5.301042556762695,
+        "TSNE-2": -3.9932925701141357,
+        "cluster": 3,
+        "keywords": "content, negative, promote, address, information"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_60",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-114095 - is there a policy in the us for social media relation to mental"
+  }
+}

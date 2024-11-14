@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-9344a6f407b443db3ec6ce6da4bbfb34"
+  },
+  "datasets": {
+    "data-9344a6f407b443db3ec6ce6da4bbfb34": [
+      {
+        "TSNE-1": 3.5845754146575928,
+        "TSNE-2": 4.155174255371094,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": 6.043423175811768,
+        "TSNE-2": 6.656779766082764,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": 8.282435417175293,
+        "TSNE-2": -8.0712890625,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": -8.486438751220703,
+        "TSNE-2": -9.386316299438477,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": 8.282435417175293,
+        "TSNE-2": -8.0712890625,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": 2.0153262615203857,
+        "TSNE-2": 1.191278338432312,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -1.5452136993408203,
+        "TSNE-2": -2.8318819999694824,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -1.3787764310836792,
+        "TSNE-2": 6.127775192260742,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 2.43640398979187,
+        "TSNE-2": -1.9424411058425903,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -6.770721435546875,
+        "TSNE-2": -11.120097160339355,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": 1.7504713535308838,
+        "TSNE-2": -8.728086471557617,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": -7.022613525390625,
+        "TSNE-2": 5.332917213439941,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": 2.116090774536133,
+        "TSNE-2": 3.1211118698120117,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": -7.273606777191162,
+        "TSNE-2": 1.0683001279830933,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": -5.757175922393799,
+        "TSNE-2": -7.396874904632568,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": 2.2026569843292236,
+        "TSNE-2": -5.38718843460083,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": 10.370020866394043,
+        "TSNE-2": 1.5320494174957275,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": -1.3787764310836792,
+        "TSNE-2": 6.127775192260742,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 5.158467769622803,
+        "TSNE-2": -5.54307746887207,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": 6.916252613067627,
+        "TSNE-2": -0.952735185623169,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": -10.300017356872559,
+        "TSNE-2": -9.67679500579834,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -0.08787296712398529,
+        "TSNE-2": -1.7472622394561768,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": 7.4958014488220215,
+        "TSNE-2": -4.277822494506836,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": -5.425884246826172,
+        "TSNE-2": 8.632840156555176,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 2.5237929821014404,
+        "TSNE-2": -3.5252225399017334,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": 0.3550902009010315,
+        "TSNE-2": 5.18184757232666,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": -6.978834629058838,
+        "TSNE-2": -6.833645343780518,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -1.8600594997406006,
+        "TSNE-2": -2.023846387863159,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -4.314619064331055,
+        "TSNE-2": -8.552961349487305,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -8.266003608703613,
+        "TSNE-2": 3.7898194789886475,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": -2.620579719543457,
+        "TSNE-2": 7.794914245605469,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": -1.0846798419952393,
+        "TSNE-2": 9.472670555114746,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 0.6354751586914062,
+        "TSNE-2": 2.7849225997924805,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": 3.102787733078003,
+        "TSNE-2": -5.0422563552856445,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": -11.728568077087402,
+        "TSNE-2": -0.4860454201698303,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": -2.095867395401001,
+        "TSNE-2": 3.408690929412842,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": 3.782283067703247,
+        "TSNE-2": 9.229632377624512,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": -7.781101703643799,
+        "TSNE-2": -2.5740740299224854,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": -3.3108437061309814,
+        "TSNE-2": 5.422705173492432,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 3.9785423278808594,
+        "TSNE-2": 2.3283352851867676,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": 4.864851474761963,
+        "TSNE-2": 0.6273203492164612,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": -1.8042047023773193,
+        "TSNE-2": 0.9881877899169922,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": 0.37589314579963684,
+        "TSNE-2": 2.91142201423645,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": 1.471578598022461,
+        "TSNE-2": 4.1810102462768555,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 2.9188103675842285,
+        "TSNE-2": 6.280938625335693,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 9.362312316894531,
+        "TSNE-2": 5.283443450927734,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": 2.979968786239624,
+        "TSNE-2": -1.8303160667419434,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -5.048654079437256,
+        "TSNE-2": -11.314510345458984,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": 1.7504713535308838,
+        "TSNE-2": -8.728086471557617,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": 2.417052745819092,
+        "TSNE-2": 5.3008904457092285,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": -3.1183948516845703,
+        "TSNE-2": 1.8040187358856201,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -3.36386775970459,
+        "TSNE-2": -10.623664855957031,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -0.5576545000076294,
+        "TSNE-2": 3.732210159301758,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": -7.580636024475098,
+        "TSNE-2": 6.8680195808410645,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": 2.0721638202667236,
+        "TSNE-2": -6.401816368103027,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": 1.4008722305297852,
+        "TSNE-2": -0.9578914046287537,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -5.691962718963623,
+        "TSNE-2": -4.2454986572265625,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -5.827457427978516,
+        "TSNE-2": -9.208222389221191,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": 0.4036203920841217,
+        "TSNE-2": 1.3721824884414673,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -9.758983612060547,
+        "TSNE-2": -9.575474739074707,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -5.404414176940918,
+        "TSNE-2": -0.8021695017814636,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": -2.5939855575561523,
+        "TSNE-2": -0.32950925827026367,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -1.6128519773483276,
+        "TSNE-2": -0.44810017943382263,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": 7.663841724395752,
+        "TSNE-2": -0.8518752455711365,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": 3.861506938934326,
+        "TSNE-2": 7.16810941696167,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 0.5716043710708618,
+        "TSNE-2": 6.775729656219482,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 4.268407344818115,
+        "TSNE-2": 7.714308738708496,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 5.494318962097168,
+        "TSNE-2": 4.190676689147949,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": -1.4690546989440918,
+        "TSNE-2": 1.1333314180374146,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -8.385233879089355,
+        "TSNE-2": -5.999689102172852,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -2.871807098388672,
+        "TSNE-2": -1.5915603637695312,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": 10.365472793579102,
+        "TSNE-2": 1.3874317407608032,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": 4.6853766441345215,
+        "TSNE-2": -11.866561889648438,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": 6.595324993133545,
+        "TSNE-2": 4.322758197784424,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": 2.121077537536621,
+        "TSNE-2": 8.497883796691895,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": -4.514007091522217,
+        "TSNE-2": -2.4133756160736084,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": -7.494360446929932,
+        "TSNE-2": -3.0431361198425293,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": 4.6853766441345215,
+        "TSNE-2": -11.866561889648438,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": -4.692582607269287,
+        "TSNE-2": 1.1579254865646362,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": -2.8386406898498535,
+        "TSNE-2": -10.384696006774902,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": 6.023903846740723,
+        "TSNE-2": 2.266725778579712,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": -7.022613525390625,
+        "TSNE-2": 5.332917213439941,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": -5.151611328125,
+        "TSNE-2": -0.9991750121116638,
+        "cluster": 0,
+        "keywords": "sarcasm, use, healthy, may, document"
+      },
+      {
+        "TSNE-1": -1.1209943294525146,
+        "TSNE-2": 4.734843730926514,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": 3.9785423278808594,
+        "TSNE-2": 2.3283352851867676,
+        "cluster": 3,
+        "keywords": "mental, cognitive, social, ability, better"
+      },
+      {
+        "TSNE-1": -4.569022178649902,
+        "TSNE-2": -9.065195083618164,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -1.3882728815078735,
+        "TSNE-2": -11.102252006530762,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": -8.313777923583984,
+        "TSNE-2": -13.280051231384277,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      },
+      {
+        "TSNE-1": 4.842866897583008,
+        "TSNE-2": -5.983053684234619,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": -2.682253122329712,
+        "TSNE-2": -4.138546466827393,
+        "cluster": 1,
+        "keywords": "brain, sign, detect, good, like"
+      },
+      {
+        "TSNE-1": 3.6470694541931152,
+        "TSNE-2": -8.297894477844238,
+        "cluster": 2,
+        "keywords": "defense, aggression, insecurity, also, emotional"
+      },
+      {
+        "TSNE-1": -1.0846798419952393,
+        "TSNE-2": 9.472670555114746,
+        "cluster": 4,
+        "keywords": "understand, individual, complex, process, skill"
+      },
+      {
+        "TSNE-1": -8.08751392364502,
+        "TSNE-2": -6.260285377502441,
+        "cluster": 5,
+        "keywords": "way, author, act, deliberately, try"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_87",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-22900 - do individuals who use sarcasm instinctively to tackle frivolous question have healthy minds?"
+  }
+}

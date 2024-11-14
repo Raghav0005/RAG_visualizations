@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-0baa692a3ed3034d30731b657a809870"
+  },
+  "datasets": {
+    "data-0baa692a3ed3034d30731b657a809870": [
+      {
+        "TSNE-1": -1.8814606666564941,
+        "TSNE-2": -3.1557774543762207,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 3.3279361724853516,
+        "TSNE-2": -3.2067177295684814,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": -8.217439651489258,
+        "TSNE-2": -7.555057525634766,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": -4.438292980194092,
+        "TSNE-2": 4.878032684326172,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -8.217439651489258,
+        "TSNE-2": -7.555057525634766,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": -5.487232208251953,
+        "TSNE-2": -12.136130332946777,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": -9.641996383666992,
+        "TSNE-2": -8.504230499267578,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": -1.759268045425415,
+        "TSNE-2": -9.100129127502441,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 6.876829147338867,
+        "TSNE-2": 3.8998098373413086,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 11.99777603149414,
+        "TSNE-2": 5.126069068908691,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -4.180073261260986,
+        "TSNE-2": -0.485015332698822,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": 1.7725834846496582,
+        "TSNE-2": 12.218257904052734,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": 0.6272422075271606,
+        "TSNE-2": -10.715956687927246,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": -1.7106084823608398,
+        "TSNE-2": -5.471794605255127,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 4.561187267303467,
+        "TSNE-2": -6.842842102050781,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": -8.175100326538086,
+        "TSNE-2": -3.449152946472168,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": -3.390800714492798,
+        "TSNE-2": -5.7762908935546875,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": -1.759268045425415,
+        "TSNE-2": -9.100129127502441,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": -8.351300239562988,
+        "TSNE-2": -5.091301918029785,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": 8.367125511169434,
+        "TSNE-2": -0.7855221033096313,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -7.525978088378906,
+        "TSNE-2": 7.624579906463623,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -6.334055423736572,
+        "TSNE-2": -3.106135845184326,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": -8.862371444702148,
+        "TSNE-2": 5.82169246673584,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -1.7511159181594849,
+        "TSNE-2": -1.471685767173767,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 5.841341018676758,
+        "TSNE-2": 0.5768812298774719,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 5.519874572753906,
+        "TSNE-2": -1.2487846612930298,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -4.514482021331787,
+        "TSNE-2": 5.134396076202393,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -6.9307427406311035,
+        "TSNE-2": -8.817648887634277,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": 6.340193271636963,
+        "TSNE-2": -8.5029935836792,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": -6.216229438781738,
+        "TSNE-2": -12.34296703338623,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": 3.9787373542785645,
+        "TSNE-2": 3.7123377323150635,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 1.1836081743240356,
+        "TSNE-2": 7.168996334075928,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": -9.637428283691406,
+        "TSNE-2": 2.3132266998291016,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -6.772428035736084,
+        "TSNE-2": -0.23597794771194458,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": 5.498075485229492,
+        "TSNE-2": 1.8258671760559082,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 8.879743576049805,
+        "TSNE-2": -4.415798664093018,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": 7.095424175262451,
+        "TSNE-2": 1.2816166877746582,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -1.560928463935852,
+        "TSNE-2": 1.5227608680725098,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -0.725375771522522,
+        "TSNE-2": -2.2851996421813965,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 0.9340616464614868,
+        "TSNE-2": -4.224971294403076,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 4.262427806854248,
+        "TSNE-2": -2.279668092727661,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": 2.922503709793091,
+        "TSNE-2": 2.082888603210449,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 0.6127051711082458,
+        "TSNE-2": -9.301033020019531,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": -9.484445571899414,
+        "TSNE-2": 4.496671676635742,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": 9.535309791564941,
+        "TSNE-2": -4.5160813331604,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": 1.300505518913269,
+        "TSNE-2": 11.45016098022461,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": 8.71568775177002,
+        "TSNE-2": 1.1574136018753052,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 10.446391105651855,
+        "TSNE-2": 5.678405284881592,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -4.180073261260986,
+        "TSNE-2": -0.485015332698822,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": 7.452747821807861,
+        "TSNE-2": -4.191743850708008,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": 1.7970662117004395,
+        "TSNE-2": 1.2189247608184814,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 12.556782722473145,
+        "TSNE-2": 3.842616081237793,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 1.1582845449447632,
+        "TSNE-2": -9.37205696105957,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 2.929927110671997,
+        "TSNE-2": 12.689384460449219,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": -6.163854598999023,
+        "TSNE-2": -1.0258071422576904,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -7.507419109344482,
+        "TSNE-2": 6.326839923858643,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -9.98121166229248,
+        "TSNE-2": -4.120570182800293,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": 5.520893573760986,
+        "TSNE-2": -7.7933573722839355,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": -0.5333185195922852,
+        "TSNE-2": 1.9548333883285522,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -8.049190521240234,
+        "TSNE-2": 7.642952919006348,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -2.322387218475342,
+        "TSNE-2": 8.242927551269531,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": 1.077186942100525,
+        "TSNE-2": 0.9219253659248352,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 2.3385114669799805,
+        "TSNE-2": -1.095894455909729,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 1.1836081743240356,
+        "TSNE-2": 7.168996334075928,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": -3.1468770503997803,
+        "TSNE-2": -3.8561370372772217,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 6.880833625793457,
+        "TSNE-2": -1.7302769422531128,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": -4.801754474639893,
+        "TSNE-2": 1.451344609260559,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": 5.933618068695068,
+        "TSNE-2": 6.554760932922363,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -11.946981430053711,
+        "TSNE-2": -4.254555702209473,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": 0.2877124845981598,
+        "TSNE-2": 12.70855712890625,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": 3.5023646354675293,
+        "TSNE-2": 1.7635728120803833,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -3.390800714492798,
+        "TSNE-2": -5.7762908935546875,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": -9.627896308898926,
+        "TSNE-2": -2.1994457244873047,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": -10.030705451965332,
+        "TSNE-2": -6.4662981033325195,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": -5.322649955749512,
+        "TSNE-2": -4.875868797302246,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": 4.318977355957031,
+        "TSNE-2": 4.860838890075684,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -10.389643669128418,
+        "TSNE-2": -0.5391190648078918,
+        "cluster": 1,
+        "keywords": "employee, question, morning, possible, answer"
+      },
+      {
+        "TSNE-1": -9.627896308898926,
+        "TSNE-2": -2.1994457244873047,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": 2.270986318588257,
+        "TSNE-2": -0.24449118971824646,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 12.131136894226074,
+        "TSNE-2": 5.418783187866211,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -3.687845468521118,
+        "TSNE-2": -1.9554173946380615,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 2.3989884853363037,
+        "TSNE-2": 11.268773078918457,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": -2.5424351692199707,
+        "TSNE-2": 8.017183303833008,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": 0.9942425489425659,
+        "TSNE-2": 3.696293830871582,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 0.9340616464614868,
+        "TSNE-2": -4.224971294403076,
+        "cluster": 5,
+        "keywords": "provide, document, information, communication, impact"
+      },
+      {
+        "TSNE-1": 4.937809944152832,
+        "TSNE-2": -9.559964179992676,
+        "cluster": 3,
+        "keywords": "specific, mention, initiative, phrase, various"
+      },
+      {
+        "TSNE-1": 0.9266137480735779,
+        "TSNE-2": 4.514302730560303,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": 10.461759567260742,
+        "TSNE-2": 3.8564341068267822,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": -7.699268817901611,
+        "TSNE-2": -4.514545917510986,
+        "cluster": 4,
+        "keywords": "diversity, company, culture, inclusion, video"
+      },
+      {
+        "TSNE-1": 6.645742416381836,
+        "TSNE-2": 3.1021416187286377,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 4.367147445678711,
+        "TSNE-2": -0.7400210499763489,
+        "cluster": 0,
+        "keywords": "campaign, accenture, change, new, text"
+      },
+      {
+        "TSNE-1": 1.1836081743240356,
+        "TSNE-2": 7.168996334075928,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      },
+      {
+        "TSNE-1": 4.369280815124512,
+        "TSNE-2": 9.58296012878418,
+        "cluster": 2,
+        "keywords": "microsoft, risk, service, management, move"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_33",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-43972 - how has good morning accenture impacted the company?"
+  }
+}

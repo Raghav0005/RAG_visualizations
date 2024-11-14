@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-73e51fd852951ac5b8d744f0664d3807"
+  },
+  "datasets": {
+    "data-73e51fd852951ac5b8d744f0664d3807": [
+      {
+        "TSNE-1": 8.101266860961914,
+        "TSNE-2": -4.358778953552246,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 10.517633438110352,
+        "TSNE-2": -1.363474726676941,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 1.6950898170471191,
+        "TSNE-2": 9.2232084274292,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -7.811814785003662,
+        "TSNE-2": -5.319956302642822,
+        "cluster": 5,
+        "keywords": "exploration, reader, addition, relevance, political"
+      },
+      {
+        "TSNE-1": 1.6950898170471191,
+        "TSNE-2": 9.2232084274292,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -9.969006538391113,
+        "TSNE-2": 2.183192729949951,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": -2.8863120079040527,
+        "TSNE-2": -9.90662670135498,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 5.6286187171936035,
+        "TSNE-2": -2.5195016860961914,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 6.223395824432373,
+        "TSNE-2": 10.056045532226562,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -12.850135803222656,
+        "TSNE-2": -0.6540831327438354,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": -7.412847518920898,
+        "TSNE-2": -10.169448852539062,
+        "cluster": 5,
+        "keywords": "exploration, reader, addition, relevance, political"
+      },
+      {
+        "TSNE-1": -5.871933937072754,
+        "TSNE-2": 7.793541431427002,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 6.983662128448486,
+        "TSNE-2": -1.2505853176116943,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 11.41175365447998,
+        "TSNE-2": 4.870236396789551,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 1.4537923336029053,
+        "TSNE-2": -12.723809242248535,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 4.455720901489258,
+        "TSNE-2": 2.236924171447754,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -13.70071792602539,
+        "TSNE-2": -5.876805782318115,
+        "cluster": 5,
+        "keywords": "exploration, reader, addition, relevance, political"
+      },
+      {
+        "TSNE-1": 5.6286187171936035,
+        "TSNE-2": -2.5195016860961914,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 8.881303787231445,
+        "TSNE-2": 2.574215888977051,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -0.1497458964586258,
+        "TSNE-2": -4.814083099365234,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -9.32406234741211,
+        "TSNE-2": -2.0500330924987793,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": 7.703684329986572,
+        "TSNE-2": -6.246521472930908,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -10.365509986877441,
+        "TSNE-2": -1.3368040323257446,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": 12.762134552001953,
+        "TSNE-2": 1.1666208505630493,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 8.590771675109863,
+        "TSNE-2": -2.8463728427886963,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 6.732970237731934,
+        "TSNE-2": 0.6391378045082092,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -7.026896953582764,
+        "TSNE-2": -5.6752800941467285,
+        "cluster": 5,
+        "keywords": "exploration, reader, addition, relevance, political"
+      },
+      {
+        "TSNE-1": -3.9732515811920166,
+        "TSNE-2": 2.400317430496216,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": 0.8876283764839172,
+        "TSNE-2": -12.047365188598633,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -9.966065406799316,
+        "TSNE-2": 6.171952724456787,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": 5.977685928344727,
+        "TSNE-2": 8.825668334960938,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -3.8300232887268066,
+        "TSNE-2": 11.50292682647705,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 4.9596781730651855,
+        "TSNE-2": -0.025242742151021957,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 8.724090576171875,
+        "TSNE-2": -0.0671539455652237,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 1.1823043823242188,
+        "TSNE-2": -7.855990886688232,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -2.1813650131225586,
+        "TSNE-2": 0.826802670955658,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": 0.101567342877388,
+        "TSNE-2": -0.24282290041446686,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 0.24362820386886597,
+        "TSNE-2": 5.067145347595215,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 7.358321189880371,
+        "TSNE-2": 4.7132649421691895,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 2.7305350303649902,
+        "TSNE-2": 3.6879618167877197,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 8.331884384155273,
+        "TSNE-2": 6.993624210357666,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 9.843831062316895,
+        "TSNE-2": -6.543237209320068,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 3.8822872638702393,
+        "TSNE-2": -1.8351337909698486,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 10.797235488891602,
+        "TSNE-2": 4.328640460968018,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -0.14283964037895203,
+        "TSNE-2": 1.4066096544265747,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -2.9539546966552734,
+        "TSNE-2": 6.786169528961182,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 0.4128596782684326,
+        "TSNE-2": -3.897538900375366,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -10.482522964477539,
+        "TSNE-2": -4.250302314758301,
+        "cluster": 5,
+        "keywords": "exploration, reader, addition, relevance, political"
+      },
+      {
+        "TSNE-1": -7.412847518920898,
+        "TSNE-2": -10.169448852539062,
+        "cluster": 5,
+        "keywords": "exploration, reader, addition, relevance, political"
+      },
+      {
+        "TSNE-1": -0.9657033681869507,
+        "TSNE-2": 1.2503857612609863,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -2.476430892944336,
+        "TSNE-2": -8.556988716125488,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -2.876218318939209,
+        "TSNE-2": -5.719496250152588,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 4.06298303604126,
+        "TSNE-2": -0.21602003276348114,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -1.9041379690170288,
+        "TSNE-2": -2.1297640800476074,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 6.122436046600342,
+        "TSNE-2": 1.9123622179031372,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -3.1165051460266113,
+        "TSNE-2": -3.0683176517486572,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 5.01200532913208,
+        "TSNE-2": 4.147195339202881,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -5.325681686401367,
+        "TSNE-2": -2.4388749599456787,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": 2.142854690551758,
+        "TSNE-2": -2.7310256958007812,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -7.011459827423096,
+        "TSNE-2": -1.9147852659225464,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": -0.9242507219314575,
+        "TSNE-2": 7.533761978149414,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 5.744395732879639,
+        "TSNE-2": -7.739439487457275,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -2.2691261768341064,
+        "TSNE-2": 3.103367805480957,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -3.8300232887268066,
+        "TSNE-2": 11.50292682647705,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 2.577533721923828,
+        "TSNE-2": 1.1956913471221924,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 6.587469577789307,
+        "TSNE-2": -3.8625919818878174,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 1.3605786561965942,
+        "TSNE-2": -0.8540602922439575,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 4.624924182891846,
+        "TSNE-2": -3.791853904724121,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 2.644585609436035,
+        "TSNE-2": 7.394908428192139,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -10.947022438049316,
+        "TSNE-2": -1.7014771699905396,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": 3.549715280532837,
+        "TSNE-2": -5.076097011566162,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -13.70071792602539,
+        "TSNE-2": -5.876805782318115,
+        "cluster": 5,
+        "keywords": "exploration, reader, addition, relevance, political"
+      },
+      {
+        "TSNE-1": -6.917654514312744,
+        "TSNE-2": 4.779983997344971,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": -5.252084255218506,
+        "TSNE-2": 1.1282858848571777,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": 0.19533030688762665,
+        "TSNE-2": 3.227243661880493,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 3.3210232257843018,
+        "TSNE-2": 12.05684757232666,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 3.980067253112793,
+        "TSNE-2": -7.769283294677734,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -6.917654514312744,
+        "TSNE-2": 4.779983997344971,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": -2.9137508869171143,
+        "TSNE-2": -10.45840072631836,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": -8.316452026367188,
+        "TSNE-2": -3.849674701690674,
+        "cluster": 5,
+        "keywords": "exploration, reader, addition, relevance, political"
+      },
+      {
+        "TSNE-1": 11.230493545532227,
+        "TSNE-2": 1.063340425491333,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -2.7129974365234375,
+        "TSNE-2": 4.835946083068848,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -0.9242507219314575,
+        "TSNE-2": 7.533761978149414,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": 7.876720428466797,
+        "TSNE-2": 1.5798784494400024,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": 2.7305350303649902,
+        "TSNE-2": 3.6879618167877197,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -5.254435062408447,
+        "TSNE-2": -3.1632754802703857,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": -11.798264503479004,
+        "TSNE-2": 4.484164237976074,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      },
+      {
+        "TSNE-1": -4.8548126220703125,
+        "TSNE-2": -26.84827423095703,
+        "cluster": 4,
+        "keywords": "nan, zone, explore, expansion, experience"
+      },
+      {
+        "TSNE-1": 5.976447105407715,
+        "TSNE-2": -5.6577677726745605,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 6.662924766540527,
+        "TSNE-2": -10.328941345214844,
+        "cluster": 0,
+        "keywords": "vogue, fashion, magazine, inclusivity, feature"
+      },
+      {
+        "TSNE-1": 7.198074817657471,
+        "TSNE-2": 6.182318210601807,
+        "cluster": 3,
+        "keywords": "diverse, also, content, broader, popularity"
+      },
+      {
+        "TSNE-1": -3.8300232887268066,
+        "TSNE-2": 11.50292682647705,
+        "cluster": 1,
+        "keywords": "section, model, issue, cover, social"
+      },
+      {
+        "TSNE-1": -10.64112377166748,
+        "TSNE-2": 0.8833210468292236,
+        "cluster": 2,
+        "keywords": "explicitly, may, continued, mention, well"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_21",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-43983 - how has inclusivity made vogue magazine more popular"
+  }
+}

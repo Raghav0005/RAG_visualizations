@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-c16499f67e8e850bd8266bda9a2c959f"
+  },
+  "datasets": {
+    "data-c16499f67e8e850bd8266bda9a2c959f": [
+      {
+        "TSNE-1": 5.702914714813232,
+        "TSNE-2": -2.061089515686035,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 10.008343696594238,
+        "TSNE-2": -3.1896345615386963,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": -4.533912181854248,
+        "TSNE-2": -9.117423057556152,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": 2.281111717224121,
+        "TSNE-2": 6.417783737182617,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": -4.533912181854248,
+        "TSNE-2": -9.117423057556152,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": -2.0711417198181152,
+        "TSNE-2": -3.87070631980896,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": 1.2852883338928223,
+        "TSNE-2": 10.895096778869629,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 3.1726648807525635,
+        "TSNE-2": -4.865169048309326,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": -5.232019901275635,
+        "TSNE-2": -6.36285400390625,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": -8.66495132446289,
+        "TSNE-2": 3.092108964920044,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 3.645176410675049,
+        "TSNE-2": 3.3384993076324463,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -7.748260021209717,
+        "TSNE-2": 8.640664100646973,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 2.4564177989959717,
+        "TSNE-2": -0.9815335869789124,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 4.607753753662109,
+        "TSNE-2": 4.797040939331055,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -0.3438364863395691,
+        "TSNE-2": -9.096464157104492,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": 4.161801338195801,
+        "TSNE-2": -1.8927284479141235,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 12.609039306640625,
+        "TSNE-2": 5.288755416870117,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": 3.1726648807525635,
+        "TSNE-2": -4.865169048309326,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 2.3379197120666504,
+        "TSNE-2": 1.9524589776992798,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 1.0640510320663452,
+        "TSNE-2": 3.989198684692383,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": -3.232659339904785,
+        "TSNE-2": 1.7428587675094604,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": -0.19398346543312073,
+        "TSNE-2": -0.9104641079902649,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 4.652260780334473,
+        "TSNE-2": 11.994386672973633,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 9.931294441223145,
+        "TSNE-2": -0.27719658613204956,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -0.5228877067565918,
+        "TSNE-2": 1.375856876373291,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 4.629638671875,
+        "TSNE-2": -4.631341457366943,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": -0.8058838844299316,
+        "TSNE-2": 3.1161763668060303,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": -0.5251262187957764,
+        "TSNE-2": 5.183887481689453,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 0.42042502760887146,
+        "TSNE-2": -11.613454818725586,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": 8.583088874816895,
+        "TSNE-2": 7.393728256225586,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -6.262435436248779,
+        "TSNE-2": -5.684814453125,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": -0.37882959842681885,
+        "TSNE-2": -5.362297058105469,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": 4.913078308105469,
+        "TSNE-2": 1.7460830211639404,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": 7.858392238616943,
+        "TSNE-2": -1.6571217775344849,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": -3.189422369003296,
+        "TSNE-2": -1.8184130191802979,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 0.3121051788330078,
+        "TSNE-2": 7.493005752563477,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 5.127599716186523,
+        "TSNE-2": 7.888203144073486,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 2.3725790977478027,
+        "TSNE-2": 4.747354030609131,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 6.2120513916015625,
+        "TSNE-2": -3.5383994579315186,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 5.251554012298584,
+        "TSNE-2": -0.325753778219223,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 10.379349708557129,
+        "TSNE-2": 1.9411219358444214,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": 8.224627494812012,
+        "TSNE-2": 4.802364826202393,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": 2.1319258213043213,
+        "TSNE-2": -1.4598388671875,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 5.819533824920654,
+        "TSNE-2": 5.394038200378418,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -0.20405960083007812,
+        "TSNE-2": 7.970580577850342,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": -9.54389476776123,
+        "TSNE-2": -3.1539742946624756,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": -0.17932775616645813,
+        "TSNE-2": -2.729874849319458,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": -10.353182792663574,
+        "TSNE-2": 3.256950855255127,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 3.645176410675049,
+        "TSNE-2": 3.3384993076324463,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": 7.687714099884033,
+        "TSNE-2": 2.529660701751709,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -6.109076976776123,
+        "TSNE-2": -1.5738945007324219,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": -8.66495132446289,
+        "TSNE-2": 3.092108964920044,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 1.2882176637649536,
+        "TSNE-2": -0.8731402158737183,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": -9.54389476776123,
+        "TSNE-2": -3.1539742946624756,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 7.223372936248779,
+        "TSNE-2": -1.2603216171264648,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": -4.440545558929443,
+        "TSNE-2": 2.4846653938293457,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 7.851419925689697,
+        "TSNE-2": 0.5603825449943542,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": 0.6889141201972961,
+        "TSNE-2": -10.869270324707031,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": 2.5489847660064697,
+        "TSNE-2": -6.347100257873535,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 1.8970078229904175,
+        "TSNE-2": -9.271416664123535,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": -2.3744192123413086,
+        "TSNE-2": 10.854674339294434,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": -6.886169910430908,
+        "TSNE-2": -0.2613487243652344,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": -8.672768592834473,
+        "TSNE-2": 0.22791077196598053,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 1.534127950668335,
+        "TSNE-2": -3.0421054363250732,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 4.030475616455078,
+        "TSNE-2": 8.573579788208008,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 3.553419589996338,
+        "TSNE-2": 1.4400842189788818,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 5.027441024780273,
+        "TSNE-2": 8.661094665527344,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 7.533661842346191,
+        "TSNE-2": -4.189580917358398,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 5.6978631019592285,
+        "TSNE-2": 3.2872281074523926,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -7.964702129364014,
+        "TSNE-2": 4.531283855438232,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 0.36792975664138794,
+        "TSNE-2": 0.5657339096069336,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 12.609039306640625,
+        "TSNE-2": 5.288755416870117,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -2.390212297439575,
+        "TSNE-2": 4.816503047943115,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": -3.5143494606018066,
+        "TSNE-2": 6.370614051818848,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": -2.5466387271881104,
+        "TSNE-2": -0.9391704201698303,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 5.286701202392578,
+        "TSNE-2": -7.261222839355469,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 8.711471557617188,
+        "TSNE-2": -5.9404072761535645,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": -2.390212297439575,
+        "TSNE-2": 4.816503047943115,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": -6.4020915031433105,
+        "TSNE-2": 0.2095833122730255,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": -10.850322723388672,
+        "TSNE-2": 2.9998886585235596,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": 3.7031540870666504,
+        "TSNE-2": 0.013825364410877228,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": -7.748260021209717,
+        "TSNE-2": 8.640664100646973,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      },
+      {
+        "TSNE-1": -2.4326553344726562,
+        "TSNE-2": 10.81832504272461,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 2.001084089279175,
+        "TSNE-2": 0.6527522206306458,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": 5.251554012298584,
+        "TSNE-2": -0.325753778219223,
+        "cluster": 3,
+        "keywords": "social, societal, democratic, power, idea"
+      },
+      {
+        "TSNE-1": 1.1817139387130737,
+        "TSNE-2": -9.824935913085938,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": 1.5278923511505127,
+        "TSNE-2": 12.452021598815918,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": -4.82248067855835,
+        "TSNE-2": 8.23227596282959,
+        "cluster": 2,
+        "keywords": "allows, others, freedom, surface, safeguard"
+      },
+      {
+        "TSNE-1": 1.5570485591888428,
+        "TSNE-2": 2.5548322200775146,
+        "cluster": 0,
+        "keywords": "speech, free, individual, right, ability"
+      },
+      {
+        "TSNE-1": -6.679025650024414,
+        "TSNE-2": -5.9042067527771,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": 6.121677875518799,
+        "TSNE-2": 1.409438967704773,
+        "cluster": 1,
+        "keywords": "lead, minority, government, privilege, hateful"
+      },
+      {
+        "TSNE-1": -0.37882959842681885,
+        "TSNE-2": -5.362297058105469,
+        "cluster": 5,
+        "keywords": "author, american, positive, also, denizgamze"
+      },
+      {
+        "TSNE-1": -5.532051086425781,
+        "TSNE-2": 2.224522829055786,
+        "cluster": 4,
+        "keywords": "building, block, fall, human, without"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_271",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-225223 - why we should not change free speech priviledges"
+  }
+}

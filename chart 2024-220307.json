@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-407558f2c9f61cceec1d37b410ad7632"
+  },
+  "datasets": {
+    "data-407558f2c9f61cceec1d37b410ad7632": [
+      {
+        "TSNE-1": -7.180602073669434,
+        "TSNE-2": -0.24752436578273773,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -7.7847981452941895,
+        "TSNE-2": 4.442229270935059,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 5.977489471435547,
+        "TSNE-2": -5.257303237915039,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": -1.7995012998580933,
+        "TSNE-2": -7.789228916168213,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": 5.977489471435547,
+        "TSNE-2": -5.257303237915039,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": 8.632465362548828,
+        "TSNE-2": 2.9417941570281982,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -3.915300130844116,
+        "TSNE-2": 8.947652816772461,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": -3.4630284309387207,
+        "TSNE-2": 0.9501008987426758,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -4.7292280197143555,
+        "TSNE-2": 11.365142822265625,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": -4.2616868019104,
+        "TSNE-2": -6.374982833862305,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": 4.832568645477295,
+        "TSNE-2": -0.207381471991539,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": 12.677578926086426,
+        "TSNE-2": 4.070064067840576,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -0.8877370357513428,
+        "TSNE-2": 4.3915252685546875,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -5.968857765197754,
+        "TSNE-2": -3.0664572715759277,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": 1.3359127044677734,
+        "TSNE-2": -10.695246696472168,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": -7.362508773803711,
+        "TSNE-2": 2.4429872035980225,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 13.66437816619873,
+        "TSNE-2": 8.203259468078613,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -3.4630284309387207,
+        "TSNE-2": 0.9501008987426758,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 6.670013427734375,
+        "TSNE-2": -3.254993438720703,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": 9.870585441589355,
+        "TSNE-2": 4.940070629119873,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -4.55818510055542,
+        "TSNE-2": -9.112897872924805,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": -3.676996946334839,
+        "TSNE-2": 5.456582546234131,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": -9.729238510131836,
+        "TSNE-2": -6.6457648277282715,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": -4.659541606903076,
+        "TSNE-2": -3.221672534942627,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": -5.879868030548096,
+        "TSNE-2": 0.4995065927505493,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -4.790619850158691,
+        "TSNE-2": -0.3792780935764313,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -1.5931886434555054,
+        "TSNE-2": -7.070198059082031,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": -0.9143363833427429,
+        "TSNE-2": -4.005594253540039,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": -6.195058822631836,
+        "TSNE-2": -7.896529197692871,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": 8.67707633972168,
+        "TSNE-2": 1.6600701808929443,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -10.478683471679688,
+        "TSNE-2": 0.6698184013366699,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 10.5862398147583,
+        "TSNE-2": 1.2930492162704468,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -0.7225061058998108,
+        "TSNE-2": 3.2252860069274902,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -2.6326191425323486,
+        "TSNE-2": 7.175077438354492,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": 1.3941359519958496,
+        "TSNE-2": -2.9419102668762207,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": -1.45998215675354,
+        "TSNE-2": -0.17536312341690063,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 0.2738116979598999,
+        "TSNE-2": 2.0419912338256836,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": 1.1649587154388428,
+        "TSNE-2": 5.588374614715576,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -0.15032310783863068,
+        "TSNE-2": 8.145378112792969,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": 5.456188201904297,
+        "TSNE-2": -8.68645191192627,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": -8.785188674926758,
+        "TSNE-2": 3.767991542816162,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -2.6937108039855957,
+        "TSNE-2": -1.1819249391555786,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -2.2938787937164307,
+        "TSNE-2": 3.95188045501709,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 0.12291135638952255,
+        "TSNE-2": 0.821735143661499,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -0.02722199261188507,
+        "TSNE-2": -0.8469311594963074,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": 12.705962181091309,
+        "TSNE-2": 0.7193970084190369,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": 13.3146333694458,
+        "TSNE-2": 1.929811716079712,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -5.809720516204834,
+        "TSNE-2": -6.173408031463623,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": 4.832568645477295,
+        "TSNE-2": -0.207381471991539,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -0.598523736000061,
+        "TSNE-2": -1.7927440404891968,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": 5.151433944702148,
+        "TSNE-2": 4.256629943847656,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -6.4172043800354,
+        "TSNE-2": -6.963783264160156,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": -1.8767845630645752,
+        "TSNE-2": 3.364497661590576,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 12.157241821289062,
+        "TSNE-2": 3.4053499698638916,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -4.587860584259033,
+        "TSNE-2": 2.04206919670105,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -8.6864652633667,
+        "TSNE-2": -4.151642799377441,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": -6.665122985839844,
+        "TSNE-2": 2.664029598236084,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 0.5258828401565552,
+        "TSNE-2": -9.850176811218262,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": 0.8364189863204956,
+        "TSNE-2": -3.3426272869110107,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": -2.805574893951416,
+        "TSNE-2": -5.766794204711914,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": 3.0280423164367676,
+        "TSNE-2": 9.3584623336792,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -3.636237621307373,
+        "TSNE-2": -11.968376159667969,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": 1.1331883668899536,
+        "TSNE-2": 13.093400001525879,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": 11.530229568481445,
+        "TSNE-2": 0.03030998259782791,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": 1.036059021949768,
+        "TSNE-2": 3.2523322105407715,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -5.139995574951172,
+        "TSNE-2": 3.73144793510437,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 2.0509371757507324,
+        "TSNE-2": 2.563424587249756,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": -0.7787401676177979,
+        "TSNE-2": 6.196060657501221,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": 2.1917872428894043,
+        "TSNE-2": 4.3820881843566895,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": 4.999664306640625,
+        "TSNE-2": 3.533855676651001,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": 4.464597702026367,
+        "TSNE-2": 5.41650390625,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": 13.66437816619873,
+        "TSNE-2": 8.203259468078613,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": 2.423255443572998,
+        "TSNE-2": -0.7152116894721985,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": -7.88166618347168,
+        "TSNE-2": 8.272159576416016,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": 1.500413179397583,
+        "TSNE-2": -6.006460189819336,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": -9.554649353027344,
+        "TSNE-2": 0.3043287396430969,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -8.382651329040527,
+        "TSNE-2": 8.612675666809082,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": 2.423255443572998,
+        "TSNE-2": -0.7152116894721985,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": 0.8459504246711731,
+        "TSNE-2": 12.90573787689209,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": -8.412382125854492,
+        "TSNE-2": -6.07851505279541,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": -3.5663583278656006,
+        "TSNE-2": -3.0917232036590576,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      },
+      {
+        "TSNE-1": 9.964361190795898,
+        "TSNE-2": -0.900348961353302,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": 3.1650402545928955,
+        "TSNE-2": 9.02955150604248,
+        "cluster": 3,
+        "keywords": "system, inequity, education, property, instructional"
+      },
+      {
+        "TSNE-1": 12.60672378540039,
+        "TSNE-2": -1.6958413124084473,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": 5.456188201904297,
+        "TSNE-2": -8.68645191192627,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": 3.094311237335205,
+        "TSNE-2": -4.607935428619385,
+        "cluster": 0,
+        "keywords": "teacher, salary, colorado, average, district"
+      },
+      {
+        "TSNE-1": 11.848670959472656,
+        "TSNE-2": 1.5318491458892822,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": 1.443131685256958,
+        "TSNE-2": 8.693459510803223,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": -3.8076727390289307,
+        "TSNE-2": 3.175834894180298,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": -5.329007625579834,
+        "TSNE-2": 6.238399982452393,
+        "cluster": 1,
+        "keywords": "funding, state, low, school, local"
+      },
+      {
+        "TSNE-1": -1.6575498580932617,
+        "TSNE-2": 2.0478222370147705,
+        "cluster": 5,
+        "keywords": "percent, financial, since, tax, overall"
+      },
+      {
+        "TSNE-1": 10.5862398147583,
+        "TSNE-2": 1.2930492162704468,
+        "cluster": 2,
+        "keywords": "student, spending, subject, higher, receive"
+      },
+      {
+        "TSNE-1": -9.8486328125,
+        "TSNE-2": -5.513294696807861,
+        "cluster": 4,
+        "keywords": "lower, relatively, per, income, national"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_111",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-220307 - why is co so low in teacher income and per student spending"
+  }
+}

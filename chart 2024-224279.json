@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-abd60215001890a4c3d66cd0e91a6240"
+  },
+  "datasets": {
+    "data-abd60215001890a4c3d66cd0e91a6240": [
+      {
+        "TSNE-1": 0.17096209526062012,
+        "TSNE-2": 4.291293621063232,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -1.3683806657791138,
+        "TSNE-2": 5.126769065856934,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -5.830069065093994,
+        "TSNE-2": 7.949317455291748,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 9.287046432495117,
+        "TSNE-2": 3.1854124069213867,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": -5.830069065093994,
+        "TSNE-2": 7.949317455291748,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": -3.5147719383239746,
+        "TSNE-2": -11.428008079528809,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -2.947068214416504,
+        "TSNE-2": -7.374630928039551,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -4.006073474884033,
+        "TSNE-2": -1.7347277402877808,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": -3.411616802215576,
+        "TSNE-2": 9.815476417541504,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": 5.54168701171875,
+        "TSNE-2": -11.35631275177002,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -4.000669956207275,
+        "TSNE-2": 1.4663567543029785,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": -12.187398910522461,
+        "TSNE-2": -7.845409870147705,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": -7.470702171325684,
+        "TSNE-2": -0.7393054366111755,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 4.739197254180908,
+        "TSNE-2": 3.7384700775146484,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": -2.4660983085632324,
+        "TSNE-2": 7.455593109130859,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": 5.610470771789551,
+        "TSNE-2": 1.7762911319732666,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": -0.036791883409023285,
+        "TSNE-2": -6.991173267364502,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -4.006073474884033,
+        "TSNE-2": -1.7347277402877808,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 4.6127753257751465,
+        "TSNE-2": 6.42572546005249,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -8.643766403198242,
+        "TSNE-2": 5.307406425476074,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 11.130422592163086,
+        "TSNE-2": 3.292635679244995,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      },
+      {
+        "TSNE-1": 6.833420276641846,
+        "TSNE-2": -0.06408172100782394,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 8.434950828552246,
+        "TSNE-2": -7.578598499298096,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      },
+      {
+        "TSNE-1": 1.5305240154266357,
+        "TSNE-2": 1.3515163660049438,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": -0.9686601161956787,
+        "TSNE-2": 2.7484827041625977,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 4.053099632263184,
+        "TSNE-2": 0.36099353432655334,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 8.685296058654785,
+        "TSNE-2": 3.364206552505493,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 9.567482948303223,
+        "TSNE-2": -0.26139575242996216,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      },
+      {
+        "TSNE-1": 1.5650986433029175,
+        "TSNE-2": -9.781407356262207,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -4.158504009246826,
+        "TSNE-2": -11.099316596984863,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -0.7440850734710693,
+        "TSNE-2": -2.0500199794769287,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -6.381434440612793,
+        "TSNE-2": 4.116591930389404,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": -8.242597579956055,
+        "TSNE-2": -1.7675392627716064,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 1.9552569389343262,
+        "TSNE-2": 10.075712203979492,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -11.771440505981445,
+        "TSNE-2": -8.370354652404785,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": -0.6601957082748413,
+        "TSNE-2": -0.5440710186958313,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 2.152010440826416,
+        "TSNE-2": -1.6330201625823975,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 7.5328216552734375,
+        "TSNE-2": 9.625964164733887,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": 5.468770980834961,
+        "TSNE-2": 8.500794410705566,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": 1.7222524881362915,
+        "TSNE-2": 3.3107049465179443,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 3.745619773864746,
+        "TSNE-2": 11.765565872192383,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -7.8240065574646,
+        "TSNE-2": -5.227842807769775,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": -6.275500297546387,
+        "TSNE-2": -2.7089102268218994,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 6.415435314178467,
+        "TSNE-2": 4.922914028167725,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 4.963218688964844,
+        "TSNE-2": -4.480992317199707,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -14.08055305480957,
+        "TSNE-2": -3.1771199703216553,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": -2.145885944366455,
+        "TSNE-2": -3.779200315475464,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": 6.351611614227295,
+        "TSNE-2": -11.734785079956055,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -4.000669956207275,
+        "TSNE-2": 1.4663567543029785,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 3.522845506668091,
+        "TSNE-2": -4.975605010986328,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": 13.161385536193848,
+        "TSNE-2": -3.0970818996429443,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      },
+      {
+        "TSNE-1": 7.197027206420898,
+        "TSNE-2": -10.111211776733398,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -6.692564964294434,
+        "TSNE-2": -1.2505239248275757,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": -13.823782920837402,
+        "TSNE-2": -4.724454402923584,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": 2.7548329830169678,
+        "TSNE-2": 9.32339096069336,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -10.666178703308105,
+        "TSNE-2": 0.45978212356567383,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 6.0274529457092285,
+        "TSNE-2": -2.2347352504730225,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": -1.2747211456298828,
+        "TSNE-2": 10.98226261138916,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": 3.4983298778533936,
+        "TSNE-2": 3.0404601097106934,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 8.361223220825195,
+        "TSNE-2": 1.6649653911590576,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 8.015007019042969,
+        "TSNE-2": 7.266422271728516,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": 10.914390563964844,
+        "TSNE-2": -5.545672416687012,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      },
+      {
+        "TSNE-1": 9.180238723754883,
+        "TSNE-2": -4.667180061340332,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      },
+      {
+        "TSNE-1": -6.381434440612793,
+        "TSNE-2": 4.116591930389404,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 2.4607181549072266,
+        "TSNE-2": -3.1239449977874756,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -5.76294469833374,
+        "TSNE-2": 0.2816747725009918,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 1.137092113494873,
+        "TSNE-2": -2.7655270099639893,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": 2.596126079559326,
+        "TSNE-2": 4.968342304229736,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -7.783853054046631,
+        "TSNE-2": -3.9557149410247803,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": 11.768701553344727,
+        "TSNE-2": -0.02577970363199711,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      },
+      {
+        "TSNE-1": -6.741827487945557,
+        "TSNE-2": -5.498422145843506,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": -0.036791883409023285,
+        "TSNE-2": -6.991173267364502,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": 0.7603399753570557,
+        "TSNE-2": 7.097940921783447,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": 4.097421646118164,
+        "TSNE-2": -1.5394436120986938,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 1.0860226154327393,
+        "TSNE-2": -4.225293159484863,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": 9.800275802612305,
+        "TSNE-2": 5.872610092163086,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 1.4553927183151245,
+        "TSNE-2": -0.4197521209716797,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 0.7603399753570557,
+        "TSNE-2": 7.097940921783447,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": 10.056866645812988,
+        "TSNE-2": -4.94629430770874,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      },
+      {
+        "TSNE-1": 6.352593421936035,
+        "TSNE-2": -9.746926307678223,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": 3.0680086612701416,
+        "TSNE-2": 1.4385885000228882,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": -14.156473159790039,
+        "TSNE-2": -2.1173782348632812,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": 8.015007019042969,
+        "TSNE-2": 7.266422271728516,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -0.4249929189682007,
+        "TSNE-2": 1.5195064544677734,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 1.7222524881362915,
+        "TSNE-2": 3.3107049465179443,
+        "cluster": 5,
+        "keywords": "educational, process, meet, method, refine"
+      },
+      {
+        "TSNE-1": 1.5650986433029175,
+        "TSNE-2": -9.781407356262207,
+        "cluster": 2,
+        "keywords": "instruction, always, instructional, help, learn"
+      },
+      {
+        "TSNE-1": -11.712242126464844,
+        "TSNE-2": 2.903754711151123,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": -8.386126518249512,
+        "TSNE-2": 9.740738868713379,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 3.291098117828369,
+        "TSNE-2": 7.666630744934082,
+        "cluster": 1,
+        "keywords": "teacher, reflection, reflective, need, practice"
+      },
+      {
+        "TSNE-1": -9.93176555633545,
+        "TSNE-2": -4.577012062072754,
+        "cluster": 0,
+        "keywords": "review, faculty, student, work, school"
+      },
+      {
+        "TSNE-1": -4.663218021392822,
+        "TSNE-2": -3.4748082160949707,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": -6.381434440612793,
+        "TSNE-2": 4.116591930389404,
+        "cluster": 3,
+        "keywords": "build, cumulative, feedback, new, effective"
+      },
+      {
+        "TSNE-1": 12.187080383300781,
+        "TSNE-2": 0.30991125106811523,
+        "cluster": 4,
+        "keywords": "harder, area, strength, current, allows"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_25",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-224279 - why should teachers always be reviewing their instruction"
+  }
+}

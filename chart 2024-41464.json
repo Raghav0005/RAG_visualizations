@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3d971df86b77658614685deb9ad53cc5"
+  },
+  "datasets": {
+    "data-3d971df86b77658614685deb9ad53cc5": [
+      {
+        "TSNE-1": -6.054351806640625,
+        "TSNE-2": 0.2749456763267517,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": -8.305780410766602,
+        "TSNE-2": -2.223862409591675,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 1.7442251443862915,
+        "TSNE-2": -10.06064224243164,
+        "cluster": 4,
+        "keywords": "brings, time, none, empowers, overcome"
+      },
+      {
+        "TSNE-1": 9.34950065612793,
+        "TSNE-2": 3.9253671169281006,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": 1.7442251443862915,
+        "TSNE-2": -10.06064224243164,
+        "cluster": 4,
+        "keywords": "brings, time, none, empowers, overcome"
+      },
+      {
+        "TSNE-1": -1.292795181274414,
+        "TSNE-2": 10.885257720947266,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": 0.23321737349033356,
+        "TSNE-2": -9.278764724731445,
+        "cluster": 4,
+        "keywords": "brings, time, none, empowers, overcome"
+      },
+      {
+        "TSNE-1": -6.423468112945557,
+        "TSNE-2": 2.4375991821289062,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 7.7248454093933105,
+        "TSNE-2": 0.3327986001968384,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": 7.327749729156494,
+        "TSNE-2": -10.094021797180176,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -2.831345319747925,
+        "TSNE-2": 9.049002647399902,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -1.6416887044906616,
+        "TSNE-2": -12.72315788269043,
+        "cluster": 4,
+        "keywords": "brings, time, none, empowers, overcome"
+      },
+      {
+        "TSNE-1": -2.7460954189300537,
+        "TSNE-2": 1.0838249921798706,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 1.8773514032363892,
+        "TSNE-2": -3.8755953311920166,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 9.129071235656738,
+        "TSNE-2": -11.692676544189453,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -5.755344867706299,
+        "TSNE-2": -5.057971000671387,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": -13.049922943115234,
+        "TSNE-2": 5.89781379699707,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": -6.423468112945557,
+        "TSNE-2": 2.4375991821289062,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": -3.3483433723449707,
+        "TSNE-2": -2.989527463912964,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 0.6907473802566528,
+        "TSNE-2": 8.418075561523438,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": 4.9798264503479,
+        "TSNE-2": -7.029690742492676,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -7.930128574371338,
+        "TSNE-2": 6.420011043548584,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 5.37428617477417,
+        "TSNE-2": -6.296348571777344,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -7.230370044708252,
+        "TSNE-2": -0.5281851291656494,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": -0.5386420488357544,
+        "TSNE-2": 11.851954460144043,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -3.520522117614746,
+        "TSNE-2": 4.27577018737793,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": 8.569830894470215,
+        "TSNE-2": -5.281112194061279,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": 2.0789098739624023,
+        "TSNE-2": -7.968188762664795,
+        "cluster": 4,
+        "keywords": "brings, time, none, empowers, overcome"
+      },
+      {
+        "TSNE-1": 9.129071235656738,
+        "TSNE-2": -11.692676544189453,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": 10.497906684875488,
+        "TSNE-2": -0.6762201189994812,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": 6.300699234008789,
+        "TSNE-2": 1.1617827415466309,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -6.429576873779297,
+        "TSNE-2": -10.944442749023438,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": -4.053821086883545,
+        "TSNE-2": 0.5737451314926147,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": -9.880324363708496,
+        "TSNE-2": 3.629999876022339,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": -1.593002438545227,
+        "TSNE-2": 5.961288928985596,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -12.551248550415039,
+        "TSNE-2": -1.7173577547073364,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": -1.4238163232803345,
+        "TSNE-2": -5.744333267211914,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 5.64077615737915,
+        "TSNE-2": 7.597321033477783,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -0.33931151032447815,
+        "TSNE-2": -1.2447121143341064,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": -0.3410284221172333,
+        "TSNE-2": 1.1751528978347778,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -1.0255839824676514,
+        "TSNE-2": 3.172205686569214,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": 2.971670150756836,
+        "TSNE-2": 4.186562538146973,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -4.322246074676514,
+        "TSNE-2": 1.4130170345306396,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": -10.008803367614746,
+        "TSNE-2": -4.57472562789917,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": -11.597928047180176,
+        "TSNE-2": -1.5671517848968506,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 6.804891109466553,
+        "TSNE-2": 11.067814826965332,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -0.42587700486183167,
+        "TSNE-2": 6.961943626403809,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": 7.378281116485596,
+        "TSNE-2": -12.651336669921875,
+        "cluster": 4,
+        "keywords": "brings, time, none, empowers, overcome"
+      },
+      {
+        "TSNE-1": -2.831345319747925,
+        "TSNE-2": 9.049002647399902,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -9.672826766967773,
+        "TSNE-2": 0.4513413906097412,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 4.134062767028809,
+        "TSNE-2": 4.432370662689209,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": 10.483060836791992,
+        "TSNE-2": -9.188786506652832,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -3.1813814640045166,
+        "TSNE-2": 2.1740803718566895,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 6.804891109466553,
+        "TSNE-2": 11.067814826965332,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -8.363186836242676,
+        "TSNE-2": 2.829512119293213,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 10.05834674835205,
+        "TSNE-2": 3.4916350841522217,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -5.6923909187316895,
+        "TSNE-2": -2.6927990913391113,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 9.232187271118164,
+        "TSNE-2": -9.38176441192627,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": 2.746211051940918,
+        "TSNE-2": 1.236778974533081,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": 5.160770416259766,
+        "TSNE-2": -4.921933650970459,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": 13.759903907775879,
+        "TSNE-2": -3.4690585136413574,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -3.0976877212524414,
+        "TSNE-2": -7.016175270080566,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": -4.997815132141113,
+        "TSNE-2": 13.290970802307129,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": 1.561310052871704,
+        "TSNE-2": 7.562505722045898,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -5.388362884521484,
+        "TSNE-2": 8.190054893493652,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -2.4441347122192383,
+        "TSNE-2": 4.232499599456787,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -1.0152801275253296,
+        "TSNE-2": -4.184018611907959,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": -1.5806872844696045,
+        "TSNE-2": -1.0315691232681274,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 1.651784896850586,
+        "TSNE-2": 2.849592685699463,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": 6.857101917266846,
+        "TSNE-2": -4.785301685333252,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": 1.6213414669036865,
+        "TSNE-2": 4.369153022766113,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -13.049922943115234,
+        "TSNE-2": 5.89781379699707,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 4.702692031860352,
+        "TSNE-2": -1.994651198387146,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -4.667436599731445,
+        "TSNE-2": 3.226803779602051,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 0.15478892624378204,
+        "TSNE-2": -4.184014320373535,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 2.8419930934906006,
+        "TSNE-2": 5.902367115020752,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -6.434980392456055,
+        "TSNE-2": 4.604083061218262,
+        "cluster": 5,
+        "keywords": "simple, better, contribute, encourages, strength"
+      },
+      {
+        "TSNE-1": 4.702692031860352,
+        "TSNE-2": -1.994651198387146,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -4.317803382873535,
+        "TSNE-2": 13.545626640319824,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": 8.643348693847656,
+        "TSNE-2": -13.748519897460938,
+        "cluster": 4,
+        "keywords": "brings, time, none, empowers, overcome"
+      },
+      {
+        "TSNE-1": 1.5278173685073853,
+        "TSNE-2": -0.010627659037709236,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -1.6416887044906616,
+        "TSNE-2": -12.72315788269043,
+        "cluster": 4,
+        "keywords": "brings, time, none, empowers, overcome"
+      },
+      {
+        "TSNE-1": 13.20067024230957,
+        "TSNE-2": -3.5764479637145996,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -4.118091106414795,
+        "TSNE-2": -1.1715424060821533,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": -0.3410284221172333,
+        "TSNE-2": 1.1751528978347778,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": 9.129071235656738,
+        "TSNE-2": -11.692676544189453,
+        "cluster": 1,
+        "keywords": "wise, lead, good, ask, freedom"
+      },
+      {
+        "TSNE-1": -9.991033554077148,
+        "TSNE-2": -6.244917869567871,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 4.245776653289795,
+        "TSNE-2": 2.5327389240264893,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -5.372872352600098,
+        "TSNE-2": -3.6195356845855713,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 5.742936611175537,
+        "TSNE-2": 5.001504421234131,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      },
+      {
+        "TSNE-1": -4.464681148529053,
+        "TSNE-2": 5.96589469909668,
+        "cluster": 0,
+        "keywords": "humility, others, people, help, life"
+      },
+      {
+        "TSNE-1": -5.890500545501709,
+        "TSNE-2": -10.95275592803955,
+        "cluster": 2,
+        "keywords": "individual, need, humble, personal, sense"
+      },
+      {
+        "TSNE-1": 10.173856735229492,
+        "TSNE-2": 5.164364814758301,
+        "cluster": 3,
+        "keywords": "likely, also, become, live, stress"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_146",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-41464 - how does humility lead us to the good life"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-fc8e055b756a4ac5602d0d28e74328d2"
+  },
+  "datasets": {
+    "data-fc8e055b756a4ac5602d0d28e74328d2": [
+      {
+        "TSNE-1": -0.670092761516571,
+        "TSNE-2": -12.463913917541504,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -3.619704484939575,
+        "TSNE-2": -13.068696022033691,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 3.1652400493621826,
+        "TSNE-2": 2.548696517944336,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": -7.758028507232666,
+        "TSNE-2": 11.132864952087402,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 3.1652400493621826,
+        "TSNE-2": 2.548696517944336,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": -5.485384464263916,
+        "TSNE-2": -5.81158447265625,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 1.805240273475647,
+        "TSNE-2": 5.906198978424072,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 2.0432775020599365,
+        "TSNE-2": -7.336751461029053,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -3.136245012283325,
+        "TSNE-2": 9.204951286315918,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": -11.919482231140137,
+        "TSNE-2": -6.228616237640381,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 5.410362243652344,
+        "TSNE-2": 10.631781578063965,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": 10.75959587097168,
+        "TSNE-2": 11.193684577941895,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": 1.6238601207733154,
+        "TSNE-2": -3.5687177181243896,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": -3.9772839546203613,
+        "TSNE-2": -4.098603248596191,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": -13.265081405639648,
+        "TSNE-2": -5.819876194000244,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 6.221893310546875,
+        "TSNE-2": -4.252212047576904,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": -1.2099409103393555,
+        "TSNE-2": 1.0148048400878906,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 2.0432775020599365,
+        "TSNE-2": -7.336751461029053,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": 8.460651397705078,
+        "TSNE-2": -2.4233407974243164,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": 3.569418430328369,
+        "TSNE-2": -12.075189590454102,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -9.722320556640625,
+        "TSNE-2": 8.228151321411133,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 9.103322982788086,
+        "TSNE-2": 6.559540271759033,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": -9.722320556640625,
+        "TSNE-2": 8.228151321411133,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": -6.076687335968018,
+        "TSNE-2": -0.9268839359283447,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": -0.7599929571151733,
+        "TSNE-2": -7.979804992675781,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": 0.5118558406829834,
+        "TSNE-2": -5.76995325088501,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -6.399067401885986,
+        "TSNE-2": 12.203592300415039,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 4.113929271697998,
+        "TSNE-2": 1.024117350578308,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": -11.143314361572266,
+        "TSNE-2": -6.930955410003662,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 6.031446933746338,
+        "TSNE-2": -14.440329551696777,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -4.68870210647583,
+        "TSNE-2": 9.507855415344238,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": -8.461824417114258,
+        "TSNE-2": -3.8175318241119385,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 3.4338631629943848,
+        "TSNE-2": -3.6539669036865234,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": -1.7201941013336182,
+        "TSNE-2": 5.557782173156738,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 0.6027549505233765,
+        "TSNE-2": -1.1659109592437744,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 2.748758554458618,
+        "TSNE-2": -0.33573219180107117,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 8.275774002075195,
+        "TSNE-2": 2.130887985229492,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": 7.416311740875244,
+        "TSNE-2": -9.830306053161621,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -4.267862796783447,
+        "TSNE-2": 2.3615827560424805,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 6.656739711761475,
+        "TSNE-2": -7.273436069488525,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": 12.819939613342285,
+        "TSNE-2": -8.471430778503418,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": 11.140389442443848,
+        "TSNE-2": -4.614667892456055,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": 3.7041780948638916,
+        "TSNE-2": -2.3419013023376465,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": -1.313101887702942,
+        "TSNE-2": -2.5392894744873047,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 8.023796081542969,
+        "TSNE-2": 3.449058771133423,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": 1.543904185295105,
+        "TSNE-2": -15.761088371276855,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -2.63480544090271,
+        "TSNE-2": -4.8922014236450195,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": -12.431314468383789,
+        "TSNE-2": 3.115821599960327,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 5.410362243652344,
+        "TSNE-2": 10.631781578063965,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": 7.255617618560791,
+        "TSNE-2": 4.588374614715576,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": 0.5625428557395935,
+        "TSNE-2": 4.097598552703857,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": -13.596654891967773,
+        "TSNE-2": 2.5341341495513916,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 2.253638505935669,
+        "TSNE-2": -4.534140110015869,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": 1.543904185295105,
+        "TSNE-2": -15.761088371276855,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": 4.238485813140869,
+        "TSNE-2": -6.173223972320557,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -8.145197868347168,
+        "TSNE-2": 6.967902183532715,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 7.397308826446533,
+        "TSNE-2": -4.754830360412598,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": -9.665352821350098,
+        "TSNE-2": 0.8018169403076172,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 3.7891621589660645,
+        "TSNE-2": -9.037187576293945,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -6.828574180603027,
+        "TSNE-2": 9.72673511505127,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 11.321152687072754,
+        "TSNE-2": 3.53519868850708,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": 3.338972330093384,
+        "TSNE-2": 5.296182155609131,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 3.9948339462280273,
+        "TSNE-2": 7.704347133636475,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": -8.461824417114258,
+        "TSNE-2": -3.8175318241119385,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 6.43460750579834,
+        "TSNE-2": 0.7063702344894409,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": -4.576326370239258,
+        "TSNE-2": 0.9535185098648071,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 5.801560401916504,
+        "TSNE-2": 2.150290012359619,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": -0.41811758279800415,
+        "TSNE-2": -10.25112533569336,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": 11.381875038146973,
+        "TSNE-2": -3.6002674102783203,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": -6.399067401885986,
+        "TSNE-2": 12.203592300415039,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 5.03204870223999,
+        "TSNE-2": -0.766078770160675,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": -1.2099409103393555,
+        "TSNE-2": 1.0148048400878906,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 1.4674482345581055,
+        "TSNE-2": 13.460245132446289,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": -5.053048133850098,
+        "TSNE-2": 4.640231132507324,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": 1.1196292638778687,
+        "TSNE-2": 1.0187994241714478,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": 0.5510967373847961,
+        "TSNE-2": 8.506817817687988,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": -5.056670665740967,
+        "TSNE-2": -9.2228422164917,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 1.4674482345581055,
+        "TSNE-2": 13.460245132446289,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": 4.264651775360107,
+        "TSNE-2": 4.68236780166626,
+        "cluster": 0,
+        "keywords": "telephone, outright, preacher, many, instrument"
+      },
+      {
+        "TSNE-1": -13.81090259552002,
+        "TSNE-2": 3.7498888969421387,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      },
+      {
+        "TSNE-1": -5.082541465759277,
+        "TSNE-2": -1.638026237487793,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 10.75959587097168,
+        "TSNE-2": 11.193684577941895,
+        "cluster": 4,
+        "keywords": "first, service, unpopular, talk, available"
+      },
+      {
+        "TSNE-1": 11.321152687072754,
+        "TSNE-2": 3.53519868850708,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": -2.5702579021453857,
+        "TSNE-2": -7.981073379516602,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 6.656739711761475,
+        "TSNE-2": -7.273436069488525,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -8.883395195007324,
+        "TSNE-2": -7.46583890914917,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 14.115966796875,
+        "TSNE-2": 6.003968238830566,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": -6.091980934143066,
+        "TSNE-2": -13.595538139343262,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": 7.105800628662109,
+        "TSNE-2": -2.0914218425750732,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": 12.572402954101562,
+        "TSNE-2": 1.8799233436584473,
+        "cluster": 5,
+        "keywords": "communication, suspicion, evil, attract, wire"
+      },
+      {
+        "TSNE-1": 9.22701358795166,
+        "TSNE-2": -11.266493797302246,
+        "cluster": 3,
+        "keywords": "met, bell, initial, distrust, initially"
+      },
+      {
+        "TSNE-1": -8.461824417114258,
+        "TSNE-2": -3.8175318241119385,
+        "cluster": 2,
+        "keywords": "trust, new, technology, may, concern"
+      },
+      {
+        "TSNE-1": -10.446011543273926,
+        "TSNE-2": 9.436135292053223,
+        "cluster": 1,
+        "keywords": "thought, fake, mere, people, toy"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_75",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-19025 - did people trust the telephone when it was invented"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-b2e93f7bfd4ad8d348093f4db5e714ba"
+  },
+  "datasets": {
+    "data-b2e93f7bfd4ad8d348093f4db5e714ba": [
+      {
+        "TSNE-1": -1.6531493663787842,
+        "TSNE-2": 2.2274296283721924,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 3.2962746620178223,
+        "TSNE-2": -5.478875637054443,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 7.591036796569824,
+        "TSNE-2": -1.3616816997528076,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 2.8974344730377197,
+        "TSNE-2": -11.88961410522461,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": 7.591036796569824,
+        "TSNE-2": -1.3616816997528076,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 7.407360553741455,
+        "TSNE-2": 7.482084274291992,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": 3.553828001022339,
+        "TSNE-2": 2.0568976402282715,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 2.7719125747680664,
+        "TSNE-2": -7.319693565368652,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": 9.449652671813965,
+        "TSNE-2": 4.813987731933594,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": -12.628328323364258,
+        "TSNE-2": 1.1800754070281982,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -2.1637449264526367,
+        "TSNE-2": -10.528646469116211,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": -6.873116493225098,
+        "TSNE-2": -10.034666061401367,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -3.164949417114258,
+        "TSNE-2": -2.4213027954101562,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -0.1477993279695511,
+        "TSNE-2": 4.769806385040283,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": -10.5732421875,
+        "TSNE-2": -1.9062683582305908,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -7.34450101852417,
+        "TSNE-2": 3.013366460800171,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 12.433455467224121,
+        "TSNE-2": -2.446476459503174,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -2.947176694869995,
+        "TSNE-2": -4.139032363891602,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -6.435670375823975,
+        "TSNE-2": 2.6524605751037598,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 9.025167465209961,
+        "TSNE-2": -8.398332595825195,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": -1.2738622426986694,
+        "TSNE-2": 11.735090255737305,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": 2.351269245147705,
+        "TSNE-2": 4.487043857574463,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": 10.626289367675781,
+        "TSNE-2": 1.2337549924850464,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": -0.5330256223678589,
+        "TSNE-2": 6.967782020568848,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": -0.7484056353569031,
+        "TSNE-2": 0.4520787000656128,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -3.938333034515381,
+        "TSNE-2": -0.5993458032608032,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -0.3920457363128662,
+        "TSNE-2": 10.887594223022461,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": 8.212153434753418,
+        "TSNE-2": 0.011338610202074051,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -1.0219018459320068,
+        "TSNE-2": 10.034323692321777,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": 5.940441608428955,
+        "TSNE-2": 7.194322109222412,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": 9.944584846496582,
+        "TSNE-2": 5.68040132522583,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": 9.13222599029541,
+        "TSNE-2": -6.744560241699219,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -2.7688636779785156,
+        "TSNE-2": -3.066310167312622,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -3.776019811630249,
+        "TSNE-2": 4.161271095275879,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -4.366737365722656,
+        "TSNE-2": 1.7656183242797852,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 1.330041527748108,
+        "TSNE-2": -3.708383083343506,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 0.8782060146331787,
+        "TSNE-2": 0.14789727330207825,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 8.543789863586426,
+        "TSNE-2": 8.893357276916504,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": -1.5564947128295898,
+        "TSNE-2": 3.819136142730713,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -6.699084281921387,
+        "TSNE-2": -0.02149040251970291,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 3.0608701705932617,
+        "TSNE-2": -6.456814765930176,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": 3.4798150062561035,
+        "TSNE-2": -2.6029975414276123,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -3.0450634956359863,
+        "TSNE-2": -5.310356140136719,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -2.0128509998321533,
+        "TSNE-2": -0.5994927883148193,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -1.1114720106124878,
+        "TSNE-2": -2.313509464263916,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": 1.7299036979675293,
+        "TSNE-2": 1.9065313339233398,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 7.755812644958496,
+        "TSNE-2": -9.112312316894531,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": 1.5450459718704224,
+        "TSNE-2": -10.98291015625,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": -2.1637449264526367,
+        "TSNE-2": -10.528646469116211,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": 1.7291615009307861,
+        "TSNE-2": -1.4887069463729858,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -6.975021839141846,
+        "TSNE-2": 9.75504207611084,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": -12.27727222442627,
+        "TSNE-2": 1.6037003993988037,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -4.1275434494018555,
+        "TSNE-2": -4.159144401550293,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": 1.7299036979675293,
+        "TSNE-2": 1.9065313339233398,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -5.0557637214660645,
+        "TSNE-2": 3.3077521324157715,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 1.633562684059143,
+        "TSNE-2": 12.659611701965332,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": -6.737146854400635,
+        "TSNE-2": 5.390186786651611,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 1.2063289880752563,
+        "TSNE-2": 11.448854446411133,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": 5.981029510498047,
+        "TSNE-2": 1.5694472789764404,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 2.4979872703552246,
+        "TSNE-2": 8.71135139465332,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": -9.204939842224121,
+        "TSNE-2": 5.057651042938232,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -4.729113578796387,
+        "TSNE-2": -6.584369659423828,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -0.9107329845428467,
+        "TSNE-2": -6.758065700531006,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": 6.720623016357422,
+        "TSNE-2": -8.800847053527832,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": 0.35485896468162537,
+        "TSNE-2": -1.612779140472412,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -0.24831674993038177,
+        "TSNE-2": 2.2486019134521484,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -7.116613388061523,
+        "TSNE-2": -3.3132598400115967,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -3.5174334049224854,
+        "TSNE-2": 6.546543121337891,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": 2.920173406600952,
+        "TSNE-2": -2.319610357284546,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 2.356823682785034,
+        "TSNE-2": -12.113325119018555,
+        "cluster": 2,
+        "keywords": "growth, population, united, incompatible, context"
+      },
+      {
+        "TSNE-1": 4.714004039764404,
+        "TSNE-2": -2.715543031692505,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 12.433455467224121,
+        "TSNE-2": -2.446476459503174,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": 5.6689863204956055,
+        "TSNE-2": 3.2568089962005615,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": 5.958257675170898,
+        "TSNE-2": -4.843104362487793,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -3.2432186603546143,
+        "TSNE-2": 1.4077627658843994,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 3.934711456298828,
+        "TSNE-2": 0.1637725532054901,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -7.110708713531494,
+        "TSNE-2": -4.921511173248291,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": 5.6689863204956055,
+        "TSNE-2": 3.2568089962005615,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": -6.372204303741455,
+        "TSNE-2": 9.319664001464844,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": -2.623913049697876,
+        "TSNE-2": -7.149347305297852,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -0.6730457544326782,
+        "TSNE-2": 6.15487813949585,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": -6.873116493225098,
+        "TSNE-2": -10.034666061401367,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -9.204939842224121,
+        "TSNE-2": 5.057651042938232,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": -4.857032299041748,
+        "TSNE-2": -2.2942864894866943,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -6.699084281921387,
+        "TSNE-2": -0.02149040251970291,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 1.969586730003357,
+        "TSNE-2": 11.298478126525879,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      },
+      {
+        "TSNE-1": 7.935262203216553,
+        "TSNE-2": 6.133232593536377,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": -11.266641616821289,
+        "TSNE-2": -3.475917100906372,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": -6.063501358032227,
+        "TSNE-2": 4.846957683563232,
+        "cluster": 0,
+        "keywords": "tax, reform, energy, answer, claim"
+      },
+      {
+        "TSNE-1": 7.935262203216553,
+        "TSNE-2": 6.133232593536377,
+        "cluster": 1,
+        "keywords": "party, uk, campaign, name, nigel"
+      },
+      {
+        "TSNE-1": -1.2408558130264282,
+        "TSNE-2": -4.432976245880127,
+        "cluster": 5,
+        "keywords": "specific, proposal, detailed, detail, environmental"
+      },
+      {
+        "TSNE-1": 9.13222599029541,
+        "TSNE-2": -6.744560241699219,
+        "cluster": 3,
+        "keywords": "immigration, would, public, environment, election"
+      },
+      {
+        "TSNE-1": -2.8826065063476562,
+        "TSNE-2": 10.758968353271484,
+        "cluster": 4,
+        "keywords": "question, whether, policy, economic, cut"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_91",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-23680 - do reform uk\u2019s election claims on tax, immigration and environment add up?"
+  }
+}

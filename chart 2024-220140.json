@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-8dec06e3bd62f19d6d40e35bcc9a849e"
+  },
+  "datasets": {
+    "data-8dec06e3bd62f19d6d40e35bcc9a849e": [
+      {
+        "TSNE-1": 1.452399492263794,
+        "TSNE-2": -2.213639259338379,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 1.4500484466552734,
+        "TSNE-2": -4.010392189025879,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -13.361969947814941,
+        "TSNE-2": -1.2522711753845215,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -10.323970794677734,
+        "TSNE-2": 3.321404218673706,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -13.361969947814941,
+        "TSNE-2": -1.2522711753845215,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -10.686046600341797,
+        "TSNE-2": -3.215702533721924,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -0.0751068964600563,
+        "TSNE-2": -3.0233075618743896,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": 3.688124895095825,
+        "TSNE-2": 0.9654085040092468,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 8.971659660339355,
+        "TSNE-2": 7.995040416717529,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": -8.994466781616211,
+        "TSNE-2": 1.6985399723052979,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 2.6002278327941895,
+        "TSNE-2": 7.799077987670898,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 10.846292495727539,
+        "TSNE-2": -6.112393379211426,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 2.4269728660583496,
+        "TSNE-2": -1.21503484249115,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 8.34727954864502,
+        "TSNE-2": 3.25524640083313,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -6.423041343688965,
+        "TSNE-2": 1.754234790802002,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 5.648433208465576,
+        "TSNE-2": -2.537304401397705,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -6.480932235717773,
+        "TSNE-2": -0.6389099955558777,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 3.688124895095825,
+        "TSNE-2": 0.9654085040092468,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 5.21824312210083,
+        "TSNE-2": -4.2538652420043945,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -4.12441873550415,
+        "TSNE-2": 1.117777943611145,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -8.491995811462402,
+        "TSNE-2": -4.439183712005615,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": 6.702983856201172,
+        "TSNE-2": -8.590214729309082,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -10.075145721435547,
+        "TSNE-2": -1.5854949951171875,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 0.12360407412052155,
+        "TSNE-2": 7.995062351226807,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 4.566927909851074,
+        "TSNE-2": 2.0061378479003906,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 5.8193817138671875,
+        "TSNE-2": 0.5249858498573303,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -10.326024055480957,
+        "TSNE-2": 3.033581018447876,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 3.5291943550109863,
+        "TSNE-2": -8.127737998962402,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -4.836694240570068,
+        "TSNE-2": -10.3838529586792,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -3.970644235610962,
+        "TSNE-2": -10.775266647338867,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": 8.802674293518066,
+        "TSNE-2": 7.917496204376221,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": -3.081050157546997,
+        "TSNE-2": 2.2812042236328125,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 3.327989339828491,
+        "TSNE-2": -2.596464157104492,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 6.1903815269470215,
+        "TSNE-2": -4.830854415893555,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 5.5145182609558105,
+        "TSNE-2": 7.242278099060059,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 4.3130998611450195,
+        "TSNE-2": 5.056535720825195,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 1.417288064956665,
+        "TSNE-2": 1.9636305570602417,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -1.2981995344161987,
+        "TSNE-2": -3.3233964443206787,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": 3.7038462162017822,
+        "TSNE-2": -5.641053199768066,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 1.2190444469451904,
+        "TSNE-2": -6.463533878326416,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 3.002037763595581,
+        "TSNE-2": -4.234582901000977,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 0.8960853219032288,
+        "TSNE-2": -0.4835745096206665,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 3.5884346961975098,
+        "TSNE-2": -1.1458361148834229,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 6.950897216796875,
+        "TSNE-2": 5.596187114715576,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 3.3201448917388916,
+        "TSNE-2": 4.215897560119629,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": -3.333109140396118,
+        "TSNE-2": 10.390738487243652,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": -2.268129587173462,
+        "TSNE-2": -0.06660814583301544,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -9.075540542602539,
+        "TSNE-2": 2.420452833175659,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 2.593541383743286,
+        "TSNE-2": 7.7498321533203125,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 4.069278717041016,
+        "TSNE-2": 3.954737663269043,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 6.501592636108398,
+        "TSNE-2": -8.37330436706543,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -5.6850104331970215,
+        "TSNE-2": 5.036848068237305,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 3.259721040725708,
+        "TSNE-2": -1.5620585680007935,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 10.786673545837402,
+        "TSNE-2": -6.173272609710693,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -0.36288660764694214,
+        "TSNE-2": 1.3736015558242798,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -8.640336990356445,
+        "TSNE-2": -3.023937940597534,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 6.854284286499023,
+        "TSNE-2": -2.400442600250244,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -9.017268180847168,
+        "TSNE-2": 6.232884883880615,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -2.953519105911255,
+        "TSNE-2": -1.2492629289627075,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": 11.125921249389648,
+        "TSNE-2": 1.0170756578445435,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -2.2265634536743164,
+        "TSNE-2": -7.484513759613037,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -3.9569342136383057,
+        "TSNE-2": -4.0881452560424805,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -3.732915163040161,
+        "TSNE-2": -4.837796211242676,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -3.081050157546997,
+        "TSNE-2": 2.2812042236328125,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 9.287038803100586,
+        "TSNE-2": -2.7865328788757324,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 1.7909780740737915,
+        "TSNE-2": 3.400796413421631,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 9.032952308654785,
+        "TSNE-2": -2.3117058277130127,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 3.176813840866089,
+        "TSNE-2": 2.610356092453003,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": 2.0940136909484863,
+        "TSNE-2": 0.6105189323425293,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -7.488656997680664,
+        "TSNE-2": -3.37748122215271,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -0.17828579246997833,
+        "TSNE-2": -0.432789146900177,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -6.591378688812256,
+        "TSNE-2": -0.527895450592041,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -6.9703826904296875,
+        "TSNE-2": -8.49429988861084,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -1.5208685398101807,
+        "TSNE-2": -1.4787906408309937,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": 8.384407043457031,
+        "TSNE-2": -0.0552717000246048,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -3.750458002090454,
+        "TSNE-2": 4.335500717163086,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 5.824046611785889,
+        "TSNE-2": 3.21806001663208,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -6.9703826904296875,
+        "TSNE-2": -8.49429988861084,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -3.9569342136383057,
+        "TSNE-2": -4.0881452560424805,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": -10.856865882873535,
+        "TSNE-2": 1.510155439376831,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": 7.374298572540283,
+        "TSNE-2": 2.4895222187042236,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -3.2320308685302734,
+        "TSNE-2": 10.496356964111328,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": -2.1726717948913574,
+        "TSNE-2": -7.360152721405029,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      },
+      {
+        "TSNE-1": 0.855881929397583,
+        "TSNE-2": 5.296328544616699,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 1.2190444469451904,
+        "TSNE-2": -6.463533878326416,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": -8.37161636352539,
+        "TSNE-2": 5.865357398986816,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -1.2058130502700806,
+        "TSNE-2": 3.8748550415039062,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 14.045037269592285,
+        "TSNE-2": -21.617534637451172,
+        "cluster": 3,
+        "keywords": "nan, experienced, expectancy, expansion, exercise"
+      },
+      {
+        "TSNE-1": 5.295679569244385,
+        "TSNE-2": -3.0009443759918213,
+        "cluster": 4,
+        "keywords": "health, case, adult, million, due"
+      },
+      {
+        "TSNE-1": 7.494259357452393,
+        "TSNE-2": 7.592487812042236,
+        "cluster": 0,
+        "keywords": "diabetes, uk, rate, type, risk"
+      },
+      {
+        "TSNE-1": 4.7878522872924805,
+        "TSNE-2": -0.9327395558357239,
+        "cluster": 2,
+        "keywords": "obesity, among, lifestyle, younger, increase"
+      },
+      {
+        "TSNE-1": -3.081050157546997,
+        "TSNE-2": 2.2812042236328125,
+        "cluster": 5,
+        "keywords": "specifically, india, young, often, unless"
+      },
+      {
+        "TSNE-1": -7.028079986572266,
+        "TSNE-2": -3.327359199523926,
+        "cluster": 1,
+        "keywords": "people, britain, capital, child, document"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_24",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-220140 - why is britain turning into the under-40s diabetes capital of the world?"
+  }
+}

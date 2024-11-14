@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e726fa0283bb4c8437eb948c3e4d4795"
+  },
+  "datasets": {
+    "data-e726fa0283bb4c8437eb948c3e4d4795": [
+      {
+        "TSNE-1": 5.159790515899658,
+        "TSNE-2": -0.7222771644592285,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 8.921710968017578,
+        "TSNE-2": 11.161792755126953,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -19.051664352416992,
+        "TSNE-2": -2.1024274826049805,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": -7.562903881072998,
+        "TSNE-2": -9.126194953918457,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": -19.051664352416992,
+        "TSNE-2": -2.1024274826049805,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": -12.783864974975586,
+        "TSNE-2": -5.27635383605957,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": 2.489241361618042,
+        "TSNE-2": -2.6414566040039062,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 13.504369735717773,
+        "TSNE-2": 6.056910991668701,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -6.611382007598877,
+        "TSNE-2": -4.259782791137695,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": -14.188058853149414,
+        "TSNE-2": -9.733122825622559,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": -14.408763885498047,
+        "TSNE-2": 1.8076566457748413,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 1.9077059030532837,
+        "TSNE-2": -0.7953494191169739,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": -4.338842868804932,
+        "TSNE-2": 10.679638862609863,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": 15.459720611572266,
+        "TSNE-2": 0.26255884766578674,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -8.111530303955078,
+        "TSNE-2": 13.525809288024902,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": -7.740789413452148,
+        "TSNE-2": 5.536952972412109,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 2.489241361618042,
+        "TSNE-2": -2.6414566040039062,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 8.881351470947266,
+        "TSNE-2": -6.792541027069092,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": 7.0735626220703125,
+        "TSNE-2": 5.899392604827881,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -7.76546573638916,
+        "TSNE-2": -0.006470255553722382,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 5.445528984069824,
+        "TSNE-2": 5.163735389709473,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -9.65823745727539,
+        "TSNE-2": -1.249220609664917,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 1.4490554332733154,
+        "TSNE-2": 6.843967437744141,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": -3.566617488861084,
+        "TSNE-2": 4.453275203704834,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 4.5517578125,
+        "TSNE-2": -10.190018653869629,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": -9.65823745727539,
+        "TSNE-2": -1.249220609664917,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": -10.34972858428955,
+        "TSNE-2": -6.931536674499512,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": -4.616739749908447,
+        "TSNE-2": -2.1585395336151123,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 3.0640132427215576,
+        "TSNE-2": 15.98258113861084,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": 14.432334899902344,
+        "TSNE-2": 4.3842620849609375,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": 8.643574714660645,
+        "TSNE-2": 16.25550079345703,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": -0.22114595770835876,
+        "TSNE-2": -6.205721378326416,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": -13.908072471618652,
+        "TSNE-2": 5.406339168548584,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 7.7420759201049805,
+        "TSNE-2": -1.565693736076355,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": 0.45245635509490967,
+        "TSNE-2": 3.4096436500549316,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 6.669956684112549,
+        "TSNE-2": 2.0257515907287598,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -3.939023971557617,
+        "TSNE-2": -13.577630996704102,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": 4.111579895019531,
+        "TSNE-2": 8.18950366973877,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": -2.2542264461517334,
+        "TSNE-2": 7.501191139221191,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": 7.0871686935424805,
+        "TSNE-2": 11.578357696533203,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": 0.4015950560569763,
+        "TSNE-2": -10.461544036865234,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": -0.22114595770835876,
+        "TSNE-2": -6.205721378326416,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": 4.4148454666137695,
+        "TSNE-2": -11.811258316040039,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": -1.2544329166412354,
+        "TSNE-2": 2.9062581062316895,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": -8.788390159606934,
+        "TSNE-2": -14.113740921020508,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": 6.878861904144287,
+        "TSNE-2": 8.104244232177734,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -6.158623695373535,
+        "TSNE-2": -5.7228169441223145,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": -14.188058853149414,
+        "TSNE-2": -9.733122825622559,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": 0.10689975321292877,
+        "TSNE-2": 1.6425576210021973,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": -5.996111869812012,
+        "TSNE-2": 1.7335139513015747,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": -5.861822128295898,
+        "TSNE-2": -1.621256709098816,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": -3.661456823348999,
+        "TSNE-2": -7.747663497924805,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": -8.788390159606934,
+        "TSNE-2": -14.113740921020508,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": 6.453180313110352,
+        "TSNE-2": -7.826508522033691,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": -9.65823745727539,
+        "TSNE-2": -1.249220609664917,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 10.222050666809082,
+        "TSNE-2": 8.763544082641602,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -12.1920804977417,
+        "TSNE-2": 9.80805492401123,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": -7.726999282836914,
+        "TSNE-2": 9.158265113830566,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": -1.390844464302063,
+        "TSNE-2": -3.2075939178466797,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": -10.63170337677002,
+        "TSNE-2": -4.935290813446045,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": -4.099001407623291,
+        "TSNE-2": 0.8956363797187805,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": -2.4923508167266846,
+        "TSNE-2": -0.08007580041885376,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 12.154894828796387,
+        "TSNE-2": -5.431857585906982,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": 7.3013763427734375,
+        "TSNE-2": 3.172126054763794,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": 2.968761920928955,
+        "TSNE-2": -7.202841758728027,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": 7.066156387329102,
+        "TSNE-2": -3.9139633178710938,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": 3.1703250408172607,
+        "TSNE-2": 3.0020463466644287,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 9.332385063171387,
+        "TSNE-2": 0.5625821352005005,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -9.81512451171875,
+        "TSNE-2": 1.9332481622695923,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 10.694036483764648,
+        "TSNE-2": 1.2944600582122803,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -7.740789413452148,
+        "TSNE-2": 5.536952972412109,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 1.9328993558883667,
+        "TSNE-2": 11.452775001525879,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": -1.5637824535369873,
+        "TSNE-2": 13.323997497558594,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": 3.6695163249969482,
+        "TSNE-2": 5.57853364944458,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 4.349294185638428,
+        "TSNE-2": -14.997963905334473,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": -1.1581594944000244,
+        "TSNE-2": 11.688111305236816,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": 1.9328993558883667,
+        "TSNE-2": 11.452775001525879,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": -4.099001407623291,
+        "TSNE-2": 0.8956363797187805,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": -3.4465248584747314,
+        "TSNE-2": -4.8015241622924805,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": 3.8336315155029297,
+        "TSNE-2": -4.5191450119018555,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      },
+      {
+        "TSNE-1": -14.408763885498047,
+        "TSNE-2": 1.8076566457748413,
+        "cluster": 5,
+        "keywords": "evidence, request, retrial, held, specifically"
+      },
+      {
+        "TSNE-1": 12.10107421875,
+        "TSNE-2": -2.2369446754455566,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": -3.158825397491455,
+        "TSNE-2": -9.108115196228027,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": -2.2542264461517334,
+        "TSNE-2": 7.501191139221191,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": -5.045336723327637,
+        "TSNE-2": -4.2936248779296875,
+        "cluster": 1,
+        "keywords": "without, court, avoid, supreme, found"
+      },
+      {
+        "TSNE-1": 13.605175018310547,
+        "TSNE-2": 10.070696830749512,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": 0.6804431080818176,
+        "TSNE-2": 17.068559646606445,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": 9.635024070739746,
+        "TSNE-2": 5.448233604431152,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": 16.41148567199707,
+        "TSNE-2": -5.687378406524658,
+        "cluster": 3,
+        "keywords": "confession, ernesto, ruling, initial, aware"
+      },
+      {
+        "TSNE-1": 4.438215255737305,
+        "TSNE-2": 1.6251070499420166,
+        "cluster": 0,
+        "keywords": "right, amendment, silent, interrogation, attorney"
+      },
+      {
+        "TSNE-1": 8.643574714660645,
+        "TSNE-2": 16.25550079345703,
+        "cluster": 2,
+        "keywords": "miranda, statement, police, case, individual"
+      },
+      {
+        "TSNE-1": 10.623213768005371,
+        "TSNE-2": -11.609819412231445,
+        "cluster": 4,
+        "keywords": "later, arizona, remain, counsel, initially"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_124",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-225247 - why were ernesto mirandas rights found notviolated"
+  }
+}

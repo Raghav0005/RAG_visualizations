@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-6ae806caeb24ed23c1793b77eac76414"
+  },
+  "datasets": {
+    "data-6ae806caeb24ed23c1793b77eac76414": [
+      {
+        "TSNE-1": -3.5099310874938965,
+        "TSNE-2": 3.154754877090454,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 1.9964160919189453,
+        "TSNE-2": -4.759284019470215,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": 0.8421638607978821,
+        "TSNE-2": -11.067721366882324,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -2.6364359855651855,
+        "TSNE-2": 13.920746803283691,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": 0.8421638607978821,
+        "TSNE-2": -11.067721366882324,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -0.015694517642259598,
+        "TSNE-2": 5.160945892333984,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 5.941688060760498,
+        "TSNE-2": -6.321481227874756,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": 0.8048820495605469,
+        "TSNE-2": 0.11137189716100693,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 6.461324214935303,
+        "TSNE-2": -0.7255478501319885,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": -0.269760400056839,
+        "TSNE-2": 10.822722434997559,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": 2.410099983215332,
+        "TSNE-2": 3.840420722961426,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -11.456700325012207,
+        "TSNE-2": -2.5095651149749756,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -5.127416133880615,
+        "TSNE-2": -2.189896583557129,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -2.9292492866516113,
+        "TSNE-2": 0.04192650318145752,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -9.517374038696289,
+        "TSNE-2": 5.950831890106201,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -2.747314929962158,
+        "TSNE-2": -5.407586097717285,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": 6.69495964050293,
+        "TSNE-2": 7.394640922546387,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": 0.8048820495605469,
+        "TSNE-2": 0.11137189716100693,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -3.303054094314575,
+        "TSNE-2": -6.748960971832275,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": 4.462283611297607,
+        "TSNE-2": 9.411249160766602,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": 8.842551231384277,
+        "TSNE-2": 1.7868599891662598,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": -5.927044868469238,
+        "TSNE-2": -5.7279791831970215,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": 8.842551231384277,
+        "TSNE-2": 1.7868599891662598,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": -3.088156223297119,
+        "TSNE-2": -1.581228494644165,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -4.9596781730651855,
+        "TSNE-2": 0.06868316233158112,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -0.046707745641469955,
+        "TSNE-2": -1.0685726404190063,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -1.9767844676971436,
+        "TSNE-2": 13.927665710449219,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": 6.976947784423828,
+        "TSNE-2": -6.392155170440674,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": -9.797731399536133,
+        "TSNE-2": 6.265089511871338,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": 8.260836601257324,
+        "TSNE-2": 3.3917009830474854,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": 5.517876625061035,
+        "TSNE-2": -0.17271782457828522,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": -6.035315990447998,
+        "TSNE-2": -10.72559642791748,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -4.949373722076416,
+        "TSNE-2": -4.052042484283447,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -0.77564537525177,
+        "TSNE-2": -7.528131008148193,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -7.59584379196167,
+        "TSNE-2": 1.1973252296447754,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": 1.480309247970581,
+        "TSNE-2": -2.726553201675415,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 2.9944915771484375,
+        "TSNE-2": 11.734273910522461,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": 7.054225921630859,
+        "TSNE-2": -10.117301940917969,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": 6.034717559814453,
+        "TSNE-2": -3.69018816947937,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": -2.441387891769409,
+        "TSNE-2": 1.953845500946045,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 2.745960235595703,
+        "TSNE-2": -4.176146030426025,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": -0.6501237154006958,
+        "TSNE-2": 3.1554322242736816,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -5.31763219833374,
+        "TSNE-2": -3.4465136528015137,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": 2.88020658493042,
+        "TSNE-2": 1.176582932472229,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 0.6596382856369019,
+        "TSNE-2": -2.892739772796631,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 10.016862869262695,
+        "TSNE-2": 5.37746000289917,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": -6.79121732711792,
+        "TSNE-2": -9.647517204284668,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -2.4454314708709717,
+        "TSNE-2": 11.273635864257812,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": 2.410099983215332,
+        "TSNE-2": 3.840420722961426,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -0.1939200460910797,
+        "TSNE-2": -3.1156890392303467,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 2.3000054359436035,
+        "TSNE-2": -1.7007197141647339,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 1.1231540441513062,
+        "TSNE-2": 8.7581148147583,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": -5.325006484985352,
+        "TSNE-2": -1.0660836696624756,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -11.539837837219238,
+        "TSNE-2": -2.3913605213165283,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -2.1337404251098633,
+        "TSNE-2": -3.52521014213562,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -2.644968032836914,
+        "TSNE-2": 6.106624126434326,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": -1.5622828006744385,
+        "TSNE-2": -4.938877105712891,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -9.444828033447266,
+        "TSNE-2": -7.791593551635742,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": 1.0415802001953125,
+        "TSNE-2": 1.641080617904663,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -2.644968032836914,
+        "TSNE-2": 6.106624126434326,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": 12.052355766296387,
+        "TSNE-2": -2.0468904972076416,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": 4.888065814971924,
+        "TSNE-2": 4.385619163513184,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": 4.663270473480225,
+        "TSNE-2": 2.4531335830688477,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": -8.150535583496094,
+        "TSNE-2": -9.186948776245117,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -7.469217777252197,
+        "TSNE-2": -3.0768253803253174,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -1.0932260751724243,
+        "TSNE-2": 0.8252723217010498,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -3.7074782848358154,
+        "TSNE-2": -4.693572044372559,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": 7.279451847076416,
+        "TSNE-2": -3.4602744579315186,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": -5.935247898101807,
+        "TSNE-2": 4.024626731872559,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -0.29976698756217957,
+        "TSNE-2": 8.947668075561523,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": 2.6251275539398193,
+        "TSNE-2": -0.5261586308479309,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 6.69495964050293,
+        "TSNE-2": 7.394640922546387,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": 5.136107444763184,
+        "TSNE-2": -9.997387886047363,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": 3.8557791709899902,
+        "TSNE-2": -2.6503305435180664,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": -7.677500247955322,
+        "TSNE-2": -2.146221160888672,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": 4.114265441894531,
+        "TSNE-2": -0.3071396052837372,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 0.38355833292007446,
+        "TSNE-2": -5.3460845947265625,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": 5.136107444763184,
+        "TSNE-2": -9.997387886047363,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": 4.956357479095459,
+        "TSNE-2": 3.4203455448150635,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": -1.9091908931732178,
+        "TSNE-2": 13.06620979309082,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": -2.2562904357910156,
+        "TSNE-2": -0.578975260257721,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 10.29368782043457,
+        "TSNE-2": 5.634373188018799,
+        "cluster": 1,
+        "keywords": "party, conservative, two, major, britain"
+      },
+      {
+        "TSNE-1": 12.101839065551758,
+        "TSNE-2": -2.1773927211761475,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": 4.39176607131958,
+        "TSNE-2": -5.985652446746826,
+        "cluster": 2,
+        "keywords": "member, davos, policy, scottish, jeremy"
+      },
+      {
+        "TSNE-1": -2.441387891769409,
+        "TSNE-2": 1.953845500946045,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": -10.450791358947754,
+        "TSNE-2": 5.301677227020264,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": 0.934624195098877,
+        "TSNE-2": 6.074042797088623,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      },
+      {
+        "TSNE-1": -1.6964133977890015,
+        "TSNE-2": -11.054645538330078,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -1.8233692646026611,
+        "TSNE-2": -2.0451018810272217,
+        "cluster": 5,
+        "keywords": "economic, helpful, leader, support, back"
+      },
+      {
+        "TSNE-1": 2.719163417816162,
+        "TSNE-2": -11.027008056640625,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -6.032768726348877,
+        "TSNE-2": 3.549097776412964,
+        "cluster": 0,
+        "keywords": "business, labour, standard, condition, british"
+      },
+      {
+        "TSNE-1": -6.004315376281738,
+        "TSNE-2": -10.570542335510254,
+        "cluster": 3,
+        "keywords": "poor, labor, pay, corporate, executive"
+      },
+      {
+        "TSNE-1": -0.3084184527397156,
+        "TSNE-2": 8.817163467407227,
+        "cluster": 4,
+        "keywords": "question, great, cost, obligation, suggests"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_120",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-79129 - how the great and good of britain\u2019s boardrooms refused to back labour"
+  }
+}

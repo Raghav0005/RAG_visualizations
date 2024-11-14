@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-a801ad1155981ff91fd7c30cf1da7524"
+  },
+  "datasets": {
+    "data-a801ad1155981ff91fd7c30cf1da7524": [
+      {
+        "TSNE-1": 3.365586757659912,
+        "TSNE-2": -5.571236610412598,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": 8.818273544311523,
+        "TSNE-2": -0.8050232529640198,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": -8.330733299255371,
+        "TSNE-2": 7.614307880401611,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": 4.519632339477539,
+        "TSNE-2": 7.490396976470947,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": -8.330733299255371,
+        "TSNE-2": 7.614307880401611,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": -3.110285520553589,
+        "TSNE-2": 6.742995738983154,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": -1.9774603843688965,
+        "TSNE-2": 4.774232387542725,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": 3.391364574432373,
+        "TSNE-2": 1.4226313829421997,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": -8.78516674041748,
+        "TSNE-2": -0.8741190433502197,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": -11.055512428283691,
+        "TSNE-2": -4.532180309295654,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 7.425303936004639,
+        "TSNE-2": 4.122304439544678,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": -11.022046089172363,
+        "TSNE-2": 3.04644513130188,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 4.522368431091309,
+        "TSNE-2": -0.9213898777961731,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 4.442096710205078,
+        "TSNE-2": 6.142146110534668,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": -0.07764562964439392,
+        "TSNE-2": 11.555789947509766,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": 7.671108722686768,
+        "TSNE-2": -4.784611701965332,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": -6.800380706787109,
+        "TSNE-2": 1.7901716232299805,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 3.290191411972046,
+        "TSNE-2": 0.7195254564285278,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 3.086914300918579,
+        "TSNE-2": -3.7167487144470215,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 7.054254055023193,
+        "TSNE-2": -7.810069561004639,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": 6.063204765319824,
+        "TSNE-2": 8.884541511535645,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": 2.203751564025879,
+        "TSNE-2": -0.803276777267456,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": -0.26782047748565674,
+        "TSNE-2": 7.667486667633057,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": -0.812628448009491,
+        "TSNE-2": -7.96640682220459,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": -1.766554355621338,
+        "TSNE-2": -6.653500556945801,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": 5.224743366241455,
+        "TSNE-2": -4.585288047790527,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 2.940673351287842,
+        "TSNE-2": 6.512678146362305,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": -1.989220380783081,
+        "TSNE-2": 4.550291538238525,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": 0.26590728759765625,
+        "TSNE-2": 11.816997528076172,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": 10.355698585510254,
+        "TSNE-2": 3.3233180046081543,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": -8.000312805175781,
+        "TSNE-2": -1.1914076805114746,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": -5.837782859802246,
+        "TSNE-2": -4.04815673828125,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 5.000776767730713,
+        "TSNE-2": -0.9762448668479919,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 4.112825870513916,
+        "TSNE-2": -3.5243899822235107,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 5.032749176025391,
+        "TSNE-2": -7.148980617523193,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": 0.983128011226654,
+        "TSNE-2": 2.922588348388672,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -6.222641944885254,
+        "TSNE-2": 4.863615036010742,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": -4.473018169403076,
+        "TSNE-2": 1.0600483417510986,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": 6.555939197540283,
+        "TSNE-2": -0.9362135529518127,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 6.3508148193359375,
+        "TSNE-2": 0.9514955282211304,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 3.8597826957702637,
+        "TSNE-2": 2.1557202339172363,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": 1.913499116897583,
+        "TSNE-2": -2.4086077213287354,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 4.862221717834473,
+        "TSNE-2": -2.1358020305633545,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 6.305081844329834,
+        "TSNE-2": 6.985932350158691,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": -0.1509682983160019,
+        "TSNE-2": 2.793128490447998,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -5.3324174880981445,
+        "TSNE-2": -7.728384494781494,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 7.0056538581848145,
+        "TSNE-2": -9.86229419708252,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": -10.919313430786133,
+        "TSNE-2": -3.619600534439087,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 7.425303936004639,
+        "TSNE-2": 4.122304439544678,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": 0.6712864637374878,
+        "TSNE-2": 1.3472986221313477,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -1.73777174949646,
+        "TSNE-2": 1.023680329322815,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": 3.009495258331299,
+        "TSNE-2": 10.013457298278809,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": 3.778700113296509,
+        "TSNE-2": -1.3162269592285156,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": -5.3324174880981445,
+        "TSNE-2": -7.728384494781494,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 7.8709821701049805,
+        "TSNE-2": -3.1931681632995605,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": 2.779878854751587,
+        "TSNE-2": 8.279818534851074,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": 5.857987403869629,
+        "TSNE-2": -3.317100763320923,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": -1.813722014427185,
+        "TSNE-2": 11.130727767944336,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": -1.2681549787521362,
+        "TSNE-2": -1.3748290538787842,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": 3.3884236812591553,
+        "TSNE-2": 7.880838871002197,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": -3.3881032466888428,
+        "TSNE-2": -1.4950931072235107,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -2.2703332901000977,
+        "TSNE-2": 0.5744277238845825,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": 3.3462886810302734,
+        "TSNE-2": -10.392698287963867,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": -5.538415908813477,
+        "TSNE-2": -2.5070314407348633,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": -2.3837647438049316,
+        "TSNE-2": -4.651201248168945,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": 1.709855318069458,
+        "TSNE-2": -6.608169078826904,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": 0.29462987184524536,
+        "TSNE-2": 2.4202585220336914,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": 0.3420359790325165,
+        "TSNE-2": -5.531940937042236,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": 0.4740392863750458,
+        "TSNE-2": -2.071270227432251,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -1.8049317598342896,
+        "TSNE-2": 8.145237922668457,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": 1.255012035369873,
+        "TSNE-2": -2.5195608139038086,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -6.8122453689575195,
+        "TSNE-2": 1.6703453063964844,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": -2.994011163711548,
+        "TSNE-2": 2.338050603866577,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -1.0888092517852783,
+        "TSNE-2": -4.049779415130615,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -6.390274524688721,
+        "TSNE-2": 4.792376518249512,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": -3.177828788757324,
+        "TSNE-2": -4.444660186767578,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -1.8447027206420898,
+        "TSNE-2": -2.7311477661132812,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -2.994011163711548,
+        "TSNE-2": 2.338050603866577,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": 0.26884427666664124,
+        "TSNE-2": -0.674288272857666,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": -10.463638305664062,
+        "TSNE-2": -4.569408893585205,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 5.248893737792969,
+        "TSNE-2": 3.6513493061065674,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": -11.102608680725098,
+        "TSNE-2": 3.026423215866089,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": -3.3881032466888428,
+        "TSNE-2": -1.4950931072235107,
+        "cluster": 3,
+        "keywords": "increase, demand, company, american, money"
+      },
+      {
+        "TSNE-1": 3.028132677078247,
+        "TSNE-2": 3.7842180728912354,
+        "cluster": 4,
+        "keywords": "social, may, wealth, industry, sector"
+      },
+      {
+        "TSNE-1": 6.3508148193359375,
+        "TSNE-2": 0.9514955282211304,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": -3.626154899597168,
+        "TSNE-2": 11.14838695526123,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      },
+      {
+        "TSNE-1": -8.576704025268555,
+        "TSNE-2": -8.711124420166016,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 0.5299432277679443,
+        "TSNE-2": -10.191486358642578,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": 6.906672954559326,
+        "TSNE-2": -3.3929085731506348,
+        "cluster": 5,
+        "keywords": "domestic, often, lower, contributes, executive"
+      },
+      {
+        "TSNE-1": -9.804595947265625,
+        "TSNE-2": -0.5200789570808411,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": 1.4805065393447876,
+        "TSNE-2": -5.313083171844482,
+        "cluster": 0,
+        "keywords": "income, job, wage, worker, country"
+      },
+      {
+        "TSNE-1": -5.837782859802246,
+        "TSNE-2": -4.04815673828125,
+        "cluster": 2,
+        "keywords": "technology, contribute, also, number, labor"
+      },
+      {
+        "TSNE-1": -1.4946866035461426,
+        "TSNE-2": 7.770583629608154,
+        "cluster": 1,
+        "keywords": "inequality, bottom, top, lead, document"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_97",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-34582 - how can outsourcing contribute to income inequality?"
+  }
+}

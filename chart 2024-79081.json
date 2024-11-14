@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-64609e0c53c4ef1a5a0805d44074d50e"
+  },
+  "datasets": {
+    "data-64609e0c53c4ef1a5a0805d44074d50e": [
+      {
+        "TSNE-1": -12.243504524230957,
+        "TSNE-2": 7.243899345397949,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": -10.682171821594238,
+        "TSNE-2": 10.614141464233398,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": 4.9418864250183105,
+        "TSNE-2": -10.274986267089844,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": 11.349437713623047,
+        "TSNE-2": -10.670750617980957,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": 4.9418864250183105,
+        "TSNE-2": -10.274986267089844,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": 4.826682090759277,
+        "TSNE-2": -34.087928771972656,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": 2.061662197113037,
+        "TSNE-2": -8.182746887207031,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": -6.560542583465576,
+        "TSNE-2": -0.6588922739028931,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 10.044563293457031,
+        "TSNE-2": 14.990562438964844,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": 0.8568399548530579,
+        "TSNE-2": 2.35610294342041,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": -1.708699107170105,
+        "TSNE-2": -8.235342025756836,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": 2.4222512245178223,
+        "TSNE-2": 14.930671691894531,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": -9.072868347167969,
+        "TSNE-2": -4.813254356384277,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": -11.542482376098633,
+        "TSNE-2": 0.38302838802337646,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": 6.097137928009033,
+        "TSNE-2": 6.995977878570557,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": -7.200418949127197,
+        "TSNE-2": -12.203683853149414,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": 1.1147606372833252,
+        "TSNE-2": 21.408145904541016,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": -6.560542583465576,
+        "TSNE-2": -0.6588922739028931,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": -14.80455493927002,
+        "TSNE-2": 5.09927225112915,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": 13.940134048461914,
+        "TSNE-2": 8.438861846923828,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 16.569875717163086,
+        "TSNE-2": -5.224020004272461,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 10.092041015625,
+        "TSNE-2": -1.5064682960510254,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 7.210623264312744,
+        "TSNE-2": 10.073129653930664,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": 4.095820903778076,
+        "TSNE-2": -2.033456325531006,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": -8.720218658447266,
+        "TSNE-2": 6.212411403656006,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": -13.461019515991211,
+        "TSNE-2": -1.9724928140640259,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": 3.755995988845825,
+        "TSNE-2": 8.644796371459961,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": 4.449872016906738,
+        "TSNE-2": -7.49332332611084,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": 5.222951412200928,
+        "TSNE-2": 9.580671310424805,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": 8.906830787658691,
+        "TSNE-2": 2.4904301166534424,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 11.56529426574707,
+        "TSNE-2": 14.971982955932617,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": 4.965330600738525,
+        "TSNE-2": 2.622833728790283,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": -9.096266746520996,
+        "TSNE-2": -1.1927796602249146,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": -1.6311818361282349,
+        "TSNE-2": 5.963052272796631,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": -17.561477661132812,
+        "TSNE-2": -11.2859468460083,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": -6.918299198150635,
+        "TSNE-2": 3.128232002258301,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": -4.078675270080566,
+        "TSNE-2": 2.4692039489746094,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 7.461884021759033,
+        "TSNE-2": 14.061548233032227,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": -5.828761100769043,
+        "TSNE-2": -6.20254373550415,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": -6.48405122756958,
+        "TSNE-2": 11.795886039733887,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 6.51686954498291,
+        "TSNE-2": -4.156861305236816,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 13.85912799835205,
+        "TSNE-2": 2.159815788269043,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": -5.755819797515869,
+        "TSNE-2": -3.3597443103790283,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 5.61544132232666,
+        "TSNE-2": -18.818525314331055,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": -6.671769142150879,
+        "TSNE-2": -8.698576927185059,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": 0.25356775522232056,
+        "TSNE-2": -15.675313949584961,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": 18.868444442749023,
+        "TSNE-2": 7.050349235534668,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": -12.668363571166992,
+        "TSNE-2": -11.247026443481445,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": -1.708699107170105,
+        "TSNE-2": -8.235342025756836,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": -3.4335834980010986,
+        "TSNE-2": -1.9126051664352417,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 13.48313045501709,
+        "TSNE-2": -4.194382667541504,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 0.8865070343017578,
+        "TSNE-2": 3.889274835586548,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": -7.556812763214111,
+        "TSNE-2": -3.6012234687805176,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": 0.25356775522232056,
+        "TSNE-2": -15.675313949584961,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": -18.437694549560547,
+        "TSNE-2": 2.2152276039123535,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": 10.196130752563477,
+        "TSNE-2": 5.996938705444336,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": -16.103919982910156,
+        "TSNE-2": 9.397662162780762,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": -4.970779895782471,
+        "TSNE-2": 7.505340576171875,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": -9.592082023620605,
+        "TSNE-2": 3.0024797916412354,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": 20.939990997314453,
+        "TSNE-2": -2.176438331604004,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 17.154254913330078,
+        "TSNE-2": 4.440911293029785,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 15.033838272094727,
+        "TSNE-2": -1.9657070636749268,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 12.369335174560547,
+        "TSNE-2": -5.68074893951416,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 4.965330600738525,
+        "TSNE-2": 2.622833728790283,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": -2.7363440990448,
+        "TSNE-2": -4.247938632965088,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": -12.29295539855957,
+        "TSNE-2": -5.9648003578186035,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": 9.245261192321777,
+        "TSNE-2": -9.248223304748535,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": -10.266016006469727,
+        "TSNE-2": -8.098305702209473,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": -10.722173690795898,
+        "TSNE-2": -14.576761245727539,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": 11.694387435913086,
+        "TSNE-2": 5.03925085067749,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 12.71354866027832,
+        "TSNE-2": 0.5820479989051819,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 1.1147606372833252,
+        "TSNE-2": 21.408145904541016,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": 8.121007919311523,
+        "TSNE-2": -15.565022468566895,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": -16.372419357299805,
+        "TSNE-2": -5.7971649169921875,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": -2.349431037902832,
+        "TSNE-2": 0.910635769367218,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": -3.2650275230407715,
+        "TSNE-2": -11.113100051879883,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": -13.82807731628418,
+        "TSNE-2": 1.8871933221817017,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": 8.121007919311523,
+        "TSNE-2": -15.565022468566895,
+        "cluster": 4,
+        "keywords": "significantly, older, many, factor, nan"
+      },
+      {
+        "TSNE-1": 16.49044418334961,
+        "TSNE-2": -1.3123618364334106,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": -4.970779895782471,
+        "TSNE-2": 7.505340576171875,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 1.343233346939087,
+        "TSNE-2": -1.7843314409255981,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 2.4222512245178223,
+        "TSNE-2": 14.930671691894531,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": 17.154254913330078,
+        "TSNE-2": 4.440911293029785,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": -16.00690460205078,
+        "TSNE-2": -1.5958442687988281,
+        "cluster": 5,
+        "keywords": "often, maturity, like, dynamic, experience"
+      },
+      {
+        "TSNE-1": -6.48405122756958,
+        "TSNE-2": 11.795886039733887,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 0.8967936038970947,
+        "TSNE-2": -4.656353950500488,
+        "cluster": 3,
+        "keywords": "younger, partner, harry, public, also"
+      },
+      {
+        "TSNE-1": 13.634001731872559,
+        "TSNE-2": 19.00096893310547,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": -1.0933148860931396,
+        "TSNE-2": 16.212696075439453,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": -6.455885887145996,
+        "TSNE-2": -14.846851348876953,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": 13.634001731872559,
+        "TSNE-2": 19.00096893310547,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      },
+      {
+        "TSNE-1": -10.804370880126953,
+        "TSNE-2": -3.0008742809295654,
+        "cluster": 0,
+        "keywords": "age, relationship, swift, difference, significant"
+      },
+      {
+        "TSNE-1": 4.965330600738525,
+        "TSNE-2": 2.622833728790283,
+        "cluster": 1,
+        "keywords": "seem, taylor, various, affect, year"
+      },
+      {
+        "TSNE-1": 0.7691314816474915,
+        "TSNE-2": 9.417305946350098,
+        "cluster": 2,
+        "keywords": "first, joe, explicitly, romance, perfectly"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_8",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-79081 - how taylor swift's age affects her relationships"
+  }
+}

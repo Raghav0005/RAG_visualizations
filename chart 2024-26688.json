@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-bee7992df83f0e8a1959204e5b3d88b7"
+  },
+  "datasets": {
+    "data-bee7992df83f0e8a1959204e5b3d88b7": [
+      {
+        "TSNE-1": -1.565160870552063,
+        "TSNE-2": 2.5039174556732178,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 7.853379249572754,
+        "TSNE-2": -0.12237642705440521,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": -3.485060691833496,
+        "TSNE-2": -4.080304145812988,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 8.30717945098877,
+        "TSNE-2": -5.270387649536133,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": -3.485060691833496,
+        "TSNE-2": -4.080304145812988,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 20.133623123168945,
+        "TSNE-2": 18.05971908569336,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": -0.7598637938499451,
+        "TSNE-2": -12.149779319763184,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": 0.39826908707618713,
+        "TSNE-2": -1.2141127586364746,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 3.733797073364258,
+        "TSNE-2": 9.548259735107422,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": 6.0446367263793945,
+        "TSNE-2": -4.24551248550415,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": 7.3955302238464355,
+        "TSNE-2": 7.892481327056885,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": -12.325703620910645,
+        "TSNE-2": 4.486617088317871,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 0.5398159027099609,
+        "TSNE-2": -6.407698154449463,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": -8.273365020751953,
+        "TSNE-2": -8.646931648254395,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 3.57889723777771,
+        "TSNE-2": 12.714404106140137,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": 5.241490364074707,
+        "TSNE-2": 0.672822117805481,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 13.809679985046387,
+        "TSNE-2": -5.317547798156738,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": 0.39826908707618713,
+        "TSNE-2": -1.2141127586364746,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 2.874866247177124,
+        "TSNE-2": 1.5979392528533936,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": -5.3589582443237305,
+        "TSNE-2": 5.89475154876709,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -2.7878284454345703,
+        "TSNE-2": -10.084634780883789,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": -7.4212188720703125,
+        "TSNE-2": -4.998478889465332,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 9.532512664794922,
+        "TSNE-2": -4.089454174041748,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": -10.408353805541992,
+        "TSNE-2": -9.643935203552246,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": -1.230069637298584,
+        "TSNE-2": 4.223318099975586,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 2.6553122997283936,
+        "TSNE-2": -3.2714970111846924,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 7.668702602386475,
+        "TSNE-2": -6.4257354736328125,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": -8.989106178283691,
+        "TSNE-2": -0.4162457585334778,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 5.786365032196045,
+        "TSNE-2": -9.609598159790039,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": -9.077493667602539,
+        "TSNE-2": 5.296046257019043,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 3.847080707550049,
+        "TSNE-2": 8.701727867126465,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": -4.388909339904785,
+        "TSNE-2": 3.1871418952941895,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 1.9442884922027588,
+        "TSNE-2": -4.33471155166626,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": -1.0041567087173462,
+        "TSNE-2": 1.0451868772506714,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": -8.126556396484375,
+        "TSNE-2": 2.6092073917388916,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -2.3649566173553467,
+        "TSNE-2": 10.71320629119873,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -3.4895198345184326,
+        "TSNE-2": 7.9513654708862305,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 1.8130865097045898,
+        "TSNE-2": -11.310417175292969,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": 1.5712180137634277,
+        "TSNE-2": 7.0443878173828125,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": 1.457859754562378,
+        "TSNE-2": 5.089217185974121,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 4.078964710235596,
+        "TSNE-2": 5.698378086090088,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": -0.43938779830932617,
+        "TSNE-2": 3.825181245803833,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 2.135903835296631,
+        "TSNE-2": -5.7796149253845215,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": -1.408233642578125,
+        "TSNE-2": -4.174631118774414,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": -3.64625883102417,
+        "TSNE-2": 10.259326934814453,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -8.935651779174805,
+        "TSNE-2": 9.7760591506958,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -3.7412357330322266,
+        "TSNE-2": 5.3589043617248535,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 6.623672962188721,
+        "TSNE-2": -3.7568602561950684,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": 7.3955302238464355,
+        "TSNE-2": 7.892481327056885,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": -1.5164265632629395,
+        "TSNE-2": 7.218716144561768,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -11.826314926147461,
+        "TSNE-2": -3.301243543624878,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 7.391617298126221,
+        "TSNE-2": -2.413802146911621,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": 0.37963977456092834,
+        "TSNE-2": -5.212287902832031,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": -8.935651779174805,
+        "TSNE-2": 9.7760591506958,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 0.6560217142105103,
+        "TSNE-2": 1.0227457284927368,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 8.84311294555664,
+        "TSNE-2": -10.718356132507324,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": 2.686452627182007,
+        "TSNE-2": -0.8595456480979919,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 5.209802150726318,
+        "TSNE-2": -6.980323791503906,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": 0.3373994529247284,
+        "TSNE-2": 2.616029977798462,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": -4.244966506958008,
+        "TSNE-2": -6.930849075317383,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 3.2621383666992188,
+        "TSNE-2": -13.086822509765625,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": 13.224265098571777,
+        "TSNE-2": 1.8865472078323364,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": 7.991208553314209,
+        "TSNE-2": -10.961163520812988,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": -4.388909339904785,
+        "TSNE-2": 3.1871418952941895,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -1.4384868144989014,
+        "TSNE-2": 11.37211799621582,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -1.3789641857147217,
+        "TSNE-2": -0.8060858249664307,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": -3.4817311763763428,
+        "TSNE-2": -1.0904395580291748,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 0.6595993638038635,
+        "TSNE-2": 9.004110336303711,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": 4.0941338539123535,
+        "TSNE-2": 2.8451573848724365,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": -4.975405693054199,
+        "TSNE-2": -6.048367500305176,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 5.182229995727539,
+        "TSNE-2": 3.5399765968322754,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 13.809679985046387,
+        "TSNE-2": -5.317547798156738,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": -6.553598403930664,
+        "TSNE-2": -0.2625584006309509,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 4.86896276473999,
+        "TSNE-2": -1.5495525598526,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": -1.2871707677841187,
+        "TSNE-2": 5.999098300933838,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 11.569825172424316,
+        "TSNE-2": 6.646589279174805,
+        "cluster": 2,
+        "keywords": "nan, family, wealth, among, racism"
+      },
+      {
+        "TSNE-1": -4.992719650268555,
+        "TSNE-2": -2.6523704528808594,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": -6.553598403930664,
+        "TSNE-2": -0.2625584006309509,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": -11.198823928833008,
+        "TSNE-2": -3.577566146850586,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": 9.09898853302002,
+        "TSNE-2": 1.716722846031189,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": -9.481815338134766,
+        "TSNE-2": -9.282983779907227,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      },
+      {
+        "TSNE-1": -12.325703620910645,
+        "TSNE-2": 4.486617088317871,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 3.2621383666992188,
+        "TSNE-2": -13.086822509765625,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": 1.9032337665557861,
+        "TSNE-2": 3.3506858348846436,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 1.457859754562378,
+        "TSNE-2": 5.089217185974121,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 4.879900932312012,
+        "TSNE-2": -8.177567481994629,
+        "cluster": 3,
+        "keywords": "may, marry, tend, american, likely"
+      },
+      {
+        "TSNE-1": -10.810405731201172,
+        "TSNE-2": 5.478479385375977,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": 9.127799987792969,
+        "TSNE-2": 2.9795491695404053,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": 2.000211238861084,
+        "TSNE-2": 0.6191567778587341,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": 12.483724594116211,
+        "TSNE-2": 2.4545345306396484,
+        "cluster": 5,
+        "keywords": "text, suggests, lower, state, head"
+      },
+      {
+        "TSNE-1": 0.6090757250785828,
+        "TSNE-2": -2.832507371902466,
+        "cluster": 1,
+        "keywords": "economic, white, stability, financial, often"
+      },
+      {
+        "TSNE-1": -4.388909339904785,
+        "TSNE-2": 3.1871418952941895,
+        "cluster": 0,
+        "keywords": "black, marriage, woman, men, income"
+      },
+      {
+        "TSNE-1": -6.506700038909912,
+        "TSNE-2": -3.0256741046905518,
+        "cluster": 4,
+        "keywords": "married, least, passage, factor, important"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_34",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-26688 - does income factor into black women marrying white men"
+  }
+}

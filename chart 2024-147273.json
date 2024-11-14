@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-ab4505aae1a34d183cdda2148a06fd53"
+  },
+  "datasets": {
+    "data-ab4505aae1a34d183cdda2148a06fd53": [
+      {
+        "TSNE-1": -2.606649160385132,
+        "TSNE-2": 5.651399612426758,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": -3.3897759914398193,
+        "TSNE-2": 1.213684320449829,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": -1.4687612056732178,
+        "TSNE-2": -10.638858795166016,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": 2.8916234970092773,
+        "TSNE-2": -4.6708784103393555,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -1.4687612056732178,
+        "TSNE-2": -10.638858795166016,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": 11.258208274841309,
+        "TSNE-2": 0.9774952530860901,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -4.271714687347412,
+        "TSNE-2": 3.888619899749756,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": -4.6379499435424805,
+        "TSNE-2": -8.911234855651855,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": 10.984245300292969,
+        "TSNE-2": -6.631923675537109,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -4.391510963439941,
+        "TSNE-2": -2.8069937229156494,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": 1.501236081123352,
+        "TSNE-2": -15.36663818359375,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": 1.2389599084854126,
+        "TSNE-2": 7.235620975494385,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 7.801802635192871,
+        "TSNE-2": 2.7443923950195312,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": 7.57990026473999,
+        "TSNE-2": -7.65428352355957,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -7.295350551605225,
+        "TSNE-2": 7.666841983795166,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": 8.640366554260254,
+        "TSNE-2": -11.413344383239746,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -4.271714687347412,
+        "TSNE-2": 3.888619899749756,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": -2.018902540206909,
+        "TSNE-2": 12.202740669250488,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": -4.864348411560059,
+        "TSNE-2": 12.357306480407715,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": -12.155268669128418,
+        "TSNE-2": 1.1107655763626099,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": 0.7751676440238953,
+        "TSNE-2": 4.70224142074585,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -11.14510726928711,
+        "TSNE-2": 4.156187534332275,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": -4.476105690002441,
+        "TSNE-2": 9.771102905273438,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": -7.388260364532471,
+        "TSNE-2": 2.730064630508423,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": -5.814072132110596,
+        "TSNE-2": 4.603294372558594,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": 0.7714718580245972,
+        "TSNE-2": -3.096754550933838,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": 11.757701873779297,
+        "TSNE-2": -0.29222869873046875,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": 9.824745178222656,
+        "TSNE-2": -6.462233543395996,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -6.736143589019775,
+        "TSNE-2": -13.26050090789795,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": -4.3106184005737305,
+        "TSNE-2": -8.38129997253418,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": 1.2325096130371094,
+        "TSNE-2": 12.58729362487793,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 0.06832435727119446,
+        "TSNE-2": 6.7807416915893555,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": -5.382540702819824,
+        "TSNE-2": 6.487820148468018,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": -6.277158737182617,
+        "TSNE-2": -6.5399346351623535,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": 2.252279043197632,
+        "TSNE-2": 0.9731952548027039,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": 2.6500613689422607,
+        "TSNE-2": 4.3892059326171875,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -7.7135701179504395,
+        "TSNE-2": -0.7019858956336975,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": -0.8323039412498474,
+        "TSNE-2": 5.060995101928711,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": -0.49153876304626465,
+        "TSNE-2": 2.6160755157470703,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -3.2449724674224854,
+        "TSNE-2": -0.03317732736468315,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": 3.307441234588623,
+        "TSNE-2": -2.0288636684417725,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": 2.406615734100342,
+        "TSNE-2": 7.096647262573242,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": -2.0171446800231934,
+        "TSNE-2": -5.627624988555908,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": 3.343364953994751,
+        "TSNE-2": 3.439358711242676,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -4.451091766357422,
+        "TSNE-2": -13.957625389099121,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": 3.234945774078369,
+        "TSNE-2": 10.651887893676758,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 9.346176147460938,
+        "TSNE-2": -3.4796245098114014,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -4.391510963439941,
+        "TSNE-2": -2.8069937229156494,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": 2.2074201107025146,
+        "TSNE-2": 2.028843879699707,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -2.5627670288085938,
+        "TSNE-2": -3.2354815006256104,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": 3.567580223083496,
+        "TSNE-2": -8.854146003723145,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -0.7463617324829102,
+        "TSNE-2": 7.807855129241943,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": -4.451091766357422,
+        "TSNE-2": -13.957625389099121,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": -2.3624355792999268,
+        "TSNE-2": 6.975580215454102,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": -5.61273717880249,
+        "TSNE-2": 0.8173099160194397,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": -8.472615242004395,
+        "TSNE-2": 6.592745304107666,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": 9.807843208312988,
+        "TSNE-2": -4.875919342041016,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": 6.850061416625977,
+        "TSNE-2": 6.2818603515625,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -11.479214668273926,
+        "TSNE-2": 1.926171898841858,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": 4.1834869384765625,
+        "TSNE-2": -0.83298259973526,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": 7.11272668838501,
+        "TSNE-2": 8.723548889160156,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 6.646985054016113,
+        "TSNE-2": -3.6038148403167725,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": 3.5536274909973145,
+        "TSNE-2": 9.732037544250488,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 5.1707024574279785,
+        "TSNE-2": 4.471689224243164,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": 0.3344195783138275,
+        "TSNE-2": 9.155294418334961,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 4.4401679039001465,
+        "TSNE-2": 3.6434943675994873,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -1.8424744606018066,
+        "TSNE-2": 9.25623893737793,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 6.005300045013428,
+        "TSNE-2": 13.136930465698242,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 1.1832321882247925,
+        "TSNE-2": -3.6427834033966064,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": 6.615413188934326,
+        "TSNE-2": 12.706938743591309,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 8.640366554260254,
+        "TSNE-2": -11.413344383239746,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": 0.03428403288125992,
+        "TSNE-2": -7.120617866516113,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": -7.452713966369629,
+        "TSNE-2": -4.205061912536621,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": 4.571454048156738,
+        "TSNE-2": 2.1842968463897705,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -1.4213054180145264,
+        "TSNE-2": -1.1007472276687622,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": -8.966660499572754,
+        "TSNE-2": -3.2828519344329834,
+        "cluster": 4,
+        "keywords": "south, colonization, ethnic, group, land"
+      },
+      {
+        "TSNE-1": 0.03428403288125992,
+        "TSNE-2": -7.120617866516113,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": 6.017530918121338,
+        "TSNE-2": -3.847972869873047,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": 3.1333045959472656,
+        "TSNE-2": -8.254881858825684,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": -4.3831000328063965,
+        "TSNE-2": 7.942621231079102,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": 1.501236081123352,
+        "TSNE-2": -15.36663818359375,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": 4.727334976196289,
+        "TSNE-2": -1.0622528791427612,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -0.5303579568862915,
+        "TSNE-2": 0.1791848987340927,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -0.49153876304626465,
+        "TSNE-2": 2.6160755157470703,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": 6.318511009216309,
+        "TSNE-2": -7.379344463348389,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      },
+      {
+        "TSNE-1": 3.7739250659942627,
+        "TSNE-2": -11.712907791137695,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": -8.057149887084961,
+        "TSNE-2": -9.376248359680176,
+        "cluster": 1,
+        "keywords": "eastern, french, british, last, imperial"
+      },
+      {
+        "TSNE-1": -8.317468643188477,
+        "TSNE-2": 9.763988494873047,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": 6.788450241088867,
+        "TSNE-2": 0.3943439722061157,
+        "cluster": 0,
+        "keywords": "european, african, africa, imperialism, power"
+      },
+      {
+        "TSNE-1": -2.5241830348968506,
+        "TSNE-2": 3.544010639190674,
+        "cluster": 5,
+        "keywords": "like, economic, unlike, social, exploitation"
+      },
+      {
+        "TSNE-1": 1.2325096130371094,
+        "TSNE-2": 12.58729362487793,
+        "cluster": 3,
+        "keywords": "cultural, political, often, among, unique"
+      },
+      {
+        "TSNE-1": 3.0681190490722656,
+        "TSNE-2": -5.845381736755371,
+        "cluster": 2,
+        "keywords": "different, fact, due, continent, story"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_174",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-147273 - what made the story of imperialism in africa different\u2014what were its unique experiences?"
+  }
+}

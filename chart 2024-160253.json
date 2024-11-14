@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-aa33bf413c0955f3f5820055d9cdaa37"
+  },
+  "datasets": {
+    "data-aa33bf413c0955f3f5820055d9cdaa37": [
+      {
+        "TSNE-1": 2.569291353225708,
+        "TSNE-2": 4.383876323699951,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": 11.06795597076416,
+        "TSNE-2": 5.645412445068359,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -7.42477560043335,
+        "TSNE-2": -17.06965446472168,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -8.863835334777832,
+        "TSNE-2": 4.670139789581299,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": -7.42477560043335,
+        "TSNE-2": -17.06965446472168,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -3.3616232872009277,
+        "TSNE-2": -15.738439559936523,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": 0.4450228214263916,
+        "TSNE-2": 6.864378452301025,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": 3.2235805988311768,
+        "TSNE-2": 8.788753509521484,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": 2.962014675140381,
+        "TSNE-2": -20.30396842956543,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": 7.200663089752197,
+        "TSNE-2": -12.005316734313965,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": 12.34499740600586,
+        "TSNE-2": 1.1016420125961304,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -14.791040420532227,
+        "TSNE-2": 7.258410453796387,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": -3.0182700157165527,
+        "TSNE-2": 2.658726215362549,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -6.948170185089111,
+        "TSNE-2": -7.376168727874756,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": 9.376749038696289,
+        "TSNE-2": -11.684891700744629,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": 2.416130304336548,
+        "TSNE-2": -3.021693706512451,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -14.017715454101562,
+        "TSNE-2": -9.807032585144043,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": 3.2235805988311768,
+        "TSNE-2": 8.788753509521484,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -7.529254913330078,
+        "TSNE-2": 0.5133452415466309,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": -2.896892547607422,
+        "TSNE-2": 8.58355712890625,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 8.426219940185547,
+        "TSNE-2": -8.655817985534668,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": 0.4657059609889984,
+        "TSNE-2": 12.013392448425293,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 4.454263687133789,
+        "TSNE-2": -0.15358231961727142,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -8.744282722473145,
+        "TSNE-2": -4.930830478668213,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": -1.0369560718536377,
+        "TSNE-2": 0.4943059980869293,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -1.3088805675506592,
+        "TSNE-2": -1.3681672811508179,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": 15.618158340454102,
+        "TSNE-2": -6.464879035949707,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": -2.5180671215057373,
+        "TSNE-2": -11.704442024230957,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": 6.172158718109131,
+        "TSNE-2": -11.110330581665039,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": -9.873617172241211,
+        "TSNE-2": 16.547163009643555,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 11.938551902770996,
+        "TSNE-2": 10.550411224365234,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -1.091533899307251,
+        "TSNE-2": -7.932826995849609,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -1.4813411235809326,
+        "TSNE-2": 3.444671392440796,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -4.782366752624512,
+        "TSNE-2": 6.56196403503418,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": -10.41473388671875,
+        "TSNE-2": -2.4517714977264404,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": 7.00478982925415,
+        "TSNE-2": -5.201714515686035,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": 0.06752282381057739,
+        "TSNE-2": -13.972023010253906,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -0.6851796507835388,
+        "TSNE-2": -3.1982920169830322,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": 3.2821948528289795,
+        "TSNE-2": 14.9630708694458,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": 1.950674295425415,
+        "TSNE-2": 1.4208345413208008,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -14.082921981811523,
+        "TSNE-2": -2.889185667037964,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": 8.078811645507812,
+        "TSNE-2": 8.700887680053711,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -2.0502426624298096,
+        "TSNE-2": 5.296285152435303,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -4.353244304656982,
+        "TSNE-2": -8.616515159606934,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": 6.709463596343994,
+        "TSNE-2": -3.34175181388855,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": -13.735902786254883,
+        "TSNE-2": 11.823472023010254,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 0.6731367111206055,
+        "TSNE-2": -5.786208629608154,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -14.156570434570312,
+        "TSNE-2": 1.895395040512085,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": 12.34499740600586,
+        "TSNE-2": 1.1016420125961304,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": 7.166988849639893,
+        "TSNE-2": -1.9516875743865967,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": 6.533154487609863,
+        "TSNE-2": 3.031282424926758,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": 4.130052089691162,
+        "TSNE-2": -6.978473663330078,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": -2.9498629570007324,
+        "TSNE-2": 0.370432585477829,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -14.845108032226562,
+        "TSNE-2": 8.570507049560547,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": -4.739157676696777,
+        "TSNE-2": 0.014089584350585938,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -9.242829322814941,
+        "TSNE-2": 7.2728376388549805,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 15.334806442260742,
+        "TSNE-2": 5.418704032897949,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": 5.083489894866943,
+        "TSNE-2": -15.602993965148926,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": 0.35140594840049744,
+        "TSNE-2": 8.747467041015625,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -7.130416393280029,
+        "TSNE-2": 5.280494689941406,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 10.951963424682617,
+        "TSNE-2": -5.171102046966553,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": 7.019571781158447,
+        "TSNE-2": 1.5265781879425049,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -18.1844425201416,
+        "TSNE-2": 1.8558590412139893,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": -1.091533899307251,
+        "TSNE-2": -7.932826995849609,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -3.4716694355010986,
+        "TSNE-2": -4.091924667358398,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": 3.950831174850464,
+        "TSNE-2": 3.8888068199157715,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": 0.6251357793807983,
+        "TSNE-2": -15.38809585571289,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -6.260254859924316,
+        "TSNE-2": 9.610962867736816,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 6.131041526794434,
+        "TSNE-2": 8.340136528015137,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -5.466343402862549,
+        "TSNE-2": 3.5713114738464355,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": 7.055955410003662,
+        "TSNE-2": 6.8875603675842285,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -14.017715454101562,
+        "TSNE-2": -9.807032585144043,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": 1.966179609298706,
+        "TSNE-2": -10.587501525878906,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": 3.4533462524414062,
+        "TSNE-2": 11.521584510803223,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -7.633172988891602,
+        "TSNE-2": 13.222193717956543,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": -10.452630996704102,
+        "TSNE-2": 0.9663923978805542,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": 6.340494632720947,
+        "TSNE-2": 11.922602653503418,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": 1.966179609298706,
+        "TSNE-2": -10.587501525878906,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": 8.504481315612793,
+        "TSNE-2": 2.8724424839019775,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": -8.878140449523926,
+        "TSNE-2": -11.465312957763672,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -5.689711570739746,
+        "TSNE-2": -4.1413984298706055,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": -12.5429105758667,
+        "TSNE-2": 10.32271671295166,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 10.951963424682617,
+        "TSNE-2": -5.171102046966553,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": -2.8925302028656006,
+        "TSNE-2": 12.256977081298828,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 1.950674295425415,
+        "TSNE-2": 1.4208345413208008,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -7.016621112823486,
+        "TSNE-2": -10.574204444885254,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": -2.3236026763916016,
+        "TSNE-2": 16.289613723754883,
+        "cluster": 3,
+        "keywords": "process, nation, country, like, united"
+      },
+      {
+        "TSNE-1": 18.215682983398438,
+        "TSNE-2": -4.986676216125488,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      },
+      {
+        "TSNE-1": -5.955402851104736,
+        "TSNE-2": -1.7656065225601196,
+        "cluster": 0,
+        "keywords": "african, many, movement, unity, among"
+      },
+      {
+        "TSNE-1": 7.908023357391357,
+        "TSNE-2": 15.339841842651367,
+        "cluster": 1,
+        "keywords": "political, liberation, congress, independent, colonial"
+      },
+      {
+        "TSNE-1": 0.6488391160964966,
+        "TSNE-2": 3.744485855102539,
+        "cluster": 5,
+        "keywords": "independence, people, manchester, struggle, first"
+      },
+      {
+        "TSNE-1": -1.091533899307251,
+        "TSNE-2": -7.932826995849609,
+        "cluster": 4,
+        "keywords": "played, promote, solidarity, crucial, africa"
+      },
+      {
+        "TSNE-1": 15.301833152770996,
+        "TSNE-2": -4.1020894050598145,
+        "cluster": 2,
+        "keywords": "colonialism, text, decolonization, fight, role"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_44",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-160253 - what was the role of pan-africanism in the decolon"
+  }
+}

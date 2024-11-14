@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-b465ae6970ecdec295e6eeae5e9cd800"
+  },
+  "datasets": {
+    "data-b465ae6970ecdec295e6eeae5e9cd800": [
+      {
+        "TSNE-1": 6.032856464385986,
+        "TSNE-2": -5.532249927520752,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -9.488972663879395,
+        "TSNE-2": -2.274096965789795,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": -0.7555030584335327,
+        "TSNE-2": 5.826003551483154,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -5.148297309875488,
+        "TSNE-2": 4.226521968841553,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -0.7555030584335327,
+        "TSNE-2": 5.826003551483154,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -3.285123586654663,
+        "TSNE-2": -3.3415799140930176,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": -2.286358118057251,
+        "TSNE-2": 1.6012498140335083,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 4.079256057739258,
+        "TSNE-2": -4.731668472290039,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 3.5946717262268066,
+        "TSNE-2": 8.63232135772705,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": -5.537328720092773,
+        "TSNE-2": 11.829424858093262,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -9.428420066833496,
+        "TSNE-2": 6.962780952453613,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 4.590353012084961,
+        "TSNE-2": 12.135499000549316,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 3.1744871139526367,
+        "TSNE-2": -5.474064826965332,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": -4.88131046295166,
+        "TSNE-2": -6.928717613220215,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": -9.814708709716797,
+        "TSNE-2": -6.1794304847717285,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": 8.059885025024414,
+        "TSNE-2": -9.531983375549316,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -8.848535537719727,
+        "TSNE-2": -7.294029235839844,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": 4.079256057739258,
+        "TSNE-2": -4.731668472290039,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 9.97422981262207,
+        "TSNE-2": -8.685003280639648,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -4.18023157119751,
+        "TSNE-2": -8.802024841308594,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": -5.542569637298584,
+        "TSNE-2": 2.6722676753997803,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 6.796186923980713,
+        "TSNE-2": -2.6740875244140625,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": -3.292606830596924,
+        "TSNE-2": 6.767571449279785,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -12.889613151550293,
+        "TSNE-2": -0.8429741263389587,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": -0.1343166083097458,
+        "TSNE-2": 1.2680515050888062,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": -6.397234916687012,
+        "TSNE-2": -0.5758070349693298,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": -3.7473325729370117,
+        "TSNE-2": 3.3844099044799805,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 2.95894193649292,
+        "TSNE-2": 1.732922077178955,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": -7.049135684967041,
+        "TSNE-2": 10.449140548706055,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -4.243016719818115,
+        "TSNE-2": -3.040912389755249,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": 4.4878034591674805,
+        "TSNE-2": 9.025482177734375,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": -2.524231433868408,
+        "TSNE-2": -8.105252265930176,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": 2.125699043273926,
+        "TSNE-2": -5.81705904006958,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 5.002018928527832,
+        "TSNE-2": -12.420036315917969,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": 0.6142812967300415,
+        "TSNE-2": -5.252102851867676,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 2.1731960773468018,
+        "TSNE-2": 7.741950988769531,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 7.328409671783447,
+        "TSNE-2": -7.506320476531982,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -0.41272661089897156,
+        "TSNE-2": 8.200209617614746,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 5.621817111968994,
+        "TSNE-2": -9.299968719482422,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -8.150793075561523,
+        "TSNE-2": -1.2828563451766968,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": -7.911800384521484,
+        "TSNE-2": 0.6931325197219849,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": 1.366920828819275,
+        "TSNE-2": -2.2773730754852295,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 2.5883376598358154,
+        "TSNE-2": -3.764885425567627,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 0.8529370427131653,
+        "TSNE-2": 7.794495582580566,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": -12.147616386413574,
+        "TSNE-2": 0.769528865814209,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": 2.785097360610962,
+        "TSNE-2": 2.2804200649261475,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": -0.10945871472358704,
+        "TSNE-2": -9.211810111999512,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": -7.3712263107299805,
+        "TSNE-2": 3.8387269973754883,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -9.428420066833496,
+        "TSNE-2": 6.962780952453613,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -11.885726928710938,
+        "TSNE-2": 1.4258190393447876,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": 0.8459134101867676,
+        "TSNE-2": 2.9687278270721436,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": -5.729854583740234,
+        "TSNE-2": 11.51045036315918,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 4.387996673583984,
+        "TSNE-2": -6.022192478179932,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": 2.46244215965271,
+        "TSNE-2": 11.794589042663574,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 4.245503902435303,
+        "TSNE-2": -12.668734550476074,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -2.3434512615203857,
+        "TSNE-2": 3.5534873008728027,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 10.092509269714355,
+        "TSNE-2": -6.448035717010498,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -7.389535903930664,
+        "TSNE-2": 4.940384387969971,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 3.839078664779663,
+        "TSNE-2": -0.07941561192274094,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": -2.189150810241699,
+        "TSNE-2": 3.9670300483703613,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 8.95167064666748,
+        "TSNE-2": 5.513885974884033,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 4.696099281311035,
+        "TSNE-2": 3.579697847366333,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 9.733292579650879,
+        "TSNE-2": -3.9768965244293213,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -0.658822774887085,
+        "TSNE-2": -9.769418716430664,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": 7.763454437255859,
+        "TSNE-2": -6.111103534698486,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": 7.303463459014893,
+        "TSNE-2": -4.180987358093262,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": 9.022443771362305,
+        "TSNE-2": -1.8262639045715332,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": 2.51901912689209,
+        "TSNE-2": -7.943691730499268,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": 0.8886982798576355,
+        "TSNE-2": -0.9964404106140137,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": -4.9475250244140625,
+        "TSNE-2": 5.664473056793213,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": 5.351696014404297,
+        "TSNE-2": -2.660557508468628,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": -8.848535537719727,
+        "TSNE-2": -7.294029235839844,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": 4.821699619293213,
+        "TSNE-2": 6.404598712921143,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 3.3845431804656982,
+        "TSNE-2": -2.108309268951416,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 5.996411323547363,
+        "TSNE-2": -7.030559539794922,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -0.6548280119895935,
+        "TSNE-2": -2.498279571533203,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 2.014943838119507,
+        "TSNE-2": 5.276576042175293,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 4.821699619293213,
+        "TSNE-2": 6.404598712921143,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 5.6379075050354,
+        "TSNE-2": 3.3246660232543945,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": -4.3076324462890625,
+        "TSNE-2": 10.67105770111084,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -14.833855628967285,
+        "TSNE-2": 0.05227625370025635,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": 4.590353012084961,
+        "TSNE-2": 12.135499000549316,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 9.29535961151123,
+        "TSNE-2": 5.218085289001465,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": 1.6723803281784058,
+        "TSNE-2": 10.32986831665039,
+        "cluster": 2,
+        "keywords": "decline, spanish, indian, native, property"
+      },
+      {
+        "TSNE-1": -8.150793075561523,
+        "TSNE-2": -1.2828563451766968,
+        "cluster": 4,
+        "keywords": "indigenous, public, people, liberal, catholic"
+      },
+      {
+        "TSNE-1": -8.343903541564941,
+        "TSNE-2": 3.4946036338806152,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      },
+      {
+        "TSNE-1": -4.820486068725586,
+        "TSNE-2": -2.790645122528076,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": -2.8680131435394287,
+        "TSNE-2": -10.81723403930664,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": 3.4419164657592773,
+        "TSNE-2": -10.167452812194824,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": 5.657630443572998,
+        "TSNE-2": -3.530125141143799,
+        "cluster": 0,
+        "keywords": "ecclesiastical, religious, secularization, ju\u00e1rez, mission"
+      },
+      {
+        "TSNE-1": 4.323734283447266,
+        "TSNE-2": -7.618353366851807,
+        "cluster": 3,
+        "keywords": "church, civil, constitution, measure, state"
+      },
+      {
+        "TSNE-1": -2.524231433868408,
+        "TSNE-2": -8.105252265930176,
+        "cluster": 5,
+        "keywords": "conservative, de, power, war, reform"
+      },
+      {
+        "TSNE-1": -4.209385871887207,
+        "TSNE-2": 5.419179439544678,
+        "cluster": 1,
+        "keywords": "land, mexican, government, away, california"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_163",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-141280 - what happened when the mexican government secularized authority"
+  }
+}

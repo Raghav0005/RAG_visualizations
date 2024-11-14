@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-5bd0ce9e96304a7e2372e98b3c00f532"
+  },
+  "datasets": {
+    "data-5bd0ce9e96304a7e2372e98b3c00f532": [
+      {
+        "TSNE-1": 1.4863314628601074,
+        "TSNE-2": -7.829043865203857,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -6.589921951293945,
+        "TSNE-2": -9.216537475585938,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": 6.279242038726807,
+        "TSNE-2": 13.379236221313477,
+        "cluster": 5,
+        "keywords": "smartphone, annually, slower, across, user"
+      },
+      {
+        "TSNE-1": -7.004039764404297,
+        "TSNE-2": 4.486021518707275,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": 6.279242038726807,
+        "TSNE-2": 13.379236221313477,
+        "cluster": 5,
+        "keywords": "smartphone, annually, slower, across, user"
+      },
+      {
+        "TSNE-1": 4.127091407775879,
+        "TSNE-2": 2.7325329780578613,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -0.005724996328353882,
+        "TSNE-2": 5.3309006690979,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -3.2416188716888428,
+        "TSNE-2": 0.24892154335975647,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 9.554473876953125,
+        "TSNE-2": 0.24842990934848785,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 6.788105487823486,
+        "TSNE-2": 9.57337474822998,
+        "cluster": 5,
+        "keywords": "smartphone, annually, slower, across, user"
+      },
+      {
+        "TSNE-1": 4.273051738739014,
+        "TSNE-2": -6.250607967376709,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 4.3473639488220215,
+        "TSNE-2": 5.882078647613525,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -5.632781028747559,
+        "TSNE-2": -1.2278234958648682,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -2.1142923831939697,
+        "TSNE-2": 1.842697024345398,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": 8.681156158447266,
+        "TSNE-2": -8.568886756896973,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -1.3473838567733765,
+        "TSNE-2": -8.620853424072266,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": 4.069738388061523,
+        "TSNE-2": -9.97025203704834,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -3.2416188716888428,
+        "TSNE-2": 0.24892154335975647,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -0.9731209874153137,
+        "TSNE-2": -9.238390922546387,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -2.9669504165649414,
+        "TSNE-2": -11.408838272094727,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -5.3578901290893555,
+        "TSNE-2": 6.061546802520752,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": -6.529333114624023,
+        "TSNE-2": -3.0360419750213623,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 0.4785414934158325,
+        "TSNE-2": 9.720528602600098,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -4.156098365783691,
+        "TSNE-2": 3.3649938106536865,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -1.3262557983398438,
+        "TSNE-2": 7.411677360534668,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -4.806273937225342,
+        "TSNE-2": 1.194912075996399,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 1.8671334981918335,
+        "TSNE-2": 2.4798471927642822,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": 0.0022329986095428467,
+        "TSNE-2": 4.562171459197998,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": 8.411459922790527,
+        "TSNE-2": -8.537714004516602,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -3.9301328659057617,
+        "TSNE-2": 11.506010055541992,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": 9.247403144836426,
+        "TSNE-2": 0.4726019501686096,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 1.1333686113357544,
+        "TSNE-2": -2.1609153747558594,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -5.795230865478516,
+        "TSNE-2": -0.04209575802087784,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -3.4403235912323,
+        "TSNE-2": -7.833935260772705,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": 4.082297325134277,
+        "TSNE-2": -3.0761051177978516,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -2.7399842739105225,
+        "TSNE-2": 6.1560845375061035,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": -0.2747131586074829,
+        "TSNE-2": -4.5018229484558105,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -5.5689697265625,
+        "TSNE-2": -10.650971412658691,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -8.096600532531738,
+        "TSNE-2": -7.019443988800049,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -6.691138744354248,
+        "TSNE-2": -4.369536399841309,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -6.974741458892822,
+        "TSNE-2": -8.067155838012695,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -8.449424743652344,
+        "TSNE-2": 1.0616035461425781,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -4.462217807769775,
+        "TSNE-2": -1.7077008485794067,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 3.178032875061035,
+        "TSNE-2": -3.0686585903167725,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -1.0349700450897217,
+        "TSNE-2": -3.7155635356903076,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": 3.2353601455688477,
+        "TSNE-2": 6.963752746582031,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": 2.336813449859619,
+        "TSNE-2": -1.4591503143310547,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 0.0841447040438652,
+        "TSNE-2": 1.530091404914856,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": 4.273051738739014,
+        "TSNE-2": -6.250607967376709,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -2.0650742053985596,
+        "TSNE-2": -5.523955345153809,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": 7.163462162017822,
+        "TSNE-2": -2.617192506790161,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 6.843543529510498,
+        "TSNE-2": 9.685602188110352,
+        "cluster": 5,
+        "keywords": "smartphone, annually, slower, across, user"
+      },
+      {
+        "TSNE-1": -5.96480655670166,
+        "TSNE-2": -0.8939597010612488,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 3.4964609146118164,
+        "TSNE-2": 7.462258815765381,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -2.961604356765747,
+        "TSNE-2": -7.134037971496582,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -6.523704528808594,
+        "TSNE-2": 6.401600360870361,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": -1.0019748210906982,
+        "TSNE-2": -6.632308483123779,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -3.6890456676483154,
+        "TSNE-2": 10.992511749267578,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": -3.2090160846710205,
+        "TSNE-2": -2.52413010597229,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -7.393566608428955,
+        "TSNE-2": 6.4551801681518555,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": 6.0421857833862305,
+        "TSNE-2": 0.46481797099113464,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 6.730931282043457,
+        "TSNE-2": -2.6497578620910645,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 7.933688640594482,
+        "TSNE-2": -4.815741539001465,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -12.575186729431152,
+        "TSNE-2": 2.866377592086792,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -0.26382067799568176,
+        "TSNE-2": -5.644845485687256,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -4.625247478485107,
+        "TSNE-2": -3.944979667663574,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": 0.997212827205658,
+        "TSNE-2": -5.895925045013428,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -5.604710102081299,
+        "TSNE-2": -5.86720609664917,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -9.12202262878418,
+        "TSNE-2": 0.3605368733406067,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -0.9184834957122803,
+        "TSNE-2": 7.979631423950195,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -9.856277465820312,
+        "TSNE-2": -0.19987048208713531,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 4.069738388061523,
+        "TSNE-2": -9.97025203704834,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 2.662637233734131,
+        "TSNE-2": 1.1083333492279053,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -1.1901487112045288,
+        "TSNE-2": -1.38045334815979,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": 0.7902127504348755,
+        "TSNE-2": -4.9530205726623535,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -6.733333110809326,
+        "TSNE-2": 2.2001953125,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -2.1445672512054443,
+        "TSNE-2": -1.26205575466156,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 2.662637233734131,
+        "TSNE-2": 1.1083333492279053,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": 7.315019130706787,
+        "TSNE-2": -4.822261333465576,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": 0.28295108675956726,
+        "TSNE-2": 1.7614924907684326,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -3.203507661819458,
+        "TSNE-2": 2.2189009189605713,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 3.7184395790100098,
+        "TSNE-2": 6.4927897453308105,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": 6.286227226257324,
+        "TSNE-2": 0.624828577041626,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -8.258450508117676,
+        "TSNE-2": -4.968042373657227,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -6.691138744354248,
+        "TSNE-2": -4.369536399841309,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": 2.5741565227508545,
+        "TSNE-2": 3.637655258178711,
+        "cluster": 2,
+        "keywords": "ecosystem, also, increase, adoption, development"
+      },
+      {
+        "TSNE-1": -4.431574821472168,
+        "TSNE-2": 12.908944129943848,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": -9.619792938232422,
+        "TSNE-2": 8.451279640197754,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      },
+      {
+        "TSNE-1": -3.769829511642456,
+        "TSNE-2": -4.52323579788208,
+        "cluster": 4,
+        "keywords": "infrastructure, range, government, battery, market"
+      },
+      {
+        "TSNE-1": -12.963044166564941,
+        "TSNE-2": 3.01461124420166,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": -8.029054641723633,
+        "TSNE-2": -1.9809690713882446,
+        "cluster": 1,
+        "keywords": "vehicle, cost, consumer, economic, charge"
+      },
+      {
+        "TSNE-1": 1.1333686113357544,
+        "TSNE-2": -2.1609153747558594,
+        "cluster": 0,
+        "keywords": "ev, customer, electric, million, growth"
+      },
+      {
+        "TSNE-1": -8.569794654846191,
+        "TSNE-2": 7.878882884979248,
+        "cluster": 3,
+        "keywords": "impact, adverse, text, aware, environmental"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_167",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-44024 - how has the growth of the ev ecosystem impacted customers?"
+  }
+}

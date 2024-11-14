@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-97ff4aca81858e9119ad09915d49a47b"
+  },
+  "datasets": {
+    "data-97ff4aca81858e9119ad09915d49a47b": [
+      {
+        "TSNE-1": -6.152268886566162,
+        "TSNE-2": 1.89230215549469,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -1.9565311670303345,
+        "TSNE-2": -0.07985396683216095,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -0.7412847280502319,
+        "TSNE-2": -7.976949214935303,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": -0.7139378786087036,
+        "TSNE-2": -12.756046295166016,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      },
+      {
+        "TSNE-1": -0.7412847280502319,
+        "TSNE-2": -7.976949214935303,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": -10.834397315979004,
+        "TSNE-2": 2.069584369659424,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -10.060415267944336,
+        "TSNE-2": 1.4178540706634521,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": 0.3364957869052887,
+        "TSNE-2": 5.173525810241699,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": 10.743167877197266,
+        "TSNE-2": 1.7391153573989868,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 1.8630155324935913,
+        "TSNE-2": -13.444575309753418,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      },
+      {
+        "TSNE-1": 4.88955020904541,
+        "TSNE-2": -6.618233680725098,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": -10.873048782348633,
+        "TSNE-2": -1.4635560512542725,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -1.6499691009521484,
+        "TSNE-2": 3.0131325721740723,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -9.355788230895996,
+        "TSNE-2": 2.7818729877471924,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -6.790569305419922,
+        "TSNE-2": 7.601332187652588,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -0.8802499771118164,
+        "TSNE-2": -1.6319853067398071,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -6.240420341491699,
+        "TSNE-2": -9.92868709564209,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": 0.3364957869052887,
+        "TSNE-2": 5.173525810241699,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -7.1609673500061035,
+        "TSNE-2": -0.2187924087047577,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": 2.4081788063049316,
+        "TSNE-2": 3.8153350353240967,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -2.3667702674865723,
+        "TSNE-2": -7.366763114929199,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": 1.731183648109436,
+        "TSNE-2": 1.377312421798706,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 2.9400322437286377,
+        "TSNE-2": -9.107260704040527,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      },
+      {
+        "TSNE-1": -8.828163146972656,
+        "TSNE-2": 4.7241034507751465,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": 1.0698407888412476,
+        "TSNE-2": 3.6250507831573486,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -3.664339303970337,
+        "TSNE-2": 0.9507689476013184,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 0.25360411405563354,
+        "TSNE-2": -14.564516067504883,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      },
+      {
+        "TSNE-1": 6.503255367279053,
+        "TSNE-2": 7.194099426269531,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -8.004293441772461,
+        "TSNE-2": -4.754973888397217,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": 5.303903102874756,
+        "TSNE-2": 10.512749671936035,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": 6.011582374572754,
+        "TSNE-2": -3.5078601837158203,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 4.55383825302124,
+        "TSNE-2": 3.4724438190460205,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": -0.6464256644248962,
+        "TSNE-2": 3.000415086746216,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -5.116977214813232,
+        "TSNE-2": 0.16122516989707947,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 5.10361385345459,
+        "TSNE-2": 0.7852380871772766,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": -2.797511577606201,
+        "TSNE-2": -2.9943642616271973,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -3.6611502170562744,
+        "TSNE-2": -3.4160256385803223,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": -1.9129632711410522,
+        "TSNE-2": 9.901151657104492,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -6.1578474044799805,
+        "TSNE-2": 5.216095447540283,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -4.352205276489258,
+        "TSNE-2": 5.221748352050781,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -6.111780643463135,
+        "TSNE-2": -2.272625207901001,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 5.993588924407959,
+        "TSNE-2": -0.48348647356033325,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": -2.6544697284698486,
+        "TSNE-2": 2.7543163299560547,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 3.4015820026397705,
+        "TSNE-2": 7.442663669586182,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -4.062765121459961,
+        "TSNE-2": -4.549030303955078,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": 0.7174695730209351,
+        "TSNE-2": 13.567916870117188,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": 6.083560943603516,
+        "TSNE-2": 3.8173418045043945,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 2.8130393028259277,
+        "TSNE-2": -12.615018844604492,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      },
+      {
+        "TSNE-1": 4.88955020904541,
+        "TSNE-2": -6.618233680725098,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": -3.959192991256714,
+        "TSNE-2": -1.9474766254425049,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 9.059687614440918,
+        "TSNE-2": 3.5313591957092285,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 1.8533693552017212,
+        "TSNE-2": -14.604148864746094,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      },
+      {
+        "TSNE-1": -2.066420555114746,
+        "TSNE-2": 1.7800184488296509,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 0.7174695730209351,
+        "TSNE-2": 13.567916870117188,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": 0.7855055928230286,
+        "TSNE-2": -0.5327706933021545,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -10.689641952514648,
+        "TSNE-2": 7.748736381530762,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -3.2443671226501465,
+        "TSNE-2": 7.562325954437256,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -10.714820861816406,
+        "TSNE-2": -3.9181876182556152,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": 3.688861608505249,
+        "TSNE-2": 1.0383219718933105,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": -9.478389739990234,
+        "TSNE-2": 9.260737419128418,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": 3.421349287033081,
+        "TSNE-2": -3.447146415710449,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 8.048514366149902,
+        "TSNE-2": 6.150008678436279,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 8.423043251037598,
+        "TSNE-2": 5.313821315765381,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 1.9366337060928345,
+        "TSNE-2": 6.146304130554199,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -3.277425765991211,
+        "TSNE-2": -0.984176754951477,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -0.7886609435081482,
+        "TSNE-2": 6.716927528381348,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -2.353361129760742,
+        "TSNE-2": 4.7863078117370605,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -4.425811767578125,
+        "TSNE-2": 3.000244617462158,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 6.6081767082214355,
+        "TSNE-2": 1.42168128490448,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 0.6376169323921204,
+        "TSNE-2": -13.315086364746094,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      },
+      {
+        "TSNE-1": 7.1966776847839355,
+        "TSNE-2": 0.9522128701210022,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": -6.240420341491699,
+        "TSNE-2": -9.92868709564209,
+        "cluster": 5,
+        "keywords": "european, central, democratic, due, influx"
+      },
+      {
+        "TSNE-1": 8.548056602478027,
+        "TSNE-2": -6.309238910675049,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 8.50306510925293,
+        "TSNE-2": -2.228316068649292,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 0.9218413829803467,
+        "TSNE-2": -3.351447820663452,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 4.5752997398376465,
+        "TSNE-2": 5.380898475646973,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": 8.40125560760498,
+        "TSNE-2": -0.49106156826019287,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 8.548056602478027,
+        "TSNE-2": -6.309238910675049,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 8.379552841186523,
+        "TSNE-2": 2.54986572265625,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 3.204920768737793,
+        "TSNE-2": -14.183161735534668,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      },
+      {
+        "TSNE-1": -8.045730590820312,
+        "TSNE-2": 4.227319240570068,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -10.873048782348633,
+        "TSNE-2": -1.4635560512542725,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": 3.484964609146118,
+        "TSNE-2": -3.0533297061920166,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": -0.555959165096283,
+        "TSNE-2": -2.771697759628296,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -4.352205276489258,
+        "TSNE-2": 5.221748352050781,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -12.220391273498535,
+        "TSNE-2": 1.2374169826507568,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": 1.9189192056655884,
+        "TSNE-2": 9.893888473510742,
+        "cluster": 4,
+        "keywords": "city, republican, twin, area, voting"
+      },
+      {
+        "TSNE-1": -19.09276008605957,
+        "TSNE-2": 19.773252487182617,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -0.4252116084098816,
+        "TSNE-2": -0.6609053015708923,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": -10.224356651306152,
+        "TSNE-2": 9.03353500366211,
+        "cluster": 2,
+        "keywords": "strong, labor, particularly, social, education"
+      },
+      {
+        "TSNE-1": -0.3131035566329956,
+        "TSNE-2": 1.5584923028945923,
+        "cluster": 1,
+        "keywords": "progressive, landscape, rural, union, reputation"
+      },
+      {
+        "TSNE-1": 4.55383825302124,
+        "TSNE-2": 3.4724438190460205,
+        "cluster": 0,
+        "keywords": "party, minnesota, state, liberal, political"
+      },
+      {
+        "TSNE-1": 1.4058928489685059,
+        "TSNE-2": -12.205534934997559,
+        "cluster": 3,
+        "keywords": "benefit, territory, people, election, national"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_130",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-36186 - how did minnesota become so liberal"
+  }
+}

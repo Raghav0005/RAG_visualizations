@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-5c4b388f67ef9d087050342ea47cd024"
+  },
+  "datasets": {
+    "data-5c4b388f67ef9d087050342ea47cd024": [
+      {
+        "TSNE-1": -5.661848068237305,
+        "TSNE-2": 5.678316593170166,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": 0.6821244955062866,
+        "TSNE-2": -10.200959205627441,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 1.22185480594635,
+        "TSNE-2": -2.8836841583251953,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -10.104752540588379,
+        "TSNE-2": 5.938220977783203,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": 1.22185480594635,
+        "TSNE-2": -2.8836841583251953,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 9.569497108459473,
+        "TSNE-2": -2.502077341079712,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -8.341279029846191,
+        "TSNE-2": -2.069303035736084,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -5.280421733856201,
+        "TSNE-2": 1.871052622795105,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 3.601469039916992,
+        "TSNE-2": -12.230734825134277,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": -4.271029472351074,
+        "TSNE-2": 10.236971855163574,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": -5.152127265930176,
+        "TSNE-2": -10.753028869628906,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 5.6141157150268555,
+        "TSNE-2": -2.4697799682617188,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -3.232478618621826,
+        "TSNE-2": 3.8672144412994385,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -0.5668899416923523,
+        "TSNE-2": -4.524582386016846,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 10.752923965454102,
+        "TSNE-2": -7.67565393447876,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -2.399230718612671,
+        "TSNE-2": -8.13145637512207,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 1.1755733489990234,
+        "TSNE-2": 10.680196762084961,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": -5.280421733856201,
+        "TSNE-2": 1.871052622795105,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 0.6684375405311584,
+        "TSNE-2": -6.71522331237793,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 9.548919677734375,
+        "TSNE-2": 0.7592599987983704,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": 7.708974361419678,
+        "TSNE-2": -4.2711286544799805,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": 4.620066165924072,
+        "TSNE-2": 1.130908727645874,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": 8.03477668762207,
+        "TSNE-2": -3.952183961868286,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -7.655526161193848,
+        "TSNE-2": 4.0137248039245605,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": -1.7487289905548096,
+        "TSNE-2": 2.548212766647339,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -4.117648601531982,
+        "TSNE-2": -4.0458879470825195,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -10.174980163574219,
+        "TSNE-2": 6.594887733459473,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": -1.5177199840545654,
+        "TSNE-2": -5.8639421463012695,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 10.752923965454102,
+        "TSNE-2": -7.67565393447876,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": 10.683744430541992,
+        "TSNE-2": -1.4223164319992065,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": 3.825817346572876,
+        "TSNE-2": -11.906586647033691,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 3.9487171173095703,
+        "TSNE-2": -1.8977227210998535,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -4.567410945892334,
+        "TSNE-2": 4.18884801864624,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -3.0933194160461426,
+        "TSNE-2": -6.2412638664245605,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 5.8246612548828125,
+        "TSNE-2": 6.821552276611328,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": 5.974039554595947,
+        "TSNE-2": 3.353116273880005,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": 0.9218953847885132,
+        "TSNE-2": 4.511519908905029,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": -6.764057159423828,
+        "TSNE-2": -1.8326919078826904,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -6.8355841636657715,
+        "TSNE-2": 2.3272483348846436,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -8.040285110473633,
+        "TSNE-2": -5.095157146453857,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -8.274782180786133,
+        "TSNE-2": -7.453042984008789,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -2.8874802589416504,
+        "TSNE-2": -2.892066240310669,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -3.131258964538574,
+        "TSNE-2": 1.8811047077178955,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -5.154175758361816,
+        "TSNE-2": -0.30157357454299927,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -0.1992444396018982,
+        "TSNE-2": 3.786616086959839,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 10.728196144104004,
+        "TSNE-2": 3.1033742427825928,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": 10.356964111328125,
+        "TSNE-2": 0.8996595144271851,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -5.385646343231201,
+        "TSNE-2": 9.990743637084961,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": -5.152127265930176,
+        "TSNE-2": -10.753028869628906,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": -1.5436338186264038,
+        "TSNE-2": 4.966848850250244,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 1.9893487691879272,
+        "TSNE-2": 1.7935971021652222,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -4.271029472351074,
+        "TSNE-2": 10.236971855163574,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": -3.8664634227752686,
+        "TSNE-2": 3.0559515953063965,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 5.598626136779785,
+        "TSNE-2": -3.4967970848083496,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -0.397034227848053,
+        "TSNE-2": -7.7418107986450195,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 6.486362934112549,
+        "TSNE-2": -5.891172885894775,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -0.6270632147789001,
+        "TSNE-2": -9.32302474975586,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": 12.019295692443848,
+        "TSNE-2": -6.125357627868652,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -0.831283450126648,
+        "TSNE-2": -1.846736192703247,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 5.923007011413574,
+        "TSNE-2": -6.681299686431885,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": 3.1067404747009277,
+        "TSNE-2": 0.1734829545021057,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 1.3435108661651611,
+        "TSNE-2": 0.41383129358291626,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -0.04569894075393677,
+        "TSNE-2": -0.9298977255821228,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 11.455841064453125,
+        "TSNE-2": -0.037677787244319916,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": 1.234899640083313,
+        "TSNE-2": 6.31653356552124,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": -7.642260551452637,
+        "TSNE-2": 0.20823973417282104,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": 0.3869837522506714,
+        "TSNE-2": 5.6998772621154785,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": -3.119868278503418,
+        "TSNE-2": 6.630046844482422,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -2.984487771987915,
+        "TSNE-2": -0.49174225330352783,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -13.1214599609375,
+        "TSNE-2": -0.6574428677558899,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -1.4735573530197144,
+        "TSNE-2": 0.06426866352558136,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 1.1755733489990234,
+        "TSNE-2": 10.680196762084961,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": -4.829551696777344,
+        "TSNE-2": -1.7750847339630127,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": 3.1764907836914062,
+        "TSNE-2": 2.963552713394165,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": 4.190348148345947,
+        "TSNE-2": 6.449060916900635,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": -0.616166353225708,
+        "TSNE-2": 1.4593696594238281,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": 2.0661981105804443,
+        "TSNE-2": 4.045613765716553,
+        "cluster": 0,
+        "keywords": "hawaiian, american, economic, disagreement, close"
+      },
+      {
+        "TSNE-1": -4.829551696777344,
+        "TSNE-2": -1.7750847339630127,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": 1.2838672399520874,
+        "TSNE-2": 0.18123620748519897,
+        "cluster": 5,
+        "keywords": "would, control, power, british, desire"
+      },
+      {
+        "TSNE-1": -6.571239471435547,
+        "TSNE-2": 10.564101219177246,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": -5.204378604888916,
+        "TSNE-2": -5.674314975738525,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": 3.903728485107422,
+        "TSNE-2": -3.7472965717315674,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -20.70596694946289,
+        "TSNE-2": 19.301164627075195,
+        "cluster": 3,
+        "keywords": "opportunity, strategic, kingdom, nan, military"
+      },
+      {
+        "TSNE-1": -9.772019386291504,
+        "TSNE-2": -6.031277179718018,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -8.040285110473633,
+        "TSNE-2": -5.095157146453857,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": 12.374092102050781,
+        "TSNE-2": -6.630672454833984,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -11.705924987792969,
+        "TSNE-2": -6.873536109924316,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": 5.403790473937988,
+        "TSNE-2": -0.8351379632949829,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -1.9590052366256714,
+        "TSNE-2": -7.206600189208984,
+        "cluster": 4,
+        "keywords": "coup, planter, queen, sought, businessmen"
+      },
+      {
+        "TSNE-1": -10.018893241882324,
+        "TSNE-2": 1.6762341260910034,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": -5.718409061431885,
+        "TSNE-2": -3.972280263900757,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      },
+      {
+        "TSNE-1": 3.9487171173095703,
+        "TSNE-2": -1.8977227210998535,
+        "cluster": 2,
+        "keywords": "overthrow, america, corporate, farmland, rich"
+      },
+      {
+        "TSNE-1": -13.483118057250977,
+        "TSNE-2": -0.6691843271255493,
+        "cluster": 1,
+        "keywords": "hawaii, united, sugar, trade, annexation"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_199",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-215090 - why did america want to overthrow the hawaiian kingdom"
+  }
+}

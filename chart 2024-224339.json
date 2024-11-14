@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-23b7f229af9b78485ce3d8f533de5214"
+  },
+  "datasets": {
+    "data-23b7f229af9b78485ce3d8f533de5214": [
+      {
+        "TSNE-1": -2.2029857635498047,
+        "TSNE-2": -8.213922500610352,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -9.003823280334473,
+        "TSNE-2": -0.2968323230743408,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": -8.273890495300293,
+        "TSNE-2": 6.986234664916992,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": 7.397052764892578,
+        "TSNE-2": -5.64705753326416,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": -8.273890495300293,
+        "TSNE-2": 6.986234664916992,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": 6.651209354400635,
+        "TSNE-2": 2.4621973037719727,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": 9.524876594543457,
+        "TSNE-2": -0.9037917852401733,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -3.2720725536346436,
+        "TSNE-2": -0.19133375585079193,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 2.8215701580047607,
+        "TSNE-2": 13.526516914367676,
+        "cluster": 2,
+        "keywords": "child, job, become, engage, hobby"
+      },
+      {
+        "TSNE-1": 11.74696159362793,
+        "TSNE-2": 1.4824931621551514,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -3.668031692504883,
+        "TSNE-2": -4.107189655303955,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -1.5517030954360962,
+        "TSNE-2": 7.198791027069092,
+        "cluster": 2,
+        "keywords": "child, job, become, engage, hobby"
+      },
+      {
+        "TSNE-1": -0.6793824434280396,
+        "TSNE-2": -1.3650158643722534,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -4.788740158081055,
+        "TSNE-2": -2.832686185836792,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 6.17907190322876,
+        "TSNE-2": 9.417007446289062,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -7.3844685554504395,
+        "TSNE-2": -4.229019641876221,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 9.502821922302246,
+        "TSNE-2": 5.728461265563965,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -3.2720725536346436,
+        "TSNE-2": -0.19133375585079193,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -9.251031875610352,
+        "TSNE-2": -5.15601110458374,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 3.943960666656494,
+        "TSNE-2": 1.3486824035644531,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 9.56860065460205,
+        "TSNE-2": -6.6607866287231445,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": -5.832320690155029,
+        "TSNE-2": -0.07664099335670471,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": 10.052419662475586,
+        "TSNE-2": -4.483703136444092,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": -4.392448902130127,
+        "TSNE-2": -7.436888217926025,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 0.1646854430437088,
+        "TSNE-2": -4.242316246032715,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 0.16867078840732574,
+        "TSNE-2": -1.9793800115585327,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 8.318634986877441,
+        "TSNE-2": -6.601031303405762,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": 9.158761978149414,
+        "TSNE-2": -0.6147868633270264,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": 6.17907190322876,
+        "TSNE-2": 9.417007446289062,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -3.361377716064453,
+        "TSNE-2": 10.89063549041748,
+        "cluster": 2,
+        "keywords": "child, job, become, engage, hobby"
+      },
+      {
+        "TSNE-1": 3.1146750450134277,
+        "TSNE-2": 13.09931468963623,
+        "cluster": 2,
+        "keywords": "child, job, become, engage, hobby"
+      },
+      {
+        "TSNE-1": 5.612069129943848,
+        "TSNE-2": -0.5461207628250122,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -1.8499912023544312,
+        "TSNE-2": -2.3372228145599365,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 1.832230806350708,
+        "TSNE-2": -2.2738113403320312,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 4.1490349769592285,
+        "TSNE-2": -11.6820650100708,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": 0.8975993394851685,
+        "TSNE-2": 3.5602612495422363,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -2.4316890239715576,
+        "TSNE-2": 5.082455158233643,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": 1.888824701309204,
+        "TSNE-2": -7.695753574371338,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": 0.6938052773475647,
+        "TSNE-2": 0.047110434621572495,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -1.5773096084594727,
+        "TSNE-2": 1.4662275314331055,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -0.7560142874717712,
+        "TSNE-2": -6.248676776885986,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -5.71501350402832,
+        "TSNE-2": 0.7212592959403992,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": -1.3918904066085815,
+        "TSNE-2": -1.0691744089126587,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -3.894958019256592,
+        "TSNE-2": 1.9052748680114746,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": -0.02878580242395401,
+        "TSNE-2": 4.310513973236084,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -4.160650253295898,
+        "TSNE-2": 10.279306411743164,
+        "cluster": 2,
+        "keywords": "child, job, become, engage, hobby"
+      },
+      {
+        "TSNE-1": 5.279470920562744,
+        "TSNE-2": -2.052191734313965,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 12.730367660522461,
+        "TSNE-2": 2.228644847869873,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -3.668031692504883,
+        "TSNE-2": -4.107189655303955,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -0.4886240065097809,
+        "TSNE-2": 3.524080276489258,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 4.193978309631348,
+        "TSNE-2": 5.273432731628418,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": 13.136719703674316,
+        "TSNE-2": 0.2913360595703125,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -2.869290351867676,
+        "TSNE-2": -1.7513777017593384,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 14.580681800842285,
+        "TSNE-2": 6.780400276184082,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -5.603911876678467,
+        "TSNE-2": -5.146879196166992,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 8.366328239440918,
+        "TSNE-2": -4.274354934692383,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": -6.069074630737305,
+        "TSNE-2": -6.10653018951416,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 2.0343737602233887,
+        "TSNE-2": 9.317521095275879,
+        "cluster": 2,
+        "keywords": "child, job, become, engage, hobby"
+      },
+      {
+        "TSNE-1": -7.5056962966918945,
+        "TSNE-2": -8.016737937927246,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 10.895929336547852,
+        "TSNE-2": -6.215122699737549,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": 0.8701029419898987,
+        "TSNE-2": -10.964015007019043,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": 5.021450042724609,
+        "TSNE-2": 5.413747787475586,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -8.994149208068848,
+        "TSNE-2": 4.019143581390381,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": 3.8982677459716797,
+        "TSNE-2": -0.5103722214698792,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -3.7444875240325928,
+        "TSNE-2": 5.821841239929199,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": -2.9504899978637695,
+        "TSNE-2": -6.331932067871094,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -3.266658067703247,
+        "TSNE-2": 3.5220580101013184,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": 1.4520199298858643,
+        "TSNE-2": 0.6567976474761963,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -6.644929885864258,
+        "TSNE-2": -2.510256767272949,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -12.764009475708008,
+        "TSNE-2": 0.17505580186843872,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": -6.973830223083496,
+        "TSNE-2": -1.7780442237854004,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 9.502821922302246,
+        "TSNE-2": 5.728461265563965,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": 3.6583542823791504,
+        "TSNE-2": -8.208219528198242,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": -6.569596767425537,
+        "TSNE-2": 4.190094470977783,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": -4.166676044464111,
+        "TSNE-2": 5.038690567016602,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": -9.756632804870605,
+        "TSNE-2": 2.9619040489196777,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": -7.442190647125244,
+        "TSNE-2": 1.8227583169937134,
+        "cluster": 4,
+        "keywords": "stress, challenge, positive, even, psychosocial"
+      },
+      {
+        "TSNE-1": 3.6583542823791504,
+        "TSNE-2": -8.208219528198242,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": 3.150161027908325,
+        "TSNE-2": 4.8298444747924805,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 11.560791015625,
+        "TSNE-2": 2.251950979232788,
+        "cluster": 5,
+        "keywords": "document, physically, exert, help, stay"
+      },
+      {
+        "TSNE-1": -1.6201826333999634,
+        "TSNE-2": -3.9131531715393066,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 9.518760681152344,
+        "TSNE-2": -8.872325897216797,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": 0.7562323212623596,
+        "TSNE-2": -11.412688255310059,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": 1.9798293113708496,
+        "TSNE-2": -4.573266506195068,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": -1.5773096084594727,
+        "TSNE-2": 1.4662275314331055,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 2.55362606048584,
+        "TSNE-2": 9.287961959838867,
+        "cluster": 2,
+        "keywords": "child, job, become, engage, hobby"
+      },
+      {
+        "TSNE-1": -2.524862051010132,
+        "TSNE-2": 11.946592330932617,
+        "cluster": 2,
+        "keywords": "child, job, become, engage, hobby"
+      },
+      {
+        "TSNE-1": 8.085565567016602,
+        "TSNE-2": -10.443696022033691,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      },
+      {
+        "TSNE-1": -9.20685863494873,
+        "TSNE-2": -4.346190452575684,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -5.605808734893799,
+        "TSNE-2": -10.66916561126709,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": -10.630926132202148,
+        "TSNE-2": -3.1182658672332764,
+        "cluster": 3,
+        "keywords": "physical, lead, life, overall, satisfaction"
+      },
+      {
+        "TSNE-1": 5.612069129943848,
+        "TSNE-2": -0.5461207628250122,
+        "cluster": 1,
+        "keywords": "social, enjoyable, lower, mental, cognitive"
+      },
+      {
+        "TSNE-1": 6.545600414276123,
+        "TSNE-2": -5.386356830596924,
+        "cluster": 0,
+        "keywords": "sense, activity, choose, provide, enjoy"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_255",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-224339 - why should you choose to engage in activities that you enjoy?"
+  }
+}

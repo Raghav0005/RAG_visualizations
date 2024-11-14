@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-5e78eb2c0bf9afa8268b57d2851f43c0"
+  },
+  "datasets": {
+    "data-5e78eb2c0bf9afa8268b57d2851f43c0": [
+      {
+        "TSNE-1": -6.213306427001953,
+        "TSNE-2": 5.661077976226807,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": -9.230295181274414,
+        "TSNE-2": -10.732637405395508,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": 11.770054817199707,
+        "TSNE-2": 3.6094233989715576,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": 4.742785930633545,
+        "TSNE-2": -5.839052200317383,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 11.770054817199707,
+        "TSNE-2": 3.6094233989715576,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": 20.115022659301758,
+        "TSNE-2": -4.077064514160156,
+        "cluster": 2,
+        "keywords": "nan, crisis, recent, suicidal, current"
+      },
+      {
+        "TSNE-1": 0.37922653555870056,
+        "TSNE-2": -10.05120849609375,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": -12.241601943969727,
+        "TSNE-2": -5.2287373542785645,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": 11.874628067016602,
+        "TSNE-2": -4.926694393157959,
+        "cluster": 2,
+        "keywords": "nan, crisis, recent, suicidal, current"
+      },
+      {
+        "TSNE-1": 0.07613900303840637,
+        "TSNE-2": -15.290572166442871,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 3.804497241973877,
+        "TSNE-2": 11.721756935119629,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": 1.647856593132019,
+        "TSNE-2": -2.5986738204956055,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": -10.919697761535645,
+        "TSNE-2": -7.341763496398926,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": -6.754782199859619,
+        "TSNE-2": 10.871147155761719,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 8.302759170532227,
+        "TSNE-2": -16.732486724853516,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": -0.7607576251029968,
+        "TSNE-2": 9.705069541931152,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": 15.99542236328125,
+        "TSNE-2": 1.346001386642456,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": -12.241601943969727,
+        "TSNE-2": -5.2287373542785645,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": -1.9434354305267334,
+        "TSNE-2": 4.0666632652282715,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 1.3896071910858154,
+        "TSNE-2": 1.7034351825714111,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -0.7949646711349487,
+        "TSNE-2": -13.054824829101562,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 1.5975556373596191,
+        "TSNE-2": 15.257013320922852,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -0.7949646711349487,
+        "TSNE-2": -13.054824829101562,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": -10.666206359863281,
+        "TSNE-2": 5.917111396789551,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 1.3117327690124512,
+        "TSNE-2": 12.508122444152832,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -4.138439655303955,
+        "TSNE-2": 5.23442268371582,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 2.509167432785034,
+        "TSNE-2": -11.035035133361816,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 3.8992292881011963,
+        "TSNE-2": -13.905231475830078,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 8.852306365966797,
+        "TSNE-2": -15.818766593933105,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": -1.628161907196045,
+        "TSNE-2": -5.737609386444092,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 12.944735527038574,
+        "TSNE-2": -5.4846272468566895,
+        "cluster": 2,
+        "keywords": "nan, crisis, recent, suicidal, current"
+      },
+      {
+        "TSNE-1": 6.770185470581055,
+        "TSNE-2": 5.301514625549316,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -12.241601943969727,
+        "TSNE-2": -5.2287373542785645,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": -2.687546491622925,
+        "TSNE-2": 6.004954814910889,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 1.742087483406067,
+        "TSNE-2": -7.8955912590026855,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 7.651435852050781,
+        "TSNE-2": 9.612283706665039,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -5.392601013183594,
+        "TSNE-2": 7.636864185333252,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 8.14546012878418,
+        "TSNE-2": 0.543542742729187,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": -7.463606357574463,
+        "TSNE-2": 8.318732261657715,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": -3.4844295978546143,
+        "TSNE-2": 11.917479515075684,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": -9.544413566589355,
+        "TSNE-2": 12.228351593017578,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 1.8511478900909424,
+        "TSNE-2": 5.348658561706543,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -11.452396392822266,
+        "TSNE-2": -9.007100105285645,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": 6.253849506378174,
+        "TSNE-2": 1.4940122365951538,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": -8.082955360412598,
+        "TSNE-2": -12.580953598022461,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": -3.9430758953094482,
+        "TSNE-2": -1.8592733144760132,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": 5.616655349731445,
+        "TSNE-2": 7.520700454711914,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": 6.846553802490234,
+        "TSNE-2": -8.049005508422852,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 3.804497241973877,
+        "TSNE-2": 11.721756935119629,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -8.916011810302734,
+        "TSNE-2": -7.045803546905518,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": 13.327342987060547,
+        "TSNE-2": 7.52003288269043,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": 0.07613900303840637,
+        "TSNE-2": -15.290572166442871,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": -12.241601943969727,
+        "TSNE-2": -5.2287373542785645,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": -3.9430758953094482,
+        "TSNE-2": -1.8592733144760132,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": -3.597193717956543,
+        "TSNE-2": 3.283134937286377,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": -0.7949646711349487,
+        "TSNE-2": -13.054824829101562,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": -1.5059255361557007,
+        "TSNE-2": 8.03299617767334,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": -5.039970397949219,
+        "TSNE-2": -6.248468399047852,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": 8.888114929199219,
+        "TSNE-2": -3.9023098945617676,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": -0.7949646711349487,
+        "TSNE-2": -13.054824829101562,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 9.482192993164062,
+        "TSNE-2": 0.2618831992149353,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": -1.8468643426895142,
+        "TSNE-2": 1.643913745880127,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 7.889335632324219,
+        "TSNE-2": 12.628105163574219,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": 6.770185470581055,
+        "TSNE-2": 5.301514625549316,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -3.618945837020874,
+        "TSNE-2": 8.93917465209961,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 9.799956321716309,
+        "TSNE-2": -6.422497272491455,
+        "cluster": 2,
+        "keywords": "nan, crisis, recent, suicidal, current"
+      },
+      {
+        "TSNE-1": 10.316186904907227,
+        "TSNE-2": 7.402972221374512,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": -8.859472274780273,
+        "TSNE-2": 3.927567958831787,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 2.512855291366577,
+        "TSNE-2": 8.44608211517334,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -4.550937652587891,
+        "TSNE-2": -13.041361808776855,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 2.143042802810669,
+        "TSNE-2": 6.530471324920654,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": 15.99542236328125,
+        "TSNE-2": 1.346001386642456,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": 4.570592403411865,
+        "TSNE-2": -0.3029969334602356,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": 10.699212074279785,
+        "TSNE-2": -2.618525266647339,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": -1.7587556838989258,
+        "TSNE-2": 14.825605392456055,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": 8.63087272644043,
+        "TSNE-2": -9.345332145690918,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 11.607035636901855,
+        "TSNE-2": 10.742959976196289,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": 4.570592403411865,
+        "TSNE-2": -0.3029969334602356,
+        "cluster": 5,
+        "keywords": "spring, tend, prison, frequently, peak"
+      },
+      {
+        "TSNE-1": 10.29690170288086,
+        "TSNE-2": -9.74286937713623,
+        "cluster": 2,
+        "keywords": "nan, crisis, recent, suicidal, current"
+      },
+      {
+        "TSNE-1": 6.336824893951416,
+        "TSNE-2": -9.436171531677246,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": -8.634748458862305,
+        "TSNE-2": 6.491559982299805,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 1.647856593132019,
+        "TSNE-2": -2.5986738204956055,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 18.534814834594727,
+        "TSNE-2": -4.23313570022583,
+        "cluster": 2,
+        "keywords": "nan, crisis, recent, suicidal, current"
+      },
+      {
+        "TSNE-1": -11.313138961791992,
+        "TSNE-2": 10.1395845413208,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": -3.4844295978546143,
+        "TSNE-2": 11.917479515075684,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": -4.597888946533203,
+        "TSNE-2": -7.192097187042236,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": -0.6572954058647156,
+        "TSNE-2": -5.236262798309326,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      },
+      {
+        "TSNE-1": 18.534814834594727,
+        "TSNE-2": -4.23313570022583,
+        "cluster": 2,
+        "keywords": "nan, crisis, recent, suicidal, current"
+      },
+      {
+        "TSNE-1": -5.092828273773193,
+        "TSNE-2": 2.5380852222442627,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": -1.375579595565796,
+        "TSNE-2": -1.4948383569717407,
+        "cluster": 3,
+        "keywords": "question, information, answer, context, full"
+      },
+      {
+        "TSNE-1": -9.415729522705078,
+        "TSNE-2": 8.345836639404297,
+        "cluster": 4,
+        "keywords": "may, summer, psychological, september, july"
+      },
+      {
+        "TSNE-1": 6.770185470581055,
+        "TSNE-2": 5.301514625549316,
+        "cluster": 1,
+        "keywords": "factor, stress, rate, higher, jail"
+      },
+      {
+        "TSNE-1": -4.544722080230713,
+        "TSNE-2": -11.54230785369873,
+        "cluster": 0,
+        "keywords": "highest, suicide, month, occur, inmate"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_22",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-214126 - why are most inmate suicides occruing july - september"
+  }
+}

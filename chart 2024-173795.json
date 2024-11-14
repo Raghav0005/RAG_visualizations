@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3056f7ac020db6b4cd8a41c22e06d92c"
+  },
+  "datasets": {
+    "data-3056f7ac020db6b4cd8a41c22e06d92c": [
+      {
+        "TSNE-1": -3.7575297355651855,
+        "TSNE-2": -3.3109090328216553,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": -6.169229030609131,
+        "TSNE-2": -10.545369148254395,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": 3.623601198196411,
+        "TSNE-2": 14.976532936096191,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": -6.3259453773498535,
+        "TSNE-2": -5.3901848793029785,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": 3.623601198196411,
+        "TSNE-2": 14.976532936096191,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": -11.988203048706055,
+        "TSNE-2": -12.5606050491333,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": -5.648449897766113,
+        "TSNE-2": 4.667593479156494,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -3.2829151153564453,
+        "TSNE-2": 1.6935408115386963,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -8.799539566040039,
+        "TSNE-2": 2.295865774154663,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -15.842585563659668,
+        "TSNE-2": 2.1401829719543457,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      },
+      {
+        "TSNE-1": -1.8843904733657837,
+        "TSNE-2": -4.573193073272705,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": -1.2404184341430664,
+        "TSNE-2": -12.51901626586914,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": -1.0481371879577637,
+        "TSNE-2": -0.4402478039264679,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 4.688982009887695,
+        "TSNE-2": -6.900129318237305,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": -17.774940490722656,
+        "TSNE-2": 1.2340463399887085,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      },
+      {
+        "TSNE-1": 6.994602203369141,
+        "TSNE-2": -13.640583992004395,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 9.225543022155762,
+        "TSNE-2": 7.767395973205566,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": -3.2829151153564453,
+        "TSNE-2": 1.6935408115386963,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 9.422562599182129,
+        "TSNE-2": 1.2629681825637817,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -4.612414360046387,
+        "TSNE-2": 6.274578094482422,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -8.56409740447998,
+        "TSNE-2": -2.8698747158050537,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": 8.106133460998535,
+        "TSNE-2": -10.25755786895752,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 6.6301774978637695,
+        "TSNE-2": 4.186619281768799,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": 10.180869102478027,
+        "TSNE-2": -7.793108940124512,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 15.511852264404297,
+        "TSNE-2": -5.534973621368408,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -1.0956898927688599,
+        "TSNE-2": 1.782400131225586,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 2.7227303981781006,
+        "TSNE-2": -6.976001739501953,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 8.72000503540039,
+        "TSNE-2": 11.211006164550781,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": -17.774940490722656,
+        "TSNE-2": 1.2340463399887085,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      },
+      {
+        "TSNE-1": 2.4104998111724854,
+        "TSNE-2": -2.657607316970825,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": -7.391621112823486,
+        "TSNE-2": 1.9253662824630737,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 13.537574768066406,
+        "TSNE-2": 0.22397048771381378,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -1.3839595317840576,
+        "TSNE-2": -1.6320143938064575,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 9.67582893371582,
+        "TSNE-2": -3.866227865219116,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -6.475975513458252,
+        "TSNE-2": 8.773480415344238,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -2.734299898147583,
+        "TSNE-2": 11.715188980102539,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": 3.6610357761383057,
+        "TSNE-2": 4.852084159851074,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": -2.250304937362671,
+        "TSNE-2": 8.578968048095703,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -5.3110527992248535,
+        "TSNE-2": -0.6540582180023193,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 4.597038745880127,
+        "TSNE-2": -4.042379856109619,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": -4.874895095825195,
+        "TSNE-2": -8.631636619567871,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": -2.9618234634399414,
+        "TSNE-2": 6.928324222564697,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 0.2703683376312256,
+        "TSNE-2": 0.4801328182220459,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -1.9463927745819092,
+        "TSNE-2": -7.506486415863037,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": 1.264586091041565,
+        "TSNE-2": 3.271763563156128,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 1.655042290687561,
+        "TSNE-2": -11.263572692871094,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 15.824911117553711,
+        "TSNE-2": -0.807650625705719,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -18.210371017456055,
+        "TSNE-2": 3.4136130809783936,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      },
+      {
+        "TSNE-1": -1.8843904733657837,
+        "TSNE-2": -4.573193073272705,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": 0.6886339783668518,
+        "TSNE-2": -1.8930308818817139,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 0.524081289768219,
+        "TSNE-2": 9.64538860321045,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": -15.842585563659668,
+        "TSNE-2": 2.1401829719543457,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      },
+      {
+        "TSNE-1": -3.1383414268493652,
+        "TSNE-2": -0.7134531736373901,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 1.655042290687561,
+        "TSNE-2": -11.263572692871094,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 9.262027740478516,
+        "TSNE-2": -4.8629889488220215,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": 8.43848705291748,
+        "TSNE-2": 5.33241081237793,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": 4.530157089233398,
+        "TSNE-2": -9.171382904052734,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": -12.89183521270752,
+        "TSNE-2": 2.1010665893554688,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      },
+      {
+        "TSNE-1": -7.514547348022461,
+        "TSNE-2": 6.576656818389893,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -6.989558219909668,
+        "TSNE-2": -3.9255454540252686,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": -7.633631706237793,
+        "TSNE-2": 4.620942115783691,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 0.5501236319541931,
+        "TSNE-2": 6.251664161682129,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": -10.595919609069824,
+        "TSNE-2": -6.63951301574707,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": 13.537574768066406,
+        "TSNE-2": 0.22397048771381378,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": 3.51401424407959,
+        "TSNE-2": 6.641891956329346,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": 12.335667610168457,
+        "TSNE-2": -4.801558017730713,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -2.3800055980682373,
+        "TSNE-2": 5.125646591186523,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": 8.755982398986816,
+        "TSNE-2": -2.106685161590576,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": 3.5377469062805176,
+        "TSNE-2": 1.7448186874389648,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -9.83922004699707,
+        "TSNE-2": -2.3186073303222656,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": 4.492034912109375,
+        "TSNE-2": 2.227780818939209,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": 9.225543022155762,
+        "TSNE-2": 7.767395973205566,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": 12.96522331237793,
+        "TSNE-2": 5.218081951141357,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": 4.253383159637451,
+        "TSNE-2": 8.380728721618652,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": -3.823164463043213,
+        "TSNE-2": 4.449868679046631,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -0.31033849716186523,
+        "TSNE-2": -7.178574085235596,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 4.533312797546387,
+        "TSNE-2": 10.068249702453613,
+        "cluster": 0,
+        "keywords": "tariff, document, lead, supply, cost"
+      },
+      {
+        "TSNE-1": 12.96522331237793,
+        "TSNE-2": 5.218081951141357,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -0.5369192957878113,
+        "TSNE-2": 5.694046974182129,
+        "cluster": 5,
+        "keywords": "country, impact, price, negative, directly"
+      },
+      {
+        "TSNE-1": -15.792835235595703,
+        "TSNE-2": -0.46643275022506714,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      },
+      {
+        "TSNE-1": 7.2595953941345215,
+        "TSNE-2": -8.279288291931152,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": -1.2404184341430664,
+        "TSNE-2": -12.51901626586914,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": -11.92863655090332,
+        "TSNE-2": -11.697610855102539,
+        "cluster": 4,
+        "keywords": "nan, economic, disrupt, quality, decrease"
+      },
+      {
+        "TSNE-1": 1.897015929222107,
+        "TSNE-2": -5.046650409698486,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 4.597038745880127,
+        "TSNE-2": -4.042379856109619,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": -13.112468719482422,
+        "TSNE-2": 0.8866570591926575,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      },
+      {
+        "TSNE-1": 4.458444595336914,
+        "TSNE-2": -0.8477595448493958,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -2.0113918781280518,
+        "TSNE-2": -16.540651321411133,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 7.802318572998047,
+        "TSNE-2": 0.7013561129570007,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -1.6075750589370728,
+        "TSNE-2": -14.746831893920898,
+        "cluster": 1,
+        "keywords": "global, chain, could, company, trade"
+      },
+      {
+        "TSNE-1": 7.164358615875244,
+        "TSNE-2": -3.8153631687164307,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": 13.537574768066406,
+        "TSNE-2": 0.22397048771381378,
+        "cluster": 3,
+        "keywords": "production, higher, consumer, may, also"
+      },
+      {
+        "TSNE-1": -15.377157211303711,
+        "TSNE-2": 4.200613498687744,
+        "cluster": 2,
+        "keywords": "elsewhere, towards, away, origin, major"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_46",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-173795 - when tariffs disrupt global supply chains"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-91ccfb8fd4f47a5e73b693031fc41679"
+  },
+  "datasets": {
+    "data-91ccfb8fd4f47a5e73b693031fc41679": [
+      {
+        "TSNE-1": 4.89116096496582,
+        "TSNE-2": -7.232748031616211,
+        "cluster": 4,
+        "keywords": "work, deprives, waste, occurrence, frequent"
+      },
+      {
+        "TSNE-1": -3.404798984527588,
+        "TSNE-2": -4.759982585906982,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 0.9851812720298767,
+        "TSNE-2": 10.965203285217285,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -3.244816303253174,
+        "TSNE-2": 1.0767757892608643,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": 0.9851812720298767,
+        "TSNE-2": 10.965203285217285,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -9.492523193359375,
+        "TSNE-2": 6.322006702423096,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -3.568251371383667,
+        "TSNE-2": 8.850561141967773,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 4.9518351554870605,
+        "TSNE-2": -1.9153664112091064,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -7.088165283203125,
+        "TSNE-2": 9.049931526184082,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 8.85950756072998,
+        "TSNE-2": -8.72808837890625,
+        "cluster": 4,
+        "keywords": "work, deprives, waste, occurrence, frequent"
+      },
+      {
+        "TSNE-1": 1.331533670425415,
+        "TSNE-2": -9.089157104492188,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": -6.75126838684082,
+        "TSNE-2": 0.6668274998664856,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": 4.914156436920166,
+        "TSNE-2": -0.055360615253448486,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": 3.233299732208252,
+        "TSNE-2": -10.123688697814941,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": -4.281020641326904,
+        "TSNE-2": 14.44407844543457,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -1.037205457687378,
+        "TSNE-2": -6.132824897766113,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 12.528645515441895,
+        "TSNE-2": -11.167388916015625,
+        "cluster": 4,
+        "keywords": "work, deprives, waste, occurrence, frequent"
+      },
+      {
+        "TSNE-1": 4.9518351554870605,
+        "TSNE-2": -1.9153664112091064,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -3.5375335216522217,
+        "TSNE-2": -8.670038223266602,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": -13.056290626525879,
+        "TSNE-2": -2.3567605018615723,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": 9.524892807006836,
+        "TSNE-2": -3.7304840087890625,
+        "cluster": 4,
+        "keywords": "work, deprives, waste, occurrence, frequent"
+      },
+      {
+        "TSNE-1": 9.484466552734375,
+        "TSNE-2": 3.792994976043701,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": -0.07527686655521393,
+        "TSNE-2": 1.3292943239212036,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -0.5076295137405396,
+        "TSNE-2": -11.06641960144043,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 2.40987229347229,
+        "TSNE-2": -6.7260661125183105,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 1.6078097820281982,
+        "TSNE-2": -4.522615432739258,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -2.4935731887817383,
+        "TSNE-2": 3.5629312992095947,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -4.29890251159668,
+        "TSNE-2": 8.110053062438965,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -4.995901584625244,
+        "TSNE-2": 14.938803672790527,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -11.352278709411621,
+        "TSNE-2": 5.911630630493164,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": -13.52663516998291,
+        "TSNE-2": 0.7418169975280762,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": -9.021810531616211,
+        "TSNE-2": -3.8196234703063965,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": 0.9574970006942749,
+        "TSNE-2": -2.1017117500305176,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -2.8593475818634033,
+        "TSNE-2": -6.419774532318115,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": -1.3647372722625732,
+        "TSNE-2": 8.903401374816895,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 6.948172092437744,
+        "TSNE-2": 0.7584201097488403,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 6.267852783203125,
+        "TSNE-2": 4.440659523010254,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 0.1403094232082367,
+        "TSNE-2": 4.72890043258667,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 3.5067644119262695,
+        "TSNE-2": -4.682908058166504,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": 2.8040428161621094,
+        "TSNE-2": 0.7712993025779724,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -3.8775126934051514,
+        "TSNE-2": -3.0278921127319336,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": 10.461726188659668,
+        "TSNE-2": 9.639784812927246,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 4.145293235778809,
+        "TSNE-2": 2.7360775470733643,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -9.64116096496582,
+        "TSNE-2": -8.24489688873291,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": 7.908189296722412,
+        "TSNE-2": -0.7540704607963562,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 2.3563003540039062,
+        "TSNE-2": 15.342447280883789,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -10.920116424560547,
+        "TSNE-2": -0.8433130979537964,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": -10.27122974395752,
+        "TSNE-2": 2.143893003463745,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": 1.331533670425415,
+        "TSNE-2": -9.089157104492188,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 7.183934688568115,
+        "TSNE-2": 2.6207940578460693,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 13.026691436767578,
+        "TSNE-2": 0.006821251939982176,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 6.4474897384643555,
+        "TSNE-2": -11.270864486694336,
+        "cluster": 4,
+        "keywords": "work, deprives, waste, occurrence, frequent"
+      },
+      {
+        "TSNE-1": 1.386362910270691,
+        "TSNE-2": -3.1663661003112793,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": 2.3563003540039062,
+        "TSNE-2": 15.342447280883789,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -1.1898599863052368,
+        "TSNE-2": -2.2800533771514893,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -6.324540138244629,
+        "TSNE-2": -6.886035442352295,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": -1.488297700881958,
+        "TSNE-2": -7.697759628295898,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 3.1017935276031494,
+        "TSNE-2": 7.39591121673584,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 12.481099128723145,
+        "TSNE-2": 4.254624366760254,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": -3.34049129486084,
+        "TSNE-2": 2.3384556770324707,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -12.00845718383789,
+        "TSNE-2": 11.938241958618164,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 13.330629348754883,
+        "TSNE-2": 0.8428160548210144,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 10.820128440856934,
+        "TSNE-2": 0.02355058491230011,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": -9.36159896850586,
+        "TSNE-2": -1.5629457235336304,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": 6.214160919189453,
+        "TSNE-2": 5.968722343444824,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 5.530916213989258,
+        "TSNE-2": -3.9801790714263916,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -6.382054328918457,
+        "TSNE-2": 4.399332523345947,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 7.09293794631958,
+        "TSNE-2": -5.355379104614258,
+        "cluster": 4,
+        "keywords": "work, deprives, waste, occurrence, frequent"
+      },
+      {
+        "TSNE-1": 13.246910095214844,
+        "TSNE-2": 8.764883995056152,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": -3.2902960777282715,
+        "TSNE-2": 4.617650032043457,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 12.147425651550293,
+        "TSNE-2": 8.960007667541504,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 12.528645515441895,
+        "TSNE-2": -11.167388916015625,
+        "cluster": 4,
+        "keywords": "work, deprives, waste, occurrence, frequent"
+      },
+      {
+        "TSNE-1": 4.852123737335205,
+        "TSNE-2": 11.269405364990234,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -3.512672185897827,
+        "TSNE-2": -12.17023754119873,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 7.709225177764893,
+        "TSNE-2": 6.638040065765381,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": 15.172252655029297,
+        "TSNE-2": -3.665332317352295,
+        "cluster": 4,
+        "keywords": "work, deprives, waste, occurrence, frequent"
+      },
+      {
+        "TSNE-1": -3.682483434677124,
+        "TSNE-2": -13.435187339782715,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 4.852123737335205,
+        "TSNE-2": 11.269405364990234,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 11.705077171325684,
+        "TSNE-2": 1.9882186651229858,
+        "cluster": 5,
+        "keywords": "classroom, environment, parent, safe, topic"
+      },
+      {
+        "TSNE-1": -11.233610153198242,
+        "TSNE-2": -6.468639373779297,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": 1.3535622358322144,
+        "TSNE-2": -11.733674049377441,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": -6.75126838684082,
+        "TSNE-2": 0.6668274998664856,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": -12.00845718383789,
+        "TSNE-2": 11.938241958618164,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -6.145658016204834,
+        "TSNE-2": -8.402068138122559,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": 2.8040428161621094,
+        "TSNE-2": 0.7712993025779724,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": 2.880533218383789,
+        "TSNE-2": 6.634250164031982,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -10.524711608886719,
+        "TSNE-2": 6.9177937507629395,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": -0.5623987913131714,
+        "TSNE-2": 6.997019290924072,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 0.3474520742893219,
+        "TSNE-2": -6.482015609741211,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      },
+      {
+        "TSNE-1": -6.275251388549805,
+        "TSNE-2": 7.3322553634643555,
+        "cluster": 0,
+        "keywords": "book, teacher, school, student, read"
+      },
+      {
+        "TSNE-1": 3.130974769592285,
+        "TSNE-2": -2.0821526050567627,
+        "cluster": 1,
+        "keywords": "also, controversial, parental, material, educational"
+      },
+      {
+        "TSNE-1": -9.021810531616211,
+        "TSNE-2": -3.8196234703063965,
+        "cluster": 2,
+        "keywords": "may, ban, certain, relevant, complaint"
+      },
+      {
+        "TSNE-1": 3.3287155628204346,
+        "TSNE-2": -13.843740463256836,
+        "cluster": 3,
+        "keywords": "educator, often, many, feel, argue"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_251",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-153070 - what teachers know and say about book bans"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3b63630d51bdd49756f670c5d10088f8"
+  },
+  "datasets": {
+    "data-3b63630d51bdd49756f670c5d10088f8": [
+      {
+        "TSNE-1": 8.151721000671387,
+        "TSNE-2": 4.8479766845703125,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": 6.912529468536377,
+        "TSNE-2": 8.495220184326172,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": 8.959056854248047,
+        "TSNE-2": -10.465377807617188,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": -0.09569152444601059,
+        "TSNE-2": -12.6968355178833,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 8.959056854248047,
+        "TSNE-2": -10.465377807617188,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": -5.238470077514648,
+        "TSNE-2": -3.2398171424865723,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": -4.030406951904297,
+        "TSNE-2": 1.7742729187011719,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": 0.25766488909721375,
+        "TSNE-2": -3.8273394107818604,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": -2.7771172523498535,
+        "TSNE-2": 12.353387832641602,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 4.498556613922119,
+        "TSNE-2": 12.061580657958984,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 4.168816089630127,
+        "TSNE-2": 4.214134216308594,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": -7.46195650100708,
+        "TSNE-2": 9.70643424987793,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 2.049450159072876,
+        "TSNE-2": -0.7726112008094788,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": 8.469754219055176,
+        "TSNE-2": -1.0734599828720093,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": 13.893583297729492,
+        "TSNE-2": 4.6719231605529785,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": 3.28951358795166,
+        "TSNE-2": -2.894558906555176,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": -2.564617872238159,
+        "TSNE-2": -11.01007080078125,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 0.25766488909721375,
+        "TSNE-2": -3.8273394107818604,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": 1.4016607999801636,
+        "TSNE-2": -2.0726265907287598,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": -11.799736976623535,
+        "TSNE-2": -3.205456018447876,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": 1.3045876026153564,
+        "TSNE-2": -12.550481796264648,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 5.055568695068359,
+        "TSNE-2": -2.097684383392334,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": 1.3988600969314575,
+        "TSNE-2": -11.133000373840332,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": -6.47524881362915,
+        "TSNE-2": -7.926958084106445,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": 2.35891056060791,
+        "TSNE-2": -4.041595935821533,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": 3.6247551441192627,
+        "TSNE-2": -0.7060572504997253,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": -8.385706901550293,
+        "TSNE-2": -1.5919820070266724,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": 1.9420015811920166,
+        "TSNE-2": -7.8699235916137695,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 13.111781120300293,
+        "TSNE-2": 5.445436000823975,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": 7.503472328186035,
+        "TSNE-2": 2.7752273082733154,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": -3.30078125,
+        "TSNE-2": 12.208866119384766,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": -10.521522521972656,
+        "TSNE-2": -5.645398139953613,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": 1.1705578565597534,
+        "TSNE-2": 0.3651845157146454,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": 7.843236923217773,
+        "TSNE-2": -3.7899415493011475,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": -1.6904425621032715,
+        "TSNE-2": -7.923853874206543,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": -0.5450525283813477,
+        "TSNE-2": -0.10059084743261337,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": -0.9054584503173828,
+        "TSNE-2": 3.5433003902435303,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": -1.7327337265014648,
+        "TSNE-2": -6.497965335845947,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 2.603395700454712,
+        "TSNE-2": 5.608353137969971,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": 5.458262920379639,
+        "TSNE-2": 0.6979770064353943,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": -4.628511428833008,
+        "TSNE-2": 5.197727680206299,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 10.896186828613281,
+        "TSNE-2": -0.6758673191070557,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": 2.5310280323028564,
+        "TSNE-2": 1.1265915632247925,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": -3.4610838890075684,
+        "TSNE-2": -5.295307159423828,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": -1.4475462436676025,
+        "TSNE-2": 2.063873291015625,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": -7.95435905456543,
+        "TSNE-2": -11.157453536987305,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": 1.2220449447631836,
+        "TSNE-2": 8.521738052368164,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 7.208378314971924,
+        "TSNE-2": -8.113040924072266,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 4.168816089630127,
+        "TSNE-2": 4.214134216308594,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": -2.014421224594116,
+        "TSNE-2": 2.7073261737823486,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": 5.799247741699219,
+        "TSNE-2": -3.777029275894165,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": 3.2187061309814453,
+        "TSNE-2": 11.09122371673584,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 0.8754900097846985,
+        "TSNE-2": 0.7104575634002686,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": -7.95435905456543,
+        "TSNE-2": -11.157453536987305,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": 7.075021743774414,
+        "TSNE-2": -5.411825180053711,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": -2.0847408771514893,
+        "TSNE-2": 8.095110893249512,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": -2.7519707679748535,
+        "TSNE-2": -3.0233659744262695,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": 13.142536163330078,
+        "TSNE-2": 3.8094146251678467,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": -6.895159721374512,
+        "TSNE-2": -4.928078651428223,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": -3.437840700149536,
+        "TSNE-2": 7.441021919250488,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": -3.9422662258148193,
+        "TSNE-2": -7.692893981933594,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": -7.485548496246338,
+        "TSNE-2": 3.696556806564331,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": -7.874157905578613,
+        "TSNE-2": 4.945558071136475,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 1.6954624652862549,
+        "TSNE-2": 7.994843482971191,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": -1.2902276515960693,
+        "TSNE-2": 5.097464084625244,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 4.7622880935668945,
+        "TSNE-2": 2.206199884414673,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": 1.230339765548706,
+        "TSNE-2": 3.9504332542419434,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": 9.049677848815918,
+        "TSNE-2": 4.3680291175842285,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": -3.811357021331787,
+        "TSNE-2": 3.7115256786346436,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": -8.157288551330566,
+        "TSNE-2": -2.0651423931121826,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": -2.754633665084839,
+        "TSNE-2": 0.08906327188014984,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": -2.564617872238159,
+        "TSNE-2": -11.01007080078125,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 4.126497268676758,
+        "TSNE-2": -7.586599349975586,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": -4.448430061340332,
+        "TSNE-2": -0.809037446975708,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": -8.369367599487305,
+        "TSNE-2": 1.4424071311950684,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": -4.122726917266846,
+        "TSNE-2": -3.764740228652954,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": 1.4763672351837158,
+        "TSNE-2": 2.5157320499420166,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": 4.126497268676758,
+        "TSNE-2": -7.586599349975586,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": -8.21895694732666,
+        "TSNE-2": 5.428486347198486,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 4.961484432220459,
+        "TSNE-2": 12.492494583129883,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": 9.164125442504883,
+        "TSNE-2": -0.6525231599807739,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": -7.46195650100708,
+        "TSNE-2": 9.70643424987793,
+        "cluster": 1,
+        "keywords": "teacher, war, killer, general, danger"
+      },
+      {
+        "TSNE-1": -28.4677677154541,
+        "TSNE-2": 2.3498620986938477,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": -1.831070065498352,
+        "TSNE-2": -0.8531240224838257,
+        "cluster": 3,
+        "keywords": "political, earth, emotional, genocide, valentine"
+      },
+      {
+        "TSNE-1": 5.458262920379639,
+        "TSNE-2": 0.6979770064353943,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": 13.8976469039917,
+        "TSNE-2": 3.2226674556732178,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": 6.3935089111328125,
+        "TSNE-2": 5.928408145904541,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": -1.0442922115325928,
+        "TSNE-2": -6.2831034660339355,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 0.26698294281959534,
+        "TSNE-2": -1.575350046157837,
+        "cluster": 5,
+        "keywords": "due, action, return, would, brother"
+      },
+      {
+        "TSNE-1": 0.907214879989624,
+        "TSNE-2": -6.36626672744751,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      },
+      {
+        "TSNE-1": 6.127879619598389,
+        "TSNE-2": 4.026544094085693,
+        "cluster": 2,
+        "keywords": "could, work, wrong, formic, valuable"
+      },
+      {
+        "TSNE-1": -10.521522521972656,
+        "TSNE-2": -5.645398139953613,
+        "cluster": 4,
+        "keywords": "nan, put, alien, also, battle"
+      },
+      {
+        "TSNE-1": 2.9031779766082764,
+        "TSNE-2": -11.955076217651367,
+        "cluster": 0,
+        "keywords": "bugger, destroyed, document, guilt, ender"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_238",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-220679 - why is ender in danger after war"
+  }
+}

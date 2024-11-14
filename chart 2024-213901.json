@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-bb61090ebddca8f77f5cfa49142fb58b"
+  },
+  "datasets": {
+    "data-bb61090ebddca8f77f5cfa49142fb58b": [
+      {
+        "TSNE-1": 5.79525089263916,
+        "TSNE-2": -2.1106226444244385,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -7.925464630126953,
+        "TSNE-2": -2.4505491256713867,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": 14.119952201843262,
+        "TSNE-2": 0.3208785355091095,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -10.357176780700684,
+        "TSNE-2": 6.713274002075195,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 14.119952201843262,
+        "TSNE-2": 0.3208785355091095,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": 11.989570617675781,
+        "TSNE-2": 6.883766174316406,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": 6.488368034362793,
+        "TSNE-2": 5.661423683166504,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -1.093755841255188,
+        "TSNE-2": -1.697812557220459,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 11.822999000549316,
+        "TSNE-2": -9.477826118469238,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -12.238916397094727,
+        "TSNE-2": -1.336965799331665,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": 8.543447494506836,
+        "TSNE-2": -2.3585121631622314,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -3.184725284576416,
+        "TSNE-2": -7.785337448120117,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 0.7590819597244263,
+        "TSNE-2": -1.7420457601547241,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 3.0560450553894043,
+        "TSNE-2": 4.449746608734131,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -9.872048377990723,
+        "TSNE-2": 7.4615254402160645,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 3.984814167022705,
+        "TSNE-2": 1.0682224035263062,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 0.23437218368053436,
+        "TSNE-2": 8.20620346069336,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": -1.093755841255188,
+        "TSNE-2": -1.697812557220459,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 4.557743549346924,
+        "TSNE-2": -0.3162004351615906,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -3.471243143081665,
+        "TSNE-2": -0.752795934677124,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": -7.7554426193237305,
+        "TSNE-2": 5.933908939361572,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": -1.3057070970535278,
+        "TSNE-2": -0.025036729872226715,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -3.234221935272217,
+        "TSNE-2": 8.967514038085938,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 2.0173022747039795,
+        "TSNE-2": 3.7072980403900146,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -6.768556594848633,
+        "TSNE-2": -7.218689441680908,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 3.7821266651153564,
+        "TSNE-2": -1.8421602249145508,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -3.5665664672851562,
+        "TSNE-2": -12.595189094543457,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 13.308650970458984,
+        "TSNE-2": 1.6361950635910034,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -6.582926273345947,
+        "TSNE-2": 11.204498291015625,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 12.766471862792969,
+        "TSNE-2": 4.486915588378906,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": 10.020544052124023,
+        "TSNE-2": 1.2100234031677246,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -4.848509311676025,
+        "TSNE-2": 1.6393271684646606,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": 1.9708205461502075,
+        "TSNE-2": -2.441410779953003,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 6.570012092590332,
+        "TSNE-2": 0.1654256135225296,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -0.6220566630363464,
+        "TSNE-2": 1.6563531160354614,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -5.894328594207764,
+        "TSNE-2": -4.788755893707275,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": -0.5504817366600037,
+        "TSNE-2": -6.568753719329834,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 2.4436049461364746,
+        "TSNE-2": 7.771451473236084,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 8.511996269226074,
+        "TSNE-2": 3.1371989250183105,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": 1.4328737258911133,
+        "TSNE-2": 0.8138389587402344,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -8.596134185791016,
+        "TSNE-2": -1.9602998495101929,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": 5.446885108947754,
+        "TSNE-2": -5.26089334487915,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": 1.2125598192214966,
+        "TSNE-2": -3.006910562515259,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 5.863735198974609,
+        "TSNE-2": 5.147015571594238,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -5.2775492668151855,
+        "TSNE-2": -3.8712193965911865,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 5.25908899307251,
+        "TSNE-2": -12.34917163848877,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -3.2825353145599365,
+        "TSNE-2": 1.252966284751892,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": -6.096011638641357,
+        "TSNE-2": 6.4904985427856445,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 8.543447494506836,
+        "TSNE-2": -2.3585121631622314,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -4.682203769683838,
+        "TSNE-2": -4.197355270385742,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 2.820711135864258,
+        "TSNE-2": -9.299273490905762,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -7.680105686187744,
+        "TSNE-2": 7.720804691314697,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 2.0523643493652344,
+        "TSNE-2": -1.1944575309753418,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 5.25908899307251,
+        "TSNE-2": -12.34917163848877,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": 5.919651031494141,
+        "TSNE-2": -0.718555748462677,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -7.042426586151123,
+        "TSNE-2": 5.232196807861328,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 6.011433124542236,
+        "TSNE-2": 1.2259403467178345,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -6.253054141998291,
+        "TSNE-2": 10.446399688720703,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": -2.360010862350464,
+        "TSNE-2": -3.0261149406433105,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": -8.380270004272461,
+        "TSNE-2": 5.366302490234375,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 9.289131164550781,
+        "TSNE-2": -6.147907257080078,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -3.050539970397949,
+        "TSNE-2": 4.881923198699951,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 6.034940719604492,
+        "TSNE-2": -8.642538070678711,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -6.033676624298096,
+        "TSNE-2": 0.675751805305481,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": 0.47244176268577576,
+        "TSNE-2": -8.3198881149292,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 9.02283763885498,
+        "TSNE-2": 5.526007652282715,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": 0.9361314177513123,
+        "TSNE-2": -8.6693754196167,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 3.6498546600341797,
+        "TSNE-2": 2.6691572666168213,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 4.810692310333252,
+        "TSNE-2": -4.046219825744629,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -7.657309055328369,
+        "TSNE-2": 3.530673027038574,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": 6.297896385192871,
+        "TSNE-2": -5.9194488525390625,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": 0.49006468057632446,
+        "TSNE-2": 8.327237129211426,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 2.6849942207336426,
+        "TSNE-2": -6.486797332763672,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -0.560449481010437,
+        "TSNE-2": 4.183060169219971,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 0.5822746157646179,
+        "TSNE-2": -10.531229972839355,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": -8.942024230957031,
+        "TSNE-2": 0.4003988802433014,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": -0.06844721734523773,
+        "TSNE-2": 5.040117263793945,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 2.6506128311157227,
+        "TSNE-2": -6.291274547576904,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": 5.746321201324463,
+        "TSNE-2": -8.125545501708984,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -3.864952325820923,
+        "TSNE-2": 6.271303653717041,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": 3.21039080619812,
+        "TSNE-2": -3.260369300842285,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -3.184725284576416,
+        "TSNE-2": -7.785337448120117,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 9.289131164550781,
+        "TSNE-2": -6.147907257080078,
+        "cluster": 4,
+        "keywords": "graphic, need, face, high, due"
+      },
+      {
+        "TSNE-1": -0.04907747358083725,
+        "TSNE-2": -4.131756782531738,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 1.4328737258911133,
+        "TSNE-2": 0.8138389587402344,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": -5.692645072937012,
+        "TSNE-2": 9.591147422790527,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      },
+      {
+        "TSNE-1": -2.7425148487091064,
+        "TSNE-2": -9.820590019226074,
+        "cluster": 2,
+        "keywords": "may, insecure, woman, feel, creative"
+      },
+      {
+        "TSNE-1": 6.468167304992676,
+        "TSNE-2": 2.6889336109161377,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": 3.764587879180908,
+        "TSNE-2": 0.5586667060852051,
+        "cluster": 0,
+        "keywords": "designer, design, nature, insecurity, often"
+      },
+      {
+        "TSNE-1": 4.920970439910889,
+        "TSNE-2": 8.221452713012695,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": 10.399273872375488,
+        "TSNE-2": -2.3755698204040527,
+        "cluster": 1,
+        "keywords": "document, fear, work, client, must"
+      },
+      {
+        "TSNE-1": -4.848509311676025,
+        "TSNE-2": 1.6393271684646606,
+        "cluster": 5,
+        "keywords": "like, lack, meeting, fashion, focus"
+      },
+      {
+        "TSNE-1": -3.0623226165771484,
+        "TSNE-2": 9.903505325317383,
+        "cluster": 3,
+        "keywords": "ability, concerned, trend, communicate, profession"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_245",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-213901 - why are designers insecure about their profession"
+  }
+}

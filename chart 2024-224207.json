@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d5379e4c630aac694e5b129d5c7e7e67"
+  },
+  "datasets": {
+    "data-d5379e4c630aac694e5b129d5c7e7e67": [
+      {
+        "TSNE-1": -2.231797456741333,
+        "TSNE-2": -1.1639134883880615,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 0.17721329629421234,
+        "TSNE-2": -15.700264930725098,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": -13.133892059326172,
+        "TSNE-2": -0.0037965774536132812,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": 6.038506031036377,
+        "TSNE-2": 12.79555606842041,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -13.133892059326172,
+        "TSNE-2": -0.0037965774536132812,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": -0.8054088354110718,
+        "TSNE-2": -10.19108772277832,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 8.135065078735352,
+        "TSNE-2": 4.4591383934021,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -2.5431580543518066,
+        "TSNE-2": 1.4319149255752563,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": -6.021664619445801,
+        "TSNE-2": -7.414675235748291,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": 2.584470748901367,
+        "TSNE-2": -6.241122245788574,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": -2.5999255180358887,
+        "TSNE-2": -4.452174663543701,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 11.842246055603027,
+        "TSNE-2": -0.4665047228336334,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": -0.5964940786361694,
+        "TSNE-2": 4.0315117835998535,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 7.769303321838379,
+        "TSNE-2": -7.674947738647461,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 2.6864771842956543,
+        "TSNE-2": -9.710922241210938,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 0.5583094954490662,
+        "TSNE-2": 8.668837547302246,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -12.146120071411133,
+        "TSNE-2": -6.72123908996582,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": -2.5431580543518066,
+        "TSNE-2": 1.4319149255752563,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": -3.602613687515259,
+        "TSNE-2": 8.24515438079834,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -6.756232261657715,
+        "TSNE-2": -10.910684585571289,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": 0.9896441698074341,
+        "TSNE-2": -8.514188766479492,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": -5.425985813140869,
+        "TSNE-2": 4.865932464599609,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": 5.425923824310303,
+        "TSNE-2": -7.336768627166748,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 1.9920395612716675,
+        "TSNE-2": -3.227865695953369,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 2.1191320419311523,
+        "TSNE-2": 3.196057081222534,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 0.17000599205493927,
+        "TSNE-2": 1.2355279922485352,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 3.3238072395324707,
+        "TSNE-2": -8.681055068969727,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": -1.650073528289795,
+        "TSNE-2": 6.503202438354492,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": 3.9345662593841553,
+        "TSNE-2": -6.737390518188477,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": -8.279239654541016,
+        "TSNE-2": -4.565537452697754,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": -5.751163482666016,
+        "TSNE-2": -6.870619297027588,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": -1.679419755935669,
+        "TSNE-2": 13.485060691833496,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -1.6871792078018188,
+        "TSNE-2": 4.4550347328186035,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": -1.1637558937072754,
+        "TSNE-2": 9.230232238769531,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -3.03822660446167,
+        "TSNE-2": 5.299224376678467,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": 5.522972106933594,
+        "TSNE-2": -1.6550347805023193,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": 5.923635482788086,
+        "TSNE-2": -0.6510295271873474,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": -8.835671424865723,
+        "TSNE-2": 2.0747525691986084,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": 0.09484843164682388,
+        "TSNE-2": -1.591089129447937,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": -6.005987644195557,
+        "TSNE-2": 1.6631947755813599,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": -0.8306671977043152,
+        "TSNE-2": -14.979248046875,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 0.7090855240821838,
+        "TSNE-2": 4.398598670959473,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": -2.1992604732513428,
+        "TSNE-2": 3.0045437812805176,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 7.28012752532959,
+        "TSNE-2": 4.584604263305664,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": 4.035365104675293,
+        "TSNE-2": -1.3336929082870483,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": 10.51479721069336,
+        "TSNE-2": -1.8070446252822876,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": 4.332119464874268,
+        "TSNE-2": 7.8866286277771,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": 7.860281944274902,
+        "TSNE-2": 8.690275192260742,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -2.5999255180358887,
+        "TSNE-2": -4.452174663543701,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 6.886456489562988,
+        "TSNE-2": -2.4210193157196045,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": -11.244833946228027,
+        "TSNE-2": 5.426485538482666,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -3.121460199356079,
+        "TSNE-2": -11.100634574890137,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": -0.609038233757019,
+        "TSNE-2": 2.369863986968994,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 12.207412719726562,
+        "TSNE-2": -1.0618215799331665,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": 2.658921241760254,
+        "TSNE-2": 9.832770347595215,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": 1.3994160890579224,
+        "TSNE-2": -7.91987419128418,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 1.4997385740280151,
+        "TSNE-2": 7.152122497558594,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": 5.510913848876953,
+        "TSNE-2": -10.11813735961914,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 1.9718677997589111,
+        "TSNE-2": 0.21013423800468445,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 4.009614944458008,
+        "TSNE-2": -11.786520957946777,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": -7.419512748718262,
+        "TSNE-2": 10.66120433807373,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -11.201035499572754,
+        "TSNE-2": 8.279711723327637,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -11.23397159576416,
+        "TSNE-2": 7.028585433959961,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -9.327384948730469,
+        "TSNE-2": -9.933537483215332,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": 4.930881500244141,
+        "TSNE-2": 0.6467439532279968,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": -4.315410137176514,
+        "TSNE-2": -0.04670746624469757,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 3.6501214504241943,
+        "TSNE-2": 1.3176634311676025,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": -1.043123483657837,
+        "TSNE-2": 0.22097256779670715,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 4.14609432220459,
+        "TSNE-2": 4.592923641204834,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -0.05375128984451294,
+        "TSNE-2": -7.622258186340332,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 3.573302745819092,
+        "TSNE-2": 4.703188419342041,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -12.146120071411133,
+        "TSNE-2": -6.72123908996582,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": 10.928976058959961,
+        "TSNE-2": 5.668341159820557,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -4.434428691864014,
+        "TSNE-2": 3.322814464569092,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 5.338901996612549,
+        "TSNE-2": 1.988533616065979,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": 7.740976810455322,
+        "TSNE-2": 0.573474645614624,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": -4.673142433166504,
+        "TSNE-2": -1.981094479560852,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 10.928976058959961,
+        "TSNE-2": 5.668341159820557,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": 8.595170021057129,
+        "TSNE-2": 3.30652117729187,
+        "cluster": 2,
+        "keywords": "consumer, group, additionally, brand, annually"
+      },
+      {
+        "TSNE-1": -2.387066602706909,
+        "TSNE-2": -10.693343162536621,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      },
+      {
+        "TSNE-1": 0.22905325889587402,
+        "TSNE-2": -3.484271764755249,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": -5.845056533813477,
+        "TSNE-2": 14.208852767944336,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -7.419512748718262,
+        "TSNE-2": 10.66120433807373,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -5.914708137512207,
+        "TSNE-2": 6.697084903717041,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": -6.005987644195557,
+        "TSNE-2": 1.6631947755813599,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": 8.700956344604492,
+        "TSNE-2": 9.547916412353516,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -8.762798309326172,
+        "TSNE-2": -3.7716994285583496,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": -7.551562786102295,
+        "TSNE-2": -1.2415332794189453,
+        "cluster": 1,
+        "keywords": "area, ad, easier, previous, cleverer"
+      },
+      {
+        "TSNE-1": 0.38145911693573,
+        "TSNE-2": 6.155222415924072,
+        "cluster": 5,
+        "keywords": "spending, likely, trendsetters, build, billion"
+      },
+      {
+        "TSNE-1": -8.59506893157959,
+        "TSNE-2": 5.069389343261719,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": 0.9658288955688477,
+        "TSNE-2": 1.9903178215026855,
+        "cluster": 4,
+        "keywords": "significant, also, purchasing, new, social"
+      },
+      {
+        "TSNE-1": -1.679419755935669,
+        "TSNE-2": 13.485060691833496,
+        "cluster": 0,
+        "keywords": "student, college, marketing, business, better"
+      },
+      {
+        "TSNE-1": 3.048971176147461,
+        "TSNE-2": -12.0549898147583,
+        "cluster": 3,
+        "keywords": "valuable, customer, potential, demographic, product"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_247",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-224207 - why should businesses target students as their cus"
+  }
+}

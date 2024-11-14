@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-290b2c745e587c3c3a7e2053e8838413"
+  },
+  "datasets": {
+    "data-290b2c745e587c3c3a7e2053e8838413": [
+      {
+        "TSNE-1": -2.969663619995117,
+        "TSNE-2": -1.7061785459518433,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -0.5964685082435608,
+        "TSNE-2": 6.769909381866455,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": 0.6748552918434143,
+        "TSNE-2": 11.050960540771484,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": 2.300295829772949,
+        "TSNE-2": -9.238792419433594,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 0.6748552918434143,
+        "TSNE-2": 11.050960540771484,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": 10.49329662322998,
+        "TSNE-2": -3.126601219177246,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -1.402872085571289,
+        "TSNE-2": -8.376861572265625,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 0.9934449791908264,
+        "TSNE-2": -0.19455915689468384,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 5.05365514755249,
+        "TSNE-2": -11.729106903076172,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 3.2257678508758545,
+        "TSNE-2": 8.526542663574219,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": -9.950713157653809,
+        "TSNE-2": 5.074897289276123,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": -8.268379211425781,
+        "TSNE-2": -7.48153018951416,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": -4.4865403175354,
+        "TSNE-2": -1.4423269033432007,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -4.907294273376465,
+        "TSNE-2": -9.090900421142578,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": -4.966649532318115,
+        "TSNE-2": 8.054838180541992,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": -3.8987200260162354,
+        "TSNE-2": -2.8570587635040283,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 11.364800453186035,
+        "TSNE-2": 4.254721164703369,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 0.9934449791908264,
+        "TSNE-2": -0.19455915689468384,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -3.688331127166748,
+        "TSNE-2": -4.584871768951416,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -0.6283005475997925,
+        "TSNE-2": 1.1470861434936523,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -0.39915627241134644,
+        "TSNE-2": -6.267741680145264,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 8.246927261352539,
+        "TSNE-2": 7.804842472076416,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -4.217213153839111,
+        "TSNE-2": 2.6145517826080322,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": -6.159371852874756,
+        "TSNE-2": -10.436354637145996,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": 1.107043981552124,
+        "TSNE-2": 3.9886302947998047,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": 0.27569472789764404,
+        "TSNE-2": -2.4879798889160156,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 2.5953123569488525,
+        "TSNE-2": -8.651259422302246,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": -1.4289933443069458,
+        "TSNE-2": -8.789427757263184,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": -5.690789222717285,
+        "TSNE-2": 7.586577415466309,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": 11.498209953308105,
+        "TSNE-2": -3.069335460662842,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 4.641269683837891,
+        "TSNE-2": -11.828780174255371,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": -1.895752191543579,
+        "TSNE-2": 4.336668014526367,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": -4.849902629852295,
+        "TSNE-2": -0.8187519311904907,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -2.230043649673462,
+        "TSNE-2": -0.09450040757656097,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -6.315534591674805,
+        "TSNE-2": -5.166802406311035,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": -1.596634030342102,
+        "TSNE-2": -1.6036485433578491,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 5.049290180206299,
+        "TSNE-2": -0.03812622278928757,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -5.548891067504883,
+        "TSNE-2": -2.8896470069885254,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -6.277074337005615,
+        "TSNE-2": 0.45015817880630493,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": 2.3567488193511963,
+        "TSNE-2": -2.243908643722534,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -0.710742712020874,
+        "TSNE-2": 7.402512550354004,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": 0.8605266213417053,
+        "TSNE-2": 3.2283289432525635,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": 7.109077453613281,
+        "TSNE-2": 8.593693733215332,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -7.196258544921875,
+        "TSNE-2": -3.6049001216888428,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": 4.765920639038086,
+        "TSNE-2": 1.5961753129959106,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -10.042192459106445,
+        "TSNE-2": -6.660041809082031,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": -1.586893081665039,
+        "TSNE-2": 2.193316698074341,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 3.0875463485717773,
+        "TSNE-2": 8.225080490112305,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": -9.950713157653809,
+        "TSNE-2": 5.074897289276123,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": 7.3517255783081055,
+        "TSNE-2": 6.434716701507568,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 2.473057508468628,
+        "TSNE-2": 0.6593446135520935,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 10.100275993347168,
+        "TSNE-2": 0.6856486797332764,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 7.112423896789551,
+        "TSNE-2": 8.205114364624023,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -10.042192459106445,
+        "TSNE-2": -6.660041809082031,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": -4.024599075317383,
+        "TSNE-2": 0.11481466889381409,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 4.574646949768066,
+        "TSNE-2": -7.616374969482422,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": -1.673126459121704,
+        "TSNE-2": -3.7638235092163086,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -3.7570202350616455,
+        "TSNE-2": 9.71374797821045,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": -8.101883888244629,
+        "TSNE-2": -2.0355982780456543,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": 4.062831878662109,
+        "TSNE-2": -7.5996904373168945,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 8.385897636413574,
+        "TSNE-2": -3.5076262950897217,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -10.121601104736328,
+        "TSNE-2": -1.0441322326660156,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": -10.750910758972168,
+        "TSNE-2": 0.0024401769042015076,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": 1.136552095413208,
+        "TSNE-2": 2.016050338745117,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 6.994675159454346,
+        "TSNE-2": 3.226255416870117,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 0.4507017433643341,
+        "TSNE-2": -3.7110462188720703,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 7.067539691925049,
+        "TSNE-2": 3.5307304859161377,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -4.000392913818359,
+        "TSNE-2": -7.771000385284424,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": -2.12432599067688,
+        "TSNE-2": -5.05502462387085,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": 4.026557445526123,
+        "TSNE-2": 4.575331211090088,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 4.343475818634033,
+        "TSNE-2": -2.7065017223358154,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 11.364800453186035,
+        "TSNE-2": 4.254721164703369,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 8.305435180664062,
+        "TSNE-2": 0.4506012201309204,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": 5.249330997467041,
+        "TSNE-2": -4.477223873138428,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 4.349752426147461,
+        "TSNE-2": -0.03946521133184433,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -0.6782622337341309,
+        "TSNE-2": -11.823147773742676,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 5.384646892547607,
+        "TSNE-2": -3.852947235107422,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 8.305435180664062,
+        "TSNE-2": 0.4506012201309204,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -11.300832748413086,
+        "TSNE-2": -0.482830286026001,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": -5.1663689613342285,
+        "TSNE-2": 5.738099575042725,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": -5.438538551330566,
+        "TSNE-2": -9.756999969482422,
+        "cluster": 0,
+        "keywords": "farmer, penny, milk, price, litre"
+      },
+      {
+        "TSNE-1": 1.3723556995391846,
+        "TSNE-2": -6.107078552246094,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": 8.385897636413574,
+        "TSNE-2": -3.5076262950897217,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      },
+      {
+        "TSNE-1": -7.240506649017334,
+        "TSNE-2": -1.9522722959518433,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": 2.3567488193511963,
+        "TSNE-2": -2.243908643722534,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -6.556809425354004,
+        "TSNE-2": 7.494343280792236,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": -7.840844631195068,
+        "TSNE-2": 2.5999186038970947,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": 1.7104750871658325,
+        "TSNE-2": -10.539865493774414,
+        "cluster": 2,
+        "keywords": "peasant, due, text, feudal, result"
+      },
+      {
+        "TSNE-1": -3.3308982849121094,
+        "TSNE-2": -3.3189008235931396,
+        "cluster": 5,
+        "keywords": "tax, social, economic, broader, disproportionately"
+      },
+      {
+        "TSNE-1": -7.62854528427124,
+        "TSNE-2": 2.359184980392456,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": -6.346044063568115,
+        "TSNE-2": -0.6180728673934937,
+        "cluster": 3,
+        "keywords": "yellow, fuel, vest, people, movement"
+      },
+      {
+        "TSNE-1": -1.895752191543579,
+        "TSNE-2": 4.336668014526367,
+        "cluster": 4,
+        "keywords": "high, cost, essential, wine, mention"
+      },
+      {
+        "TSNE-1": 3.9083242416381836,
+        "TSNE-2": 4.986596584320068,
+        "cluster": 1,
+        "keywords": "french, government, protest, law, agricultural"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_116",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-213978 - why are french farmers protesting"
+  }
+}

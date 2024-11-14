@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-417534c02825df74d1f0c0c1416582e0"
+  },
+  "datasets": {
+    "data-417534c02825df74d1f0c0c1416582e0": [
+      {
+        "TSNE-1": -0.47517573833465576,
+        "TSNE-2": 2.0676331520080566,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 5.19206428527832,
+        "TSNE-2": 4.258935451507568,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": 8.959617614746094,
+        "TSNE-2": 3.652832508087158,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -6.522984504699707,
+        "TSNE-2": 3.725268840789795,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": 8.959617614746094,
+        "TSNE-2": 3.652832508087158,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": 4.754305839538574,
+        "TSNE-2": -2.168043851852417,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": -7.622866153717041,
+        "TSNE-2": -1.4410905838012695,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -2.6445071697235107,
+        "TSNE-2": 0.6892870664596558,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -4.5824713706970215,
+        "TSNE-2": 9.75969123840332,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": 6.611117839813232,
+        "TSNE-2": 9.426929473876953,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -1.4316325187683105,
+        "TSNE-2": 8.693426132202148,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -2.491384744644165,
+        "TSNE-2": -5.567525386810303,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": 0.8310022950172424,
+        "TSNE-2": 0.929223895072937,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 4.414181709289551,
+        "TSNE-2": -5.104747295379639,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": 4.012569904327393,
+        "TSNE-2": 10.958736419677734,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -1.9261752367019653,
+        "TSNE-2": 3.946615695953369,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -0.18356837332248688,
+        "TSNE-2": -12.483783721923828,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": -2.6445071697235107,
+        "TSNE-2": 0.6892870664596558,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 3.2311837673187256,
+        "TSNE-2": -0.5514407753944397,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 3.7251975536346436,
+        "TSNE-2": -7.147242069244385,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": 0.11715857684612274,
+        "TSNE-2": -9.379220962524414,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": 2.4527382850646973,
+        "TSNE-2": -2.506563425064087,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 1.0636215209960938,
+        "TSNE-2": -5.657647132873535,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": 2.0484020709991455,
+        "TSNE-2": 3.7182159423828125,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -2.6991872787475586,
+        "TSNE-2": 5.9516425132751465,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -1.1358228921890259,
+        "TSNE-2": -0.32029449939727783,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -6.99163293838501,
+        "TSNE-2": 3.759260892868042,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": 10.072731971740723,
+        "TSNE-2": -1.2408775091171265,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": 3.979464292526245,
+        "TSNE-2": 10.424044609069824,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -8.596088409423828,
+        "TSNE-2": 9.214645385742188,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -7.6813530921936035,
+        "TSNE-2": 6.928579330444336,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": 7.649888038635254,
+        "TSNE-2": -7.732458114624023,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": -2.433986186981201,
+        "TSNE-2": -1.6319609880447388,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 0.7063959836959839,
+        "TSNE-2": -1.7618205547332764,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -9.619976997375488,
+        "TSNE-2": 2.2487258911132812,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -6.495564937591553,
+        "TSNE-2": -5.6619391441345215,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -6.211675643920898,
+        "TSNE-2": -0.6340142488479614,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": 8.257320404052734,
+        "TSNE-2": -4.40470552444458,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": -4.093013286590576,
+        "TSNE-2": -0.66193687915802,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -1.7788857221603394,
+        "TSNE-2": -3.714060068130493,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": 4.156461238861084,
+        "TSNE-2": 4.5266876220703125,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -4.430323123931885,
+        "TSNE-2": 6.021624565124512,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -2.643259286880493,
+        "TSNE-2": 2.229353904724121,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 4.407608509063721,
+        "TSNE-2": -3.693272352218628,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": -5.13458251953125,
+        "TSNE-2": -4.918735980987549,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -11.6895170211792,
+        "TSNE-2": -6.25325345993042,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": 5.015589237213135,
+        "TSNE-2": -9.002032279968262,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": 5.8388447761535645,
+        "TSNE-2": 7.356148719787598,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -1.4316325187683105,
+        "TSNE-2": 8.693426132202148,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -5.619207382202148,
+        "TSNE-2": -3.7713654041290283,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": 5.181580543518066,
+        "TSNE-2": -0.6485427618026733,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": 6.611117839813232,
+        "TSNE-2": 9.426929473876953,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -0.0898192822933197,
+        "TSNE-2": 0.49387842416763306,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -10.670259475708008,
+        "TSNE-2": -2.1292800903320312,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -1.2232242822647095,
+        "TSNE-2": 5.826253890991211,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": 2.635549783706665,
+        "TSNE-2": -4.669739723205566,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": 3.9546470642089844,
+        "TSNE-2": 2.0710971355438232,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 7.03603982925415,
+        "TSNE-2": 1.4157503843307495,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -3.803122043609619,
+        "TSNE-2": 3.1223716735839844,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": 2.8043758869171143,
+        "TSNE-2": -3.8911755084991455,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": 12.837610244750977,
+        "TSNE-2": 1.7070214748382568,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -7.7821269035339355,
+        "TSNE-2": -0.25645729899406433,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -6.854842662811279,
+        "TSNE-2": 8.294344902038574,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": 5.767949104309082,
+        "TSNE-2": -9.438016891479492,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": -7.722343921661377,
+        "TSNE-2": -4.248243808746338,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -4.696579933166504,
+        "TSNE-2": 1.311989665031433,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -6.4525556564331055,
+        "TSNE-2": -6.949530601501465,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": -0.3876357674598694,
+        "TSNE-2": -2.180551290512085,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 5.319883346557617,
+        "TSNE-2": 0.7842102646827698,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -0.5099132061004639,
+        "TSNE-2": -8.549131393432617,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": -4.56978178024292,
+        "TSNE-2": 5.43250036239624,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -0.18356837332248688,
+        "TSNE-2": -12.483783721923828,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": 8.54604434967041,
+        "TSNE-2": -2.440019130706787,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": 1.422347903251648,
+        "TSNE-2": 6.49807071685791,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": -4.8388519287109375,
+        "TSNE-2": -6.5860724449157715,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": -4.112734317779541,
+        "TSNE-2": -2.317164421081543,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": 1.5109001398086548,
+        "TSNE-2": 7.145239353179932,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": 8.54604434967041,
+        "TSNE-2": -2.440019130706787,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": -6.181941032409668,
+        "TSNE-2": 8.548280715942383,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": 6.611117839813232,
+        "TSNE-2": 9.426929473876953,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": 1.8661428689956665,
+        "TSNE-2": 2.150928497314453,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -11.386250495910645,
+        "TSNE-2": -6.491034507751465,
+        "cluster": 0,
+        "keywords": "producer, specialization, production, lower, efficiency"
+      },
+      {
+        "TSNE-1": 12.756037712097168,
+        "TSNE-2": 1.4320440292358398,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": 1.583111047744751,
+        "TSNE-2": -1.1603965759277344,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -1.7788857221603394,
+        "TSNE-2": -3.714060068130493,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": 7.79590368270874,
+        "TSNE-2": 10.868751525878906,
+        "cluster": 4,
+        "keywords": "increase, assembly, ultimately, one, benefit"
+      },
+      {
+        "TSNE-1": 10.014455795288086,
+        "TSNE-2": -4.667965888977051,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": -6.635894298553467,
+        "TSNE-2": -8.785043716430664,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      },
+      {
+        "TSNE-1": 2.8551394939422607,
+        "TSNE-2": 0.927777886390686,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": -9.161079406738281,
+        "TSNE-2": 6.82012939453125,
+        "cluster": 3,
+        "keywords": "efficient, possible, thus, resource, worker"
+      },
+      {
+        "TSNE-1": -0.1767285168170929,
+        "TSNE-2": 3.1220955848693848,
+        "cluster": 1,
+        "keywords": "specific, good, higher, allows, specialized"
+      },
+      {
+        "TSNE-1": 7.649888038635254,
+        "TSNE-2": -7.732458114624023,
+        "cluster": 5,
+        "keywords": "product, lead, company, produce, economic"
+      },
+      {
+        "TSNE-1": -0.5099132061004639,
+        "TSNE-2": -8.549131393432617,
+        "cluster": 2,
+        "keywords": "help, cost, price, profit, focus"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_185",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-42195 - how does specialization help producers? responses"
+  }
+}

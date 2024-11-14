@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d909fa425dc8dc5461589a7ce4f66bd7"
+  },
+  "datasets": {
+    "data-d909fa425dc8dc5461589a7ce4f66bd7": [
+      {
+        "TSNE-1": 2.9344632625579834,
+        "TSNE-2": 5.849067687988281,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -5.124090671539307,
+        "TSNE-2": -2.256333351135254,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -6.321998119354248,
+        "TSNE-2": 11.129523277282715,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": 8.792272567749023,
+        "TSNE-2": -0.41589081287384033,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": -6.321998119354248,
+        "TSNE-2": 11.129523277282715,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": -3.644812822341919,
+        "TSNE-2": -9.574738502502441,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -1.7184429168701172,
+        "TSNE-2": 7.590878963470459,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": 1.0977296829223633,
+        "TSNE-2": 0.7860378623008728,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 0.6649556756019592,
+        "TSNE-2": 7.724654197692871,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": 4.510733604431152,
+        "TSNE-2": -6.6629109382629395,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 4.342080116271973,
+        "TSNE-2": 7.323878765106201,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -11.60590934753418,
+        "TSNE-2": 2.0227127075195312,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 2.5333595275878906,
+        "TSNE-2": 3.876309871673584,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -5.511521816253662,
+        "TSNE-2": 6.292040824890137,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": 10.397775650024414,
+        "TSNE-2": -3.8092668056488037,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": 2.817686080932617,
+        "TSNE-2": 1.2976205348968506,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 0.7933443188667297,
+        "TSNE-2": -8.825531005859375,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 1.0977296829223633,
+        "TSNE-2": 0.7860378623008728,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": -0.4438481032848358,
+        "TSNE-2": 4.292325019836426,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": 8.385308265686035,
+        "TSNE-2": -8.206513404846191,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 10.181254386901855,
+        "TSNE-2": 0.9886572957038879,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": 4.216494560241699,
+        "TSNE-2": 3.8353779315948486,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": 9.36731243133545,
+        "TSNE-2": 0.8397395610809326,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": -7.351301193237305,
+        "TSNE-2": 5.087327480316162,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": -8.623703956604004,
+        "TSNE-2": 2.0233702659606934,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -0.6464114785194397,
+        "TSNE-2": 0.8939727544784546,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 7.730340480804443,
+        "TSNE-2": -0.427434504032135,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": -5.115034103393555,
+        "TSNE-2": 10.409414291381836,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": -6.148326396942139,
+        "TSNE-2": 2.2079508304595947,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 0.6698110103607178,
+        "TSNE-2": 12.058920860290527,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -7.196527481079102,
+        "TSNE-2": -0.6302040815353394,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 8.232956886291504,
+        "TSNE-2": -9.570717811584473,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 1.8869829177856445,
+        "TSNE-2": 2.8817360401153564,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": 4.049971580505371,
+        "TSNE-2": 0.057548537850379944,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 2.5859055519104004,
+        "TSNE-2": 8.10903263092041,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -2.482614517211914,
+        "TSNE-2": 1.1028754711151123,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 8.587455749511719,
+        "TSNE-2": 5.443307876586914,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": -4.373646259307861,
+        "TSNE-2": 1.1410523653030396,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 0.6239096522331238,
+        "TSNE-2": -0.8435573577880859,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": -0.8667486310005188,
+        "TSNE-2": -0.6770648956298828,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": -3.6896183490753174,
+        "TSNE-2": -2.4011218547821045,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 4.47834587097168,
+        "TSNE-2": 2.502946138381958,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": 2.7052080631256104,
+        "TSNE-2": 3.090655565261841,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -4.276422023773193,
+        "TSNE-2": -0.2236272096633911,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 3.0562949180603027,
+        "TSNE-2": -2.0870420932769775,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 3.426205635070801,
+        "TSNE-2": -11.741029739379883,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 9.590417861938477,
+        "TSNE-2": -9.363747596740723,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 6.537609100341797,
+        "TSNE-2": -6.798945426940918,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 4.259731769561768,
+        "TSNE-2": 7.344937801361084,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -2.7883572578430176,
+        "TSNE-2": 1.8249096870422363,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 1.9657739400863647,
+        "TSNE-2": -5.770201206207275,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 7.517552375793457,
+        "TSNE-2": -5.516962051391602,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 1.3846949338912964,
+        "TSNE-2": 3.5652217864990234,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -11.169286727905273,
+        "TSNE-2": 2.050795316696167,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -0.6195569634437561,
+        "TSNE-2": 2.8449370861053467,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 7.8933210372924805,
+        "TSNE-2": -1.7899399995803833,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": 1.0425961017608643,
+        "TSNE-2": 5.250856399536133,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": -2.5332729816436768,
+        "TSNE-2": -7.951315402984619,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 1.7189284563064575,
+        "TSNE-2": -0.9015806317329407,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 6.955897808074951,
+        "TSNE-2": -2.242220401763916,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": -11.533885955810547,
+        "TSNE-2": -2.9591002464294434,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -5.763415336608887,
+        "TSNE-2": -6.644504547119141,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -7.40778112411499,
+        "TSNE-2": -5.837368965148926,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 9.549519538879395,
+        "TSNE-2": -10.41947078704834,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": -5.070888519287109,
+        "TSNE-2": 3.7333269119262695,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": -1.9323428869247437,
+        "TSNE-2": -2.8272392749786377,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": -3.079220771789551,
+        "TSNE-2": 3.579441547393799,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": 0.9454514980316162,
+        "TSNE-2": -2.2372548580169678,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": -2.6895182132720947,
+        "TSNE-2": -1.0902588367462158,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 9.868803024291992,
+        "TSNE-2": 0.12011902034282684,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": 5.7287139892578125,
+        "TSNE-2": 2.476863145828247,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": 0.7933443188667297,
+        "TSNE-2": -8.825531005859375,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": -2.940556049346924,
+        "TSNE-2": 8.635021209716797,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": -0.6724599599838257,
+        "TSNE-2": -3.069084644317627,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 8.113615036010742,
+        "TSNE-2": 5.230281829833984,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      },
+      {
+        "TSNE-1": -3.571281671524048,
+        "TSNE-2": -4.744091510772705,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 0.7040985226631165,
+        "TSNE-2": -4.186837196350098,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": -2.940556049346924,
+        "TSNE-2": 8.635021209716797,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": -6.934627056121826,
+        "TSNE-2": -5.82780647277832,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -7.807493686676025,
+        "TSNE-2": -3.294497489929199,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -6.3775248527526855,
+        "TSNE-2": 5.149524688720703,
+        "cluster": 4,
+        "keywords": "document, many, double, standard, false"
+      },
+      {
+        "TSNE-1": 3.575693130493164,
+        "TSNE-2": -12.021031379699707,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": -11.685190200805664,
+        "TSNE-2": -2.878314971923828,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -7.951006889343262,
+        "TSNE-2": 2.0652360916137695,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -0.8667486310005188,
+        "TSNE-2": -0.6770648956298828,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": -2.9831976890563965,
+        "TSNE-2": -8.273422241210938,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": -0.6241438984870911,
+        "TSNE-2": -6.000075817108154,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": 5.893059253692627,
+        "TSNE-2": 8.4085693359375,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": 0.050689153373241425,
+        "TSNE-2": 2.1967341899871826,
+        "cluster": 2,
+        "keywords": "discrimination, negative, workplace, due, individual"
+      },
+      {
+        "TSNE-1": -6.576712608337402,
+        "TSNE-2": 0.1892927587032318,
+        "cluster": 1,
+        "keywords": "younger, adult, age, older, may"
+      },
+      {
+        "TSNE-1": 5.001759052276611,
+        "TSNE-2": 5.996336460113525,
+        "cluster": 0,
+        "keywords": "young, people, stereotype, often, behavior"
+      },
+      {
+        "TSNE-1": 8.232956886291504,
+        "TSNE-2": -9.570717811584473,
+        "cluster": 3,
+        "keywords": "steroid, use, anabolic, likely, mention"
+      },
+      {
+        "TSNE-1": 8.653626441955566,
+        "TSNE-2": -3.1962661743164062,
+        "cluster": 5,
+        "keywords": "text, unfairly, blame, tends, whenever"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_244",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-7532 - are younger adults treated wrongly due to sterotypes"
+  }
+}

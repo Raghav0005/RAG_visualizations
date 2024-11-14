@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-92e62993ef0e7310b42f16f297649a68"
+  },
+  "datasets": {
+    "data-92e62993ef0e7310b42f16f297649a68": [
+      {
+        "TSNE-1": -6.6080708503723145,
+        "TSNE-2": -3.3191027641296387,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 1.924104928970337,
+        "TSNE-2": 13.73331356048584,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": -8.039253234863281,
+        "TSNE-2": -8.60916519165039,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 4.139232635498047,
+        "TSNE-2": -6.744582176208496,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": -8.039253234863281,
+        "TSNE-2": -8.60916519165039,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 13.795343399047852,
+        "TSNE-2": 28.278675079345703,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": -17.888347625732422,
+        "TSNE-2": -3.6291136741638184,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": 6.471710205078125,
+        "TSNE-2": -1.866984248161316,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": 12.981768608093262,
+        "TSNE-2": 10.661693572998047,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": 5.8824567794799805,
+        "TSNE-2": -12.0859375,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": -9.350719451904297,
+        "TSNE-2": -2.310497283935547,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": -10.789806365966797,
+        "TSNE-2": 4.457871437072754,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": 2.7312402725219727,
+        "TSNE-2": 0.9995156526565552,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -14.257372856140137,
+        "TSNE-2": -0.5540285110473633,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": 7.127828121185303,
+        "TSNE-2": 1.9347600936889648,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -5.278602600097656,
+        "TSNE-2": 5.708411693572998,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -3.0216622352600098,
+        "TSNE-2": 17.7316951751709,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": 6.471710205078125,
+        "TSNE-2": -1.866984248161316,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -0.504490315914154,
+        "TSNE-2": -15.44426155090332,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": -4.26270055770874,
+        "TSNE-2": -18.096084594726562,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 3.0691254138946533,
+        "TSNE-2": -3.1913187503814697,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -0.0738140195608139,
+        "TSNE-2": 2.442359209060669,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": 15.333229064941406,
+        "TSNE-2": -0.9204967617988586,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": 14.667779922485352,
+        "TSNE-2": -7.6438117027282715,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -12.527426719665527,
+        "TSNE-2": -4.111754417419434,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": -0.35849201679229736,
+        "TSNE-2": -8.714174270629883,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": 2.8147802352905273,
+        "TSNE-2": -5.9141082763671875,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": -5.7418084144592285,
+        "TSNE-2": -8.267178535461426,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 0.8016058206558228,
+        "TSNE-2": -12.713632583618164,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": 6.569663047790527,
+        "TSNE-2": -19.09501838684082,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": -8.996146202087402,
+        "TSNE-2": 0.9915341734886169,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": -13.975508689880371,
+        "TSNE-2": 7.759774684906006,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": 4.057370185852051,
+        "TSNE-2": 0.7191241383552551,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -3.3799283504486084,
+        "TSNE-2": 4.163130760192871,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -5.127344131469727,
+        "TSNE-2": 10.328821182250977,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -4.233887195587158,
+        "TSNE-2": -3.4768152236938477,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": -1.6843421459197998,
+        "TSNE-2": 0.8027083277702332,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": 9.348769187927246,
+        "TSNE-2": 5.700547218322754,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": 3.544330596923828,
+        "TSNE-2": 7.547621250152588,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": 7.7403082847595215,
+        "TSNE-2": -5.481029033660889,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": 3.1156554222106934,
+        "TSNE-2": 11.989662170410156,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": -8.014877319335938,
+        "TSNE-2": 7.073605060577393,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": 3.1146068572998047,
+        "TSNE-2": 3.6163244247436523,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -11.008316993713379,
+        "TSNE-2": 0.5036212205886841,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": -2.760755777359009,
+        "TSNE-2": -2.1880552768707275,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": -2.819861888885498,
+        "TSNE-2": -7.662471294403076,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": -13.023970603942871,
+        "TSNE-2": -14.495766639709473,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 7.762533187866211,
+        "TSNE-2": -12.848915100097656,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": -9.350719451904297,
+        "TSNE-2": -2.310497283935547,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": -15.12757682800293,
+        "TSNE-2": 2.7221624851226807,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": 6.406343460083008,
+        "TSNE-2": -9.65484619140625,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": 6.043250560760498,
+        "TSNE-2": -14.309130668640137,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": 4.530139446258545,
+        "TSNE-2": 2.2558934688568115,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -6.917350769042969,
+        "TSNE-2": 13.575847625732422,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -4.297054767608643,
+        "TSNE-2": 3.137333869934082,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": 11.540172576904297,
+        "TSNE-2": -1.3653475046157837,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -5.608034610748291,
+        "TSNE-2": 1.6272494792938232,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": 2.7446365356445312,
+        "TSNE-2": -12.593876838684082,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": 1.1459202766418457,
+        "TSNE-2": -2.1047630310058594,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": 10.170316696166992,
+        "TSNE-2": -0.30635935068130493,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": 5.735980987548828,
+        "TSNE-2": 15.434927940368652,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": -3.131821632385254,
+        "TSNE-2": 10.998461723327637,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -2.0656375885009766,
+        "TSNE-2": 9.619229316711426,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -13.975508689880371,
+        "TSNE-2": 7.759774684906006,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": -3.9063222408294678,
+        "TSNE-2": -0.530072033405304,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": 0.7116454839706421,
+        "TSNE-2": 5.550724029541016,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -3.5328280925750732,
+        "TSNE-2": 4.960991859436035,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": 4.506750583648682,
+        "TSNE-2": 5.774329662322998,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": 13.236408233642578,
+        "TSNE-2": 4.421693801879883,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": 3.9593687057495117,
+        "TSNE-2": -10.63888931274414,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": -7.8044586181640625,
+        "TSNE-2": 2.3906707763671875,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": -3.619919538497925,
+        "TSNE-2": 16.724735260009766,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -13.264663696289062,
+        "TSNE-2": -8.192036628723145,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 5.799882411956787,
+        "TSNE-2": 10.299492835998535,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": -1.4902783632278442,
+        "TSNE-2": -1.4325625896453857,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 11.375531196594238,
+        "TSNE-2": 9.305564880371094,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": 0.26547971367836,
+        "TSNE-2": 9.115838050842285,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -13.264663696289062,
+        "TSNE-2": -8.192036628723145,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": -2.6901166439056396,
+        "TSNE-2": 8.511507034301758,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": 9.360672950744629,
+        "TSNE-2": -12.846409797668457,
+        "cluster": 1,
+        "keywords": "difficult, affect, turn, type, create"
+      },
+      {
+        "TSNE-1": -9.504471778869629,
+        "TSNE-2": -12.737808227539062,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": -2.022684097290039,
+        "TSNE-2": -5.947241306304932,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 6.32459831237793,
+        "TSNE-2": 16.470216751098633,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": -5.029976844787598,
+        "TSNE-2": -11.018106460571289,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": 7.7403082847595215,
+        "TSNE-2": -5.481029033660889,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": 7.601143836975098,
+        "TSNE-2": 3.4929933547973633,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": -5.741851329803467,
+        "TSNE-2": -13.8131742477417,
+        "cluster": 2,
+        "keywords": "anxiety, level, actually, impact, event"
+      },
+      {
+        "TSNE-1": -9.27055835723877,
+        "TSNE-2": 9.92115306854248,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": -1.0644991397857666,
+        "TSNE-2": 5.180947303771973,
+        "cluster": 0,
+        "keywords": "stress, memory, formation, lead, retrieval"
+      },
+      {
+        "TSNE-1": 10.78872299194336,
+        "TSNE-2": -4.693618297576904,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      },
+      {
+        "TSNE-1": 7.165839672088623,
+        "TSNE-2": 7.669855117797852,
+        "cluster": 4,
+        "keywords": "nan, acute, impaired, brain, cognitive"
+      },
+      {
+        "TSNE-1": -13.975508689880371,
+        "TSNE-2": 7.759774684906006,
+        "cluster": 5,
+        "keywords": "recall, research, negative, information, impair"
+      },
+      {
+        "TSNE-1": 16.0319881439209,
+        "TSNE-2": -1.7637553215026855,
+        "cluster": 3,
+        "keywords": "effect, chronic, study, cortisol, enhance"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_45",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-136156 - what do studies show about the relationship between stress and memory?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-b54fed49d4de85c25dee47fb2440fea3"
+  },
+  "datasets": {
+    "data-b54fed49d4de85c25dee47fb2440fea3": [
+      {
+        "TSNE-1": 4.169096946716309,
+        "TSNE-2": 13.20910358428955,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": 0.15544897317886353,
+        "TSNE-2": -7.021010398864746,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 12.777666091918945,
+        "TSNE-2": 3.3564648628234863,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -8.468293190002441,
+        "TSNE-2": 8.681756973266602,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 12.777666091918945,
+        "TSNE-2": 3.3564648628234863,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": 28.188831329345703,
+        "TSNE-2": -11.385748863220215,
+        "cluster": 5,
+        "keywords": "nan, yet, essential, especially, equip"
+      },
+      {
+        "TSNE-1": 12.509944915771484,
+        "TSNE-2": 5.89485502243042,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": 4.910223007202148,
+        "TSNE-2": -5.035681247711182,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -0.5737139582633972,
+        "TSNE-2": 0.2578156590461731,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -14.393451690673828,
+        "TSNE-2": 6.1301374435424805,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 11.585431098937988,
+        "TSNE-2": -0.8588330745697021,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -5.977447032928467,
+        "TSNE-2": -6.020691871643066,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 2.061522960662842,
+        "TSNE-2": -4.382312774658203,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 14.556365966796875,
+        "TSNE-2": 1.6814428567886353,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -13.11814022064209,
+        "TSNE-2": 2.119027853012085,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 3.827460765838623,
+        "TSNE-2": 7.701737403869629,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -10.92140007019043,
+        "TSNE-2": -5.974943161010742,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 4.910223007202148,
+        "TSNE-2": -5.035681247711182,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 2.2554757595062256,
+        "TSNE-2": 7.892886161804199,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": 4.865718841552734,
+        "TSNE-2": -11.338140487670898,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 12.837136268615723,
+        "TSNE-2": -10.947999000549316,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -4.923488616943359,
+        "TSNE-2": -4.457984447479248,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -12.815064430236816,
+        "TSNE-2": -1.0279080867767334,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 5.402826309204102,
+        "TSNE-2": 0.850996732711792,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -8.538825988769531,
+        "TSNE-2": -2.105003833770752,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 1.626168131828308,
+        "TSNE-2": -3.3095638751983643,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -9.65416145324707,
+        "TSNE-2": 9.069672584533691,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 13.679242134094238,
+        "TSNE-2": 7.127828598022461,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -11.726043701171875,
+        "TSNE-2": 2.233281373977661,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": -2.937645435333252,
+        "TSNE-2": 0.653025209903717,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -1.538641095161438,
+        "TSNE-2": -0.2171940803527832,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 3.462520122528076,
+        "TSNE-2": -15.094743728637695,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 2.672248363494873,
+        "TSNE-2": 2.2662265300750732,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": 1.6922924518585205,
+        "TSNE-2": 11.998438835144043,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": 7.358574867248535,
+        "TSNE-2": 1.4220577478408813,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -7.215945243835449,
+        "TSNE-2": -4.052449703216553,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 5.594123840332031,
+        "TSNE-2": 5.084775924682617,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": 2.745496988296509,
+        "TSNE-2": -8.615741729736328,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -2.098935604095459,
+        "TSNE-2": 10.022977828979492,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -1.7767932415008545,
+        "TSNE-2": -11.662034034729004,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -2.323706865310669,
+        "TSNE-2": -7.64368200302124,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -2.0771090984344482,
+        "TSNE-2": -3.86037015914917,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 3.6921403408050537,
+        "TSNE-2": 2.228323459625244,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": 0.9733041524887085,
+        "TSNE-2": 4.022826194763184,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -4.833918571472168,
+        "TSNE-2": -2.0820891857147217,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -7.148273944854736,
+        "TSNE-2": -9.433025360107422,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 6.256097316741943,
+        "TSNE-2": -11.536205291748047,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -9.925527572631836,
+        "TSNE-2": 3.1759133338928223,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 11.585431098937988,
+        "TSNE-2": -0.8588330745697021,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -3.201570510864258,
+        "TSNE-2": -2.2386314868927,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 7.643202781677246,
+        "TSNE-2": -5.992105007171631,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -8.859821319580078,
+        "TSNE-2": 2.9555420875549316,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 2.3588929176330566,
+        "TSNE-2": 0.546232283115387,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -7.148273944854736,
+        "TSNE-2": -9.433025360107422,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 3.3952558040618896,
+        "TSNE-2": 10.76361083984375,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": 12.861869812011719,
+        "TSNE-2": -9.68912124633789,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 5.5206780433654785,
+        "TSNE-2": 9.685996055603027,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -15.305670738220215,
+        "TSNE-2": 3.8263235092163086,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 3.9486758708953857,
+        "TSNE-2": -2.9257891178131104,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 11.606155395507812,
+        "TSNE-2": -10.092717170715332,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -5.482842922210693,
+        "TSNE-2": 12.894037246704102,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": 2.8557116985321045,
+        "TSNE-2": -0.8939177989959717,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": 8.742257118225098,
+        "TSNE-2": -3.797530174255371,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 3.486137866973877,
+        "TSNE-2": -11.505951881408691,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -1.924558162689209,
+        "TSNE-2": -1.501483678817749,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 0.8166584968566895,
+        "TSNE-2": 13.75049877166748,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": 4.361377239227295,
+        "TSNE-2": 4.743016719818115,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -0.5429993867874146,
+        "TSNE-2": 9.007813453674316,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -2.8405065536499023,
+        "TSNE-2": -5.05709171295166,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -8.48123550415039,
+        "TSNE-2": 6.578827857971191,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": -0.7095297574996948,
+        "TSNE-2": -3.6333162784576416,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -10.92140007019043,
+        "TSNE-2": -5.974943161010742,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -2.686412811279297,
+        "TSNE-2": 6.597561359405518,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -2.752471685409546,
+        "TSNE-2": 3.576953411102295,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": 7.007043838500977,
+        "TSNE-2": 4.235029697418213,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": 6.027276039123535,
+        "TSNE-2": -1.6063381433486938,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -1.3883094787597656,
+        "TSNE-2": 3.0961880683898926,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -2.686412811279297,
+        "TSNE-2": 6.597561359405518,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": 8.742257118225098,
+        "TSNE-2": -3.797530174255371,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -16.37980079650879,
+        "TSNE-2": 2.6440601348876953,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": 10.49700927734375,
+        "TSNE-2": 2.257452964782715,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": -5.977447032928467,
+        "TSNE-2": -6.020691871643066,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -5.482842922210693,
+        "TSNE-2": 12.894037246704102,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -0.18436798453330994,
+        "TSNE-2": -4.925487041473389,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": -1.7767932415008545,
+        "TSNE-2": -11.662034034729004,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -15.305670738220215,
+        "TSNE-2": 3.8263235092163086,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      },
+      {
+        "TSNE-1": -5.226108074188232,
+        "TSNE-2": 0.9204531908035278,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 9.993782043457031,
+        "TSNE-2": 8.605613708496094,
+        "cluster": 0,
+        "keywords": "child, help, parent, sense, encourage"
+      },
+      {
+        "TSNE-1": 3.794491767883301,
+        "TSNE-2": 9.132294654846191,
+        "cluster": 3,
+        "keywords": "emotional, achieve, foster, good, clear"
+      },
+      {
+        "TSNE-1": -7.702186584472656,
+        "TSNE-2": -0.45273420214653015,
+        "cluster": 1,
+        "keywords": "unconditional, positive, self, regard, condition"
+      },
+      {
+        "TSNE-1": 6.481663227081299,
+        "TSNE-2": -7.990283966064453,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": 3.462520122528076,
+        "TSNE-2": -15.094743728637695,
+        "cluster": 2,
+        "keywords": "high, also, support, congruence, environment"
+      },
+      {
+        "TSNE-1": -9.437582015991211,
+        "TSNE-2": 6.642287731170654,
+        "cluster": 4,
+        "keywords": "supportive, message, lovable, speak, fluent"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_254",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-34583 - how can parents help their children achieve high congruence?"
+  }
+}

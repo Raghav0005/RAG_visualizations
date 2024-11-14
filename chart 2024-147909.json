@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-95c96e1d6171220cc40d2c50c41b6fce"
+  },
+  "datasets": {
+    "data-95c96e1d6171220cc40d2c50c41b6fce": [
+      {
+        "TSNE-1": 5.014363765716553,
+        "TSNE-2": -1.0812466144561768,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": 8.42795467376709,
+        "TSNE-2": 6.0093770027160645,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -10.206287384033203,
+        "TSNE-2": -6.525534629821777,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": 0.18235865235328674,
+        "TSNE-2": -9.437111854553223,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": -10.206287384033203,
+        "TSNE-2": -6.525534629821777,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": -2.547590732574463,
+        "TSNE-2": -8.178596496582031,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": -8.350665092468262,
+        "TSNE-2": -5.863556861877441,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": 2.0808801651000977,
+        "TSNE-2": -2.439469814300537,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -13.807004928588867,
+        "TSNE-2": 7.840700149536133,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": 0.8777377605438232,
+        "TSNE-2": 1.519966959953308,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -4.555515289306641,
+        "TSNE-2": 6.730451583862305,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -7.671811103820801,
+        "TSNE-2": 5.966071605682373,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": 3.470813512802124,
+        "TSNE-2": -5.07363748550415,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 6.191046237945557,
+        "TSNE-2": 0.7280592918395996,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": 1.4554388523101807,
+        "TSNE-2": 6.2736287117004395,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -3.2381820678710938,
+        "TSNE-2": -5.556150913238525,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": -1.7397687435150146,
+        "TSNE-2": -13.415497779846191,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 2.0808801651000977,
+        "TSNE-2": -2.439469814300537,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -3.357377767562866,
+        "TSNE-2": -2.6072967052459717,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": -4.63031005859375,
+        "TSNE-2": 11.27131462097168,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": 0.1113857626914978,
+        "TSNE-2": 0.8087709546089172,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": 6.220596790313721,
+        "TSNE-2": -2.697321653366089,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": 1.1950926780700684,
+        "TSNE-2": 3.6890194416046143,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": 7.16099214553833,
+        "TSNE-2": -0.4266023635864258,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -0.9615622758865356,
+        "TSNE-2": 4.364718437194824,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": 3.209097146987915,
+        "TSNE-2": -1.7583842277526855,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -0.2899841368198395,
+        "TSNE-2": -7.504574298858643,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": -6.353272438049316,
+        "TSNE-2": -5.757137298583984,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": 1.4848592281341553,
+        "TSNE-2": 5.78891134262085,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -0.6649153828620911,
+        "TSNE-2": 7.924890041351318,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -13.497648239135742,
+        "TSNE-2": 8.018853187561035,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -6.999227523803711,
+        "TSNE-2": 10.503905296325684,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": 3.609091281890869,
+        "TSNE-2": -2.9684133529663086,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -1.3015124797821045,
+        "TSNE-2": -3.1479246616363525,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": 6.658860683441162,
+        "TSNE-2": 2.429628849029541,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -3.8355712890625,
+        "TSNE-2": 3.5819666385650635,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": -3.878674030303955,
+        "TSNE-2": 1.8914341926574707,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": 4.75578498840332,
+        "TSNE-2": -6.847507953643799,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 0.2734091281890869,
+        "TSNE-2": -2.0285186767578125,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -6.340854167938232,
+        "TSNE-2": -2.436277151107788,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": 7.987191677093506,
+        "TSNE-2": -4.439029216766357,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 3.8085715770721436,
+        "TSNE-2": 2.9935848712921143,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": 3.024174451828003,
+        "TSNE-2": -4.689723014831543,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 4.982444763183594,
+        "TSNE-2": -9.295799255371094,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": -5.505397796630859,
+        "TSNE-2": 3.4927680492401123,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": -9.68126106262207,
+        "TSNE-2": 4.30987024307251,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -9.36945629119873,
+        "TSNE-2": 8.98552131652832,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -0.42045146226882935,
+        "TSNE-2": 0.08221516013145447,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -4.305349826812744,
+        "TSNE-2": 6.531996726989746,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -4.299509525299072,
+        "TSNE-2": 3.125110387802124,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": 5.194987773895264,
+        "TSNE-2": 9.022613525390625,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -0.5945037603378296,
+        "TSNE-2": 2.553057909011841,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": 4.486193656921387,
+        "TSNE-2": -3.800933599472046,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": -3.4640355110168457,
+        "TSNE-2": 8.846231460571289,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -1.201867938041687,
+        "TSNE-2": -3.2294273376464844,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": 1.8661078214645386,
+        "TSNE-2": -7.435733318328857,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": -3.85788893699646,
+        "TSNE-2": -5.351299285888672,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": 0.5698222517967224,
+        "TSNE-2": -6.212459564208984,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 5.484234809875488,
+        "TSNE-2": -5.057955741882324,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 2.3960301876068115,
+        "TSNE-2": -7.803406715393066,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": -5.207995891571045,
+        "TSNE-2": -8.567882537841797,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": 5.498807430267334,
+        "TSNE-2": 8.605088233947754,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": 4.273061275482178,
+        "TSNE-2": 10.26732349395752,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -6.999227523803711,
+        "TSNE-2": 10.503905296325684,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -4.5076375007629395,
+        "TSNE-2": 0.13101127743721008,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": 4.795594692230225,
+        "TSNE-2": 0.791945219039917,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -4.964417934417725,
+        "TSNE-2": 0.8758471608161926,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": 1.8417410850524902,
+        "TSNE-2": -0.6258113980293274,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": 2.7579119205474854,
+        "TSNE-2": 1.746734619140625,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -0.07454655319452286,
+        "TSNE-2": 1.7065186500549316,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -7.854174613952637,
+        "TSNE-2": 2.062342405319214,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": -1.7397687435150146,
+        "TSNE-2": -13.415497779846191,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 10.52400016784668,
+        "TSNE-2": -1.4030193090438843,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -10.441380500793457,
+        "TSNE-2": -2.745556354522705,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": -5.966558933258057,
+        "TSNE-2": 1.044312596321106,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": -11.426484107971191,
+        "TSNE-2": 11.087201118469238,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": -8.09472370147705,
+        "TSNE-2": -9.888937950134277,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": 10.52400016784668,
+        "TSNE-2": -1.4030193090438843,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": 10.05810260772705,
+        "TSNE-2": -7.2783589363098145,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 0.27422457933425903,
+        "TSNE-2": -8.223306655883789,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": 3.594949722290039,
+        "TSNE-2": -0.447886198759079,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": -7.438476085662842,
+        "TSNE-2": 6.199805736541748,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": 4.767487049102783,
+        "TSNE-2": 5.2358598709106445,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -8.918717384338379,
+        "TSNE-2": 0.2064848393201828,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": -6.340854167938232,
+        "TSNE-2": -2.436277151107788,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": -1.6531202793121338,
+        "TSNE-2": -0.18205492198467255,
+        "cluster": 5,
+        "keywords": "experience, might, struggle, emotional, spending"
+      },
+      {
+        "TSNE-1": 11.878253936767578,
+        "TSNE-2": -4.563728332519531,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": 9.689435958862305,
+        "TSNE-2": 2.4122064113616943,
+        "cluster": 0,
+        "keywords": "financial, relationship, lead, behavior, value"
+      },
+      {
+        "TSNE-1": -2.9601783752441406,
+        "TSNE-2": -1.7759655714035034,
+        "cluster": 3,
+        "keywords": "misalignment, dissatisfaction, life, conflict, confusion"
+      },
+      {
+        "TSNE-1": 5.851237773895264,
+        "TSNE-2": -9.981346130371094,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      },
+      {
+        "TSNE-1": -8.514944076538086,
+        "TSNE-2": -2.763475179672241,
+        "cluster": 4,
+        "keywords": "personal, unhealthy, physical, align, difficult"
+      },
+      {
+        "TSNE-1": -6.999227523803711,
+        "TSNE-2": 10.503905296325684,
+        "cluster": 2,
+        "keywords": "mental, business, money, poor, health"
+      },
+      {
+        "TSNE-1": 0.4092395305633545,
+        "TSNE-2": -4.433714866638184,
+        "cluster": 1,
+        "keywords": "may, feel, living, sense, line"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_37",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-147909 - what might happen if your financial behaviors don't align with your values?"
+  }
+}

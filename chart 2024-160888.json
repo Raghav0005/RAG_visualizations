@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-2728bb7801b87aaf9abd30f95b3ed8ff"
+  },
+  "datasets": {
+    "data-2728bb7801b87aaf9abd30f95b3ed8ff": [
+      {
+        "TSNE-1": -6.412533760070801,
+        "TSNE-2": 3.793243169784546,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -10.544967651367188,
+        "TSNE-2": -0.7262027859687805,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 5.170080184936523,
+        "TSNE-2": 12.067266464233398,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -1.3287173509597778,
+        "TSNE-2": -7.744149208068848,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": 5.170080184936523,
+        "TSNE-2": 12.067266464233398,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": 13.418442726135254,
+        "TSNE-2": 4.316500663757324,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": 3.078089475631714,
+        "TSNE-2": 0.8021056652069092,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": -3.474317789077759,
+        "TSNE-2": 7.147070407867432,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": 2.600762367248535,
+        "TSNE-2": -2.839042901992798,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": -2.5626745223999023,
+        "TSNE-2": -9.791802406311035,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": 9.486432075500488,
+        "TSNE-2": 10.383150100708008,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": 5.883571624755859,
+        "TSNE-2": 5.477965354919434,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": -6.2112202644348145,
+        "TSNE-2": -0.8348580002784729,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": -4.289531230926514,
+        "TSNE-2": -2.27353835105896,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 9.636187553405762,
+        "TSNE-2": 6.170512676239014,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": -1.5752084255218506,
+        "TSNE-2": 1.109110713005066,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 12.357335090637207,
+        "TSNE-2": -1.007129192352295,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": -3.474317789077759,
+        "TSNE-2": 7.147070407867432,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -1.7179125547409058,
+        "TSNE-2": 3.706331968307495,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 5.721991539001465,
+        "TSNE-2": -0.5877054333686829,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": 10.449750900268555,
+        "TSNE-2": -4.551807403564453,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": -2.405815839767456,
+        "TSNE-2": -5.271082401275635,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 9.653996467590332,
+        "TSNE-2": -4.719279766082764,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": -9.429706573486328,
+        "TSNE-2": 2.899327516555786,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -0.45847076177597046,
+        "TSNE-2": -0.14516043663024902,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -7.170248508453369,
+        "TSNE-2": 2.1449058055877686,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -0.20022821426391602,
+        "TSNE-2": -7.489622116088867,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": 3.7210919857025146,
+        "TSNE-2": 1.2582048177719116,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": 9.419617652893066,
+        "TSNE-2": 5.683398246765137,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": 12.302672386169434,
+        "TSNE-2": 3.6955506801605225,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": 2.301201820373535,
+        "TSNE-2": -2.33471941947937,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": 7.8067402839660645,
+        "TSNE-2": 1.910715937614441,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": -5.229962348937988,
+        "TSNE-2": -0.18287914991378784,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -3.87388277053833,
+        "TSNE-2": 4.5170159339904785,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -0.14447848498821259,
+        "TSNE-2": 8.957106590270996,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -6.87981653213501,
+        "TSNE-2": -6.336336612701416,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 1.5558326244354248,
+        "TSNE-2": 5.884241104125977,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -5.0312652587890625,
+        "TSNE-2": -9.298017501831055,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": -8.185014724731445,
+        "TSNE-2": 0.475056916475296,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -2.7673888206481934,
+        "TSNE-2": -0.34744590520858765,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -12.152249336242676,
+        "TSNE-2": 3.071195125579834,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -1.09722900390625,
+        "TSNE-2": -11.330758094787598,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": -5.2580037117004395,
+        "TSNE-2": 1.6870149374008179,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -6.981996536254883,
+        "TSNE-2": -2.1052191257476807,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": -11.32192325592041,
+        "TSNE-2": 6.4220147132873535,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 5.536785125732422,
+        "TSNE-2": -3.773261547088623,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": 8.453237533569336,
+        "TSNE-2": -1.8762688636779785,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": 0.05710730329155922,
+        "TSNE-2": -9.615681648254395,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": 9.486432075500488,
+        "TSNE-2": 10.383150100708008,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": -5.131412506103516,
+        "TSNE-2": -7.055820465087891,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": -8.423888206481934,
+        "TSNE-2": -4.934554100036621,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": -1.0087206363677979,
+        "TSNE-2": -8.96887493133545,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": -5.744729518890381,
+        "TSNE-2": 0.7712384462356567,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 5.1570868492126465,
+        "TSNE-2": 5.856279373168945,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": -0.42375826835632324,
+        "TSNE-2": 2.1243717670440674,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 9.172822952270508,
+        "TSNE-2": -6.230440139770508,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": -2.6085309982299805,
+        "TSNE-2": 2.917423963546753,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 3.518789529800415,
+        "TSNE-2": -13.150961875915527,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": -7.743261337280273,
+        "TSNE-2": -3.57381272315979,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 8.834628105163574,
+        "TSNE-2": -7.410243988037109,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": 0.6978533267974854,
+        "TSNE-2": 13.465481758117676,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": 1.0476118326187134,
+        "TSNE-2": -13.688145637512207,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": -9.348021507263184,
+        "TSNE-2": -5.180517196655273,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 7.508963584899902,
+        "TSNE-2": -1.4332624673843384,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": 1.620314359664917,
+        "TSNE-2": 3.5049593448638916,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -4.724294185638428,
+        "TSNE-2": 3.1410913467407227,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 0.9194730520248413,
+        "TSNE-2": 5.266592502593994,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -7.888495445251465,
+        "TSNE-2": 6.45443058013916,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -3.4931468963623047,
+        "TSNE-2": -6.633880615234375,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 1.730185866355896,
+        "TSNE-2": -6.922224521636963,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": -5.487883567810059,
+        "TSNE-2": -4.307482719421387,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 12.357335090637207,
+        "TSNE-2": -1.007129192352295,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": -4.124452114105225,
+        "TSNE-2": 13.226162910461426,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -1.276545524597168,
+        "TSNE-2": -2.9705097675323486,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": 1.993777871131897,
+        "TSNE-2": 7.0594282150268555,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": 3.7127151489257812,
+        "TSNE-2": 4.153336048126221,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -2.7329983711242676,
+        "TSNE-2": -2.6911184787750244,
+        "cluster": 2,
+        "keywords": "new, also, positive, political, environmental"
+      },
+      {
+        "TSNE-1": -4.124452114105225,
+        "TSNE-2": 13.226162910461426,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": 1.3172929286956787,
+        "TSNE-2": -13.052811622619629,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": 1.4910788536071777,
+        "TSNE-2": -9.531598091125488,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": -8.580792427062988,
+        "TSNE-2": 3.9832401275634766,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 4.439826488494873,
+        "TSNE-2": 7.640707492828369,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": 0.6978533267974854,
+        "TSNE-2": 13.465481758117676,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -1.4946078062057495,
+        "TSNE-2": 5.350543022155762,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -2.7673888206481934,
+        "TSNE-2": -0.34744590520858765,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 3.752485752105713,
+        "TSNE-2": -9.355299949645996,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      },
+      {
+        "TSNE-1": 13.982755661010742,
+        "TSNE-2": 4.738612651824951,
+        "cluster": 5,
+        "keywords": "late, immigrant, early, decrease, century"
+      },
+      {
+        "TSNE-1": -6.863275527954102,
+        "TSNE-2": 9.367158889770508,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -3.258582592010498,
+        "TSNE-2": 1.454856038093567,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": -2.969670057296753,
+        "TSNE-2": 10.141075134277344,
+        "cluster": 0,
+        "keywords": "urbanization, city, urban, living, growth"
+      },
+      {
+        "TSNE-1": -5.616729736328125,
+        "TSNE-2": 5.707770824432373,
+        "cluster": 4,
+        "keywords": "significant, social, public, economic, often"
+      },
+      {
+        "TSNE-1": 7.8067402839660645,
+        "TSNE-2": 1.910715937614441,
+        "cluster": 1,
+        "keywords": "number, unskilled, worker, job, factory"
+      },
+      {
+        "TSNE-1": 1.4261763095855713,
+        "TSNE-2": -6.315306186676025,
+        "cluster": 3,
+        "keywords": "cheap, accommodation, poor, facility, basic"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_243",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-160888 - what were the effects of urbanization in the mid-1800s?"
+  }
+}

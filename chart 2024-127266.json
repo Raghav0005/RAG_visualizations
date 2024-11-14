@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-ea0b5604de0606d707821cf980077d8f"
+  },
+  "datasets": {
+    "data-ea0b5604de0606d707821cf980077d8f": [
+      {
+        "TSNE-1": -3.5304811000823975,
+        "TSNE-2": 4.91847562789917,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -5.405240535736084,
+        "TSNE-2": 1.7046678066253662,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 1.3588323593139648,
+        "TSNE-2": -9.438840866088867,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 0.6594042778015137,
+        "TSNE-2": 5.985145568847656,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 1.3588323593139648,
+        "TSNE-2": -9.438840866088867,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 3.9265127182006836,
+        "TSNE-2": 0.5501672625541687,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 3.8476226329803467,
+        "TSNE-2": -5.983710289001465,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -2.2229559421539307,
+        "TSNE-2": 1.325437068939209,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": -2.783123016357422,
+        "TSNE-2": 9.956971168518066,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -11.304580688476562,
+        "TSNE-2": 3.0587515830993652,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": 1.0210691690444946,
+        "TSNE-2": 11.14640998840332,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 4.635206699371338,
+        "TSNE-2": -2.8664872646331787,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -0.5206379890441895,
+        "TSNE-2": 0.3795934021472931,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": -5.939334869384766,
+        "TSNE-2": -0.7491550445556641,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 13.194646835327148,
+        "TSNE-2": 0.3564780354499817,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": 2.6759731769561768,
+        "TSNE-2": -0.7936009168624878,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -10.120140075683594,
+        "TSNE-2": 7.699036121368408,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -2.2229559421539307,
+        "TSNE-2": 1.325437068939209,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 1.7374589443206787,
+        "TSNE-2": 0.256184846162796,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 7.185732841491699,
+        "TSNE-2": 7.520195484161377,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 2.428609609603882,
+        "TSNE-2": 5.457879543304443,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 0.979600191116333,
+        "TSNE-2": 1.4260660409927368,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 3.155341148376465,
+        "TSNE-2": 5.919641971588135,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": -1.3849469423294067,
+        "TSNE-2": -4.439298629760742,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 0.13895252346992493,
+        "TSNE-2": -4.317072868347168,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -8.028120994567871,
+        "TSNE-2": -2.049316644668579,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 1.1557329893112183,
+        "TSNE-2": 5.348625183105469,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 3.2727878093719482,
+        "TSNE-2": -5.8423237800598145,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 14.305068016052246,
+        "TSNE-2": 1.1432360410690308,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": 2.59395694732666,
+        "TSNE-2": 2.5531630516052246,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 5.829353332519531,
+        "TSNE-2": -8.477069854736328,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 10.137935638427734,
+        "TSNE-2": -5.835611343383789,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -1.5462770462036133,
+        "TSNE-2": -1.9403454065322876,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": -3.8868167400360107,
+        "TSNE-2": -2.871922492980957,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": -7.552610874176025,
+        "TSNE-2": 2.7975776195526123,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": 1.3719145059585571,
+        "TSNE-2": -6.30322790145874,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -2.793256998062134,
+        "TSNE-2": -6.6246337890625,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 3.074158191680908,
+        "TSNE-2": -3.6639883518218994,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -4.499293804168701,
+        "TSNE-2": -1.554492473602295,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 0.5604978203773499,
+        "TSNE-2": -1.8726859092712402,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 4.885987281799316,
+        "TSNE-2": -9.557389259338379,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -8.641213417053223,
+        "TSNE-2": -4.567734718322754,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": -1.8522303104400635,
+        "TSNE-2": -1.5481908321380615,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": -7.4950666427612305,
+        "TSNE-2": 0.46320608258247375,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -5.73539924621582,
+        "TSNE-2": -4.058198928833008,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 5.159681797027588,
+        "TSNE-2": 2.1696412563323975,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 6.6421027183532715,
+        "TSNE-2": 5.09060525894165,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": -11.353362083435059,
+        "TSNE-2": 3.736482858657837,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": 1.1918461322784424,
+        "TSNE-2": 11.204543113708496,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 0.01466042548418045,
+        "TSNE-2": -6.320180416107178,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 8.745803833007812,
+        "TSNE-2": 2.3615658283233643,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": 11.063066482543945,
+        "TSNE-2": 7.279142379760742,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": -1.6924333572387695,
+        "TSNE-2": -0.39678654074668884,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 5.159681797027588,
+        "TSNE-2": 2.1696412563323975,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": -3.8626961708068848,
+        "TSNE-2": -3.8472917079925537,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 0.47857585549354553,
+        "TSNE-2": 7.163589000701904,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": 2.8580117225646973,
+        "TSNE-2": -1.4359941482543945,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 12.388659477233887,
+        "TSNE-2": -0.2938366234302521,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": -2.3155548572540283,
+        "TSNE-2": 3.066770315170288,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 6.8329973220825195,
+        "TSNE-2": 0.5143424868583679,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": 8.773788452148438,
+        "TSNE-2": -2.278148889541626,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": -8.450247764587402,
+        "TSNE-2": -7.570684432983398,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 9.095359802246094,
+        "TSNE-2": 2.514047145843506,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": 7.174351692199707,
+        "TSNE-2": 6.693442344665527,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": -2.0414388179779053,
+        "TSNE-2": -7.028816223144531,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": -5.242746353149414,
+        "TSNE-2": 3.181321144104004,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -2.881638765335083,
+        "TSNE-2": -8.850754737854004,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": -4.162048816680908,
+        "TSNE-2": 4.449551582336426,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -8.630279541015625,
+        "TSNE-2": -3.9458200931549072,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 1.8636415004730225,
+        "TSNE-2": 6.697633743286133,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": -7.660711288452148,
+        "TSNE-2": -4.890095233917236,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": -10.120140075683594,
+        "TSNE-2": 7.699036121368408,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -6.088025093078613,
+        "TSNE-2": 7.513001918792725,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": 5.621157169342041,
+        "TSNE-2": 8.81545352935791,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      },
+      {
+        "TSNE-1": -0.8248823881149292,
+        "TSNE-2": -7.274991989135742,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": -5.866787910461426,
+        "TSNE-2": -5.935976028442383,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": -4.321559906005859,
+        "TSNE-2": -8.111401557922363,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": -6.088025093078613,
+        "TSNE-2": 7.513001918792725,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -0.5268440246582031,
+        "TSNE-2": -10.26300048828125,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 11.220894813537598,
+        "TSNE-2": 6.676573276519775,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": -1.8631314039230347,
+        "TSNE-2": -4.098760604858398,
+        "cluster": 3,
+        "keywords": "often, informal, regulation, exportation, country"
+      },
+      {
+        "TSNE-1": 4.635206699371338,
+        "TSNE-2": -2.8664872646331787,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 8.98279094696045,
+        "TSNE-2": -2.0453152656555176,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": -0.27054092288017273,
+        "TSNE-2": 2.6741230487823486,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 0.5604978203773499,
+        "TSNE-2": -1.8726859092712402,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 13.294694900512695,
+        "TSNE-2": 0.5729953050613403,
+        "cluster": 5,
+        "keywords": "packaging, flexible, lack, efficiently, related"
+      },
+      {
+        "TSNE-1": -11.588671684265137,
+        "TSNE-2": -1.4269872903823853,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -3.5479605197906494,
+        "TSNE-2": 9.927533149719238,
+        "cluster": 0,
+        "keywords": "mention, challenge, significant, step, waste"
+      },
+      {
+        "TSNE-1": -3.5448954105377197,
+        "TSNE-2": -0.3080790042877197,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 4.894815444946289,
+        "TSNE-2": -4.697341442108154,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": -3.9078853130340576,
+        "TSNE-2": 0.7188964486122131,
+        "cluster": 4,
+        "keywords": "many, design, less, modern, rate"
+      },
+      {
+        "TSNE-1": 10.137935638427734,
+        "TSNE-2": -5.835611343383789,
+        "cluster": 1,
+        "keywords": "device, environmental, electronic, industry, health"
+      },
+      {
+        "TSNE-1": 2.0271944999694824,
+        "TSNE-2": 7.752355098724365,
+        "cluster": 2,
+        "keywords": "material, limited, management, difficulty, low"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_300",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-127266 - what are some key challenges related to the recycling of e-waste?"
+  }
+}

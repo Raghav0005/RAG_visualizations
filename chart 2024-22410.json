@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-fdf5afe3ddb5df116d2f5f1d44e82841"
+  },
+  "datasets": {
+    "data-fdf5afe3ddb5df116d2f5f1d44e82841": [
+      {
+        "TSNE-1": 1.8645586967468262,
+        "TSNE-2": 2.3039603233337402,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": 1.9888533353805542,
+        "TSNE-2": -13.278987884521484,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": -1.9243738651275635,
+        "TSNE-2": 13.803740501403809,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": -6.126464366912842,
+        "TSNE-2": 10.591341018676758,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": -1.2660856246948242,
+        "TSNE-2": 13.721559524536133,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": -5.409808158874512,
+        "TSNE-2": 0.8590466976165771,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 10.660443305969238,
+        "TSNE-2": -1.6732985973358154,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": -2.871898651123047,
+        "TSNE-2": 2.6506543159484863,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": -10.0007963180542,
+        "TSNE-2": 3.692131996154785,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 8.613166809082031,
+        "TSNE-2": 11.096869468688965,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -0.6181930303573608,
+        "TSNE-2": -10.313604354858398,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": 14.852783203125,
+        "TSNE-2": -1.232000708580017,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": -1.000797986984253,
+        "TSNE-2": 0.7750147581100464,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 0.4948941767215729,
+        "TSNE-2": -3.7299251556396484,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 6.873350143432617,
+        "TSNE-2": 10.882254600524902,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -5.978074073791504,
+        "TSNE-2": -3.052715539932251,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": -7.442497253417969,
+        "TSNE-2": -8.586663246154785,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": -2.871898651123047,
+        "TSNE-2": 2.6506543159484863,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": 3.6329894065856934,
+        "TSNE-2": -9.889734268188477,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 0.2551119923591614,
+        "TSNE-2": 3.063081741333008,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": 10.024638175964355,
+        "TSNE-2": 9.433926582336426,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -5.082706928253174,
+        "TSNE-2": -1.4297720193862915,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 8.504756927490234,
+        "TSNE-2": 9.018259048461914,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": 1.7780876159667969,
+        "TSNE-2": 9.443849563598633,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": 1.1634553670883179,
+        "TSNE-2": -1.5015649795532227,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 3.774367570877075,
+        "TSNE-2": -5.545764446258545,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 12.657485961914062,
+        "TSNE-2": 8.584503173828125,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": 9.169109344482422,
+        "TSNE-2": -1.959061861038208,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": 8.613166809082031,
+        "TSNE-2": 11.096869468688965,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -6.524092197418213,
+        "TSNE-2": 1.137622356414795,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": -8.751055717468262,
+        "TSNE-2": 2.9320602416992188,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 0.9313495755195618,
+        "TSNE-2": 5.259213924407959,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": -2.2325174808502197,
+        "TSNE-2": -0.5247251987457275,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 4.909194469451904,
+        "TSNE-2": -0.7762423157691956,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": -6.1571221351623535,
+        "TSNE-2": -11.912528991699219,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": -10.163182258605957,
+        "TSNE-2": -7.967825889587402,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": 1.3787471055984497,
+        "TSNE-2": -8.06794548034668,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": -2.154496908187866,
+        "TSNE-2": -4.566883563995361,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 2.954380512237549,
+        "TSNE-2": -1.4239039421081543,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 5.2595391273498535,
+        "TSNE-2": -3.7521848678588867,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 1.0910564661026,
+        "TSNE-2": -12.441329956054688,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": -7.869833469390869,
+        "TSNE-2": -1.554872989654541,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": -1.616987943649292,
+        "TSNE-2": -0.9566360116004944,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": -0.9608715772628784,
+        "TSNE-2": -2.925356388092041,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": -3.2213618755340576,
+        "TSNE-2": -6.127963542938232,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": 9.808378219604492,
+        "TSNE-2": 1.2343922853469849,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": -1.2042560577392578,
+        "TSNE-2": -7.935974597930908,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": 9.635438919067383,
+        "TSNE-2": 7.249291896820068,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -0.6181930303573608,
+        "TSNE-2": -10.313604354858398,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": -1.4545186758041382,
+        "TSNE-2": -6.132192611694336,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": -11.678833961486816,
+        "TSNE-2": -0.02767110988497734,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 8.613166809082031,
+        "TSNE-2": 11.096869468688965,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -0.10622013360261917,
+        "TSNE-2": 0.08336728811264038,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 9.808378219604492,
+        "TSNE-2": 1.2343922853469849,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": 5.63842248916626,
+        "TSNE-2": -0.7134151458740234,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": -2.8440043926239014,
+        "TSNE-2": 9.551423072814941,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": 5.179786682128906,
+        "TSNE-2": 1.2906899452209473,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": 9.635438919067383,
+        "TSNE-2": 7.249291896820068,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -2.6004018783569336,
+        "TSNE-2": -2.799767255783081,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": -2.045855760574341,
+        "TSNE-2": 9.281620025634766,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": 6.310807228088379,
+        "TSNE-2": 3.794616937637329,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -11.678833961486816,
+        "TSNE-2": -0.02767110988497734,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": -11.678833961486816,
+        "TSNE-2": -0.02767110988497734,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 2.7162508964538574,
+        "TSNE-2": 4.565728187561035,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": -3.5469982624053955,
+        "TSNE-2": -7.736437797546387,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": 2.158841133117676,
+        "TSNE-2": 0.34926503896713257,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 0.2595262825489044,
+        "TSNE-2": -5.734163284301758,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 0.477609783411026,
+        "TSNE-2": 7.230871200561523,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": -8.912684440612793,
+        "TSNE-2": -3.4144110679626465,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 6.551587104797363,
+        "TSNE-2": 7.300786972045898,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -7.731149673461914,
+        "TSNE-2": -3.1532413959503174,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": -6.892471790313721,
+        "TSNE-2": -8.948822021484375,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": -3.4287219047546387,
+        "TSNE-2": -13.486748695373535,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": -5.892364501953125,
+        "TSNE-2": 4.5809712409973145,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": 4.1077728271484375,
+        "TSNE-2": -7.242068290710449,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": -12.557085990905762,
+        "TSNE-2": -4.4618659019470215,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": -3.350452184677124,
+        "TSNE-2": 5.230968475341797,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": -3.4287219047546387,
+        "TSNE-2": -13.486748695373535,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": -12.935941696166992,
+        "TSNE-2": -2.2544543743133545,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 11.189594268798828,
+        "TSNE-2": 11.763079643249512,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": 2.3727059364318848,
+        "TSNE-2": -3.4199576377868652,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 14.852783203125,
+        "TSNE-2": -1.232000708580017,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": 6.003206729888916,
+        "TSNE-2": 4.405653953552246,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": -6.307241439819336,
+        "TSNE-2": -6.283644199371338,
+        "cluster": 0,
+        "keywords": "online, degree, employer, career, institution"
+      },
+      {
+        "TSNE-1": 5.2595391273498535,
+        "TSNE-2": -3.7521848678588867,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 9.635438919067383,
+        "TSNE-2": 7.249291896820068,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      },
+      {
+        "TSNE-1": 11.050495147705078,
+        "TSNE-2": -7.635258674621582,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": 6.884531021118164,
+        "TSNE-2": -6.348260879516602,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": -4.3083271980285645,
+        "TSNE-2": -3.341627359390259,
+        "cluster": 2,
+        "keywords": "today, accept, candidate, previous, within"
+      },
+      {
+        "TSNE-1": 13.20235824584961,
+        "TSNE-2": -1.4643230438232422,
+        "cluster": 4,
+        "keywords": "much, college, hold, differentiate, exclusively"
+      },
+      {
+        "TSNE-1": 2.4371001720428467,
+        "TSNE-2": -5.423720836639404,
+        "cluster": 5,
+        "keywords": "program, accreditation, reputable, quality, generally"
+      },
+      {
+        "TSNE-1": 0.9313495755195618,
+        "TSNE-2": 5.259213924407959,
+        "cluster": 1,
+        "keywords": "also, university, seriously, school, student"
+      },
+      {
+        "TSNE-1": 6.724836349487305,
+        "TSNE-2": 8.974594116210938,
+        "cluster": 3,
+        "keywords": "percent, executive, one, credible, traditional"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_110",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-22410 - do employers take online degrees seriously"
+  }
+}

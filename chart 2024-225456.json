@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-ef4b7aec38b3cb7334a9594396f96281"
+  },
+  "datasets": {
+    "data-ef4b7aec38b3cb7334a9594396f96281": [
+      {
+        "TSNE-1": -7.704955101013184,
+        "TSNE-2": 1.7503551244735718,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -12.124300956726074,
+        "TSNE-2": 6.062390327453613,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": 1.6271400451660156,
+        "TSNE-2": 8.015801429748535,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": 6.073759078979492,
+        "TSNE-2": -7.122053623199463,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": 1.6271400451660156,
+        "TSNE-2": 8.015801429748535,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": -5.53431510925293,
+        "TSNE-2": -3.695603609085083,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 1.8129092454910278,
+        "TSNE-2": 6.517874240875244,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": -5.945651531219482,
+        "TSNE-2": 0.37341538071632385,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -1.251171588897705,
+        "TSNE-2": -2.535604953765869,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 10.187495231628418,
+        "TSNE-2": -5.492498397827148,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -4.049264907836914,
+        "TSNE-2": -2.323984146118164,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 7.2278242111206055,
+        "TSNE-2": 11.643389701843262,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": -9.127067565917969,
+        "TSNE-2": 2.449331045150757,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": 9.15356159210205,
+        "TSNE-2": -0.9287242293357849,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": 12.256769180297852,
+        "TSNE-2": -5.776819705963135,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -4.909626007080078,
+        "TSNE-2": 4.776671886444092,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": 5.028056621551514,
+        "TSNE-2": 6.021902084350586,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": -5.945651531219482,
+        "TSNE-2": 0.37341538071632385,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -5.964198589324951,
+        "TSNE-2": 5.7465596199035645,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": 10.431072235107422,
+        "TSNE-2": 5.050362586975098,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": 4.579125881195068,
+        "TSNE-2": -6.271205425262451,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -10.46330738067627,
+        "TSNE-2": -2.651689291000366,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -4.403898239135742,
+        "TSNE-2": 11.888205528259277,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": 11.448463439941406,
+        "TSNE-2": 0.5903825759887695,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": 7.379253387451172,
+        "TSNE-2": -3.131983995437622,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -6.543800354003906,
+        "TSNE-2": 2.615656852722168,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -1.9916011095046997,
+        "TSNE-2": -11.173858642578125,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 1.8129092454910278,
+        "TSNE-2": 6.517874240875244,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": 11.072568893432617,
+        "TSNE-2": -8.498879432678223,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -0.02803763747215271,
+        "TSNE-2": -12.005600929260254,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -1.0450985431671143,
+        "TSNE-2": -1.771496057510376,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 7.015008449554443,
+        "TSNE-2": 3.6139674186706543,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": -10.249656677246094,
+        "TSNE-2": 2.487067937850952,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -3.9948928356170654,
+        "TSNE-2": 6.46732759475708,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": 4.100804805755615,
+        "TSNE-2": 8.24681568145752,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": 1.6463466882705688,
+        "TSNE-2": -2.532548427581787,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -7.543884754180908,
+        "TSNE-2": -0.2634422183036804,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -0.7861686944961548,
+        "TSNE-2": 4.713582992553711,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": -10.34818172454834,
+        "TSNE-2": 4.395524978637695,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -1.615480661392212,
+        "TSNE-2": 1.3818345069885254,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": -4.688530445098877,
+        "TSNE-2": 8.908736228942871,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": -2.206775188446045,
+        "TSNE-2": -8.91602897644043,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -10.123451232910156,
+        "TSNE-2": 0.5849215388298035,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": 1.8368476629257202,
+        "TSNE-2": -6.870856285095215,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -0.02507375180721283,
+        "TSNE-2": -4.781263828277588,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 9.410608291625977,
+        "TSNE-2": 8.43289566040039,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": 1.7544913291931152,
+        "TSNE-2": 11.057308197021484,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": 11.975868225097656,
+        "TSNE-2": -7.313531875610352,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -4.049264907836914,
+        "TSNE-2": -2.323984146118164,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 1.4786325693130493,
+        "TSNE-2": -3.4347586631774902,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 1.7831534147262573,
+        "TSNE-2": -0.28000304102897644,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": 7.72080659866333,
+        "TSNE-2": -5.45562219619751,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -10.725982666015625,
+        "TSNE-2": 1.2160032987594604,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": 9.410608291625977,
+        "TSNE-2": 8.43289566040039,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": -3.9145872592926025,
+        "TSNE-2": 3.052959442138672,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": 5.130599498748779,
+        "TSNE-2": -5.691876411437988,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -12.166348457336426,
+        "TSNE-2": -5.161891460418701,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": 6.1328253746032715,
+        "TSNE-2": -9.653650283813477,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -9.589790344238281,
+        "TSNE-2": -0.8451086282730103,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": 4.689693450927734,
+        "TSNE-2": -8.056957244873047,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": 3.9625442028045654,
+        "TSNE-2": 0.22974428534507751,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": 1.353219985961914,
+        "TSNE-2": 4.1508684158325195,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": 2.115597724914551,
+        "TSNE-2": 4.068787574768066,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": 3.4692962169647217,
+        "TSNE-2": 11.787960052490234,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": -3.3958041667938232,
+        "TSNE-2": -4.736587047576904,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -12.199463844299316,
+        "TSNE-2": 2.303889274597168,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -7.164334297180176,
+        "TSNE-2": 8.515226364135742,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": -12.153177261352539,
+        "TSNE-2": -1.3542799949645996,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": -2.193484306335449,
+        "TSNE-2": -7.012685775756836,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -0.11173947155475616,
+        "TSNE-2": -9.10486888885498,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -3.1147892475128174,
+        "TSNE-2": -7.796546936035156,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 5.028056621551514,
+        "TSNE-2": 6.021902084350586,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": -8.109508514404297,
+        "TSNE-2": -7.907744884490967,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -0.4353410005569458,
+        "TSNE-2": -7.060135841369629,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -1.3064154386520386,
+        "TSNE-2": 7.661523342132568,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": 4.3248677253723145,
+        "TSNE-2": 2.261852741241455,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": 4.197619438171387,
+        "TSNE-2": -2.999124765396118,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": -8.109508514404297,
+        "TSNE-2": -7.907744884490967,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 1.3567298650741577,
+        "TSNE-2": 1.1134705543518066,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": 12.630719184875488,
+        "TSNE-2": -7.484804630279541,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": 10.279230117797852,
+        "TSNE-2": -0.21413424611091614,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": 7.2278242111206055,
+        "TSNE-2": 11.643389701843262,
+        "cluster": 0,
+        "keywords": "support, government, abdel, gamal, communist"
+      },
+      {
+        "TSNE-1": 3.9625442028045654,
+        "TSNE-2": 0.22974428534507751,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": -4.055796146392822,
+        "TSNE-2": 0.20858293771743774,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": -1.615480661392212,
+        "TSNE-2": 1.3818345069885254,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": 9.40851879119873,
+        "TSNE-2": -7.229539394378662,
+        "cluster": 2,
+        "keywords": "political, weaken, influence, achieve, particular"
+      },
+      {
+        "TSNE-1": -7.020881175994873,
+        "TSNE-2": -4.2880706787109375,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": 2.242307662963867,
+        "TSNE-2": -13.193094253540039,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -3.795898675918579,
+        "TSNE-2": 4.493126392364502,
+        "cluster": 4,
+        "keywords": "may, foreign, objective, national, often"
+      },
+      {
+        "TSNE-1": -4.148781776428223,
+        "TSNE-2": -10.651451110839844,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      },
+      {
+        "TSNE-1": -8.052574157714844,
+        "TSNE-2": 3.805818557739258,
+        "cluster": 3,
+        "keywords": "ideological, strategic, direct, iran, sponsorship"
+      },
+      {
+        "TSNE-1": 7.015008449554443,
+        "TSNE-2": 3.6139674186706543,
+        "cluster": 5,
+        "keywords": "safeguard, policy, act, sponsor, might"
+      },
+      {
+        "TSNE-1": -0.11173947155475616,
+        "TSNE-2": -9.10486888885498,
+        "cluster": 1,
+        "keywords": "terrorism, state, terrorist, group, attack"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_237",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-225456 - why would a government sponsor the acts of a terrorist group?"
+  }
+}

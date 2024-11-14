@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-2766689d3dda0e94a394231f1b07fc0c"
+  },
+  "datasets": {
+    "data-2766689d3dda0e94a394231f1b07fc0c": [
+      {
+        "TSNE-1": 3.66473126411438,
+        "TSNE-2": -2.3490521907806396,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 7.832620143890381,
+        "TSNE-2": 8.698649406433105,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": -5.3880085945129395,
+        "TSNE-2": 11.04279613494873,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": -7.74005651473999,
+        "TSNE-2": 6.186360836029053,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": -5.3880085945129395,
+        "TSNE-2": 11.04279613494873,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": -3.9318244457244873,
+        "TSNE-2": -11.451233863830566,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 4.8688859939575195,
+        "TSNE-2": 7.013419151306152,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": 7.309837818145752,
+        "TSNE-2": -1.515356183052063,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -1.186956524848938,
+        "TSNE-2": 5.801775932312012,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": -10.302303314208984,
+        "TSNE-2": -3.4718034267425537,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": -0.9462338089942932,
+        "TSNE-2": 13.328344345092773,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": 0.5002175569534302,
+        "TSNE-2": -8.076863288879395,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 5.424659252166748,
+        "TSNE-2": 0.7562360167503357,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -4.708558559417725,
+        "TSNE-2": 2.1619160175323486,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": -10.649341583251953,
+        "TSNE-2": -2.952962636947632,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": 7.272325038909912,
+        "TSNE-2": 2.0896832942962646,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -4.682338714599609,
+        "TSNE-2": 7.734403610229492,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": 7.309837818145752,
+        "TSNE-2": -1.515356183052063,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 3.352341651916504,
+        "TSNE-2": 3.422361135482788,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -3.71409010887146,
+        "TSNE-2": -6.850426197052002,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": -0.06444580852985382,
+        "TSNE-2": 3.4187769889831543,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 0.7364727258682251,
+        "TSNE-2": 1.1158447265625,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -9.694765090942383,
+        "TSNE-2": 2.191196918487549,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": 5.387155055999756,
+        "TSNE-2": -5.293935775756836,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -0.20877552032470703,
+        "TSNE-2": -2.333977460861206,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 5.162627696990967,
+        "TSNE-2": -1.463069200515747,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -7.271359920501709,
+        "TSNE-2": -0.057230591773986816,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": 8.909344673156738,
+        "TSNE-2": 5.39617395401001,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": -11.669208526611328,
+        "TSNE-2": -2.894787311553955,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": -3.6720316410064697,
+        "TSNE-2": -11.002484321594238,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": -2.4781482219696045,
+        "TSNE-2": 4.514451026916504,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": -7.995666027069092,
+        "TSNE-2": -8.151383399963379,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 6.6355156898498535,
+        "TSNE-2": 0.34680384397506714,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 0.4954650402069092,
+        "TSNE-2": -4.670222759246826,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": -1.4644979238510132,
+        "TSNE-2": -6.379700183868408,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 10.872127532958984,
+        "TSNE-2": -4.3575439453125,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 6.75223445892334,
+        "TSNE-2": 3.5751569271087646,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": 3.6881988048553467,
+        "TSNE-2": -8.524430274963379,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 4.250447750091553,
+        "TSNE-2": -3.6601431369781494,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 3.6684975624084473,
+        "TSNE-2": -0.06370891630649567,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 8.370943069458008,
+        "TSNE-2": 8.91282844543457,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": 6.011528015136719,
+        "TSNE-2": 6.789213180541992,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": 6.23698616027832,
+        "TSNE-2": -0.40444833040237427,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -5.294192790985107,
+        "TSNE-2": 0.710247278213501,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": 10.557095527648926,
+        "TSNE-2": -5.359365940093994,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 2.435478448867798,
+        "TSNE-2": 9.048629760742188,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": 6.950747013092041,
+        "TSNE-2": -7.512317180633545,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -8.395066261291504,
+        "TSNE-2": -2.4662039279937744,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": -0.9462338089942932,
+        "TSNE-2": 13.328344345092773,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": 10.366419792175293,
+        "TSNE-2": -3.5421314239501953,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 12.615029335021973,
+        "TSNE-2": -5.87122917175293,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -3.00716233253479,
+        "TSNE-2": 2.4713873863220215,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 5.854987621307373,
+        "TSNE-2": -2.7679994106292725,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 4.918433666229248,
+        "TSNE-2": 10.168926239013672,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": 1.111786961555481,
+        "TSNE-2": -1.3549991846084595,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -10.503265380859375,
+        "TSNE-2": -0.49543997645378113,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": 4.708360195159912,
+        "TSNE-2": 2.7700467109680176,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -0.16364452242851257,
+        "TSNE-2": -11.49161148071289,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": -0.9398640990257263,
+        "TSNE-2": 0.23043838143348694,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -0.273062527179718,
+        "TSNE-2": 4.055273532867432,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -4.834118366241455,
+        "TSNE-2": -3.5483765602111816,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 0.6624419689178467,
+        "TSNE-2": 7.04703950881958,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": -1.2311630249023438,
+        "TSNE-2": 8.049870491027832,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": -5.742977142333984,
+        "TSNE-2": -6.529181957244873,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 8.02590560913086,
+        "TSNE-2": -4.256607532501221,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 2.2526464462280273,
+        "TSNE-2": 0.8134049773216248,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 8.078845024108887,
+        "TSNE-2": -4.933107376098633,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 2.4859557151794434,
+        "TSNE-2": -1.1433128118515015,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 10.727232933044434,
+        "TSNE-2": -0.21148478984832764,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -7.409124374389648,
+        "TSNE-2": 5.388839244842529,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": 9.553885459899902,
+        "TSNE-2": -0.5906656980514526,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": -4.690560340881348,
+        "TSNE-2": 7.408576488494873,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": 3.051745653152466,
+        "TSNE-2": 6.885349750518799,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": -1.20015287399292,
+        "TSNE-2": -2.2087268829345703,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -1.7194416522979736,
+        "TSNE-2": -3.642399787902832,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 10.781344413757324,
+        "TSNE-2": 2.637697219848633,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 1.5845253467559814,
+        "TSNE-2": -4.332065582275391,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 3.051745653152466,
+        "TSNE-2": 6.885349750518799,
+        "cluster": 4,
+        "keywords": "meaning, stylistic, help, visualize, direct"
+      },
+      {
+        "TSNE-1": -0.22828608751296997,
+        "TSNE-2": 7.321143627166748,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": -11.696564674377441,
+        "TSNE-2": -0.18048737943172455,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": 3.376051187515259,
+        "TSNE-2": -5.396768093109131,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 0.5002175569534302,
+        "TSNE-2": -8.076863288879395,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": -5.102367877960205,
+        "TSNE-2": -3.609583616256714,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": 8.006244659423828,
+        "TSNE-2": 0.6405900120735168,
+        "cluster": 3,
+        "keywords": "emotion, experience, vivid, emotional, uplift"
+      },
+      {
+        "TSNE-1": 3.6684975624084473,
+        "TSNE-2": -0.06370891630649567,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -9.537564277648926,
+        "TSNE-2": -1.752833366394043,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": -6.148010730743408,
+        "TSNE-2": 3.1885316371917725,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      },
+      {
+        "TSNE-1": -2.832170009613037,
+        "TSNE-2": -1.7511425018310547,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 3.631671190261841,
+        "TSNE-2": 2.073320150375366,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": 1.1952438354492188,
+        "TSNE-2": 9.67034912109375,
+        "cluster": 2,
+        "keywords": "short, story, document, affect, reader"
+      },
+      {
+        "TSNE-1": 2.3838019371032715,
+        "TSNE-2": -2.845428943634033,
+        "cluster": 5,
+        "keywords": "reading, communication, compelling, abstract, understand"
+      },
+      {
+        "TSNE-1": -7.995666027069092,
+        "TSNE-2": -8.151383399963379,
+        "cluster": 0,
+        "keywords": "figurative, writer, language, mood, style"
+      },
+      {
+        "TSNE-1": -6.044734001159668,
+        "TSNE-2": 0.01752161979675293,
+        "cluster": 1,
+        "keywords": "thing, unlike, thought, connection, sense"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_262",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-218590 - why does figurative language uplift moods"
+  }
+}

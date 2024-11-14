@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-242880d3325e6fbd7efff343623c990b"
+  },
+  "datasets": {
+    "data-242880d3325e6fbd7efff343623c990b": [
+      {
+        "TSNE-1": -3.4372496604919434,
+        "TSNE-2": 6.7061896324157715,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 2.732480764389038,
+        "TSNE-2": 5.746397972106934,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": 7.814363956451416,
+        "TSNE-2": -5.534548759460449,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": 5.205192565917969,
+        "TSNE-2": -8.834009170532227,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": 7.814363956451416,
+        "TSNE-2": -5.534548759460449,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": 4.180047988891602,
+        "TSNE-2": 4.580916404724121,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -9.923505783081055,
+        "TSNE-2": 1.1431849002838135,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 12.105415344238281,
+        "TSNE-2": -0.7695721983909607,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": 4.598719120025635,
+        "TSNE-2": 9.170512199401855,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -3.7744431495666504,
+        "TSNE-2": 1.7808618545532227,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -5.976290702819824,
+        "TSNE-2": -4.208156585693359,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 8.262310981750488,
+        "TSNE-2": 10.74285888671875,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": 0.5583819150924683,
+        "TSNE-2": -0.6218298673629761,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": -8.909279823303223,
+        "TSNE-2": 0.7223621606826782,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 8.82384204864502,
+        "TSNE-2": 0.3089129626750946,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": -1.6734309196472168,
+        "TSNE-2": 3.801178455352783,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 11.866795539855957,
+        "TSNE-2": -7.177628040313721,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": -7.382072448730469,
+        "TSNE-2": -8.568739891052246,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 2.5741937160491943,
+        "TSNE-2": -4.4461236000061035,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": -1.7411761283874512,
+        "TSNE-2": -3.081369638442993,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": -3.3896214962005615,
+        "TSNE-2": -10.60706901550293,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": 4.815139293670654,
+        "TSNE-2": -4.2747273445129395,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": -3.0294411182403564,
+        "TSNE-2": -11.874884605407715,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": -2.578749179840088,
+        "TSNE-2": 10.234859466552734,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -7.250856876373291,
+        "TSNE-2": -1.9079328775405884,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -9.09608268737793,
+        "TSNE-2": 3.546757221221924,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 5.205192565917969,
+        "TSNE-2": -8.834009170532227,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": -15.17484188079834,
+        "TSNE-2": -3.413086414337158,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 8.960739135742188,
+        "TSNE-2": -0.3362976610660553,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": 9.721539497375488,
+        "TSNE-2": -2.1508467197418213,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": 4.093446731567383,
+        "TSNE-2": 8.73942756652832,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -0.9800076484680176,
+        "TSNE-2": -4.486617565155029,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": -11.638175010681152,
+        "TSNE-2": -5.763169288635254,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -3.6928935050964355,
+        "TSNE-2": -0.8064811825752258,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": -5.585506439208984,
+        "TSNE-2": -6.501168727874756,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 8.629364967346191,
+        "TSNE-2": 6.1812262535095215,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": 2.2939260005950928,
+        "TSNE-2": 12.020968437194824,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -7.636057376861572,
+        "TSNE-2": 4.836785316467285,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -7.203005313873291,
+        "TSNE-2": 9.534454345703125,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 2.2587528228759766,
+        "TSNE-2": -2.5225226879119873,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": 0.26913177967071533,
+        "TSNE-2": 3.1060619354248047,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -2.379349708557129,
+        "TSNE-2": 5.344435214996338,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -10.609911918640137,
+        "TSNE-2": -6.423367977142334,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -9.956649780273438,
+        "TSNE-2": 2.983196258544922,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 6.744248867034912,
+        "TSNE-2": 3.9265029430389404,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": 8.534002304077148,
+        "TSNE-2": 8.389673233032227,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -2.460493803024292,
+        "TSNE-2": -4.732763290405273,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": -11.696002960205078,
+        "TSNE-2": -1.3687160015106201,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -5.976290702819824,
+        "TSNE-2": -4.208156585693359,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 6.696072101593018,
+        "TSNE-2": 4.499419689178467,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": 7.145238399505615,
+        "TSNE-2": 0.7933573722839355,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": -4.2081780433654785,
+        "TSNE-2": 2.228199005126953,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -9.884966850280762,
+        "TSNE-2": -6.734071731567383,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 8.215822219848633,
+        "TSNE-2": 9.200041770935059,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -3.0438311100006104,
+        "TSNE-2": -0.6315906047821045,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": -2.1425364017486572,
+        "TSNE-2": -10.31406021118164,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": 2.164696455001831,
+        "TSNE-2": 0.9822925925254822,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": 5.703858852386475,
+        "TSNE-2": -0.7037454843521118,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": 10.609456062316895,
+        "TSNE-2": 0.9012282490730286,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": -1.9298285245895386,
+        "TSNE-2": -11.528253555297852,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": -9.694239616394043,
+        "TSNE-2": 5.517153739929199,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -0.7663497924804688,
+        "TSNE-2": 6.587550640106201,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 1.0143417119979858,
+        "TSNE-2": 4.815910339355469,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -1.6008576154708862,
+        "TSNE-2": -5.980813026428223,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": 0.7644420266151428,
+        "TSNE-2": 11.711627960205078,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 10.22872543334961,
+        "TSNE-2": 7.222414016723633,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": 1.5527147054672241,
+        "TSNE-2": 10.718379974365234,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -6.521347999572754,
+        "TSNE-2": -1.1064788103103638,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -2.0828521251678467,
+        "TSNE-2": 6.508812427520752,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 4.971445083618164,
+        "TSNE-2": -10.423624992370605,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": 1.1631687879562378,
+        "TSNE-2": 7.592718601226807,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 11.866795539855957,
+        "TSNE-2": -7.177628040313721,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": -8.179298400878906,
+        "TSNE-2": -10.524861335754395,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -14.41069221496582,
+        "TSNE-2": -3.499680995941162,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 2.7283074855804443,
+        "TSNE-2": 3.359299421310425,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": 11.451401710510254,
+        "TSNE-2": 4.125020503997803,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -11.943280220031738,
+        "TSNE-2": 2.545283794403076,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -8.179298400878906,
+        "TSNE-2": -10.524861335754395,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -0.10519831627607346,
+        "TSNE-2": 4.9583740234375,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 0.8244404792785645,
+        "TSNE-2": -6.962174415588379,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": -7.643642902374268,
+        "TSNE-2": -0.18323837220668793,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": 9.817893981933594,
+        "TSNE-2": 8.69285774230957,
+        "cluster": 4,
+        "keywords": "center, camp, hunger, strike, even"
+      },
+      {
+        "TSNE-1": -2.578749179840088,
+        "TSNE-2": 10.234859466552734,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": 1.232245922088623,
+        "TSNE-2": -11.308175086975098,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": 2.2587528228759766,
+        "TSNE-2": -2.5225226879119873,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": 7.891716003417969,
+        "TSNE-2": -1.3112105131149292,
+        "cluster": 5,
+        "keywords": "context, information, ria\u00f1o, provide, joaqu\u00edn"
+      },
+      {
+        "TSNE-1": 1.574184536933899,
+        "TSNE-2": -11.864365577697754,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": 4.863015651702881,
+        "TSNE-2": -13.410909652709961,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      },
+      {
+        "TSNE-1": 2.7057368755340576,
+        "TSNE-2": -0.29880425333976746,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": -7.126660346984863,
+        "TSNE-2": 8.810832977294922,
+        "cluster": 2,
+        "keywords": "nan, canal, old, relocation, prayer"
+      },
+      {
+        "TSNE-1": -8.398744583129883,
+        "TSNE-2": -3.699850082397461,
+        "cluster": 0,
+        "keywords": "resident, protest, dam, construction, town"
+      },
+      {
+        "TSNE-1": -0.9800076484680176,
+        "TSNE-2": -4.486617565155029,
+        "cluster": 1,
+        "keywords": "city, iligan, compensation, rally, military"
+      },
+      {
+        "TSNE-1": 6.075949192047119,
+        "TSNE-2": -10.011923789978027,
+        "cluster": 3,
+        "keywords": "american, united, specific, native, japanese"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_95",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-36302 - how did old ria\u00f1o residents protest relocation?"
+  }
+}

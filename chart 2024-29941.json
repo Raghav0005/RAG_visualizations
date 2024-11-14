@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-fc63ee59ccc07b3d46962aa421fdaca8"
+  },
+  "datasets": {
+    "data-fc63ee59ccc07b3d46962aa421fdaca8": [
+      {
+        "TSNE-1": -5.72320556640625,
+        "TSNE-2": 5.273061275482178,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 17.961223602294922,
+        "TSNE-2": 4.489011287689209,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 8.062251091003418,
+        "TSNE-2": 6.479113578796387,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -0.1322728842496872,
+        "TSNE-2": -6.783442974090576,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": 8.062251091003418,
+        "TSNE-2": 6.479113578796387,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -2.473911762237549,
+        "TSNE-2": -10.432177543640137,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": 8.062251091003418,
+        "TSNE-2": 6.479113578796387,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -8.572885513305664,
+        "TSNE-2": -1.9167324304580688,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 4.211183071136475,
+        "TSNE-2": 5.891700744628906,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -8.474651336669922,
+        "TSNE-2": 10.618550300598145,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": 17.217466354370117,
+        "TSNE-2": -1.1630276441574097,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 8.245121002197266,
+        "TSNE-2": 3.606416940689087,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -10.581160545349121,
+        "TSNE-2": -1.6010991334915161,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -14.052082061767578,
+        "TSNE-2": 3.2392945289611816,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": -13.274394989013672,
+        "TSNE-2": 10.816566467285156,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": 2.106429100036621,
+        "TSNE-2": -5.825374603271484,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": -11.865104675292969,
+        "TSNE-2": -13.48515510559082,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": -8.572885513305664,
+        "TSNE-2": -1.9167324304580688,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 15.655431747436523,
+        "TSNE-2": 9.402878761291504,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 6.382681846618652,
+        "TSNE-2": 9.762943267822266,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": 11.06511116027832,
+        "TSNE-2": -4.5026044845581055,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 3.8738555908203125,
+        "TSNE-2": 0.9638668894767761,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -1.0022621154785156,
+        "TSNE-2": -4.5808000564575195,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -15.307707786560059,
+        "TSNE-2": -4.134553909301758,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -6.468105316162109,
+        "TSNE-2": 16.07339096069336,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": 3.3665828704833984,
+        "TSNE-2": -12.704463958740234,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": 7.2007598876953125,
+        "TSNE-2": -1.9718809127807617,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 10.575528144836426,
+        "TSNE-2": 6.804333209991455,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -13.274394989013672,
+        "TSNE-2": 10.816566467285156,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": 13.945493698120117,
+        "TSNE-2": -9.118741989135742,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": 4.2968363761901855,
+        "TSNE-2": 4.619874000549316,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -0.32341933250427246,
+        "TSNE-2": 1.6900068521499634,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -10.84974193572998,
+        "TSNE-2": -3.493597984313965,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -6.418827056884766,
+        "TSNE-2": -6.8373260498046875,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": 0.9844381809234619,
+        "TSNE-2": 10.925118446350098,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": 9.354148864746094,
+        "TSNE-2": 0.5066555738449097,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -1.6168569326400757,
+        "TSNE-2": 7.595484733581543,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": 1.6322882175445557,
+        "TSNE-2": 6.450540065765381,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": -14.647652626037598,
+        "TSNE-2": -6.844005584716797,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": 6.38326358795166,
+        "TSNE-2": -7.5573554039001465,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": 2.9688632488250732,
+        "TSNE-2": -8.747657775878906,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": -1.1922720670700073,
+        "TSNE-2": -13.373230934143066,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": -9.202605247497559,
+        "TSNE-2": -4.993038654327393,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -13.04736328125,
+        "TSNE-2": -2.131183385848999,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 3.2268218994140625,
+        "TSNE-2": 9.348357200622559,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": 2.546811819076538,
+        "TSNE-2": -19.894317626953125,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": -1.5014421939849854,
+        "TSNE-2": 12.184405326843262,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": 9.334680557250977,
+        "TSNE-2": -2.4259793758392334,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 17.217466354370117,
+        "TSNE-2": -1.1630276441574097,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 9.70592975616455,
+        "TSNE-2": 11.926562309265137,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -9.316316604614258,
+        "TSNE-2": 5.209102630615234,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": -8.474651336669922,
+        "TSNE-2": 10.618550300598145,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": -8.147541046142578,
+        "TSNE-2": 0.4620061218738556,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 2.546811819076538,
+        "TSNE-2": -19.894317626953125,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": -7.841768264770508,
+        "TSNE-2": -8.732756614685059,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": -11.30787467956543,
+        "TSNE-2": 2.8665285110473633,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": 4.824071884155273,
+        "TSNE-2": 16.15789222717285,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": -14.614158630371094,
+        "TSNE-2": 5.7296881675720215,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": 1.116576075553894,
+        "TSNE-2": -1.2826775312423706,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -12.762333869934082,
+        "TSNE-2": 1.0153740644454956,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": 10.970183372497559,
+        "TSNE-2": -9.714451789855957,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": 2.6906936168670654,
+        "TSNE-2": 2.5560500621795654,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -2.233173370361328,
+        "TSNE-2": -1.3195029497146606,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -0.32341933250427246,
+        "TSNE-2": 1.6900068521499634,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -0.32361742854118347,
+        "TSNE-2": 7.591986656188965,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": -5.377294063568115,
+        "TSNE-2": -0.4761802554130554,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 13.836572647094727,
+        "TSNE-2": 3.8435330390930176,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -6.185230255126953,
+        "TSNE-2": -3.7688891887664795,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -4.038071155548096,
+        "TSNE-2": 2.4083805084228516,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -5.489437103271484,
+        "TSNE-2": 8.78567886352539,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": 3.6722891330718994,
+        "TSNE-2": 13.631845474243164,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": -11.865104675292969,
+        "TSNE-2": -13.48515510559082,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": 4.021884918212891,
+        "TSNE-2": -2.6062352657318115,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -0.6096500158309937,
+        "TSNE-2": -2.5729689598083496,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 6.265838623046875,
+        "TSNE-2": 1.2718069553375244,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -18.723358154296875,
+        "TSNE-2": 5.776443004608154,
+        "cluster": 4,
+        "keywords": "another, defective, contributes, variation, transmission"
+      },
+      {
+        "TSNE-1": -2.160238027572632,
+        "TSNE-2": 4.1605119705200195,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 4.021884918212891,
+        "TSNE-2": -2.6062352657318115,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 11.149504661560059,
+        "TSNE-2": 3.108008861541748,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 11.218729019165039,
+        "TSNE-2": -1.462984561920166,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": -17.242305755615234,
+        "TSNE-2": -3.8977091312408447,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": 8.245121002197266,
+        "TSNE-2": 3.606416940689087,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 11.476631164550781,
+        "TSNE-2": -10.83681869506836,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": -11.293606758117676,
+        "TSNE-2": -7.322456359863281,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": 6.38326358795166,
+        "TSNE-2": -7.5573554039001465,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": 13.121540069580078,
+        "TSNE-2": -1.2401299476623535,
+        "cluster": 2,
+        "keywords": "copy, generation, trait, human, risk"
+      },
+      {
+        "TSNE-1": 7.996847629547119,
+        "TSNE-2": -15.348454475402832,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": -0.3327035903930664,
+        "TSNE-2": 16.20527458190918,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": -3.9267208576202393,
+        "TSNE-2": -6.833285331726074,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      },
+      {
+        "TSNE-1": -4.520518779754639,
+        "TSNE-2": 14.030522346496582,
+        "cluster": 0,
+        "keywords": "disease, gene, parent, child, one"
+      },
+      {
+        "TSNE-1": 1.718045711517334,
+        "TSNE-2": -12.225248336791992,
+        "cluster": 3,
+        "keywords": "genetic, society, recessive, example, necessary"
+      },
+      {
+        "TSNE-1": -0.32341933250427246,
+        "TSNE-2": 1.6900068521499634,
+        "cluster": 5,
+        "keywords": "carry, pattern, may, carrier, chromosome"
+      },
+      {
+        "TSNE-1": -5.936319351196289,
+        "TSNE-2": -13.684890747070312,
+        "cluster": 1,
+        "keywords": "autosomal, hereditary, structure, mutation, inheritance"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_18",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-29941 - explain how hereditary diseases are passed from one generation to another."
+  }
+}

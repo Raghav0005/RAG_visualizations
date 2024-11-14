@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-cb0d7c3d03125d77dfeec77129fe5a1f"
+  },
+  "datasets": {
+    "data-cb0d7c3d03125d77dfeec77129fe5a1f": [
+      {
+        "TSNE-1": 5.224649906158447,
+        "TSNE-2": -4.448950290679932,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 1.243026614189148,
+        "TSNE-2": -6.092173099517822,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": -9.05301570892334,
+        "TSNE-2": -6.848365306854248,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": -5.625932216644287,
+        "TSNE-2": -0.3438528776168823,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -9.05301570892334,
+        "TSNE-2": -6.848365306854248,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": -5.16131591796875,
+        "TSNE-2": -2.867373466491699,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": 8.271048545837402,
+        "TSNE-2": 5.425990104675293,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 4.688442707061768,
+        "TSNE-2": -2.7822773456573486,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": -4.366335391998291,
+        "TSNE-2": -6.499058246612549,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": -10.730061531066895,
+        "TSNE-2": -0.07966402918100357,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -0.030159395188093185,
+        "TSNE-2": 0.19533617794513702,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -7.593573093414307,
+        "TSNE-2": 10.59093952178955,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": 0.7424740195274353,
+        "TSNE-2": -1.8770235776901245,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 6.219455718994141,
+        "TSNE-2": 2.8236002922058105,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 9.013392448425293,
+        "TSNE-2": -9.294901847839355,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 8.044364929199219,
+        "TSNE-2": 2.4879963397979736,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -5.200710296630859,
+        "TSNE-2": 6.133210182189941,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": 4.688442707061768,
+        "TSNE-2": -2.7822773456573486,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": -1.37355637550354,
+        "TSNE-2": -3.9339256286621094,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": -0.9000363349914551,
+        "TSNE-2": 5.658247470855713,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": -4.695191383361816,
+        "TSNE-2": 10.461380004882812,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": -1.3217430114746094,
+        "TSNE-2": -9.869272232055664,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": -4.183302402496338,
+        "TSNE-2": 8.387054443359375,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": 3.2148406505584717,
+        "TSNE-2": -5.195976257324219,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 5.546459674835205,
+        "TSNE-2": -0.9579770565032959,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 4.308464527130127,
+        "TSNE-2": 6.2151713371276855,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -6.444534778594971,
+        "TSNE-2": -0.918761670589447,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": 6.885488033294678,
+        "TSNE-2": 4.270477294921875,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 7.503942966461182,
+        "TSNE-2": -9.864551544189453,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 7.286116123199463,
+        "TSNE-2": 7.722128391265869,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -4.597186088562012,
+        "TSNE-2": -6.147614002227783,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": -4.2489013671875,
+        "TSNE-2": 2.540891170501709,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": 2.2525768280029297,
+        "TSNE-2": -2.3149325847625732,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": -2.9496400356292725,
+        "TSNE-2": 4.2018961906433105,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": -1.376278042793274,
+        "TSNE-2": -0.9328034520149231,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": 9.981078147888184,
+        "TSNE-2": -0.0013075806200504303,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 1.0541918277740479,
+        "TSNE-2": 3.4529879093170166,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -6.90957498550415,
+        "TSNE-2": -3.853339672088623,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": 3.6136043071746826,
+        "TSNE-2": -1.2709113359451294,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 4.042477607727051,
+        "TSNE-2": 1.9205619096755981,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 5.572238445281982,
+        "TSNE-2": -6.659659385681152,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 1.7832788228988647,
+        "TSNE-2": 1.461289405822754,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 2.5592384338378906,
+        "TSNE-2": -3.7622694969177246,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 5.42515230178833,
+        "TSNE-2": 6.599835395812988,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 10.700496673583984,
+        "TSNE-2": -0.31681716442108154,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 2.4386332035064697,
+        "TSNE-2": -11.372354507446289,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": -6.2491774559021,
+        "TSNE-2": 2.530564069747925,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -9.896003723144531,
+        "TSNE-2": -1.063622236251831,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -0.030159395188093185,
+        "TSNE-2": 0.19533617794513702,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 7.19028377532959,
+        "TSNE-2": -1.4933996200561523,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 5.002011299133301,
+        "TSNE-2": 4.331162452697754,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -11.135540008544922,
+        "TSNE-2": -0.5374290347099304,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": 1.9489213228225708,
+        "TSNE-2": -2.516113519668579,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 2.614952564239502,
+        "TSNE-2": -10.834774017333984,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 7.038394927978516,
+        "TSNE-2": 1.0550469160079956,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -2.1749324798583984,
+        "TSNE-2": 8.81324291229248,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": -2.6181252002716064,
+        "TSNE-2": -3.9405345916748047,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": 8.642971992492676,
+        "TSNE-2": -3.2063989639282227,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 0.0490729957818985,
+        "TSNE-2": 2.2923624515533447,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -3.5590527057647705,
+        "TSNE-2": 9.093579292297363,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": 13.311738014221191,
+        "TSNE-2": -3.571816921234131,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 1.6931872367858887,
+        "TSNE-2": 8.28624439239502,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": 3.3588457107543945,
+        "TSNE-2": 8.86474609375,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": -4.2489013671875,
+        "TSNE-2": 2.540891170501709,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": 1.547176480293274,
+        "TSNE-2": 4.338271617889404,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 1.6320130825042725,
+        "TSNE-2": -0.5768527984619141,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 3.482987642288208,
+        "TSNE-2": 3.893444776535034,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -11.063502311706543,
+        "TSNE-2": 7.095858097076416,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -9.420989036560059,
+        "TSNE-2": 3.686418294906616,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -7.022237300872803,
+        "TSNE-2": -1.08602774143219,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -9.524418830871582,
+        "TSNE-2": 3.9406042098999023,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -5.200710296630859,
+        "TSNE-2": 6.133210182189941,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": -5.5994720458984375,
+        "TSNE-2": -10.319840431213379,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": 0.8083879351615906,
+        "TSNE-2": -4.049815654754639,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 2.7247796058654785,
+        "TSNE-2": 4.2546515464782715,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -3.0209484100341797,
+        "TSNE-2": 0.7696591019630432,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": 1.458838939666748,
+        "TSNE-2": 6.571786880493164,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": -5.5994720458984375,
+        "TSNE-2": -10.319840431213379,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": 1.3452314138412476,
+        "TSNE-2": 9.909215927124023,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": 9.513519287109375,
+        "TSNE-2": -9.08887767791748,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 4.365058898925781,
+        "TSNE-2": 0.003219880163669586,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 3.6246542930603027,
+        "TSNE-2": -9.187787055969238,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": 13.615299224853516,
+        "TSNE-2": -3.6489500999450684,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 2.918856382369995,
+        "TSNE-2": 0.23469728231430054,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 4.042477607727051,
+        "TSNE-2": 1.9205619096755981,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": 9.055241584777832,
+        "TSNE-2": -3.9345035552978516,
+        "cluster": 1,
+        "keywords": "teen, product, activism, signing, vogue"
+      },
+      {
+        "TSNE-1": 11.82201099395752,
+        "TSNE-2": 5.808009147644043,
+        "cluster": 2,
+        "keywords": "campaign, awareness, others, alternative, raise"
+      },
+      {
+        "TSNE-1": -12.359838485717773,
+        "TSNE-2": -1.494950294494629,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -1.5877450704574585,
+        "TSNE-2": -2.9617953300476074,
+        "cluster": 0,
+        "keywords": "animal, teenager, help, document, organization"
+      },
+      {
+        "TSNE-1": 3.9096333980560303,
+        "TSNE-2": -10.957258224487305,
+        "cluster": 4,
+        "keywords": "legislative, mac, change, humane, cosmetic"
+      },
+      {
+        "TSNE-1": -1.118589997291565,
+        "TSNE-2": 2.9915833473205566,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      },
+      {
+        "TSNE-1": -4.2489013671875,
+        "TSNE-2": 2.540891170501709,
+        "cluster": 5,
+        "keywords": "mention, stop, text, issue, discusses"
+      },
+      {
+        "TSNE-1": -1.5111782550811768,
+        "TSNE-2": 10.764263153076172,
+        "cluster": 3,
+        "keywords": "work, support, test, author, company"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_39",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-142395 - what have teen done to stop animal testing"
+  }
+}

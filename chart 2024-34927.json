@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-214cf8a4739d5dcdc6ed0e3e56dfa781"
+  },
+  "datasets": {
+    "data-214cf8a4739d5dcdc6ed0e3e56dfa781": [
+      {
+        "TSNE-1": -4.700474262237549,
+        "TSNE-2": -2.578120231628418,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": -8.966483116149902,
+        "TSNE-2": 3.995136260986328,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -4.318315505981445,
+        "TSNE-2": -5.633400917053223,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 0.9179580807685852,
+        "TSNE-2": -0.7541583180427551,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": -4.318315505981445,
+        "TSNE-2": -5.633400917053223,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 2.715865135192871,
+        "TSNE-2": 4.5564680099487305,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 2.130221366882324,
+        "TSNE-2": -4.218308925628662,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": -2.2321367263793945,
+        "TSNE-2": 3.0694878101348877,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": 9.453837394714355,
+        "TSNE-2": 7.728174209594727,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -2.4097959995269775,
+        "TSNE-2": -7.291339874267578,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": 3.8365318775177,
+        "TSNE-2": -1.7235298156738281,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 10.765058517456055,
+        "TSNE-2": 0.5361583232879639,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -7.119980812072754,
+        "TSNE-2": 1.7726470232009888,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": 0.3510315418243408,
+        "TSNE-2": -2.3120853900909424,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 0.45166295766830444,
+        "TSNE-2": -6.5052266120910645,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": -7.787806510925293,
+        "TSNE-2": -2.821704387664795,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 5.367172718048096,
+        "TSNE-2": 7.7024688720703125,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -2.2321367263793945,
+        "TSNE-2": 3.0694878101348877,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -7.726871013641357,
+        "TSNE-2": -0.5239566564559937,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": 5.317315101623535,
+        "TSNE-2": -3.5767645835876465,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": 8.068994522094727,
+        "TSNE-2": 4.709920883178711,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -4.135463714599609,
+        "TSNE-2": 3.4264068603515625,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": 0.055042266845703125,
+        "TSNE-2": -13.15233325958252,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": 3.841651678085327,
+        "TSNE-2": -8.816540718078613,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": 5.515676021575928,
+        "TSNE-2": -0.08396704494953156,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -3.9520115852355957,
+        "TSNE-2": 0.19797655940055847,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": 4.901827812194824,
+        "TSNE-2": 6.019163608551025,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": 1.8215583562850952,
+        "TSNE-2": 3.4193098545074463,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 0.3747040033340454,
+        "TSNE-2": -6.561956405639648,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": 12.644936561584473,
+        "TSNE-2": 1.7812813520431519,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -0.3215356469154358,
+        "TSNE-2": 3.8577616214752197,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 6.982074737548828,
+        "TSNE-2": -5.757431507110596,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": -6.038748741149902,
+        "TSNE-2": 2.371185302734375,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -8.902701377868652,
+        "TSNE-2": -1.6515834331512451,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": -1.7531803846359253,
+        "TSNE-2": 8.583983421325684,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": -0.3398682475090027,
+        "TSNE-2": 6.679661273956299,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": 5.720236778259277,
+        "TSNE-2": 2.296978712081909,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -7.165818214416504,
+        "TSNE-2": 8.557516098022461,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": -3.1030373573303223,
+        "TSNE-2": -1.5004571676254272,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": -5.819953441619873,
+        "TSNE-2": -0.10835997760295868,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -11.133051872253418,
+        "TSNE-2": 2.8239450454711914,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -2.0281291007995605,
+        "TSNE-2": -3.2099850177764893,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": -7.121440410614014,
+        "TSNE-2": 2.7067770957946777,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -2.09202241897583,
+        "TSNE-2": 0.2663382291793823,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 0.36536961793899536,
+        "TSNE-2": 7.175205230712891,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": -12.925834655761719,
+        "TSNE-2": -1.750098705291748,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 7.722515106201172,
+        "TSNE-2": -7.111451625823975,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": 1.8263823986053467,
+        "TSNE-2": -1.2559969425201416,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 3.8365318775177,
+        "TSNE-2": -1.7235298156738281,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": -2.565509557723999,
+        "TSNE-2": 5.931656837463379,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": -1.2255257368087769,
+        "TSNE-2": -10.039888381958008,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": -0.6898446083068848,
+        "TSNE-2": -5.396133899688721,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": -3.23403000831604,
+        "TSNE-2": 1.7131222486495972,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": 11.19990348815918,
+        "TSNE-2": 0.34782445430755615,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -6.485205173492432,
+        "TSNE-2": -2.0852150917053223,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 0.3790495693683624,
+        "TSNE-2": -4.3953399658203125,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": -7.112126350402832,
+        "TSNE-2": -5.230513572692871,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 2.868105173110962,
+        "TSNE-2": 0.7073149085044861,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": -2.1361217498779297,
+        "TSNE-2": 4.941014289855957,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": 8.6474027633667,
+        "TSNE-2": 4.3355536460876465,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -5.637343883514404,
+        "TSNE-2": 9.88888931274414,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": 0.05390191078186035,
+        "TSNE-2": -9.842445373535156,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": 7.4211273193359375,
+        "TSNE-2": -0.18241313099861145,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -1.00846529006958,
+        "TSNE-2": 0.997946560382843,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": -3.75111985206604,
+        "TSNE-2": 5.606390953063965,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": -4.153467655181885,
+        "TSNE-2": -1.8468456268310547,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 6.639492511749268,
+        "TSNE-2": 1.6622521877288818,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -8.841570854187012,
+        "TSNE-2": 1.5641701221466064,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -3.181628942489624,
+        "TSNE-2": -4.164381504058838,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 3.0313262939453125,
+        "TSNE-2": -5.722078800201416,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": -9.3570556640625,
+        "TSNE-2": -3.9437856674194336,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 5.367172718048096,
+        "TSNE-2": 7.7024688720703125,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": 1.309417724609375,
+        "TSNE-2": 1.6520636081695557,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": -4.852287769317627,
+        "TSNE-2": 6.253458499908447,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": -2.2575254440307617,
+        "TSNE-2": -10.068297386169434,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": -6.933714866638184,
+        "TSNE-2": 4.367485046386719,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -3.270989179611206,
+        "TSNE-2": 7.171393394470215,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": 1.309417724609375,
+        "TSNE-2": 1.6520636081695557,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 7.8217597007751465,
+        "TSNE-2": -0.8235251307487488,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": 2.637138605117798,
+        "TSNE-2": 6.716411590576172,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": -0.3760429620742798,
+        "TSNE-2": -1.7131966352462769,
+        "cluster": 4,
+        "keywords": "perpetuate, affect, information, also, create"
+      },
+      {
+        "TSNE-1": 12.274413108825684,
+        "TSNE-2": -0.33149534463882446,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -5.637343883514404,
+        "TSNE-2": 9.88888931274414,
+        "cluster": 0,
+        "keywords": "social, medium, racial, disparity, benefit"
+      },
+      {
+        "TSNE-1": 9.443641662597656,
+        "TSNE-2": -3.2890472412109375,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -5.819953441619873,
+        "TSNE-2": -0.10835997760295868,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -5.176825046539307,
+        "TSNE-2": -8.876297950744629,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 13.397661209106445,
+        "TSNE-2": 2.7864694595336914,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -11.156800270080566,
+        "TSNE-2": 0.13783609867095947,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": -7.074740886688232,
+        "TSNE-2": -3.7050609588623047,
+        "cluster": 2,
+        "keywords": "digital, access, urban, divide, platform"
+      },
+      {
+        "TSNE-1": 8.051356315612793,
+        "TSNE-2": 1.22422194480896,
+        "cluster": 3,
+        "keywords": "intolerance, public, group, lack, lead"
+      },
+      {
+        "TSNE-1": -4.274823188781738,
+        "TSNE-2": 1.190385341644287,
+        "cluster": 5,
+        "keywords": "user, background, educational, socioeconomic, poorer"
+      },
+      {
+        "TSNE-1": 6.982074737548828,
+        "TSNE-2": -5.757431507110596,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      },
+      {
+        "TSNE-1": 3.079935073852539,
+        "TSNE-2": -6.047937393188477,
+        "cluster": 1,
+        "keywords": "economic, propagate, city, answer, stereotype"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_289",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-34927 - how city social media can propogate disparity"
+  }
+}

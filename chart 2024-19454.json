@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-79692716962fe6dcfe371db975dac2c3"
+  },
+  "datasets": {
+    "data-79692716962fe6dcfe371db975dac2c3": [
+      {
+        "TSNE-1": -1.5813864469528198,
+        "TSNE-2": 0.4071858823299408,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": 0.6669358015060425,
+        "TSNE-2": -13.515735626220703,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": -3.4831666946411133,
+        "TSNE-2": 4.968362331390381,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": -2.12888240814209,
+        "TSNE-2": 10.053939819335938,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": -3.4831666946411133,
+        "TSNE-2": 4.968362331390381,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": -5.743870735168457,
+        "TSNE-2": 4.177611351013184,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": -0.6348532438278198,
+        "TSNE-2": -7.264924049377441,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": 12.13417911529541,
+        "TSNE-2": 3.9048819541931152,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": 11.94728946685791,
+        "TSNE-2": 15.86954116821289,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": 11.072397232055664,
+        "TSNE-2": -10.396976470947266,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -4.678763389587402,
+        "TSNE-2": -12.64230728149414,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": 0.4959910809993744,
+        "TSNE-2": 0.587177574634552,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -2.247605800628662,
+        "TSNE-2": 7.82063102722168,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": 11.474257469177246,
+        "TSNE-2": 8.485937118530273,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": 1.715044617652893,
+        "TSNE-2": -4.9008917808532715,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 3.825253486633301,
+        "TSNE-2": 16.9231014251709,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": -0.6348532438278198,
+        "TSNE-2": -7.264924049377441,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": -1.050634503364563,
+        "TSNE-2": -10.394097328186035,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": 3.0111963748931885,
+        "TSNE-2": 8.063050270080566,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": 9.380451202392578,
+        "TSNE-2": 2.150705099105835,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 1.530663251876831,
+        "TSNE-2": 4.631810665130615,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": 0.1068902239203453,
+        "TSNE-2": 8.871070861816406,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": 4.545734882354736,
+        "TSNE-2": -9.79474925994873,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": 0.7055765986442566,
+        "TSNE-2": -3.3246612548828125,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 0.22507336735725403,
+        "TSNE-2": -1.457837700843811,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 8.251764297485352,
+        "TSNE-2": 6.937394142150879,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": 14.414158821105957,
+        "TSNE-2": -0.21854838728904724,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -15.037108421325684,
+        "TSNE-2": -1.6990020275115967,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 5.367523670196533,
+        "TSNE-2": -14.907195091247559,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": 11.007498741149902,
+        "TSNE-2": 4.384183883666992,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": 5.114442825317383,
+        "TSNE-2": 8.55158519744873,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": 2.345980167388916,
+        "TSNE-2": -1.538002848625183,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 4.450639247894287,
+        "TSNE-2": -6.902667045593262,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -10.468215942382812,
+        "TSNE-2": -5.763984203338623,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -6.493525505065918,
+        "TSNE-2": -2.518127918243408,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -3.7261922359466553,
+        "TSNE-2": -2.851391077041626,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 3.6140666007995605,
+        "TSNE-2": 4.033478260040283,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": 1.8277184963226318,
+        "TSNE-2": -7.825521945953369,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": 4.76046085357666,
+        "TSNE-2": 0.10434229671955109,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -8.93737506866455,
+        "TSNE-2": 11.874983787536621,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": -8.744589805603027,
+        "TSNE-2": -1.7292065620422363,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -0.53990238904953,
+        "TSNE-2": -2.724825382232666,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -4.588412761688232,
+        "TSNE-2": -8.32597827911377,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -2.4705495834350586,
+        "TSNE-2": -1.5920994281768799,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -9.198918342590332,
+        "TSNE-2": -11.30286979675293,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 1.4969860315322876,
+        "TSNE-2": 6.427995681762695,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": 13.202220916748047,
+        "TSNE-2": 14.588613510131836,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": 11.072397232055664,
+        "TSNE-2": -10.396976470947266,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -4.106300354003906,
+        "TSNE-2": 0.6172906160354614,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": 4.389800548553467,
+        "TSNE-2": -15.630081176757812,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": 11.94728946685791,
+        "TSNE-2": 15.86954116821289,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": 2.393237829208374,
+        "TSNE-2": 0.3312268853187561,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -9.198918342590332,
+        "TSNE-2": -11.30286979675293,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 5.559218406677246,
+        "TSNE-2": -2.4415271282196045,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -2.7966907024383545,
+        "TSNE-2": 11.188619613647461,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": 6.934380054473877,
+        "TSNE-2": 0.8265396356582642,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 12.76805305480957,
+        "TSNE-2": 8.731266021728516,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": -11.225506782531738,
+        "TSNE-2": 0.10210428386926651,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 0.3650060296058655,
+        "TSNE-2": 12.385050773620605,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": -15.201518058776855,
+        "TSNE-2": -7.152665615081787,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -9.434000015258789,
+        "TSNE-2": 3.5616695880889893,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": 8.875005722045898,
+        "TSNE-2": -3.1384963989257812,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 5.724149703979492,
+        "TSNE-2": 10.851616859436035,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": -5.154610633850098,
+        "TSNE-2": -2.108933687210083,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -0.9196696281433105,
+        "TSNE-2": 2.5077075958251953,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": -5.446532249450684,
+        "TSNE-2": -4.734878063201904,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 7.558842658996582,
+        "TSNE-2": -6.116514205932617,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 3.485445499420166,
+        "TSNE-2": -4.072995185852051,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 9.569108009338379,
+        "TSNE-2": 7.641802787780762,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": -0.747084379196167,
+        "TSNE-2": -4.872696399688721,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": 3.825253486633301,
+        "TSNE-2": 16.9231014251709,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": -8.339463233947754,
+        "TSNE-2": 7.005270481109619,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": -6.734254360198975,
+        "TSNE-2": 0.7911878824234009,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": -5.907325267791748,
+        "TSNE-2": 7.923321723937988,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": 11.476957321166992,
+        "TSNE-2": -2.9760582447052,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -2.8890140056610107,
+        "TSNE-2": 15.135087966918945,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": -8.339463233947754,
+        "TSNE-2": 7.005270481109619,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": -10.482222557067871,
+        "TSNE-2": -7.6216630935668945,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 9.328956604003906,
+        "TSNE-2": 14.644335746765137,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": 2.6595442295074463,
+        "TSNE-2": -10.238386154174805,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": -4.678763389587402,
+        "TSNE-2": -12.64230728149414,
+        "cluster": 4,
+        "keywords": "state, united, many, work, significant"
+      },
+      {
+        "TSNE-1": -15.201518058776855,
+        "TSNE-2": -7.152665615081787,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -2.961517810821533,
+        "TSNE-2": -5.779365539550781,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 4.76046085357666,
+        "TSNE-2": 0.10434229671955109,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 11.78743839263916,
+        "TSNE-2": 10.274053573608398,
+        "cluster": 1,
+        "keywords": "modern, shape, first, use, since"
+      },
+      {
+        "TSNE-1": -7.232563018798828,
+        "TSNE-2": -7.0848307609558105,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": -13.452624320983887,
+        "TSNE-2": 7.784385681152344,
+        "cluster": 2,
+        "keywords": "ability, richer, opportunity, life, better"
+      },
+      {
+        "TSNE-1": 6.994691371917725,
+        "TSNE-2": -8.319686889648438,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": -7.232563018798828,
+        "TSNE-2": -7.0848307609558105,
+        "cluster": 0,
+        "keywords": "american, dream, early, hard, depression"
+      },
+      {
+        "TSNE-1": 6.757014274597168,
+        "TSNE-2": -4.004930019378662,
+        "cluster": 3,
+        "keywords": "economic, belief, success, mobility, immigrant"
+      },
+      {
+        "TSNE-1": 5.114442825317383,
+        "TSNE-2": 8.55158519744873,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      },
+      {
+        "TSNE-1": 1.0654683113098145,
+        "TSNE-2": 11.683761596679688,
+        "cluster": 5,
+        "keywords": "exist, america, idea, concept, truslow"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_151",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-19454 - did the american dream exist in the early 1900s"
+  }
+}

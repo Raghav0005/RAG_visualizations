@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-ad8c2db5a3605a439570f3124a53c91b"
+  },
+  "datasets": {
+    "data-ad8c2db5a3605a439570f3124a53c91b": [
+      {
+        "TSNE-1": -1.5525797605514526,
+        "TSNE-2": 9.837523460388184,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": 8.454315185546875,
+        "TSNE-2": 8.773697853088379,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": 10.01129150390625,
+        "TSNE-2": 1.8805277347564697,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": 3.436338186264038,
+        "TSNE-2": -5.634852409362793,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 10.01129150390625,
+        "TSNE-2": 1.8805277347564697,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": 9.397275924682617,
+        "TSNE-2": -1.9971728324890137,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": 6.4185967445373535,
+        "TSNE-2": 1.916366696357727,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": 4.363500595092773,
+        "TSNE-2": 9.153472900390625,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -5.530735492706299,
+        "TSNE-2": -0.6283597946166992,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 8.8768310546875,
+        "TSNE-2": -4.180314064025879,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": -3.6409099102020264,
+        "TSNE-2": -6.4016947746276855,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 1.4840493202209473,
+        "TSNE-2": -11.358518600463867,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": 0.7585411071777344,
+        "TSNE-2": 7.063109874725342,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": 15.770631790161133,
+        "TSNE-2": -3.3395273685455322,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": -10.148961067199707,
+        "TSNE-2": -0.5816212296485901,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -1.8061211109161377,
+        "TSNE-2": 6.368636608123779,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -6.345561981201172,
+        "TSNE-2": -2.7273356914520264,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 4.363500595092773,
+        "TSNE-2": 9.153472900390625,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": 0.28392815589904785,
+        "TSNE-2": 13.988354682922363,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": 1.5315327644348145,
+        "TSNE-2": 3.371676206588745,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -8.085528373718262,
+        "TSNE-2": -1.044665813446045,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 3.6966781616210938,
+        "TSNE-2": -2.030839204788208,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 3.5454816818237305,
+        "TSNE-2": -8.22828483581543,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 6.480093002319336,
+        "TSNE-2": 12.924576759338379,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -7.2150187492370605,
+        "TSNE-2": 7.889004707336426,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": 4.44395112991333,
+        "TSNE-2": 7.205343246459961,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -3.508115530014038,
+        "TSNE-2": -12.869142532348633,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": 4.655352592468262,
+        "TSNE-2": 1.3306971788406372,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": -9.745227813720703,
+        "TSNE-2": -1.7366362810134888,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -11.96308708190918,
+        "TSNE-2": -1.7712550163269043,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -6.752790451049805,
+        "TSNE-2": 0.5006718635559082,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -8.923460960388184,
+        "TSNE-2": -7.741973400115967,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 2.736987829208374,
+        "TSNE-2": 7.089268684387207,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": 1.2037731409072876,
+        "TSNE-2": 11.515448570251465,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -4.475562572479248,
+        "TSNE-2": 5.7492218017578125,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -3.2453925609588623,
+        "TSNE-2": 3.0175693035125732,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -1.4793838262557983,
+        "TSNE-2": -1.2998708486557007,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -7.567366123199463,
+        "TSNE-2": -12.991408348083496,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": 3.4517486095428467,
+        "TSNE-2": 11.42359447479248,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": 6.057235240936279,
+        "TSNE-2": 5.283619403839111,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -4.209792613983154,
+        "TSNE-2": 11.087652206420898,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -6.870376110076904,
+        "TSNE-2": 3.916321277618408,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": 0.12392494827508926,
+        "TSNE-2": 8.799103736877441,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -9.71958065032959,
+        "TSNE-2": 7.008725643157959,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -1.7717530727386475,
+        "TSNE-2": 0.44305577874183655,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -0.7390034794807434,
+        "TSNE-2": -9.569475173950195,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": -7.2516374588012695,
+        "TSNE-2": -6.378543853759766,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -5.903316974639893,
+        "TSNE-2": -12.119961738586426,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": -3.6409099102020264,
+        "TSNE-2": -6.4016947746276855,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -1.4420394897460938,
+        "TSNE-2": 3.0471251010894775,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": 0.9497638940811157,
+        "TSNE-2": -3.0927422046661377,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 9.640358924865723,
+        "TSNE-2": -3.3597252368927,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": 1.1970762014389038,
+        "TSNE-2": 7.813577175140381,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -0.7390034794807434,
+        "TSNE-2": -9.569475173950195,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": -2.191652774810791,
+        "TSNE-2": 7.454606533050537,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -3.8995368480682373,
+        "TSNE-2": -1.2587361335754395,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -2.4700188636779785,
+        "TSNE-2": 4.9355082511901855,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": 11.212244987487793,
+        "TSNE-2": -3.896357297897339,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": 12.898591041564941,
+        "TSNE-2": -0.8898109793663025,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": -10.492327690124512,
+        "TSNE-2": 2.5774784088134766,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": 5.432847023010254,
+        "TSNE-2": -3.3447747230529785,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 8.356313705444336,
+        "TSNE-2": -11.180254936218262,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 2.8358423709869385,
+        "TSNE-2": -4.090038299560547,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": -10.38376522064209,
+        "TSNE-2": -6.377118110656738,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": -0.28957700729370117,
+        "TSNE-2": 3.393812417984009,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": 2.495500326156616,
+        "TSNE-2": 5.384975910186768,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -3.8087708950042725,
+        "TSNE-2": 1.4018900394439697,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -0.9503948092460632,
+        "TSNE-2": 11.808609008789062,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -4.09489107131958,
+        "TSNE-2": -8.217306137084961,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": 7.375839710235596,
+        "TSNE-2": -5.744499206542969,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": -7.5433759689331055,
+        "TSNE-2": 4.100679874420166,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": -6.345561981201172,
+        "TSNE-2": -2.7273356914520264,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 7.025171279907227,
+        "TSNE-2": -9.594503402709961,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 7.4488348960876465,
+        "TSNE-2": -0.486296683549881,
+        "cluster": 5,
+        "keywords": "college, eligible, head, elect, serf"
+      },
+      {
+        "TSNE-1": 1.56801438331604,
+        "TSNE-2": 0.27410227060317993,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": -0.266641229391098,
+        "TSNE-2": 0.7623238563537598,
+        "cluster": 0,
+        "keywords": "vatican, woman, right, voting, cardinal"
+      },
+      {
+        "TSNE-1": 4.4887003898620605,
+        "TSNE-2": -0.9339833855628967,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 7.025171279907227,
+        "TSNE-2": -9.594503402709961,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 1.6262482404708862,
+        "TSNE-2": -2.3663384914398193,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": -5.3895673751831055,
+        "TSNE-2": -12.687442779541016,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": 5.492854118347168,
+        "TSNE-2": 11.839591026306152,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": 1.4840493202209473,
+        "TSNE-2": -11.358518600463867,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": 5.432847023010254,
+        "TSNE-2": -3.3447747230529785,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": -2.245094060897827,
+        "TSNE-2": -3.0127856731414795,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 6.057235240936279,
+        "TSNE-2": 5.283619403839111,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -9.745227813720703,
+        "TSNE-2": -1.7366362810134888,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 0.07648099213838577,
+        "TSNE-2": -7.950644016265869,
+        "cluster": 4,
+        "keywords": "wear, clothing, reason, dress, code"
+      },
+      {
+        "TSNE-1": -1.7267879247665405,
+        "TSNE-2": -3.9373252391815186,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 7.931143283843994,
+        "TSNE-2": 6.860893249511719,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -1.0030345916748047,
+        "TSNE-2": -5.2922868728637695,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      },
+      {
+        "TSNE-1": 1.7722856998443604,
+        "TSNE-2": 9.720645904541016,
+        "cluster": 3,
+        "keywords": "role, within, electoral, structure, religious"
+      },
+      {
+        "TSNE-1": -8.923460960388184,
+        "TSNE-2": -7.741973400115967,
+        "cluster": 2,
+        "keywords": "country, world, resident, held, neither"
+      },
+      {
+        "TSNE-1": 4.4834771156311035,
+        "TSNE-2": -6.721378326416016,
+        "cluster": 1,
+        "keywords": "vote, city, cannot, become, catholic"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_172",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-219385 - why does vatican city not allow women to vote?"
+  }
+}

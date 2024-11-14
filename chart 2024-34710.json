@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d8bd3e81a05357fa3fd25bd4bc7ee957"
+  },
+  "datasets": {
+    "data-d8bd3e81a05357fa3fd25bd4bc7ee957": [
+      {
+        "TSNE-1": -0.9729539155960083,
+        "TSNE-2": -2.389072895050049,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -4.603628635406494,
+        "TSNE-2": 2.6533799171447754,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -4.1751179695129395,
+        "TSNE-2": 6.969640731811523,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": -8.480073928833008,
+        "TSNE-2": -3.3152432441711426,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": -4.1751179695129395,
+        "TSNE-2": 6.969640731811523,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": -1.1466337442398071,
+        "TSNE-2": -9.736302375793457,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": -4.27877950668335,
+        "TSNE-2": 11.460716247558594,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": 1.2343578338623047,
+        "TSNE-2": -2.609273910522461,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 8.60857105255127,
+        "TSNE-2": 11.231159210205078,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 10.665945053100586,
+        "TSNE-2": -7.854714393615723,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 6.552488327026367,
+        "TSNE-2": 5.198707103729248,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": -9.97821044921875,
+        "TSNE-2": 8.257233619689941,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": -3.870058298110962,
+        "TSNE-2": -1.800722360610962,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -5.244472503662109,
+        "TSNE-2": -4.02835750579834,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": -7.1032514572143555,
+        "TSNE-2": 0.7359459400177002,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": 1.2698171138763428,
+        "TSNE-2": -4.621712684631348,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -5.932472229003906,
+        "TSNE-2": 16.46308708190918,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": 5.2020063400268555,
+        "TSNE-2": -1.3344253301620483,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 2.6855359077453613,
+        "TSNE-2": -4.680868625640869,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 3.6758203506469727,
+        "TSNE-2": 9.863704681396484,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 0.4288126826286316,
+        "TSNE-2": -12.98926830291748,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": -1.987557291984558,
+        "TSNE-2": -1.175874948501587,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 1.1426925659179688,
+        "TSNE-2": -12.912575721740723,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": -5.450109958648682,
+        "TSNE-2": -6.942636489868164,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": -2.6603760719299316,
+        "TSNE-2": 9.138131141662598,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": 4.353734016418457,
+        "TSNE-2": -3.3757500648498535,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": -6.957122802734375,
+        "TSNE-2": -1.800894856452942,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": -5.010719299316406,
+        "TSNE-2": 12.397002220153809,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": 12.205038070678711,
+        "TSNE-2": -5.555047035217285,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 1.240327000617981,
+        "TSNE-2": 1.699069857597351,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 7.842553615570068,
+        "TSNE-2": 10.846896171569824,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 3.597297430038452,
+        "TSNE-2": 13.016621589660645,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 0.3821306824684143,
+        "TSNE-2": 0.014318672940135002,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -3.018364906311035,
+        "TSNE-2": -7.462098121643066,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": 9.593195915222168,
+        "TSNE-2": 2.4523656368255615,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": -0.10344144701957703,
+        "TSNE-2": 3.2849442958831787,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -1.7538785934448242,
+        "TSNE-2": 4.47800874710083,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -14.550284385681152,
+        "TSNE-2": 2.1331593990325928,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": -1.8598356246948242,
+        "TSNE-2": 6.970979690551758,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": -4.064622402191162,
+        "TSNE-2": 0.9164050817489624,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -4.1717095375061035,
+        "TSNE-2": 4.098045349121094,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 4.785728931427002,
+        "TSNE-2": -6.569840431213379,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": -0.9226182699203491,
+        "TSNE-2": -0.1894214153289795,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 3.303192615509033,
+        "TSNE-2": -1.1780891418457031,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 1.8073978424072266,
+        "TSNE-2": 4.352470874786377,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": -7.8690080642700195,
+        "TSNE-2": 6.013826847076416,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": 1.5716294050216675,
+        "TSNE-2": 9.388960838317871,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 6.6467604637146,
+        "TSNE-2": -12.583558082580566,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": 6.552488327026367,
+        "TSNE-2": 5.198707103729248,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": -1.2068884372711182,
+        "TSNE-2": 2.592517137527466,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 12.284175872802734,
+        "TSNE-2": -0.413265198469162,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 12.24318790435791,
+        "TSNE-2": -7.30654239654541,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": -3.4701268672943115,
+        "TSNE-2": -2.4522712230682373,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -8.823192596435547,
+        "TSNE-2": 7.526730537414551,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": -0.9386899471282959,
+        "TSNE-2": -6.800743579864502,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": -7.820629119873047,
+        "TSNE-2": -4.643126487731934,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": 1.575270175933838,
+        "TSNE-2": -7.76373815536499,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": 10.695855140686035,
+        "TSNE-2": -6.542355060577393,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 2.1159632205963135,
+        "TSNE-2": -0.5245158672332764,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 5.143267631530762,
+        "TSNE-2": -12.780678749084473,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": -12.027376174926758,
+        "TSNE-2": 4.078078746795654,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": -2.480407953262329,
+        "TSNE-2": -12.848796844482422,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": -11.132088661193848,
+        "TSNE-2": -7.018287181854248,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": 1.0658410787582397,
+        "TSNE-2": 10.269865989685059,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 2.9365851879119873,
+        "TSNE-2": 6.169922351837158,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 7.107728004455566,
+        "TSNE-2": -2.61712384223938,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 1.751768708229065,
+        "TSNE-2": 6.411651611328125,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 3.618561029434204,
+        "TSNE-2": 2.7322306632995605,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -12.732858657836914,
+        "TSNE-2": -4.3275604248046875,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": -0.7318323254585266,
+        "TSNE-2": -18.632266998291016,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": -12.735822677612305,
+        "TSNE-2": -5.344192028045654,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": -5.932472229003906,
+        "TSNE-2": 16.46308708190918,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": -8.907722473144531,
+        "TSNE-2": 2.7899694442749023,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": 7.36152458190918,
+        "TSNE-2": 0.7259936928749084,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 0.4241654574871063,
+        "TSNE-2": 5.603477478027344,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": 1.5377540588378906,
+        "TSNE-2": 14.1134033203125,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": -0.6179611682891846,
+        "TSNE-2": -4.673456192016602,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -8.907722473144531,
+        "TSNE-2": 2.7899694442749023,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": -10.444558143615723,
+        "TSNE-2": -7.593871116638184,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": 9.59017562866211,
+        "TSNE-2": -9.3262300491333,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": -3.5079901218414307,
+        "TSNE-2": -4.142863750457764,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": -9.825347900390625,
+        "TSNE-2": 9.219439506530762,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": -11.771819114685059,
+        "TSNE-2": 3.364197015762329,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": 5.334409713745117,
+        "TSNE-2": 0.37234997749328613,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": -4.064622402191162,
+        "TSNE-2": 0.9164050817489624,
+        "cluster": 4,
+        "keywords": "attention, also, impact, encourage, like"
+      },
+      {
+        "TSNE-1": 13.171728134155273,
+        "TSNE-2": -9.043862342834473,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": -10.385213851928711,
+        "TSNE-2": 10.809393882751465,
+        "cluster": 5,
+        "keywords": "student, use, sure, people, meeting"
+      },
+      {
+        "TSNE-1": -11.115785598754883,
+        "TSNE-2": -0.3170250952243805,
+        "cluster": 1,
+        "keywords": "poll, official, transparency, increase, website"
+      },
+      {
+        "TSNE-1": 2.0762362480163574,
+        "TSNE-2": -6.174133777618408,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      },
+      {
+        "TSNE-1": 10.672194480895996,
+        "TSNE-2": 4.0811967849731445,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 7.289953231811523,
+        "TSNE-2": -1.3729236125946045,
+        "cluster": 0,
+        "keywords": "local, timely, government, citizen, clear"
+      },
+      {
+        "TSNE-1": 3.597297430038452,
+        "TSNE-2": 13.016621589660645,
+        "cluster": 3,
+        "keywords": "community, politics, public, service, issue"
+      },
+      {
+        "TSNE-1": -1.33845853805542,
+        "TSNE-2": -18.222219467163086,
+        "cluster": 2,
+        "keywords": "opinion, effort, author, town, easy"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_222",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-34710 - how can we get people to pay more attention to local government"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-85373f43e9bf9062cdbb3f2e477713e8"
+  },
+  "datasets": {
+    "data-85373f43e9bf9062cdbb3f2e477713e8": [
+      {
+        "TSNE-1": -2.624937057495117,
+        "TSNE-2": -9.367448806762695,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": 1.6308921575546265,
+        "TSNE-2": -11.29100227355957,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": 6.25532341003418,
+        "TSNE-2": -3.6683268547058105,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": 1.7702200412750244,
+        "TSNE-2": 7.972884654998779,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 6.25532341003418,
+        "TSNE-2": -3.6683268547058105,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": 7.674386501312256,
+        "TSNE-2": 4.337318420410156,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 4.09122371673584,
+        "TSNE-2": -0.08118467032909393,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -4.627356052398682,
+        "TSNE-2": -8.378166198730469,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 0.37985944747924805,
+        "TSNE-2": 11.171523094177246,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 2.1920671463012695,
+        "TSNE-2": 6.868517875671387,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": -10.68570327758789,
+        "TSNE-2": 2.2834558486938477,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -7.435391426086426,
+        "TSNE-2": 7.881142616271973,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -5.825212001800537,
+        "TSNE-2": -2.3707361221313477,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 1.3113627433776855,
+        "TSNE-2": -1.2617568969726562,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 3.9866042137145996,
+        "TSNE-2": 6.116046905517578,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": -2.883979082107544,
+        "TSNE-2": -5.336563587188721,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": -3.3320748805999756,
+        "TSNE-2": 2.3969783782958984,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -4.627356052398682,
+        "TSNE-2": -8.378166198730469,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": -7.092984676361084,
+        "TSNE-2": -6.511632919311523,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 12.585780143737793,
+        "TSNE-2": -2.0779006481170654,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": 5.113463401794434,
+        "TSNE-2": 4.842177867889404,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 4.523791313171387,
+        "TSNE-2": -6.78317928314209,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": 7.134982109069824,
+        "TSNE-2": 6.468966007232666,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 2.5574681758880615,
+        "TSNE-2": -8.893427848815918,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": 10.351949691772461,
+        "TSNE-2": 0.9697675704956055,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": -2.9523050785064697,
+        "TSNE-2": -1.9091627597808838,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -11.704350471496582,
+        "TSNE-2": -5.544137001037598,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 4.09122371673584,
+        "TSNE-2": -0.08118467032909393,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 4.842021942138672,
+        "TSNE-2": 6.200367450714111,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 8.70337200164795,
+        "TSNE-2": -5.560222148895264,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": 2.0679550170898438,
+        "TSNE-2": 1.8255482912063599,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 12.313559532165527,
+        "TSNE-2": -4.463151454925537,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": -8.617074966430664,
+        "TSNE-2": -2.2876501083374023,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": -2.934054374694824,
+        "TSNE-2": -6.802038192749023,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": -1.5807722806930542,
+        "TSNE-2": -13.623625755310059,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": 0.6539989113807678,
+        "TSNE-2": -4.646617889404297,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 3.029371738433838,
+        "TSNE-2": -2.7889606952667236,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 5.462254524230957,
+        "TSNE-2": -1.2794957160949707,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": -1.86104416847229,
+        "TSNE-2": -3.0978283882141113,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -0.5111728310585022,
+        "TSNE-2": -1.606366753578186,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -0.10626566410064697,
+        "TSNE-2": -9.444584846496582,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": -2.0487425327301025,
+        "TSNE-2": -0.04232338070869446,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -6.896348476409912,
+        "TSNE-2": -2.816626787185669,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 4.875349521636963,
+        "TSNE-2": 3.3297970294952393,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 0.34072887897491455,
+        "TSNE-2": -6.057565212249756,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": -8.715583801269531,
+        "TSNE-2": 7.677056312561035,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": 12.619771003723145,
+        "TSNE-2": -0.9792451858520508,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": 3.3391146659851074,
+        "TSNE-2": 10.109813690185547,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": -10.68570327758789,
+        "TSNE-2": 2.2834558486938477,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -4.147259712219238,
+        "TSNE-2": -11.253361701965332,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": -1.1797205209732056,
+        "TSNE-2": 4.498201847076416,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": 4.718813896179199,
+        "TSNE-2": 8.428735733032227,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": -4.888749599456787,
+        "TSNE-2": -2.4512877464294434,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": -7.148930549621582,
+        "TSNE-2": 6.054733753204346,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -3.967796564102173,
+        "TSNE-2": -5.5467400550842285,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 6.09821081161499,
+        "TSNE-2": 8.775108337402344,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": -3.5734527111053467,
+        "TSNE-2": -4.142636299133301,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 3.6878573894500732,
+        "TSNE-2": 7.844296932220459,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 8.361751556396484,
+        "TSNE-2": -8.393375396728516,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": 6.769526481628418,
+        "TSNE-2": 9.003092765808105,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 7.770213603973389,
+        "TSNE-2": -0.33412736654281616,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": -0.3584126830101013,
+        "TSNE-2": 6.198351860046387,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": -0.29065120220184326,
+        "TSNE-2": 5.376501083374023,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 12.313559532165527,
+        "TSNE-2": -4.463151454925537,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": -0.04277573525905609,
+        "TSNE-2": -3.5326988697052,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -5.534932613372803,
+        "TSNE-2": -4.480590343475342,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 2.2482733726501465,
+        "TSNE-2": -4.576376438140869,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -4.899258613586426,
+        "TSNE-2": -0.1080285906791687,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": -9.267220497131348,
+        "TSNE-2": 2.6342084407806396,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -11.237614631652832,
+        "TSNE-2": -4.9081130027771,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": -0.653535008430481,
+        "TSNE-2": 0.43656858801841736,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -3.5646493434906006,
+        "TSNE-2": 2.7349817752838135,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -3.2376320362091064,
+        "TSNE-2": 8.145071983337402,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -6.737310886383057,
+        "TSNE-2": 0.3392535448074341,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": 1.550398826599121,
+        "TSNE-2": -3.756399154663086,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 3.205939531326294,
+        "TSNE-2": -6.205407619476318,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": -1.1594160795211792,
+        "TSNE-2": -6.01632833480835,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": -3.2376320362091064,
+        "TSNE-2": 8.145071983337402,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": -0.9360361099243164,
+        "TSNE-2": 2.9623091220855713,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 4.924427032470703,
+        "TSNE-2": 9.971813201904297,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 1.7353200912475586,
+        "TSNE-2": -8.473816871643066,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": -7.435391426086426,
+        "TSNE-2": 7.881142616271973,
+        "cluster": 4,
+        "keywords": "better, necessary, candidate, require, party"
+      },
+      {
+        "TSNE-1": 7.920838356018066,
+        "TSNE-2": 0.0705195963382721,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": 0.3488237261772156,
+        "TSNE-2": -10.391261100769043,
+        "cluster": 0,
+        "keywords": "environmental, individual, action, oakes, change"
+      },
+      {
+        "TSNE-1": -0.5111728310585022,
+        "TSNE-2": -1.606366753578186,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 10.533912658691406,
+        "TSNE-2": 4.447956562042236,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      },
+      {
+        "TSNE-1": 9.938560485839844,
+        "TSNE-2": -8.17348575592041,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": -10.097524642944336,
+        "TSNE-2": -1.6914446353912354,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": -5.668491363525391,
+        "TSNE-2": -6.2494797706604,
+        "cluster": 2,
+        "keywords": "collective, societal, broader, climate, decision"
+      },
+      {
+        "TSNE-1": 1.467176079750061,
+        "TSNE-2": 1.0720584392547607,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": -1.5793747901916504,
+        "TSNE-2": -4.588006496429443,
+        "cluster": 5,
+        "keywords": "still, even, issue, greenhouse, gas"
+      },
+      {
+        "TSNE-1": 12.313559532165527,
+        "TSNE-2": -4.463151454925537,
+        "cluster": 3,
+        "keywords": "document, defense, freedom, criminal, people"
+      },
+      {
+        "TSNE-1": 5.827915668487549,
+        "TSNE-2": 5.205784320831299,
+        "cluster": 1,
+        "keywords": "lauren, mention, discusses, context, address"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_40",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-41610 - how does lauren oakes address the issue of individual action"
+  }
+}

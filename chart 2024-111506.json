@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7b73ecc667237317d9a8cc220076b02c"
+  },
+  "datasets": {
+    "data-7b73ecc667237317d9a8cc220076b02c": [
+      {
+        "TSNE-1": -15.532997131347656,
+        "TSNE-2": -4.792228698730469,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": -12.714916229248047,
+        "TSNE-2": -11.451408386230469,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": -17.827007293701172,
+        "TSNE-2": -19.140913009643555,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": -13.445042610168457,
+        "TSNE-2": 10.203938484191895,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -17.827007293701172,
+        "TSNE-2": -19.140913009643555,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": -14.766440391540527,
+        "TSNE-2": 6.776322841644287,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -12.870179176330566,
+        "TSNE-2": -1.3545259237289429,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 0.09835159033536911,
+        "TSNE-2": -4.311878681182861,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 12.164698600769043,
+        "TSNE-2": 8.725005149841309,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": 4.608108043670654,
+        "TSNE-2": 4.999950408935547,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": -2.097374439239502,
+        "TSNE-2": 17.148523330688477,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 23.888803482055664,
+        "TSNE-2": -0.6309905648231506,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": -6.402246952056885,
+        "TSNE-2": 0.20509709417819977,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 16.372068405151367,
+        "TSNE-2": -8.205208778381348,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": 4.608108043670654,
+        "TSNE-2": 4.999950408935547,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 1.2557108402252197,
+        "TSNE-2": 0.11233959347009659,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 25.301288604736328,
+        "TSNE-2": 9.518268585205078,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": 0.09835159033536911,
+        "TSNE-2": -4.311878681182861,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": -16.89158821105957,
+        "TSNE-2": 2.2718513011932373,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -2.5296573638916016,
+        "TSNE-2": 23.92618751525879,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 4.608108043670654,
+        "TSNE-2": 4.999950408935547,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 0.021541684865951538,
+        "TSNE-2": 10.862442970275879,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 4.608108043670654,
+        "TSNE-2": 4.999950408935547,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 17.45712661743164,
+        "TSNE-2": -12.576436996459961,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": 19.76934051513672,
+        "TSNE-2": 11.946684837341309,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": 3.0726537704467773,
+        "TSNE-2": -7.36775016784668,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 2.834021806716919,
+        "TSNE-2": -17.7711181640625,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -11.807997703552246,
+        "TSNE-2": -18.950326919555664,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 4.608108043670654,
+        "TSNE-2": 4.999950408935547,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": -20.799875259399414,
+        "TSNE-2": 10.741293907165527,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": 11.807380676269531,
+        "TSNE-2": 5.778169631958008,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": 5.307105541229248,
+        "TSNE-2": 19.572341918945312,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": -7.443829536437988,
+        "TSNE-2": 2.713027000427246,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 7.127019882202148,
+        "TSNE-2": 9.808810234069824,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 22.25090980529785,
+        "TSNE-2": 16.266212463378906,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": -6.893838405609131,
+        "TSNE-2": 13.712939262390137,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": 15.703832626342773,
+        "TSNE-2": 6.386788845062256,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": 10.396599769592285,
+        "TSNE-2": 23.374954223632812,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 7.854708671569824,
+        "TSNE-2": -8.5034761428833,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -3.442347764968872,
+        "TSNE-2": 4.277167320251465,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": -17.38617706298828,
+        "TSNE-2": -10.551895141601562,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 0.038811229169368744,
+        "TSNE-2": -13.558388710021973,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -4.103824138641357,
+        "TSNE-2": -8.936145782470703,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 9.350448608398438,
+        "TSNE-2": 14.195196151733398,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": -8.639755249023438,
+        "TSNE-2": 18.989580154418945,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": 17.662288665771484,
+        "TSNE-2": 15.432677268981934,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": 8.910601615905762,
+        "TSNE-2": -13.732590675354004,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -0.4149794578552246,
+        "TSNE-2": -18.036279678344727,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -2.097374439239502,
+        "TSNE-2": 17.148523330688477,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": -7.249430179595947,
+        "TSNE-2": 8.219999313354492,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": 10.867809295654297,
+        "TSNE-2": -0.8613935112953186,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 4.608108043670654,
+        "TSNE-2": 4.999950408935547,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 3.119887590408325,
+        "TSNE-2": -10.915922164916992,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": 17.662288665771484,
+        "TSNE-2": 15.432677268981934,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": 4.657671928405762,
+        "TSNE-2": -3.61220121383667,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": -10.42959976196289,
+        "TSNE-2": 11.765005111694336,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -3.2095491886138916,
+        "TSNE-2": -2.2038774490356445,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 8.105900764465332,
+        "TSNE-2": -20.849411010742188,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -4.589772701263428,
+        "TSNE-2": -5.183008193969727,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": -14.342241287231445,
+        "TSNE-2": 12.454212188720703,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -26.485523223876953,
+        "TSNE-2": -0.4647075831890106,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -10.362127304077148,
+        "TSNE-2": -5.676008224487305,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 8.799179077148438,
+        "TSNE-2": -1.2165837287902832,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 6.33046293258667,
+        "TSNE-2": 14.773924827575684,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": -11.565427780151367,
+        "TSNE-2": 2.754114866256714,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -19.31449317932129,
+        "TSNE-2": -5.564810752868652,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 18.034351348876953,
+        "TSNE-2": 5.669149398803711,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": -5.259105205535889,
+        "TSNE-2": -21.343809127807617,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": -0.9392390251159668,
+        "TSNE-2": 13.610395431518555,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 4.608108043670654,
+        "TSNE-2": 4.999950408935547,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": -5.2442193031311035,
+        "TSNE-2": -12.222248077392578,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 25.301288604736328,
+        "TSNE-2": 9.518268585205078,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": -16.05896759033203,
+        "TSNE-2": 20.126220703125,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -2.5356404781341553,
+        "TSNE-2": 8.128789901733398,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 17.51520538330078,
+        "TSNE-2": 1.733928918838501,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": -7.478230953216553,
+        "TSNE-2": -16.108919143676758,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": -0.6613711714744568,
+        "TSNE-2": -8.18187427520752,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": -16.05896759033203,
+        "TSNE-2": 20.126220703125,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -10.615123748779297,
+        "TSNE-2": -3.5178062915802,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": -1.715908169746399,
+        "TSNE-2": -16.390087127685547,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 14.633740425109863,
+        "TSNE-2": -10.304983139038086,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": 23.888803482055664,
+        "TSNE-2": -0.6309905648231506,
+        "cluster": 0,
+        "keywords": "sexual, social, problem, assault, view"
+      },
+      {
+        "TSNE-1": -26.485523223876953,
+        "TSNE-2": -0.4647075831890106,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": 12.18579387664795,
+        "TSNE-2": -4.98565149307251,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -3.442347764968872,
+        "TSNE-2": 4.277167320251465,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": 10.105362892150879,
+        "TSNE-2": -21.376075744628906,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -25.161518096923828,
+        "TSNE-2": 10.566817283630371,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": 23.760313034057617,
+        "TSNE-2": -29.212970733642578,
+        "cluster": 3,
+        "keywords": "often, nan, inequality, major, right"
+      },
+      {
+        "TSNE-1": -2.0303845405578613,
+        "TSNE-2": 0.6822524070739746,
+        "cluster": 1,
+        "keywords": "violence, gender, attention, injustice, individual"
+      },
+      {
+        "TSNE-1": -25.161518096923828,
+        "TSNE-2": 10.566817283630371,
+        "cluster": 2,
+        "keywords": "human, form, text, woman, violation"
+      },
+      {
+        "TSNE-1": -7.8038740158081055,
+        "TSNE-2": -9.17500114440918,
+        "cluster": 4,
+        "keywords": "document, societal, norm, group, condone"
+      },
+      {
+        "TSNE-1": 5.307105541229248,
+        "TSNE-2": 19.572341918945312,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      },
+      {
+        "TSNE-1": 4.608108043670654,
+        "TSNE-2": 4.999950408935547,
+        "cluster": 5,
+        "keywords": "power, affect, physical, oppression, include"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_127",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-111506 - is sexual assault considered social injustice"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-05cf976b69486a840404801db99eb9f8"
+  },
+  "datasets": {
+    "data-05cf976b69486a840404801db99eb9f8": [
+      {
+        "TSNE-1": -2.2275023460388184,
+        "TSNE-2": -2.274362325668335,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": -6.665159225463867,
+        "TSNE-2": -2.212100028991699,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": 9.459259986877441,
+        "TSNE-2": -7.409328937530518,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -0.8378987312316895,
+        "TSNE-2": -9.552754402160645,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 9.923789978027344,
+        "TSNE-2": -7.567224502563477,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -6.395172595977783,
+        "TSNE-2": 1.8396122455596924,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 9.148762702941895,
+        "TSNE-2": -4.200517177581787,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": 2.1497113704681396,
+        "TSNE-2": -5.662977695465088,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -12.855164527893066,
+        "TSNE-2": -2.8195314407348633,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": -2.7877418994903564,
+        "TSNE-2": 6.761923313140869,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 3.180851697921753,
+        "TSNE-2": 0.4784945547580719,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": -9.542998313903809,
+        "TSNE-2": -2.1178383827209473,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": 1.5465635061264038,
+        "TSNE-2": -3.599716901779175,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -6.20706033706665,
+        "TSNE-2": -5.001388072967529,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": -7.4528489112854,
+        "TSNE-2": 8.989760398864746,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": -3.648883581161499,
+        "TSNE-2": 0.4308116137981415,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 11.422560691833496,
+        "TSNE-2": 0.6538340449333191,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": 2.1497113704681396,
+        "TSNE-2": -5.662977695465088,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -2.8151662349700928,
+        "TSNE-2": 0.012427927926182747,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": -0.3418852388858795,
+        "TSNE-2": -12.64826774597168,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 1.4670147895812988,
+        "TSNE-2": 12.757612228393555,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": -8.632564544677734,
+        "TSNE-2": -4.295894622802734,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": 3.0900275707244873,
+        "TSNE-2": 11.239225387573242,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": -4.049380302429199,
+        "TSNE-2": 3.6253128051757812,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": -3.727173328399658,
+        "TSNE-2": -3.7295069694519043,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 3.0572640895843506,
+        "TSNE-2": -8.517130851745605,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -0.885920524597168,
+        "TSNE-2": 11.81983757019043,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 9.845927238464355,
+        "TSNE-2": -3.2889363765716553,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -1.4211978912353516,
+        "TSNE-2": 7.452833652496338,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 13.427237510681152,
+        "TSNE-2": -5.420331001281738,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -8.902645111083984,
+        "TSNE-2": 2.178619146347046,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 3.6934187412261963,
+        "TSNE-2": 6.5424485206604,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": -1.0021731853485107,
+        "TSNE-2": -3.743150234222412,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -1.5476415157318115,
+        "TSNE-2": 1.1152061223983765,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 1.5175065994262695,
+        "TSNE-2": -7.489006042480469,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 6.164589881896973,
+        "TSNE-2": 1.681738257408142,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": 6.485821723937988,
+        "TSNE-2": -2.0948684215545654,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": 3.8675777912139893,
+        "TSNE-2": 3.4651236534118652,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": 1.3216592073440552,
+        "TSNE-2": -1.7913830280303955,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -3.1043624877929688,
+        "TSNE-2": -6.249307155609131,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -11.543596267700195,
+        "TSNE-2": 0.6496257781982422,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": 0.1476193517446518,
+        "TSNE-2": 2.8521029949188232,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 0.013554004952311516,
+        "TSNE-2": -3.2371764183044434,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 5.334218978881836,
+        "TSNE-2": -8.417466163635254,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 6.813830852508545,
+        "TSNE-2": 1.0885677337646484,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": -11.211545944213867,
+        "TSNE-2": -4.138493537902832,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": -4.751014232635498,
+        "TSNE-2": -9.86751937866211,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -5.45256233215332,
+        "TSNE-2": 9.338666915893555,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 3.3803703784942627,
+        "TSNE-2": 0.9191961288452148,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": -5.6144118309021,
+        "TSNE-2": -0.5765558481216431,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 8.54804801940918,
+        "TSNE-2": 4.621607303619385,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": -1.4211978912353516,
+        "TSNE-2": 7.452833652496338,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 0.2536407709121704,
+        "TSNE-2": -4.778345108032227,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -11.211545944213867,
+        "TSNE-2": -4.138493537902832,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": -0.19704392552375793,
+        "TSNE-2": 0.09002412855625153,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 2.9157018661499023,
+        "TSNE-2": 13.944438934326172,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": -1.6691129207611084,
+        "TSNE-2": -0.3003789186477661,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": -2.2495155334472656,
+        "TSNE-2": 8.871148109436035,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 5.985538482666016,
+        "TSNE-2": -5.844568252563477,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -2.6778054237365723,
+        "TSNE-2": 10.632560729980469,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 7.89109468460083,
+        "TSNE-2": 8.793638229370117,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": 7.6899895668029785,
+        "TSNE-2": 4.976684093475342,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": 10.475630760192871,
+        "TSNE-2": 5.27104377746582,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": -1.222917079925537,
+        "TSNE-2": -12.2338228225708,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 5.129948139190674,
+        "TSNE-2": -3.037841320037842,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": 4.205150604248047,
+        "TSNE-2": -5.1995110511779785,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 5.391351699829102,
+        "TSNE-2": -1.4289507865905762,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -4.40226411819458,
+        "TSNE-2": -1.9298466444015503,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 0.3453851640224457,
+        "TSNE-2": 2.176353693008423,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 2.1998608112335205,
+        "TSNE-2": 12.048489570617676,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 0.9732731580734253,
+        "TSNE-2": 3.969698429107666,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 11.422560691833496,
+        "TSNE-2": 0.6538340449333191,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -9.257428169250488,
+        "TSNE-2": -9.5088529586792,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": 3.3427915573120117,
+        "TSNE-2": -3.1369717121124268,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 6.3741631507873535,
+        "TSNE-2": -3.338418960571289,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -9.504965782165527,
+        "TSNE-2": -0.17740337550640106,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": -0.3754972219467163,
+        "TSNE-2": -6.7519121170043945,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -9.257428169250488,
+        "TSNE-2": -9.5088529586792,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": 9.435701370239258,
+        "TSNE-2": 4.999672889709473,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": -5.012598991394043,
+        "TSNE-2": 9.922285079956055,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": -6.419289588928223,
+        "TSNE-2": -5.9625091552734375,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": -9.542998313903809,
+        "TSNE-2": -2.1178383827209473,
+        "cluster": 2,
+        "keywords": "able, behavior, work, skill, assess"
+      },
+      {
+        "TSNE-1": 7.89109468460083,
+        "TSNE-2": 8.793638229370117,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": -7.205105304718018,
+        "TSNE-2": -0.059678442776203156,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": -3.1043624877929688,
+        "TSNE-2": -6.249307155609131,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -8.108892440795898,
+        "TSNE-2": 8.727557182312012,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      },
+      {
+        "TSNE-1": 10.610211372375488,
+        "TSNE-2": -2.4783356189727783,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": -4.200242519378662,
+        "TSNE-2": -10.517497062683105,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": -3.4149136543273926,
+        "TSNE-2": 1.7808587551116943,
+        "cluster": 5,
+        "keywords": "individual, goal, feedback, enhance, clear"
+      },
+      {
+        "TSNE-1": 8.750781059265137,
+        "TSNE-2": -9.51827335357666,
+        "cluster": 3,
+        "keywords": "learn, role, define, practice, time"
+      },
+      {
+        "TSNE-1": 3.509831666946411,
+        "TSNE-2": -6.887333869934082,
+        "cluster": 0,
+        "keywords": "coach, team, player, also, help"
+      },
+      {
+        "TSNE-1": 3.6934187412261963,
+        "TSNE-2": 6.5424485206604,
+        "cluster": 4,
+        "keywords": "technique, good, member, every, leader"
+      },
+      {
+        "TSNE-1": 1.45363187789917,
+        "TSNE-2": 11.374228477478027,
+        "cluster": 1,
+        "keywords": "performance, best, style, process, regular"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_175",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-33466 - how can coaches improve team performance?"
+  }
+}

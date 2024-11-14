@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-2934325dfbf70e14631785054b54af9d"
+  },
+  "datasets": {
+    "data-2934325dfbf70e14631785054b54af9d": [
+      {
+        "TSNE-1": -0.9007625579833984,
+        "TSNE-2": -2.6746833324432373,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -8.290517807006836,
+        "TSNE-2": -1.493564248085022,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": -11.626026153564453,
+        "TSNE-2": -8.802536010742188,
+        "cluster": 4,
+        "keywords": "wheat, record, harvest, regulatory, production"
+      },
+      {
+        "TSNE-1": -0.9046481847763062,
+        "TSNE-2": -6.322771072387695,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -11.626026153564453,
+        "TSNE-2": -8.802536010742188,
+        "cluster": 4,
+        "keywords": "wheat, record, harvest, regulatory, production"
+      },
+      {
+        "TSNE-1": 2.5832042694091797,
+        "TSNE-2": 13.040412902832031,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": -0.040307506918907166,
+        "TSNE-2": 1.0359240770339966,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 2.1761696338653564,
+        "TSNE-2": 3.1712310314178467,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 8.952250480651855,
+        "TSNE-2": 3.585752248764038,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -8.33161449432373,
+        "TSNE-2": -13.108463287353516,
+        "cluster": 4,
+        "keywords": "wheat, record, harvest, regulatory, production"
+      },
+      {
+        "TSNE-1": -15.18612289428711,
+        "TSNE-2": -4.612435340881348,
+        "cluster": 4,
+        "keywords": "wheat, record, harvest, regulatory, production"
+      },
+      {
+        "TSNE-1": 6.545771598815918,
+        "TSNE-2": 15.163961410522461,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": 1.8129123449325562,
+        "TSNE-2": -3.1111083030700684,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -8.374299049377441,
+        "TSNE-2": -3.7032241821289062,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": -3.4508230686187744,
+        "TSNE-2": 10.765883445739746,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": -3.9648118019104004,
+        "TSNE-2": -6.497769832611084,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -8.910256385803223,
+        "TSNE-2": 10.281566619873047,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": 2.1761696338653564,
+        "TSNE-2": 3.1712310314178467,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -3.278024435043335,
+        "TSNE-2": -8.554691314697266,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": 8.736042976379395,
+        "TSNE-2": -2.0472893714904785,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 10.964011192321777,
+        "TSNE-2": -2.96854829788208,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 9.546797752380371,
+        "TSNE-2": 10.313082695007324,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": -4.987355709075928,
+        "TSNE-2": 8.446391105651855,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": -11.557148933410645,
+        "TSNE-2": -0.8507627844810486,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 4.065881252288818,
+        "TSNE-2": -9.890175819396973,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": 3.2120373249053955,
+        "TSNE-2": -3.03969669342041,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -0.5681405067443848,
+        "TSNE-2": -6.9448652267456055,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -1.0329234600067139,
+        "TSNE-2": 1.458330512046814,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": -3.9388749599456787,
+        "TSNE-2": 9.555895805358887,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": 8.900532722473145,
+        "TSNE-2": 11.553823471069336,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": 8.22989273071289,
+        "TSNE-2": 3.6950719356536865,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -11.15707778930664,
+        "TSNE-2": 4.2779974937438965,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 2.48399019241333,
+        "TSNE-2": -7.331751346588135,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": 0.5247650146484375,
+        "TSNE-2": -4.645601749420166,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": 4.171749114990234,
+        "TSNE-2": 6.265956878662109,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": 5.057444095611572,
+        "TSNE-2": -6.534055233001709,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -4.3939666748046875,
+        "TSNE-2": 0.127000093460083,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 1.8089804649353027,
+        "TSNE-2": 8.195733070373535,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": -10.463555335998535,
+        "TSNE-2": -4.986234188079834,
+        "cluster": 4,
+        "keywords": "wheat, record, harvest, regulatory, production"
+      },
+      {
+        "TSNE-1": -0.7604948282241821,
+        "TSNE-2": -9.5043363571167,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -1.8366453647613525,
+        "TSNE-2": -0.8464875221252441,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 3.1492347717285156,
+        "TSNE-2": -0.5974105596542358,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 2.691396713256836,
+        "TSNE-2": -4.732790946960449,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -0.11962231993675232,
+        "TSNE-2": -0.8028067946434021,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -3.8118531703948975,
+        "TSNE-2": -2.2248785495758057,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 4.881707668304443,
+        "TSNE-2": 16.08108901977539,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": -6.525024890899658,
+        "TSNE-2": 0.6139129400253296,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 10.319648742675781,
+        "TSNE-2": -1.6628146171569824,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -15.18612289428711,
+        "TSNE-2": -4.612435340881348,
+        "cluster": 4,
+        "keywords": "wheat, record, harvest, regulatory, production"
+      },
+      {
+        "TSNE-1": 1.1833561658859253,
+        "TSNE-2": -13.732901573181152,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": 4.778210163116455,
+        "TSNE-2": 0.2635583281517029,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -8.282082557678223,
+        "TSNE-2": -12.340490341186523,
+        "cluster": 4,
+        "keywords": "wheat, record, harvest, regulatory, production"
+      },
+      {
+        "TSNE-1": 3.2758655548095703,
+        "TSNE-2": -6.025662899017334,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": 5.1900763511657715,
+        "TSNE-2": 5.194976329803467,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": 1.2317358255386353,
+        "TSNE-2": -9.52612590789795,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -6.696798324584961,
+        "TSNE-2": 4.354475975036621,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": -3.931344509124756,
+        "TSNE-2": -11.984929084777832,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -2.936161518096924,
+        "TSNE-2": 8.693794250488281,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": -2.501272201538086,
+        "TSNE-2": -4.102043628692627,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -6.070286750793457,
+        "TSNE-2": 3.66191029548645,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": -1.9730244874954224,
+        "TSNE-2": 3.7373783588409424,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": 5.804080963134766,
+        "TSNE-2": 0.08288951218128204,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 6.901234149932861,
+        "TSNE-2": 1.1039373874664307,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -7.866575241088867,
+        "TSNE-2": 1.29995858669281,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": -5.232911109924316,
+        "TSNE-2": -2.2946481704711914,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": -5.884774684906006,
+        "TSNE-2": -8.395146369934082,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -4.54915189743042,
+        "TSNE-2": -1.373407244682312,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": -10.718371391296387,
+        "TSNE-2": -3.2319588661193848,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 1.5398213863372803,
+        "TSNE-2": 0.27708595991134644,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 11.382096290588379,
+        "TSNE-2": 0.4607186019420624,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 4.603213787078857,
+        "TSNE-2": -1.8262887001037598,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -8.910256385803223,
+        "TSNE-2": 10.281566619873047,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": 9.622288703918457,
+        "TSNE-2": 8.164360046386719,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": -6.238344669342041,
+        "TSNE-2": -4.895861625671387,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": -4.756819248199463,
+        "TSNE-2": -3.5457944869995117,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 7.290229320526123,
+        "TSNE-2": -4.835763454437256,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -7.28038215637207,
+        "TSNE-2": -6.002409934997559,
+        "cluster": 4,
+        "keywords": "wheat, record, harvest, regulatory, production"
+      },
+      {
+        "TSNE-1": 9.622288703918457,
+        "TSNE-2": 8.164360046386719,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": 4.338125705718994,
+        "TSNE-2": 1.0693771839141846,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": 11.530912399291992,
+        "TSNE-2": -1.9227144718170166,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -10.625053405761719,
+        "TSNE-2": -1.485870122909546,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 6.545771598815918,
+        "TSNE-2": 15.163961410522461,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": -1.9730244874954224,
+        "TSNE-2": 3.7373783588409424,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": 2.872784376144409,
+        "TSNE-2": 12.00113296508789,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": -0.7604948282241821,
+        "TSNE-2": -9.5043363571167,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -1.5507808923721313,
+        "TSNE-2": 8.74806022644043,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      },
+      {
+        "TSNE-1": 6.337350368499756,
+        "TSNE-2": 13.125434875488281,
+        "cluster": 0,
+        "keywords": "document, price, commodity, low, food"
+      },
+      {
+        "TSNE-1": 11.529792785644531,
+        "TSNE-2": -7.7771453857421875,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -3.1489670276641846,
+        "TSNE-2": -6.007712364196777,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": 4.1478729248046875,
+        "TSNE-2": 4.729055404663086,
+        "cluster": 3,
+        "keywords": "fao, level, second, growth, combination"
+      },
+      {
+        "TSNE-1": -5.377368927001953,
+        "TSNE-2": -9.422778129577637,
+        "cluster": 1,
+        "keywords": "supply, global, factor, demand, crash"
+      },
+      {
+        "TSNE-1": -11.15707778930664,
+        "TSNE-2": 4.2779974937438965,
+        "cluster": 5,
+        "keywords": "due, market, condition, crop, trade"
+      },
+      {
+        "TSNE-1": 0.3362902104854584,
+        "TSNE-2": 5.975492477416992,
+        "cluster": 2,
+        "keywords": "mention, main, ample, generally, decline"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_205",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-220794 - why is food commodities crashing"
+  }
+}

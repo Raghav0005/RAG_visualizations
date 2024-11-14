@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-6aa534aabaa373ed14f9211225fc20b9"
+  },
+  "datasets": {
+    "data-6aa534aabaa373ed14f9211225fc20b9": [
+      {
+        "TSNE-1": 1.366835594177246,
+        "TSNE-2": -2.7662806510925293,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -1.2589881420135498,
+        "TSNE-2": -9.293486595153809,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": 0.6148354411125183,
+        "TSNE-2": -5.976004123687744,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": -5.979207992553711,
+        "TSNE-2": 7.668753623962402,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": 0.6148354411125183,
+        "TSNE-2": -5.976004123687744,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": -7.193457126617432,
+        "TSNE-2": -5.406492710113525,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 4.516873359680176,
+        "TSNE-2": 4.71677303314209,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": 1.7685468196868896,
+        "TSNE-2": 1.0985640287399292,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": 9.284733772277832,
+        "TSNE-2": -1.9300894737243652,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -11.154192924499512,
+        "TSNE-2": -2.673023223876953,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 5.119974613189697,
+        "TSNE-2": 0.18967746198177338,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -2.9276905059814453,
+        "TSNE-2": -0.04845971614122391,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -0.41214120388031006,
+        "TSNE-2": -2.194833993911743,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 0.31029683351516724,
+        "TSNE-2": 3.8619861602783203,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": 3.8781096935272217,
+        "TSNE-2": -8.229089736938477,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": -0.4554849863052368,
+        "TSNE-2": 10.954849243164062,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -6.52772331237793,
+        "TSNE-2": 12.1556396484375,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": 1.7685468196868896,
+        "TSNE-2": 1.0985640287399292,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -0.16619816422462463,
+        "TSNE-2": 11.623679161071777,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": 5.973361492156982,
+        "TSNE-2": 9.4644775390625,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": 7.698923587799072,
+        "TSNE-2": -6.617976188659668,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": -6.311342239379883,
+        "TSNE-2": 5.468337059020996,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": 6.476257801055908,
+        "TSNE-2": -6.672122001647949,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": -2.0511345863342285,
+        "TSNE-2": 4.810483455657959,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -4.710344314575195,
+        "TSNE-2": -3.0715394020080566,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -0.836165726184845,
+        "TSNE-2": 2.2734909057617188,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -8.242439270019531,
+        "TSNE-2": 1.7686538696289062,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 7.109880447387695,
+        "TSNE-2": -11.055975914001465,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": 3.958383798599243,
+        "TSNE-2": -7.114376068115234,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": 4.575815200805664,
+        "TSNE-2": 6.61844539642334,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": 9.046900749206543,
+        "TSNE-2": -1.2830634117126465,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -4.014584064483643,
+        "TSNE-2": -6.57597541809082,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -1.2512694597244263,
+        "TSNE-2": -0.16549856960773468,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -5.031036376953125,
+        "TSNE-2": -9.004961967468262,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -5.672163009643555,
+        "TSNE-2": -0.4360198974609375,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 9.423684120178223,
+        "TSNE-2": 1.491415023803711,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": 6.5826873779296875,
+        "TSNE-2": 1.8076452016830444,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -7.774050235748291,
+        "TSNE-2": -2.8803930282592773,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 2.0029687881469727,
+        "TSNE-2": -1.1419562101364136,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": 0.056020788848400116,
+        "TSNE-2": 6.126851558685303,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -1.5676506757736206,
+        "TSNE-2": -7.871386528015137,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": 3.5345404148101807,
+        "TSNE-2": -3.937013626098633,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -1.3857125043869019,
+        "TSNE-2": -1.396129846572876,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 3.417448043823242,
+        "TSNE-2": 2.9919121265411377,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": 4.103341102600098,
+        "TSNE-2": -1.8497644662857056,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -3.0344936847686768,
+        "TSNE-2": 1.7406880855560303,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 7.662768840789795,
+        "TSNE-2": 7.689309597015381,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": -6.1663970947265625,
+        "TSNE-2": 8.239588737487793,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": 5.119974613189697,
+        "TSNE-2": 0.18967746198177338,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -3.6393840312957764,
+        "TSNE-2": -1.1595839262008667,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 3.4639956951141357,
+        "TSNE-2": 6.559398174285889,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": -7.661839485168457,
+        "TSNE-2": 6.9053850173950195,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -0.5974413752555847,
+        "TSNE-2": -0.06603642553091049,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -4.27815055847168,
+        "TSNE-2": 1.7248549461364746,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 5.937319755554199,
+        "TSNE-2": -3.3673434257507324,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": 8.131233215332031,
+        "TSNE-2": -5.335727214813232,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": 0.9662160873413086,
+        "TSNE-2": 7.938027381896973,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": 4.541460037231445,
+        "TSNE-2": -9.426647186279297,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": 3.73606538772583,
+        "TSNE-2": 0.8094403743743896,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": 7.661023139953613,
+        "TSNE-2": -4.984264373779297,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -7.1095099449157715,
+        "TSNE-2": -1.4449138641357422,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": -10.976901054382324,
+        "TSNE-2": 0.5191184282302856,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": -9.944963455200195,
+        "TSNE-2": -0.08062764257192612,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 6.576821327209473,
+        "TSNE-2": 8.925006866455078,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": 6.69403600692749,
+        "TSNE-2": 3.521117925643921,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": -2.481205701828003,
+        "TSNE-2": -3.6989612579345703,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 7.410783290863037,
+        "TSNE-2": 1.6537411212921143,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -5.369792938232422,
+        "TSNE-2": 3.032346487045288,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 2.4558613300323486,
+        "TSNE-2": -5.434576511383057,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": -9.006453514099121,
+        "TSNE-2": 2.579669952392578,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 3.4886221885681152,
+        "TSNE-2": -4.038178443908691,
+        "cluster": 1,
+        "keywords": "revolt, luther, right, social, support"
+      },
+      {
+        "TSNE-1": -6.52772331237793,
+        "TSNE-2": 12.1556396484375,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": 2.423959493637085,
+        "TSNE-2": 4.04812479019165,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": 0.4410964846611023,
+        "TSNE-2": -0.6549535989761353,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 8.204984664916992,
+        "TSNE-2": 3.074957847595215,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": 2.1314337253570557,
+        "TSNE-2": -8.097293853759766,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": -0.834193766117096,
+        "TSNE-2": -3.850048065185547,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 2.423959493637085,
+        "TSNE-2": 4.04812479019165,
+        "cluster": 5,
+        "keywords": "nobility, priesthood, challenge, believer, authority"
+      },
+      {
+        "TSNE-1": -9.739623069763184,
+        "TSNE-2": 0.3994494378566742,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": -7.204975605010986,
+        "TSNE-2": 7.849363803863525,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -1.4860085248947144,
+        "TSNE-2": 3.8772783279418945,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -3.223233461380005,
+        "TSNE-2": 1.795961618423462,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -7.1095099449157715,
+        "TSNE-2": -1.4449138641357422,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 0.1415647566318512,
+        "TSNE-2": 1.8438996076583862,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": 0.056020788848400116,
+        "TSNE-2": 6.126851558685303,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": 4.589199542999268,
+        "TSNE-2": -7.221254825592041,
+        "cluster": 4,
+        "keywords": "stand, unjust, rebel, greedy, christian"
+      },
+      {
+        "TSNE-1": -2.4047043323516846,
+        "TSNE-2": 8.352561950683594,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -8.385774612426758,
+        "TSNE-2": -6.084151268005371,
+        "cluster": 0,
+        "keywords": "passage, justify, idea, scriptural, peasant"
+      },
+      {
+        "TSNE-1": 0.21871288120746613,
+        "TSNE-2": 9.362483024597168,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -2.4047043323516846,
+        "TSNE-2": 8.352561950683594,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      },
+      {
+        "TSNE-1": -2.371523380279541,
+        "TSNE-2": -1.8272223472595215,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -4.014584064483643,
+        "TSNE-2": -6.57597541809082,
+        "cluster": 3,
+        "keywords": "religious, law, justification, rebellion, spiritual"
+      },
+      {
+        "TSNE-1": -5.0214385986328125,
+        "TSNE-2": 5.342133522033691,
+        "cluster": 2,
+        "keywords": "would, noble, longer, demand, gospel"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_101",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-36338 - how did peasants use luther's ideas to support their revolts"
+  }
+}

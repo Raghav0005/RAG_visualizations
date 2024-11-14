@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-64c75c616ed7bc4d69b0c9fc0b8c3551"
+  },
+  "datasets": {
+    "data-64c75c616ed7bc4d69b0c9fc0b8c3551": [
+      {
+        "TSNE-1": 3.8187315464019775,
+        "TSNE-2": 3.2373785972595215,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": -4.237290382385254,
+        "TSNE-2": -4.422544956207275,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": 7.011170387268066,
+        "TSNE-2": -3.7718331813812256,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": 4.587261199951172,
+        "TSNE-2": 0.8757598400115967,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 7.011170387268066,
+        "TSNE-2": -3.7718331813812256,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": 0.7143109440803528,
+        "TSNE-2": -11.986625671386719,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": -7.73038911819458,
+        "TSNE-2": 6.488327980041504,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 0.43174999952316284,
+        "TSNE-2": -0.6052101850509644,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 0.22086192667484283,
+        "TSNE-2": -4.279736518859863,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -2.264101266860962,
+        "TSNE-2": -3.5135068893432617,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -3.3852202892303467,
+        "TSNE-2": 4.818410396575928,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": 9.925954818725586,
+        "TSNE-2": -4.992460250854492,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": -0.9706853032112122,
+        "TSNE-2": 0.7197109460830688,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -0.29149070382118225,
+        "TSNE-2": -7.444925785064697,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": -8.854083061218262,
+        "TSNE-2": -0.5971769094467163,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 8.589317321777344,
+        "TSNE-2": 2.824390411376953,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 12.838150024414062,
+        "TSNE-2": -2.1584951877593994,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": 0.43174999952316284,
+        "TSNE-2": -0.6052101850509644,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 7.435364723205566,
+        "TSNE-2": 2.4938740730285645,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 5.266143798828125,
+        "TSNE-2": 5.172725677490234,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": -8.06570816040039,
+        "TSNE-2": -4.947754859924316,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -3.5586421489715576,
+        "TSNE-2": -0.4537605345249176,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -8.300117492675781,
+        "TSNE-2": -5.410502910614014,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -0.8351314067840576,
+        "TSNE-2": -8.672774314880371,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": -4.186849117279053,
+        "TSNE-2": -2.016209602355957,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 1.201664686203003,
+        "TSNE-2": -2.08530592918396,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 5.062309265136719,
+        "TSNE-2": -0.5243595242500305,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": -5.453797340393066,
+        "TSNE-2": -7.241939067840576,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": -9.030701637268066,
+        "TSNE-2": -0.9872713088989258,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 0.477178156375885,
+        "TSNE-2": -11.972086906433105,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": 1.1145973205566406,
+        "TSNE-2": 8.318937301635742,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": 5.331677436828613,
+        "TSNE-2": 7.9006428718566895,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -1.2776820659637451,
+        "TSNE-2": -0.32189255952835083,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 8.950522422790527,
+        "TSNE-2": 0.6092696189880371,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 0.24023818969726562,
+        "TSNE-2": 3.2545037269592285,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -2.0121333599090576,
+        "TSNE-2": 2.5370686054229736,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -5.269155979156494,
+        "TSNE-2": 1.9025789499282837,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 4.460660934448242,
+        "TSNE-2": -5.049679756164551,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": 3.460721731185913,
+        "TSNE-2": -2.405773401260376,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -1.84369695186615,
+        "TSNE-2": -5.964681625366211,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": 10.663473129272461,
+        "TSNE-2": 1.7785933017730713,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": -1.9816256761550903,
+        "TSNE-2": 10.327025413513184,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -1.5383230447769165,
+        "TSNE-2": 0.14225023984909058,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 2.1919283866882324,
+        "TSNE-2": -5.499268531799316,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -2.7712252140045166,
+        "TSNE-2": 1.6860381364822388,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 3.491666793823242,
+        "TSNE-2": 9.394344329833984,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": 3.1713316440582275,
+        "TSNE-2": 5.81606912612915,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -6.440246105194092,
+        "TSNE-2": -0.6307112574577332,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -3.4290947914123535,
+        "TSNE-2": 4.773278713226318,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -3.6543633937835693,
+        "TSNE-2": 2.67449688911438,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -2.0444095134735107,
+        "TSNE-2": 8.12761116027832,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -7.393074035644531,
+        "TSNE-2": -2.1438965797424316,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 0.0908612459897995,
+        "TSNE-2": 1.5026180744171143,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 9.634199142456055,
+        "TSNE-2": -4.516462802886963,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": 7.84459114074707,
+        "TSNE-2": 0.6931257247924805,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 4.5812788009643555,
+        "TSNE-2": 1.6699258089065552,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 8.416017532348633,
+        "TSNE-2": 4.201610565185547,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": -9.479562759399414,
+        "TSNE-2": -2.918665647506714,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 1.8431396484375,
+        "TSNE-2": 2.068145275115967,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 3.6129965782165527,
+        "TSNE-2": 1.6561626195907593,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 5.559500694274902,
+        "TSNE-2": -9.878141403198242,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": -0.5120097398757935,
+        "TSNE-2": 9.726418495178223,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -1.4899121522903442,
+        "TSNE-2": 9.302536964416504,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": 4.063270092010498,
+        "TSNE-2": 6.254292964935303,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -5.850679874420166,
+        "TSNE-2": 2.307466745376587,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 1.8870925903320312,
+        "TSNE-2": 0.023752406239509583,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -4.385093688964844,
+        "TSNE-2": 1.3395650386810303,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 2.6200077533721924,
+        "TSNE-2": -3.0132343769073486,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -1.7556291818618774,
+        "TSNE-2": -2.2222445011138916,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": -9.839303016662598,
+        "TSNE-2": 0.8275609612464905,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -2.399409055709839,
+        "TSNE-2": -2.4604086875915527,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 12.838150024414062,
+        "TSNE-2": -2.1584951877593994,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": 2.8408150672912598,
+        "TSNE-2": -7.299877166748047,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": -5.716130256652832,
+        "TSNE-2": 4.254440784454346,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -6.638981342315674,
+        "TSNE-2": 3.45916748046875,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -0.06613537669181824,
+        "TSNE-2": 6.147687911987305,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -8.39147663116455,
+        "TSNE-2": 4.1592326164245605,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 2.8408150672912598,
+        "TSNE-2": -7.299877166748047,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": -5.837254047393799,
+        "TSNE-2": 8.647238731384277,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -6.191082954406738,
+        "TSNE-2": -1.12039315700531,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": 7.3838300704956055,
+        "TSNE-2": -0.4911218285560608,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 1.3488593101501465,
+        "TSNE-2": 4.262156963348389,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": 5.555160045623779,
+        "TSNE-2": -9.865118026733398,
+        "cluster": 2,
+        "keywords": "person, lower, negative, burden, inequality"
+      },
+      {
+        "TSNE-1": -3.869046688079834,
+        "TSNE-2": 6.2678985595703125,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": -1.84369695186615,
+        "TSNE-2": -5.964681625366211,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": -9.939522743225098,
+        "TSNE-2": -3.082119941711426,
+        "cluster": 3,
+        "keywords": "racist, result, discriminatory, cause, societal"
+      },
+      {
+        "TSNE-1": -4.2009382247924805,
+        "TSNE-2": -9.937848091125488,
+        "cluster": 1,
+        "keywords": "social, cultural, concern, individual, contribute"
+      },
+      {
+        "TSNE-1": -0.030608486384153366,
+        "TSNE-2": 10.320347785949707,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": 6.243168354034424,
+        "TSNE-2": 2.2778239250183105,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      },
+      {
+        "TSNE-1": 0.51612389087677,
+        "TSNE-2": -4.667145252227783,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 2.732728958129883,
+        "TSNE-2": -0.8268110752105713,
+        "cluster": 5,
+        "keywords": "among, psychological, way, people, perpetuate"
+      },
+      {
+        "TSNE-1": 5.331677436828613,
+        "TSNE-2": 7.9006428718566895,
+        "cluster": 0,
+        "keywords": "stereotype, lead, racial, race, rather"
+      },
+      {
+        "TSNE-1": 5.300996780395508,
+        "TSNE-2": -1.1500346660614014,
+        "cluster": 4,
+        "keywords": "extreme, inaccurate, systemic, economic, harmful"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_263",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-142084 - what happens when racial stereotypes go too far"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-6be6bcb9b393e53419dae6c7b224ec7c"
+  },
+  "datasets": {
+    "data-6be6bcb9b393e53419dae6c7b224ec7c": [
+      {
+        "TSNE-1": 2.5265390872955322,
+        "TSNE-2": -1.4856481552124023,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 7.026814937591553,
+        "TSNE-2": 2.269685745239258,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": -6.405655384063721,
+        "TSNE-2": -1.1137723922729492,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -3.0515239238739014,
+        "TSNE-2": -3.7443933486938477,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": -6.405655384063721,
+        "TSNE-2": -1.1137723922729492,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -4.490964889526367,
+        "TSNE-2": 9.869619369506836,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 1.9607194662094116,
+        "TSNE-2": 0.7146685123443604,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 4.435013771057129,
+        "TSNE-2": -0.8025351762771606,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": -0.9332442283630371,
+        "TSNE-2": -3.2817258834838867,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": -6.798482418060303,
+        "TSNE-2": 7.4319682121276855,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 8.549524307250977,
+        "TSNE-2": 0.5144901275634766,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": 10.860730171203613,
+        "TSNE-2": -4.935046195983887,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 1.0814028978347778,
+        "TSNE-2": -4.25361967086792,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 3.829435110092163,
+        "TSNE-2": -4.311007499694824,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": -6.858160018920898,
+        "TSNE-2": 4.571163177490234,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 3.0949487686157227,
+        "TSNE-2": 5.564329147338867,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": -9.133050918579102,
+        "TSNE-2": 4.960169792175293,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 4.435013771057129,
+        "TSNE-2": -0.8025351762771606,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 3.019702434539795,
+        "TSNE-2": 6.806606292724609,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": -1.7051502466201782,
+        "TSNE-2": -9.626718521118164,
+        "cluster": 4,
+        "keywords": "employee, throughout, engagement, update, boost"
+      },
+      {
+        "TSNE-1": -5.561110973358154,
+        "TSNE-2": -5.167933940887451,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": 2.841937780380249,
+        "TSNE-2": 2.4077529907226562,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 11.86917495727539,
+        "TSNE-2": 1.0007044076919556,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": 6.027884483337402,
+        "TSNE-2": -3.8162331581115723,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 6.9655537605285645,
+        "TSNE-2": -5.750990867614746,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 5.808447360992432,
+        "TSNE-2": -1.242892861366272,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": -6.075795650482178,
+        "TSNE-2": 1.70473313331604,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 10.457320213317871,
+        "TSNE-2": 4.144753456115723,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": -5.448922157287598,
+        "TSNE-2": 7.342895030975342,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -1.0736215114593506,
+        "TSNE-2": -7.672744274139404,
+        "cluster": 4,
+        "keywords": "employee, throughout, engagement, update, boost"
+      },
+      {
+        "TSNE-1": -0.783535361289978,
+        "TSNE-2": -3.2095189094543457,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": -3.7525269985198975,
+        "TSNE-2": -10.003495216369629,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": 1.5082268714904785,
+        "TSNE-2": -4.772818088531494,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 2.9828805923461914,
+        "TSNE-2": 0.02446497231721878,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 9.229567527770996,
+        "TSNE-2": 3.5475714206695557,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": -0.26197633147239685,
+        "TSNE-2": 1.3956685066223145,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": -0.1551860272884369,
+        "TSNE-2": 2.8968722820281982,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": -0.6742668747901917,
+        "TSNE-2": -0.7364773154258728,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 3.776944160461426,
+        "TSNE-2": -6.82858419418335,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 4.885653972625732,
+        "TSNE-2": 2.608484983444214,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 6.164219379425049,
+        "TSNE-2": 3.6224987506866455,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": 0.5949383974075317,
+        "TSNE-2": 3.9040114879608154,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 2.1490442752838135,
+        "TSNE-2": -3.8383426666259766,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 0.7321556806564331,
+        "TSNE-2": -1.7002878189086914,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": -1.0374714136123657,
+        "TSNE-2": 0.7675706148147583,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 2.1121811866760254,
+        "TSNE-2": -9.552176475524902,
+        "cluster": 4,
+        "keywords": "employee, throughout, engagement, update, boost"
+      },
+      {
+        "TSNE-1": -4.592106819152832,
+        "TSNE-2": -11.266363143920898,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": -7.993904113769531,
+        "TSNE-2": -3.7219960689544678,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": 8.549524307250977,
+        "TSNE-2": 0.5144901275634766,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": 0.19004523754119873,
+        "TSNE-2": 0.8687469363212585,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": -1.273209810256958,
+        "TSNE-2": 5.046351432800293,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -5.577723503112793,
+        "TSNE-2": 8.20443344116211,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 1.7450603246688843,
+        "TSNE-2": -5.222888946533203,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 1.996936559677124,
+        "TSNE-2": -10.711579322814941,
+        "cluster": 4,
+        "keywords": "employee, throughout, engagement, update, boost"
+      },
+      {
+        "TSNE-1": 3.70257568359375,
+        "TSNE-2": 1.196434736251831,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 13.086421012878418,
+        "TSNE-2": 1.7737308740615845,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": 4.337738990783691,
+        "TSNE-2": 5.607048511505127,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": -7.902557849884033,
+        "TSNE-2": 1.2056710720062256,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 4.507110118865967,
+        "TSNE-2": -2.528621196746826,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": -5.8364644050598145,
+        "TSNE-2": -5.052635669708252,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": -3.669658660888672,
+        "TSNE-2": 4.988336563110352,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -1.4548141956329346,
+        "TSNE-2": 4.38932466506958,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -3.8542048931121826,
+        "TSNE-2": 1.9446529150009155,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -5.371142387390137,
+        "TSNE-2": -9.663291931152344,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": 1.3061506748199463,
+        "TSNE-2": 2.2863361835479736,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 6.090573787689209,
+        "TSNE-2": 1.1037620306015015,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": -2.264261484146118,
+        "TSNE-2": 1.8578836917877197,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 5.112112998962402,
+        "TSNE-2": -7.589668273925781,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 2.117722511291504,
+        "TSNE-2": 4.111654758453369,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 13.522777557373047,
+        "TSNE-2": 2.1942245960235596,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": 3.4110703468322754,
+        "TSNE-2": -1.9988079071044922,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": -9.133050918579102,
+        "TSNE-2": 4.960169792175293,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -3.2154557704925537,
+        "TSNE-2": -0.7719686031341553,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 7.657861232757568,
+        "TSNE-2": 5.989436626434326,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": -1.059170126914978,
+        "TSNE-2": 2.3462893962860107,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 7.350645065307617,
+        "TSNE-2": -1.4504899978637695,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 6.671476364135742,
+        "TSNE-2": 6.648995876312256,
+        "cluster": 0,
+        "keywords": "holiday, social, also, life, festive"
+      },
+      {
+        "TSNE-1": -3.2154557704925537,
+        "TSNE-2": -0.7719686031341553,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -5.153195858001709,
+        "TSNE-2": 1.5092267990112305,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -1.9664586782455444,
+        "TSNE-2": 7.845773696899414,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 4.7976508140563965,
+        "TSNE-2": -5.450643539428711,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 1.7268763780593872,
+        "TSNE-2": -9.669496536254883,
+        "cluster": 4,
+        "keywords": "employee, throughout, engagement, update, boost"
+      },
+      {
+        "TSNE-1": -3.669658660888672,
+        "TSNE-2": 4.988336563110352,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": 0.4135984182357788,
+        "TSNE-2": -6.368687152862549,
+        "cluster": 4,
+        "keywords": "employee, throughout, engagement, update, boost"
+      },
+      {
+        "TSNE-1": 4.885653972625732,
+        "TSNE-2": 2.608484983444214,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": -3.1285135746002197,
+        "TSNE-2": 7.715369701385498,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      },
+      {
+        "TSNE-1": -1.9407614469528198,
+        "TSNE-2": -6.311887264251709,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": 1.761484146118164,
+        "TSNE-2": 8.894574165344238,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 2.6407034397125244,
+        "TSNE-2": 5.4486403465271,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": 8.569816589355469,
+        "TSNE-2": -3.406744956970215,
+        "cluster": 5,
+        "keywords": "people, time, high, another, create"
+      },
+      {
+        "TSNE-1": 5.134664058685303,
+        "TSNE-2": 0.41453075408935547,
+        "cluster": 2,
+        "keywords": "stress, expectation, experience, sadness, financial"
+      },
+      {
+        "TSNE-1": -3.7525269985198975,
+        "TSNE-2": -10.003495216369629,
+        "cluster": 3,
+        "keywords": "forgotten, narcissist, may, lack, celebratory"
+      },
+      {
+        "TSNE-1": -6.511138916015625,
+        "TSNE-2": 3.44167423248291,
+        "cluster": 1,
+        "keywords": "feel, due, stressful, pressure, various"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_157",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-216957 - why do holidays not feel festive anymore"
+  }
+}

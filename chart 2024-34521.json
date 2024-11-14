@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-1cf2bf4220b4fec5b0a3f4e0e0439470"
+  },
+  "datasets": {
+    "data-1cf2bf4220b4fec5b0a3f4e0e0439470": [
+      {
+        "TSNE-1": -5.848172664642334,
+        "TSNE-2": -4.110774517059326,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -7.5792999267578125,
+        "TSNE-2": -6.202711582183838,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -11.922136306762695,
+        "TSNE-2": 0.18461844325065613,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -5.3937602043151855,
+        "TSNE-2": 5.530068874359131,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -11.922136306762695,
+        "TSNE-2": 0.18461844325065613,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -5.23744535446167,
+        "TSNE-2": 10.494956016540527,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": 5.916466236114502,
+        "TSNE-2": 9.754009246826172,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": -2.7822890281677246,
+        "TSNE-2": -2.446126937866211,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -1.2212151288986206,
+        "TSNE-2": 6.5338664054870605,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": -2.554009437561035,
+        "TSNE-2": -7.43544340133667,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -0.9371122121810913,
+        "TSNE-2": 2.361799716949463,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": -0.5594910979270935,
+        "TSNE-2": 11.442093849182129,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": 1.5549558401107788,
+        "TSNE-2": 1.0553549528121948,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -6.24271297454834,
+        "TSNE-2": 1.7297539710998535,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -4.237430572509766,
+        "TSNE-2": -11.167512893676758,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 3.823845148086548,
+        "TSNE-2": 0.5925217866897583,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 12.593939781188965,
+        "TSNE-2": 2.276031494140625,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": -2.7822890281677246,
+        "TSNE-2": -2.446126937866211,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 3.688671112060547,
+        "TSNE-2": 1.630260705947876,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 9.63332748413086,
+        "TSNE-2": -11.30938720703125,
+        "cluster": 5,
+        "keywords": "proactive, directly, responsibility, anticipate, issue"
+      },
+      {
+        "TSNE-1": -3.7491753101348877,
+        "TSNE-2": 3.4889423847198486,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": 6.972316265106201,
+        "TSNE-2": -4.254613399505615,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -1.1404309272766113,
+        "TSNE-2": -8.936564445495605,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 8.529886245727539,
+        "TSNE-2": 6.518766403198242,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 4.0243048667907715,
+        "TSNE-2": -8.355818748474121,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 2.230685234069824,
+        "TSNE-2": -1.962760090827942,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -4.36210298538208,
+        "TSNE-2": 5.229361534118652,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": 6.1947784423828125,
+        "TSNE-2": 10.306075096130371,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": -1.1035102605819702,
+        "TSNE-2": 4.87940788269043,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": 14.557646751403809,
+        "TSNE-2": -0.8561171293258667,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": -1.1616017818450928,
+        "TSNE-2": 8.074366569519043,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": 8.91983699798584,
+        "TSNE-2": -9.074180603027344,
+        "cluster": 5,
+        "keywords": "proactive, directly, responsibility, anticipate, issue"
+      },
+      {
+        "TSNE-1": 1.551562786102295,
+        "TSNE-2": -0.43292462825775146,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 4.619733810424805,
+        "TSNE-2": -2.2565412521362305,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -12.786090850830078,
+        "TSNE-2": 4.932340145111084,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -0.32018232345581055,
+        "TSNE-2": -10.186867713928223,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 9.602950096130371,
+        "TSNE-2": -4.199198246002197,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -7.156121730804443,
+        "TSNE-2": -2.2431793212890625,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 4.3707098960876465,
+        "TSNE-2": -4.374787330627441,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -0.6092809438705444,
+        "TSNE-2": -4.5995612144470215,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 5.484645843505859,
+        "TSNE-2": -6.106247425079346,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 6.0101752281188965,
+        "TSNE-2": 2.823171377182007,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 2.687466859817505,
+        "TSNE-2": 5.48557710647583,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": -3.9140450954437256,
+        "TSNE-2": 2.05143141746521,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -8.419220924377441,
+        "TSNE-2": -6.886752605438232,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -13.903654098510742,
+        "TSNE-2": -6.155481815338135,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 8.028611183166504,
+        "TSNE-2": -11.070876121520996,
+        "cluster": 5,
+        "keywords": "proactive, directly, responsibility, anticipate, issue"
+      },
+      {
+        "TSNE-1": -6.875842571258545,
+        "TSNE-2": 3.473087787628174,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -0.9371122121810913,
+        "TSNE-2": 2.361799716949463,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": -8.594100952148438,
+        "TSNE-2": -8.42599868774414,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -5.082122802734375,
+        "TSNE-2": -8.424230575561523,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -2.2380142211914062,
+        "TSNE-2": -8.002591133117676,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 2.3591103553771973,
+        "TSNE-2": 6.197504997253418,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": -13.903654098510742,
+        "TSNE-2": -6.155481815338135,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 6.049346446990967,
+        "TSNE-2": -1.7699754238128662,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -8.395763397216797,
+        "TSNE-2": 1.5659658908843994,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": 5.185218811035156,
+        "TSNE-2": 0.6640543341636658,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": -9.327228546142578,
+        "TSNE-2": 3.7125627994537354,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -2.4200894832611084,
+        "TSNE-2": -0.5242271423339844,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -6.290314197540283,
+        "TSNE-2": 6.571384906768799,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -10.615785598754883,
+        "TSNE-2": -3.3818347454071045,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -5.220253944396973,
+        "TSNE-2": -9.491981506347656,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 7.651488780975342,
+        "TSNE-2": 0.123298779129982,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 10.841628074645996,
+        "TSNE-2": -11.845312118530273,
+        "cluster": 5,
+        "keywords": "proactive, directly, responsibility, anticipate, issue"
+      },
+      {
+        "TSNE-1": 10.648591995239258,
+        "TSNE-2": -2.1525185108184814,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 7.964606285095215,
+        "TSNE-2": -1.4796369075775146,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 10.454849243164062,
+        "TSNE-2": 4.0141096115112305,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 2.9260339736938477,
+        "TSNE-2": -4.552053928375244,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 3.9958605766296387,
+        "TSNE-2": 4.197173595428467,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": -11.00593376159668,
+        "TSNE-2": 9.871194839477539,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": 8.732236862182617,
+        "TSNE-2": 0.9762645363807678,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 12.593939781188965,
+        "TSNE-2": 2.276031494140625,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": -5.2678680419921875,
+        "TSNE-2": -0.13402071595191956,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 7.748934268951416,
+        "TSNE-2": 3.797792911529541,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": 8.870377540588379,
+        "TSNE-2": -2.3049416542053223,
+        "cluster": 3,
+        "keywords": "better, document, strength, also, people"
+      },
+      {
+        "TSNE-1": -0.46620097756385803,
+        "TSNE-2": -1.1953420639038086,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 1.4608956575393677,
+        "TSNE-2": -6.554447650909424,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -5.2678680419921875,
+        "TSNE-2": -0.13402071595191956,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 0.8118573427200317,
+        "TSNE-2": 3.455873489379883,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": -8.381525993347168,
+        "TSNE-2": 2.611928701400757,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": 1.1364240646362305,
+        "TSNE-2": -2.6349713802337646,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -0.5594910979270935,
+        "TSNE-2": 11.442093849182129,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": -10.615785598754883,
+        "TSNE-2": -3.3818347454071045,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": -2.2840027809143066,
+        "TSNE-2": 12.458699226379395,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": -0.6092809438705444,
+        "TSNE-2": -4.5995612144470215,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -7.537588119506836,
+        "TSNE-2": 4.866087436676025,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      },
+      {
+        "TSNE-1": -5.8789238929748535,
+        "TSNE-2": 11.160984992980957,
+        "cluster": 2,
+        "keywords": "change, different, training, understand, employee"
+      },
+      {
+        "TSNE-1": 4.126429080963135,
+        "TSNE-2": -13.121779441833496,
+        "cluster": 5,
+        "keywords": "proactive, directly, responsibility, anticipate, issue"
+      },
+      {
+        "TSNE-1": 4.723099231719971,
+        "TSNE-2": -0.7983721494674683,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": -3.9488446712493896,
+        "TSNE-2": -3.4644203186035156,
+        "cluster": 4,
+        "keywords": "new, objective, rather, interpersonal, involves"
+      },
+      {
+        "TSNE-1": 4.301336288452148,
+        "TSNE-2": -7.628183841705322,
+        "cluster": 1,
+        "keywords": "emotional, personal, lead, thought, mindfulness"
+      },
+      {
+        "TSNE-1": 8.91983699798584,
+        "TSNE-2": -9.074180603027344,
+        "cluster": 5,
+        "keywords": "proactive, directly, responsibility, anticipate, issue"
+      },
+      {
+        "TSNE-1": -10.398600578308105,
+        "TSNE-2": 9.832326889038086,
+        "cluster": 0,
+        "keywords": "impersonal, problem, help, awareness, individual"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_141",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-34521 - how can impersonal awareness help to change probklems"
+  }
+}

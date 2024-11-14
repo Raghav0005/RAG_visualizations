@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-ec08690aa1ba65073c85790a33cbafa9"
+  },
+  "datasets": {
+    "data-ec08690aa1ba65073c85790a33cbafa9": [
+      {
+        "TSNE-1": -4.76298189163208,
+        "TSNE-2": 11.201234817504883,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": 9.290806770324707,
+        "TSNE-2": 0.2732338607311249,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 5.18215274810791,
+        "TSNE-2": -12.468937873840332,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 14.993273735046387,
+        "TSNE-2": 4.289730072021484,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": 5.18215274810791,
+        "TSNE-2": -12.468937873840332,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 8.491987228393555,
+        "TSNE-2": 7.431432247161865,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 3.2026455402374268,
+        "TSNE-2": -9.620739936828613,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": -2.2047765254974365,
+        "TSNE-2": 0.8717198967933655,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -0.8273611068725586,
+        "TSNE-2": 11.173416137695312,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": -10.633201599121094,
+        "TSNE-2": -4.309483051300049,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -1.4690425395965576,
+        "TSNE-2": -1.982231855392456,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -3.2237207889556885,
+        "TSNE-2": -4.261321067810059,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 0.46886003017425537,
+        "TSNE-2": 2.695887565612793,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -8.03658390045166,
+        "TSNE-2": 0.8065106868743896,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -10.202948570251465,
+        "TSNE-2": -9.416850090026855,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": 6.550743103027344,
+        "TSNE-2": 3.1724133491516113,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 18.765485763549805,
+        "TSNE-2": 1.1389551162719727,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": -2.2047765254974365,
+        "TSNE-2": 0.8717198967933655,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 6.944506645202637,
+        "TSNE-2": 2.028322458267212,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": -5.3574347496032715,
+        "TSNE-2": 1.4006836414337158,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -14.486021995544434,
+        "TSNE-2": -2.493534803390503,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -7.31002140045166,
+        "TSNE-2": 3.2803101539611816,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": -13.548538208007812,
+        "TSNE-2": -2.256490468978882,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -10.669279098510742,
+        "TSNE-2": -1.2893670797348022,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -6.336687088012695,
+        "TSNE-2": 8.731895446777344,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": 0.7912128567695618,
+        "TSNE-2": -0.04797355458140373,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 14.090401649475098,
+        "TSNE-2": 5.689068794250488,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": 3.828216552734375,
+        "TSNE-2": 8.729848861694336,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": -8.995792388916016,
+        "TSNE-2": -9.03520393371582,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": 13.568033218383789,
+        "TSNE-2": -1.9233205318450928,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": 8.334712028503418,
+        "TSNE-2": -9.344220161437988,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 0.46956372261047363,
+        "TSNE-2": -10.788168907165527,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": -0.31384217739105225,
+        "TSNE-2": 3.486112117767334,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 6.1556196212768555,
+        "TSNE-2": 4.786214351654053,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": -2.3826475143432617,
+        "TSNE-2": 3.0912609100341797,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -0.07156600058078766,
+        "TSNE-2": 8.62626838684082,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": -1.90401029586792,
+        "TSNE-2": 7.2109785079956055,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": 9.482382774353027,
+        "TSNE-2": 4.185153007507324,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 2.225940704345703,
+        "TSNE-2": 3.7044167518615723,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 4.900912761688232,
+        "TSNE-2": -0.5389805436134338,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 4.290734767913818,
+        "TSNE-2": 11.391789436340332,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 7.325145244598389,
+        "TSNE-2": -3.667952299118042,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 2.2508835792541504,
+        "TSNE-2": 1.174391508102417,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -4.293725490570068,
+        "TSNE-2": -7.987715721130371,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -3.9850046634674072,
+        "TSNE-2": 4.330742359161377,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": 6.831937789916992,
+        "TSNE-2": -8.49899673461914,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": -3.9660046100616455,
+        "TSNE-2": -0.8520029187202454,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 12.71879768371582,
+        "TSNE-2": 4.634252071380615,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": -1.4690425395965576,
+        "TSNE-2": -1.982231855392456,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -0.6551786661148071,
+        "TSNE-2": 6.998005390167236,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": 0.2970379889011383,
+        "TSNE-2": -4.6266021728515625,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -8.006376266479492,
+        "TSNE-2": -8.693025588989258,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": 0.4420289695262909,
+        "TSNE-2": 1.5109361410140991,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": -3.3108432292938232,
+        "TSNE-2": -6.053946495056152,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 4.1225666999816895,
+        "TSNE-2": 2.2403581142425537,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": -11.618452072143555,
+        "TSNE-2": 2.3451037406921387,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": 4.516175746917725,
+        "TSNE-2": 6.394140720367432,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 11.356925964355469,
+        "TSNE-2": -5.453353404998779,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 0.7474524974822998,
+        "TSNE-2": 5.5947065353393555,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": -11.04784870147705,
+        "TSNE-2": 3.0547215938568115,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -3.603408098220825,
+        "TSNE-2": -11.08057689666748,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": -0.6966647505760193,
+        "TSNE-2": -6.33271598815918,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 1.2910734415054321,
+        "TSNE-2": -6.314189910888672,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 2.066410541534424,
+        "TSNE-2": -4.687211036682129,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": -3.150520086288452,
+        "TSNE-2": 6.008742809295654,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": -8.8861665725708,
+        "TSNE-2": -1.8323428630828857,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -3.197502374649048,
+        "TSNE-2": 7.377031326293945,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": -3.6549930572509766,
+        "TSNE-2": 12.821386337280273,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": 2.440300941467285,
+        "TSNE-2": -3.033890724182129,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 14.44991683959961,
+        "TSNE-2": 2.682260036468506,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": 1.2638015747070312,
+        "TSNE-2": -1.3829326629638672,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 18.765485763549805,
+        "TSNE-2": 1.1389551162719727,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": 9.715141296386719,
+        "TSNE-2": 10.368962287902832,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": -5.537311553955078,
+        "TSNE-2": -2.978473663330078,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": -3.270189046859741,
+        "TSNE-2": 8.509549140930176,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": -5.988704204559326,
+        "TSNE-2": 5.596493244171143,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": 1.6455535888671875,
+        "TSNE-2": 7.021736145019531,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 9.715141296386719,
+        "TSNE-2": 10.368962287902832,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": -2.1180474758148193,
+        "TSNE-2": -5.872393608093262,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 9.940442085266113,
+        "TSNE-2": -4.640096664428711,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": -10.411131858825684,
+        "TSNE-2": -2.6252310276031494,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      },
+      {
+        "TSNE-1": 5.692564010620117,
+        "TSNE-2": -7.663951873779297,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": -3.603408098220825,
+        "TSNE-2": -11.08057689666748,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 3.049851894378662,
+        "TSNE-2": -1.4083466529846191,
+        "cluster": 0,
+        "keywords": "economic, policy, social, pink, government"
+      },
+      {
+        "TSNE-1": 4.900912761688232,
+        "TSNE-2": -0.5389805436134338,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 13.905295372009277,
+        "TSNE-2": 6.440967082977295,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": 14.245607376098633,
+        "TSNE-2": -3.1092755794525146,
+        "cluster": 2,
+        "keywords": "question, implication, context, information, nationalism"
+      },
+      {
+        "TSNE-1": -8.080845832824707,
+        "TSNE-2": 11.005187034606934,
+        "cluster": 5,
+        "keywords": "socialist, ideal, inequality, region, poverty"
+      },
+      {
+        "TSNE-1": 4.6968817710876465,
+        "TSNE-2": 3.6353816986083984,
+        "cluster": 4,
+        "keywords": "political, also, leader, often, significant"
+      },
+      {
+        "TSNE-1": 5.247679710388184,
+        "TSNE-2": -6.723093032836914,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 4.808008670806885,
+        "TSNE-2": -2.898736000061035,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": 0.46956372261047363,
+        "TSNE-2": -10.788168907165527,
+        "cluster": 1,
+        "keywords": "latin, tide, document, america, wave"
+      },
+      {
+        "TSNE-1": -12.681168556213379,
+        "TSNE-2": 0.567244827747345,
+        "cluster": 3,
+        "keywords": "may, mean, rule, rise, lead"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_109",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-137667 - what does the rise in left wing rule mean for latin america"
+  }
+}

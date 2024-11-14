@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-48231390d9d87d80667fe5e4e273d51b"
+  },
+  "datasets": {
+    "data-48231390d9d87d80667fe5e4e273d51b": [
+      {
+        "TSNE-1": 5.859900951385498,
+        "TSNE-2": -6.081113338470459,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -7.1925950050354,
+        "TSNE-2": -6.300318717956543,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -7.147721767425537,
+        "TSNE-2": 2.1891818046569824,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -2.34086537361145,
+        "TSNE-2": 14.507802963256836,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -7.147721767425537,
+        "TSNE-2": 2.1891818046569824,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -4.6600542068481445,
+        "TSNE-2": 6.588271617889404,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -0.8918391466140747,
+        "TSNE-2": 1.6583123207092285,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 0.5326423645019531,
+        "TSNE-2": -5.20017147064209,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 6.886458873748779,
+        "TSNE-2": 8.12561321258545,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": -5.117422580718994,
+        "TSNE-2": 9.670732498168945,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -1.807037591934204,
+        "TSNE-2": -0.40196388959884644,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 3.7592475414276123,
+        "TSNE-2": 2.4252099990844727,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -0.3726904094219208,
+        "TSNE-2": -8.026418685913086,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -6.9155049324035645,
+        "TSNE-2": 7.443540573120117,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": 0.3828926086425781,
+        "TSNE-2": 14.880538940429688,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": 6.191225051879883,
+        "TSNE-2": -4.445651531219482,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": 8.120299339294434,
+        "TSNE-2": -14.149858474731445,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": 0.5326423645019531,
+        "TSNE-2": -5.20017147064209,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -9.756684303283691,
+        "TSNE-2": -4.305410385131836,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 0.01975923776626587,
+        "TSNE-2": 3.8607447147369385,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -0.048079051077365875,
+        "TSNE-2": 12.088062286376953,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -4.632279872894287,
+        "TSNE-2": -11.035369873046875,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 1.5174366235733032,
+        "TSNE-2": 12.991904258728027,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": 9.37058162689209,
+        "TSNE-2": 2.888014316558838,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": 0.2326989769935608,
+        "TSNE-2": -2.304276466369629,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 4.541627407073975,
+        "TSNE-2": -2.9259893894195557,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -3.771493673324585,
+        "TSNE-2": 12.797534942626953,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": 1.0128271579742432,
+        "TSNE-2": 8.79450511932373,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": 2.3181350231170654,
+        "TSNE-2": 10.902873992919922,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": 5.182789325714111,
+        "TSNE-2": 5.35604190826416,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": 7.766207695007324,
+        "TSNE-2": 1.01479172706604,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -1.7846347093582153,
+        "TSNE-2": 4.53347110748291,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -3.5272305011749268,
+        "TSNE-2": -7.212046146392822,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -1.6754082441329956,
+        "TSNE-2": -13.351588249206543,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -4.299340724945068,
+        "TSNE-2": 1.7896490097045898,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 1.0057928562164307,
+        "TSNE-2": -3.103288173675537,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 0.17964716255664825,
+        "TSNE-2": -10.994521141052246,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -2.4965176582336426,
+        "TSNE-2": 1.9058815240859985,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -5.466903209686279,
+        "TSNE-2": -8.231300354003906,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 3.074129343032837,
+        "TSNE-2": -1.6384048461914062,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": 9.655394554138184,
+        "TSNE-2": -5.461495399475098,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -3.3140618801116943,
+        "TSNE-2": -2.478444814682007,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -1.7473013401031494,
+        "TSNE-2": -8.295605659484863,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -8.538994789123535,
+        "TSNE-2": 4.053861141204834,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -0.9097263216972351,
+        "TSNE-2": -3.239957094192505,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 5.491671562194824,
+        "TSNE-2": 10.581724166870117,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": -8.395417213439941,
+        "TSNE-2": -9.583903312683105,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -1.2800068855285645,
+        "TSNE-2": 8.907697677612305,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -1.807037591934204,
+        "TSNE-2": -0.40196388959884644,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 1.4421601295471191,
+        "TSNE-2": -1.6257964372634888,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": 8.6358003616333,
+        "TSNE-2": -8.72048568725586,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": -0.849602460861206,
+        "TSNE-2": 14.403310775756836,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -2.496203899383545,
+        "TSNE-2": -7.5192999839782715,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 3.414703845977783,
+        "TSNE-2": 0.8851903676986694,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": 6.239455699920654,
+        "TSNE-2": -1.503430724143982,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -2.7371296882629395,
+        "TSNE-2": 11.1101713180542,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": 8.021941184997559,
+        "TSNE-2": -3.3688883781433105,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -2.3950510025024414,
+        "TSNE-2": 10.01818561553955,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -4.061084270477295,
+        "TSNE-2": -0.24719874560832977,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 2.6997272968292236,
+        "TSNE-2": 12.609657287597656,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": -9.722492218017578,
+        "TSNE-2": 10.298498153686523,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -7.287364482879639,
+        "TSNE-2": -1.545893907546997,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -6.463973522186279,
+        "TSNE-2": -2.8126912117004395,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -1.7846347093582153,
+        "TSNE-2": 4.53347110748291,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 2.285173177719116,
+        "TSNE-2": -9.82907772064209,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": 4.0908989906311035,
+        "TSNE-2": -7.308661937713623,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": 2.2770657539367676,
+        "TSNE-2": -8.57728099822998,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": -2.751060724258423,
+        "TSNE-2": -5.538878917694092,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -4.4954047203063965,
+        "TSNE-2": -2.7787227630615234,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 1.3371955156326294,
+        "TSNE-2": 11.190248489379883,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": -3.4746572971343994,
+        "TSNE-2": -3.886922597885132,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 7.593326568603516,
+        "TSNE-2": -14.216169357299805,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": 1.8648967742919922,
+        "TSNE-2": 6.157866477966309,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": 1.5215321779251099,
+        "TSNE-2": -6.750814437866211,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 2.4883594512939453,
+        "TSNE-2": -10.851537704467773,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": 3.1446785926818848,
+        "TSNE-2": -4.696715354919434,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -4.971488952636719,
+        "TSNE-2": -5.236818790435791,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 1.8648967742919922,
+        "TSNE-2": 6.157866477966309,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": 5.951188087463379,
+        "TSNE-2": -9.748385429382324,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": -5.310573101043701,
+        "TSNE-2": 8.115437507629395,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": -2.5241029262542725,
+        "TSNE-2": -10.032050132751465,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": 5.671350479125977,
+        "TSNE-2": 8.860357284545898,
+        "cluster": 1,
+        "keywords": "towards, us, manipulation, psychological, shift"
+      },
+      {
+        "TSNE-1": -9.722492218017578,
+        "TSNE-2": 10.298498153686523,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": 0.8383475542068481,
+        "TSNE-2": 0.6986257433891296,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": 3.074129343032837,
+        "TSNE-2": -1.6384048461914062,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -1.7718552350997925,
+        "TSNE-2": 11.938565254211426,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      },
+      {
+        "TSNE-1": 13.344006538391113,
+        "TSNE-2": -0.9908314943313599,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": 2.37630033493042,
+        "TSNE-2": -15.231477737426758,
+        "cluster": 5,
+        "keywords": "propaganda, society, tool, conformity, want"
+      },
+      {
+        "TSNE-1": 6.28438663482666,
+        "TSNE-2": -2.8884990215301514,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": 12.677851676940918,
+        "TSNE-2": -0.963229238986969,
+        "cluster": 3,
+        "keywords": "citizen, like, emotional, among, maintain"
+      },
+      {
+        "TSNE-1": -1.2634856700897217,
+        "TSNE-2": -5.125699043273926,
+        "cluster": 2,
+        "keywords": "emotion, people, minute, ritual, loyalty"
+      },
+      {
+        "TSNE-1": -1.7846347093582153,
+        "TSNE-2": 4.53347110748291,
+        "cluster": 0,
+        "keywords": "hate, party, week, two, enemy"
+      },
+      {
+        "TSNE-1": -2.1689035892486572,
+        "TSNE-2": 13.273722648620605,
+        "cluster": 4,
+        "keywords": "sense, scream, novel, initial, big"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_35",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-44060 - how hatred is used as a tool to unite people in 1984"
+  }
+}

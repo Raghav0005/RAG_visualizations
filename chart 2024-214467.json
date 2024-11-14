@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-42c3bf45435f5587b8f102e606f202ff"
+  },
+  "datasets": {
+    "data-42c3bf45435f5587b8f102e606f202ff": [
+      {
+        "TSNE-1": -0.6731281876564026,
+        "TSNE-2": 0.9194447994232178,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 10.267799377441406,
+        "TSNE-2": -0.06029432266950607,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 8.197652816772461,
+        "TSNE-2": -4.293357849121094,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 7.548180103302002,
+        "TSNE-2": 7.771648406982422,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 8.197652816772461,
+        "TSNE-2": -4.293357849121094,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -9.569910049438477,
+        "TSNE-2": -0.7565039992332458,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": 10.340776443481445,
+        "TSNE-2": -3.6767334938049316,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -6.137867450714111,
+        "TSNE-2": 3.6938588619232178,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": -5.764812469482422,
+        "TSNE-2": -5.677723407745361,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": 3.8022067546844482,
+        "TSNE-2": 10.58349323272705,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 4.725429058074951,
+        "TSNE-2": -8.796953201293945,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 5.778254985809326,
+        "TSNE-2": 14.710535049438477,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": -2.3521997928619385,
+        "TSNE-2": 3.2388036251068115,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 9.806083679199219,
+        "TSNE-2": 6.875982284545898,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": -12.290506362915039,
+        "TSNE-2": -0.8810983896255493,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": -3.195552349090576,
+        "TSNE-2": -2.9820597171783447,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 0.17549093067646027,
+        "TSNE-2": 15.302538871765137,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": -6.137867450714111,
+        "TSNE-2": 3.6938588619232178,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": 0.6818807721138,
+        "TSNE-2": -0.16093233227729797,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -6.766190052032471,
+        "TSNE-2": 10.83425521850586,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": -3.97542405128479,
+        "TSNE-2": -11.090998649597168,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": -7.78024959564209,
+        "TSNE-2": 4.423423767089844,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": 6.459009647369385,
+        "TSNE-2": 9.917847633361816,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 11.369281768798828,
+        "TSNE-2": 5.8700642585754395,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": -0.38382142782211304,
+        "TSNE-2": -2.65866756439209,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -4.435434341430664,
+        "TSNE-2": 1.5676974058151245,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -3.816337823867798,
+        "TSNE-2": -9.17112922668457,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": 8.78543472290039,
+        "TSNE-2": -2.505380392074585,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -8.154897689819336,
+        "TSNE-2": -2.1716175079345703,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": -0.6512355804443359,
+        "TSNE-2": 8.08241081237793,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": -5.143038272857666,
+        "TSNE-2": -5.469791889190674,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": -4.002230644226074,
+        "TSNE-2": 12.407360076904297,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": -1.6672031879425049,
+        "TSNE-2": 2.498504161834717,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 0.6663392186164856,
+        "TSNE-2": -8.784214973449707,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": -6.962920188903809,
+        "TSNE-2": 12.055709838867188,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": 4.3224358558654785,
+        "TSNE-2": -1.8410404920578003,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 2.165785074234009,
+        "TSNE-2": -1.6670641899108887,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -6.0172600746154785,
+        "TSNE-2": 0.20335961878299713,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": -2.0697641372680664,
+        "TSNE-2": 5.371886253356934,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -1.6742037534713745,
+        "TSNE-2": -1.058922529220581,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 2.4743869304656982,
+        "TSNE-2": 5.301071643829346,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 3.0023581981658936,
+        "TSNE-2": -4.349761486053467,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 1.0876212120056152,
+        "TSNE-2": 2.4173476696014404,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -4.262685298919678,
+        "TSNE-2": 4.981507301330566,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": 2.9164018630981445,
+        "TSNE-2": 0.1937500685453415,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -12.645532608032227,
+        "TSNE-2": 5.268494606018066,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": -5.58829927444458,
+        "TSNE-2": 13.936509132385254,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": 2.4655208587646484,
+        "TSNE-2": 10.108325958251953,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 4.725429058074951,
+        "TSNE-2": -8.796953201293945,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 9.317625045776367,
+        "TSNE-2": 2.241366386413574,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 8.600851058959961,
+        "TSNE-2": -1.1757862567901611,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -7.991555690765381,
+        "TSNE-2": 7.378296852111816,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": 1.6588226556777954,
+        "TSNE-2": 2.601989984512329,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -12.645532608032227,
+        "TSNE-2": 5.268494606018066,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": 0.14940102398395538,
+        "TSNE-2": -7.920382499694824,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": -2.087479591369629,
+        "TSNE-2": -9.533723831176758,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": -4.800384521484375,
+        "TSNE-2": -2.5457308292388916,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 4.932410717010498,
+        "TSNE-2": 8.573709487915039,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": -1.2563763856887817,
+        "TSNE-2": -6.321035385131836,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": -2.4058849811553955,
+        "TSNE-2": -11.385287284851074,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": 4.422802925109863,
+        "TSNE-2": 2.901815891265869,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 6.738504886627197,
+        "TSNE-2": 0.9154027104377747,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 7.248350143432617,
+        "TSNE-2": 1.1274137496948242,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -4.158205986022949,
+        "TSNE-2": 14.079157829284668,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": 6.6235175132751465,
+        "TSNE-2": -1.3333698511123657,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -0.591629683971405,
+        "TSNE-2": 3.8578457832336426,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 3.5132856369018555,
+        "TSNE-2": -1.1212457418441772,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -3.722139596939087,
+        "TSNE-2": -0.5395594239234924,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 2.571850299835205,
+        "TSNE-2": -5.196086406707764,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": -3.087714672088623,
+        "TSNE-2": -10.219148635864258,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": 1.3775990009307861,
+        "TSNE-2": -4.936044216156006,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 0.6810411214828491,
+        "TSNE-2": 15.103888511657715,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": -9.30847454071045,
+        "TSNE-2": -6.165796756744385,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": 11.277009010314941,
+        "TSNE-2": 9.348725318908691,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 5.2888336181640625,
+        "TSNE-2": -4.468778133392334,
+        "cluster": 3,
+        "keywords": "defense, research, department, construction, weapon"
+      },
+      {
+        "TSNE-1": 7.897226810455322,
+        "TSNE-2": 3.0904440879821777,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 10.906665802001953,
+        "TSNE-2": 9.931221008300781,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": -9.30847454071045,
+        "TSNE-2": -6.165796756744385,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": -4.644036769866943,
+        "TSNE-2": 6.751465320587158,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      },
+      {
+        "TSNE-1": 2.993886709213257,
+        "TSNE-2": 9.503371238708496,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 12.076505661010742,
+        "TSNE-2": 5.272576332092285,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 5.778254985809326,
+        "TSNE-2": 14.710535049438477,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": 4.422802925109863,
+        "TSNE-2": 2.901815891265869,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": -2.7339165210723877,
+        "TSNE-2": 0.9130978584289551,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -1.6742037534713745,
+        "TSNE-2": -1.058922529220581,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": 5.585665225982666,
+        "TSNE-2": 7.422707557678223,
+        "cluster": 2,
+        "keywords": "various, social, political, text, mention"
+      },
+      {
+        "TSNE-1": -1.2042289972305298,
+        "TSNE-2": 7.740233898162842,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": -1.19832444190979,
+        "TSNE-2": 9.385424613952637,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": -1.3877458572387695,
+        "TSNE-2": -3.4618582725524902,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -5.671473503112793,
+        "TSNE-2": -10.056676864624023,
+        "cluster": 4,
+        "keywords": "corp, neighborhood, activism, building, purchasing"
+      },
+      {
+        "TSNE-1": -3.6701488494873047,
+        "TSNE-2": 2.9575328826904297,
+        "cluster": 1,
+        "keywords": "protest, university, broader, gymnasium, vietnam"
+      },
+      {
+        "TSNE-1": -4.002230644226074,
+        "TSNE-2": 12.407360076904297,
+        "cluster": 0,
+        "keywords": "investment, student, hamilton, sd, columbia"
+      },
+      {
+        "TSNE-1": -8.992815971374512,
+        "TSNE-2": 2.092945098876953,
+        "cluster": 5,
+        "keywords": "civil, right, movement, doc, war"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_283",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-214467 - why are students protesting at columbia"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-94439e036cb482841166e91011d6e787"
+  },
+  "datasets": {
+    "data-94439e036cb482841166e91011d6e787": [
+      {
+        "TSNE-1": 7.314214706420898,
+        "TSNE-2": -5.074489593505859,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": -3.967174768447876,
+        "TSNE-2": -0.43170979619026184,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 1.4687445163726807,
+        "TSNE-2": 12.784729957580566,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": 2.509422779083252,
+        "TSNE-2": 4.122941493988037,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": 1.4687445163726807,
+        "TSNE-2": 12.784729957580566,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -0.2090536653995514,
+        "TSNE-2": 7.173614978790283,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -7.7992706298828125,
+        "TSNE-2": -2.9078688621520996,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 2.5578980445861816,
+        "TSNE-2": -0.41567277908325195,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": -13.13952350616455,
+        "TSNE-2": 5.312997341156006,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": -11.905072212219238,
+        "TSNE-2": -7.514034271240234,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": -1.2555171251296997,
+        "TSNE-2": 5.46708345413208,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -6.091938495635986,
+        "TSNE-2": 7.1475138664245605,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -1.4122223854064941,
+        "TSNE-2": -2.3625142574310303,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 1.209045171737671,
+        "TSNE-2": 5.401928424835205,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -11.057633399963379,
+        "TSNE-2": -7.1162800788879395,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 3.915717124938965,
+        "TSNE-2": -4.6903228759765625,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": -5.608258247375488,
+        "TSNE-2": -8.840652465820312,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 2.5578980445861816,
+        "TSNE-2": -0.41567277908325195,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": -1.8243014812469482,
+        "TSNE-2": -4.42106294631958,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": -4.511777400970459,
+        "TSNE-2": -3.774644136428833,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 9.275238990783691,
+        "TSNE-2": 5.737564563751221,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": 2.538586139678955,
+        "TSNE-2": 2.0230085849761963,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": 5.675729751586914,
+        "TSNE-2": 6.588110446929932,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": 9.764639854431152,
+        "TSNE-2": -3.4336585998535156,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": 0.07845869660377502,
+        "TSNE-2": -4.609146595001221,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 5.607868671417236,
+        "TSNE-2": -3.9483513832092285,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": 3.2667088508605957,
+        "TSNE-2": 4.194351673126221,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -7.572556495666504,
+        "TSNE-2": -1.1671018600463867,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 9.84521770477295,
+        "TSNE-2": 7.2510809898376465,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -11.39140510559082,
+        "TSNE-2": 7.393909454345703,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": -6.633700370788574,
+        "TSNE-2": 1.1233389377593994,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": -9.218185424804688,
+        "TSNE-2": 4.495006561279297,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 0.14648763835430145,
+        "TSNE-2": -0.9748023152351379,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 4.472757339477539,
+        "TSNE-2": -6.189571380615234,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": -1.4519892930984497,
+        "TSNE-2": -12.963932037353516,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": -2.3461978435516357,
+        "TSNE-2": -9.511600494384766,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 6.8711838722229,
+        "TSNE-2": 0.6374397277832031,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -5.474605560302734,
+        "TSNE-2": 2.649470806121826,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 4.540905952453613,
+        "TSNE-2": 1.1076864004135132,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": 0.35254576802253723,
+        "TSNE-2": 1.5074150562286377,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 4.915135383605957,
+        "TSNE-2": -8.09632396697998,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": 0.8085432648658752,
+        "TSNE-2": -7.111990928649902,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 5.482430458068848,
+        "TSNE-2": -1.7271184921264648,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": -2.920558214187622,
+        "TSNE-2": 4.679439544677734,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -3.76125168800354,
+        "TSNE-2": 1.7052439451217651,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": -8.61910343170166,
+        "TSNE-2": 0.5390574932098389,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": -2.8761401176452637,
+        "TSNE-2": 7.0304107666015625,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -14.376225471496582,
+        "TSNE-2": -4.5039286613464355,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": -1.2555171251296997,
+        "TSNE-2": 5.46708345413208,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -2.812246322631836,
+        "TSNE-2": 2.151669979095459,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 3.2580387592315674,
+        "TSNE-2": -12.499337196350098,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": -10.185687065124512,
+        "TSNE-2": -6.89289665222168,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": -0.36641713976860046,
+        "TSNE-2": -1.7087838649749756,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": -6.590879917144775,
+        "TSNE-2": 9.145001411437988,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": 3.2170305252075195,
+        "TSNE-2": -3.522575855255127,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": 3.983881950378418,
+        "TSNE-2": 6.698668003082275,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -1.597860336303711,
+        "TSNE-2": -0.02162214368581772,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 9.566614151000977,
+        "TSNE-2": 8.034379005432129,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -10.410234451293945,
+        "TSNE-2": 0.9646255970001221,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 3.405579090118408,
+        "TSNE-2": 7.449860572814941,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": 9.487316131591797,
+        "TSNE-2": -9.346489906311035,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": 2.0302441120147705,
+        "TSNE-2": -10.540056228637695,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 0.2722938060760498,
+        "TSNE-2": -10.34327220916748,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": -9.218185424804688,
+        "TSNE-2": 4.495006561279297,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 6.083700180053711,
+        "TSNE-2": 1.075884222984314,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": 10.297959327697754,
+        "TSNE-2": 0.15956498682498932,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": 7.834727764129639,
+        "TSNE-2": -0.39982545375823975,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -4.131650924682617,
+        "TSNE-2": -5.9379563331604,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 0.47216033935546875,
+        "TSNE-2": -6.049812316894531,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": -8.595561981201172,
+        "TSNE-2": -2.178896427154541,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 1.5428189039230347,
+        "TSNE-2": -5.925840377807617,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": -5.608258247375488,
+        "TSNE-2": -8.840652465820312,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 5.023525714874268,
+        "TSNE-2": 12.95818042755127,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": -1.620709776878357,
+        "TSNE-2": -6.957385063171387,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 7.883091926574707,
+        "TSNE-2": 2.163794755935669,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -10.394978523254395,
+        "TSNE-2": -1.8581488132476807,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": -1.018167495727539,
+        "TSNE-2": 9.331583976745605,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": 5.023525714874268,
+        "TSNE-2": 12.95818042755127,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": 1.1866463422775269,
+        "TSNE-2": -9.89734935760498,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": -13.228941917419434,
+        "TSNE-2": -5.390110015869141,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 5.120092391967773,
+        "TSNE-2": 3.7685365676879883,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -6.931952953338623,
+        "TSNE-2": 10.239867210388184,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      },
+      {
+        "TSNE-1": 9.487316131591797,
+        "TSNE-2": -9.346489906311035,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": -3.527261972427368,
+        "TSNE-2": -2.3575663566589355,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 0.35254576802253723,
+        "TSNE-2": 1.5074150562286377,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": 11.237258911132812,
+        "TSNE-2": 5.809356212615967,
+        "cluster": 3,
+        "keywords": "mechanism, behind, sheet, well, seawater"
+      },
+      {
+        "TSNE-1": -11.74474811553955,
+        "TSNE-2": 3.4997007846832275,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": -8.073018074035645,
+        "TSNE-2": -11.485879898071289,
+        "cluster": 0,
+        "keywords": "sea, level, rise, ice, coastal"
+      },
+      {
+        "TSNE-1": 1.2797248363494873,
+        "TSNE-2": -3.738807439804077,
+        "cluster": 1,
+        "keywords": "water, lead, expansion, thermal, global"
+      },
+      {
+        "TSNE-1": -8.577174186706543,
+        "TSNE-2": 1.4589180946350098,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": 3.6419179439544678,
+        "TSNE-2": -2.4661166667938232,
+        "cluster": 5,
+        "keywords": "freshwater, human, glacier, driven, atmospheric"
+      },
+      {
+        "TSNE-1": -9.218185424804688,
+        "TSNE-2": 4.495006561279297,
+        "cluster": 4,
+        "keywords": "cause, climate, ocean, land, warmer"
+      },
+      {
+        "TSNE-1": -5.765469074249268,
+        "TSNE-2": 6.243327617645264,
+        "cluster": 2,
+        "keywords": "due, impact, loss, foot, rate"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_47",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-127653 - what are the mechanism behind sea level rise and its impacts on"
+  }
+}

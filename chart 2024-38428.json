@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d96be8336e4e059e743ef478cf23fab8"
+  },
+  "datasets": {
+    "data-d96be8336e4e059e743ef478cf23fab8": [
+      {
+        "TSNE-1": -0.5823091864585876,
+        "TSNE-2": -9.155913352966309,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 4.152150630950928,
+        "TSNE-2": -10.697914123535156,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 3.8329360485076904,
+        "TSNE-2": 6.939846992492676,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": -11.88280963897705,
+        "TSNE-2": 2.041566848754883,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": 3.397667407989502,
+        "TSNE-2": 7.462900161743164,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": -2.680189847946167,
+        "TSNE-2": 5.027139186859131,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -2.6868793964385986,
+        "TSNE-2": 12.111503601074219,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -1.2781214714050293,
+        "TSNE-2": -2.670677423477173,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": -4.655074119567871,
+        "TSNE-2": 7.901243209838867,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -15.117507934570312,
+        "TSNE-2": -4.176626682281494,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": 5.938072681427002,
+        "TSNE-2": -4.904949188232422,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 10.498602867126465,
+        "TSNE-2": 7.301400661468506,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": 1.1368440389633179,
+        "TSNE-2": -3.801811456680298,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 6.222933769226074,
+        "TSNE-2": -7.237905025482178,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": -14.011216163635254,
+        "TSNE-2": -5.614416599273682,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": -9.811448097229004,
+        "TSNE-2": 7.912002086639404,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -8.857477188110352,
+        "TSNE-2": -3.762603282928467,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": -1.2781214714050293,
+        "TSNE-2": -2.670677423477173,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": -6.749752998352051,
+        "TSNE-2": -6.823880672454834,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 12.36330509185791,
+        "TSNE-2": 5.44457483291626,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": -11.649253845214844,
+        "TSNE-2": 3.558515787124634,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": -5.152973175048828,
+        "TSNE-2": -5.651854515075684,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": -11.638751029968262,
+        "TSNE-2": 0.3740616738796234,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": 3.035443067550659,
+        "TSNE-2": -2.14593505859375,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": 1.2719635963439941,
+        "TSNE-2": 3.7630889415740967,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": -2.423954486846924,
+        "TSNE-2": -6.94935941696167,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": -14.506133079528809,
+        "TSNE-2": 0.8407282829284668,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": -2.2599499225616455,
+        "TSNE-2": 11.469374656677246,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -14.011216163635254,
+        "TSNE-2": -5.614416599273682,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": -1.3693809509277344,
+        "TSNE-2": 6.2463274002075195,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -5.6520819664001465,
+        "TSNE-2": 7.128491401672363,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": 11.00075912475586,
+        "TSNE-2": 2.558990955352783,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": -0.2884025573730469,
+        "TSNE-2": -4.409058094024658,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 1.8249887228012085,
+        "TSNE-2": 1.085433006286621,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": 3.007828712463379,
+        "TSNE-2": -8.431441307067871,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 10.791157722473145,
+        "TSNE-2": -1.616178035736084,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 2.5951550006866455,
+        "TSNE-2": -6.470808029174805,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": -8.542556762695312,
+        "TSNE-2": -9.488601684570312,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 0.3861585557460785,
+        "TSNE-2": -12.685397148132324,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": -3.5958118438720703,
+        "TSNE-2": -4.3882832527160645,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 9.433816909790039,
+        "TSNE-2": -7.179020404815674,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": -1.2138140201568604,
+        "TSNE-2": 1.176092505455017,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": -0.17316500842571259,
+        "TSNE-2": -5.926095962524414,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": -3.6867458820343018,
+        "TSNE-2": -8.363787651062012,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 6.119782447814941,
+        "TSNE-2": -1.7041833400726318,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 12.184186935424805,
+        "TSNE-2": -4.864243030548096,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 9.546544075012207,
+        "TSNE-2": 0.6056239604949951,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": 6.488711833953857,
+        "TSNE-2": 11.1353120803833,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": 5.938072681427002,
+        "TSNE-2": -4.904949188232422,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 6.8681321144104,
+        "TSNE-2": -2.2452738285064697,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": -6.700639724731445,
+        "TSNE-2": 6.765603542327881,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -15.947721481323242,
+        "TSNE-2": -1.9962903261184692,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": -1.31592857837677,
+        "TSNE-2": -5.258762359619141,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 12.184186935424805,
+        "TSNE-2": -4.864243030548096,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 1.9915733337402344,
+        "TSNE-2": -0.5792806148529053,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": -13.10435676574707,
+        "TSNE-2": -0.3168061673641205,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": -11.130910873413086,
+        "TSNE-2": 8.911815643310547,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": 7.355663776397705,
+        "TSNE-2": -10.140294075012207,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": -3.931793689727783,
+        "TSNE-2": 0.39140570163726807,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": -14.043824195861816,
+        "TSNE-2": 2.6146469116210938,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": 1.1638717651367188,
+        "TSNE-2": 13.8506441116333,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -2.679222822189331,
+        "TSNE-2": 2.879178762435913,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": -2.6450884342193604,
+        "TSNE-2": 1.9198753833770752,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": 8.540812492370605,
+        "TSNE-2": 1.157373309135437,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": 4.781443119049072,
+        "TSNE-2": -2.7331504821777344,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 0.4432046413421631,
+        "TSNE-2": -8.231307029724121,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 8.823174476623535,
+        "TSNE-2": -3.5922915935516357,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": -0.24423515796661377,
+        "TSNE-2": -11.541863441467285,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": -4.411855220794678,
+        "TSNE-2": -1.9001026153564453,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": -10.50887680053711,
+        "TSNE-2": 2.427057981491089,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": 5.877620220184326,
+        "TSNE-2": 3.929701805114746,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": -9.478269577026367,
+        "TSNE-2": -3.890841245651245,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": 10.929998397827148,
+        "TSNE-2": -11.740569114685059,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 3.956927537918091,
+        "TSNE-2": 0.4516649842262268,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": 6.715378761291504,
+        "TSNE-2": 4.708359241485596,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": 0.7744897603988647,
+        "TSNE-2": 6.6208086013793945,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": 4.103594779968262,
+        "TSNE-2": 1.6837079524993896,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": 10.929998397827148,
+        "TSNE-2": -11.740569114685059,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": -1.0235636234283447,
+        "TSNE-2": 3.2939257621765137,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": 5.977338790893555,
+        "TSNE-2": 11.725129127502441,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": 0.5509606003761292,
+        "TSNE-2": -1.373105764389038,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": 11.185673713684082,
+        "TSNE-2": 7.422189235687256,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": 1.1638717651367188,
+        "TSNE-2": 13.8506441116333,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": 6.135317325592041,
+        "TSNE-2": 0.051338762044906616,
+        "cluster": 5,
+        "keywords": "often, differently, many, traditional, distinct"
+      },
+      {
+        "TSNE-1": -3.5958118438720703,
+        "TSNE-2": -4.3882832527160645,
+        "cluster": 1,
+        "keywords": "cultural, feminine, male, masculine, religious"
+      },
+      {
+        "TSNE-1": 4.78508996963501,
+        "TSNE-2": 10.221683502197266,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": -3.015000343322754,
+        "TSNE-2": 7.430384159088135,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -8.300065040588379,
+        "TSNE-2": 0.8912672996520996,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": -9.711734771728516,
+        "TSNE-2": 6.985474109649658,
+        "cluster": 2,
+        "keywords": "document, third, either, view, nonbinary"
+      },
+      {
+        "TSNE-1": -7.395343780517578,
+        "TSNE-2": 1.2768789529800415,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      },
+      {
+        "TSNE-1": 2.7248013019561768,
+        "TSNE-2": -3.980692148208618,
+        "cluster": 0,
+        "keywords": "gender, culture, identity, role, individual"
+      },
+      {
+        "TSNE-1": 11.00075912475586,
+        "TSNE-2": 2.558990955352783,
+        "cluster": 3,
+        "keywords": "perceive, may, woman, people, men"
+      },
+      {
+        "TSNE-1": -13.092270851135254,
+        "TSNE-2": 1.1149983406066895,
+        "cluster": 4,
+        "keywords": "live, different, six, definition, specific"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_234",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-38428 - how do other cultures view gender"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-0aa91559f388b3ed8908c0809d391c85"
+  },
+  "datasets": {
+    "data-0aa91559f388b3ed8908c0809d391c85": [
+      {
+        "TSNE-1": -1.86372971534729,
+        "TSNE-2": -6.855637550354004,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": 3.0151422023773193,
+        "TSNE-2": 13.220571517944336,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": 2.924910068511963,
+        "TSNE-2": 5.37556266784668,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": -4.606208324432373,
+        "TSNE-2": 5.397927761077881,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 2.924910068511963,
+        "TSNE-2": 5.37556266784668,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": -9.618722915649414,
+        "TSNE-2": -3.3402528762817383,
+        "cluster": 2,
+        "keywords": "nan, doc, performance, meeting, process"
+      },
+      {
+        "TSNE-1": 7.606000900268555,
+        "TSNE-2": -0.6309128403663635,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -11.93254566192627,
+        "TSNE-2": 2.80985164642334,
+        "cluster": 2,
+        "keywords": "nan, doc, performance, meeting, process"
+      },
+      {
+        "TSNE-1": -4.67807674407959,
+        "TSNE-2": 11.187068939208984,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": 13.197879791259766,
+        "TSNE-2": 1.4590634107589722,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -11.282112121582031,
+        "TSNE-2": -8.611222267150879,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -8.448039054870605,
+        "TSNE-2": 6.2483038902282715,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 1.6981865167617798,
+        "TSNE-2": -1.8590457439422607,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -7.889820575714111,
+        "TSNE-2": -4.433060646057129,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": 13.561728477478027,
+        "TSNE-2": 0.9056678414344788,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": 0.4131295084953308,
+        "TSNE-2": -6.995002746582031,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 5.513804912567139,
+        "TSNE-2": -10.052871704101562,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -0.1525053232908249,
+        "TSNE-2": -1.8456257581710815,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -2.3186705112457275,
+        "TSNE-2": -10.979643821716309,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": 1.6105518341064453,
+        "TSNE-2": 9.280187606811523,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": -4.362517356872559,
+        "TSNE-2": -14.722676277160645,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": 1.970069408416748,
+        "TSNE-2": 7.808096408843994,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": -0.21606165170669556,
+        "TSNE-2": 2.2310550212860107,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": -7.533940315246582,
+        "TSNE-2": -6.467738628387451,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -5.691779136657715,
+        "TSNE-2": 1.2107765674591064,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": -0.2356957495212555,
+        "TSNE-2": -4.917696475982666,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -4.4195098876953125,
+        "TSNE-2": 3.1278693675994873,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 5.956507682800293,
+        "TSNE-2": 3.1823835372924805,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -0.0685533732175827,
+        "TSNE-2": 3.248353958129883,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 4.1656084060668945,
+        "TSNE-2": -12.515543937683105,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -3.9924826622009277,
+        "TSNE-2": -0.2798878848552704,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": -0.3922649621963501,
+        "TSNE-2": 9.693596839904785,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": 2.4642703533172607,
+        "TSNE-2": -1.983370065689087,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -1.634453296661377,
+        "TSNE-2": -9.37313461303711,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": 3.8019871711730957,
+        "TSNE-2": 9.04901123046875,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": 4.6625566482543945,
+        "TSNE-2": -5.411895751953125,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 7.914698600769043,
+        "TSNE-2": -2.032318115234375,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": 9.709609985351562,
+        "TSNE-2": 4.62047004699707,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -2.582411766052246,
+        "TSNE-2": -4.050094127655029,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -4.465384483337402,
+        "TSNE-2": -5.845399379730225,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -11.709807395935059,
+        "TSNE-2": 2.235585927963257,
+        "cluster": 2,
+        "keywords": "nan, doc, performance, meeting, process"
+      },
+      {
+        "TSNE-1": 3.629922389984131,
+        "TSNE-2": 1.958120346069336,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": 0.6920406818389893,
+        "TSNE-2": -1.842509150505066,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 0.9778369069099426,
+        "TSNE-2": -0.015024974942207336,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 5.5573201179504395,
+        "TSNE-2": -4.974193096160889,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -12.515103340148926,
+        "TSNE-2": -1.0760747194290161,
+        "cluster": 2,
+        "keywords": "nan, doc, performance, meeting, process"
+      },
+      {
+        "TSNE-1": -1.090998649597168,
+        "TSNE-2": 7.587401866912842,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": -3.699151039123535,
+        "TSNE-2": 5.5804338455200195,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": -11.282112121582031,
+        "TSNE-2": -8.611222267150879,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": 4.070451259613037,
+        "TSNE-2": -3.8522136211395264,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 7.663397312164307,
+        "TSNE-2": -6.564697265625,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -0.8051403760910034,
+        "TSNE-2": 4.178044319152832,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 1.7597112655639648,
+        "TSNE-2": -3.6062159538269043,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -7.8309006690979,
+        "TSNE-2": 5.5441060066223145,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": -3.7683119773864746,
+        "TSNE-2": -8.898775100708008,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -4.674179553985596,
+        "TSNE-2": -14.038551330566406,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -5.559803485870361,
+        "TSNE-2": -10.029845237731934,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -2.4905450344085693,
+        "TSNE-2": 2.0583441257476807,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 1.679728388786316,
+        "TSNE-2": 0.5664340853691101,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -2.300628423690796,
+        "TSNE-2": -0.14328080415725708,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 8.315340042114258,
+        "TSNE-2": 2.7683892250061035,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -5.598756313323975,
+        "TSNE-2": -1.1149978637695312,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 10.136301040649414,
+        "TSNE-2": -7.744863510131836,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -2.788370132446289,
+        "TSNE-2": 9.495992660522461,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": 6.273130416870117,
+        "TSNE-2": -3.4361538887023926,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -8.253213882446289,
+        "TSNE-2": 1.3551104068756104,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 8.570301055908203,
+        "TSNE-2": -3.621410608291626,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": 2.6534130573272705,
+        "TSNE-2": -6.51504373550415,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 4.427560806274414,
+        "TSNE-2": 0.3515024185180664,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -2.4940927028656006,
+        "TSNE-2": 3.9384970664978027,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 4.270496845245361,
+        "TSNE-2": 1.5583175420761108,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": 5.513804912567139,
+        "TSNE-2": -10.052871704101562,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 7.96574068069458,
+        "TSNE-2": 5.463260650634766,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -7.717442989349365,
+        "TSNE-2": -1.161606788635254,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 7.398627758026123,
+        "TSNE-2": -3.4260690212249756,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 1.191408634185791,
+        "TSNE-2": 13.11859130859375,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": -5.23466157913208,
+        "TSNE-2": -2.4082674980163574,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 7.96574068069458,
+        "TSNE-2": 5.463260650634766,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": 8.19731616973877,
+        "TSNE-2": 0.8788490295410156,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": 14.06086254119873,
+        "TSNE-2": 4.174532890319824,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": 0.8594417572021484,
+        "TSNE-2": -9.197881698608398,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": 12.125165939331055,
+        "TSNE-2": -4.591909885406494,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -29.17694854736328,
+        "TSNE-2": -1.8712589740753174,
+        "cluster": 2,
+        "keywords": "nan, doc, performance, meeting, process"
+      },
+      {
+        "TSNE-1": 6.860070705413818,
+        "TSNE-2": 7.488232612609863,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": -4.465384483337402,
+        "TSNE-2": -5.845399379730225,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -1.9828016757965088,
+        "TSNE-2": 1.1191738843917847,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": -9.36791706085205,
+        "TSNE-2": 7.155523777008057,
+        "cluster": 4,
+        "keywords": "try, clear, drag, hierarchy, opinion"
+      },
+      {
+        "TSNE-1": 14.263648986816406,
+        "TSNE-2": 4.994993686676025,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      },
+      {
+        "TSNE-1": -4.550070762634277,
+        "TSNE-2": -9.081496238708496,
+        "cluster": 5,
+        "keywords": "number, individual, conflict, reach, diffusion"
+      },
+      {
+        "TSNE-1": -3.5651156902313232,
+        "TSNE-2": 10.313956260681152,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": -1.172513484954834,
+        "TSNE-2": -4.812934398651123,
+        "cluster": 1,
+        "keywords": "many, lead, poor, result, lack"
+      },
+      {
+        "TSNE-1": -0.3922649621963501,
+        "TSNE-2": 9.693596839904785,
+        "cluster": 0,
+        "keywords": "right, decision, document, people, person"
+      },
+      {
+        "TSNE-1": 11.879247665405273,
+        "TSNE-2": -0.2982487380504608,
+        "cluster": 3,
+        "keywords": "group, deliberation, lot, problem, responsibility"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_212",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-142125 - what happens when too many people try to make decisions at work"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3d5bd1515aad190b0d775a18bf619fd8"
+  },
+  "datasets": {
+    "data-3d5bd1515aad190b0d775a18bf619fd8": [
+      {
+        "TSNE-1": 0.2388860136270523,
+        "TSNE-2": 3.559303045272827,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 1.6479932069778442,
+        "TSNE-2": -6.414515018463135,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": -9.375988960266113,
+        "TSNE-2": -4.561119079589844,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -8.470000267028809,
+        "TSNE-2": -2.1357946395874023,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -9.375988960266113,
+        "TSNE-2": -4.561119079589844,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": 9.20811653137207,
+        "TSNE-2": 11.087738037109375,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": -4.492331027984619,
+        "TSNE-2": -3.7843234539031982,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -2.537651538848877,
+        "TSNE-2": -11.443646430969238,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -11.683198928833008,
+        "TSNE-2": -1.920801043510437,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": 9.817294120788574,
+        "TSNE-2": -8.621170043945312,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": -2.103339910507202,
+        "TSNE-2": 7.290548324584961,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 14.696443557739258,
+        "TSNE-2": -4.4613037109375,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": -0.41232725977897644,
+        "TSNE-2": -0.3641241192817688,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -5.128047943115234,
+        "TSNE-2": 2.092475414276123,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 8.586810111999512,
+        "TSNE-2": -8.330693244934082,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": 4.7190046310424805,
+        "TSNE-2": 9.354839324951172,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": 4.447516441345215,
+        "TSNE-2": -8.673977851867676,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": 0.490095853805542,
+        "TSNE-2": -1.7090561389923096,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 5.060234546661377,
+        "TSNE-2": 7.777692794799805,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": 6.847640514373779,
+        "TSNE-2": -3.9485788345336914,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": -10.348410606384277,
+        "TSNE-2": 2.814040184020996,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": -0.107182577252388,
+        "TSNE-2": 10.126363754272461,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": -11.316484451293945,
+        "TSNE-2": 3.6194334030151367,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": -4.509259223937988,
+        "TSNE-2": 5.48425817489624,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": -0.9656203985214233,
+        "TSNE-2": -2.322197198867798,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -0.5171648263931274,
+        "TSNE-2": 1.4779984951019287,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -8.081557273864746,
+        "TSNE-2": 3.3086447715759277,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": -4.542932510375977,
+        "TSNE-2": -5.303249359130859,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": 9.817294120788574,
+        "TSNE-2": -8.621170043945312,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": 8.864248275756836,
+        "TSNE-2": 6.71891450881958,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": 2.463562250137329,
+        "TSNE-2": -2.441488265991211,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 9.61647891998291,
+        "TSNE-2": -3.2005221843719482,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": 1.6473512649536133,
+        "TSNE-2": -0.5725827217102051,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -3.6633193492889404,
+        "TSNE-2": 3.514617443084717,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 4.217531204223633,
+        "TSNE-2": -1.3929346799850464,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 3.0761969089508057,
+        "TSNE-2": 2.223849058151245,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 1.8618192672729492,
+        "TSNE-2": 5.343253135681152,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": -6.961292266845703,
+        "TSNE-2": 0.10944534838199615,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": -1.3090382814407349,
+        "TSNE-2": 2.709127902984619,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 0.620754063129425,
+        "TSNE-2": -4.277123928070068,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -2.4862663745880127,
+        "TSNE-2": -10.896087646484375,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": 2.8891477584838867,
+        "TSNE-2": 10.20552921295166,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": 0.5827397108078003,
+        "TSNE-2": 0.5388731360435486,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -2.7756078243255615,
+        "TSNE-2": -1.2124234437942505,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 4.260117530822754,
+        "TSNE-2": 3.0996336936950684,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 4.886263370513916,
+        "TSNE-2": -3.145390033721924,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 6.5966925621032715,
+        "TSNE-2": -1.7823543548583984,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 12.719352722167969,
+        "TSNE-2": 2.266688585281372,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": -2.103339910507202,
+        "TSNE-2": 7.290548324584961,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 5.026796817779541,
+        "TSNE-2": 3.2456653118133545,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 7.507386207580566,
+        "TSNE-2": 1.223869800567627,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": 9.817294120788574,
+        "TSNE-2": -8.621170043945312,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": 0.5023520588874817,
+        "TSNE-2": -0.4196208119392395,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 14.29582405090332,
+        "TSNE-2": -4.175663471221924,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": -4.219233989715576,
+        "TSNE-2": 0.476721853017807,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": -9.02875804901123,
+        "TSNE-2": 0.4265500009059906,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 5.366970062255859,
+        "TSNE-2": 10.559710502624512,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": 13.70212459564209,
+        "TSNE-2": 1.8346149921417236,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": 3.3380889892578125,
+        "TSNE-2": -0.15299730002880096,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -7.127321720123291,
+        "TSNE-2": -7.147542953491211,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -3.955395221710205,
+        "TSNE-2": -7.246585845947266,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -5.630126476287842,
+        "TSNE-2": 11.05006217956543,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": -5.274199485778809,
+        "TSNE-2": 10.472517967224121,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 9.61647891998291,
+        "TSNE-2": -3.2005221843719482,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": 3.6520586013793945,
+        "TSNE-2": 5.300813674926758,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": 2.167606830596924,
+        "TSNE-2": 1.0481109619140625,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 1.1703693866729736,
+        "TSNE-2": 6.140540599822998,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": -1.988440990447998,
+        "TSNE-2": 4.378220081329346,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 3.1700658798217773,
+        "TSNE-2": 11.946187019348145,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": -7.945723056793213,
+        "TSNE-2": 2.6993706226348877,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 2.1253395080566406,
+        "TSNE-2": 10.96633243560791,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": 4.447516441345215,
+        "TSNE-2": -8.673977851867676,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": -5.900554180145264,
+        "TSNE-2": -2.119067668914795,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": 0.2970430850982666,
+        "TSNE-2": -8.647858619689941,
+        "cluster": 5,
+        "keywords": "well, involve, biomedical, city, issue"
+      },
+      {
+        "TSNE-1": 2.3109354972839355,
+        "TSNE-2": 4.314447402954102,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -1.744571328163147,
+        "TSNE-2": -3.8205690383911133,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -0.9989081025123596,
+        "TSNE-2": -8.206238746643066,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -5.900554180145264,
+        "TSNE-2": -2.119067668914795,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -4.327821731567383,
+        "TSNE-2": 11.274374008178711,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 12.944782257080078,
+        "TSNE-2": -0.34513139724731445,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": -3.151726007461548,
+        "TSNE-2": 2.028920888900757,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      },
+      {
+        "TSNE-1": 3.591435432434082,
+        "TSNE-2": -3.8353278636932373,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": -3.955395221710205,
+        "TSNE-2": -7.246585845947266,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": -2.265150308609009,
+        "TSNE-2": 0.04547319561243057,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 0.620754063129425,
+        "TSNE-2": -4.277123928070068,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 14.234546661376953,
+        "TSNE-2": 1.890305519104004,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": 8.821261405944824,
+        "TSNE-2": 7.837834358215332,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": 13.128853797912598,
+        "TSNE-2": 4.056424140930176,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": 3.8312106132507324,
+        "TSNE-2": 7.733842372894287,
+        "cluster": 2,
+        "keywords": "profession, hour, opportunity, like, accomplishment"
+      },
+      {
+        "TSNE-1": -14.094510078430176,
+        "TSNE-2": -3.9749391078948975,
+        "cluster": 3,
+        "keywords": "may, new, building, factor, area"
+      },
+      {
+        "TSNE-1": 1.294716238975525,
+        "TSNE-2": 2.3225064277648926,
+        "cluster": 0,
+        "keywords": "civil, engineer, engineering, career, design"
+      },
+      {
+        "TSNE-1": 9.61647891998291,
+        "TSNE-2": -3.2005221843719482,
+        "cluster": 4,
+        "keywords": "power, many, disposal, industrial, public"
+      },
+      {
+        "TSNE-1": -9.965524673461914,
+        "TSNE-2": 0.9716618657112122,
+        "cluster": 1,
+        "keywords": "work, project, infrastructure, variety, water"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_6",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-128784 - what can a career in civil engineering be like?"
+  }
+}

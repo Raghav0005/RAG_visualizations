@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-444326035bd0f3ef95a6916f55d5feaf"
+  },
+  "datasets": {
+    "data-444326035bd0f3ef95a6916f55d5feaf": [
+      {
+        "TSNE-1": 6.217264175415039,
+        "TSNE-2": 0.4695669710636139,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -5.825938701629639,
+        "TSNE-2": 9.654540061950684,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 5.1075029373168945,
+        "TSNE-2": 21.68686866760254,
+        "cluster": 5,
+        "keywords": "displayed, score, higher, south, found"
+      },
+      {
+        "TSNE-1": 13.424227714538574,
+        "TSNE-2": -9.423955917358398,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": 5.1075029373168945,
+        "TSNE-2": 21.68686866760254,
+        "cluster": 5,
+        "keywords": "displayed, score, higher, south, found"
+      },
+      {
+        "TSNE-1": 3.9764575958251953,
+        "TSNE-2": 13.840338706970215,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 13.790935516357422,
+        "TSNE-2": 23.797624588012695,
+        "cluster": 5,
+        "keywords": "displayed, score, higher, south, found"
+      },
+      {
+        "TSNE-1": -1.3535805940628052,
+        "TSNE-2": -7.105409622192383,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": -9.397784233093262,
+        "TSNE-2": 1.4630608558654785,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 16.192855834960938,
+        "TSNE-2": -3.0405001640319824,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -9.746688842773438,
+        "TSNE-2": 12.605247497558594,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 12.423728942871094,
+        "TSNE-2": 5.644250392913818,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -1.2387903928756714,
+        "TSNE-2": -5.090278148651123,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": 11.891661643981934,
+        "TSNE-2": -1.971666932106018,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": 16.192855834960938,
+        "TSNE-2": -3.0405001640319824,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": 2.1659910678863525,
+        "TSNE-2": -9.241941452026367,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -8.501509666442871,
+        "TSNE-2": -9.291162490844727,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": -1.3535805940628052,
+        "TSNE-2": -7.105409622192383,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": -3.7111902236938477,
+        "TSNE-2": -2.8642477989196777,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -2.9076015949249268,
+        "TSNE-2": 0.28018417954444885,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": 16.192855834960938,
+        "TSNE-2": -3.0405001640319824,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -6.817566871643066,
+        "TSNE-2": -4.334804058074951,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": 18.562461853027344,
+        "TSNE-2": 0.9466820359230042,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -1.7870906591415405,
+        "TSNE-2": -11.249119758605957,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": 3.5639021396636963,
+        "TSNE-2": 1.1099741458892822,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": 3.080113649368286,
+        "TSNE-2": -4.589840888977051,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": 8.074809074401855,
+        "TSNE-2": -12.88210678100586,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -9.05367660522461,
+        "TSNE-2": -5.532797813415527,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": 16.192855834960938,
+        "TSNE-2": -3.0405001640319824,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": 2.639779806137085,
+        "TSNE-2": 14.368143081665039,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -6.197377681732178,
+        "TSNE-2": 2.503265380859375,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 5.611016750335693,
+        "TSNE-2": 6.300989151000977,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 0.6166023015975952,
+        "TSNE-2": -5.394440650939941,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": 4.34653377532959,
+        "TSNE-2": -7.1229472160339355,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -5.95725154876709,
+        "TSNE-2": -11.388449668884277,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": -5.912837505340576,
+        "TSNE-2": -2.2335970401763916,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -0.04708153381943703,
+        "TSNE-2": 8.024681091308594,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 11.993691444396973,
+        "TSNE-2": 10.632643699645996,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -1.0975004434585571,
+        "TSNE-2": 4.774188995361328,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -1.0383024215698242,
+        "TSNE-2": -1.9406005144119263,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -5.151134967803955,
+        "TSNE-2": -15.92739200592041,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": -13.746845245361328,
+        "TSNE-2": -1.6093517541885376,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 1.6914691925048828,
+        "TSNE-2": -2.9505698680877686,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": 8.331825256347656,
+        "TSNE-2": 3.324610710144043,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 6.890928268432617,
+        "TSNE-2": 10.044408798217773,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 9.46138858795166,
+        "TSNE-2": 8.100533485412598,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 5.567908763885498,
+        "TSNE-2": 3.80415940284729,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -17.907733917236328,
+        "TSNE-2": -0.7443544268608093,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -9.746688842773438,
+        "TSNE-2": 12.605247497558594,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 2.807950258255005,
+        "TSNE-2": 8.680965423583984,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -9.07239818572998,
+        "TSNE-2": -2.1777310371398926,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 16.192855834960938,
+        "TSNE-2": -3.0405001640319824,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -3.7124640941619873,
+        "TSNE-2": -7.702042102813721,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": 9.46138858795166,
+        "TSNE-2": 8.100533485412598,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 3.3363442420959473,
+        "TSNE-2": 4.425156593322754,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 7.848758220672607,
+        "TSNE-2": -11.679271697998047,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": 12.192228317260742,
+        "TSNE-2": -13.145584106445312,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -19.43408203125,
+        "TSNE-2": -1.9413923025131226,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -4.008857250213623,
+        "TSNE-2": -5.538054943084717,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": 16.79385757446289,
+        "TSNE-2": 1.2650282382965088,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": 11.660981178283691,
+        "TSNE-2": -7.308187007904053,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -9.827000617980957,
+        "TSNE-2": -3.493285655975342,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -12.049263000488281,
+        "TSNE-2": -2.759699583053589,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 5.611016750335693,
+        "TSNE-2": 6.300989151000977,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -5.1564106941223145,
+        "TSNE-2": 5.259824275970459,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 1.1753262281417847,
+        "TSNE-2": 3.9037296772003174,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -4.0216145515441895,
+        "TSNE-2": 6.5453972816467285,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 6.060373783111572,
+        "TSNE-2": -4.51422643661499,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -12.742948532104492,
+        "TSNE-2": 0.5129726529121399,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 6.793707847595215,
+        "TSNE-2": -15.011550903320312,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -12.742948532104492,
+        "TSNE-2": 0.5129726529121399,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -8.501509666442871,
+        "TSNE-2": -9.291162490844727,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": 0.8978431224822998,
+        "TSNE-2": 0.7286553978919983,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": 8.033656120300293,
+        "TSNE-2": -0.4141586720943451,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -8.422860145568848,
+        "TSNE-2": 6.670128345489502,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -12.864546775817871,
+        "TSNE-2": -10.91224193572998,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": 1.4044474363327026,
+        "TSNE-2": -13.550925254821777,
+        "cluster": 0,
+        "keywords": "personality, approach, western, cultural, indigenous"
+      },
+      {
+        "TSNE-1": 0.8978431224822998,
+        "TSNE-2": 0.7286553978919983,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -12.465380668640137,
+        "TSNE-2": -5.242912292480469,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -14.747838973999023,
+        "TSNE-2": -4.093066215515137,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -2.960322141647339,
+        "TSNE-2": 10.678865432739258,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 12.423728942871094,
+        "TSNE-2": 5.644250392913818,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 11.660981178283691,
+        "TSNE-2": -7.308187007904053,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      },
+      {
+        "TSNE-1": -0.06078729033470154,
+        "TSNE-2": 12.795108795166016,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -1.0383024215698242,
+        "TSNE-2": -1.9406005144119263,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -20.478866577148438,
+        "TSNE-2": -0.23990944027900696,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -1.8006912469863892,
+        "TSNE-2": 15.415841102600098,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": -6.209656238555908,
+        "TSNE-2": 0.6355435848236084,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": 3.76273775100708,
+        "TSNE-2": -1.7765885591506958,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": -10.0084810256958,
+        "TSNE-2": 2.763970375061035,
+        "cluster": 3,
+        "keywords": "construct, assessment, psychology, bridge, variation"
+      },
+      {
+        "TSNE-1": -1.9301741123199463,
+        "TSNE-2": 2.1264960765838623,
+        "cluster": 4,
+        "keywords": "trait, idea, test, five, many"
+      },
+      {
+        "TSNE-1": 5.611016750335693,
+        "TSNE-2": 6.300989151000977,
+        "cluster": 1,
+        "keywords": "culture, people, individualist, collectivist, study"
+      },
+      {
+        "TSNE-1": 9.535140037536621,
+        "TSNE-2": -8.383072853088379,
+        "cluster": 2,
+        "keywords": "unique, evidence, across, varies, may"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_49",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-113646 - is the study of personality unique to western cultures"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-de5ede3b861cd361cea471ad1139ade2"
+  },
+  "datasets": {
+    "data-de5ede3b861cd361cea471ad1139ade2": [
+      {
+        "TSNE-1": -6.152113914489746,
+        "TSNE-2": -0.6407300233840942,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -6.615334987640381,
+        "TSNE-2": 7.844478130340576,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": 2.7714903354644775,
+        "TSNE-2": 10.97023868560791,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": 7.497438907623291,
+        "TSNE-2": -11.865914344787598,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": 2.7714903354644775,
+        "TSNE-2": 10.97023868560791,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": 4.794915676116943,
+        "TSNE-2": -3.8798820972442627,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": 6.8808794021606445,
+        "TSNE-2": 8.580973625183105,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": -1.0347594022750854,
+        "TSNE-2": 5.337015151977539,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": 3.506542921066284,
+        "TSNE-2": 1.6863218545913696,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": 5.092466354370117,
+        "TSNE-2": -9.6215238571167,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": -12.281848907470703,
+        "TSNE-2": -3.14495849609375,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -3.56953763961792,
+        "TSNE-2": -12.980147361755371,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -5.349252223968506,
+        "TSNE-2": 1.128196358680725,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": 5.927079200744629,
+        "TSNE-2": 1.1718631982803345,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": 6.8216071128845215,
+        "TSNE-2": -9.26282787322998,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": -7.651921272277832,
+        "TSNE-2": 3.622922420501709,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": 10.878083229064941,
+        "TSNE-2": 3.1509130001068115,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": -1.1544286012649536,
+        "TSNE-2": 4.580604553222656,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -6.979610919952393,
+        "TSNE-2": 6.015321254730225,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": 2.0445284843444824,
+        "TSNE-2": -5.49997091293335,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": 9.091070175170898,
+        "TSNE-2": -13.243903160095215,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": -8.101542472839355,
+        "TSNE-2": -3.4762043952941895,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": 10.971994400024414,
+        "TSNE-2": -6.092988014221191,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": -5.796029090881348,
+        "TSNE-2": 4.04149866104126,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": 0.26112839579582214,
+        "TSNE-2": 0.6848669052124023,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -0.9013596177101135,
+        "TSNE-2": 3.1922879219055176,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -7.117403507232666,
+        "TSNE-2": -10.4276704788208,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": 4.660836219787598,
+        "TSNE-2": 9.063131332397461,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": 7.77892541885376,
+        "TSNE-2": -12.592352867126465,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": 6.07061767578125,
+        "TSNE-2": 12.534693717956543,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": 3.4755351543426514,
+        "TSNE-2": 2.221112012863159,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": 2.028472423553467,
+        "TSNE-2": -2.8666460514068604,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -3.5955305099487305,
+        "TSNE-2": 4.528991222381592,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -5.409791469573975,
+        "TSNE-2": -2.465825319290161,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -0.45638686418533325,
+        "TSNE-2": -8.295343399047852,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -7.660586357116699,
+        "TSNE-2": -6.024084091186523,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -1.9150731563568115,
+        "TSNE-2": -0.5264229774475098,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -9.291857719421387,
+        "TSNE-2": 0.9144412875175476,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": -3.0426902770996094,
+        "TSNE-2": -4.268102169036865,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -3.3862144947052,
+        "TSNE-2": 2.4927964210510254,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -0.9018241763114929,
+        "TSNE-2": 6.8832902908325195,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -10.218053817749023,
+        "TSNE-2": 7.534664154052734,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": -7.158102512359619,
+        "TSNE-2": 1.1504244804382324,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": 0.519242525100708,
+        "TSNE-2": 3.339275360107422,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -1.905696153640747,
+        "TSNE-2": -7.077828884124756,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -2.765676498413086,
+        "TSNE-2": 13.469522476196289,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": 0.3933863937854767,
+        "TSNE-2": -4.320402145385742,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": 6.053037643432617,
+        "TSNE-2": 5.1335835456848145,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": -12.281848907470703,
+        "TSNE-2": -3.14495849609375,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -2.499601125717163,
+        "TSNE-2": -2.2924609184265137,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -3.43072509765625,
+        "TSNE-2": -8.586546897888184,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": 5.092466354370117,
+        "TSNE-2": -9.6215238571167,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": -6.469352722167969,
+        "TSNE-2": 2.03177547454834,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -2.5412604808807373,
+        "TSNE-2": 12.922381401062012,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -4.592205047607422,
+        "TSNE-2": -2.578092575073242,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": 10.390336990356445,
+        "TSNE-2": -6.078301906585693,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": -3.683492422103882,
+        "TSNE-2": 7.377938747406006,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": 3.2637641429901123,
+        "TSNE-2": -8.92727279663086,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": -3.63971209526062,
+        "TSNE-2": -0.24665626883506775,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": 10.679350852966309,
+        "TSNE-2": -8.570837020874023,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": 6.449666500091553,
+        "TSNE-2": 10.482885360717773,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -13.124868392944336,
+        "TSNE-2": 2.2386977672576904,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": -14.684301376342773,
+        "TSNE-2": 1.6246265172958374,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": 2.9949417114257812,
+        "TSNE-2": -5.454270362854004,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -2.206886053085327,
+        "TSNE-2": 1.0951001644134521,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -5.193274021148682,
+        "TSNE-2": -4.755050182342529,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -5.842967510223389,
+        "TSNE-2": 10.403196334838867,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -4.1467204093933105,
+        "TSNE-2": -6.218368053436279,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": 0.03699115663766861,
+        "TSNE-2": -1.0472052097320557,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -7.690408706665039,
+        "TSNE-2": -10.621241569519043,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -11.023384094238281,
+        "TSNE-2": 7.714603900909424,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": 10.878083229064941,
+        "TSNE-2": 3.1509130001068115,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": 6.391462326049805,
+        "TSNE-2": -0.9748828411102295,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": 8.503013610839844,
+        "TSNE-2": -0.9318384528160095,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": 0.3660033345222473,
+        "TSNE-2": 8.354939460754395,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": 1.5138415098190308,
+        "TSNE-2": 5.6729817390441895,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -8.739591598510742,
+        "TSNE-2": -1.2764699459075928,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": 6.391462326049805,
+        "TSNE-2": -0.9748828411102295,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": -13.587010383605957,
+        "TSNE-2": 1.4561495780944824,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": 6.3904829025268555,
+        "TSNE-2": 4.528314590454102,
+        "cluster": 2,
+        "keywords": "advantage, equal, feel, aim, become"
+      },
+      {
+        "TSNE-1": -4.93992280960083,
+        "TSNE-2": 3.3031182289123535,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -4.008819103240967,
+        "TSNE-2": -13.362627029418945,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": 6.449666500091553,
+        "TSNE-2": 10.482885360717773,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -0.6831716299057007,
+        "TSNE-2": -3.3441052436828613,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -3.3862144947052,
+        "TSNE-2": 2.4927964210510254,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": 7.742313385009766,
+        "TSNE-2": -7.572038173675537,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      },
+      {
+        "TSNE-1": -10.584898948669434,
+        "TSNE-2": -6.510745525360107,
+        "cluster": 3,
+        "keywords": "role, experience, negative, personal, traditional"
+      },
+      {
+        "TSNE-1": -0.10616600513458252,
+        "TSNE-2": -11.577010154724121,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": -4.9135026931762695,
+        "TSNE-2": 6.987497329711914,
+        "cluster": 1,
+        "keywords": "document, feminist, family, regret, movement"
+      },
+      {
+        "TSNE-1": -10.00850772857666,
+        "TSNE-2": 3.5485646724700928,
+        "cluster": 5,
+        "keywords": "passage, confusion, suggest, effect, due"
+      },
+      {
+        "TSNE-1": -1.7067081928253174,
+        "TSNE-2": -5.477582931518555,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": 2.028472423553467,
+        "TSNE-2": -2.8666460514068604,
+        "cluster": 0,
+        "keywords": "feminism, woman, right, may, men"
+      },
+      {
+        "TSNE-1": 9.373983383178711,
+        "TSNE-2": -10.449739456176758,
+        "cluster": 4,
+        "keywords": "answer, text, direct, importance, mention"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_94",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-24226 - do women regret embracing feminism"
+  }
+}

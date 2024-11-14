@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7f686f2bd0ecc4800b4c7710ac9d5e48"
+  },
+  "datasets": {
+    "data-7f686f2bd0ecc4800b4c7710ac9d5e48": [
+      {
+        "TSNE-1": -0.9807226657867432,
+        "TSNE-2": 0.18507184088230133,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 6.280542373657227,
+        "TSNE-2": -4.439607620239258,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": -11.467717170715332,
+        "TSNE-2": 8.145088195800781,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -6.039462089538574,
+        "TSNE-2": 4.783883094787598,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -11.467717170715332,
+        "TSNE-2": 8.145088195800781,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -7.6674370765686035,
+        "TSNE-2": 4.145625114440918,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -9.716055870056152,
+        "TSNE-2": 2.733126163482666,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 3.2777581214904785,
+        "TSNE-2": -0.8206783533096313,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": -7.646713733673096,
+        "TSNE-2": 12.14189338684082,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": 5.350466728210449,
+        "TSNE-2": -10.944669723510742,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": 1.236961841583252,
+        "TSNE-2": 6.866893291473389,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 0.5391972064971924,
+        "TSNE-2": -6.631641387939453,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": 0.21862348914146423,
+        "TSNE-2": 4.171791076660156,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -5.265904903411865,
+        "TSNE-2": -0.7634249329566956,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 4.5398335456848145,
+        "TSNE-2": -9.349092483520508,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": 8.997546195983887,
+        "TSNE-2": 5.969377040863037,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 11.264079093933105,
+        "TSNE-2": -6.125438690185547,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": 3.2777581214904785,
+        "TSNE-2": -0.8206783533096313,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": 9.731437683105469,
+        "TSNE-2": 8.072128295898438,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": -3.0083353519439697,
+        "TSNE-2": -7.484281539916992,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -6.018695831298828,
+        "TSNE-2": 1.9632384777069092,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -1.3363134860992432,
+        "TSNE-2": -4.469592094421387,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 3.0773561000823975,
+        "TSNE-2": -5.932055473327637,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": 2.2034292221069336,
+        "TSNE-2": 3.674680709838867,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": -1.0169957876205444,
+        "TSNE-2": -2.273622512817383,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 3.6345763206481934,
+        "TSNE-2": 0.9717838764190674,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": -3.986875295639038,
+        "TSNE-2": 1.187113642692566,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 11.61436653137207,
+        "TSNE-2": -2.564863681793213,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": 3.9633235931396484,
+        "TSNE-2": -9.91709041595459,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": -10.414599418640137,
+        "TSNE-2": -9.985980987548828,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -5.531440734863281,
+        "TSNE-2": 11.333210945129395,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -1.7625818252563477,
+        "TSNE-2": -10.119651794433594,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -0.22377735376358032,
+        "TSNE-2": 1.912994384765625,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 11.564321517944336,
+        "TSNE-2": 4.829141616821289,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 6.260593891143799,
+        "TSNE-2": 9.518814086914062,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 10.119240760803223,
+        "TSNE-2": 2.016594171524048,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": 5.059800624847412,
+        "TSNE-2": 3.8678901195526123,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": -10.865365982055664,
+        "TSNE-2": 4.629549503326416,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": 1.5355985164642334,
+        "TSNE-2": -0.23976513743400574,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": -4.018619537353516,
+        "TSNE-2": 9.435559272766113,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": 7.501007556915283,
+        "TSNE-2": -3.6807966232299805,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": -0.1987001895904541,
+        "TSNE-2": 9.311515808105469,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -0.26785141229629517,
+        "TSNE-2": 4.65683650970459,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 5.613563060760498,
+        "TSNE-2": -0.9625372290611267,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": 7.849035739898682,
+        "TSNE-2": 1.6917530298233032,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": -11.363261222839355,
+        "TSNE-2": -5.940035820007324,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -3.6693966388702393,
+        "TSNE-2": -8.731820106506348,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": 6.4427947998046875,
+        "TSNE-2": -11.957975387573242,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": 1.236961841583252,
+        "TSNE-2": 6.866893291473389,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 7.427362442016602,
+        "TSNE-2": 0.33011648058891296,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": 12.036090850830078,
+        "TSNE-2": -1.003501534461975,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": 5.776652812957764,
+        "TSNE-2": -8.427403450012207,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": 0.009419488720595837,
+        "TSNE-2": 2.5725953578948975,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -0.10461049526929855,
+        "TSNE-2": -6.865727424621582,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": 9.881739616394043,
+        "TSNE-2": 4.196294784545898,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": -4.571777820587158,
+        "TSNE-2": 0.3649078905582428,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -2.0491678714752197,
+        "TSNE-2": 5.254128456115723,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": 2.4656381607055664,
+        "TSNE-2": 10.980927467346191,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 3.8329126834869385,
+        "TSNE-2": -2.61204195022583,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": -5.067843437194824,
+        "TSNE-2": 2.8391897678375244,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -6.560269355773926,
+        "TSNE-2": -6.332334995269775,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -2.744041919708252,
+        "TSNE-2": 14.025772094726562,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -1.536710262298584,
+        "TSNE-2": 11.677927017211914,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -3.108104705810547,
+        "TSNE-2": -5.883797645568848,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": 4.570348739624023,
+        "TSNE-2": 5.177505016326904,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 1.7346869707107544,
+        "TSNE-2": 1.7800700664520264,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": 5.8675923347473145,
+        "TSNE-2": 4.282554626464844,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": -3.4433019161224365,
+        "TSNE-2": -2.939209461212158,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -4.13435173034668,
+        "TSNE-2": 6.164320468902588,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -7.0447211265563965,
+        "TSNE-2": 1.8212316036224365,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -10.913975715637207,
+        "TSNE-2": 0.3045490086078644,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": 11.264079093933105,
+        "TSNE-2": -6.125438690185547,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": -7.913573741912842,
+        "TSNE-2": -2.344207525253296,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": 4.330581188201904,
+        "TSNE-2": 7.456900119781494,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 6.084607124328613,
+        "TSNE-2": 2.5922727584838867,
+        "cluster": 5,
+        "keywords": "conflict, also, intervention, communist, external"
+      },
+      {
+        "TSNE-1": -2.664407968521118,
+        "TSNE-2": 8.166403770446777,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": 5.815612316131592,
+        "TSNE-2": 7.101361274719238,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": -7.913573741912842,
+        "TSNE-2": -2.344207525253296,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -2.312343120574951,
+        "TSNE-2": 13.157035827636719,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": 2.873383045196533,
+        "TSNE-2": 12.069082260131836,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 0.4912676513195038,
+        "TSNE-2": -1.748150110244751,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -10.159745216369629,
+        "TSNE-2": -6.024950981140137,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -7.002823352813721,
+        "TSNE-2": -6.644706726074219,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -2.083489179611206,
+        "TSNE-2": 2.772737503051758,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -4.018619537353516,
+        "TSNE-2": 9.435559272766113,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -7.354007720947266,
+        "TSNE-2": 5.748696327209473,
+        "cluster": 1,
+        "keywords": "theory, economic, country, military, many"
+      },
+      {
+        "TSNE-1": -13.636789321899414,
+        "TSNE-2": -0.9197112917900085,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -6.157017230987549,
+        "TSNE-2": -11.87156867980957,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": 9.64315128326416,
+        "TSNE-2": 5.498815536499023,
+        "cluster": 0,
+        "keywords": "war, cold, superpower, nation, political"
+      },
+      {
+        "TSNE-1": 12.2958984375,
+        "TSNE-2": -4.2684783935546875,
+        "cluster": 2,
+        "keywords": "bipolar, united, world, state, choose"
+      },
+      {
+        "TSNE-1": -2.4710309505462646,
+        "TSNE-2": -0.47945094108581543,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      },
+      {
+        "TSNE-1": -1.7625818252563477,
+        "TSNE-2": -10.119651794433594,
+        "cluster": 3,
+        "keywords": "often, soviet, global, power, struggle"
+      },
+      {
+        "TSNE-1": -7.837291240692139,
+        "TSNE-2": 0.2873843014240265,
+        "cluster": 4,
+        "keywords": "government, union, ideological, politics, sought"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_159",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-36741 - how did the cold war shape politics in developing nations"
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-6fa6a813ed5a211db7b5d5ca0e6617cc"
+  },
+  "datasets": {
+    "data-6fa6a813ed5a211db7b5d5ca0e6617cc": [
+      {
+        "TSNE-1": -0.24149669706821442,
+        "TSNE-2": 1.6540849208831787,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 6.209303379058838,
+        "TSNE-2": 6.621402740478516,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": -9.221641540527344,
+        "TSNE-2": 3.359325408935547,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 9.313680648803711,
+        "TSNE-2": -10.28543472290039,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -9.221641540527344,
+        "TSNE-2": 3.359325408935547,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": -10.029557228088379,
+        "TSNE-2": 5.303314208984375,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 0.4386391341686249,
+        "TSNE-2": 7.617048740386963,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 1.2394620180130005,
+        "TSNE-2": -11.79747200012207,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": 5.047976970672607,
+        "TSNE-2": -9.621001243591309,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -2.791884660720825,
+        "TSNE-2": -5.625326633453369,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 14.014415740966797,
+        "TSNE-2": 5.361602306365967,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": -0.386176735162735,
+        "TSNE-2": 3.6269123554229736,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 8.623379707336426,
+        "TSNE-2": -0.7727934718132019,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": 7.087291717529297,
+        "TSNE-2": -12.247735023498535,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": 1.2057205438613892,
+        "TSNE-2": 2.8718435764312744,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 13.09931468963623,
+        "TSNE-2": -3.8348097801208496,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": 0.4386391341686249,
+        "TSNE-2": 7.617048740386963,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 0.6423304677009583,
+        "TSNE-2": 4.865162372589111,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": -9.005224227905273,
+        "TSNE-2": -5.174046993255615,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 2.793067455291748,
+        "TSNE-2": -6.705428600311279,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -6.9629950523376465,
+        "TSNE-2": 0.5997496843338013,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 3.664076566696167,
+        "TSNE-2": -5.731576919555664,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -3.9261157512664795,
+        "TSNE-2": 12.362175941467285,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 7.1434102058410645,
+        "TSNE-2": 1.543657660484314,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": 4.025496959686279,
+        "TSNE-2": 4.650527000427246,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 5.422708988189697,
+        "TSNE-2": -5.09202766418457,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -9.098307609558105,
+        "TSNE-2": 5.638040542602539,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 5.226025581359863,
+        "TSNE-2": -11.8829345703125,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -11.24488639831543,
+        "TSNE-2": -5.194772243499756,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": -6.537581443786621,
+        "TSNE-2": -4.23581075668335,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": -3.5712716579437256,
+        "TSNE-2": -10.019761085510254,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": -1.4418833255767822,
+        "TSNE-2": 5.7374396324157715,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": -6.11934232711792,
+        "TSNE-2": 7.687990665435791,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": -1.842695951461792,
+        "TSNE-2": 0.551134467124939,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 0.9792672991752625,
+        "TSNE-2": -1.6696487665176392,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 0.3662641644477844,
+        "TSNE-2": 11.052255630493164,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": -9.322206497192383,
+        "TSNE-2": 0.6897737383842468,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 2.2574262619018555,
+        "TSNE-2": 10.538225173950195,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 5.427297592163086,
+        "TSNE-2": 3.1337318420410156,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": -10.367486000061035,
+        "TSNE-2": 8.247331619262695,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": -5.679593563079834,
+        "TSNE-2": 4.048840045928955,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": -2.4197072982788086,
+        "TSNE-2": 4.8495612144470215,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": -2.692903995513916,
+        "TSNE-2": -1.2091187238693237,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 3.741720676422119,
+        "TSNE-2": -1.9500035047531128,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 11.511802673339844,
+        "TSNE-2": 8.524134635925293,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": -8.533148765563965,
+        "TSNE-2": -8.333529472351074,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 6.937029838562012,
+        "TSNE-2": -9.141084671020508,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -2.791884660720825,
+        "TSNE-2": -5.625326633453369,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 2.479094982147217,
+        "TSNE-2": 6.044357776641846,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": -7.604475498199463,
+        "TSNE-2": 5.801568984985352,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 6.043852806091309,
+        "TSNE-2": -7.575438499450684,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -1.7222493886947632,
+        "TSNE-2": 3.17340350151062,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 11.511802673339844,
+        "TSNE-2": 8.524134635925293,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": -4.853278160095215,
+        "TSNE-2": 6.078603267669678,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 8.972137451171875,
+        "TSNE-2": -7.392069339752197,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": 1.5648488998413086,
+        "TSNE-2": 0.7975863814353943,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 4.3677496910095215,
+        "TSNE-2": -11.6116304397583,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -4.832501411437988,
+        "TSNE-2": -1.9316136837005615,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 7.955330848693848,
+        "TSNE-2": -4.991851806640625,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": 12.327202796936035,
+        "TSNE-2": 0.41809728741645813,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": -4.6087751388549805,
+        "TSNE-2": 1.2973263263702393,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": -5.415462493896484,
+        "TSNE-2": 0.3399083614349365,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": -7.571446895599365,
+        "TSNE-2": -8.99424934387207,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": -0.575385332107544,
+        "TSNE-2": 10.24893569946289,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 4.756503105163574,
+        "TSNE-2": 8.785703659057617,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 1.7208753824234009,
+        "TSNE-2": 12.83297348022461,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 7.621185779571533,
+        "TSNE-2": 4.464350700378418,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": -3.604435920715332,
+        "TSNE-2": 3.0039021968841553,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 1.076554298400879,
+        "TSNE-2": -7.746059894561768,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -7.7187275886535645,
+        "TSNE-2": -2.809995412826538,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 13.09931468963623,
+        "TSNE-2": -3.8348097801208496,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": -6.337703704833984,
+        "TSNE-2": -13.160317420959473,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": -2.568819761276245,
+        "TSNE-2": 8.012228965759277,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 3.9845337867736816,
+        "TSNE-2": 0.781095564365387,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": -9.063996315002441,
+        "TSNE-2": 8.774199485778809,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 5.057084560394287,
+        "TSNE-2": 11.863109588623047,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": -6.337703704833984,
+        "TSNE-2": -13.160317420959473,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": -4.028693675994873,
+        "TSNE-2": 0.48563992977142334,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 8.475186347961426,
+        "TSNE-2": -9.17095947265625,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -2.1155529022216797,
+        "TSNE-2": 12.32303524017334,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": 14.014415740966797,
+        "TSNE-2": 5.361602306365967,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": 12.327202796936035,
+        "TSNE-2": 0.41809728741645813,
+        "cluster": 1,
+        "keywords": "transnet, highway, government, federal, pensioner"
+      },
+      {
+        "TSNE-1": -1.060492992401123,
+        "TSNE-2": -4.3583598136901855,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 5.427297592163086,
+        "TSNE-2": 3.1337318420410156,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": 9.151701927185059,
+        "TSNE-2": -5.191774845123291,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": -12.656648635864258,
+        "TSNE-2": -3.993440866470337,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 5.085631847381592,
+        "TSNE-2": -14.24863052368164,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      },
+      {
+        "TSNE-1": 2.526163339614868,
+        "TSNE-2": 3.50569486618042,
+        "cluster": 0,
+        "keywords": "fund, state, transportation, new, road"
+      },
+      {
+        "TSNE-1": -10.199780464172363,
+        "TSNE-2": -0.7238044738769531,
+        "cluster": 2,
+        "keywords": "tax, revenue, divert, gas, portion"
+      },
+      {
+        "TSNE-1": 2.896745204925537,
+        "TSNE-2": 8.195603370666504,
+        "cluster": 3,
+        "keywords": "job, infrastructure, project, maintenance, economic"
+      },
+      {
+        "TSNE-1": -3.5712716579437256,
+        "TSNE-2": -10.019761085510254,
+        "cluster": 4,
+        "keywords": "funding, document, trust, spending, significant"
+      },
+      {
+        "TSNE-1": 0.4213578999042511,
+        "TSNE-2": -8.252074241638184,
+        "cluster": 5,
+        "keywords": "text, mention, often, raid, note"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_155",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-23862 - do states mismanage transportation funds?"
+  }
+}

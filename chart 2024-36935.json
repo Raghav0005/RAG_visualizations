@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-077973b1521d0141552e0428465b4512"
+  },
+  "datasets": {
+    "data-077973b1521d0141552e0428465b4512": [
+      {
+        "TSNE-1": -0.27599358558654785,
+        "TSNE-2": -2.471508026123047,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 1.5277109146118164,
+        "TSNE-2": -3.9133424758911133,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": 12.073211669921875,
+        "TSNE-2": -8.023344039916992,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": -7.572649002075195,
+        "TSNE-2": 3.910000801086426,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": 12.073211669921875,
+        "TSNE-2": -8.023344039916992,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": -5.259003162384033,
+        "TSNE-2": -7.177789688110352,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 6.7518229484558105,
+        "TSNE-2": 6.933982849121094,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -11.37437915802002,
+        "TSNE-2": 6.182059288024902,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": 10.315210342407227,
+        "TSNE-2": 8.427359580993652,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -10.37903881072998,
+        "TSNE-2": -4.649783611297607,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -2.6485958099365234,
+        "TSNE-2": 4.638935565948486,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 2.1084296703338623,
+        "TSNE-2": -12.725908279418945,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": 3.028468608856201,
+        "TSNE-2": 3.285750150680542,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": 6.2986297607421875,
+        "TSNE-2": 1.4902554750442505,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": 12.534350395202637,
+        "TSNE-2": -4.507480144500732,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": -1.0699800252914429,
+        "TSNE-2": -0.035280488431453705,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -4.800641059875488,
+        "TSNE-2": -3.988595485687256,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 0.21453018486499786,
+        "TSNE-2": 4.9308600425720215,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": 1.3803057670593262,
+        "TSNE-2": -1.4537675380706787,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": -1.8412469625473022,
+        "TSNE-2": 12.851279258728027,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": 6.429749965667725,
+        "TSNE-2": -3.977022886276245,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": 2.343972682952881,
+        "TSNE-2": 0.26855459809303284,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": 5.340041160583496,
+        "TSNE-2": -3.9397335052490234,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": 8.342668533325195,
+        "TSNE-2": -10.52236557006836,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": -2.090174913406372,
+        "TSNE-2": -3.190218448638916,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 1.5772488117218018,
+        "TSNE-2": 5.110912799835205,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": 3.591721773147583,
+        "TSNE-2": -5.072324752807617,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": 8.110593795776367,
+        "TSNE-2": -2.9480745792388916,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": 0.8441932201385498,
+        "TSNE-2": -6.398258209228516,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": -4.756592750549316,
+        "TSNE-2": -11.159146308898926,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 9.497183799743652,
+        "TSNE-2": 9.219070434570312,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -1.513535737991333,
+        "TSNE-2": 10.578146934509277,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": 1.4316750764846802,
+        "TSNE-2": 2.9473116397857666,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -3.9244604110717773,
+        "TSNE-2": 2.356823444366455,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 3.747396230697632,
+        "TSNE-2": -1.8506460189819336,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": -7.570367813110352,
+        "TSNE-2": -0.7348480224609375,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -5.440558433532715,
+        "TSNE-2": -1.4036520719528198,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -6.759975910186768,
+        "TSNE-2": -9.289996147155762,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 5.071494102478027,
+        "TSNE-2": 4.6971845626831055,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -0.6285028457641602,
+        "TSNE-2": 6.622037887573242,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -11.843363761901855,
+        "TSNE-2": 6.237695217132568,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": -3.691023588180542,
+        "TSNE-2": -7.601203918457031,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 2.4026973247528076,
+        "TSNE-2": 2.1724603176116943,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -3.030047655105591,
+        "TSNE-2": -1.527876377105713,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -5.240679740905762,
+        "TSNE-2": -0.1904793083667755,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 5.391303062438965,
+        "TSNE-2": -12.379414558410645,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": -3.494105339050293,
+        "TSNE-2": 10.453095436096191,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": -10.057852745056152,
+        "TSNE-2": 1.294614553451538,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": -2.6485958099365234,
+        "TSNE-2": 4.638935565948486,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -5.864718914031982,
+        "TSNE-2": 0.694636344909668,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -6.6412458419799805,
+        "TSNE-2": -4.551303386688232,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -4.757848739624023,
+        "TSNE-2": 5.706422805786133,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": 1.6352274417877197,
+        "TSNE-2": 1.6287641525268555,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 5.391303062438965,
+        "TSNE-2": -12.379414558410645,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": -2.5627048015594482,
+        "TSNE-2": 0.5197364687919617,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 6.781145095825195,
+        "TSNE-2": -4.750738620758057,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": -0.794984757900238,
+        "TSNE-2": 0.8560010194778442,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -11.468487739562988,
+        "TSNE-2": -0.8782429695129395,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 2.80710506439209,
+        "TSNE-2": 9.272294044494629,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": 4.779622554779053,
+        "TSNE-2": 0.5860687494277954,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": 8.510709762573242,
+        "TSNE-2": 5.074374675750732,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -7.5906500816345215,
+        "TSNE-2": -5.6018266677856445,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -6.135206699371338,
+        "TSNE-2": -5.288421154022217,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -1.513535737991333,
+        "TSNE-2": 10.578146934509277,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": -1.4685020446777344,
+        "TSNE-2": -5.872676849365234,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -0.12031525373458862,
+        "TSNE-2": 3.27943754196167,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -2.0863759517669678,
+        "TSNE-2": -5.621327877044678,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 2.2744009494781494,
+        "TSNE-2": 6.863949775695801,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -3.7224578857421875,
+        "TSNE-2": -8.427403450012207,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -7.766949653625488,
+        "TSNE-2": 7.870533466339111,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": -4.879961013793945,
+        "TSNE-2": -8.427325248718262,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -4.800641059875488,
+        "TSNE-2": -3.988595485687256,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 5.458376884460449,
+        "TSNE-2": -1.1416456699371338,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": -2.283388614654541,
+        "TSNE-2": -9.532649993896484,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -6.879519462585449,
+        "TSNE-2": -2.7650644779205322,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -3.687101364135742,
+        "TSNE-2": -3.019202470779419,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 2.636134624481201,
+        "TSNE-2": 12.216504096984863,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": 5.458376884460449,
+        "TSNE-2": -1.1416456699371338,
+        "cluster": 0,
+        "keywords": "animal, northwest, imagery, coast, spiritual"
+      },
+      {
+        "TSNE-1": -7.2407355308532715,
+        "TSNE-2": -7.32539701461792,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": -11.196069717407227,
+        "TSNE-2": 0.6381901502609253,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": 5.254199504852295,
+        "TSNE-2": 2.726207733154297,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": 2.1084296703338623,
+        "TSNE-2": -12.725908279418945,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": 8.510709762573242,
+        "TSNE-2": 5.074374675750732,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -2.1646060943603516,
+        "TSNE-2": 2.4066574573516846,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": -0.6285028457641602,
+        "TSNE-2": 6.622037887573242,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -12.605192184448242,
+        "TSNE-2": 0.7492750287055969,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": 6.721468448638916,
+        "TSNE-2": -8.12783432006836,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": -0.2667272090911865,
+        "TSNE-2": -8.976921081542969,
+        "cluster": 2,
+        "keywords": "mythic, family, name, right, emblem"
+      },
+      {
+        "TSNE-1": 0.2714368999004364,
+        "TSNE-2": -0.29707443714141846,
+        "cluster": 5,
+        "keywords": "art, use, spirit, mask, cultural"
+      },
+      {
+        "TSNE-1": 7.999512195587158,
+        "TSNE-2": -7.289890289306641,
+        "cluster": 3,
+        "keywords": "dog, available, pueblo, type, pomo"
+      },
+      {
+        "TSNE-1": 3.123276710510254,
+        "TSNE-2": 5.297435760498047,
+        "cluster": 4,
+        "keywords": "often, people, home, painting, wooden"
+      },
+      {
+        "TSNE-1": -1.513535737991333,
+        "TSNE-2": 10.578146934509277,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      },
+      {
+        "TSNE-1": -7.640487194061279,
+        "TSNE-2": 8.444687843322754,
+        "cluster": 1,
+        "keywords": "tribe, totem, answer, pole, convey"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_1",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-36935 - how did the northwest coast people develop and use animal imagery in their homes?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7f91fae627f286f32a2f21ef84a3b9b0"
+  },
+  "datasets": {
+    "data-7f91fae627f286f32a2f21ef84a3b9b0": [
+      {
+        "TSNE-1": 7.0669097900390625,
+        "TSNE-2": -2.260000705718994,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": 7.2325286865234375,
+        "TSNE-2": -7.4283447265625,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": -0.2281103879213333,
+        "TSNE-2": -3.472872495651245,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": -3.6449968814849854,
+        "TSNE-2": -4.872280597686768,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": -0.2281103879213333,
+        "TSNE-2": -3.472872495651245,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": 3.5741803646087646,
+        "TSNE-2": 5.210410118103027,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 1.4092528820037842,
+        "TSNE-2": -2.8300771713256836,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": 1.3372488021850586,
+        "TSNE-2": -0.37417346239089966,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": -10.861109733581543,
+        "TSNE-2": -5.199222564697266,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": -7.485360145568848,
+        "TSNE-2": -11.22844409942627,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 0.6463922262191772,
+        "TSNE-2": 2.3687281608581543,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": -3.4712278842926025,
+        "TSNE-2": 6.835279941558838,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 3.665086030960083,
+        "TSNE-2": -1.4220352172851562,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": 1.2533897161483765,
+        "TSNE-2": -4.597971439361572,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": -0.92385333776474,
+        "TSNE-2": -10.531014442443848,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": 4.194156169891357,
+        "TSNE-2": -5.360175132751465,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": -9.313948631286621,
+        "TSNE-2": 11.19248104095459,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 1.3372488021850586,
+        "TSNE-2": -0.37417346239089966,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": 1.9533599615097046,
+        "TSNE-2": -11.9858980178833,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": -6.964866638183594,
+        "TSNE-2": 2.4946985244750977,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 1.5709810256958008,
+        "TSNE-2": 8.064764022827148,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 7.434833526611328,
+        "TSNE-2": 0.1297435462474823,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": 0.5352389812469482,
+        "TSNE-2": 7.698901176452637,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 2.760660409927368,
+        "TSNE-2": -10.041158676147461,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": -2.059671640396118,
+        "TSNE-2": 7.628706455230713,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 6.7488813400268555,
+        "TSNE-2": -5.5127363204956055,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": -4.380290508270264,
+        "TSNE-2": -4.994106769561768,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 4.741386413574219,
+        "TSNE-2": 11.689126014709473,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -7.485360145568848,
+        "TSNE-2": -11.22844409942627,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": -2.1406362056732178,
+        "TSNE-2": 9.516375541687012,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": -10.73027229309082,
+        "TSNE-2": -4.20360803604126,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": -3.968207836151123,
+        "TSNE-2": 2.124718189239502,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 4.0450639724731445,
+        "TSNE-2": -2.897545099258423,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": -10.822030067443848,
+        "TSNE-2": -1.3250815868377686,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": -2.1344103813171387,
+        "TSNE-2": 4.331320762634277,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 6.067385673522949,
+        "TSNE-2": 8.596996307373047,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 6.890092372894287,
+        "TSNE-2": 6.933139324188232,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -5.970261573791504,
+        "TSNE-2": -2.4420971870422363,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": -10.107809066772461,
+        "TSNE-2": 0.7766016721725464,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 9.325230598449707,
+        "TSNE-2": -3.9705021381378174,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": -12.967026710510254,
+        "TSNE-2": -9.133570671081543,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": -0.021754290908575058,
+        "TSNE-2": -8.347721099853516,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": 4.8272857666015625,
+        "TSNE-2": -0.9867624640464783,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": 3.4276061058044434,
+        "TSNE-2": 9.327824592590332,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 7.672708511352539,
+        "TSNE-2": 5.338493824005127,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -4.469844341278076,
+        "TSNE-2": 5.031775951385498,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": -6.708348751068115,
+        "TSNE-2": 6.256902694702148,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": -6.089052677154541,
+        "TSNE-2": -6.241615295410156,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 0.6463922262191772,
+        "TSNE-2": 2.3687281608581543,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": -5.4400739669799805,
+        "TSNE-2": 8.717546463012695,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": -1.2283481359481812,
+        "TSNE-2": -7.106819152832031,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": -7.485360145568848,
+        "TSNE-2": -11.22844409942627,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 4.729172706604004,
+        "TSNE-2": -2.0422372817993164,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": -4.469844341278076,
+        "TSNE-2": 5.031775951385498,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": -11.730793952941895,
+        "TSNE-2": -1.060062289237976,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 2.497295618057251,
+        "TSNE-2": 6.843008041381836,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 2.4434046745300293,
+        "TSNE-2": -6.33311128616333,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": 12.369084358215332,
+        "TSNE-2": 7.641241073608398,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -0.5942020416259766,
+        "TSNE-2": -0.47512075304985046,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": 0.8511003851890564,
+        "TSNE-2": 6.42404842376709,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -3.0668699741363525,
+        "TSNE-2": -9.008589744567871,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": 5.693870544433594,
+        "TSNE-2": 1.8900874853134155,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": 5.89422082901001,
+        "TSNE-2": 5.0755615234375,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -8.156956672668457,
+        "TSNE-2": 6.067571640014648,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 8.150893211364746,
+        "TSNE-2": 7.182821750640869,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 10.335552215576172,
+        "TSNE-2": -1.250701904296875,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": -3.839973211288452,
+        "TSNE-2": 9.920933723449707,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 5.671802520751953,
+        "TSNE-2": -10.118370056152344,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": 1.5345573425292969,
+        "TSNE-2": -8.542037963867188,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": 2.497295618057251,
+        "TSNE-2": 6.843008041381836,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 2.528987407684326,
+        "TSNE-2": -7.8446807861328125,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": -9.313948631286621,
+        "TSNE-2": 11.19248104095459,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 0.4668772220611572,
+        "TSNE-2": 13.077231407165527,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -8.160481452941895,
+        "TSNE-2": -0.4148690104484558,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 9.244222640991211,
+        "TSNE-2": 4.618401527404785,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 3.8574607372283936,
+        "TSNE-2": 0.7515302300453186,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": -7.411307334899902,
+        "TSNE-2": -0.6353729367256165,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 0.4668772220611572,
+        "TSNE-2": 13.077231407165527,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": 6.298266410827637,
+        "TSNE-2": 3.0416691303253174,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -8.947290420532227,
+        "TSNE-2": -7.470254421234131,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": -2.7249104976654053,
+        "TSNE-2": -2.2902700901031494,
+        "cluster": 2,
+        "keywords": "must, emtala, provide, condition, discharge"
+      },
+      {
+        "TSNE-1": -3.4712278842926025,
+        "TSNE-2": 6.835279941558838,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": -3.0668699741363525,
+        "TSNE-2": -9.008589744567871,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": -6.48897123336792,
+        "TSNE-2": 4.015151500701904,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 9.325230598449707,
+        "TSNE-2": -3.9705021381378174,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": 4.646796226501465,
+        "TSNE-2": 14.712896347045898,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      },
+      {
+        "TSNE-1": -5.391147613525391,
+        "TSNE-2": 13.35826587677002,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": -7.499946117401123,
+        "TSNE-2": -3.2120978832244873,
+        "cluster": 3,
+        "keywords": "law, require, treat, may, care"
+      },
+      {
+        "TSNE-1": 4.6070427894592285,
+        "TSNE-2": -6.927238941192627,
+        "cluster": 1,
+        "keywords": "emergency, medical, treatment, ability, regardless"
+      },
+      {
+        "TSNE-1": -1.6986660957336426,
+        "TSNE-2": 6.01361608505249,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 6.149744987487793,
+        "TSNE-2": -4.137246608734131,
+        "cluster": 5,
+        "keywords": "appropriate, requirement, necessary, policy, planning"
+      },
+      {
+        "TSNE-1": -3.968207836151123,
+        "TSNE-2": 2.124718189239502,
+        "cluster": 0,
+        "keywords": "homeless, hospital, patient, acute, health"
+      },
+      {
+        "TSNE-1": 1.4695286750793457,
+        "TSNE-2": 5.193888187408447,
+        "cluster": 4,
+        "keywords": "service, social, destination, agency, referral"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_299",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-6862 - are there laws that require hospitals treat homeless people"
+  }
+}

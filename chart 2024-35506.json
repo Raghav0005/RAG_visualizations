@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-a31837d4f3be7ad92dc1c69b7d208616"
+  },
+  "datasets": {
+    "data-a31837d4f3be7ad92dc1c69b7d208616": [
+      {
+        "TSNE-1": -0.8765188455581665,
+        "TSNE-2": 1.3801462650299072,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 2.4741241931915283,
+        "TSNE-2": 0.13116157054901123,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": -3.194382667541504,
+        "TSNE-2": -8.837553977966309,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -1.868464469909668,
+        "TSNE-2": -5.907007217407227,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -3.2054262161254883,
+        "TSNE-2": -8.86982536315918,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -8.699405670166016,
+        "TSNE-2": 0.6136214733123779,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": -6.533319473266602,
+        "TSNE-2": 1.457442045211792,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 0.408419132232666,
+        "TSNE-2": 2.524522304534912,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": -7.634342670440674,
+        "TSNE-2": -5.049300670623779,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": 7.296916961669922,
+        "TSNE-2": -4.49231481552124,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": -4.040119647979736,
+        "TSNE-2": 3.7198057174682617,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 7.488329887390137,
+        "TSNE-2": -1.0402406454086304,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 3.908419370651245,
+        "TSNE-2": 2.310582160949707,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 5.406381130218506,
+        "TSNE-2": 5.637831211090088,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 8.16543960571289,
+        "TSNE-2": -4.376545429229736,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": 3.3193728923797607,
+        "TSNE-2": 5.789987564086914,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 3.191192150115967,
+        "TSNE-2": -10.445955276489258,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": 0.408419132232666,
+        "TSNE-2": 2.524522304534912,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 5.255088806152344,
+        "TSNE-2": 3.537189245223999,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": -7.1293625831604,
+        "TSNE-2": -8.550862312316895,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -4.186443328857422,
+        "TSNE-2": -2.3923277854919434,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 1.428608775138855,
+        "TSNE-2": 0.8457500338554382,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": -2.225208044052124,
+        "TSNE-2": -3.4557478427886963,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 1.655670166015625,
+        "TSNE-2": 9.362627029418945,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": -0.8445994257926941,
+        "TSNE-2": 4.398984909057617,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 0.04817895591259003,
+        "TSNE-2": 3.9125330448150635,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": -2.5642988681793213,
+        "TSNE-2": -5.17313289642334,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -4.690413951873779,
+        "TSNE-2": -1.775380253791809,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 6.34096622467041,
+        "TSNE-2": -4.810904026031494,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": 5.6153645515441895,
+        "TSNE-2": -9.568281173706055,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": -7.682816028594971,
+        "TSNE-2": -5.1023430824279785,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": 8.287678718566895,
+        "TSNE-2": 3.471653461456299,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 2.868703842163086,
+        "TSNE-2": 2.5925371646881104,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": -4.94415807723999,
+        "TSNE-2": -6.076607704162598,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": 6.068741321563721,
+        "TSNE-2": 1.4103962182998657,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": -2.019010305404663,
+        "TSNE-2": -0.9151043891906738,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": -0.7869001626968384,
+        "TSNE-2": 6.028753280639648,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": -0.11363156884908676,
+        "TSNE-2": -7.584418296813965,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -1.2139335870742798,
+        "TSNE-2": 7.96652889251709,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 0.986097514629364,
+        "TSNE-2": 6.0867767333984375,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": -5.670009613037109,
+        "TSNE-2": 5.415576934814453,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": -0.00048375315964221954,
+        "TSNE-2": -1.9868571758270264,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 2.294255495071411,
+        "TSNE-2": 2.6493401527404785,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 3.8836612701416016,
+        "TSNE-2": 1.088141679763794,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 1.357633352279663,
+        "TSNE-2": -0.847800076007843,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 6.308448314666748,
+        "TSNE-2": -6.91243314743042,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": 5.500877380371094,
+        "TSNE-2": 8.382763862609863,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": -0.6271257400512695,
+        "TSNE-2": -8.77165412902832,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -4.040119647979736,
+        "TSNE-2": 3.7198057174682617,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": -0.7132815718650818,
+        "TSNE-2": -0.5999143123626709,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 1.204386591911316,
+        "TSNE-2": -6.068448066711426,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 4.205571174621582,
+        "TSNE-2": -6.461150169372559,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": 4.169604778289795,
+        "TSNE-2": 2.64969539642334,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 2.9111945629119873,
+        "TSNE-2": -3.443875551223755,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": -5.041128635406494,
+        "TSNE-2": -6.270303726196289,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": 4.877425193786621,
+        "TSNE-2": -0.41266435384750366,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 2.9500010013580322,
+        "TSNE-2": 6.506064414978027,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 10.435620307922363,
+        "TSNE-2": -2.916030168533325,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": 3.7375080585479736,
+        "TSNE-2": -1.7337044477462769,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 5.046489238739014,
+        "TSNE-2": -0.3817715048789978,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": -6.909502983093262,
+        "TSNE-2": -1.8702665567398071,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 2.205479860305786,
+        "TSNE-2": -4.4640913009643555,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 1.1182374954223633,
+        "TSNE-2": -4.594177722930908,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": -3.0142688751220703,
+        "TSNE-2": 6.793482780456543,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 1.914241075515747,
+        "TSNE-2": -1.5028318166732788,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 1.2926005125045776,
+        "TSNE-2": 4.156072616577148,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": -0.636390209197998,
+        "TSNE-2": -3.47717022895813,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 0.010764040052890778,
+        "TSNE-2": 8.563078880310059,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 0.5022475719451904,
+        "TSNE-2": -2.543511152267456,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": -2.5977730751037598,
+        "TSNE-2": -4.896217346191406,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -2.327319622039795,
+        "TSNE-2": 2.5207133293151855,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 3.191192150115967,
+        "TSNE-2": -10.445955276489258,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": -5.2538251876831055,
+        "TSNE-2": 0.7691383361816406,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": -4.972010612487793,
+        "TSNE-2": -3.767900228500366,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -2.509326457977295,
+        "TSNE-2": -1.7005360126495361,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": -2.292522430419922,
+        "TSNE-2": 0.6154382228851318,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 5.586146831512451,
+        "TSNE-2": -3.308086395263672,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": -5.2538251876831055,
+        "TSNE-2": 0.7691383361816406,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 1.3113411664962769,
+        "TSNE-2": -4.856657028198242,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 3.900892734527588,
+        "TSNE-2": -6.684722900390625,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": 0.8795081973075867,
+        "TSNE-2": 8.23702335357666,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 6.315608501434326,
+        "TSNE-2": -6.881504535675049,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": -6.909502983093262,
+        "TSNE-2": -1.8702665567398071,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": -0.035952746868133545,
+        "TSNE-2": 1.0193545818328857,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      },
+      {
+        "TSNE-1": 0.986097514629364,
+        "TSNE-2": 6.0867767333984375,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": -0.3664691150188446,
+        "TSNE-2": -9.192988395690918,
+        "cluster": 1,
+        "keywords": "capital, move, center, decision, trade"
+      },
+      {
+        "TSNE-1": -9.426302909851074,
+        "TSNE-2": 1.4015507698059082,
+        "cluster": 2,
+        "keywords": "empire, constantinople, part, vulnerable, importance"
+      },
+      {
+        "TSNE-1": 8.104379653930664,
+        "TSNE-2": 7.433559894561768,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": 2.7615647315979004,
+        "TSNE-2": 4.403012752532959,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 8.062173843383789,
+        "TSNE-2": -8.831517219543457,
+        "cluster": 4,
+        "keywords": "longer, built, old, financial, important"
+      },
+      {
+        "TSNE-1": -1.9262902736663818,
+        "TSNE-2": 3.8674418926239014,
+        "cluster": 5,
+        "keywords": "resource, military, political, shift, new"
+      },
+      {
+        "TSNE-1": 8.287678718566895,
+        "TSNE-2": 3.471653461456299,
+        "cluster": 0,
+        "keywords": "decline, roman, city, rome, western"
+      },
+      {
+        "TSNE-1": -1.9850752353668213,
+        "TSNE-2": -3.1823248863220215,
+        "cluster": 3,
+        "keywords": "economic, half, ad, constantine, eastern"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_164",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-35506 - how did constantine further the decline of the city of rome?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-fa5cc9084b274c513de7d14e229dafd0"
+  },
+  "datasets": {
+    "data-fa5cc9084b274c513de7d14e229dafd0": [
+      {
+        "TSNE-1": 3.447105646133423,
+        "TSNE-2": 8.362554550170898,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": 2.093716621398926,
+        "TSNE-2": -4.980016708374023,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": -2.324502468109131,
+        "TSNE-2": 8.242660522460938,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -4.714560508728027,
+        "TSNE-2": 5.500517845153809,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": -2.324502468109131,
+        "TSNE-2": 8.242660522460938,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -6.1418375968933105,
+        "TSNE-2": -2.4377541542053223,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": -7.247504234313965,
+        "TSNE-2": 9.02184772491455,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 4.4300618171691895,
+        "TSNE-2": -1.8854097127914429,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 0.8555643558502197,
+        "TSNE-2": -8.734479904174805,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": -8.710030555725098,
+        "TSNE-2": 5.778158664703369,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": -4.253349781036377,
+        "TSNE-2": -0.35004016757011414,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": -7.741649150848389,
+        "TSNE-2": -8.262186050415039,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": 7.249558925628662,
+        "TSNE-2": -4.338820457458496,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 3.1167469024658203,
+        "TSNE-2": 5.802696704864502,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": -8.004826545715332,
+        "TSNE-2": 10.5009765625,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 0.44424307346343994,
+        "TSNE-2": 6.634855270385742,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -3.4471778869628906,
+        "TSNE-2": -6.8672776222229,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": 4.4300618171691895,
+        "TSNE-2": -1.8854097127914429,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 6.741677761077881,
+        "TSNE-2": 7.032390117645264,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": 3.365166664123535,
+        "TSNE-2": -9.268669128417969,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": -2.3585758209228516,
+        "TSNE-2": 3.3981592655181885,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": 5.211033821105957,
+        "TSNE-2": 0.9260967969894409,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": -4.6168718338012695,
+        "TSNE-2": 2.9039132595062256,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 4.881937026977539,
+        "TSNE-2": 9.523205757141113,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": 1.7188374996185303,
+        "TSNE-2": 6.675458908081055,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": 3.3346176147460938,
+        "TSNE-2": 2.2428793907165527,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": -5.344357490539551,
+        "TSNE-2": 3.9635984897613525,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 9.144482612609863,
+        "TSNE-2": 3.385573148727417,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": -7.894811153411865,
+        "TSNE-2": 9.937979698181152,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": -6.430616855621338,
+        "TSNE-2": -2.835188865661621,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": 1.496593713760376,
+        "TSNE-2": -7.9815850257873535,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": -0.6437127590179443,
+        "TSNE-2": -4.158694744110107,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": 6.153095245361328,
+        "TSNE-2": -4.014066219329834,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 1.7183520793914795,
+        "TSNE-2": 9.976003646850586,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": 7.299256324768066,
+        "TSNE-2": -6.406323432922363,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 9.9806547164917,
+        "TSNE-2": -8.153237342834473,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 6.782177448272705,
+        "TSNE-2": -1.0733619928359985,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 9.472545623779297,
+        "TSNE-2": -5.330384254455566,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 3.333678960800171,
+        "TSNE-2": -0.2543349266052246,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 2.1818926334381104,
+        "TSNE-2": 1.493635654449463,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 4.159489631652832,
+        "TSNE-2": -4.547901630401611,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": -0.6682226657867432,
+        "TSNE-2": 6.360202312469482,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": 8.068259239196777,
+        "TSNE-2": -3.8945319652557373,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 6.073808670043945,
+        "TSNE-2": -5.761300086975098,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 8.226573944091797,
+        "TSNE-2": -8.039819717407227,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": -6.192332744598389,
+        "TSNE-2": -8.690235137939453,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": 1.2711936235427856,
+        "TSNE-2": -1.1185553073883057,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 3.4335596561431885,
+        "TSNE-2": 13.74223518371582,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": -4.253349781036377,
+        "TSNE-2": -0.35004016757011414,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 8.514068603515625,
+        "TSNE-2": -7.377630233764648,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": -2.013512134552002,
+        "TSNE-2": 1.1162705421447754,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -8.008063316345215,
+        "TSNE-2": 5.931092262268066,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 6.765347957611084,
+        "TSNE-2": -3.5285747051239014,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": -6.669996738433838,
+        "TSNE-2": -7.8858513832092285,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": 1.2926137447357178,
+        "TSNE-2": 8.490427017211914,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": -1.515018105506897,
+        "TSNE-2": 5.082914352416992,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": 6.500531196594238,
+        "TSNE-2": 5.801940441131592,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": -7.232542514801025,
+        "TSNE-2": 3.8789284229278564,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 5.223635673522949,
+        "TSNE-2": -6.382870197296143,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": -2.354515552520752,
+        "TSNE-2": 2.766549587249756,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": 11.658842086791992,
+        "TSNE-2": -4.131295680999756,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 4.60783052444458,
+        "TSNE-2": 2.865004539489746,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": -0.42307665944099426,
+        "TSNE-2": 2.5374741554260254,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -0.6437127590179443,
+        "TSNE-2": -4.158694744110107,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": 6.998601913452148,
+        "TSNE-2": 1.4707645177841187,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 4.846258640289307,
+        "TSNE-2": 4.871877193450928,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": 6.711099147796631,
+        "TSNE-2": 0.34307941794395447,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": -0.9649767875671387,
+        "TSNE-2": 10.518023490905762,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -0.8489207029342651,
+        "TSNE-2": 7.837821006774902,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -3.149552583694458,
+        "TSNE-2": 3.5932400226593018,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": 0.6825286149978638,
+        "TSNE-2": 5.536783695220947,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -3.507871150970459,
+        "TSNE-2": -6.8590240478515625,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": -1.4404449462890625,
+        "TSNE-2": -1.0187855958938599,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": -2.11747407913208,
+        "TSNE-2": 11.064784049987793,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": 7.8029465675354,
+        "TSNE-2": -1.29050612449646,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 2.8529469966888428,
+        "TSNE-2": -3.0710275173187256,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": -3.3863685131073,
+        "TSNE-2": 11.835686683654785,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      },
+      {
+        "TSNE-1": -1.4404449462890625,
+        "TSNE-2": -1.0187855958938599,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 0.23660005629062653,
+        "TSNE-2": 1.9934825897216797,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": -9.613512992858887,
+        "TSNE-2": 5.306629180908203,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 3.496943235397339,
+        "TSNE-2": 7.059622287750244,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": -7.5942463874816895,
+        "TSNE-2": -7.505188941955566,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": 11.632824897766113,
+        "TSNE-2": -4.015583515167236,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 1.4050109386444092,
+        "TSNE-2": 12.369097709655762,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": 2.1818926334381104,
+        "TSNE-2": 1.493635654449463,
+        "cluster": 5,
+        "keywords": "life, effect, blood, venom, risk"
+      },
+      {
+        "TSNE-1": 6.38209867477417,
+        "TSNE-2": 11.44413948059082,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": -8.904170989990234,
+        "TSNE-2": 0.15229278802871704,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": -8.232439041137695,
+        "TSNE-2": 0.735741138458252,
+        "cluster": 1,
+        "keywords": "cause, range, excessive, burning, affect"
+      },
+      {
+        "TSNE-1": 4.688528537750244,
+        "TSNE-2": 6.9420270919799805,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": 5.861961364746094,
+        "TSNE-2": -7.957400798797607,
+        "cluster": 0,
+        "keywords": "therapy, bee, joint, quality, patient"
+      },
+      {
+        "TSNE-1": 2.8824849128723145,
+        "TSNE-2": 4.244513988494873,
+        "cluster": 4,
+        "keywords": "individual, lead, discomfort, fear, impact"
+      },
+      {
+        "TSNE-1": -0.6437127590179443,
+        "TSNE-2": -4.158694744110107,
+        "cluster": 2,
+        "keywords": "reaction, deforestation, people, allergic, evidence"
+      },
+      {
+        "TSNE-1": -3.0435922145843506,
+        "TSNE-2": 5.028221130371094,
+        "cluster": 3,
+        "keywords": "severe, temporary, even, significantly, problematic"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_42",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-40863 - how does bee sting affect quality of life?"
+  }
+}

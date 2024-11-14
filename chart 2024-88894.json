@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-45e2a484d4601013d3e64fe4d10dab92"
+  },
+  "datasets": {
+    "data-45e2a484d4601013d3e64fe4d10dab92": [
+      {
+        "TSNE-1": 0.5087366104125977,
+        "TSNE-2": 7.375763893127441,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -4.611292362213135,
+        "TSNE-2": 3.123616933822632,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -6.1037468910217285,
+        "TSNE-2": -0.15908260643482208,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 5.3821797370910645,
+        "TSNE-2": -5.828222751617432,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": -6.1037468910217285,
+        "TSNE-2": -0.15908260643482208,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 9.032153129577637,
+        "TSNE-2": -4.456235408782959,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": -4.000416278839111,
+        "TSNE-2": -0.09189241379499435,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -2.9096031188964844,
+        "TSNE-2": -10.39918327331543,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -2.245598793029785,
+        "TSNE-2": 2.2700042724609375,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 8.770362854003906,
+        "TSNE-2": -0.45880958437919617,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": 2.4153285026550293,
+        "TSNE-2": -2.386665105819702,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": 9.63974380493164,
+        "TSNE-2": 6.722986221313477,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": 0.451158344745636,
+        "TSNE-2": -8.283071517944336,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 4.3946990966796875,
+        "TSNE-2": 0.00954972580075264,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": 7.6206488609313965,
+        "TSNE-2": 0.14518079161643982,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": 1.4926828145980835,
+        "TSNE-2": -6.243275165557861,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 11.810281753540039,
+        "TSNE-2": 0.1449211686849594,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": -2.9096031188964844,
+        "TSNE-2": -10.39918327331543,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -9.055876731872559,
+        "TSNE-2": -5.695692539215088,
+        "cluster": 5,
+        "keywords": "due, different, may, many, loss"
+      },
+      {
+        "TSNE-1": 2.1035842895507812,
+        "TSNE-2": 2.8192427158355713,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": 5.629402160644531,
+        "TSNE-2": -8.220869064331055,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": -2.9176113605499268,
+        "TSNE-2": -6.875235080718994,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -9.98415756225586,
+        "TSNE-2": 6.638819217681885,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -1.1234570741653442,
+        "TSNE-2": -10.598198890686035,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -4.974923133850098,
+        "TSNE-2": 4.676441192626953,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -10.641406059265137,
+        "TSNE-2": -3.3451051712036133,
+        "cluster": 5,
+        "keywords": "due, different, may, many, loss"
+      },
+      {
+        "TSNE-1": 4.397144794464111,
+        "TSNE-2": -5.379018306732178,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": -4.768406391143799,
+        "TSNE-2": 0.07587248086929321,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 8.416312217712402,
+        "TSNE-2": 0.4287649691104889,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": 9.259809494018555,
+        "TSNE-2": -4.397549629211426,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": -3.2995545864105225,
+        "TSNE-2": 5.715598106384277,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -6.58058500289917,
+        "TSNE-2": -7.394702911376953,
+        "cluster": 5,
+        "keywords": "due, different, may, many, loss"
+      },
+      {
+        "TSNE-1": -0.2442443072795868,
+        "TSNE-2": -8.553196907043457,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -1.714833378791809,
+        "TSNE-2": 10.723896980285645,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -3.9014322757720947,
+        "TSNE-2": -4.116759300231934,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -1.6859853267669678,
+        "TSNE-2": -3.2541720867156982,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 0.18988880515098572,
+        "TSNE-2": 1.1292465925216675,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -5.219628810882568,
+        "TSNE-2": 1.8283652067184448,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -10.69308090209961,
+        "TSNE-2": -1.1909010410308838,
+        "cluster": 5,
+        "keywords": "due, different, may, many, loss"
+      },
+      {
+        "TSNE-1": -0.8238264918327332,
+        "TSNE-2": -6.10747766494751,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 1.7311968803405762,
+        "TSNE-2": 0.4574728310108185,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": 0.6259862780570984,
+        "TSNE-2": -4.1407246589660645,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 0.6877021193504333,
+        "TSNE-2": -9.539529800415039,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 4.955046653747559,
+        "TSNE-2": -1.358219027519226,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": -1.7981113195419312,
+        "TSNE-2": -2.19203519821167,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -7.375522613525391,
+        "TSNE-2": -2.9163055419921875,
+        "cluster": 5,
+        "keywords": "due, different, may, many, loss"
+      },
+      {
+        "TSNE-1": 0.4132327735424042,
+        "TSNE-2": 4.396000385284424,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": 5.829146385192871,
+        "TSNE-2": -1.1768828630447388,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": 2.4153285026550293,
+        "TSNE-2": -2.386665105819702,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": -2.9889132976531982,
+        "TSNE-2": -3.2335097789764404,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -1.7115143537521362,
+        "TSNE-2": 2.107009172439575,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -3.585820198059082,
+        "TSNE-2": 1.6758695840835571,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -1.3328546285629272,
+        "TSNE-2": -8.218350410461426,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 9.61690902709961,
+        "TSNE-2": 6.752016067504883,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": -0.8030645847320557,
+        "TSNE-2": 10.764923095703125,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -7.353035926818848,
+        "TSNE-2": 7.8031415939331055,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -6.602373123168945,
+        "TSNE-2": 1.798118233680725,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 7.444092750549316,
+        "TSNE-2": 2.708418607711792,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": -0.9625829458236694,
+        "TSNE-2": 5.77557897567749,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": 6.036962032318115,
+        "TSNE-2": -7.402307510375977,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": 4.0149359703063965,
+        "TSNE-2": 7.05838680267334,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -0.8211562037467957,
+        "TSNE-2": -0.6924694180488586,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -1.534835934638977,
+        "TSNE-2": -0.1914760023355484,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -6.58058500289917,
+        "TSNE-2": -7.394702911376953,
+        "cluster": 5,
+        "keywords": "due, different, may, many, loss"
+      },
+      {
+        "TSNE-1": -2.8439226150512695,
+        "TSNE-2": 0.2606442868709564,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 0.003476381301879883,
+        "TSNE-2": -2.22542142868042,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -1.4342628717422485,
+        "TSNE-2": 3.8564133644104004,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": 5.427453994750977,
+        "TSNE-2": 4.827064514160156,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": 0.5508580803871155,
+        "TSNE-2": -0.763602614402771,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 4.403063774108887,
+        "TSNE-2": -7.907721996307373,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      },
+      {
+        "TSNE-1": -3.2357699871063232,
+        "TSNE-2": 3.7303552627563477,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 11.810281753540039,
+        "TSNE-2": 0.1449211686849594,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": -7.599308490753174,
+        "TSNE-2": 3.921171188354492,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -8.202187538146973,
+        "TSNE-2": -0.4159110486507416,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -0.34305834770202637,
+        "TSNE-2": 2.821301221847534,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -4.948877811431885,
+        "TSNE-2": -2.033362865447998,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 1.4226552248001099,
+        "TSNE-2": 6.609698295593262,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -7.599308490753174,
+        "TSNE-2": 3.921171188354492,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -1.3668763637542725,
+        "TSNE-2": 0.23373615741729736,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": 6.696996688842773,
+        "TSNE-2": 0.9812467098236084,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": -3.1215991973876953,
+        "TSNE-2": -8.083841323852539,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": -6.839448928833008,
+        "TSNE-2": -2.0544281005859375,
+        "cluster": 5,
+        "keywords": "due, different, may, many, loss"
+      },
+      {
+        "TSNE-1": 4.0149359703063965,
+        "TSNE-2": 7.05838680267334,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -10.188973426818848,
+        "TSNE-2": 3.817908763885498,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -0.8238264918327332,
+        "TSNE-2": -6.10747766494751,
+        "cluster": 0,
+        "keywords": "million, war, student, world, death"
+      },
+      {
+        "TSNE-1": 7.281012535095215,
+        "TSNE-2": 2.255333662033081,
+        "cluster": 1,
+        "keywords": "help, number, understand, visual, illustrate"
+      },
+      {
+        "TSNE-1": -3.1600842475891113,
+        "TSNE-2": 7.06754207611084,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": 0.8791548013687134,
+        "TSNE-2": 8.450507164001465,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -4.172284126281738,
+        "TSNE-2": 9.294038772583008,
+        "cluster": 3,
+        "keywords": "casualty, estimate, figure, exact, personnel"
+      },
+      {
+        "TSNE-1": -9.369039535522461,
+        "TSNE-2": 2.022630214691162,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -3.1484792232513428,
+        "TSNE-2": -1.2367713451385498,
+        "cluster": 2,
+        "keywords": "total, around, military, civilian, power"
+      },
+      {
+        "TSNE-1": -6.58058500289917,
+        "TSNE-2": -7.394702911376953,
+        "cluster": 5,
+        "keywords": "due, different, may, many, loss"
+      },
+      {
+        "TSNE-1": 4.049109935760498,
+        "TSNE-2": -6.7596940994262695,
+        "cluster": 4,
+        "keywords": "people, approximately, almost, information, history"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_48",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-88894 - how to help students understand number of deaths in world war 1"
+  }
+}

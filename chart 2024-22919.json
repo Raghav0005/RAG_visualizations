@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-51c8205a8e559e2fb91a4f843e71d520"
+  },
+  "datasets": {
+    "data-51c8205a8e559e2fb91a4f843e71d520": [
+      {
+        "TSNE-1": 11.580657005310059,
+        "TSNE-2": 8.036609649658203,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 15.337122917175293,
+        "TSNE-2": 4.811361789703369,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -19.30251693725586,
+        "TSNE-2": -6.63593053817749,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": -6.091355800628662,
+        "TSNE-2": 16.5500431060791,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": -19.30251693725586,
+        "TSNE-2": -6.63593053817749,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": -17.740562438964844,
+        "TSNE-2": 0.47976943850517273,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -2.25966215133667,
+        "TSNE-2": -9.655125617980957,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": -2.739431142807007,
+        "TSNE-2": -0.9875355958938599,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 0.217435821890831,
+        "TSNE-2": -20.94383430480957,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": 2.6189160346984863,
+        "TSNE-2": 4.335581302642822,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -3.595817804336548,
+        "TSNE-2": 3.8134284019470215,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -6.6442790031433105,
+        "TSNE-2": -21.78207015991211,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": -0.1938997060060501,
+        "TSNE-2": -2.1184463500976562,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": -8.819639205932617,
+        "TSNE-2": 3.2984769344329834,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -3.639183759689331,
+        "TSNE-2": 9.684371948242188,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": -5.649499893188477,
+        "TSNE-2": -0.24841906130313873,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 7.767989635467529,
+        "TSNE-2": -13.032072067260742,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": -2.739431142807007,
+        "TSNE-2": -0.9875355958938599,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -12.473247528076172,
+        "TSNE-2": 3.301881790161133,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 0.03060903027653694,
+        "TSNE-2": 4.798860549926758,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": -6.9088521003723145,
+        "TSNE-2": 14.551130294799805,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": 2.504939556121826,
+        "TSNE-2": 6.984611511230469,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": -4.440653324127197,
+        "TSNE-2": -16.053791046142578,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": -8.639564514160156,
+        "TSNE-2": -0.06993377208709717,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -0.31683218479156494,
+        "TSNE-2": 7.509858131408691,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": -6.759289741516113,
+        "TSNE-2": 5.69737434387207,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 0.718855619430542,
+        "TSNE-2": -13.346158027648926,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": -5.450656890869141,
+        "TSNE-2": -12.336191177368164,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": -2.5990958213806152,
+        "TSNE-2": -6.326963901519775,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": -10.843082427978516,
+        "TSNE-2": -18.726455688476562,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": 2.29483962059021,
+        "TSNE-2": 0.6918756365776062,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 6.58687686920166,
+        "TSNE-2": -1.4737982749938965,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 1.8263938426971436,
+        "TSNE-2": -3.3574202060699463,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": -13.04033088684082,
+        "TSNE-2": -2.248971462249756,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 8.915063858032227,
+        "TSNE-2": 4.8196306228637695,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -6.215182304382324,
+        "TSNE-2": -8.204859733581543,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": -7.382962226867676,
+        "TSNE-2": -10.603198051452637,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": 0.256498783826828,
+        "TSNE-2": 2.3569588661193848,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 3.760310649871826,
+        "TSNE-2": -6.808284282684326,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 14.134422302246094,
+        "TSNE-2": -1.9703724384307861,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -10.399559020996094,
+        "TSNE-2": 7.084522724151611,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 9.149593353271484,
+        "TSNE-2": 2.0585713386535645,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 26.08746337890625,
+        "TSNE-2": 13.368359565734863,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -6.702099323272705,
+        "TSNE-2": 3.220881938934326,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 8.014347076416016,
+        "TSNE-2": -8.010309219360352,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 16.272769927978516,
+        "TSNE-2": -8.556870460510254,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 0.20145711302757263,
+        "TSNE-2": 13.735146522521973,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": 3.3541457653045654,
+        "TSNE-2": 9.78688907623291,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": -3.595817804336548,
+        "TSNE-2": 3.8134284019470215,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -9.860978126525879,
+        "TSNE-2": -5.810704231262207,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": 10.298666000366211,
+        "TSNE-2": -0.8426700234413147,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 4.044902324676514,
+        "TSNE-2": 12.8533935546875,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": 0.7343484163284302,
+        "TSNE-2": -0.7548280954360962,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 16.272769927978516,
+        "TSNE-2": -8.556870460510254,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": -13.59375,
+        "TSNE-2": -0.7394824624061584,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -2.4341394901275635,
+        "TSNE-2": -15.074104309082031,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": -7.252305030822754,
+        "TSNE-2": -2.4881932735443115,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": 5.289834499359131,
+        "TSNE-2": 7.619778156280518,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -12.592626571655273,
+        "TSNE-2": 13.683745384216309,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": -1.4603749513626099,
+        "TSNE-2": -13.734590530395508,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": -15.180337905883789,
+        "TSNE-2": -12.143243789672852,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": 9.399242401123047,
+        "TSNE-2": 12.823211669921875,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -0.6187019944190979,
+        "TSNE-2": 9.465365409851074,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": 5.2587103843688965,
+        "TSNE-2": 1.2745717763900757,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 3.1567728519439697,
+        "TSNE-2": -1.388149380683899,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 5.317185401916504,
+        "TSNE-2": -7.97998046875,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": -9.782892227172852,
+        "TSNE-2": -9.559471130371094,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": 5.156420707702637,
+        "TSNE-2": -4.835045337677002,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 13.104293823242188,
+        "TSNE-2": 3.414259672164917,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -4.94923734664917,
+        "TSNE-2": 15.716343879699707,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": 11.167075157165527,
+        "TSNE-2": 2.1231472492218018,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 7.767989635467529,
+        "TSNE-2": -13.032072067260742,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": -5.099906921386719,
+        "TSNE-2": -4.3784332275390625,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": 0.9785923361778259,
+        "TSNE-2": -7.487688064575195,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": -8.281209945678711,
+        "TSNE-2": -8.688726425170898,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": -14.572978973388672,
+        "TSNE-2": 7.34739875793457,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -6.390918731689453,
+        "TSNE-2": 8.956403732299805,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      },
+      {
+        "TSNE-1": -5.099906921386719,
+        "TSNE-2": -4.3784332275390625,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": 8.933828353881836,
+        "TSNE-2": 14.131449699401855,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 4.41538667678833,
+        "TSNE-2": 3.997368335723877,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -10.234832763671875,
+        "TSNE-2": -0.2794761061668396,
+        "cluster": 2,
+        "keywords": "focus, often, many, successful, distraction"
+      },
+      {
+        "TSNE-1": -6.6442790031433105,
+        "TSNE-2": -21.78207015991211,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": -15.180337905883789,
+        "TSNE-2": -12.143243789672852,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": 10.149808883666992,
+        "TSNE-2": -4.094550132751465,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 14.134422302246094,
+        "TSNE-2": -1.9703724384307861,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 4.414256572723389,
+        "TSNE-2": 5.70155143737793,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 19.857969284057617,
+        "TSNE-2": 3.654611110687256,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": 2.73405122756958,
+        "TSNE-2": -15.335437774658203,
+        "cluster": 5,
+        "keywords": "cryptocurrency, without, inconceivable, life, author"
+      },
+      {
+        "TSNE-1": 8.682904243469238,
+        "TSNE-2": 8.721781730651855,
+        "cluster": 0,
+        "keywords": "market, investor, noise, decision, ignore"
+      },
+      {
+        "TSNE-1": -7.426214218139648,
+        "TSNE-2": -13.599076271057129,
+        "cluster": 1,
+        "keywords": "investment, performance, attention, mistake, emotional"
+      },
+      {
+        "TSNE-1": -0.06743815541267395,
+        "TSNE-2": -5.042912483215332,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": 6.58687686920166,
+        "TSNE-2": -1.4737982749938965,
+        "cluster": 3,
+        "keywords": "trading, avoid, plan, strategy, trader"
+      },
+      {
+        "TSNE-1": -8.556589126586914,
+        "TSNE-2": 11.94456958770752,
+        "cluster": 4,
+        "keywords": "tend, emotion, agree, pay, cause"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_228",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-22919 - do investors agree to ignore market noise?"
+  }
+}

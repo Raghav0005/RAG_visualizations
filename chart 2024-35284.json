@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-74724fddf5fec86ebe8bf3b5c1c968ce"
+  },
+  "datasets": {
+    "data-74724fddf5fec86ebe8bf3b5c1c968ce": [
+      {
+        "TSNE-1": -3.353776216506958,
+        "TSNE-2": 0.5784235596656799,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -8.719659805297852,
+        "TSNE-2": 0.007287777028977871,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": 3.433022975921631,
+        "TSNE-2": -9.91971206665039,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": -1.7692828178405762,
+        "TSNE-2": 9.910237312316895,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 3.433022975921631,
+        "TSNE-2": -9.91971206665039,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 1.3883423805236816,
+        "TSNE-2": -6.329098701477051,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": -3.3163485527038574,
+        "TSNE-2": -3.768242120742798,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -1.1394257545471191,
+        "TSNE-2": -0.7111706137657166,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -9.483916282653809,
+        "TSNE-2": -8.464093208312988,
+        "cluster": 0,
+        "keywords": "school, nan, medical, flexner, report"
+      },
+      {
+        "TSNE-1": -7.723564147949219,
+        "TSNE-2": 11.123929977416992,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": -6.725417613983154,
+        "TSNE-2": -1.2798867225646973,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": 7.896222114562988,
+        "TSNE-2": -9.62119197845459,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 3.052987813949585,
+        "TSNE-2": 1.7577165365219116,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 6.985535621643066,
+        "TSNE-2": 6.728337287902832,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -4.608586311340332,
+        "TSNE-2": 11.533061027526855,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 2.8508474826812744,
+        "TSNE-2": -0.0670238584280014,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -6.684847354888916,
+        "TSNE-2": -8.294755935668945,
+        "cluster": 0,
+        "keywords": "school, nan, medical, flexner, report"
+      },
+      {
+        "TSNE-1": -1.1394257545471191,
+        "TSNE-2": -0.7111706137657166,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -3.633713483810425,
+        "TSNE-2": 3.2661101818084717,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 0.852178692817688,
+        "TSNE-2": -3.9231131076812744,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -0.4008029103279114,
+        "TSNE-2": -9.048284530639648,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 5.306260108947754,
+        "TSNE-2": 5.487149715423584,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": 4.344366073608398,
+        "TSNE-2": 11.662812232971191,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 3.3210325241088867,
+        "TSNE-2": 7.292707443237305,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": -8.937512397766113,
+        "TSNE-2": -3.7558372020721436,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": -3.079866647720337,
+        "TSNE-2": -1.127558946609497,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -1.2668710947036743,
+        "TSNE-2": -7.221578598022461,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 1.5377517938613892,
+        "TSNE-2": 5.6003217697143555,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -6.113370895385742,
+        "TSNE-2": 12.110337257385254,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": -4.99354362487793,
+        "TSNE-2": 8.782862663269043,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": -11.141850471496582,
+        "TSNE-2": -1.7221225500106812,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": -6.52583122253418,
+        "TSNE-2": 3.176570177078247,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": 0.654500424861908,
+        "TSNE-2": 2.41025447845459,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 2.0184409618377686,
+        "TSNE-2": -2.0338821411132812,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -5.942425727844238,
+        "TSNE-2": -6.182386875152588,
+        "cluster": 0,
+        "keywords": "school, nan, medical, flexner, report"
+      },
+      {
+        "TSNE-1": 6.899733543395996,
+        "TSNE-2": -2.7313969135284424,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": 9.587454795837402,
+        "TSNE-2": 0.694938600063324,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -3.1085336208343506,
+        "TSNE-2": -5.338594913482666,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -0.11994955688714981,
+        "TSNE-2": 0.7151041030883789,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 5.77256441116333,
+        "TSNE-2": 0.2299712747335434,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -10.889243125915527,
+        "TSNE-2": 0.5841167569160461,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": 11.616631507873535,
+        "TSNE-2": 3.3242998123168945,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": 1.4162789583206177,
+        "TSNE-2": 2.7553763389587402,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -1.0116175413131714,
+        "TSNE-2": -2.763766050338745,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 8.078399658203125,
+        "TSNE-2": -1.4178497791290283,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -0.5125117897987366,
+        "TSNE-2": -12.004231452941895,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 11.919788360595703,
+        "TSNE-2": -3.846280097961426,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -3.9361133575439453,
+        "TSNE-2": 12.991942405700684,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": -6.725417613983154,
+        "TSNE-2": -1.2798867225646973,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": 4.812075614929199,
+        "TSNE-2": -3.1289772987365723,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": 7.78151798248291,
+        "TSNE-2": -8.173548698425293,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": -6.0619916915893555,
+        "TSNE-2": 11.176949501037598,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 1.4666839838027954,
+        "TSNE-2": 1.4549506902694702,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 11.108882904052734,
+        "TSNE-2": -8.322859764099121,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 1.2018163204193115,
+        "TSNE-2": -0.21267740428447723,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -0.28370532393455505,
+        "TSNE-2": -8.017227172851562,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 3.6683106422424316,
+        "TSNE-2": -0.963600754737854,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": -8.461565017700195,
+        "TSNE-2": 12.005932807922363,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": -8.387457847595215,
+        "TSNE-2": -6.590895175933838,
+        "cluster": 0,
+        "keywords": "school, nan, medical, flexner, report"
+      },
+      {
+        "TSNE-1": -2.981356382369995,
+        "TSNE-2": 6.914423942565918,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 4.4199137687683105,
+        "TSNE-2": -5.677320957183838,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": -1.0681992769241333,
+        "TSNE-2": 5.8704118728637695,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 4.256061553955078,
+        "TSNE-2": 10.069791793823242,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": -6.52583122253418,
+        "TSNE-2": 3.176570177078247,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": 11.32809066772461,
+        "TSNE-2": -0.44639045000076294,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": 0.08716090768575668,
+        "TSNE-2": 3.8181538581848145,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 10.665508270263672,
+        "TSNE-2": 0.10556982457637787,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -1.1248104572296143,
+        "TSNE-2": 1.679732084274292,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 10.61755084991455,
+        "TSNE-2": 4.457642555236816,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": 0.5790506601333618,
+        "TSNE-2": 9.924753189086914,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 6.301393985748291,
+        "TSNE-2": 3.4426183700561523,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -6.684847354888916,
+        "TSNE-2": -8.294755935668945,
+        "cluster": 0,
+        "keywords": "school, nan, medical, flexner, report"
+      },
+      {
+        "TSNE-1": 6.6261186599731445,
+        "TSNE-2": -12.926475524902344,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 0.858507513999939,
+        "TSNE-2": 12.965033531188965,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 8.208812713623047,
+        "TSNE-2": 1.7495434284210205,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -10.291580200195312,
+        "TSNE-2": -3.012730360031128,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": -1.803432822227478,
+        "TSNE-2": 3.203260660171509,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 6.6261186599731445,
+        "TSNE-2": -12.926475524902344,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 0.11308854818344116,
+        "TSNE-2": 6.495724678039551,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": 8.977967262268066,
+        "TSNE-2": -4.960148811340332,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": 3.704791784286499,
+        "TSNE-2": 5.399786949157715,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": 0.11995047330856323,
+        "TSNE-2": -13.19301700592041,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 5.122637748718262,
+        "TSNE-2": -5.952091217041016,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": 3.419928789138794,
+        "TSNE-2": 3.5939204692840576,
+        "cluster": 5,
+        "keywords": "scientific, institution, foundation, advancement, discovery"
+      },
+      {
+        "TSNE-1": 5.77256441116333,
+        "TSNE-2": 0.2299712747335434,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -8.494166374206543,
+        "TSNE-2": 9.845465660095215,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      },
+      {
+        "TSNE-1": -0.8630061149597168,
+        "TSNE-2": -15.738033294677734,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": -22.150442123413086,
+        "TSNE-2": -19.573101043701172,
+        "cluster": 0,
+        "keywords": "school, nan, medical, flexner, report"
+      },
+      {
+        "TSNE-1": 4.5729451179504395,
+        "TSNE-2": 2.4888713359832764,
+        "cluster": 1,
+        "keywords": "carnegie, health, public, philanthropic, medicine"
+      },
+      {
+        "TSNE-1": -0.3767722249031067,
+        "TSNE-2": -14.210295677185059,
+        "cluster": 3,
+        "keywords": "development, steel, growth, modern, industry"
+      },
+      {
+        "TSNE-1": -6.955479621887207,
+        "TSNE-2": -4.245825290679932,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": -6.52583122253418,
+        "TSNE-2": 3.176570177078247,
+        "cluster": 4,
+        "keywords": "education, research, reform, institute, state"
+      },
+      {
+        "TSNE-1": -0.4837430715560913,
+        "TSNE-2": 9.459139823913574,
+        "cluster": 2,
+        "keywords": "mention, text, invention, impact, andrew"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_43",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-35284 - how did andrew carnegie impact modern medicine"
+  }
+}

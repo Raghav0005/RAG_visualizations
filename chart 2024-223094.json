@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3f66db807473858bc1f4f556abf5f059"
+  },
+  "datasets": {
+    "data-3f66db807473858bc1f4f556abf5f059": [
+      {
+        "TSNE-1": 2.657017946243286,
+        "TSNE-2": -9.13231086730957,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -12.311427116394043,
+        "TSNE-2": -7.952968597412109,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -5.342710971832275,
+        "TSNE-2": -6.367054462432861,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -7.127828121185303,
+        "TSNE-2": -2.045339584350586,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -5.342710971832275,
+        "TSNE-2": -6.367054462432861,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 5.031267166137695,
+        "TSNE-2": 2.7988388538360596,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 1.6758782863616943,
+        "TSNE-2": -2.2923223972320557,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 10.377997398376465,
+        "TSNE-2": 12.695282936096191,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": 5.501045227050781,
+        "TSNE-2": 5.323258399963379,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -8.66092586517334,
+        "TSNE-2": 1.0784986019134521,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 4.8377861976623535,
+        "TSNE-2": 18.285661697387695,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": -7.017205238342285,
+        "TSNE-2": 4.975305080413818,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": 9.149726867675781,
+        "TSNE-2": 11.076634407043457,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": -13.42666244506836,
+        "TSNE-2": 1.781789779663086,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 6.769407749176025,
+        "TSNE-2": -13.104390144348145,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 2.3034846782684326,
+        "TSNE-2": 7.945207118988037,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -0.7148645520210266,
+        "TSNE-2": -8.431260108947754,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 10.377997398376465,
+        "TSNE-2": 12.695282936096191,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": 0.45823365449905396,
+        "TSNE-2": 4.7432661056518555,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -2.4840567111968994,
+        "TSNE-2": 2.758594274520874,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -7.221829414367676,
+        "TSNE-2": 10.786894798278809,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": -0.6920527815818787,
+        "TSNE-2": 2.5554580688476562,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -11.416029930114746,
+        "TSNE-2": 9.283329963684082,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": 6.225649833679199,
+        "TSNE-2": -2.922722339630127,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": 10.762882232666016,
+        "TSNE-2": 7.232759475708008,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": 13.858602523803711,
+        "TSNE-2": 0.792583703994751,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": -9.986233711242676,
+        "TSNE-2": 2.655982255935669,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -0.0972682535648346,
+        "TSNE-2": -1.8948768377304077,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -8.350627899169922,
+        "TSNE-2": 15.558513641357422,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": 3.50936222076416,
+        "TSNE-2": 3.7913079261779785,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 5.720749855041504,
+        "TSNE-2": 6.927769660949707,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -3.397958517074585,
+        "TSNE-2": 5.723650932312012,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 8.08253288269043,
+        "TSNE-2": 13.388632774353027,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": -12.723039627075195,
+        "TSNE-2": -3.2580788135528564,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -0.7863433957099915,
+        "TSNE-2": 7.079580307006836,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -3.972421169281006,
+        "TSNE-2": -10.383461952209473,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 12.739042282104492,
+        "TSNE-2": -7.053871154785156,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": 5.6539306640625,
+        "TSNE-2": -6.035918712615967,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -14.629034042358398,
+        "TSNE-2": 5.248692989349365,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": 8.150721549987793,
+        "TSNE-2": 0.01654612272977829,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": 1.5398138761520386,
+        "TSNE-2": 14.210399627685547,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": 2.568868398666382,
+        "TSNE-2": 1.8612271547317505,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 5.560987949371338,
+        "TSNE-2": 12.888849258422852,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": 9.29308795928955,
+        "TSNE-2": -3.440347194671631,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": -9.387373924255371,
+        "TSNE-2": -6.119843006134033,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 8.236896514892578,
+        "TSNE-2": -8.750492095947266,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -7.681912422180176,
+        "TSNE-2": -9.299448013305664,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -1.4404563903808594,
+        "TSNE-2": -2.710364580154419,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 4.8377861976623535,
+        "TSNE-2": 18.285661697387695,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": -1.9507277011871338,
+        "TSNE-2": -5.624582290649414,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -3.1559720039367676,
+        "TSNE-2": 14.184935569763184,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": -8.33752155303955,
+        "TSNE-2": -2.4182047843933105,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 6.099118232727051,
+        "TSNE-2": 11.726641654968262,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": 8.236896514892578,
+        "TSNE-2": -8.750492095947266,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 3.116694927215576,
+        "TSNE-2": -11.940386772155762,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -9.54111385345459,
+        "TSNE-2": 14.4732666015625,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": 0.8996124267578125,
+        "TSNE-2": 10.421173095703125,
+        "cluster": 2,
+        "keywords": "information, document, issue, discus, association"
+      },
+      {
+        "TSNE-1": -0.026715993881225586,
+        "TSNE-2": -16.906925201416016,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 16.816192626953125,
+        "TSNE-2": 4.22209358215332,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": -8.1305513381958,
+        "TSNE-2": 11.311651229858398,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": 2.834136486053467,
+        "TSNE-2": -6.553857803344727,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 7.9277262687683105,
+        "TSNE-2": 4.445460796356201,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": -16.750890731811523,
+        "TSNE-2": -0.2562662363052368,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 0.8086545467376709,
+        "TSNE-2": 0.4018362760543823,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -3.0526678562164307,
+        "TSNE-2": 0.5109742879867554,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -15.779062271118164,
+        "TSNE-2": -5.377010822296143,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -5.415582180023193,
+        "TSNE-2": 0.2490653246641159,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -0.5181153416633606,
+        "TSNE-2": -12.62187671661377,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 14.622903823852539,
+        "TSNE-2": 6.138687610626221,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": 3.6153225898742676,
+        "TSNE-2": -0.5221407413482666,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -10.610276222229004,
+        "TSNE-2": 5.947587013244629,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": -1.7412223815917969,
+        "TSNE-2": -8.143232345581055,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -6.789848804473877,
+        "TSNE-2": -13.720495223999023,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 12.983259201049805,
+        "TSNE-2": -1.4957551956176758,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": -3.9597370624542236,
+        "TSNE-2": -1.7757705450057983,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": -11.936156272888184,
+        "TSNE-2": -11.654388427734375,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 13.773797988891602,
+        "TSNE-2": -3.529327154159546,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": -6.789848804473877,
+        "TSNE-2": -13.720495223999023,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -2.002002239227295,
+        "TSNE-2": 13.320626258850098,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": -7.159708023071289,
+        "TSNE-2": -3.8918869495391846,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 10.519283294677734,
+        "TSNE-2": 2.415363311767578,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": -7.017205238342285,
+        "TSNE-2": 4.975305080413818,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": 2.9265198707580566,
+        "TSNE-2": -5.561356544494629,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -11.187498092651367,
+        "TSNE-2": -0.7875691652297974,
+        "cluster": 4,
+        "keywords": "lack, due, understaffed, high, financial"
+      },
+      {
+        "TSNE-1": 8.150721549987793,
+        "TSNE-2": 0.01654612272977829,
+        "cluster": 3,
+        "keywords": "safety, directly, may, systemic, despite"
+      },
+      {
+        "TSNE-1": -3.529921531677246,
+        "TSNE-2": 9.3364896774292,
+        "cluster": 5,
+        "keywords": "budget, topic, mention, properly, reserve"
+      },
+      {
+        "TSNE-1": -5.510232448577881,
+        "TSNE-2": 3.3046765327453613,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 4.5419793128967285,
+        "TSNE-2": -16.1190185546875,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": 1.991187334060669,
+        "TSNE-2": 6.322659492492676,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": -0.7573541402816772,
+        "TSNE-2": -0.13668307662010193,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 11.531949043273926,
+        "TSNE-2": -11.529302597045898,
+        "cluster": 1,
+        "keywords": "rail, lead, fra, railroad, agency"
+      },
+      {
+        "TSNE-1": -3.397958517074585,
+        "TSNE-2": 5.723650932312012,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      },
+      {
+        "TSNE-1": 3.545502185821533,
+        "TSNE-2": -1.6431502103805542,
+        "cluster": 0,
+        "keywords": "nursing, home, nurse, facility, reason"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_232",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-223094 - why is the fra understaffed?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7a796ab29699f86993ff22132586f8e2"
+  },
+  "datasets": {
+    "data-7a796ab29699f86993ff22132586f8e2": [
+      {
+        "TSNE-1": -1.7265902757644653,
+        "TSNE-2": 2.430060863494873,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": 1.359317421913147,
+        "TSNE-2": 0.519236147403717,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -1.4216718673706055,
+        "TSNE-2": -11.179195404052734,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -3.9190971851348877,
+        "TSNE-2": -5.015170574188232,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -1.4216718673706055,
+        "TSNE-2": -11.179195404052734,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": 9.532422065734863,
+        "TSNE-2": 4.265569686889648,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": 6.465249538421631,
+        "TSNE-2": -6.637779235839844,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": 1.0469638109207153,
+        "TSNE-2": -1.7290068864822388,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": 0.1132989376783371,
+        "TSNE-2": 6.099245548248291,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": 2.365992546081543,
+        "TSNE-2": -8.181938171386719,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": 2.9714934825897217,
+        "TSNE-2": 1.3864190578460693,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": 3.281672954559326,
+        "TSNE-2": -11.449080467224121,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -8.461958885192871,
+        "TSNE-2": 2.8184914588928223,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -2.013106107711792,
+        "TSNE-2": -6.346319198608398,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -5.751873970031738,
+        "TSNE-2": -8.521293640136719,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -0.22763611376285553,
+        "TSNE-2": 2.0428459644317627,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -4.052309036254883,
+        "TSNE-2": 9.784416198730469,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": 1.0469638109207153,
+        "TSNE-2": -1.7290068864822388,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -3.362821102142334,
+        "TSNE-2": 1.0967459678649902,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 5.046548366546631,
+        "TSNE-2": -2.3660950660705566,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": 10.436561584472656,
+        "TSNE-2": -3.171342611312866,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": 3.059300422668457,
+        "TSNE-2": -2.439340114593506,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": 10.386768341064453,
+        "TSNE-2": -3.0695369243621826,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": 2.7597272396087646,
+        "TSNE-2": 6.851818084716797,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": -6.572211265563965,
+        "TSNE-2": 4.7890625,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -5.964232921600342,
+        "TSNE-2": 0.919684112071991,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -3.1735801696777344,
+        "TSNE-2": -5.435765743255615,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 6.778356075286865,
+        "TSNE-2": -6.846770763397217,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": 2.1844685077667236,
+        "TSNE-2": -7.891144275665283,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -2.913839101791382,
+        "TSNE-2": -12.657452583312988,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": 0.28806227445602417,
+        "TSNE-2": 6.40716552734375,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": 7.046065330505371,
+        "TSNE-2": -1.5073803663253784,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": -8.77976131439209,
+        "TSNE-2": 1.0862399339675903,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -1.2928003072738647,
+        "TSNE-2": -0.012562016025185585,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -5.552973747253418,
+        "TSNE-2": 6.998948097229004,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -6.309905529022217,
+        "TSNE-2": 7.111629962921143,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -6.04765510559082,
+        "TSNE-2": -1.2357404232025146,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 9.501982688903809,
+        "TSNE-2": 2.504821538925171,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": -4.929672718048096,
+        "TSNE-2": 3.3465170860290527,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -4.474732398986816,
+        "TSNE-2": -0.5413458347320557,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 1.6886589527130127,
+        "TSNE-2": 3.127906322479248,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -2.0794565677642822,
+        "TSNE-2": -1.5574322938919067,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -9.350606918334961,
+        "TSNE-2": 2.134424924850464,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": 5.335299015045166,
+        "TSNE-2": 4.628305435180664,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": -2.5253593921661377,
+        "TSNE-2": -3.7632346153259277,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 6.854030609130859,
+        "TSNE-2": 10.78012466430664,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": 1.0174560546875,
+        "TSNE-2": 11.079505920410156,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": -1.304662823677063,
+        "TSNE-2": 8.04909610748291,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": 2.9714934825897217,
+        "TSNE-2": 1.3864190578460693,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -8.558024406433105,
+        "TSNE-2": 6.682952880859375,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -0.5803067684173584,
+        "TSNE-2": 3.9832241535186768,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -3.9818992614746094,
+        "TSNE-2": -7.324194431304932,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -8.227858543395996,
+        "TSNE-2": 1.8871077299118042,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": 6.854030609130859,
+        "TSNE-2": 10.78012466430664,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": -1.999790906906128,
+        "TSNE-2": 0.9346194267272949,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -2.7937703132629395,
+        "TSNE-2": 4.608612537384033,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": 0.625438392162323,
+        "TSNE-2": 2.1671054363250732,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -6.511711597442627,
+        "TSNE-2": -8.339325904846191,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -4.204165458679199,
+        "TSNE-2": -2.4142441749572754,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -2.3989453315734863,
+        "TSNE-2": 4.257184982299805,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -4.568694114685059,
+        "TSNE-2": -11.615106582641602,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": 3.896925926208496,
+        "TSNE-2": -4.750328063964844,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": -0.9097079634666443,
+        "TSNE-2": -3.1491641998291016,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 1.1812859773635864,
+        "TSNE-2": 10.803590774536133,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": -5.5235161781311035,
+        "TSNE-2": -2.791424512863159,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -5.435698509216309,
+        "TSNE-2": 4.124502658843994,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -7.919498443603516,
+        "TSNE-2": 6.832010269165039,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": 2.6619789600372314,
+        "TSNE-2": -0.3801790475845337,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -0.787995457649231,
+        "TSNE-2": -2.22409987449646,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -12.3597412109375,
+        "TSNE-2": 0.9096596240997314,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -2.655010223388672,
+        "TSNE-2": -1.3751580715179443,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -4.052309036254883,
+        "TSNE-2": 9.784416198730469,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": 7.114100456237793,
+        "TSNE-2": 1.7584643363952637,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": 0.09157881885766983,
+        "TSNE-2": -4.322781562805176,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 4.988913536071777,
+        "TSNE-2": 6.228132247924805,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": -7.452668190002441,
+        "TSNE-2": 9.338236808776855,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -7.850133419036865,
+        "TSNE-2": -3.269176959991455,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 7.114100456237793,
+        "TSNE-2": 1.7584643363952637,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": 4.402561187744141,
+        "TSNE-2": 2.3889105319976807,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": -5.443470001220703,
+        "TSNE-2": -7.342815399169922,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": 2.6078901290893555,
+        "TSNE-2": 5.1189866065979,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": 3.229462146759033,
+        "TSNE-2": -11.435564994812012,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -4.894232749938965,
+        "TSNE-2": -11.415956497192383,
+        "cluster": 3,
+        "keywords": "document, identity, entire, mountain, brought"
+      },
+      {
+        "TSNE-1": -6.116891860961914,
+        "TSNE-2": 1.9886363744735718,
+        "cluster": 0,
+        "keywords": "road, alpine, tourism, access, visitor"
+      },
+      {
+        "TSNE-1": -4.474732398986816,
+        "TSNE-2": -0.5413458347320557,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -8.929986000061035,
+        "TSNE-2": -6.324164867401123,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": 5.889739990234375,
+        "TSNE-2": 8.763998031616211,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      },
+      {
+        "TSNE-1": -7.6096062660217285,
+        "TSNE-2": -3.8808155059814453,
+        "cluster": 1,
+        "keywords": "tourist, alp, environmental, winter, world"
+      },
+      {
+        "TSNE-1": -0.8191956281661987,
+        "TSNE-2": 0.8045454621315002,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": 4.864824295043945,
+        "TSNE-2": -4.163686275482178,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": 3.542762517929077,
+        "TSNE-2": -1.9332753419876099,
+        "cluster": 4,
+        "keywords": "resort, ski, summer, due, snow"
+      },
+      {
+        "TSNE-1": 7.046065330505371,
+        "TSNE-2": -1.5073803663253784,
+        "cluster": 5,
+        "keywords": "text, area, provide, turnover, context"
+      },
+      {
+        "TSNE-1": 8.767955780029297,
+        "TSNE-2": 5.76847505569458,
+        "cluster": 2,
+        "keywords": "route, scenic, tundra, activity, offer"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_186",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-44048 - how has tourism on the alpine road changed?"
+  }
+}

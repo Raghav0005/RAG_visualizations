@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-5d004d76a7ff4fc5b7e2fb1478ad47ae"
+  },
+  "datasets": {
+    "data-5d004d76a7ff4fc5b7e2fb1478ad47ae": [
+      {
+        "TSNE-1": -3.0372138023376465,
+        "TSNE-2": 5.215400695800781,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 0.9835123419761658,
+        "TSNE-2": 6.908180236816406,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": 11.915791511535645,
+        "TSNE-2": 5.998788356781006,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": 9.378490447998047,
+        "TSNE-2": -8.701502799987793,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": 11.915791511535645,
+        "TSNE-2": 5.998788356781006,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": 6.7730302810668945,
+        "TSNE-2": -0.07196853309869766,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": 3.1055424213409424,
+        "TSNE-2": 12.281641960144043,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -8.379443168640137,
+        "TSNE-2": 0.7984172701835632,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 2.4973087310791016,
+        "TSNE-2": 3.828831434249878,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": 10.24319076538086,
+        "TSNE-2": -0.12379884719848633,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": -0.052079491317272186,
+        "TSNE-2": 14.735350608825684,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -5.08768892288208,
+        "TSNE-2": -10.058284759521484,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": 2.5000648498535156,
+        "TSNE-2": -2.9510786533355713,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": -6.323447227478027,
+        "TSNE-2": 4.881302833557129,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 9.644822120666504,
+        "TSNE-2": -5.435200214385986,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": 2.9988620281219482,
+        "TSNE-2": -11.85452938079834,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": 3.1373462677001953,
+        "TSNE-2": -6.373395919799805,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": -8.379443168640137,
+        "TSNE-2": 0.7984172701835632,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -6.631454944610596,
+        "TSNE-2": 8.941457748413086,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -11.772022247314453,
+        "TSNE-2": -3.518861770629883,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -10.320059776306152,
+        "TSNE-2": 5.747690200805664,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -1.4223885536193848,
+        "TSNE-2": 5.244569301605225,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -0.18983317911624908,
+        "TSNE-2": 1.9936325550079346,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -9.57751178741455,
+        "TSNE-2": -14.108298301696777,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -3.6195006370544434,
+        "TSNE-2": -5.9816365242004395,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": 1.890735149383545,
+        "TSNE-2": -1.205770492553711,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": 8.104930877685547,
+        "TSNE-2": -7.289974212646484,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": 2.6383256912231445,
+        "TSNE-2": 11.874316215515137,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": 10.043628692626953,
+        "TSNE-2": -6.915953636169434,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": -5.504366397857666,
+        "TSNE-2": -2.4472203254699707,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": 1.9703220129013062,
+        "TSNE-2": 4.263176918029785,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": -11.95132827758789,
+        "TSNE-2": -6.7106523513793945,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": 3.210151433944702,
+        "TSNE-2": -2.4190773963928223,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": -0.667129397392273,
+        "TSNE-2": -9.731338500976562,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": 8.503994941711426,
+        "TSNE-2": 3.767005681991577,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": -5.468649864196777,
+        "TSNE-2": 13.120895385742188,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -0.31493186950683594,
+        "TSNE-2": -5.87278413772583,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": 10.41466236114502,
+        "TSNE-2": 7.273632526397705,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": -4.110986232757568,
+        "TSNE-2": 4.641861915588379,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -4.135926246643066,
+        "TSNE-2": -4.281075477600098,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": 0.9059875011444092,
+        "TSNE-2": 5.761115074157715,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -4.092044830322266,
+        "TSNE-2": 0.07667868584394455,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 2.772418737411499,
+        "TSNE-2": -0.6805830001831055,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": 5.206184387207031,
+        "TSNE-2": 0.8028435707092285,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": -4.894584655761719,
+        "TSNE-2": 13.37469482421875,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -7.088377952575684,
+        "TSNE-2": -5.083669185638428,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -12.380316734313965,
+        "TSNE-2": -4.342109203338623,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": 10.990666389465332,
+        "TSNE-2": -5.5370774269104,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": -0.052079491317272186,
+        "TSNE-2": 14.735350608825684,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": 5.212488651275635,
+        "TSNE-2": 3.9731671810150146,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": -1.6623656749725342,
+        "TSNE-2": 10.013139724731445,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": 10.24319076538086,
+        "TSNE-2": -0.12379884719848633,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": 0.732910692691803,
+        "TSNE-2": -2.224214792251587,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": -5.312714576721191,
+        "TSNE-2": -9.160433769226074,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -0.5587489008903503,
+        "TSNE-2": -9.089760780334473,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": -0.5372654795646667,
+        "TSNE-2": 2.788417339324951,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 3.234346866607666,
+        "TSNE-2": -11.260379791259766,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": 7.143407344818115,
+        "TSNE-2": -2.781459093093872,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": -6.493714332580566,
+        "TSNE-2": -3.776845693588257,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -9.882695198059082,
+        "TSNE-2": 5.367664813995361,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 5.832840442657471,
+        "TSNE-2": 10.214881896972656,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -1.89719820022583,
+        "TSNE-2": -0.16010074317455292,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": -2.3980002403259277,
+        "TSNE-2": -0.9519301056861877,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": -10.071882247924805,
+        "TSNE-2": -6.896544456481934,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -0.47540798783302307,
+        "TSNE-2": -5.237184524536133,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": -2.804121494293213,
+        "TSNE-2": 3.689098834991455,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -0.4494116008281708,
+        "TSNE-2": 7.689826011657715,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -10.470603942871094,
+        "TSNE-2": -9.002455711364746,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -4.176074504852295,
+        "TSNE-2": 1.4992766380310059,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 7.788407325744629,
+        "TSNE-2": -6.392053127288818,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": -3.3088810443878174,
+        "TSNE-2": 0.6350701451301575,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 3.1373462677001953,
+        "TSNE-2": -6.373395919799805,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": 6.4904046058654785,
+        "TSNE-2": 7.049335956573486,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": 9.083907127380371,
+        "TSNE-2": 9.479511260986328,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": -3.346381664276123,
+        "TSNE-2": 7.287426471710205,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": 2.8508009910583496,
+        "TSNE-2": 0.7847182750701904,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": 6.7193603515625,
+        "TSNE-2": 1.3248027563095093,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": 6.4904046058654785,
+        "TSNE-2": 7.049335956573486,
+        "cluster": 0,
+        "keywords": "mental, disorder, health, reference, found"
+      },
+      {
+        "TSNE-1": -2.173679828643799,
+        "TSNE-2": 10.481115341186523,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": 10.307777404785156,
+        "TSNE-2": -3.8238675594329834,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": -6.564595699310303,
+        "TSNE-2": 4.227336883544922,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -5.22629451751709,
+        "TSNE-2": -6.857783794403076,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": 5.832840442657471,
+        "TSNE-2": 10.214881896972656,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -5.685418128967285,
+        "TSNE-2": -5.483094692230225,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -4.135926246643066,
+        "TSNE-2": -4.281075477600098,
+        "cluster": 3,
+        "keywords": "context, baker, provide, document, answer"
+      },
+      {
+        "TSNE-1": 6.855357646942139,
+        "TSNE-2": -3.514867067337036,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      },
+      {
+        "TSNE-1": 2.7326161861419678,
+        "TSNE-2": 7.695377826690674,
+        "cluster": 2,
+        "keywords": "diagnosis, victim, someone, ptsd, information"
+      },
+      {
+        "TSNE-1": -9.665338516235352,
+        "TSNE-2": -13.502974510192871,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -7.165874481201172,
+        "TSNE-2": 8.538737297058105,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -7.815051555633545,
+        "TSNE-2": -3.114063262939453,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": -5.093326568603516,
+        "TSNE-2": 7.5163421630859375,
+        "cluster": 4,
+        "keywords": "social, support, rapoza, socioeconomic, individual"
+      },
+      {
+        "TSNE-1": -11.95132827758789,
+        "TSNE-2": -6.7106523513793945,
+        "cluster": 1,
+        "keywords": "act, nan, mind, florida, person"
+      },
+      {
+        "TSNE-1": 7.077840328216553,
+        "TSNE-2": -7.7052106857299805,
+        "cluster": 5,
+        "keywords": "mention, text, anything, specific, collection"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_115",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-133810 - what did rapoza and baker find in mental health"
+  }
+}

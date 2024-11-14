@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-f0427c08d01f3b76638a029acfe86a44"
+  },
+  "datasets": {
+    "data-f0427c08d01f3b76638a029acfe86a44": [
+      {
+        "TSNE-1": -5.134024620056152,
+        "TSNE-2": -5.986876010894775,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 12.056751251220703,
+        "TSNE-2": -2.3339860439300537,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": -2.6789321899414062,
+        "TSNE-2": 2.999675750732422,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -6.214109420776367,
+        "TSNE-2": 3.6014633178710938,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -2.6789321899414062,
+        "TSNE-2": 2.999675750732422,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -0.15567097067832947,
+        "TSNE-2": 2.6537210941314697,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": 9.154827117919922,
+        "TSNE-2": -4.246398448944092,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": 2.700728178024292,
+        "TSNE-2": -4.896145343780518,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": -3.29025936126709,
+        "TSNE-2": 10.106086730957031,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 4.4359211921691895,
+        "TSNE-2": -8.849784851074219,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": -0.6941059231758118,
+        "TSNE-2": 7.983963489532471,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 3.6345882415771484,
+        "TSNE-2": 1.7741488218307495,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -2.2359485626220703,
+        "TSNE-2": -2.6999547481536865,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": -6.711549758911133,
+        "TSNE-2": -7.807095527648926,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": -7.111645221710205,
+        "TSNE-2": 7.27524995803833,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 9.580526351928711,
+        "TSNE-2": 1.384549856185913,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": 5.8194990158081055,
+        "TSNE-2": -2.8204119205474854,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": -3.382612466812134,
+        "TSNE-2": -2.0344738960266113,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 10.126648902893066,
+        "TSNE-2": 2.7604258060455322,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": -0.6091078519821167,
+        "TSNE-2": -7.579484462738037,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": -6.532081604003906,
+        "TSNE-2": 5.842250823974609,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 4.618827819824219,
+        "TSNE-2": 3.2898097038269043,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -6.847014427185059,
+        "TSNE-2": 4.297651290893555,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -4.931329727172852,
+        "TSNE-2": -8.885041236877441,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 1.2360731363296509,
+        "TSNE-2": -2.5411500930786133,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -0.6820557117462158,
+        "TSNE-2": -3.9344069957733154,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": -6.4888176918029785,
+        "TSNE-2": 1.7689216136932373,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 9.478449821472168,
+        "TSNE-2": -4.507423400878906,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": -9.54619026184082,
+        "TSNE-2": 5.417920112609863,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 1.4479185342788696,
+        "TSNE-2": 2.865898370742798,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -3.3742620944976807,
+        "TSNE-2": 8.463038444519043,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 1.9540188312530518,
+        "TSNE-2": -0.8495517373085022,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -1.4407871961593628,
+        "TSNE-2": -2.4561946392059326,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 8.651695251464844,
+        "TSNE-2": -1.2847808599472046,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": 2.371922731399536,
+        "TSNE-2": 1.1314878463745117,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": 5.810604572296143,
+        "TSNE-2": 7.114540100097656,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 0.22487962245941162,
+        "TSNE-2": -6.073421478271484,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": -7.265622138977051,
+        "TSNE-2": -3.4652228355407715,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 1.5482386350631714,
+        "TSNE-2": 7.037359237670898,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 0.2364148646593094,
+        "TSNE-2": 4.889335632324219,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": -1.1939030885696411,
+        "TSNE-2": 0.39675232768058777,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": 7.515597820281982,
+        "TSNE-2": 3.5693717002868652,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": -1.1792895793914795,
+        "TSNE-2": -3.1133148670196533,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": -2.0457990169525146,
+        "TSNE-2": -4.847696304321289,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 4.452375411987305,
+        "TSNE-2": 6.862802505493164,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 3.6630516052246094,
+        "TSNE-2": 4.359737396240234,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": -4.586258411407471,
+        "TSNE-2": 4.864882469177246,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -11.401823043823242,
+        "TSNE-2": 0.42932572960853577,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -0.8764097094535828,
+        "TSNE-2": 7.997298717498779,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 6.650856971740723,
+        "TSNE-2": 8.116103172302246,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 5.483230113983154,
+        "TSNE-2": -0.8497292399406433,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": 4.438793182373047,
+        "TSNE-2": -8.479557991027832,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": -2.341928720474243,
+        "TSNE-2": -1.8659441471099854,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 2.9987902641296387,
+        "TSNE-2": 2.764523983001709,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": 10.668800354003906,
+        "TSNE-2": 1.0384182929992676,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": -8.065556526184082,
+        "TSNE-2": 1.8489108085632324,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 11.978150367736816,
+        "TSNE-2": 1.7249598503112793,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": -9.8523588180542,
+        "TSNE-2": 3.6507084369659424,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -4.521469593048096,
+        "TSNE-2": 1.585763931274414,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -7.768164157867432,
+        "TSNE-2": 1.0903644561767578,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -10.576362609863281,
+        "TSNE-2": -1.2461997270584106,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 4.158539295196533,
+        "TSNE-2": -1.8142181634902954,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": 3.593959093093872,
+        "TSNE-2": 0.6099036931991577,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -1.041607141494751,
+        "TSNE-2": -8.297612190246582,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 0.9874959588050842,
+        "TSNE-2": -6.252198219299316,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 7.068680286407471,
+        "TSNE-2": 0.31233057379722595,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": 1.537331461906433,
+        "TSNE-2": -7.240726470947266,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": -3.5875065326690674,
+        "TSNE-2": -4.083280086517334,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 7.442836761474609,
+        "TSNE-2": 4.015426158905029,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": -5.761474609375,
+        "TSNE-2": 3.371406316757202,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 3.972569704055786,
+        "TSNE-2": -3.0402274131774902,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": 5.8194990158081055,
+        "TSNE-2": -2.8204119205474854,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": 2.527526378631592,
+        "TSNE-2": 11.342548370361328,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 6.191521167755127,
+        "TSNE-2": 1.918249487876892,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": 6.575711727142334,
+        "TSNE-2": 6.323927879333496,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 3.5378496646881104,
+        "TSNE-2": 8.131025314331055,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": -4.126471519470215,
+        "TSNE-2": -0.39606404304504395,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 2.527526378631592,
+        "TSNE-2": 11.342548370361328,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": 4.147622585296631,
+        "TSNE-2": -0.2714765965938568,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -5.994474411010742,
+        "TSNE-2": -2.915031909942627,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": -4.068975925445557,
+        "TSNE-2": -8.146749496459961,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 3.6345882415771484,
+        "TSNE-2": 1.7741488218307495,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -10.576362609863281,
+        "TSNE-2": -1.2461997270584106,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": -4.608433723449707,
+        "TSNE-2": -5.937625885009766,
+        "cluster": 1,
+        "keywords": "organization, source, public, trustworthy, methodology"
+      },
+      {
+        "TSNE-1": 0.2364148646593094,
+        "TSNE-2": 4.889335632324219,
+        "cluster": 5,
+        "keywords": "us, credibility, least, reporting, polling"
+      },
+      {
+        "TSNE-1": -9.865654945373535,
+        "TSNE-2": 2.634051561355591,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      },
+      {
+        "TSNE-1": 4.875019550323486,
+        "TSNE-2": 0.8745071291923523,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": 5.985919952392578,
+        "TSNE-2": -10.492212295532227,
+        "cluster": 4,
+        "keywords": "excellent, factual, due, high, reliable"
+      },
+      {
+        "TSNE-1": 9.177630424499512,
+        "TSNE-2": 0.9687554836273193,
+        "cluster": 3,
+        "keywords": "rate, many, significantly, regard, despite"
+      },
+      {
+        "TSNE-1": 0.981734037399292,
+        "TSNE-2": 1.106260895729065,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -0.44340696930885315,
+        "TSNE-2": -1.1385161876678467,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": 1.9540188312530518,
+        "TSNE-2": -0.8495517373085022,
+        "cluster": 0,
+        "keywords": "research, survey, pew, center, opinion"
+      },
+      {
+        "TSNE-1": -6.726746082305908,
+        "TSNE-2": 8.590438842773438,
+        "cluster": 2,
+        "keywords": "fact, information, demographic, social, state"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_211",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-109837 - is pew research trustworthy"
+  }
+}

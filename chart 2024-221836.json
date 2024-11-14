@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-4d3679e411fe2e371cbf2b48a6620d0e"
+  },
+  "datasets": {
+    "data-4d3679e411fe2e371cbf2b48a6620d0e": [
+      {
+        "TSNE-1": -1.4711613655090332,
+        "TSNE-2": -3.2881686687469482,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -0.8113148808479309,
+        "TSNE-2": 2.6771934032440186,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -11.533434867858887,
+        "TSNE-2": 7.129533767700195,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": 3.597531795501709,
+        "TSNE-2": 1.6132512092590332,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": -11.533434867858887,
+        "TSNE-2": 7.129533767700195,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": 6.2461838722229,
+        "TSNE-2": -4.750693321228027,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": -12.221031188964844,
+        "TSNE-2": -6.206167697906494,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": 1.5718543529510498,
+        "TSNE-2": 8.439212799072266,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -3.401143789291382,
+        "TSNE-2": 12.031828880310059,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": 9.018553733825684,
+        "TSNE-2": 1.083900809288025,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": 8.042441368103027,
+        "TSNE-2": -12.106350898742676,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": -7.5745744705200195,
+        "TSNE-2": 0.6870790719985962,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -2.944227695465088,
+        "TSNE-2": -6.387713432312012,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 14.857013702392578,
+        "TSNE-2": -6.5644073486328125,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 3.493250608444214,
+        "TSNE-2": -12.95379638671875,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 5.136186599731445,
+        "TSNE-2": 5.684800624847412,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -7.714344501495361,
+        "TSNE-2": -5.046319961547852,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": 1.5718543529510498,
+        "TSNE-2": 8.439212799072266,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": 4.922249794006348,
+        "TSNE-2": 9.964831352233887,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -4.539305210113525,
+        "TSNE-2": -0.10859821736812592,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 1.9563108682632446,
+        "TSNE-2": 4.2025604248046875,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -2.8401427268981934,
+        "TSNE-2": 2.747225522994995,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 7.516444206237793,
+        "TSNE-2": 0.07563000917434692,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": -4.106354713439941,
+        "TSNE-2": -10.903670310974121,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -7.568360805511475,
+        "TSNE-2": -8.216662406921387,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": 2.1921932697296143,
+        "TSNE-2": 11.204208374023438,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -13.183649063110352,
+        "TSNE-2": 4.072216033935547,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -3.8851373195648193,
+        "TSNE-2": -2.4007046222686768,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 2.800847053527832,
+        "TSNE-2": -14.372133255004883,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 4.013602256774902,
+        "TSNE-2": -5.790774345397949,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": -4.821657657623291,
+        "TSNE-2": 12.470279693603516,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -0.9793636202812195,
+        "TSNE-2": -0.5651407241821289,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -1.7164702415466309,
+        "TSNE-2": -7.221865177154541,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -10.520045280456543,
+        "TSNE-2": 11.028050422668457,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -3.4226043224334717,
+        "TSNE-2": 8.315532684326172,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -4.703953742980957,
+        "TSNE-2": 5.46758508682251,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -13.707282066345215,
+        "TSNE-2": -1.842527985572815,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": -2.312742233276367,
+        "TSNE-2": 4.8192925453186035,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -12.504900932312012,
+        "TSNE-2": -10.475658416748047,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": 7.937954425811768,
+        "TSNE-2": 8.931200981140137,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -2.8703057765960693,
+        "TSNE-2": 1.2524269819259644,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -1.2351279258728027,
+        "TSNE-2": 7.535033702850342,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -1.7934118509292603,
+        "TSNE-2": -8.772104263305664,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 10.669304847717285,
+        "TSNE-2": 11.569713592529297,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": 2.8882853984832764,
+        "TSNE-2": -1.9507980346679688,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 9.737323760986328,
+        "TSNE-2": -6.509968280792236,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": -7.798754692077637,
+        "TSNE-2": -1.7801605463027954,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": 9.910058975219727,
+        "TSNE-2": -0.9284117221832275,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": 8.042441368103027,
+        "TSNE-2": -12.106350898742676,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 1.8237910270690918,
+        "TSNE-2": -2.453364849090576,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -7.155575275421143,
+        "TSNE-2": 4.555652141571045,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": 10.125442504882812,
+        "TSNE-2": 0.7556087374687195,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": -3.347569465637207,
+        "TSNE-2": -8.145355224609375,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 9.737323760986328,
+        "TSNE-2": -6.509968280792236,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 12.237472534179688,
+        "TSNE-2": 5.208065032958984,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": 6.9597344398498535,
+        "TSNE-2": 2.9881885051727295,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": -7.252559661865234,
+        "TSNE-2": -11.912898063659668,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": 14.708043098449707,
+        "TSNE-2": 6.489478588104248,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": -1.6167068481445312,
+        "TSNE-2": 9.218938827514648,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": 0.5358292460441589,
+        "TSNE-2": 4.3997273445129395,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": 0.6749767065048218,
+        "TSNE-2": -5.2558207511901855,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": -16.5866756439209,
+        "TSNE-2": -0.3827335834503174,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": -1.9272061586380005,
+        "TSNE-2": -13.244379997253418,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": -9.023713111877441,
+        "TSNE-2": 3.0123302936553955,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -12.838984489440918,
+        "TSNE-2": 0.01596347987651825,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": 0.8808289766311646,
+        "TSNE-2": 14.09921932220459,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -14.409790992736816,
+        "TSNE-2": -0.0821962058544159,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": -11.11476993560791,
+        "TSNE-2": -3.2005836963653564,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": -6.274697780609131,
+        "TSNE-2": 8.77987289428711,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": 4.457352638244629,
+        "TSNE-2": 1.0641967058181763,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": -17.207849502563477,
+        "TSNE-2": -1.8989084959030151,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": -6.726190567016602,
+        "TSNE-2": -4.879189968109131,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": 5.993753433227539,
+        "TSNE-2": 15.20203971862793,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -8.0724515914917,
+        "TSNE-2": 13.285041809082031,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": -14.598333358764648,
+        "TSNE-2": -4.218444347381592,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": -4.814846038818359,
+        "TSNE-2": 3.001169443130493,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": 12.484121322631836,
+        "TSNE-2": -9.427153587341309,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 5.993753433227539,
+        "TSNE-2": 15.20203971862793,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": 1.842766284942627,
+        "TSNE-2": -8.83301067352295,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 9.928468704223633,
+        "TSNE-2": 3.6012630462646484,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": -10.347699165344238,
+        "TSNE-2": -10.770376205444336,
+        "cluster": 1,
+        "keywords": "service, individual, community, need, family"
+      },
+      {
+        "TSNE-1": -7.5745744705200195,
+        "TSNE-2": 0.6870790719985962,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 16.050596237182617,
+        "TSNE-2": -1.5497714281082153,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": -8.66301155090332,
+        "TSNE-2": 7.130917549133301,
+        "cluster": 0,
+        "keywords": "group, mend, member, solo, pursue"
+      },
+      {
+        "TSNE-1": 7.937954425811768,
+        "TSNE-2": 8.931200981140137,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": 2.800847053527832,
+        "TSNE-2": -14.372133255004883,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 5.424502849578857,
+        "TSNE-2": -6.190124988555908,
+        "cluster": 2,
+        "keywords": "website, longer, prayer, mendes, oil"
+      },
+      {
+        "TSNE-1": 14.974979400634766,
+        "TSNE-2": -1.8940634727478027,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      },
+      {
+        "TSNE-1": 4.729409694671631,
+        "TSNE-2": 7.145979404449463,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -2.0681817531585693,
+        "TSNE-2": 14.514374732971191,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": 0.08612612634897232,
+        "TSNE-2": 11.231627464294434,
+        "cluster": 5,
+        "keywords": "negative, name, change, music, due"
+      },
+      {
+        "TSNE-1": -0.008098088204860687,
+        "TSNE-2": -0.4427950382232666,
+        "cluster": 4,
+        "keywords": "active, cannot, document, organization, provide"
+      },
+      {
+        "TSNE-1": 7.60922908782959,
+        "TSNE-2": -1.3938698768615723,
+        "cluster": 3,
+        "keywords": "mention, nan, discusses, text, specific"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_204",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-221836 - why is mend no longer an active group"
+  }
+}

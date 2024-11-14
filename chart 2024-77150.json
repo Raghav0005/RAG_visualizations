@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-bbd16c780f1efbbf5dbc44814215fff9"
+  },
+  "datasets": {
+    "data-bbd16c780f1efbbf5dbc44814215fff9": [
+      {
+        "TSNE-1": 9.311027526855469,
+        "TSNE-2": -3.5231809616088867,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": -9.77139663696289,
+        "TSNE-2": -12.412229537963867,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": -5.9385085105896,
+        "TSNE-2": 7.710841655731201,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": -7.700261116027832,
+        "TSNE-2": 3.9962387084960938,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": -5.9385085105896,
+        "TSNE-2": 7.710841655731201,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": -2.996095895767212,
+        "TSNE-2": -0.014934216625988483,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": -5.460312843322754,
+        "TSNE-2": 5.930263519287109,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": 8.416528701782227,
+        "TSNE-2": 3.5862247943878174,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": 9.924406051635742,
+        "TSNE-2": 13.483871459960938,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": 11.485158920288086,
+        "TSNE-2": 7.07219123840332,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": -1.0943939685821533,
+        "TSNE-2": -6.42595911026001,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -6.636626243591309,
+        "TSNE-2": 12.759955406188965,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": 4.3070502281188965,
+        "TSNE-2": 7.8001604080200195,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": 6.158899784088135,
+        "TSNE-2": -5.694555282592773,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -10.150086402893066,
+        "TSNE-2": -8.905529975891113,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": -1.9142258167266846,
+        "TSNE-2": 8.812679290771484,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -3.6061062812805176,
+        "TSNE-2": 2.1184775829315186,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 8.416528701782227,
+        "TSNE-2": 3.5862247943878174,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": 1.3403339385986328,
+        "TSNE-2": 8.314460754394531,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -8.788506507873535,
+        "TSNE-2": 9.940574645996094,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": -9.180272102355957,
+        "TSNE-2": -2.455362558364868,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 6.793025970458984,
+        "TSNE-2": 2.214716672897339,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": -10.373013496398926,
+        "TSNE-2": -6.65288782119751,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 9.89706039428711,
+        "TSNE-2": -5.6119914054870605,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": 0.7034221291542053,
+        "TSNE-2": 5.167239189147949,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 5.248979568481445,
+        "TSNE-2": 4.552703380584717,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": -9.492940902709961,
+        "TSNE-2": 4.077528953552246,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": -9.408248901367188,
+        "TSNE-2": 6.1212005615234375,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": -8.924568176269531,
+        "TSNE-2": -4.829128265380859,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 5.900317668914795,
+        "TSNE-2": 0.7824864387512207,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": 1.066265344619751,
+        "TSNE-2": -4.912441253662109,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -12.693532943725586,
+        "TSNE-2": 2.1985175609588623,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": 4.614379405975342,
+        "TSNE-2": 6.4316864013671875,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -2.6890552043914795,
+        "TSNE-2": 5.056687355041504,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": -8.961822509765625,
+        "TSNE-2": 8.267778396606445,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": 1.0099326372146606,
+        "TSNE-2": 3.3844549655914307,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": -0.5853434205055237,
+        "TSNE-2": 2.0742623805999756,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 7.379116535186768,
+        "TSNE-2": 12.156391143798828,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": 4.3944244384765625,
+        "TSNE-2": -6.248085975646973,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": 3.4901206493377686,
+        "TSNE-2": -4.22736930847168,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -9.604692459106445,
+        "TSNE-2": -9.8381986618042,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 1.3083438873291016,
+        "TSNE-2": 0.07719393074512482,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 3.3050215244293213,
+        "TSNE-2": 6.891076564788818,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -4.060181617736816,
+        "TSNE-2": -2.524557113647461,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": -4.28433084487915,
+        "TSNE-2": -10.76169490814209,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": -3.3613076210021973,
+        "TSNE-2": 14.547896385192871,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": 1.6741342544555664,
+        "TSNE-2": -2.3978781700134277,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -5.709389686584473,
+        "TSNE-2": -4.5103302001953125,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": -1.0943939685821533,
+        "TSNE-2": -6.42595911026001,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -4.1300177574157715,
+        "TSNE-2": -9.967558860778809,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 2.834630012512207,
+        "TSNE-2": -10.720220565795898,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": 11.144684791564941,
+        "TSNE-2": 6.375422477722168,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": 5.808917045593262,
+        "TSNE-2": 7.092457294464111,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -3.3613076210021973,
+        "TSNE-2": 14.547896385192871,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -2.1250743865966797,
+        "TSNE-2": 7.474096298217773,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": -7.9984846115112305,
+        "TSNE-2": -0.7358829975128174,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 0.49901098012924194,
+        "TSNE-2": 10.672258377075195,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -12.051271438598633,
+        "TSNE-2": -3.7740719318389893,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 7.239255905151367,
+        "TSNE-2": 10.765380859375,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -8.760808944702148,
+        "TSNE-2": -0.4980737864971161,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 13.116247177124023,
+        "TSNE-2": 1.4894272089004517,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": 1.537151575088501,
+        "TSNE-2": -8.873429298400879,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": 0.8241896629333496,
+        "TSNE-2": -10.203523635864258,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -0.11755870282649994,
+        "TSNE-2": -3.336374521255493,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -0.5488362908363342,
+        "TSNE-2": -0.24032673239707947,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 8.931857109069824,
+        "TSNE-2": -1.832547903060913,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": 2.793287754058838,
+        "TSNE-2": 1.2386268377304077,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 7.899104595184326,
+        "TSNE-2": -6.880239963531494,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": 3.7703986167907715,
+        "TSNE-2": 9.580642700195312,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -9.710402488708496,
+        "TSNE-2": -4.582420825958252,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 4.729961395263672,
+        "TSNE-2": -7.874407768249512,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -3.6061062812805176,
+        "TSNE-2": 2.1184775829315186,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 2.420822858810425,
+        "TSNE-2": 13.896738052368164,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": -11.146453857421875,
+        "TSNE-2": 8.014419555664062,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": 1.3193422555923462,
+        "TSNE-2": 1.5158814191818237,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": -8.186630249023438,
+        "TSNE-2": -11.21161937713623,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 3.000326633453369,
+        "TSNE-2": 4.221651554107666,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 2.420822858810425,
+        "TSNE-2": 13.896738052368164,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": 1.6774442195892334,
+        "TSNE-2": -11.150672912597656,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -5.227541446685791,
+        "TSNE-2": -5.480423927307129,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": 7.990349769592285,
+        "TSNE-2": -5.16192626953125,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -6.636626243591309,
+        "TSNE-2": 12.759955406188965,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": 13.116247177124023,
+        "TSNE-2": 1.4894272089004517,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": -0.6480448246002197,
+        "TSNE-2": 5.761834144592285,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 3.4901206493377686,
+        "TSNE-2": -4.22736930847168,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -4.993640422821045,
+        "TSNE-2": -0.29274484515190125,
+        "cluster": 2,
+        "keywords": "automotive, demand, directly, various, electronics"
+      },
+      {
+        "TSNE-1": 5.714709281921387,
+        "TSNE-2": -0.731290340423584,
+        "cluster": 1,
+        "keywords": "document, provide, steel, car, direct"
+      },
+      {
+        "TSNE-1": -7.890371322631836,
+        "TSNE-2": -5.833663463592529,
+        "cluster": 5,
+        "keywords": "text, mention, context, information, cause"
+      },
+      {
+        "TSNE-1": -0.2792181372642517,
+        "TSNE-2": 9.737791061401367,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": 8.582921981811523,
+        "TSNE-2": 12.63990592956543,
+        "cluster": 4,
+        "keywords": "chip, vehicle, geopolitical, natural, consumer"
+      },
+      {
+        "TSNE-1": 6.7316155433654785,
+        "TSNE-2": -3.756945848464966,
+        "cluster": 3,
+        "keywords": "production, supply, decrease, quarter, industry"
+      },
+      {
+        "TSNE-1": -12.693532943725586,
+        "TSNE-2": 2.1985175609588623,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      },
+      {
+        "TSNE-1": -8.274591445922852,
+        "TSNE-2": 3.316985607147217,
+        "cluster": 0,
+        "keywords": "shortage, microchip, buyer, president, game"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_226",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-77150 - how steel shortages have caused microchip shortages"
+  }
+}

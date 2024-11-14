@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-9abe7dbdbca68d0b55f73c6759c0b831"
+  },
+  "datasets": {
+    "data-9abe7dbdbca68d0b55f73c6759c0b831": [
+      {
+        "TSNE-1": -3.328460454940796,
+        "TSNE-2": -3.5192296504974365,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 10.849437713623047,
+        "TSNE-2": 5.568753719329834,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 10.974802017211914,
+        "TSNE-2": -10.584510803222656,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 7.482122898101807,
+        "TSNE-2": 5.9579057693481445,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 10.974802017211914,
+        "TSNE-2": -10.584510803222656,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": -14.162529945373535,
+        "TSNE-2": -4.717845439910889,
+        "cluster": 5,
+        "keywords": "climate, change, discussion, rise, certain"
+      },
+      {
+        "TSNE-1": -3.5400209426879883,
+        "TSNE-2": 2.027742862701416,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -0.308012455701828,
+        "TSNE-2": -6.677426815032959,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": -5.205229759216309,
+        "TSNE-2": -10.710183143615723,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": -1.9059892892837524,
+        "TSNE-2": 12.43660831451416,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 2.819272518157959,
+        "TSNE-2": 2.878880262374878,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": -13.922534942626953,
+        "TSNE-2": -1.8062446117401123,
+        "cluster": 5,
+        "keywords": "climate, change, discussion, rise, certain"
+      },
+      {
+        "TSNE-1": 8.032049179077148,
+        "TSNE-2": 1.7537833452224731,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 0.8926281929016113,
+        "TSNE-2": 1.6298326253890991,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 4.217315673828125,
+        "TSNE-2": 11.567329406738281,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 2.9706859588623047,
+        "TSNE-2": -5.143673896789551,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 5.327805519104004,
+        "TSNE-2": -11.812828063964844,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": -0.308012455701828,
+        "TSNE-2": -6.677426815032959,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 3.1757185459136963,
+        "TSNE-2": 5.1126909255981445,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": -4.436579704284668,
+        "TSNE-2": 4.588227272033691,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -6.452574253082275,
+        "TSNE-2": 12.997151374816895,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 1.2795759439468384,
+        "TSNE-2": -2.0525550842285156,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": -6.288291931152344,
+        "TSNE-2": 11.949856758117676,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 3.7962241172790527,
+        "TSNE-2": -2.893120288848877,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 9.16032600402832,
+        "TSNE-2": 3.2042768001556396,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 1.2860567569732666,
+        "TSNE-2": -5.636550426483154,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 5.2834792137146,
+        "TSNE-2": 4.109035491943359,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": -0.6540249586105347,
+        "TSNE-2": -10.743345260620117,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 3.6715333461761475,
+        "TSNE-2": 11.786816596984863,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": -13.88286304473877,
+        "TSNE-2": -5.360524654388428,
+        "cluster": 5,
+        "keywords": "climate, change, discussion, rise, certain"
+      },
+      {
+        "TSNE-1": -8.7110013961792,
+        "TSNE-2": -0.4123421311378479,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -7.149003982543945,
+        "TSNE-2": 6.322053909301758,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": 8.856903076171875,
+        "TSNE-2": 0.6006138324737549,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 4.531796932220459,
+        "TSNE-2": -5.508048057556152,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 11.064718246459961,
+        "TSNE-2": 1.5009186267852783,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": -5.5659027099609375,
+        "TSNE-2": -2.8135812282562256,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -0.8052232265472412,
+        "TSNE-2": 2.6230783462524414,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 8.687179565429688,
+        "TSNE-2": -2.346308708190918,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 4.8860979080200195,
+        "TSNE-2": -7.78923225402832,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 1.48362398147583,
+        "TSNE-2": -0.22586797177791595,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 6.559994697570801,
+        "TSNE-2": 8.684021949768066,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": -1.1320403814315796,
+        "TSNE-2": -1.2790011167526245,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 7.324726581573486,
+        "TSNE-2": 0.43023544549942017,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 13.110468864440918,
+        "TSNE-2": -0.8829676508903503,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 6.716079235076904,
+        "TSNE-2": 2.4595935344696045,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": -11.965569496154785,
+        "TSNE-2": -3.1020290851593018,
+        "cluster": 5,
+        "keywords": "climate, change, discussion, rise, certain"
+      },
+      {
+        "TSNE-1": -0.3400585651397705,
+        "TSNE-2": 0.4493025839328766,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": -3.1466832160949707,
+        "TSNE-2": 9.709707260131836,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 2.350715160369873,
+        "TSNE-2": 3.1799445152282715,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 7.794076442718506,
+        "TSNE-2": -6.133513927459717,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 1.59492826461792,
+        "TSNE-2": -8.822195053100586,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": -0.891161322593689,
+        "TSNE-2": 11.926219940185547,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 9.275260925292969,
+        "TSNE-2": -0.05596131086349487,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": -13.935362815856934,
+        "TSNE-2": -0.470936119556427,
+        "cluster": 5,
+        "keywords": "climate, change, discussion, rise, certain"
+      },
+      {
+        "TSNE-1": -1.5980377197265625,
+        "TSNE-2": -4.1345720291137695,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 5.362132549285889,
+        "TSNE-2": 5.616026878356934,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 1.3379228115081787,
+        "TSNE-2": 6.6507182121276855,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 5.102583885192871,
+        "TSNE-2": 12.935791969299316,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 10.764565467834473,
+        "TSNE-2": -1.5685200691223145,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 4.775581359863281,
+        "TSNE-2": 1.6540189981460571,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 7.020090579986572,
+        "TSNE-2": -3.2222177982330322,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": -7.941742897033691,
+        "TSNE-2": -6.731805324554443,
+        "cluster": 5,
+        "keywords": "climate, change, discussion, rise, certain"
+      },
+      {
+        "TSNE-1": -9.050954818725586,
+        "TSNE-2": 2.0043535232543945,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -5.812483310699463,
+        "TSNE-2": 4.58030891418457,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -5.01199197769165,
+        "TSNE-2": -6.332395553588867,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 5.6208882331848145,
+        "TSNE-2": -1.1832466125488281,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": -4.193911075592041,
+        "TSNE-2": -5.732172966003418,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 2.3848981857299805,
+        "TSNE-2": -2.9377644062042236,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": -2.2025272846221924,
+        "TSNE-2": -1.8544495105743408,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -0.891161322593689,
+        "TSNE-2": 11.926219940185547,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": -3.311295986175537,
+        "TSNE-2": -1.1677850484848022,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": 5.327805519104004,
+        "TSNE-2": -11.812828063964844,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 12.126350402832031,
+        "TSNE-2": -3.299983024597168,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": -1.9296584129333496,
+        "TSNE-2": -10.215855598449707,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": -5.535694122314453,
+        "TSNE-2": 0.6104949116706848,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -6.712086200714111,
+        "TSNE-2": -2.1030097007751465,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -2.694748640060425,
+        "TSNE-2": -7.968961715698242,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": 12.126350402832031,
+        "TSNE-2": -3.299983024597168,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": -3.695707321166992,
+        "TSNE-2": 0.266014963388443,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -3.7553868293762207,
+        "TSNE-2": 10.01198959350586,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 3.0292906761169434,
+        "TSNE-2": -0.8776034712791443,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": -12.770763397216797,
+        "TSNE-2": -2.36550235748291,
+        "cluster": 5,
+        "keywords": "climate, change, discussion, rise, certain"
+      },
+      {
+        "TSNE-1": 7.020090579986572,
+        "TSNE-2": -3.2222177982330322,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": 4.346977710723877,
+        "TSNE-2": -0.05834873765707016,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 1.48362398147583,
+        "TSNE-2": -0.22586797177791595,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 4.441333770751953,
+        "TSNE-2": 14.022039413452148,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      },
+      {
+        "TSNE-1": 10.781976699829102,
+        "TSNE-2": -6.042072772979736,
+        "cluster": 0,
+        "keywords": "map, student, mind, help, document"
+      },
+      {
+        "TSNE-1": -1.1387748718261719,
+        "TSNE-2": 5.399886131286621,
+        "cluster": 2,
+        "keywords": "skill, visual, enhance, understand, interactive"
+      },
+      {
+        "TSNE-1": 0.04796358942985535,
+        "TSNE-2": -3.634366512298584,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": -8.92457103729248,
+        "TSNE-2": 0.6888489723205566,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": 1.426567792892456,
+        "TSNE-2": -4.220834732055664,
+        "cluster": 3,
+        "keywords": "also, geographic, concept, study, ability"
+      },
+      {
+        "TSNE-1": -7.149003982543945,
+        "TSNE-2": 6.322053909301758,
+        "cluster": 1,
+        "keywords": "spatial, world, learn, visualize, thing"
+      },
+      {
+        "TSNE-1": -0.8627446293830872,
+        "TSNE-2": 13.821547508239746,
+        "cluster": 4,
+        "keywords": "impact, better, sense, confidence, mental"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_143",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-96063 - how using maps can impact your pedagogy"
+  }
+}

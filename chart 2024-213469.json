@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-43721d44471026da0809a62e02d36508"
+  },
+  "datasets": {
+    "data-43721d44471026da0809a62e02d36508": [
+      {
+        "TSNE-1": 8.441658020019531,
+        "TSNE-2": -0.9832019209861755,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 2.69450044631958,
+        "TSNE-2": 9.664356231689453,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -8.982629776000977,
+        "TSNE-2": 1.0616228580474854,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 12.790102005004883,
+        "TSNE-2": 2.704864501953125,
+        "cluster": 5,
+        "keywords": "supermajority, partisan, legislative, overturn, process"
+      },
+      {
+        "TSNE-1": -8.982629776000977,
+        "TSNE-2": 1.0616228580474854,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -7.866928577423096,
+        "TSNE-2": 0.0043237581849098206,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -1.9744879007339478,
+        "TSNE-2": 4.884731292724609,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 0.4392468333244324,
+        "TSNE-2": 3.188687324523926,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -1.9449015855789185,
+        "TSNE-2": 7.931568622589111,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 4.542120933532715,
+        "TSNE-2": -10.37517261505127,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": 7.786317825317383,
+        "TSNE-2": 4.371524333953857,
+        "cluster": 5,
+        "keywords": "supermajority, partisan, legislative, overturn, process"
+      },
+      {
+        "TSNE-1": -8.475728034973145,
+        "TSNE-2": 4.954577445983887,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 3.7374463081359863,
+        "TSNE-2": 1.9497522115707397,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 3.982469081878662,
+        "TSNE-2": -0.07169200479984283,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 6.638555526733398,
+        "TSNE-2": -5.805584907531738,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 2.7477900981903076,
+        "TSNE-2": 5.671017169952393,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 6.92884635925293,
+        "TSNE-2": 10.740546226501465,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 0.4392468333244324,
+        "TSNE-2": 3.188687324523926,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 7.487804889678955,
+        "TSNE-2": 2.1425282955169678,
+        "cluster": 5,
+        "keywords": "supermajority, partisan, legislative, overturn, process"
+      },
+      {
+        "TSNE-1": 10.291350364685059,
+        "TSNE-2": -4.4981207847595215,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 11.757124900817871,
+        "TSNE-2": 4.729386329650879,
+        "cluster": 5,
+        "keywords": "supermajority, partisan, legislative, overturn, process"
+      },
+      {
+        "TSNE-1": 3.1224920749664307,
+        "TSNE-2": 3.498640775680542,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 12.484296798706055,
+        "TSNE-2": 3.684194326400757,
+        "cluster": 5,
+        "keywords": "supermajority, partisan, legislative, overturn, process"
+      },
+      {
+        "TSNE-1": 6.101553440093994,
+        "TSNE-2": -0.6773867011070251,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -3.0083720684051514,
+        "TSNE-2": -5.713658809661865,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 2.6880135536193848,
+        "TSNE-2": 0.321593701839447,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 4.202523708343506,
+        "TSNE-2": -12.071662902832031,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": -2.508655548095703,
+        "TSNE-2": 4.161861419677734,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 7.2422637939453125,
+        "TSNE-2": -3.8538520336151123,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 11.050846099853516,
+        "TSNE-2": -2.5597667694091797,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -1.4598287343978882,
+        "TSNE-2": 7.788077354431152,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": -3.3304290771484375,
+        "TSNE-2": 1.7789887189865112,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 0.8184879422187805,
+        "TSNE-2": 1.6353263854980469,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -8.199100494384766,
+        "TSNE-2": -3.051436424255371,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 4.291438579559326,
+        "TSNE-2": 4.815869331359863,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -2.209092617034912,
+        "TSNE-2": -2.4813284873962402,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -1.0141767263412476,
+        "TSNE-2": -3.5963335037231445,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -11.406484603881836,
+        "TSNE-2": -2.7702720165252686,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -0.02925989031791687,
+        "TSNE-2": -1.0137349367141724,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 2.8299684524536133,
+        "TSNE-2": -1.8838156461715698,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 2.8697268962860107,
+        "TSNE-2": 9.110799789428711,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -10.396285057067871,
+        "TSNE-2": -4.8167195320129395,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 2.197859287261963,
+        "TSNE-2": 1.7956370115280151,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 5.140914440155029,
+        "TSNE-2": 1.3961312770843506,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -2.0903491973876953,
+        "TSNE-2": -1.4249502420425415,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -6.71853494644165,
+        "TSNE-2": -7.59174108505249,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 10.321471214294434,
+        "TSNE-2": -5.912966728210449,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 4.998944282531738,
+        "TSNE-2": -11.228531837463379,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": 7.786317825317383,
+        "TSNE-2": 4.371524333953857,
+        "cluster": 5,
+        "keywords": "supermajority, partisan, legislative, overturn, process"
+      },
+      {
+        "TSNE-1": 3.9094929695129395,
+        "TSNE-2": -3.205002784729004,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -0.8622254133224487,
+        "TSNE-2": -6.811045169830322,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": 3.2100048065185547,
+        "TSNE-2": 12.727731704711914,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 2.3899528980255127,
+        "TSNE-2": 2.2190680503845215,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -7.018052577972412,
+        "TSNE-2": -7.166723251342773,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -8.995916366577148,
+        "TSNE-2": -3.2001609802246094,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 11.483047485351562,
+        "TSNE-2": 5.2259416580200195,
+        "cluster": 5,
+        "keywords": "supermajority, partisan, legislative, overturn, process"
+      },
+      {
+        "TSNE-1": 0.5281404852867126,
+        "TSNE-2": 5.328332901000977,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 7.608523845672607,
+        "TSNE-2": 0.5539671182632446,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -1.5786185264587402,
+        "TSNE-2": 5.749924182891846,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": -2.4706006050109863,
+        "TSNE-2": -9.196712493896484,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": -5.217733860015869,
+        "TSNE-2": 6.235621452331543,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": -6.049900531768799,
+        "TSNE-2": 2.3014020919799805,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 1.2957923412322998,
+        "TSNE-2": -3.8674373626708984,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 3.9589152336120605,
+        "TSNE-2": 6.9175028800964355,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -3.598818063735962,
+        "TSNE-2": -3.2740426063537598,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 1.3553740978240967,
+        "TSNE-2": 0.024697832763195038,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -3.3227131366729736,
+        "TSNE-2": -4.547262191772461,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 0.4999479055404663,
+        "TSNE-2": -1.986207127571106,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -10.416954040527344,
+        "TSNE-2": -4.3215203285217285,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 0.7243598103523254,
+        "TSNE-2": -10.760107040405273,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": -4.791442394256592,
+        "TSNE-2": -4.532594203948975,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 6.796108245849609,
+        "TSNE-2": 10.577720642089844,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": 2.773806571960449,
+        "TSNE-2": -6.55303955078125,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": -4.89771032333374,
+        "TSNE-2": -1.2507853507995605,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -2.5638861656188965,
+        "TSNE-2": -3.6156959533691406,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 0.32189884781837463,
+        "TSNE-2": 7.72324275970459,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -4.049668788909912,
+        "TSNE-2": -1.8355296850204468,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": 2.773806571960449,
+        "TSNE-2": -6.55303955078125,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": -6.070235252380371,
+        "TSNE-2": 2.9131784439086914,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 3.945866823196411,
+        "TSNE-2": -10.832000732421875,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": 5.106526851654053,
+        "TSNE-2": -1.2356873750686646,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -7.447407245635986,
+        "TSNE-2": -6.364633560180664,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -5.217733860015869,
+        "TSNE-2": 6.235621452331543,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 9.80484390258789,
+        "TSNE-2": 0.8872897624969482,
+        "cluster": 5,
+        "keywords": "supermajority, partisan, legislative, overturn, process"
+      },
+      {
+        "TSNE-1": 2.8299684524536133,
+        "TSNE-2": -1.8838156461715698,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": 7.05137825012207,
+        "TSNE-2": -4.789070129394531,
+        "cluster": 4,
+        "keywords": "financial, international, unlikely, difficult, political"
+      },
+      {
+        "TSNE-1": -12.187906265258789,
+        "TSNE-2": 2.425285577774048,
+        "cluster": 3,
+        "keywords": "state, comprehensive, cryptocurrencies, federal, law"
+      },
+      {
+        "TSNE-1": -4.936532020568848,
+        "TSNE-2": -11.556058883666992,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      },
+      {
+        "TSNE-1": 1.9251623153686523,
+        "TSNE-2": 6.018486976623535,
+        "cluster": 0,
+        "keywords": "regulatory, cryptocurrency, digital, act, bill"
+      },
+      {
+        "TSNE-1": -1.6524323225021362,
+        "TSNE-2": 9.838303565979004,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": -0.48252859711647034,
+        "TSNE-2": 1.2996609210968018,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": -3.3304290771484375,
+        "TSNE-2": 1.7789887189865112,
+        "cluster": 2,
+        "keywords": "asset, clarity, exchange, new, agency"
+      },
+      {
+        "TSNE-1": 0.9662806987762451,
+        "TSNE-2": -10.660367012023926,
+        "cluster": 1,
+        "keywords": "promise, tell, scam, hard, crypto"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_84",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-213469 - why a comprehensive crypto bill is unlikely to pass"
+  }
+}

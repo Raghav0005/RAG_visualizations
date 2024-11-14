@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-1bbd99b900c6013baefc8cc93b21f053"
+  },
+  "datasets": {
+    "data-1bbd99b900c6013baefc8cc93b21f053": [
+      {
+        "TSNE-1": 9.807379722595215,
+        "TSNE-2": -1.1188921928405762,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": 7.021850109100342,
+        "TSNE-2": 11.977770805358887,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -14.799513816833496,
+        "TSNE-2": 0.9662948250770569,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": -4.874149799346924,
+        "TSNE-2": 3.602381944656372,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -14.799513816833496,
+        "TSNE-2": 0.9662948250770569,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": -5.960054874420166,
+        "TSNE-2": 7.0161848068237305,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -10.08655834197998,
+        "TSNE-2": 2.586737871170044,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": 2.1435635089874268,
+        "TSNE-2": 6.230901718139648,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": 15.880192756652832,
+        "TSNE-2": 0.14635726809501648,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -7.924874305725098,
+        "TSNE-2": 11.085387229919434,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 11.002481460571289,
+        "TSNE-2": 2.019129991531372,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -14.689961433410645,
+        "TSNE-2": -7.853671550750732,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": 2.881430149078369,
+        "TSNE-2": 2.109828472137451,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": 1.7451744079589844,
+        "TSNE-2": -13.064192771911621,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": 4.159453392028809,
+        "TSNE-2": 19.47184181213379,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -2.0630314350128174,
+        "TSNE-2": 1.2038754224777222,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -0.3758769929409027,
+        "TSNE-2": -10.182341575622559,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": 2.1435635089874268,
+        "TSNE-2": 6.230901718139648,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": 0.37764087319374084,
+        "TSNE-2": 10.511459350585938,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": 5.736677646636963,
+        "TSNE-2": -4.7981061935424805,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": -0.037233758717775345,
+        "TSNE-2": -2.872286081314087,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": -7.828164577484131,
+        "TSNE-2": 4.629805088043213,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 8.485268592834473,
+        "TSNE-2": -5.696622371673584,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": 4.194859027862549,
+        "TSNE-2": -12.002693176269531,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": -8.264813423156738,
+        "TSNE-2": 15.166736602783203,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 3.763451337814331,
+        "TSNE-2": 4.1439385414123535,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -16.003910064697266,
+        "TSNE-2": 6.3923726081848145,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": 11.343421936035156,
+        "TSNE-2": 6.5236310958862305,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": 4.480023384094238,
+        "TSNE-2": 17.194257736206055,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -4.31110143661499,
+        "TSNE-2": -13.686126708984375,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": 14.421146392822266,
+        "TSNE-2": -1.6798012256622314,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -3.7029030323028564,
+        "TSNE-2": -2.127730131149292,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -0.5422592759132385,
+        "TSNE-2": 3.4437456130981445,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -6.587423801422119,
+        "TSNE-2": -7.202845573425293,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": 4.578121662139893,
+        "TSNE-2": 7.043251037597656,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": 9.319903373718262,
+        "TSNE-2": -9.600409507751465,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": 3.6603801250457764,
+        "TSNE-2": -4.459828853607178,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": -10.932564735412598,
+        "TSNE-2": -0.672254204750061,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": 13.230074882507324,
+        "TSNE-2": -5.999618053436279,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -0.3510510325431824,
+        "TSNE-2": -25.238954544067383,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": 11.608625411987305,
+        "TSNE-2": -3.1188511848449707,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -3.863651990890503,
+        "TSNE-2": -8.559657096862793,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": 0.2717440724372864,
+        "TSNE-2": 2.0219271183013916,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -2.004133462905884,
+        "TSNE-2": 8.497098922729492,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 7.943597316741943,
+        "TSNE-2": -9.287264823913574,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": -11.635262489318848,
+        "TSNE-2": -9.567514419555664,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": -1.9940674304962158,
+        "TSNE-2": 14.232195854187012,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -6.2039103507995605,
+        "TSNE-2": 12.037907600402832,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 11.002481460571289,
+        "TSNE-2": 2.019129991531372,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": 3.841219663619995,
+        "TSNE-2": -1.2750682830810547,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -7.879146099090576,
+        "TSNE-2": 1.5000747442245483,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -0.9681956768035889,
+        "TSNE-2": -5.809316158294678,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": 1.4931761026382446,
+        "TSNE-2": 3.3722803592681885,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -1.3398854732513428,
+        "TSNE-2": -17.581623077392578,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": -5.890632152557373,
+        "TSNE-2": -5.524750709533691,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": -2.1532301902770996,
+        "TSNE-2": -5.872101306915283,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": 2.588189125061035,
+        "TSNE-2": 8.937138557434082,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": 3.2201645374298096,
+        "TSNE-2": 17.240032196044922,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -2.702791452407837,
+        "TSNE-2": 4.622143745422363,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -18.133481979370117,
+        "TSNE-2": 7.1550211906433105,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": 11.814079284667969,
+        "TSNE-2": 10.89285945892334,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": 7.843709945678711,
+        "TSNE-2": 0.6697576642036438,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -6.7585883140563965,
+        "TSNE-2": 0.6449961066246033,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 4.980709075927734,
+        "TSNE-2": 9.885726928710938,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": 3.6964378356933594,
+        "TSNE-2": -6.196651935577393,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": 5.685263633728027,
+        "TSNE-2": 0.1870354413986206,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": 2.625330924987793,
+        "TSNE-2": -2.4862444400787354,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": 0.5733012557029724,
+        "TSNE-2": 0.06667561084032059,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 6.589016437530518,
+        "TSNE-2": 6.152659893035889,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -16.003910064697266,
+        "TSNE-2": 6.3923726081848145,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": 8.219391822814941,
+        "TSNE-2": 5.555793762207031,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -0.3758769929409027,
+        "TSNE-2": -10.182341575622559,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": -10.817522048950195,
+        "TSNE-2": 6.608261585235596,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 12.29677677154541,
+        "TSNE-2": -0.8084778785705566,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": 7.934061050415039,
+        "TSNE-2": 3.828240394592285,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": 10.144758224487305,
+        "TSNE-2": -13.483856201171875,
+        "cluster": 5,
+        "keywords": "grade, inflation, enough, context, program"
+      },
+      {
+        "TSNE-1": -6.99893045425415,
+        "TSNE-2": -1.700001835823059,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -10.817522048950195,
+        "TSNE-2": 6.608261585235596,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 7.337560653686523,
+        "TSNE-2": -2.3849573135375977,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -8.565650939941406,
+        "TSNE-2": 9.982046127319336,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -8.751399040222168,
+        "TSNE-2": -4.717288017272949,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      },
+      {
+        "TSNE-1": -9.919715881347656,
+        "TSNE-2": -10.439017295837402,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": 11.814079284667969,
+        "TSNE-2": 10.89285945892334,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -11.925877571105957,
+        "TSNE-2": -7.640280723571777,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": -0.3510510325431824,
+        "TSNE-2": -25.238954544067383,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": -9.46454906463623,
+        "TSNE-2": -15.949729919433594,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": -5.531339645385742,
+        "TSNE-2": -12.385662078857422,
+        "cluster": 1,
+        "keywords": "many, meal, quality, student, financial"
+      },
+      {
+        "TSNE-1": 8.221474647521973,
+        "TSNE-2": 9.093419075012207,
+        "cluster": 0,
+        "keywords": "school, lunch, food, cost, price"
+      },
+      {
+        "TSNE-1": -0.7604561448097229,
+        "TSNE-2": 6.2371110916137695,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": 16.20281410217285,
+        "TSNE-2": 2.0486652851104736,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": 5.286935806274414,
+        "TSNE-2": 2.8838932514190674,
+        "cluster": 3,
+        "keywords": "increase, million, fewer, every, year"
+      },
+      {
+        "TSNE-1": -3.7029030323028564,
+        "TSNE-2": -2.127730131149292,
+        "cluster": 4,
+        "keywords": "may, lead, constraint, overall, decline"
+      },
+      {
+        "TSNE-1": -13.18465518951416,
+        "TSNE-2": -2.9866790771484375,
+        "cluster": 2,
+        "keywords": "due, could, billion, huge, public"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_268",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-111331 - is school lunch quality declining due to inflation"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-9cb4c4d20da121b5f175fb6ae124eede"
+  },
+  "datasets": {
+    "data-9cb4c4d20da121b5f175fb6ae124eede": [
+      {
+        "TSNE-1": 6.188392162322998,
+        "TSNE-2": 2.6273210048675537,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": 3.2328407764434814,
+        "TSNE-2": -5.330122947692871,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": 6.766613960266113,
+        "TSNE-2": 10.013622283935547,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": -7.143481254577637,
+        "TSNE-2": 3.158599615097046,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": 6.766613960266113,
+        "TSNE-2": 10.013622283935547,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": -2.876228094100952,
+        "TSNE-2": -10.855177879333496,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 10.696270942687988,
+        "TSNE-2": 2.593336343765259,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": 2.876202344894409,
+        "TSNE-2": -1.6487388610839844,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": 6.576144695281982,
+        "TSNE-2": -9.11852741241455,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": -2.760350227355957,
+        "TSNE-2": -6.250586032867432,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": -10.418746948242188,
+        "TSNE-2": -7.28574275970459,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": -6.232031345367432,
+        "TSNE-2": -10.63401985168457,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": -1.936080813407898,
+        "TSNE-2": -3.146714925765991,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 0.1613752841949463,
+        "TSNE-2": 3.379148483276367,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -4.548507213592529,
+        "TSNE-2": 3.0242438316345215,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": 6.704131126403809,
+        "TSNE-2": -3.549598455429077,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": 10.598201751708984,
+        "TSNE-2": 10.54596996307373,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 2.876202344894409,
+        "TSNE-2": -1.6487388610839844,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": 7.895162582397461,
+        "TSNE-2": -4.366181373596191,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -0.2525310814380646,
+        "TSNE-2": 10.284934043884277,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": -2.5819144248962402,
+        "TSNE-2": 4.286614894866943,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": 5.403267860412598,
+        "TSNE-2": 9.91776180267334,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": -1.2800310850143433,
+        "TSNE-2": 2.2255001068115234,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -0.007970264181494713,
+        "TSNE-2": 0.8852810263633728,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 6.571858882904053,
+        "TSNE-2": 4.385372161865234,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 4.501584529876709,
+        "TSNE-2": -2.428023099899292,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -3.954030752182007,
+        "TSNE-2": 4.393899917602539,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": 11.344189643859863,
+        "TSNE-2": 2.303217649459839,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -2.298004627227783,
+        "TSNE-2": 2.813805341720581,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -4.523776531219482,
+        "TSNE-2": -11.808740615844727,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": -6.963934898376465,
+        "TSNE-2": -5.702667713165283,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 1.427438735961914,
+        "TSNE-2": 9.99060344696045,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": -0.14557255804538727,
+        "TSNE-2": -3.408470392227173,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 8.83099365234375,
+        "TSNE-2": -0.9630535840988159,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": 6.162683486938477,
+        "TSNE-2": -8.558613777160645,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": 0.4501922130584717,
+        "TSNE-2": 6.436503887176514,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": 2.2824692726135254,
+        "TSNE-2": 1.8435677289962769,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 9.520238876342773,
+        "TSNE-2": 3.129467487335205,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": 6.223178863525391,
+        "TSNE-2": -1.0915005207061768,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -0.35009169578552246,
+        "TSNE-2": -1.1925936937332153,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 2.773664951324463,
+        "TSNE-2": -4.350436687469482,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": -8.233502388000488,
+        "TSNE-2": -2.9911246299743652,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 0.8015981316566467,
+        "TSNE-2": -3.892328977584839,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": 1.3186427354812622,
+        "TSNE-2": -2.635885238647461,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 0.13836318254470825,
+        "TSNE-2": 6.633881568908691,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": -4.519452095031738,
+        "TSNE-2": -8.29594612121582,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 5.505273818969727,
+        "TSNE-2": 5.895634651184082,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": -3.4558863639831543,
+        "TSNE-2": 2.561532497406006,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": -10.418746948242188,
+        "TSNE-2": -7.28574275970459,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 1.5924071073532104,
+        "TSNE-2": 2.664619207382202,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -4.683506965637207,
+        "TSNE-2": -3.2112886905670166,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": -6.178473949432373,
+        "TSNE-2": 0.867629885673523,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -1.0555970668792725,
+        "TSNE-2": -4.996511936187744,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": -4.0956830978393555,
+        "TSNE-2": -9.548490524291992,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 8.307061195373535,
+        "TSNE-2": -0.5318703055381775,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -2.840352773666382,
+        "TSNE-2": 5.218616962432861,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": 6.088730335235596,
+        "TSNE-2": -4.799917697906494,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -3.6953794956207275,
+        "TSNE-2": 1.1354326009750366,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 4.477949142456055,
+        "TSNE-2": -0.5946215391159058,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -4.346611022949219,
+        "TSNE-2": -0.31706249713897705,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -5.186831951141357,
+        "TSNE-2": 8.534073829650879,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": -5.47692346572876,
+        "TSNE-2": -3.1247260570526123,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": -9.817573547363281,
+        "TSNE-2": -2.0923471450805664,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 2.0360820293426514,
+        "TSNE-2": 11.295513153076172,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 4.06890869140625,
+        "TSNE-2": 2.204699993133545,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -1.8410704135894775,
+        "TSNE-2": -6.459177017211914,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": 2.8004276752471924,
+        "TSNE-2": -7.889318943023682,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": -1.6769890785217285,
+        "TSNE-2": -7.7109761238098145,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": -3.402423143386841,
+        "TSNE-2": -3.2820191383361816,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -7.9814863204956055,
+        "TSNE-2": 3.6064870357513428,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": -7.105228900909424,
+        "TSNE-2": -2.3024938106536865,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 10.598201751708984,
+        "TSNE-2": 10.54596996307373,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 3.8243937492370605,
+        "TSNE-2": 7.73176383972168,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 1.403019905090332,
+        "TSNE-2": -10.060749053955078,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": 3.5543036460876465,
+        "TSNE-2": 2.846247911453247,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -6.099814414978027,
+        "TSNE-2": 5.324165344238281,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": 2.271834373474121,
+        "TSNE-2": -9.56180191040039,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": 3.8243937492370605,
+        "TSNE-2": 7.73176383972168,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": -9.183506965637207,
+        "TSNE-2": -2.581820487976074,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": -2.9066267013549805,
+        "TSNE-2": 0.020993832498788834,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 1.6398749351501465,
+        "TSNE-2": -0.2294105589389801,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -4.482985973358154,
+        "TSNE-2": -10.528704643249512,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": -5.349452972412109,
+        "TSNE-2": 8.939399719238281,
+        "cluster": 1,
+        "keywords": "equity, individual, information, equal, promote"
+      },
+      {
+        "TSNE-1": -1.6844732761383057,
+        "TSNE-2": -10.177168846130371,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      },
+      {
+        "TSNE-1": -0.35009169578552246,
+        "TSNE-2": -1.1925936937332153,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": -4.872407913208008,
+        "TSNE-2": 1.1508406400680542,
+        "cluster": 3,
+        "keywords": "resource, help, address, inclusive, support"
+      },
+      {
+        "TSNE-1": 11.248726844787598,
+        "TSNE-2": 12.59972095489502,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 3.6245057582855225,
+        "TSNE-2": 4.488879680633545,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 6.07875919342041,
+        "TSNE-2": -3.209348678588867,
+        "cluster": 5,
+        "keywords": "educational, equitable, educator, principal, practice"
+      },
+      {
+        "TSNE-1": -7.10072660446167,
+        "TSNE-2": -4.9031829833984375,
+        "cluster": 4,
+        "keywords": "local, student, technical, assessment, nine"
+      },
+      {
+        "TSNE-1": 6.334625244140625,
+        "TSNE-2": 7.927186489105225,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 1.427438735961914,
+        "TSNE-2": 9.99060344696045,
+        "cluster": 2,
+        "keywords": "healthcare, concept, may, service, topic"
+      },
+      {
+        "TSNE-1": 0.907764196395874,
+        "TSNE-2": -6.1484527587890625,
+        "cluster": 0,
+        "keywords": "special, handbook, health, need, population"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_140",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-42645 - how does the special population handbook help with equity"
+  }
+}

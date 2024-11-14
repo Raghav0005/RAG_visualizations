@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e39f7ece8565c71626fb8c8cfa8cdc00"
+  },
+  "datasets": {
+    "data-e39f7ece8565c71626fb8c8cfa8cdc00": [
+      {
+        "TSNE-1": 1.867150902748108,
+        "TSNE-2": -2.721531867980957,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -3.05418062210083,
+        "TSNE-2": 9.340128898620605,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": -7.781330585479736,
+        "TSNE-2": -9.268999099731445,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": -5.3137102127075195,
+        "TSNE-2": -4.703070163726807,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": -7.781330585479736,
+        "TSNE-2": -9.268999099731445,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": 8.429441452026367,
+        "TSNE-2": 3.2767772674560547,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -4.384843826293945,
+        "TSNE-2": -8.693557739257812,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": -4.594080924987793,
+        "TSNE-2": -0.9298042058944702,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": 9.937173843383789,
+        "TSNE-2": -4.828409671783447,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -9.051864624023438,
+        "TSNE-2": -0.5291366577148438,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": 4.801796913146973,
+        "TSNE-2": -2.9992921352386475,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": 2.702200174331665,
+        "TSNE-2": 3.780151128768921,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -3.045300006866455,
+        "TSNE-2": 0.31701430678367615,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -2.396278142929077,
+        "TSNE-2": -3.585571050643921,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": -8.424003601074219,
+        "TSNE-2": -5.554081439971924,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": -2.3889145851135254,
+        "TSNE-2": 2.9122750759124756,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -13.45262622833252,
+        "TSNE-2": -1.1261860132217407,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": -4.594080924987793,
+        "TSNE-2": -0.9298042058944702,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -6.894404888153076,
+        "TSNE-2": 0.6228917241096497,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": 0.42136135697364807,
+        "TSNE-2": -7.702462196350098,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": 3.6688480377197266,
+        "TSNE-2": 7.230016708374023,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -3.934718132019043,
+        "TSNE-2": -3.0518617630004883,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": 3.9117043018341064,
+        "TSNE-2": 6.859220027923584,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -9.97419261932373,
+        "TSNE-2": 1.1802525520324707,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": -3.110870838165283,
+        "TSNE-2": 1.5285037755966187,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -3.2824816703796387,
+        "TSNE-2": -1.814631462097168,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -4.623149871826172,
+        "TSNE-2": -4.4739909172058105,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": 0.5081142783164978,
+        "TSNE-2": 6.49753475189209,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": -12.286066055297852,
+        "TSNE-2": -2.2719597816467285,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": 8.87502384185791,
+        "TSNE-2": 2.142007827758789,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": 9.725078582763672,
+        "TSNE-2": -5.865363121032715,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -0.45433735847473145,
+        "TSNE-2": -9.724433898925781,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -1.3679038286209106,
+        "TSNE-2": 0.6278964281082153,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -0.4170980453491211,
+        "TSNE-2": 3.3280293941497803,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -0.20570939779281616,
+        "TSNE-2": 8.953742027282715,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": 2.585937023162842,
+        "TSNE-2": -0.2258414626121521,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": 3.9986329078674316,
+        "TSNE-2": -0.3087650239467621,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": 9.455148696899414,
+        "TSNE-2": 0.8329001665115356,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -11.319143295288086,
+        "TSNE-2": 3.655048370361328,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": -0.26768958568573,
+        "TSNE-2": -3.4068758487701416,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": 8.3670654296875,
+        "TSNE-2": 8.138181686401367,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -3.017242193222046,
+        "TSNE-2": 5.465179443359375,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": -2.406808853149414,
+        "TSNE-2": -0.49905747175216675,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": 2.609928607940674,
+        "TSNE-2": -9.77099609375,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": 2.5958549976348877,
+        "TSNE-2": 1.5323954820632935,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": 7.057096004486084,
+        "TSNE-2": -6.8193678855896,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -1.0283243656158447,
+        "TSNE-2": -7.887180805206299,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -0.3609664738178253,
+        "TSNE-2": 7.9060869216918945,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": 4.801796913146973,
+        "TSNE-2": -2.9992921352386475,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": 3.5794143676757812,
+        "TSNE-2": 0.6931555271148682,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": 6.457122802734375,
+        "TSNE-2": 3.1242105960845947,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -8.703563690185547,
+        "TSNE-2": -2.4308552742004395,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": -1.6949634552001953,
+        "TSNE-2": 0.21870170533657074,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": 7.057096004486084,
+        "TSNE-2": -6.8193678855896,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -1.176039457321167,
+        "TSNE-2": 2.7595374584198,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -0.006224885582923889,
+        "TSNE-2": -1.2000073194503784,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": 0.1544809490442276,
+        "TSNE-2": 2.069545269012451,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -9.487442970275879,
+        "TSNE-2": -5.457007884979248,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": 1.1176762580871582,
+        "TSNE-2": -4.348117828369141,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": 0.5826582312583923,
+        "TSNE-2": -0.7582982182502747,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": 3.9094114303588867,
+        "TSNE-2": -6.641143321990967,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -6.1248555183410645,
+        "TSNE-2": 9.253259658813477,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": -5.768457889556885,
+        "TSNE-2": 8.149213790893555,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": 7.733625411987305,
+        "TSNE-2": 4.239011764526367,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": 5.571310520172119,
+        "TSNE-2": 1.4355993270874023,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": 0.6782374978065491,
+        "TSNE-2": -6.368924140930176,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": 5.279164791107178,
+        "TSNE-2": 0.32188841700553894,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -0.9758667349815369,
+        "TSNE-2": -11.414419174194336,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -1.4651331901550293,
+        "TSNE-2": 5.598267555236816,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": 5.454616546630859,
+        "TSNE-2": 5.152273654937744,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -2.0729472637176514,
+        "TSNE-2": 5.339413642883301,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": -13.45262622833252,
+        "TSNE-2": -1.1261860132217407,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": -5.384866714477539,
+        "TSNE-2": 3.876443386077881,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -8.28051471710205,
+        "TSNE-2": 4.661568641662598,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": 4.1180830001831055,
+        "TSNE-2": 1.9397765398025513,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -3.614983320236206,
+        "TSNE-2": 6.543334484100342,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": -7.294681072235107,
+        "TSNE-2": 5.866024017333984,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": -5.362796306610107,
+        "TSNE-2": 3.8505287170410156,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -5.702475547790527,
+        "TSNE-2": 7.29032039642334,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": 2.2633473873138428,
+        "TSNE-2": 9.516127586364746,
+        "cluster": 0,
+        "keywords": "revenue, ad, user, digital, advertising"
+      },
+      {
+        "TSNE-1": -2.695699453353882,
+        "TSNE-2": -5.226292610168457,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": 2.702200174331665,
+        "TSNE-2": 3.780151128768921,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": 3.9900686740875244,
+        "TSNE-2": -5.8754801750183105,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -4.420380115509033,
+        "TSNE-2": 1.3779908418655396,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -0.26768958568573,
+        "TSNE-2": -3.4068758487701416,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": -6.271449565887451,
+        "TSNE-2": -5.076371192932129,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": 7.674755096435547,
+        "TSNE-2": -1.8105547428131104,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      },
+      {
+        "TSNE-1": -12.590409278869629,
+        "TSNE-2": -7.716708183288574,
+        "cluster": 3,
+        "keywords": "number, away, social, misinformation, shy"
+      },
+      {
+        "TSNE-1": -6.336626052856445,
+        "TSNE-2": 1.5695059299468994,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -3.923072576522827,
+        "TSNE-2": -8.479975700378418,
+        "cluster": 1,
+        "keywords": "data, decline, medium, platform, advertiser"
+      },
+      {
+        "TSNE-1": -5.984086990356445,
+        "TSNE-2": -1.8774763345718384,
+        "cluster": 2,
+        "keywords": "twitter, growth, due, effort, also"
+      },
+      {
+        "TSNE-1": -0.45433735847473145,
+        "TSNE-2": -9.724433898925781,
+        "cluster": 5,
+        "keywords": "billion, issue, annual, market, document"
+      },
+      {
+        "TSNE-1": 6.117517471313477,
+        "TSNE-2": 4.199800491333008,
+        "cluster": 4,
+        "keywords": "quarter, million, engagement, cost, per"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_152",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-223499 - why is twitter declined ad revenue"
+  }
+}

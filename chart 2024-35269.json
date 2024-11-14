@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d9d9fc8b9c59e618ef8c0a20676507f4"
+  },
+  "datasets": {
+    "data-d9d9fc8b9c59e618ef8c0a20676507f4": [
+      {
+        "TSNE-1": 8.771502494812012,
+        "TSNE-2": 18.04408836364746,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 18.478960037231445,
+        "TSNE-2": 0.16168612241744995,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -19.82150650024414,
+        "TSNE-2": -6.385286808013916,
+        "cluster": 2,
+        "keywords": "surplus, sale, capital, increase, sell"
+      },
+      {
+        "TSNE-1": 3.6166093349456787,
+        "TSNE-2": -9.18513298034668,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -19.82150650024414,
+        "TSNE-2": -6.385286808013916,
+        "cluster": 2,
+        "keywords": "surplus, sale, capital, increase, sell"
+      },
+      {
+        "TSNE-1": -6.257399559020996,
+        "TSNE-2": 21.042165756225586,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": 2.4915974140167236,
+        "TSNE-2": -1.5856101512908936,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 4.3637166023254395,
+        "TSNE-2": 7.948335647583008,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": -13.498756408691406,
+        "TSNE-2": 14.421463966369629,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": -3.784977674484253,
+        "TSNE-2": -13.266608238220215,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 15.145737648010254,
+        "TSNE-2": 8.522318840026855,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 1.0033528804779053,
+        "TSNE-2": -21.394302368164062,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 1.5770436525344849,
+        "TSNE-2": 6.788444995880127,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 1.2727375030517578,
+        "TSNE-2": -13.305402755737305,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -10.433427810668945,
+        "TSNE-2": -12.13657283782959,
+        "cluster": 2,
+        "keywords": "surplus, sale, capital, increase, sell"
+      },
+      {
+        "TSNE-1": -8.08166217803955,
+        "TSNE-2": 13.791452407836914,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": -3.2757835388183594,
+        "TSNE-2": -1.2648866176605225,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": 4.3637166023254395,
+        "TSNE-2": 7.948335647583008,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 6.929081439971924,
+        "TSNE-2": 9.99223518371582,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 6.2243828773498535,
+        "TSNE-2": -0.44078636169433594,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -8.094183921813965,
+        "TSNE-2": -8.163005828857422,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": -5.405561923980713,
+        "TSNE-2": 7.202240467071533,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": -10.156665802001953,
+        "TSNE-2": -3.9334945678710938,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": -6.181907653808594,
+        "TSNE-2": 3.785391092300415,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": 9.747309684753418,
+        "TSNE-2": 5.3149824142456055,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 0.7448393702507019,
+        "TSNE-2": 9.802824974060059,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 5.111145496368408,
+        "TSNE-2": -10.189729690551758,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -0.4084804654121399,
+        "TSNE-2": -1.134266972541809,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": -3.784977674484253,
+        "TSNE-2": -13.266608238220215,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 11.836906433105469,
+        "TSNE-2": 13.230046272277832,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 14.503360748291016,
+        "TSNE-2": 3.978353500366211,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": 10.462360382080078,
+        "TSNE-2": -6.936725616455078,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -0.6310977339744568,
+        "TSNE-2": 7.606075286865234,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": -12.32573127746582,
+        "TSNE-2": 4.201552391052246,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": -4.638278007507324,
+        "TSNE-2": 16.274444580078125,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": 4.372654914855957,
+        "TSNE-2": 18.09380531311035,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 1.540643572807312,
+        "TSNE-2": 13.26815414428711,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 4.020817756652832,
+        "TSNE-2": -5.883382797241211,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -8.113245964050293,
+        "TSNE-2": 1.1700778007507324,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": 0.31204119324684143,
+        "TSNE-2": 4.194458961486816,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": -6.718992233276367,
+        "TSNE-2": -3.6488375663757324,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": 9.906603813171387,
+        "TSNE-2": 0.2550838887691498,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -2.6466469764709473,
+        "TSNE-2": 6.5436882972717285,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": 0.4652371108531952,
+        "TSNE-2": -10.344799041748047,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 0.5368899703025818,
+        "TSNE-2": 16.14619255065918,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": 7.419246673583984,
+        "TSNE-2": -16.8187198638916,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 16.317548751831055,
+        "TSNE-2": -4.853705406188965,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -4.577174663543701,
+        "TSNE-2": -17.750370025634766,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 15.145737648010254,
+        "TSNE-2": 8.522318840026855,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 10.011775016784668,
+        "TSNE-2": 7.7984089851379395,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 8.33110523223877,
+        "TSNE-2": -2.7691004276275635,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -6.451956272125244,
+        "TSNE-2": 10.454422950744629,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": -2.2865049839019775,
+        "TSNE-2": 9.313648223876953,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": 7.419246673583984,
+        "TSNE-2": -16.8187198638916,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -12.147814750671387,
+        "TSNE-2": 7.242267608642578,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": -2.022336006164551,
+        "TSNE-2": -10.330904006958008,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 16.776334762573242,
+        "TSNE-2": 13.722275733947754,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": -6.552679538726807,
+        "TSNE-2": -14.188926696777344,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -15.138032913208008,
+        "TSNE-2": 0.8946179747581482,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": -2.128995895385742,
+        "TSNE-2": -8.091769218444824,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 0.4281204342842102,
+        "TSNE-2": -4.769440650939941,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -18.8718318939209,
+        "TSNE-2": 5.295589447021484,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": 13.099519729614258,
+        "TSNE-2": -0.727899968624115,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": 10.462360382080078,
+        "TSNE-2": -6.936725616455078,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": 4.566980361938477,
+        "TSNE-2": 14.704812049865723,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 4.004650592803955,
+        "TSNE-2": 4.852586269378662,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 3.8755974769592285,
+        "TSNE-2": 2.5798964500427246,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 7.555540084838867,
+        "TSNE-2": 13.022378921508789,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 8.247668266296387,
+        "TSNE-2": 3.505741596221924,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": -10.609979629516602,
+        "TSNE-2": -5.624225616455078,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": 10.974830627441406,
+        "TSNE-2": 1.7799018621444702,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -3.2757835388183594,
+        "TSNE-2": -1.2648866176605225,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": -14.32088565826416,
+        "TSNE-2": -16.734182357788086,
+        "cluster": 2,
+        "keywords": "surplus, sale, capital, increase, sell"
+      },
+      {
+        "TSNE-1": -1.9627578258514404,
+        "TSNE-2": 13.492114067077637,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": 0.09429442882537842,
+        "TSNE-2": 19.5247859954834,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": -12.983829498291016,
+        "TSNE-2": -8.883752822875977,
+        "cluster": 2,
+        "keywords": "surplus, sale, capital, increase, sell"
+      },
+      {
+        "TSNE-1": 18.669601440429688,
+        "TSNE-2": 6.024623870849609,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -14.32088565826416,
+        "TSNE-2": -16.734182357788086,
+        "cluster": 2,
+        "keywords": "surplus, sale, capital, increase, sell"
+      },
+      {
+        "TSNE-1": 11.655166625976562,
+        "TSNE-2": -1.8418490886688232,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": 23.191679000854492,
+        "TSNE-2": -1.07789945602417,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -8.455402374267578,
+        "TSNE-2": 5.081542491912842,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": 1.908619999885559,
+        "TSNE-2": -20.212364196777344,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": 0.4281204342842102,
+        "TSNE-2": -4.769440650939941,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -9.211057662963867,
+        "TSNE-2": 9.129497528076172,
+        "cluster": 0,
+        "keywords": "american, plan, marshall, european, economic"
+      },
+      {
+        "TSNE-1": 0.31204119324684143,
+        "TSNE-2": 4.194458961486816,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": -12.761627197265625,
+        "TSNE-2": -4.546879768371582,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": -4.889097690582275,
+        "TSNE-2": -7.610940933227539,
+        "cluster": 3,
+        "keywords": "would, help, business, thought, leader"
+      },
+      {
+        "TSNE-1": -18.24579429626465,
+        "TSNE-2": -8.646575927734375,
+        "cluster": 2,
+        "keywords": "surplus, sale, capital, increase, sell"
+      },
+      {
+        "TSNE-1": 3.3969664573669434,
+        "TSNE-2": 11.039521217346191,
+        "cluster": 4,
+        "keywords": "benefit, good, economy, fund, market"
+      },
+      {
+        "TSNE-1": 14.23776912689209,
+        "TSNE-2": -6.725849628448486,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -3.1891071796417236,
+        "TSNE-2": 3.4913926124572754,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      },
+      {
+        "TSNE-1": 10.462360382080078,
+        "TSNE-2": -6.936725616455078,
+        "cluster": 1,
+        "keywords": "united, state, built, trade, europe"
+      },
+      {
+        "TSNE-1": -8.094183921813965,
+        "TSNE-2": -8.163005828857422,
+        "cluster": 5,
+        "keywords": "thereby, growth, service, export, also"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_56",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-35269 - how did american leaders think the marshall plan would help american businesses?"
+  }
+}

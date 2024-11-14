@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e94ed9b374f12766e5f6ad516f3c7f82"
+  },
+  "datasets": {
+    "data-e94ed9b374f12766e5f6ad516f3c7f82": [
+      {
+        "TSNE-1": -3.203378915786743,
+        "TSNE-2": -6.459724426269531,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 9.695213317871094,
+        "TSNE-2": 0.6526699066162109,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -21.800432205200195,
+        "TSNE-2": -8.483750343322754,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": 3.695483684539795,
+        "TSNE-2": 21.49193000793457,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": -22.341720581054688,
+        "TSNE-2": -7.078649520874023,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": -0.13942860066890717,
+        "TSNE-2": -19.958534240722656,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": -8.941568374633789,
+        "TSNE-2": 16.980257034301758,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -1.6599576473236084,
+        "TSNE-2": 2.1006667613983154,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -16.148956298828125,
+        "TSNE-2": 8.301094055175781,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -10.835538864135742,
+        "TSNE-2": 11.902520179748535,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": 6.9398298263549805,
+        "TSNE-2": -2.7282190322875977,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -11.937058448791504,
+        "TSNE-2": -19.300168991088867,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": 3.489093780517578,
+        "TSNE-2": -5.438188076019287,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -5.235875129699707,
+        "TSNE-2": -0.7263745069503784,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -2.3123326301574707,
+        "TSNE-2": 20.14976692199707,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": 2.7619590759277344,
+        "TSNE-2": 2.3368337154388428,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -2.1987650394439697,
+        "TSNE-2": 14.026659965515137,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": -1.6599576473236084,
+        "TSNE-2": 2.1006667613983154,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 0.7620623111724854,
+        "TSNE-2": 6.653087139129639,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": 15.554573059082031,
+        "TSNE-2": -5.8412885665893555,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 18.966411590576172,
+        "TSNE-2": 2.716203212738037,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 9.224261283874512,
+        "TSNE-2": -9.939790725708008,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": 14.621133804321289,
+        "TSNE-2": 12.90157699584961,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 21.843799591064453,
+        "TSNE-2": -4.4773030281066895,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -13.399292945861816,
+        "TSNE-2": -13.714503288269043,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": 0.35893183946609497,
+        "TSNE-2": -1.0617542266845703,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 11.873724937438965,
+        "TSNE-2": -5.764716148376465,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": -7.447611331939697,
+        "TSNE-2": 8.742549896240234,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -2.437796115875244,
+        "TSNE-2": 22.681976318359375,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": -15.23163890838623,
+        "TSNE-2": 3.372328519821167,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": 9.668622970581055,
+        "TSNE-2": -3.1285207271575928,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 13.892528533935547,
+        "TSNE-2": -2.04099702835083,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 0.7993019819259644,
+        "TSNE-2": -5.088344097137451,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 0.8120401501655579,
+        "TSNE-2": -8.129345893859863,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 15.39380931854248,
+        "TSNE-2": -12.800041198730469,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": -11.918431282043457,
+        "TSNE-2": -9.628837585449219,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": -8.242105484008789,
+        "TSNE-2": -1.5010221004486084,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -3.9387893676757812,
+        "TSNE-2": -10.913264274597168,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 1.131976842880249,
+        "TSNE-2": 2.319918155670166,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 10.385835647583008,
+        "TSNE-2": 9.494441032409668,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 11.169639587402344,
+        "TSNE-2": 3.9581220149993896,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 0.9359367489814758,
+        "TSNE-2": 9.607664108276367,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": 7.1171369552612305,
+        "TSNE-2": 4.568365097045898,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -8.226144790649414,
+        "TSNE-2": 3.717297315597534,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -10.645445823669434,
+        "TSNE-2": -2.8606810569763184,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -6.752009868621826,
+        "TSNE-2": -18.02725601196289,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": 4.246519565582275,
+        "TSNE-2": -10.402454376220703,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": -7.042861461639404,
+        "TSNE-2": 13.08496379852295,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": 6.9398298263549805,
+        "TSNE-2": -2.7282190322875977,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -11.777942657470703,
+        "TSNE-2": -0.8095754981040955,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -4.806789398193359,
+        "TSNE-2": 6.250561714172363,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -9.17834758758545,
+        "TSNE-2": 12.572243690490723,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -0.5437138080596924,
+        "TSNE-2": -3.3603789806365967,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -6.752009868621826,
+        "TSNE-2": -18.02725601196289,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": 2.9308178424835205,
+        "TSNE-2": -0.8611942529678345,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 17.82316017150879,
+        "TSNE-2": 3.9764797687530518,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -16.133926391601562,
+        "TSNE-2": -4.422664165496826,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": -4.101268291473389,
+        "TSNE-2": 21.38882064819336,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": -1.8340173959732056,
+        "TSNE-2": 5.225491523742676,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": 22.022544860839844,
+        "TSNE-2": 2.570061206817627,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 5.426699638366699,
+        "TSNE-2": -20.01593780517578,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": 16.659563064575195,
+        "TSNE-2": -0.9277788996696472,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 10.658639907836914,
+        "TSNE-2": -11.451515197753906,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": 5.889120101928711,
+        "TSNE-2": -12.167702674865723,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": -11.117372512817383,
+        "TSNE-2": -5.804598808288574,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": 4.563114166259766,
+        "TSNE-2": 4.8558783531188965,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -7.2557454109191895,
+        "TSNE-2": -3.637988805770874,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 8.110322952270508,
+        "TSNE-2": 2.878500461578369,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 5.90539026260376,
+        "TSNE-2": 10.623133659362793,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": 14.703587532043457,
+        "TSNE-2": 6.812757968902588,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -1.976320505142212,
+        "TSNE-2": 8.985037803649902,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -2.1987650394439697,
+        "TSNE-2": 14.026659965515137,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": 3.7779605388641357,
+        "TSNE-2": 14.619370460510254,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": -6.4603681564331055,
+        "TSNE-2": 3.468424081802368,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -8.906717300415039,
+        "TSNE-2": -5.430486679077148,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": 6.3581061363220215,
+        "TSNE-2": -5.613580226898193,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": 5.303055763244629,
+        "TSNE-2": -7.946140289306641,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": 3.7779605388641357,
+        "TSNE-2": 14.619370460510254,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": 16.95953369140625,
+        "TSNE-2": -7.971997261047363,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": -12.443685531616211,
+        "TSNE-2": 13.888806343078613,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": -3.070469379425049,
+        "TSNE-2": -1.9274089336395264,
+        "cluster": 4,
+        "keywords": "faith, holiday, content, activity, express"
+      },
+      {
+        "TSNE-1": -11.937058448791504,
+        "TSNE-2": -19.300168991088867,
+        "cluster": 2,
+        "keywords": "document, neutrality, secularism, danger, aware"
+      },
+      {
+        "TSNE-1": 5.426699638366699,
+        "TSNE-2": -20.01593780517578,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": 7.900321006774902,
+        "TSNE-2": 6.904380798339844,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 10.385835647583008,
+        "TSNE-2": 9.494441032409668,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -0.23194974660873413,
+        "TSNE-2": 22.189800262451172,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": 19.32599449157715,
+        "TSNE-2": 10.14238166809082,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": -0.31849655508995056,
+        "TSNE-2": -15.046435356140137,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": 3.4385759830474854,
+        "TSNE-2": 7.320277214050293,
+        "cluster": 5,
+        "keywords": "free, message, clause, view, discus"
+      },
+      {
+        "TSNE-1": -13.086163520812988,
+        "TSNE-2": 4.559826850891113,
+        "cluster": 1,
+        "keywords": "may, teach, limited, clothing, engage"
+      },
+      {
+        "TSNE-1": 0.5962553024291992,
+        "TSNE-2": -11.563347816467285,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      },
+      {
+        "TSNE-1": 13.892528533935547,
+        "TSNE-2": -2.04099702835083,
+        "cluster": 3,
+        "keywords": "promote, cannot, educational, belief, must"
+      },
+      {
+        "TSNE-1": 12.633064270019531,
+        "TSNE-2": -16.92389488220215,
+        "cluster": 0,
+        "keywords": "religious, religion, school, public, student"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_298",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-42014 - how does religion show in public school"
+  }
+}

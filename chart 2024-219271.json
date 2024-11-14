@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-861754fa93f03e78e32128cdfe3a16aa"
+  },
+  "datasets": {
+    "data-861754fa93f03e78e32128cdfe3a16aa": [
+      {
+        "TSNE-1": 0.513408362865448,
+        "TSNE-2": 0.7744295597076416,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 1.3381168842315674,
+        "TSNE-2": -3.8063859939575195,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -1.5241204500198364,
+        "TSNE-2": -4.750393390655518,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": 3.6516475677490234,
+        "TSNE-2": -4.717512130737305,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -1.5241204500198364,
+        "TSNE-2": -4.750393390655518,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": 3.360292673110962,
+        "TSNE-2": -1.3205593824386597,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -2.2923765182495117,
+        "TSNE-2": 2.8291468620300293,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 9.053160667419434,
+        "TSNE-2": 5.410862922668457,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -13.601204872131348,
+        "TSNE-2": 3.232485055923462,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": -3.5197031497955322,
+        "TSNE-2": -2.501333475112915,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 0.548615038394928,
+        "TSNE-2": 10.697021484375,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 2.9905264377593994,
+        "TSNE-2": 3.695115566253662,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": -5.023975372314453,
+        "TSNE-2": 2.0518133640289307,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": -14.500670433044434,
+        "TSNE-2": 2.115262985229492,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 2.8704161643981934,
+        "TSNE-2": 7.971853733062744,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": -12.715547561645508,
+        "TSNE-2": -3.8472158908843994,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": -2.2923765182495117,
+        "TSNE-2": 2.8291468620300293,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 2.4184441566467285,
+        "TSNE-2": 5.699121475219727,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 3.8423843383789062,
+        "TSNE-2": -12.66335391998291,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 14.535467147827148,
+        "TSNE-2": -0.15068748593330383,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -4.573737621307373,
+        "TSNE-2": 3.6173017024993896,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": 7.061323165893555,
+        "TSNE-2": 1.5902626514434814,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -6.430246829986572,
+        "TSNE-2": 5.3102946281433105,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": -5.249933242797852,
+        "TSNE-2": -0.3896467983722687,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": -3.141892910003662,
+        "TSNE-2": 4.9781999588012695,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": -6.754987716674805,
+        "TSNE-2": -11.722092628479004,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 2.121584415435791,
+        "TSNE-2": -8.058757781982422,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": -13.211029052734375,
+        "TSNE-2": 3.745363235473633,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": -1.3231641054153442,
+        "TSNE-2": 13.533182144165039,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": 8.115924835205078,
+        "TSNE-2": 6.029435157775879,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": 0.9677661657333374,
+        "TSNE-2": -13.507699966430664,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 1.2248404026031494,
+        "TSNE-2": 3.4466912746429443,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 8.971693992614746,
+        "TSNE-2": 9.292877197265625,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -2.3277063369750977,
+        "TSNE-2": 6.781943321228027,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": -3.5284154415130615,
+        "TSNE-2": 8.89001178741455,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": 5.362987041473389,
+        "TSNE-2": -6.846870422363281,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -4.945180892944336,
+        "TSNE-2": -5.908943176269531,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 0.1600521206855774,
+        "TSNE-2": 5.3180341720581055,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": -2.048042058944702,
+        "TSNE-2": 0.48976820707321167,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": -5.28789758682251,
+        "TSNE-2": 8.46915340423584,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": 0.05964769795536995,
+        "TSNE-2": 2.833411693572998,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 2.6431052684783936,
+        "TSNE-2": 2.3412415981292725,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": -0.7790575623512268,
+        "TSNE-2": -1.1720086336135864,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": 6.823164939880371,
+        "TSNE-2": -6.137058258056641,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": 5.29240608215332,
+        "TSNE-2": -11.040262222290039,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 2.682581901550293,
+        "TSNE-2": -14.389402389526367,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 11.298222541809082,
+        "TSNE-2": -1.3250408172607422,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -3.5197031497955322,
+        "TSNE-2": -2.501333475112915,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": -2.106525182723999,
+        "TSNE-2": 9.816031455993652,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": -7.637967586517334,
+        "TSNE-2": -6.929044723510742,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 0.2580204904079437,
+        "TSNE-2": -2.480329990386963,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": 3.2451889514923096,
+        "TSNE-2": 2.0792088508605957,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": -6.707588195800781,
+        "TSNE-2": 11.191398620605469,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": 4.99953031539917,
+        "TSNE-2": 6.5708746910095215,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 3.974883794784546,
+        "TSNE-2": -3.8504395484924316,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -7.41079044342041,
+        "TSNE-2": -0.9132640361785889,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 13.108428001403809,
+        "TSNE-2": -2.015153408050537,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -8.646641731262207,
+        "TSNE-2": 3.427149534225464,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": -2.6543633937835693,
+        "TSNE-2": -7.507445812225342,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 5.453315258026123,
+        "TSNE-2": -0.8859928250312805,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -7.820267677307129,
+        "TSNE-2": -6.187917709350586,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": -3.760490655899048,
+        "TSNE-2": -12.280340194702148,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 1.7306309938430786,
+        "TSNE-2": -11.9356107711792,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 6.488381385803223,
+        "TSNE-2": -5.163894176483154,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -5.512625217437744,
+        "TSNE-2": -3.122074604034424,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 7.0075154304504395,
+        "TSNE-2": -3.8240323066711426,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -7.315876007080078,
+        "TSNE-2": 1.5709033012390137,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 0.44107586145401,
+        "TSNE-2": 7.371374130249023,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 7.732171535491943,
+        "TSNE-2": 1.1601738929748535,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": 4.75286865234375,
+        "TSNE-2": 10.790398597717285,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": -12.715547561645508,
+        "TSNE-2": -3.8472158908843994,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 0.4901242256164551,
+        "TSNE-2": -6.79789924621582,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 7.962375640869141,
+        "TSNE-2": -8.250103950500488,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": 8.618085861206055,
+        "TSNE-2": -4.194782257080078,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -9.63926887512207,
+        "TSNE-2": -0.8490782380104065,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 9.264669418334961,
+        "TSNE-2": -6.987834930419922,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": 0.4901242256164551,
+        "TSNE-2": -6.79789924621582,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": -0.7131244540214539,
+        "TSNE-2": -9.011916160583496,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": 10.943796157836914,
+        "TSNE-2": -0.5942326784133911,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -5.880293369293213,
+        "TSNE-2": 3.9262707233428955,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": -9.739875793457031,
+        "TSNE-2": 7.274375915527344,
+        "cluster": 0,
+        "keywords": "american, cultural, culture, export, global"
+      },
+      {
+        "TSNE-1": 5.453315258026123,
+        "TSNE-2": -0.8859928250312805,
+        "cluster": 2,
+        "keywords": "billion, producer, economic, pop, dollar"
+      },
+      {
+        "TSNE-1": -4.482789039611816,
+        "TSNE-2": 0.13835947215557098,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": -2.048042058944702,
+        "TSNE-2": 0.48976820707321167,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 13.003015518188477,
+        "TSNE-2": -0.24769076704978943,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -9.704704284667969,
+        "TSNE-2": -8.193758010864258,
+        "cluster": 3,
+        "keywords": "united, discusses, context, mention, international"
+      },
+      {
+        "TSNE-1": 13.489167213439941,
+        "TSNE-2": 1.9763777256011963,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": 4.043619155883789,
+        "TSNE-2": 7.647095203399658,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 9.9781494140625,
+        "TSNE-2": 4.75319242477417,
+        "cluster": 5,
+        "keywords": "text, standard, lead, nation, improves"
+      },
+      {
+        "TSNE-1": -1.5877447128295898,
+        "TSNE-2": 4.231945514678955,
+        "cluster": 4,
+        "keywords": "people, intercultural, local, exchange, concern"
+      },
+      {
+        "TSNE-1": 0.9677661657333374,
+        "TSNE-2": -13.507699966430664,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      },
+      {
+        "TSNE-1": -3.6570353507995605,
+        "TSNE-2": -8.587526321411133,
+        "cluster": 1,
+        "keywords": "country, positive, higher, also, globalization"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_168",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-219271 - why does the export of the us culture do more good than harm"
+  }
+}

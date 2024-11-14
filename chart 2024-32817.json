@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3268e361f7a479a8dbba29e6b5fc1713"
+  },
+  "datasets": {
+    "data-3268e361f7a479a8dbba29e6b5fc1713": [
+      {
+        "TSNE-1": 3.2368552684783936,
+        "TSNE-2": -2.729390859603882,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": -0.9502854347229004,
+        "TSNE-2": 0.6536931991577148,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -5.771848678588867,
+        "TSNE-2": 12.982565879821777,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": -4.998284339904785,
+        "TSNE-2": 5.258467674255371,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": -5.771848678588867,
+        "TSNE-2": 12.982565879821777,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": -23.37356185913086,
+        "TSNE-2": 8.229300498962402,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": 2.748887062072754,
+        "TSNE-2": 6.034940242767334,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 6.483430862426758,
+        "TSNE-2": -4.288405418395996,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": -1.1785835027694702,
+        "TSNE-2": 7.674315929412842,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": -6.083720684051514,
+        "TSNE-2": 2.8229334354400635,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 1.9461450576782227,
+        "TSNE-2": -7.056637763977051,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": -12.772263526916504,
+        "TSNE-2": 3.042820453643799,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": 6.9949212074279785,
+        "TSNE-2": -2.0445773601531982,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": -3.8066508769989014,
+        "TSNE-2": -2.3714098930358887,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -5.418595314025879,
+        "TSNE-2": 1.281413197517395,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 10.119690895080566,
+        "TSNE-2": 3.334731340408325,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -8.277432441711426,
+        "TSNE-2": 9.206276893615723,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 6.483430862426758,
+        "TSNE-2": -4.288405418395996,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 9.524818420410156,
+        "TSNE-2": 1.5175373554229736,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": 6.075055122375488,
+        "TSNE-2": 5.995484352111816,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -12.264769554138184,
+        "TSNE-2": 7.86826753616333,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": 13.368013381958008,
+        "TSNE-2": -1.5535885095596313,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": -12.973554611206055,
+        "TSNE-2": 7.923373222351074,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": -13.227088928222656,
+        "TSNE-2": -3.548992872238159,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": 4.122143268585205,
+        "TSNE-2": -5.853300094604492,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 5.880073547363281,
+        "TSNE-2": -6.0292887687683105,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": -6.1420488357543945,
+        "TSNE-2": 6.112053394317627,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 0.22716236114501953,
+        "TSNE-2": 6.455438137054443,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -5.418595314025879,
+        "TSNE-2": 1.281413197517395,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": -10.507610321044922,
+        "TSNE-2": -0.6442050933837891,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": -2.0363235473632812,
+        "TSNE-2": 8.810494422912598,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 6.291782855987549,
+        "TSNE-2": 8.27456283569336,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 5.282683372497559,
+        "TSNE-2": -2.6205615997314453,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 7.327388763427734,
+        "TSNE-2": 0.8344056010246277,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 9.217351913452148,
+        "TSNE-2": -3.6976428031921387,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": 1.0383048057556152,
+        "TSNE-2": -1.035629391670227,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 8.445087432861328,
+        "TSNE-2": -5.945993900299072,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": -2.2475016117095947,
+        "TSNE-2": 4.216724395751953,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 1.0752445459365845,
+        "TSNE-2": -4.537620544433594,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 2.7376129627227783,
+        "TSNE-2": 0.909030020236969,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -0.8865983486175537,
+        "TSNE-2": 1.595586895942688,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 1.4462815523147583,
+        "TSNE-2": -2.1783769130706787,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 5.825469970703125,
+        "TSNE-2": -0.9583601355552673,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 1.5090317726135254,
+        "TSNE-2": -11.099236488342285,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 12.86136245727539,
+        "TSNE-2": -4.08615255355835,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": -9.3111572265625,
+        "TSNE-2": -5.322582244873047,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 8.48095417022705,
+        "TSNE-2": 8.301676750183105,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 0.3381097912788391,
+        "TSNE-2": 9.745616912841797,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 1.9461450576782227,
+        "TSNE-2": -7.056637763977051,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 12.560441970825195,
+        "TSNE-2": -4.894505023956299,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": -2.0106327533721924,
+        "TSNE-2": -9.628397941589355,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -7.2950520515441895,
+        "TSNE-2": 1.4761351346969604,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 4.794127464294434,
+        "TSNE-2": -1.0463290214538574,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": -9.3111572265625,
+        "TSNE-2": -5.322582244873047,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 6.769171714782715,
+        "TSNE-2": 2.973487377166748,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -4.3412933349609375,
+        "TSNE-2": -5.233042240142822,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 11.140074729919434,
+        "TSNE-2": 2.7459068298339844,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": -5.896137237548828,
+        "TSNE-2": -0.5252410173416138,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 3.8424997329711914,
+        "TSNE-2": 3.355928659439087,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -4.9142231941223145,
+        "TSNE-2": -4.926494598388672,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -3.037076711654663,
+        "TSNE-2": -14.276037216186523,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -2.7177586555480957,
+        "TSNE-2": -10.592060089111328,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -1.372925043106079,
+        "TSNE-2": -10.4580078125,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 6.056456565856934,
+        "TSNE-2": 10.257342338562012,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 7.758592128753662,
+        "TSNE-2": -7.5251054763793945,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 2.3294858932495117,
+        "TSNE-2": -4.687643527984619,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 10.15634822845459,
+        "TSNE-2": -7.755121231079102,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": -1.7971826791763306,
+        "TSNE-2": -1.576625108718872,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -1.8538072109222412,
+        "TSNE-2": 12.341986656188965,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": -4.056552410125732,
+        "TSNE-2": 6.473657131195068,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": -0.7447530031204224,
+        "TSNE-2": -8.281376838684082,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -8.277432441711426,
+        "TSNE-2": 9.206276893615723,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": 1.143117070198059,
+        "TSNE-2": 4.824669361114502,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 5.329683780670166,
+        "TSNE-2": 1.1485728025436401,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 7.342766761779785,
+        "TSNE-2": -9.025547981262207,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 10.026895523071289,
+        "TSNE-2": -1.020695447921753,
+        "cluster": 0,
+        "keywords": "woman, group, marginalization, power, individual"
+      },
+      {
+        "TSNE-1": -1.043385624885559,
+        "TSNE-2": -4.127664566040039,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 1.143117070198059,
+        "TSNE-2": 4.824669361114502,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -3.896291494369507,
+        "TSNE-2": -9.02962875366211,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -7.870687961578369,
+        "TSNE-2": 2.9961626529693604,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      },
+      {
+        "TSNE-1": -12.261269569396973,
+        "TSNE-2": -3.5367555618286133,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": -12.772263526916504,
+        "TSNE-2": 3.042820453643799,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": -3.037076711654663,
+        "TSNE-2": -14.276037216186523,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": -7.865838050842285,
+        "TSNE-2": -4.690390110015869,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 2.7376129627227783,
+        "TSNE-2": 0.909030020236969,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 1.7163572311401367,
+        "TSNE-2": 12.083788871765137,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -10.941919326782227,
+        "TSNE-2": -0.03608372062444687,
+        "cluster": 4,
+        "keywords": "nan, mean, contribution, oppression, like"
+      },
+      {
+        "TSNE-1": -9.109607696533203,
+        "TSNE-2": -9.333861351013184,
+        "cluster": 1,
+        "keywords": "perspective, social, way, subordinate, inequality"
+      },
+      {
+        "TSNE-1": 8.7050199508667,
+        "TSNE-2": 3.096681833267212,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 12.13208293914795,
+        "TSNE-2": 6.876164436340332,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": 3.9929568767547607,
+        "TSNE-2": -4.286406517028809,
+        "cluster": 5,
+        "keywords": "economic, job, contribute, distinction, structure"
+      },
+      {
+        "TSNE-1": 6.291782855987549,
+        "TSNE-2": 8.27456283569336,
+        "cluster": 3,
+        "keywords": "often, dominant, lead, people, exclusion"
+      },
+      {
+        "TSNE-1": -3.7189040184020996,
+        "TSNE-2": 5.7487688064575195,
+        "cluster": 2,
+        "keywords": "symbol, important, position, others, political"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_279",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-32817 - how are those in power contributing to marginalization?"
+  }
+}

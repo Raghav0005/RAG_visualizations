@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-b0ddfb4d4b30d8891ad7bac18846c979"
+  },
+  "datasets": {
+    "data-b0ddfb4d4b30d8891ad7bac18846c979": [
+      {
+        "TSNE-1": -12.251800537109375,
+        "TSNE-2": 2.5873522758483887,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": 12.748030662536621,
+        "TSNE-2": 4.917185306549072,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -0.687282383441925,
+        "TSNE-2": 11.129185676574707,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": 2.241532325744629,
+        "TSNE-2": -9.8251953125,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -0.687282383441925,
+        "TSNE-2": 11.129185676574707,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": 9.40570068359375,
+        "TSNE-2": -5.448160648345947,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -5.006412029266357,
+        "TSNE-2": 1.5468660593032837,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -8.294111251831055,
+        "TSNE-2": 4.589405536651611,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": -0.9182273149490356,
+        "TSNE-2": -0.2916538417339325,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -8.54350471496582,
+        "TSNE-2": -8.888138771057129,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 3.45906138420105,
+        "TSNE-2": 14.334405899047852,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": -10.570735931396484,
+        "TSNE-2": 8.438350677490234,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": 5.723720073699951,
+        "TSNE-2": 1.6054575443267822,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 8.902203559875488,
+        "TSNE-2": 9.779184341430664,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": -9.266022682189941,
+        "TSNE-2": -10.799821853637695,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 8.594086647033691,
+        "TSNE-2": -0.30811020731925964,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -8.415596961975098,
+        "TSNE-2": 0.5709211826324463,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 7.381555557250977,
+        "TSNE-2": 4.779447555541992,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 0.9066024422645569,
+        "TSNE-2": -14.40595817565918,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -6.200613498687744,
+        "TSNE-2": -3.615933418273926,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": -5.224634170532227,
+        "TSNE-2": -6.577462673187256,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": -1.2136712074279785,
+        "TSNE-2": -0.925783097743988,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -4.410060882568359,
+        "TSNE-2": -5.526998043060303,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 11.149730682373047,
+        "TSNE-2": 8.007650375366211,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -4.21589994430542,
+        "TSNE-2": -3.7351813316345215,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 9.695536613464355,
+        "TSNE-2": 5.605885028839111,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 0.03718297928571701,
+        "TSNE-2": -10.976936340332031,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -3.7680795192718506,
+        "TSNE-2": -1.6232067346572876,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": -6.390830993652344,
+        "TSNE-2": -10.782611846923828,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 5.50841760635376,
+        "TSNE-2": -3.076136589050293,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -1.1307646036148071,
+        "TSNE-2": 6.640854835510254,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -10.874358177185059,
+        "TSNE-2": -3.3564059734344482,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 6.940565586090088,
+        "TSNE-2": 1.5070466995239258,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 10.13971996307373,
+        "TSNE-2": -2.247762441635132,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 2.898860454559326,
+        "TSNE-2": 4.606656551361084,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": 4.45660924911499,
+        "TSNE-2": 7.0981621742248535,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": 0.9336909651756287,
+        "TSNE-2": 0.8509439826011658,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": 7.1062774658203125,
+        "TSNE-2": -3.984015464782715,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 3.040109634399414,
+        "TSNE-2": 9.690728187561035,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": -6.32556676864624,
+        "TSNE-2": 12.713299751281738,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": -8.968449592590332,
+        "TSNE-2": 4.6527838706970215,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": 0.7792314291000366,
+        "TSNE-2": 3.435277223587036,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": 6.3860321044921875,
+        "TSNE-2": 2.5655388832092285,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 0.17005464434623718,
+        "TSNE-2": -3.615870952606201,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 5.127746105194092,
+        "TSNE-2": 8.459518432617188,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": 8.71438217163086,
+        "TSNE-2": -9.846269607543945,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 11.190546035766602,
+        "TSNE-2": 1.1669093370437622,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 2.5616250038146973,
+        "TSNE-2": -7.615428447723389,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 3.45906138420105,
+        "TSNE-2": 14.334405899047852,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": 4.133628845214844,
+        "TSNE-2": 6.2331438064575195,
+        "cluster": 5,
+        "keywords": "practice, alone, therapy, social, strategy"
+      },
+      {
+        "TSNE-1": 1.1325626373291016,
+        "TSNE-2": 6.8330559730529785,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -8.180671691894531,
+        "TSNE-2": -9.528656005859375,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 5.532654762268066,
+        "TSNE-2": 3.701207160949707,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 8.71438217163086,
+        "TSNE-2": -9.846269607543945,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 8.531148910522461,
+        "TSNE-2": -1.420958399772644,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -3.2190539836883545,
+        "TSNE-2": -4.953935146331787,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": -3.2290234565734863,
+        "TSNE-2": -9.618278503417969,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 0.8167803883552551,
+        "TSNE-2": -8.487885475158691,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -3.1274423599243164,
+        "TSNE-2": 9.739481925964355,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": -1.1032508611679077,
+        "TSNE-2": -4.693133354187012,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 4.681970119476318,
+        "TSNE-2": -5.467174530029297,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 0.8228088617324829,
+        "TSNE-2": 5.786769866943359,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": 4.585936069488525,
+        "TSNE-2": -7.798156261444092,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -10.874358177185059,
+        "TSNE-2": -3.3564059734344482,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": -2.9767355918884277,
+        "TSNE-2": 5.20098876953125,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": 7.727048873901367,
+        "TSNE-2": 6.333486557006836,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -5.1613240242004395,
+        "TSNE-2": 7.378200054168701,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": 9.049959182739258,
+        "TSNE-2": 2.0084433555603027,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -0.2403675615787506,
+        "TSNE-2": 3.706724166870117,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -0.12421228736639023,
+        "TSNE-2": -7.277584075927734,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 5.781239032745361,
+        "TSNE-2": -0.46335455775260925,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -8.415596961975098,
+        "TSNE-2": 0.5709211826324463,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": -3.7657687664031982,
+        "TSNE-2": 2.498504877090454,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": 1.57553231716156,
+        "TSNE-2": -3.737952709197998,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -4.401991367340088,
+        "TSNE-2": 5.524303913116455,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": -4.8894877433776855,
+        "TSNE-2": -0.7533037066459656,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 1.5896234512329102,
+        "TSNE-2": -2.0291802883148193,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -3.7657687664031982,
+        "TSNE-2": 2.498504877090454,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": 5.535531044006348,
+        "TSNE-2": -12.60827350616455,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -0.21054497361183167,
+        "TSNE-2": -9.251816749572754,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 9.468226432800293,
+        "TSNE-2": 8.218756675720215,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -10.570735931396484,
+        "TSNE-2": 8.438350677490234,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": 3.9870848655700684,
+        "TSNE-2": -5.285597801208496,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 3.100531578063965,
+        "TSNE-2": 2.986311197280884,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -6.32556676864624,
+        "TSNE-2": 12.713299751281738,
+        "cluster": 4,
+        "keywords": "vt, emotionally, include, affected, neglect"
+      },
+      {
+        "TSNE-1": 1.097008466720581,
+        "TSNE-2": -10.93713665008545,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": -1.4597939252853394,
+        "TSNE-2": 7.451716899871826,
+        "cluster": 0,
+        "keywords": "trauma, vicarious, symptom, like, behavioral"
+      },
+      {
+        "TSNE-1": -15.78377628326416,
+        "TSNE-2": -0.4765721261501312,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": 3.9478797912597656,
+        "TSNE-2": 0.37769412994384766,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": 8.185014724731445,
+        "TSNE-2": -5.156482219696045,
+        "cluster": 2,
+        "keywords": "mental, health, traumatic, personal, support"
+      },
+      {
+        "TSNE-1": 8.185586929321289,
+        "TSNE-2": 3.7002687454223633,
+        "cluster": 3,
+        "keywords": "individual, work, emotional, professional, also"
+      },
+      {
+        "TSNE-1": -10.874358177185059,
+        "TSNE-2": -3.3564059734344482,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      },
+      {
+        "TSNE-1": -4.597109317779541,
+        "TSNE-2": -7.204524040222168,
+        "cluster": 1,
+        "keywords": "pain, time, result, victim, process"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_2",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-145979 - what is vicarious trauma and how can it be coped with?"
+  }
+}

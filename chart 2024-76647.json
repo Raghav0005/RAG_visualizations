@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-cc92eb6de96d4f506a56b0bd6cec6ad3"
+  },
+  "datasets": {
+    "data-cc92eb6de96d4f506a56b0bd6cec6ad3": [
+      {
+        "TSNE-1": -0.16546408832073212,
+        "TSNE-2": 8.461105346679688,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 1.334214210510254,
+        "TSNE-2": -0.9827862977981567,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": 13.29761028289795,
+        "TSNE-2": -0.4366150200366974,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": -7.612428665161133,
+        "TSNE-2": -11.572490692138672,
+        "cluster": 2,
+        "keywords": "quality, chance, access, transportation, reduces"
+      },
+      {
+        "TSNE-1": 12.516636848449707,
+        "TSNE-2": -0.7622525095939636,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": 10.990469932556152,
+        "TSNE-2": -8.143396377563477,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": 14.184802055358887,
+        "TSNE-2": -1.4444231986999512,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": -1.5584659576416016,
+        "TSNE-2": 0.007674605119973421,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -10.53372859954834,
+        "TSNE-2": 7.405099391937256,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -1.93612802028656,
+        "TSNE-2": -9.834393501281738,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": 7.8456645011901855,
+        "TSNE-2": -8.306700706481934,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": 0.8093791007995605,
+        "TSNE-2": -14.833871841430664,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": 1.6691222190856934,
+        "TSNE-2": 3.421912908554077,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 3.8750734329223633,
+        "TSNE-2": 2.6417415142059326,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -4.683938503265381,
+        "TSNE-2": -7.797461986541748,
+        "cluster": 2,
+        "keywords": "quality, chance, access, transportation, reduces"
+      },
+      {
+        "TSNE-1": 2.605668306350708,
+        "TSNE-2": 6.111889362335205,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 8.277848243713379,
+        "TSNE-2": -1.1600152254104614,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": -1.5584659576416016,
+        "TSNE-2": 0.007674605119973421,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 5.316164016723633,
+        "TSNE-2": -1.5702251195907593,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": 3.0074448585510254,
+        "TSNE-2": -5.8826446533203125,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -4.169133186340332,
+        "TSNE-2": 3.0974624156951904,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -1.88848876953125,
+        "TSNE-2": 2.935724973678589,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -9.491567611694336,
+        "TSNE-2": 0.6211154460906982,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 3.810418128967285,
+        "TSNE-2": 0.513512134552002,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -5.201773166656494,
+        "TSNE-2": -1.1991310119628906,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 0.23337015509605408,
+        "TSNE-2": 5.675607681274414,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -5.389163494110107,
+        "TSNE-2": 3.5945208072662354,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 13.06666088104248,
+        "TSNE-2": -1.9046748876571655,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": -5.764368534088135,
+        "TSNE-2": -7.221122741699219,
+        "cluster": 2,
+        "keywords": "quality, chance, access, transportation, reduces"
+      },
+      {
+        "TSNE-1": -9.540179252624512,
+        "TSNE-2": 3.8276069164276123,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -10.401762962341309,
+        "TSNE-2": 6.8733038902282715,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 1.821569800376892,
+        "TSNE-2": -10.210731506347656,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": 0.7622606754302979,
+        "TSNE-2": 2.9938504695892334,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -1.0433989763259888,
+        "TSNE-2": 6.402278900146484,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 1.174713373184204,
+        "TSNE-2": -3.5328528881073,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -4.3277130126953125,
+        "TSNE-2": 7.771609306335449,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -4.783171653747559,
+        "TSNE-2": 6.294126033782959,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 8.442309379577637,
+        "TSNE-2": 2.7385644912719727,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": -5.96726655960083,
+        "TSNE-2": 0.611259937286377,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -4.170681953430176,
+        "TSNE-2": 0.3050781786441803,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 0.4403201639652252,
+        "TSNE-2": -1.4982739686965942,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": 6.622620105743408,
+        "TSNE-2": 6.123087406158447,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": 2.3638062477111816,
+        "TSNE-2": 4.588224411010742,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 0.002900458872318268,
+        "TSNE-2": 0.726483166217804,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": 5.302196025848389,
+        "TSNE-2": -4.125401020050049,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -3.792208194732666,
+        "TSNE-2": 13.378841400146484,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 2.5963869094848633,
+        "TSNE-2": -7.496625900268555,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": -2.760730504989624,
+        "TSNE-2": -11.219672203063965,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": 7.8456645011901855,
+        "TSNE-2": -8.306700706481934,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -3.047027111053467,
+        "TSNE-2": 7.338647842407227,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 9.01898193359375,
+        "TSNE-2": 7.998340129852295,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": -1.450405240058899,
+        "TSNE-2": -9.371505737304688,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": -0.015510058030486107,
+        "TSNE-2": 3.7643933296203613,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -3.792208194732666,
+        "TSNE-2": 13.378841400146484,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 3.6653308868408203,
+        "TSNE-2": 7.203695297241211,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 5.869083881378174,
+        "TSNE-2": 0.9463769197463989,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": 2.147411346435547,
+        "TSNE-2": 9.07066822052002,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -6.5601959228515625,
+        "TSNE-2": -6.34666633605957,
+        "cluster": 2,
+        "keywords": "quality, chance, access, transportation, reduces"
+      },
+      {
+        "TSNE-1": -1.9879202842712402,
+        "TSNE-2": -2.2332420349121094,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -3.8060121536254883,
+        "TSNE-2": 2.712308645248413,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -1.1691560745239258,
+        "TSNE-2": -5.607675552368164,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": 11.66451644897461,
+        "TSNE-2": 4.42416524887085,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": 9.699453353881836,
+        "TSNE-2": 6.640296459197998,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": 1.607099175453186,
+        "TSNE-2": -7.289678573608398,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": -4.183573246002197,
+        "TSNE-2": 9.198081970214844,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 1.5082378387451172,
+        "TSNE-2": 7.153728008270264,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -6.183879375457764,
+        "TSNE-2": 7.037623405456543,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -7.213895797729492,
+        "TSNE-2": 2.5892128944396973,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 4.395582675933838,
+        "TSNE-2": 4.780362129211426,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -7.621629238128662,
+        "TSNE-2": -11.019665718078613,
+        "cluster": 2,
+        "keywords": "quality, chance, access, transportation, reduces"
+      },
+      {
+        "TSNE-1": 7.167587757110596,
+        "TSNE-2": 5.788422107696533,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": 8.277848243713379,
+        "TSNE-2": -1.1600152254104614,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": -4.065897464752197,
+        "TSNE-2": -4.067519664764404,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 3.0072901248931885,
+        "TSNE-2": -2.1177732944488525,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -6.937966346740723,
+        "TSNE-2": 7.110933303833008,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 1.6698274612426758,
+        "TSNE-2": 1.3527781963348389,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -10.498159408569336,
+        "TSNE-2": -3.2933878898620605,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -4.065897464752197,
+        "TSNE-2": -4.067519664764404,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": 10.122428894042969,
+        "TSNE-2": 6.03199577331543,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": 4.157025337219238,
+        "TSNE-2": -10.169563293457031,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": 3.44035005569458,
+        "TSNE-2": 1.7432818412780762,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": 0.8093791007995605,
+        "TSNE-2": -14.833871841430664,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": -0.755668044090271,
+        "TSNE-2": -5.534479141235352,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": 6.211060523986816,
+        "TSNE-2": 2.548295736312866,
+        "cluster": 3,
+        "keywords": "people, paycheck, use, finance, homelessness"
+      },
+      {
+        "TSNE-1": -4.170681953430176,
+        "TSNE-2": 0.3050781786441803,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -6.662923336029053,
+        "TSNE-2": -7.296222686767578,
+        "cluster": 2,
+        "keywords": "quality, chance, access, transportation, reduces"
+      },
+      {
+        "TSNE-1": 8.542048454284668,
+        "TSNE-2": -4.448240280151367,
+        "cluster": 0,
+        "keywords": "job, unemployment, lead, loss, individual"
+      },
+      {
+        "TSNE-1": -8.110854148864746,
+        "TSNE-2": -1.654841423034668,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -1.1002973318099976,
+        "TSNE-2": 4.918352127075195,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": -8.260717391967773,
+        "TSNE-2": -3.1129512786865234,
+        "cluster": 4,
+        "keywords": "living, lack, may, without, emotional"
+      },
+      {
+        "TSNE-1": -0.4316868782043457,
+        "TSNE-2": 2.3328022956848145,
+        "cluster": 1,
+        "keywords": "poverty, financial, family, future, income"
+      },
+      {
+        "TSNE-1": 1.821569800376892,
+        "TSNE-2": -10.210731506347656,
+        "cluster": 5,
+        "keywords": "low, limited, pay, homeless, factor"
+      },
+      {
+        "TSNE-1": -6.143078327178955,
+        "TSNE-2": -11.30721664428711,
+        "cluster": 2,
+        "keywords": "quality, chance, access, transportation, reduces"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_100",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-76647 - how people get to being in poverty through a loss of job"
+  }
+}

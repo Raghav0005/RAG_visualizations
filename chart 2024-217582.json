@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-1a89f0a82283a71319c6de53fb674446"
+  },
+  "datasets": {
+    "data-1a89f0a82283a71319c6de53fb674446": [
+      {
+        "TSNE-1": 0.2196364402770996,
+        "TSNE-2": 9.80335807800293,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": -8.19498062133789,
+        "TSNE-2": 5.647036075592041,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": -0.222109854221344,
+        "TSNE-2": -7.989933013916016,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 4.826394557952881,
+        "TSNE-2": -10.161028861999512,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": -0.222109854221344,
+        "TSNE-2": -7.989933013916016,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 8.437037467956543,
+        "TSNE-2": -4.9174065589904785,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": -2.3382365703582764,
+        "TSNE-2": -7.579524040222168,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -1.1938682794570923,
+        "TSNE-2": 2.859851121902466,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 1.2436805963516235,
+        "TSNE-2": -10.632092475891113,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": -8.529088020324707,
+        "TSNE-2": -1.930411696434021,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -5.854922771453857,
+        "TSNE-2": -3.76277756690979,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 0.9904949069023132,
+        "TSNE-2": 13.67706298828125,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": -2.0531952381134033,
+        "TSNE-2": 6.469931125640869,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 0.4976367652416229,
+        "TSNE-2": 7.703608989715576,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": -2.3363306522369385,
+        "TSNE-2": -12.22619342803955,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 1.9958313703536987,
+        "TSNE-2": 8.034956932067871,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": 9.356287002563477,
+        "TSNE-2": 6.337623596191406,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": -1.1938682794570923,
+        "TSNE-2": 2.859851121902466,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 4.613769054412842,
+        "TSNE-2": 6.898629188537598,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": 6.193500518798828,
+        "TSNE-2": -1.2649600505828857,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": 3.3928914070129395,
+        "TSNE-2": -8.437155723571777,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": 2.1765379905700684,
+        "TSNE-2": 2.81333589553833,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": -5.013496398925781,
+        "TSNE-2": -9.278681755065918,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -1.4041314125061035,
+        "TSNE-2": 10.867724418640137,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": -2.554929733276367,
+        "TSNE-2": 8.83686637878418,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": -0.9618191719055176,
+        "TSNE-2": 8.143562316894531,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": 6.341230869293213,
+        "TSNE-2": -9.232135772705078,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": -1.314192533493042,
+        "TSNE-2": -8.449482917785645,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -1.8290733098983765,
+        "TSNE-2": -12.545023918151855,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 7.321908473968506,
+        "TSNE-2": -3.71571946144104,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": 2.466524362564087,
+        "TSNE-2": -2.822084426879883,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 5.407303333282471,
+        "TSNE-2": -4.86664342880249,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": -2.2272391319274902,
+        "TSNE-2": 7.25965690612793,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 4.964492321014404,
+        "TSNE-2": 8.762578964233398,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": -6.565652370452881,
+        "TSNE-2": 7.146113872528076,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 3.9021847248077393,
+        "TSNE-2": 0.3826892375946045,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 5.25323486328125,
+        "TSNE-2": 1.7927324771881104,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": -0.39887142181396484,
+        "TSNE-2": -3.896804094314575,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 1.7945771217346191,
+        "TSNE-2": 5.746777057647705,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": 1.0829784870147705,
+        "TSNE-2": 4.230018615722656,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 2.4094626903533936,
+        "TSNE-2": 11.07270336151123,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": -4.601866245269775,
+        "TSNE-2": 1.41425359249115,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": -1.758121371269226,
+        "TSNE-2": 5.715266227722168,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": -0.7979416847229004,
+        "TSNE-2": 4.424106121063232,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 3.497291326522827,
+        "TSNE-2": 1.2355412244796753,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": -10.026618957519531,
+        "TSNE-2": -4.997213840484619,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 3.88685941696167,
+        "TSNE-2": -4.810570240020752,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": 3.658778667449951,
+        "TSNE-2": -13.525764465332031,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": -5.828543186187744,
+        "TSNE-2": -3.793360948562622,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 1.7418320178985596,
+        "TSNE-2": 0.2618046998977661,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": -0.872426450252533,
+        "TSNE-2": 0.05727820843458176,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": -2.6181800365448,
+        "TSNE-2": -13.42795181274414,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -2.561152696609497,
+        "TSNE-2": 5.063570976257324,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": -8.54393196105957,
+        "TSNE-2": -6.06964635848999,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": 3.989928960800171,
+        "TSNE-2": 8.812094688415527,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": 4.847262382507324,
+        "TSNE-2": -9.514391899108887,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": -3.771519184112549,
+        "TSNE-2": 7.183990001678467,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 1.874666690826416,
+        "TSNE-2": -14.144660949707031,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": 0.1279500424861908,
+        "TSNE-2": 2.0343105792999268,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 6.314074993133545,
+        "TSNE-2": -8.632037162780762,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": -3.1839113235473633,
+        "TSNE-2": -5.022145748138428,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -2.024458885192871,
+        "TSNE-2": -1.3702316284179688,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": -0.07848627120256424,
+        "TSNE-2": -0.6726090908050537,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 5.614062786102295,
+        "TSNE-2": -3.055631399154663,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": 6.679329872131348,
+        "TSNE-2": 2.8732147216796875,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": -4.080071926116943,
+        "TSNE-2": 5.312242031097412,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 3.962538003921509,
+        "TSNE-2": 2.901745319366455,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 8.58632755279541,
+        "TSNE-2": 3.355437994003296,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": -3.1858935356140137,
+        "TSNE-2": 0.5682655572891235,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": -4.627451419830322,
+        "TSNE-2": -9.666082382202148,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -3.548002004623413,
+        "TSNE-2": 1.3146989345550537,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 9.356287002563477,
+        "TSNE-2": 6.337623596191406,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": 0.008593279868364334,
+        "TSNE-2": -5.4320878982543945,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -6.145969867706299,
+        "TSNE-2": 0.30394446849823,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 5.158169269561768,
+        "TSNE-2": 3.428734064102173,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": -5.131753921508789,
+        "TSNE-2": 9.889349937438965,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": -3.5470235347747803,
+        "TSNE-2": 3.262887477874756,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 0.008593279868364334,
+        "TSNE-2": -5.4320878982543945,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -1.420905590057373,
+        "TSNE-2": -0.38151490688323975,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 3.413308620452881,
+        "TSNE-2": -14.043949127197266,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": 0.20036719739437103,
+        "TSNE-2": 6.437824249267578,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": -9.443951606750488,
+        "TSNE-2": -5.431100845336914,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -3.1839113235473633,
+        "TSNE-2": -5.022145748138428,
+        "cluster": 1,
+        "keywords": "may, afraid, express, avoid, want"
+      },
+      {
+        "TSNE-1": -5.96013069152832,
+        "TSNE-2": 3.287783622741699,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 1.0829784870147705,
+        "TSNE-2": 4.230018615722656,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 4.3018364906311035,
+        "TSNE-2": -14.922454833984375,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": 2.2696926593780518,
+        "TSNE-2": -2.3601596355438232,
+        "cluster": 2,
+        "keywords": "low, likely, spiral, theory, isolation"
+      },
+      {
+        "TSNE-1": 11.337669372558594,
+        "TSNE-2": -0.5962990522384644,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": 3.407797336578369,
+        "TSNE-2": 6.6890788078308105,
+        "cluster": 5,
+        "keywords": "feel, often, lead, many, pressure"
+      },
+      {
+        "TSNE-1": 11.535351753234863,
+        "TSNE-2": -0.8984534740447998,
+        "cluster": 4,
+        "keywords": "end, think, day, fit, like"
+      },
+      {
+        "TSNE-1": -6.639994144439697,
+        "TSNE-2": 5.674592971801758,
+        "cluster": 0,
+        "keywords": "opinion, people, social, fear, individual"
+      },
+      {
+        "TSNE-1": 5.407303333282471,
+        "TSNE-2": -4.86664342880249,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      },
+      {
+        "TSNE-1": 8.042486190795898,
+        "TSNE-2": -8.967177391052246,
+        "cluster": 3,
+        "keywords": "resolution, dictate, quiet, offend, upset"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_270",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-217582 - why do people not express their opinions"
+  }
+}

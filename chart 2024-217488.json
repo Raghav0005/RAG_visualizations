@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-112e4a809155d0888498b730c9bbadd3"
+  },
+  "datasets": {
+    "data-112e4a809155d0888498b730c9bbadd3": [
+      {
+        "TSNE-1": 5.315627574920654,
+        "TSNE-2": -1.8155571222305298,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": -1.7353366613388062,
+        "TSNE-2": 11.386831283569336,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": 9.558416366577148,
+        "TSNE-2": 10.018674850463867,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 1.1083760261535645,
+        "TSNE-2": -7.991214752197266,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 9.147852897644043,
+        "TSNE-2": 10.430624008178711,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": -0.589332103729248,
+        "TSNE-2": -6.992793083190918,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 8.071227073669434,
+        "TSNE-2": 8.274338722229004,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 1.4074853658676147,
+        "TSNE-2": 0.047524914145469666,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 8.251522064208984,
+        "TSNE-2": -8.538688659667969,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": -4.951672077178955,
+        "TSNE-2": -12.17664909362793,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 4.952588081359863,
+        "TSNE-2": 7.009539604187012,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": -8.86767292022705,
+        "TSNE-2": 11.867472648620605,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -3.1133508682250977,
+        "TSNE-2": 5.721962928771973,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -4.295665740966797,
+        "TSNE-2": -2.6907575130462646,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": 4.651913642883301,
+        "TSNE-2": -11.247591972351074,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 0.12427402287721634,
+        "TSNE-2": 7.485630035400391,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": -6.866389274597168,
+        "TSNE-2": -5.952609539031982,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": 1.4074853658676147,
+        "TSNE-2": 0.047524914145469666,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -2.606729507446289,
+        "TSNE-2": 8.527865409851074,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -11.588465690612793,
+        "TSNE-2": 6.276679039001465,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": 0.869777500629425,
+        "TSNE-2": -13.419806480407715,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 1.5870813131332397,
+        "TSNE-2": -3.104055881500244,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 2.368441343307495,
+        "TSNE-2": -12.703369140625,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 8.135587692260742,
+        "TSNE-2": -0.17926131188869476,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": -0.49364006519317627,
+        "TSNE-2": 5.8947882652282715,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -0.5210081338882446,
+        "TSNE-2": 3.1389331817626953,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -2.0395004749298096,
+        "TSNE-2": -9.347575187683105,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": -3.078960418701172,
+        "TSNE-2": -1.0239083766937256,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": 2.5925557613372803,
+        "TSNE-2": -7.678411960601807,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 6.2031168937683105,
+        "TSNE-2": -5.613069534301758,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": 8.516368865966797,
+        "TSNE-2": -9.060094833374023,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": -9.631402969360352,
+        "TSNE-2": 6.470506191253662,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -3.922081470489502,
+        "TSNE-2": 4.102072715759277,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": 2.0513007640838623,
+        "TSNE-2": 7.04807186126709,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 7.3122382164001465,
+        "TSNE-2": 4.857870578765869,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 3.1722631454467773,
+        "TSNE-2": 2.0994765758514404,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 4.016247749328613,
+        "TSNE-2": 4.791511058807373,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": -2.557163953781128,
+        "TSNE-2": 1.3841882944107056,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 6.356232166290283,
+        "TSNE-2": -2.017040491104126,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": 3.7119154930114746,
+        "TSNE-2": 0.34316104650497437,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -2.1341543197631836,
+        "TSNE-2": 12.427509307861328,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -7.151776313781738,
+        "TSNE-2": -0.09104615449905396,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": -2.424654960632324,
+        "TSNE-2": 4.058847427368164,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -1.1414376497268677,
+        "TSNE-2": -0.967889130115509,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 5.642688274383545,
+        "TSNE-2": 2.523885488510132,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -2.817474842071533,
+        "TSNE-2": -5.034777641296387,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": -9.598703384399414,
+        "TSNE-2": 3.858236789703369,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -2.232353925704956,
+        "TSNE-2": -12.290493965148926,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 4.952588081359863,
+        "TSNE-2": 7.009539604187012,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 4.223293781280518,
+        "TSNE-2": 3.0634403228759766,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -11.232900619506836,
+        "TSNE-2": 0.504797101020813,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": -4.621257305145264,
+        "TSNE-2": -12.883524894714355,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": -3.73230242729187,
+        "TSNE-2": 5.372999668121338,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -3.334137439727783,
+        "TSNE-2": -5.309685707092285,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": 1.8332116603851318,
+        "TSNE-2": 9.304840087890625,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 1.0075838565826416,
+        "TSNE-2": -9.126832962036133,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 0.11968087404966354,
+        "TSNE-2": 9.97243595123291,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 2.6771998405456543,
+        "TSNE-2": -9.637528419494629,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 5.047301769256592,
+        "TSNE-2": 10.355207443237305,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 0.10500934720039368,
+        "TSNE-2": -9.29398250579834,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 11.081392288208008,
+        "TSNE-2": 4.71221923828125,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": -10.15079116821289,
+        "TSNE-2": -3.1148383617401123,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": -9.580289840698242,
+        "TSNE-2": -1.9990172386169434,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": -8.51672649383545,
+        "TSNE-2": 4.9815521240234375,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": 2.208620548248291,
+        "TSNE-2": 4.396909236907959,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 5.931401252746582,
+        "TSNE-2": 0.8477984666824341,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 1.4625024795532227,
+        "TSNE-2": 3.262345552444458,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 2.1620559692382812,
+        "TSNE-2": 12.69223690032959,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": -7.525874614715576,
+        "TSNE-2": 0.5329176187515259,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": -0.1677345186471939,
+        "TSNE-2": -10.78177261352539,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": -6.642754077911377,
+        "TSNE-2": 4.255475997924805,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -6.866389274597168,
+        "TSNE-2": -5.952609539031982,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": -13.822399139404297,
+        "TSNE-2": 2.9027321338653564,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -5.757385730743408,
+        "TSNE-2": 6.992504119873047,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": 1.3289293050765991,
+        "TSNE-2": 4.92922830581665,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -1.9497201442718506,
+        "TSNE-2": 2.6002397537231445,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -5.516218662261963,
+        "TSNE-2": 3.2901875972747803,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -13.822399139404297,
+        "TSNE-2": 2.9027321338653564,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -9.75548267364502,
+        "TSNE-2": -0.9601870179176331,
+        "cluster": 1,
+        "keywords": "due, feel, people, often, psychic"
+      },
+      {
+        "TSNE-1": -3.842691659927368,
+        "TSNE-2": -9.623821258544922,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 1.93546462059021,
+        "TSNE-2": -1.5973488092422485,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -8.86767292022705,
+        "TSNE-2": 11.867472648620605,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": 11.628783226013184,
+        "TSNE-2": 4.589938640594482,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 8.560162544250488,
+        "TSNE-2": -3.9482343196868896,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": 3.7119154930114746,
+        "TSNE-2": 0.34316104650497437,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": 4.269259452819824,
+        "TSNE-2": -8.835798263549805,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      },
+      {
+        "TSNE-1": 9.636975288391113,
+        "TSNE-2": -4.9291253089904785,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": -5.843220233917236,
+        "TSNE-2": 9.38502311706543,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -0.09379501640796661,
+        "TSNE-2": 8.538996696472168,
+        "cluster": 0,
+        "keywords": "gaze, social, brain, signal, direct"
+      },
+      {
+        "TSNE-1": 10.506017684936523,
+        "TSNE-2": -2.390495777130127,
+        "cluster": 5,
+        "keywords": "person, personality, always, disorder, kind"
+      },
+      {
+        "TSNE-1": -0.5083363056182861,
+        "TSNE-2": 0.5395495891571045,
+        "cluster": 2,
+        "keywords": "human, even, sensation, individual, like"
+      },
+      {
+        "TSNE-1": -9.631402969360352,
+        "TSNE-2": 6.470506191253662,
+        "cluster": 3,
+        "keywords": "result, eye, detect, could, someone"
+      },
+      {
+        "TSNE-1": -2.135002613067627,
+        "TSNE-2": -10.496318817138672,
+        "cluster": 4,
+        "keywords": "may, judged, various, curiosity, possibility"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_282",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-217488 - why do people feel watched"
+  }
+}

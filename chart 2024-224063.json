@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-a1157cc268fb26c66a1a2727e9bf4490"
+  },
+  "datasets": {
+    "data-a1157cc268fb26c66a1a2727e9bf4490": [
+      {
+        "TSNE-1": 6.074893951416016,
+        "TSNE-2": 3.764354705810547,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": 8.08587646484375,
+        "TSNE-2": -0.15043337643146515,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": 7.645901679992676,
+        "TSNE-2": -4.069519519805908,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -1.346290111541748,
+        "TSNE-2": -6.641247272491455,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 7.645901679992676,
+        "TSNE-2": -4.069519519805908,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -0.612048864364624,
+        "TSNE-2": 9.456188201904297,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 5.198997974395752,
+        "TSNE-2": -6.561929702758789,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 2.8807144165039062,
+        "TSNE-2": 0.09244908392429352,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -10.583962440490723,
+        "TSNE-2": 1.0386391878128052,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": -10.159937858581543,
+        "TSNE-2": -3.10611629486084,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": -7.499622821807861,
+        "TSNE-2": -5.207230091094971,
+        "cluster": 4,
+        "keywords": "nan, writer, still, boring, reason"
+      },
+      {
+        "TSNE-1": 12.830184936523438,
+        "TSNE-2": 0.19806720316410065,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": 0.014236047863960266,
+        "TSNE-2": 2.3537776470184326,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -4.004543304443359,
+        "TSNE-2": 2.7764689922332764,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -0.3934021592140198,
+        "TSNE-2": -10.009183883666992,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 3.5803515911102295,
+        "TSNE-2": 10.075933456420898,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": -8.076616287231445,
+        "TSNE-2": 8.729894638061523,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": 2.8807144165039062,
+        "TSNE-2": 0.09244908392429352,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 2.710704803466797,
+        "TSNE-2": 8.792078018188477,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 1.0453375577926636,
+        "TSNE-2": -3.959315061569214,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -1.2956209182739258,
+        "TSNE-2": -10.68778133392334,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 3.8333590030670166,
+        "TSNE-2": 5.728417873382568,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 12.200989723205566,
+        "TSNE-2": 7.739920616149902,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": 8.653578758239746,
+        "TSNE-2": 6.429232597351074,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": 0.36717307567596436,
+        "TSNE-2": 5.788562297821045,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": -0.40632516145706177,
+        "TSNE-2": 0.9826599359512329,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -0.5035870671272278,
+        "TSNE-2": -6.989891529083252,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 5.205053806304932,
+        "TSNE-2": -8.95814037322998,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": -3.9352176189422607,
+        "TSNE-2": 4.8868513107299805,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 0.2125576138496399,
+        "TSNE-2": 12.626337051391602,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": -9.791350364685059,
+        "TSNE-2": 0.5413179993629456,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": 2.0924980640411377,
+        "TSNE-2": -12.33829402923584,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": -0.39221838116645813,
+        "TSNE-2": 3.0579581260681152,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 8.111983299255371,
+        "TSNE-2": 3.239121198654175,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -1.0817577838897705,
+        "TSNE-2": -2.1960880756378174,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 1.9474639892578125,
+        "TSNE-2": -1.9565269947052002,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -4.575392246246338,
+        "TSNE-2": -2.7564899921417236,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -6.635251045227051,
+        "TSNE-2": -8.840612411499023,
+        "cluster": 4,
+        "keywords": "nan, writer, still, boring, reason"
+      },
+      {
+        "TSNE-1": 6.068549633026123,
+        "TSNE-2": 1.8045899868011475,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -7.2118425369262695,
+        "TSNE-2": 2.518913984298706,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": 11.339106559753418,
+        "TSNE-2": -2.529360771179199,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -2.8519206047058105,
+        "TSNE-2": 6.443593502044678,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 1.329004168510437,
+        "TSNE-2": 1.2194218635559082,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -2.657921552658081,
+        "TSNE-2": 3.341292142868042,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -3.5533571243286133,
+        "TSNE-2": -1.8786661624908447,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 5.101486682891846,
+        "TSNE-2": -14.5584716796875,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": -6.5069899559021,
+        "TSNE-2": 5.610015392303467,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": 2.674234390258789,
+        "TSNE-2": -5.880318641662598,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": -7.499622821807861,
+        "TSNE-2": -5.207230091094971,
+        "cluster": 4,
+        "keywords": "nan, writer, still, boring, reason"
+      },
+      {
+        "TSNE-1": -11.052714347839355,
+        "TSNE-2": -6.695999622344971,
+        "cluster": 4,
+        "keywords": "nan, writer, still, boring, reason"
+      },
+      {
+        "TSNE-1": -5.377460479736328,
+        "TSNE-2": -0.1678282916545868,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -10.862144470214844,
+        "TSNE-2": -3.230530261993408,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": 1.8663067817687988,
+        "TSNE-2": 2.3638744354248047,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 5.101486682891846,
+        "TSNE-2": -14.5584716796875,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 5.10725212097168,
+        "TSNE-2": 8.686092376708984,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 0.7891595959663391,
+        "TSNE-2": -5.980682373046875,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 4.830925464630127,
+        "TSNE-2": 2.844357490539551,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": 1.5782201290130615,
+        "TSNE-2": -8.466472625732422,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": -2.3479127883911133,
+        "TSNE-2": 2.004970073699951,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 3.488553285598755,
+        "TSNE-2": -7.581849575042725,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": -9.61088752746582,
+        "TSNE-2": 4.567573547363281,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": 0.6410507559776306,
+        "TSNE-2": 7.342434406280518,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 2.943753957748413,
+        "TSNE-2": -2.682861328125,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 4.173050403594971,
+        "TSNE-2": 4.787743091583252,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -5.541040897369385,
+        "TSNE-2": -4.150855541229248,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 6.197041034698486,
+        "TSNE-2": 5.912919521331787,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -7.115414142608643,
+        "TSNE-2": -1.1584235429763794,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": 1.1733731031417847,
+        "TSNE-2": 3.9315543174743652,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 2.502540349960327,
+        "TSNE-2": 7.076573371887207,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 7.450371265411377,
+        "TSNE-2": -9.102596282958984,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": -0.2610092759132385,
+        "TSNE-2": -0.9514058828353882,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -8.076616287231445,
+        "TSNE-2": 8.729894638061523,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": -14.276127815246582,
+        "TSNE-2": 0.566329836845398,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": -1.037235975265503,
+        "TSNE-2": 4.812209129333496,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": -5.21323823928833,
+        "TSNE-2": -8.025375366210938,
+        "cluster": 4,
+        "keywords": "nan, writer, still, boring, reason"
+      },
+      {
+        "TSNE-1": 4.959146976470947,
+        "TSNE-2": -0.36621540784835815,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -2.3111305236816406,
+        "TSNE-2": -3.976590394973755,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": -14.276127815246582,
+        "TSNE-2": 0.566329836845398,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": -4.0710062980651855,
+        "TSNE-2": 0.12835538387298584,
+        "cluster": 0,
+        "keywords": "book, poorly, may, reader, bad"
+      },
+      {
+        "TSNE-1": 1.6058344841003418,
+        "TSNE-2": -6.28248405456543,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 7.411243915557861,
+        "TSNE-2": 6.294618606567383,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": 12.830184936523438,
+        "TSNE-2": 0.19806720316410065,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": -7.745883941650391,
+        "TSNE-2": -26.638080596923828,
+        "cluster": 4,
+        "keywords": "nan, writer, still, boring, reason"
+      },
+      {
+        "TSNE-1": -1.163304328918457,
+        "TSNE-2": 7.473698139190674,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": -7.2118425369262695,
+        "TSNE-2": 2.518913984298706,
+        "cluster": 3,
+        "keywords": "aware, entertainment, write, form, topic"
+      },
+      {
+        "TSNE-1": 2.566925287246704,
+        "TSNE-2": -8.673614501953125,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": -1.3466717004776,
+        "TSNE-2": 13.466423988342285,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": -4.76880407333374,
+        "TSNE-2": 11.590922355651855,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": 4.676181793212891,
+        "TSNE-2": 9.595499992370605,
+        "cluster": 1,
+        "keywords": "might, read, despite, people, story"
+      },
+      {
+        "TSNE-1": -7.2095842361450195,
+        "TSNE-2": -9.512042045593262,
+        "cluster": 4,
+        "keywords": "nan, writer, still, boring, reason"
+      },
+      {
+        "TSNE-1": 2.981050729751587,
+        "TSNE-2": 3.2692253589630127,
+        "cluster": 5,
+        "keywords": "literary, credibility, often, also, even"
+      },
+      {
+        "TSNE-1": 2.0924980640411377,
+        "TSNE-2": -12.33829402923584,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      },
+      {
+        "TSNE-1": 9.307247161865234,
+        "TSNE-2": -8.137689590454102,
+        "cluster": 2,
+        "keywords": "reading, lack, knowledge, difficult, skill"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_198",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-224063 - why people read poorly written books"
+  }
+}

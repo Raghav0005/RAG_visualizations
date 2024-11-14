@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7f18fee6ec9b7cf5132021934c0a5268"
+  },
+  "datasets": {
+    "data-7f18fee6ec9b7cf5132021934c0a5268": [
+      {
+        "TSNE-1": -2.710571050643921,
+        "TSNE-2": -3.4759838581085205,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 5.931970119476318,
+        "TSNE-2": 9.052154541015625,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": -8.243358612060547,
+        "TSNE-2": -5.609466552734375,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": -4.171982288360596,
+        "TSNE-2": -8.562582015991211,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": -8.243358612060547,
+        "TSNE-2": -5.609466552734375,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": 4.553040027618408,
+        "TSNE-2": -3.786273717880249,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 3.4154934883117676,
+        "TSNE-2": -6.355889797210693,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": 0.02993370220065117,
+        "TSNE-2": 4.499847412109375,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 0.5343924760818481,
+        "TSNE-2": 11.478684425354004,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 10.470956802368164,
+        "TSNE-2": 0.08307726681232452,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 1.8333086967468262,
+        "TSNE-2": 8.079768180847168,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -2.125570297241211,
+        "TSNE-2": -11.102579116821289,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": -1.48504638671875,
+        "TSNE-2": 2.9516708850860596,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 0.9902097582817078,
+        "TSNE-2": -2.4074883460998535,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 6.353660583496094,
+        "TSNE-2": -10.297235488891602,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": 7.258253574371338,
+        "TSNE-2": 2.4552536010742188,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 10.199797630310059,
+        "TSNE-2": 10.682472229003906,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 0.02993370220065117,
+        "TSNE-2": 4.499847412109375,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 4.1002068519592285,
+        "TSNE-2": 6.385847568511963,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 0.39989444613456726,
+        "TSNE-2": -7.295569896697998,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": 3.161226511001587,
+        "TSNE-2": -11.696259498596191,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": -4.885643005371094,
+        "TSNE-2": -1.6795964241027832,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": 10.792948722839355,
+        "TSNE-2": -6.114998817443848,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 1.7793513536453247,
+        "TSNE-2": -1.2511558532714844,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -3.966123104095459,
+        "TSNE-2": -4.455836772918701,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": -1.3678159713745117,
+        "TSNE-2": 0.9369490146636963,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -3.2660467624664307,
+        "TSNE-2": -7.2165207862854,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": -4.161444664001465,
+        "TSNE-2": 6.857354164123535,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 10.409407615661621,
+        "TSNE-2": -1.277029275894165,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": -1.3251947164535522,
+        "TSNE-2": -12.787886619567871,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": 0.6142168641090393,
+        "TSNE-2": 10.955307006835938,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 8.557730674743652,
+        "TSNE-2": -5.564176082611084,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 1.3966481685638428,
+        "TSNE-2": 2.189939260482788,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 5.086653232574463,
+        "TSNE-2": 0.5597069263458252,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 10.05356216430664,
+        "TSNE-2": 8.350295066833496,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": -2.6545419692993164,
+        "TSNE-2": 9.133581161499023,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -1.2281577587127686,
+        "TSNE-2": -1.0773919820785522,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -7.1923699378967285,
+        "TSNE-2": 4.978084564208984,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 1.8632410764694214,
+        "TSNE-2": 0.9484401345252991,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -2.004854202270508,
+        "TSNE-2": -5.3087992668151855,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 6.621143817901611,
+        "TSNE-2": 8.60805892944336,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 0.28685006499290466,
+        "TSNE-2": 1.0024057626724243,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 0.29454946517944336,
+        "TSNE-2": 2.8009960651397705,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 2.8624327182769775,
+        "TSNE-2": -5.316258430480957,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -1.8680111169815063,
+        "TSNE-2": 8.012076377868652,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -4.743460655212402,
+        "TSNE-2": 9.698651313781738,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 7.0137410163879395,
+        "TSNE-2": -2.5966286659240723,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": -6.297229290008545,
+        "TSNE-2": 1.196205735206604,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": 1.8333086967468262,
+        "TSNE-2": 8.079768180847168,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -3.5332388877868652,
+        "TSNE-2": 8.225883483886719,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 10.127870559692383,
+        "TSNE-2": 6.872312545776367,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 6.171675682067871,
+        "TSNE-2": -2.1110920906066895,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": -0.5366504788398743,
+        "TSNE-2": 2.021411418914795,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -1.711941123008728,
+        "TSNE-2": -9.053638458251953,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": 4.042125701904297,
+        "TSNE-2": 1.7868082523345947,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 1.542356252670288,
+        "TSNE-2": -4.222166061401367,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 7.487644195556641,
+        "TSNE-2": 1.6970255374908447,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 11.02635383605957,
+        "TSNE-2": 0.33929377794265747,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": -0.07675337791442871,
+        "TSNE-2": 6.184515953063965,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 1.0298196077346802,
+        "TSNE-2": -4.141788005828857,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 3.794064998626709,
+        "TSNE-2": 13.478169441223145,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": -4.609257698059082,
+        "TSNE-2": -7.036577224731445,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": 6.512544631958008,
+        "TSNE-2": 5.638223648071289,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 8.557730674743652,
+        "TSNE-2": -5.564176082611084,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": -0.6478996276855469,
+        "TSNE-2": -2.327077627182007,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -1.9404460191726685,
+        "TSNE-2": 4.315356731414795,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -2.3526952266693115,
+        "TSNE-2": -1.6476390361785889,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -2.913024425506592,
+        "TSNE-2": 0.9769383072853088,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": -9.262036323547363,
+        "TSNE-2": 1.265091061592102,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": -7.245611190795898,
+        "TSNE-2": -3.0624377727508545,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": 5.4784674644470215,
+        "TSNE-2": 4.9819135665893555,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 10.199797630310059,
+        "TSNE-2": 10.682472229003906,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 11.427070617675781,
+        "TSNE-2": 3.8574001789093018,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 2.6862800121307373,
+        "TSNE-2": 3.3006198406219482,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -2.916632890701294,
+        "TSNE-2": -0.9682286977767944,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 1.9847185611724854,
+        "TSNE-2": -12.66197395324707,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": 3.1086513996124268,
+        "TSNE-2": 4.308882713317871,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 11.427070617675781,
+        "TSNE-2": 3.8574001789093018,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": 2.804206132888794,
+        "TSNE-2": -11.119160652160645,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": -6.389603614807129,
+        "TSNE-2": 0.18327540159225464,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": -3.6620256900787354,
+        "TSNE-2": 2.3783044815063477,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -2.125570297241211,
+        "TSNE-2": -11.102579116821289,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": 3.3886525630950928,
+        "TSNE-2": 13.314712524414062,
+        "cluster": 0,
+        "keywords": "soviet, eastern, assert, significantly, russia"
+      },
+      {
+        "TSNE-1": -3.365410804748535,
+        "TSNE-2": 5.735735893249512,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -2.004854202270508,
+        "TSNE-2": -5.3087992668151855,
+        "cluster": 3,
+        "keywords": "international, significant, western, global, power"
+      },
+      {
+        "TSNE-1": 5.818020820617676,
+        "TSNE-2": -10.349440574645996,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      },
+      {
+        "TSNE-1": -5.719250202178955,
+        "TSNE-2": 7.697052001953125,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -8.627323150634766,
+        "TSNE-2": 2.845555543899536,
+        "cluster": 1,
+        "keywords": "policy, country, cooperation, integration, many"
+      },
+      {
+        "TSNE-1": 3.8281102180480957,
+        "TSNE-2": 0.5405392646789551,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": -6.476457595825195,
+        "TSNE-2": 7.6992974281311035,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": -3.8654937744140625,
+        "TSNE-2": 4.936069965362549,
+        "cluster": 2,
+        "keywords": "foreign, new, yeltsin, economic, national"
+      },
+      {
+        "TSNE-1": 8.557730674743652,
+        "TSNE-2": -5.564176082611084,
+        "cluster": 4,
+        "keywords": "nation, affected, expansion, president, could"
+      },
+      {
+        "TSNE-1": 4.770349025726318,
+        "TSNE-2": -9.056169509887695,
+        "cluster": 5,
+        "keywords": "information, context, provide, mention, boris"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_36",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-96359 - how were the non aligned countries affected by boris yeltsin"
+  }
+}

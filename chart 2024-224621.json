@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-6d1b4842e20b0630851720ff20c82a58"
+  },
+  "datasets": {
+    "data-6d1b4842e20b0630851720ff20c82a58": [
+      {
+        "TSNE-1": 3.5831921100616455,
+        "TSNE-2": 1.512662410736084,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 2.642807722091675,
+        "TSNE-2": -0.012485593557357788,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": -8.900537490844727,
+        "TSNE-2": -7.505350589752197,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -0.7030431032180786,
+        "TSNE-2": 6.075927257537842,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -8.83336067199707,
+        "TSNE-2": -7.356692790985107,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": 7.223276138305664,
+        "TSNE-2": -3.159388542175293,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": 3.020799160003662,
+        "TSNE-2": 11.554537773132324,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": -1.6467546224594116,
+        "TSNE-2": 1.1075546741485596,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 9.082262992858887,
+        "TSNE-2": -4.839118957519531,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": -9.332242965698242,
+        "TSNE-2": 5.078693389892578,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 7.746679306030273,
+        "TSNE-2": -7.031449794769287,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": 10.487201690673828,
+        "TSNE-2": -0.07701626420021057,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": -0.8790130615234375,
+        "TSNE-2": 4.047786712646484,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 1.6327579021453857,
+        "TSNE-2": 5.2367753982543945,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": -6.601956367492676,
+        "TSNE-2": -1.0684224367141724,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -5.421924591064453,
+        "TSNE-2": 3.5600955486297607,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -5.263858795166016,
+        "TSNE-2": -6.46215295791626,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -1.6467546224594116,
+        "TSNE-2": 1.1075546741485596,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": -5.162354946136475,
+        "TSNE-2": 0.49567148089408875,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -0.6558641195297241,
+        "TSNE-2": -9.096617698669434,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": 5.172182083129883,
+        "TSNE-2": -9.307011604309082,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": -1.3953715562820435,
+        "TSNE-2": -5.165094375610352,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": 3.5640316009521484,
+        "TSNE-2": -8.888708114624023,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": 3.7225077152252197,
+        "TSNE-2": 3.636256456375122,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": -3.6030752658843994,
+        "TSNE-2": 2.7378056049346924,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -2.1852221488952637,
+        "TSNE-2": 4.746058940887451,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 10.058980941772461,
+        "TSNE-2": 7.850831031799316,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": 6.695347785949707,
+        "TSNE-2": 0.09579157829284668,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": -8.626081466674805,
+        "TSNE-2": 5.4187397956848145,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 11.161445617675781,
+        "TSNE-2": -2.0183959007263184,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": 10.210367202758789,
+        "TSNE-2": -3.04248046875,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": 7.282508373260498,
+        "TSNE-2": 4.3213677406311035,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": -0.4501824676990509,
+        "TSNE-2": 4.197932720184326,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -2.769486427307129,
+        "TSNE-2": -0.9296717643737793,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": -4.271596908569336,
+        "TSNE-2": 9.283912658691406,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 3.127701759338379,
+        "TSNE-2": -5.244014739990234,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": 2.913564443588257,
+        "TSNE-2": -3.6178739070892334,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": -8.734167098999023,
+        "TSNE-2": -3.4805941581726074,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -2.389312267303467,
+        "TSNE-2": 6.620084762573242,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -3.161121368408203,
+        "TSNE-2": -3.3991456031799316,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": -5.978410243988037,
+        "TSNE-2": 1.8521634340286255,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -5.077183246612549,
+        "TSNE-2": 6.400215148925781,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -2.0090103149414062,
+        "TSNE-2": 3.3864858150482178,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 0.4225786626338959,
+        "TSNE-2": 6.207812309265137,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 1.586782455444336,
+        "TSNE-2": -2.027031421661377,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 12.155606269836426,
+        "TSNE-2": 0.03756722807884216,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": -1.3257288932800293,
+        "TSNE-2": -6.827857971191406,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": -12.340437889099121,
+        "TSNE-2": 1.2109870910644531,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": 7.746679306030273,
+        "TSNE-2": -7.031449794769287,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": 2.3556463718414307,
+        "TSNE-2": -2.1253225803375244,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": -8.456205368041992,
+        "TSNE-2": 1.1114006042480469,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -10.37696647644043,
+        "TSNE-2": 3.7915432453155518,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -0.8203920125961304,
+        "TSNE-2": 2.9154810905456543,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": -0.13867905735969543,
+        "TSNE-2": 10.49171257019043,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 1.59209144115448,
+        "TSNE-2": -0.08907707035541534,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 4.782139301300049,
+        "TSNE-2": -8.071227073669434,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": -3.30202579498291,
+        "TSNE-2": 0.8340702056884766,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": -6.693680763244629,
+        "TSNE-2": 4.505903244018555,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -1.1644949913024902,
+        "TSNE-2": -1.1844496726989746,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 3.6507434844970703,
+        "TSNE-2": -8.599756240844727,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": -4.33531379699707,
+        "TSNE-2": -10.221837997436523,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": 6.015257358551025,
+        "TSNE-2": 6.268136024475098,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": -2.0394716262817383,
+        "TSNE-2": 9.997715950012207,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -1.029417872428894,
+        "TSNE-2": -7.972413539886475,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": 0.29155343770980835,
+        "TSNE-2": -2.887166976928711,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 1.849498987197876,
+        "TSNE-2": 1.504687786102295,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 0.996913731098175,
+        "TSNE-2": -4.142911434173584,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": 2.294724941253662,
+        "TSNE-2": 2.5416641235351562,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 2.310821056365967,
+        "TSNE-2": 7.561048984527588,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": 9.176633834838867,
+        "TSNE-2": 8.470428466796875,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": 2.6465251445770264,
+        "TSNE-2": 7.998094081878662,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": -5.231253147125244,
+        "TSNE-2": -6.526638984680176,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": -7.141259670257568,
+        "TSNE-2": -3.573641777038574,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": 5.344822883605957,
+        "TSNE-2": -1.9271292686462402,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": 1.9895803928375244,
+        "TSNE-2": -4.819122314453125,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": -0.0650579109787941,
+        "TSNE-2": 8.074670791625977,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": 4.8223958015441895,
+        "TSNE-2": -1.3986445665359497,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": -7.141259670257568,
+        "TSNE-2": -3.573641777038574,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": 4.518291473388672,
+        "TSNE-2": 6.664848804473877,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": -12.00113296508789,
+        "TSNE-2": 1.5444810390472412,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": 1.2618738412857056,
+        "TSNE-2": 3.466768741607666,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 10.487201690673828,
+        "TSNE-2": -0.07701626420021057,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": -4.33531379699707,
+        "TSNE-2": -10.221837997436523,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": -3.6637918949127197,
+        "TSNE-2": 4.847078800201416,
+        "cluster": 0,
+        "keywords": "alienation, romantic, nature, romanticism, emotional"
+      },
+      {
+        "TSNE-1": -3.161121368408203,
+        "TSNE-2": -3.3991456031799316,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": -10.813126564025879,
+        "TSNE-2": 2.7081985473632812,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": 2.3959856033325195,
+        "TSNE-2": -11.770264625549316,
+        "cluster": 5,
+        "keywords": "emotion, mind, creative, age, society"
+      },
+      {
+        "TSNE-1": 8.485806465148926,
+        "TSNE-2": -8.990059852600098,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": -4.889265537261963,
+        "TSNE-2": -0.6986379623413086,
+        "cluster": 4,
+        "keywords": "importance, overcome, fundamental, emphasis, movement"
+      },
+      {
+        "TSNE-1": 10.655354499816895,
+        "TSNE-2": 2.0234694480895996,
+        "cluster": 2,
+        "keywords": "political, nostalgia, unity, natural, reason"
+      },
+      {
+        "TSNE-1": -0.46084168553352356,
+        "TSNE-2": 0.4702383279800415,
+        "cluster": 1,
+        "keywords": "societal, often, personal, individual, experience"
+      },
+      {
+        "TSNE-1": 7.282508373260498,
+        "TSNE-2": 4.3213677406311035,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      },
+      {
+        "TSNE-1": 10.10811710357666,
+        "TSNE-2": 8.490240097045898,
+        "cluster": 3,
+        "keywords": "industrial, spiritual, revolution, sense, arose"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_147",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-224621 - why was alienation so important in the romanticism"
+  }
+}

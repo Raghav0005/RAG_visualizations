@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-cf0b67780fe5300a15628f1b6ebb83d1"
+  },
+  "datasets": {
+    "data-cf0b67780fe5300a15628f1b6ebb83d1": [
+      {
+        "TSNE-1": 3.245213270187378,
+        "TSNE-2": -0.006349895149469376,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": 4.343405246734619,
+        "TSNE-2": 6.5809855461120605,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": -0.6738028526306152,
+        "TSNE-2": 2.1826066970825195,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": -4.456670761108398,
+        "TSNE-2": -5.9872050285339355,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -0.6718759536743164,
+        "TSNE-2": 2.1136538982391357,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 4.451639652252197,
+        "TSNE-2": 10.743907928466797,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": -0.8093788027763367,
+        "TSNE-2": 5.053418159484863,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 5.479222774505615,
+        "TSNE-2": 3.575410842895508,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 13.831171989440918,
+        "TSNE-2": -15.78341293334961,
+        "cluster": 5,
+        "keywords": "nan, flow, failure, family, fat"
+      },
+      {
+        "TSNE-1": -2.310922622680664,
+        "TSNE-2": -6.222540378570557,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -1.1904642581939697,
+        "TSNE-2": 7.636422157287598,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 3.9248647689819336,
+        "TSNE-2": -2.3404626846313477,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": 1.3369624614715576,
+        "TSNE-2": 3.4231045246124268,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 0.4419292211532593,
+        "TSNE-2": 0.9115946888923645,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": -2.9640021324157715,
+        "TSNE-2": -4.9470534324646,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 7.179795742034912,
+        "TSNE-2": 2.5433452129364014,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -1.4174280166625977,
+        "TSNE-2": 9.62246036529541,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 5.479222774505615,
+        "TSNE-2": 3.575410842895508,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 8.375739097595215,
+        "TSNE-2": 2.4008305072784424,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 2.006690263748169,
+        "TSNE-2": -6.205928325653076,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": -6.948318958282471,
+        "TSNE-2": -6.816765785217285,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -8.466309547424316,
+        "TSNE-2": 2.6250455379486084,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": -8.319748878479004,
+        "TSNE-2": -5.25391149520874,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 10.614407539367676,
+        "TSNE-2": 1.9459010362625122,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 3.520728826522827,
+        "TSNE-2": 8.580026626586914,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 3.512453556060791,
+        "TSNE-2": 1.5865103006362915,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -4.920530319213867,
+        "TSNE-2": -2.8206095695495605,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -0.8985816240310669,
+        "TSNE-2": 4.458341598510742,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": -3.3606936931610107,
+        "TSNE-2": -4.174225330352783,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 2.610243082046509,
+        "TSNE-2": -6.278582572937012,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": 6.567173004150391,
+        "TSNE-2": -2.2137420177459717,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": 0.44217967987060547,
+        "TSNE-2": -3.2768592834472656,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": 1.5537227392196655,
+        "TSNE-2": 4.706475734710693,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 7.462073802947998,
+        "TSNE-2": 4.088250637054443,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -8.520320892333984,
+        "TSNE-2": 3.670602321624756,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": -6.9350457191467285,
+        "TSNE-2": 3.9263272285461426,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": -4.24386739730835,
+        "TSNE-2": 4.719569206237793,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": -7.672664642333984,
+        "TSNE-2": 6.75436544418335,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": 2.909745216369629,
+        "TSNE-2": 5.216127395629883,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 4.845639228820801,
+        "TSNE-2": 1.777273178100586,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 2.8861734867095947,
+        "TSNE-2": 7.010404109954834,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 8.163857460021973,
+        "TSNE-2": 8.088261604309082,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 2.3582839965820312,
+        "TSNE-2": 3.345311164855957,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 4.812185764312744,
+        "TSNE-2": 4.909918785095215,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -6.565668106079102,
+        "TSNE-2": 3.231482744216919,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": -3.729050874710083,
+        "TSNE-2": -9.827848434448242,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -5.2264323234558105,
+        "TSNE-2": -0.6073511242866516,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": -6.602058410644531,
+        "TSNE-2": -7.196198463439941,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -1.1904642581939697,
+        "TSNE-2": 7.636422157287598,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": -6.826930046081543,
+        "TSNE-2": 2.695563793182373,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": 7.287971496582031,
+        "TSNE-2": 12.000982284545898,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": -2.8292717933654785,
+        "TSNE-2": -6.817807197570801,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 1.5539196729660034,
+        "TSNE-2": 3.9394726753234863,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 5.709033012390137,
+        "TSNE-2": 8.028822898864746,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 6.857250690460205,
+        "TSNE-2": 4.758762359619141,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -8.595939636230469,
+        "TSNE-2": -5.478451728820801,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 8.832115173339844,
+        "TSNE-2": 5.304797649383545,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -4.300633907318115,
+        "TSNE-2": -4.937294006347656,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 2.053001880645752,
+        "TSNE-2": 1.19951593875885,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": -6.415542125701904,
+        "TSNE-2": -8.395709991455078,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -1.7031257152557373,
+        "TSNE-2": -0.5235897302627563,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": -1.5064162015914917,
+        "TSNE-2": -12.697495460510254,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 2.369579553604126,
+        "TSNE-2": -11.228285789489746,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -4.133537292480469,
+        "TSNE-2": 2.421937942504883,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": -5.001770973205566,
+        "TSNE-2": 5.193548679351807,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": 8.836160659790039,
+        "TSNE-2": -0.051319412887096405,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -4.7682342529296875,
+        "TSNE-2": 5.882324695587158,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": 7.136597156524658,
+        "TSNE-2": 0.5851734280586243,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 2.9402456283569336,
+        "TSNE-2": -10.008917808532715,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": -6.8384623527526855,
+        "TSNE-2": -5.405638217926025,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 3.147651195526123,
+        "TSNE-2": -9.790873527526855,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": -1.921374797821045,
+        "TSNE-2": 10.291143417358398,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 1.4329086542129517,
+        "TSNE-2": 9.222762107849121,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 0.3159061074256897,
+        "TSNE-2": 6.392725467681885,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": -6.682966709136963,
+        "TSNE-2": 5.588831901550293,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": 2.045318365097046,
+        "TSNE-2": 5.98950719833374,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 4.130449295043945,
+        "TSNE-2": 7.9366536140441895,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 1.4329086542129517,
+        "TSNE-2": 9.222762107849121,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": -1.4789730310440063,
+        "TSNE-2": -12.703258514404297,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -1.4261717796325684,
+        "TSNE-2": -5.836195945739746,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 5.263121604919434,
+        "TSNE-2": 0.3091837763786316,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -3.8274552822113037,
+        "TSNE-2": -9.68210506439209,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": -1.7031257152557373,
+        "TSNE-2": -0.5235897302627563,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": 3.564408540725708,
+        "TSNE-2": 2.7137298583984375,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 4.845639228820801,
+        "TSNE-2": 1.777273178100586,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": -3.1206629276275635,
+        "TSNE-2": 1.5966445207595825,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, toxin, exposure"
+      },
+      {
+        "TSNE-1": 3.6811540126800537,
+        "TSNE-2": -6.345704078674316,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": -8.221528053283691,
+        "TSNE-2": -3.628110408782959,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      },
+      {
+        "TSNE-1": 9.023704528808594,
+        "TSNE-2": 4.1660661697387695,
+        "cluster": 1,
+        "keywords": "developmental, health, particularly, environmental, adverse"
+      },
+      {
+        "TSNE-1": 4.1348114013671875,
+        "TSNE-2": -2.324082374572754,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": 3.3442227840423584,
+        "TSNE-2": 3.902799129486084,
+        "cluster": 4,
+        "keywords": "risk, early, birth, cognitive, child"
+      },
+      {
+        "TSNE-1": 0.44217967987060547,
+        "TSNE-2": -3.2768592834472656,
+        "cluster": 2,
+        "keywords": "impact, document, drug, negative, contamination"
+      },
+      {
+        "TSNE-1": -1.879725456237793,
+        "TSNE-2": -7.060746192932129,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, context, greek"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_187",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-40831 - how does aresenic impact development"
+  }
+}

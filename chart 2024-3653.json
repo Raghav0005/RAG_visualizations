@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-23d92efc567d999fd970c1a29f6fb2aa"
+  },
+  "datasets": {
+    "data-23d92efc567d999fd970c1a29f6fb2aa": [
+      {
+        "TSNE-1": 5.732299327850342,
+        "TSNE-2": -1.6257928609848022,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 6.463469982147217,
+        "TSNE-2": 1.47642183303833,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": -1.9772989749908447,
+        "TSNE-2": -9.221688270568848,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": 8.798130989074707,
+        "TSNE-2": 9.186285018920898,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": -1.9772989749908447,
+        "TSNE-2": -9.221688270568848,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": -2.7286975383758545,
+        "TSNE-2": 10.559883117675781,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -0.31731367111206055,
+        "TSNE-2": -9.85040283203125,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": 0.488674134016037,
+        "TSNE-2": -4.1729607582092285,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -8.107925415039062,
+        "TSNE-2": 2.6810758113861084,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 11.103141784667969,
+        "TSNE-2": 5.367467403411865,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": 2.2723419666290283,
+        "TSNE-2": 5.8315558433532715,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -8.38044261932373,
+        "TSNE-2": 0.9692602753639221,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": -0.21535754203796387,
+        "TSNE-2": 0.37486839294433594,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -5.878891944885254,
+        "TSNE-2": -3.6415634155273438,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": -5.355222225189209,
+        "TSNE-2": 8.56862735748291,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": 4.299078464508057,
+        "TSNE-2": 1.2858561277389526,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": 18.3291072845459,
+        "TSNE-2": -2.4403045177459717,
+        "cluster": 5,
+        "keywords": "ugb, social, important, town, small"
+      },
+      {
+        "TSNE-1": 0.488674134016037,
+        "TSNE-2": -4.1729607582092285,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 4.878308296203613,
+        "TSNE-2": 0.24575403332710266,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": 11.053849220275879,
+        "TSNE-2": -4.930661678314209,
+        "cluster": 5,
+        "keywords": "ugb, social, important, town, small"
+      },
+      {
+        "TSNE-1": -7.542360782623291,
+        "TSNE-2": 6.240299224853516,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 1.1394399404525757,
+        "TSNE-2": -9.65588092803955,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": -10.449518203735352,
+        "TSNE-2": -6.743156433105469,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": 3.402177095413208,
+        "TSNE-2": 9.056841850280762,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -4.983603000640869,
+        "TSNE-2": -0.3047902286052704,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": -0.2120637595653534,
+        "TSNE-2": 3.337052583694458,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -6.061501979827881,
+        "TSNE-2": -7.208833694458008,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": -2.9036903381347656,
+        "TSNE-2": -10.526227951049805,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": -5.528092384338379,
+        "TSNE-2": 9.041780471801758,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -10.61971378326416,
+        "TSNE-2": 0.489501029253006,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": -6.166924953460693,
+        "TSNE-2": 4.121747016906738,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 12.165210723876953,
+        "TSNE-2": -3.228099822998047,
+        "cluster": 5,
+        "keywords": "ugb, social, important, town, small"
+      },
+      {
+        "TSNE-1": -1.002783179283142,
+        "TSNE-2": 0.5567612648010254,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 7.083783149719238,
+        "TSNE-2": 3.5279922485351562,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": -1.356521725654602,
+        "TSNE-2": -1.0520449876785278,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -3.491558790206909,
+        "TSNE-2": 3.3278443813323975,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 1.1199043989181519,
+        "TSNE-2": -1.9447095394134521,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -5.422539234161377,
+        "TSNE-2": 2.511634349822998,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 3.714568853378296,
+        "TSNE-2": 6.6021270751953125,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": 5.302882194519043,
+        "TSNE-2": -4.585514068603516,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 7.543652534484863,
+        "TSNE-2": 0.6443784236907959,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": 1.1484363079071045,
+        "TSNE-2": 0.2507382035255432,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -1.8438987731933594,
+        "TSNE-2": 1.172951579093933,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -3.6318604946136475,
+        "TSNE-2": 1.0566223859786987,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 2.3438258171081543,
+        "TSNE-2": -0.8433915376663208,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -8.691000938415527,
+        "TSNE-2": -2.1405951976776123,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 13.4855375289917,
+        "TSNE-2": -4.014181613922119,
+        "cluster": 5,
+        "keywords": "ugb, social, important, town, small"
+      },
+      {
+        "TSNE-1": 11.53821086883545,
+        "TSNE-2": 3.7519211769104004,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": 2.310244083404541,
+        "TSNE-2": 5.471938133239746,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": 2.477504253387451,
+        "TSNE-2": 1.327426791191101,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -1.8767164945602417,
+        "TSNE-2": -2.8717851638793945,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 12.601433753967285,
+        "TSNE-2": 3.13445782661438,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": 0.035151250660419464,
+        "TSNE-2": 1.653111457824707,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -8.691000938415527,
+        "TSNE-2": -2.1405951976776123,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 5.064493179321289,
+        "TSNE-2": 4.935751438140869,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": -9.901947975158691,
+        "TSNE-2": -6.355277061462402,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": 4.259995937347412,
+        "TSNE-2": -1.4921468496322632,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -2.442594528198242,
+        "TSNE-2": 5.667585849761963,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": 1.9071022272109985,
+        "TSNE-2": -5.613983631134033,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -8.90747356414795,
+        "TSNE-2": -6.985752105712891,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": -0.6584134101867676,
+        "TSNE-2": 9.232279777526855,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -2.0061020851135254,
+        "TSNE-2": 8.137299537658691,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -2.9809038639068604,
+        "TSNE-2": -2.686990737915039,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 10.246540069580078,
+        "TSNE-2": -5.321883201599121,
+        "cluster": 5,
+        "keywords": "ugb, social, important, town, small"
+      },
+      {
+        "TSNE-1": 2.490381956100464,
+        "TSNE-2": -2.9907493591308594,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 7.073110103607178,
+        "TSNE-2": -2.0805861949920654,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": 1.4279056787490845,
+        "TSNE-2": 2.9558379650115967,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": 5.330230712890625,
+        "TSNE-2": 7.846629619598389,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": 7.654641628265381,
+        "TSNE-2": 5.7683892250061035,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": -6.149747371673584,
+        "TSNE-2": -6.410119533538818,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": -1.740584135055542,
+        "TSNE-2": 2.5176312923431396,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": 18.3291072845459,
+        "TSNE-2": -2.4403045177459717,
+        "cluster": 5,
+        "keywords": "ugb, social, important, town, small"
+      },
+      {
+        "TSNE-1": 3.718581199645996,
+        "TSNE-2": -9.114689826965332,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 3.7635462284088135,
+        "TSNE-2": 3.2711946964263916,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": -3.192260265350342,
+        "TSNE-2": -0.3510373830795288,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": -0.3643154799938202,
+        "TSNE-2": -1.8427493572235107,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 5.373447418212891,
+        "TSNE-2": -8.079998970031738,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": 3.718581199645996,
+        "TSNE-2": -9.114689826965332,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -12.045665740966797,
+        "TSNE-2": -1.7591687440872192,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": -3.2394936084747314,
+        "TSNE-2": -6.5136399269104,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": 4.541996479034424,
+        "TSNE-2": 8.74386215209961,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -8.38044261932373,
+        "TSNE-2": 0.9692602753639221,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": -0.6584134101867676,
+        "TSNE-2": 9.232279777526855,
+        "cluster": 2,
+        "keywords": "comprehensive, answer, occur, part, area"
+      },
+      {
+        "TSNE-1": -6.94053840637207,
+        "TSNE-2": 0.0021385643631219864,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 5.302882194519043,
+        "TSNE-2": -4.585514068603516,
+        "cluster": 0,
+        "keywords": "growth, city, urban, county, accommodate"
+      },
+      {
+        "TSNE-1": -2.5000340938568115,
+        "TSNE-2": -5.538946151733398,
+        "cluster": 3,
+        "keywords": "project, need, rcw, permit, building"
+      },
+      {
+        "TSNE-1": -10.343503952026367,
+        "TSNE-2": 3.0971829891204834,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 14.106799125671387,
+        "TSNE-2": -2.403414011001587,
+        "cluster": 5,
+        "keywords": "ugb, social, important, town, small"
+      },
+      {
+        "TSNE-1": 5.429893493652344,
+        "TSNE-2": 3.597968101501465,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": -10.343503952026367,
+        "TSNE-2": 3.0971829891204834,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      },
+      {
+        "TSNE-1": 9.696039199829102,
+        "TSNE-2": -0.21888448297977448,
+        "cluster": 1,
+        "keywords": "planning, plan, trend, development, property"
+      },
+      {
+        "TSNE-1": 12.165210723876953,
+        "TSNE-2": -3.228099822998047,
+        "cluster": 5,
+        "keywords": "ugb, social, important, town, small"
+      },
+      {
+        "TSNE-1": -6.646841049194336,
+        "TSNE-2": 5.314142227172852,
+        "cluster": 4,
+        "keywords": "may, within, shall, include, density"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_184",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-3653 - are cities required to consider growth"
+  }
+}

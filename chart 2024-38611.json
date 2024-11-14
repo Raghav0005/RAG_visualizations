@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-40a3790d1190a1ccf061905272ae152b"
+  },
+  "datasets": {
+    "data-40a3790d1190a1ccf061905272ae152b": [
+      {
+        "TSNE-1": -7.0608649253845215,
+        "TSNE-2": 2.1908762454986572,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -1.0202033519744873,
+        "TSNE-2": 3.158430337905884,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": 2.0484304428100586,
+        "TSNE-2": -7.233467102050781,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": 9.59652042388916,
+        "TSNE-2": -1.3546050786972046,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": 2.0484304428100586,
+        "TSNE-2": -7.233467102050781,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": 11.796965599060059,
+        "TSNE-2": -3.1892764568328857,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": 0.5726041197776794,
+        "TSNE-2": 2.194641351699829,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -0.5291871428489685,
+        "TSNE-2": 0.3722023665904999,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": 5.495075225830078,
+        "TSNE-2": 8.005382537841797,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": -2.778984546661377,
+        "TSNE-2": 10.326004028320312,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": 3.6600241661071777,
+        "TSNE-2": 1.4324676990509033,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -8.313008308410645,
+        "TSNE-2": -6.476178169250488,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -3.962690591812134,
+        "TSNE-2": -2.2037105560302734,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -10.076502799987793,
+        "TSNE-2": 1.2509912252426147,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -7.0156025886535645,
+        "TSNE-2": 8.6216459274292,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -3.447704792022705,
+        "TSNE-2": 5.060713768005371,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": 2.2383668422698975,
+        "TSNE-2": -12.003098487854004,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": -0.5291871428489685,
+        "TSNE-2": 0.3722023665904999,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -5.395497798919678,
+        "TSNE-2": 2.796639919281006,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -9.640959739685059,
+        "TSNE-2": 4.25881290435791,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": 11.28254222869873,
+        "TSNE-2": 2.4378535747528076,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": 1.7775052785873413,
+        "TSNE-2": -3.936678171157837,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": 9.011581420898438,
+        "TSNE-2": 1.1200593709945679,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": -10.802831649780273,
+        "TSNE-2": -0.799225926399231,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": 4.399710655212402,
+        "TSNE-2": 2.5074198246002197,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": -2.8081841468811035,
+        "TSNE-2": 0.5540077686309814,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": 9.252544403076172,
+        "TSNE-2": -2.533237934112549,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": 0.7418709993362427,
+        "TSNE-2": 4.394764423370361,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -6.24849271774292,
+        "TSNE-2": 11.648017883300781,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": 6.097428321838379,
+        "TSNE-2": 2.735959053039551,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": 1.8741487264633179,
+        "TSNE-2": 6.21250581741333,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": 6.051563739776611,
+        "TSNE-2": -0.2946781814098358,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": -4.073664665222168,
+        "TSNE-2": -2.8241913318634033,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -3.215776205062866,
+        "TSNE-2": 3.6997294425964355,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": 3.797637701034546,
+        "TSNE-2": -4.117319107055664,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": -3.4504334926605225,
+        "TSNE-2": -7.071579933166504,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": 1.3139878511428833,
+        "TSNE-2": 10.488256454467773,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": -3.092400312423706,
+        "TSNE-2": -4.900427341461182,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": -7.07721471786499,
+        "TSNE-2": 0.7823634743690491,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -13.997025489807129,
+        "TSNE-2": -0.08702371269464493,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -1.3195630311965942,
+        "TSNE-2": 5.188530445098877,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -0.6698744893074036,
+        "TSNE-2": -3.358555793762207,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -2.466491937637329,
+        "TSNE-2": -2.1612002849578857,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -0.2974797487258911,
+        "TSNE-2": -1.7072371244430542,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -0.7067422270774841,
+        "TSNE-2": -5.984683513641357,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": -5.86633825302124,
+        "TSNE-2": -9.267086029052734,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": -10.362532615661621,
+        "TSNE-2": 5.336038589477539,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -1.7717304229736328,
+        "TSNE-2": 9.912405967712402,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": 3.6600241661071777,
+        "TSNE-2": 1.4324676990509033,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -1.7409602403640747,
+        "TSNE-2": -9.253288269042969,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": 5.913369655609131,
+        "TSNE-2": 9.117120742797852,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": 9.935779571533203,
+        "TSNE-2": 6.980162143707275,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": -2.290522336959839,
+        "TSNE-2": -1.5507060289382935,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -5.86633825302124,
+        "TSNE-2": -9.267086029052734,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": -4.0323381423950195,
+        "TSNE-2": 3.2871177196502686,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": 11.238455772399902,
+        "TSNE-2": 1.9121958017349243,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": -6.167725563049316,
+        "TSNE-2": 4.895647048950195,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -5.424944877624512,
+        "TSNE-2": 9.735174179077148,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -4.061270236968994,
+        "TSNE-2": -0.3089207112789154,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": 11.430632591247559,
+        "TSNE-2": -0.13810628652572632,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": 1.5888115167617798,
+        "TSNE-2": -5.784938335418701,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": 6.739246845245361,
+        "TSNE-2": 10.481523513793945,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": 6.471447467803955,
+        "TSNE-2": 8.293331146240234,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": 1.9526275396347046,
+        "TSNE-2": 6.893819332122803,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": -1.5457931756973267,
+        "TSNE-2": -7.315061569213867,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": -7.40993595123291,
+        "TSNE-2": 3.6875104904174805,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -0.30573713779449463,
+        "TSNE-2": -7.106384754180908,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": 2.531038999557495,
+        "TSNE-2": 2.9710872173309326,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -1.871747374534607,
+        "TSNE-2": 1.8884445428848267,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": 8.586350440979004,
+        "TSNE-2": -2.1295251846313477,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": -2.0354504585266113,
+        "TSNE-2": -3.5386500358581543,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": 2.2383668422698975,
+        "TSNE-2": -12.003098487854004,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": 6.654098987579346,
+        "TSNE-2": -8.189380645751953,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": 1.4964568614959717,
+        "TSNE-2": -0.7963171005249023,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -0.14503973722457886,
+        "TSNE-2": -8.434045791625977,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": 7.269277572631836,
+        "TSNE-2": 6.474858283996582,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": 1.6040312051773071,
+        "TSNE-2": -1.7697070837020874,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": 6.654098987579346,
+        "TSNE-2": -8.189380645751953,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": 7.190953254699707,
+        "TSNE-2": 8.98182201385498,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": -1.5171380043029785,
+        "TSNE-2": 8.531981468200684,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -10.355072975158691,
+        "TSNE-2": 0.2523289620876312,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -8.313008308410645,
+        "TSNE-2": -6.476178169250488,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": 2.9307310581207275,
+        "TSNE-2": -6.192795276641846,
+        "cluster": 3,
+        "keywords": "panel, provisionally, clarence, permanent, never"
+      },
+      {
+        "TSNE-1": -4.834068775177002,
+        "TSNE-2": 0.9007608890533447,
+        "cluster": 5,
+        "keywords": "court, must, petition, phase, resident"
+      },
+      {
+        "TSNE-1": -13.997025489807129,
+        "TSNE-2": -0.08702371269464493,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -6.285398483276367,
+        "TSNE-2": 9.289039611816406,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": -10.639067649841309,
+        "TSNE-2": -4.621847629547119,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -7.331279754638672,
+        "TSNE-2": -3.114464521408081,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": -4.859394550323486,
+        "TSNE-2": 5.3766350746154785,
+        "cluster": 1,
+        "keywords": "condition, facility, release, program, risk"
+      },
+      {
+        "TSNE-1": 4.141338348388672,
+        "TSNE-2": 8.954787254333496,
+        "cluster": 2,
+        "keywords": "behavior, higher, disruptive, category, allowable"
+      },
+      {
+        "TSNE-1": -6.389256477355957,
+        "TSNE-2": -0.9889857172966003,
+        "cluster": 4,
+        "keywords": "challenge, legal, hour, experience, specific"
+      },
+      {
+        "TSNE-1": 6.051563739776611,
+        "TSNE-2": -0.2946781814098358,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      },
+      {
+        "TSNE-1": 9.33594036102295,
+        "TSNE-2": -0.17135876417160034,
+        "cluster": 0,
+        "keywords": "treatment, offender, parole, sex, may"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_90",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-38611 - how do sex offenders get out of treatment facilities?"
+  }
+}

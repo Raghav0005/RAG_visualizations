@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-5339bf27db495597b9443781934c6de5"
+  },
+  "datasets": {
+    "data-5339bf27db495597b9443781934c6de5": [
+      {
+        "TSNE-1": 1.094051480293274,
+        "TSNE-2": 0.6315630674362183,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 0.6157923936843872,
+        "TSNE-2": -9.353897094726562,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": -0.5077454447746277,
+        "TSNE-2": 4.880774974822998,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 14.417476654052734,
+        "TSNE-2": 2.7086563110351562,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -0.5077454447746277,
+        "TSNE-2": 4.880774974822998,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 6.988364219665527,
+        "TSNE-2": 5.310601711273193,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -7.5334153175354,
+        "TSNE-2": -0.7759724855422974,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": -0.9138223528862,
+        "TSNE-2": -4.634912014007568,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 11.020718574523926,
+        "TSNE-2": 3.404822826385498,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -5.118720054626465,
+        "TSNE-2": 5.084022045135498,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 4.7286763191223145,
+        "TSNE-2": -1.0216511487960815,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": 1.0272979736328125,
+        "TSNE-2": -4.786934852600098,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": -1.3833764791488647,
+        "TSNE-2": -8.307150840759277,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 6.9152655601501465,
+        "TSNE-2": -8.41544246673584,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": -4.485678672790527,
+        "TSNE-2": 9.687238693237305,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": -4.094677448272705,
+        "TSNE-2": -6.914455413818359,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": -7.045586585998535,
+        "TSNE-2": 1.926370620727539,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": -0.9138223528862,
+        "TSNE-2": -4.634912014007568,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": -3.8210630416870117,
+        "TSNE-2": -8.481175422668457,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 6.814181327819824,
+        "TSNE-2": -1.8702462911605835,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": 12.950088500976562,
+        "TSNE-2": 2.3382296562194824,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -2.6697165966033936,
+        "TSNE-2": -1.006017804145813,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 14.148680686950684,
+        "TSNE-2": 1.2412338256835938,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -4.914144515991211,
+        "TSNE-2": -0.7340066432952881,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 0.8569009304046631,
+        "TSNE-2": -3.2484726905822754,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": -2.1833338737487793,
+        "TSNE-2": -6.470021724700928,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 13.124812126159668,
+        "TSNE-2": 3.8772835731506348,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -3.1593406200408936,
+        "TSNE-2": 1.1505097150802612,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 11.133172035217285,
+        "TSNE-2": -4.103763580322266,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": 7.018131732940674,
+        "TSNE-2": 4.122313499450684,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": 9.594696998596191,
+        "TSNE-2": 4.018148899078369,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -10.455886840820312,
+        "TSNE-2": -2.6239330768585205,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": -0.4841701090335846,
+        "TSNE-2": -6.804965972900391,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 2.9409730434417725,
+        "TSNE-2": -3.8422861099243164,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": -1.2669368982315063,
+        "TSNE-2": -2.297459840774536,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": -1.407527208328247,
+        "TSNE-2": 7.430753707885742,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": -5.13220739364624,
+        "TSNE-2": -2.7800705432891846,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 3.0985004901885986,
+        "TSNE-2": 8.253376960754395,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": -10.214125633239746,
+        "TSNE-2": -6.576589107513428,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": 7.517678260803223,
+        "TSNE-2": -4.455276012420654,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": 4.37355375289917,
+        "TSNE-2": -2.8912243843078613,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": -1.6253167390823364,
+        "TSNE-2": -0.07606913894414902,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 0.42230862379074097,
+        "TSNE-2": -6.763461112976074,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 5.821869373321533,
+        "TSNE-2": 0.20135250687599182,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": -8.504077911376953,
+        "TSNE-2": -4.072223663330078,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": -8.19301986694336,
+        "TSNE-2": 5.692765712738037,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": -11.673067092895508,
+        "TSNE-2": -1.1352818012237549,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": -3.6916582584381104,
+        "TSNE-2": 5.092423439025879,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 4.7286763191223145,
+        "TSNE-2": -1.0216511487960815,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": -5.303503513336182,
+        "TSNE-2": -4.584129810333252,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 0.5923671126365662,
+        "TSNE-2": 6.311549186706543,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": -4.37568473815918,
+        "TSNE-2": 3.7603442668914795,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": -0.8118129372596741,
+        "TSNE-2": -7.526447772979736,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": -9.641881942749023,
+        "TSNE-2": 5.122737884521484,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": 3.216792583465576,
+        "TSNE-2": -4.896791458129883,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": 13.124812126159668,
+        "TSNE-2": 3.8772835731506348,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -5.7452850341796875,
+        "TSNE-2": -8.096160888671875,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 2.867471218109131,
+        "TSNE-2": -12.016008377075195,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 4.044541358947754,
+        "TSNE-2": -7.08925199508667,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": 14.502996444702148,
+        "TSNE-2": 3.923982858657837,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": 0.6730235815048218,
+        "TSNE-2": 8.631759643554688,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 1.1861411333084106,
+        "TSNE-2": 5.786282062530518,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 2.662517547607422,
+        "TSNE-2": 5.342624187469482,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": -10.063849449157715,
+        "TSNE-2": 0.9357872605323792,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": -3.942702054977417,
+        "TSNE-2": -2.5534348487854004,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": -2.3229193687438965,
+        "TSNE-2": -10.281181335449219,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": -3.7239785194396973,
+        "TSNE-2": -4.032811164855957,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 5.053431510925293,
+        "TSNE-2": -10.664461135864258,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": -0.7332475781440735,
+        "TSNE-2": 0.2765614986419678,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 12.950088500976562,
+        "TSNE-2": 2.3382296562194824,
+        "cluster": 1,
+        "keywords": "claimant, affidavit, date, representative, affiant"
+      },
+      {
+        "TSNE-1": -0.7332475781440735,
+        "TSNE-2": 0.2765614986419678,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": -7.045586585998535,
+        "TSNE-2": 1.926370620727539,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": 1.0984582901000977,
+        "TSNE-2": 3.5215930938720703,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 1.1054517030715942,
+        "TSNE-2": -1.877817153930664,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": -6.484131813049316,
+        "TSNE-2": -5.194887161254883,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": 5.078953266143799,
+        "TSNE-2": 3.3410236835479736,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": -1.747287392616272,
+        "TSNE-2": 2.055250406265259,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 1.0984582901000977,
+        "TSNE-2": 3.5215930938720703,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 3.446906328201294,
+        "TSNE-2": 5.868527889251709,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": -4.472386360168457,
+        "TSNE-2": 1.4441365003585815,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 6.759474277496338,
+        "TSNE-2": -6.593489170074463,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": -9.29517936706543,
+        "TSNE-2": 4.656273365020752,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": 0.6730235815048218,
+        "TSNE-2": 8.631759643554688,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 3.101736545562744,
+        "TSNE-2": 1.2057543992996216,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": 7.517678260803223,
+        "TSNE-2": -4.455276012420654,
+        "cluster": 5,
+        "keywords": "loss, reasonable, prove, potentially, faith"
+      },
+      {
+        "TSNE-1": -13.061832427978516,
+        "TSNE-2": -0.6553632020950317,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": 6.233229160308838,
+        "TSNE-2": 10.661540985107422,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      },
+      {
+        "TSNE-1": 2.279801845550537,
+        "TSNE-2": -11.381196022033691,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": -2.479982852935791,
+        "TSNE-2": -3.3420157432556152,
+        "cluster": 0,
+        "keywords": "evidence, defendant, court, bad, might"
+      },
+      {
+        "TSNE-1": -7.049778938293457,
+        "TSNE-2": -1.1699790954589844,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": 1.8730535507202148,
+        "TSNE-2": -7.503960132598877,
+        "cluster": 2,
+        "keywords": "materiality, new, may, law, destruction"
+      },
+      {
+        "TSNE-1": -10.455886840820312,
+        "TSNE-2": -2.6239330768585205,
+        "cluster": 4,
+        "keywords": "destroyed, unless, state, preserve, enforcement"
+      },
+      {
+        "TSNE-1": -4.37568473815918,
+        "TSNE-2": 3.7603442668914795,
+        "cluster": 3,
+        "keywords": "show, must, raise, government, issue"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_290",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-141453 - what happens if evidence is lost?"
+  }
+}

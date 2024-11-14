@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-4d84e1b145a8045ea0bfbea756e2893b"
+  },
+  "datasets": {
+    "data-4d84e1b145a8045ea0bfbea756e2893b": [
+      {
+        "TSNE-1": -1.5572412014007568,
+        "TSNE-2": -0.3892689347267151,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 1.0893346071243286,
+        "TSNE-2": 7.0144267082214355,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": 5.040159225463867,
+        "TSNE-2": -4.035480976104736,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": -6.728823184967041,
+        "TSNE-2": -7.203876495361328,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 5.040159225463867,
+        "TSNE-2": -4.035480976104736,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": 2.391754627227783,
+        "TSNE-2": -9.160658836364746,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": 2.0957765579223633,
+        "TSNE-2": 8.935364723205566,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": 3.7139759063720703,
+        "TSNE-2": 2.3770856857299805,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -3.957674026489258,
+        "TSNE-2": -5.009279727935791,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 6.41990852355957,
+        "TSNE-2": -8.3891019821167,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": 0.24439412355422974,
+        "TSNE-2": -2.9393200874328613,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 3.810699939727783,
+        "TSNE-2": -12.562093734741211,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": 0.6011891961097717,
+        "TSNE-2": -0.19444482028484344,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 0.16214480996131897,
+        "TSNE-2": 8.765268325805664,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": -8.215511322021484,
+        "TSNE-2": -0.28358685970306396,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": -3.3985753059387207,
+        "TSNE-2": 0.533225417137146,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": -9.299842834472656,
+        "TSNE-2": 8.824748039245605,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 3.7139759063720703,
+        "TSNE-2": 2.3770856857299805,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -5.190021991729736,
+        "TSNE-2": 0.7740641236305237,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": -1.7857815027236938,
+        "TSNE-2": 4.427802562713623,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": 8.540520668029785,
+        "TSNE-2": -4.230471134185791,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": 4.785808086395264,
+        "TSNE-2": -1.1661406755447388,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": -10.103347778320312,
+        "TSNE-2": 2.2785274982452393,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 5.343329429626465,
+        "TSNE-2": 0.5480374693870544,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": 1.5940030813217163,
+        "TSNE-2": 2.5849459171295166,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 1.7032727003097534,
+        "TSNE-2": 1.5990266799926758,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -8.177871704101562,
+        "TSNE-2": -4.1513471603393555,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 2.8152401447296143,
+        "TSNE-2": 8.749120712280273,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": -0.37635740637779236,
+        "TSNE-2": 12.984654426574707,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": 3.0240478515625,
+        "TSNE-2": -7.294246196746826,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": -3.5835442543029785,
+        "TSNE-2": -5.109188556671143,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": -0.5379568338394165,
+        "TSNE-2": -9.856012344360352,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": 1.391705870628357,
+        "TSNE-2": -0.3050987720489502,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -3.252708911895752,
+        "TSNE-2": 3.0000216960906982,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 0.09308715164661407,
+        "TSNE-2": -6.027440071105957,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": -4.0292510986328125,
+        "TSNE-2": 6.571466445922852,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": -4.888428211212158,
+        "TSNE-2": 4.199657440185547,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 5.856832981109619,
+        "TSNE-2": -1.6373205184936523,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": -4.445829391479492,
+        "TSNE-2": -1.227603554725647,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 1.5682170391082764,
+        "TSNE-2": 5.05914831161499,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 4.886455535888672,
+        "TSNE-2": 9.88792896270752,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": -1.9206007719039917,
+        "TSNE-2": 7.248115539550781,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": -0.01784828118979931,
+        "TSNE-2": -0.7711148262023926,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 2.4453251361846924,
+        "TSNE-2": -2.1198606491088867,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": -3.763273000717163,
+        "TSNE-2": 5.472406387329102,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 5.391273021697998,
+        "TSNE-2": -12.276463508605957,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": -1.2774370908737183,
+        "TSNE-2": 4.687908172607422,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": -8.658130645751953,
+        "TSNE-2": 4.9646830558776855,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 0.24439412355422974,
+        "TSNE-2": -2.9393200874328613,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": -5.9652557373046875,
+        "TSNE-2": 2.3592920303344727,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 9.552371978759766,
+        "TSNE-2": 0.8700771927833557,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": -2.1570370197296143,
+        "TSNE-2": -7.930928707122803,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 1.6611016988754272,
+        "TSNE-2": 0.6189520955085754,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 3.7357823848724365,
+        "TSNE-2": -11.383318901062012,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": -2.102848529815674,
+        "TSNE-2": 1.862310528755188,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": -10.987273216247559,
+        "TSNE-2": 2.040034055709839,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 6.153839588165283,
+        "TSNE-2": 2.464808225631714,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -4.136937618255615,
+        "TSNE-2": -10.743760108947754,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 8.314385414123535,
+        "TSNE-2": 4.712172508239746,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -6.039436340332031,
+        "TSNE-2": -7.025171756744385,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 7.575566291809082,
+        "TSNE-2": -1.8241991996765137,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": 7.672109127044678,
+        "TSNE-2": 5.618856906890869,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 4.680457592010498,
+        "TSNE-2": 6.863473892211914,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 0.6322399377822876,
+        "TSNE-2": -7.921622276306152,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": -6.293314456939697,
+        "TSNE-2": 4.187496662139893,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 4.692710876464844,
+        "TSNE-2": 4.459527492523193,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -5.3151469230651855,
+        "TSNE-2": 3.2951793670654297,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": 3.164342164993286,
+        "TSNE-2": 4.182385444641113,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -1.4332451820373535,
+        "TSNE-2": 6.971549034118652,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": -9.072379112243652,
+        "TSNE-2": -4.6229352951049805,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 3.929682970046997,
+        "TSNE-2": 6.772882461547852,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -9.299842834472656,
+        "TSNE-2": 8.824748039245605,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": -2.562352418899536,
+        "TSNE-2": -2.014335870742798,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 2.9624245166778564,
+        "TSNE-2": -4.874832630157471,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": -5.54074764251709,
+        "TSNE-2": 5.052427768707275,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": -4.063879489898682,
+        "TSNE-2": 9.811409950256348,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": 1.8935682773590088,
+        "TSNE-2": -3.586453914642334,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": -2.562352418899536,
+        "TSNE-2": -2.014335870742798,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": 6.841951847076416,
+        "TSNE-2": 6.250809192657471,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 6.599859237670898,
+        "TSNE-2": -8.042211532592773,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": 4.120486259460449,
+        "TSNE-2": 0.4820249676704407,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": 4.405241966247559,
+        "TSNE-2": -11.600095748901367,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": 8.112906455993652,
+        "TSNE-2": -2.3393683433532715,
+        "cluster": 5,
+        "keywords": "financial, affected, labor, benefiting, life"
+      },
+      {
+        "TSNE-1": -0.1150331199169159,
+        "TSNE-2": 10.044082641601562,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": 1.5682170391082764,
+        "TSNE-2": 5.05914831161499,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -3.49214506149292,
+        "TSNE-2": -10.49027156829834,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": -0.7638853788375854,
+        "TSNE-2": -13.397250175476074,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": -0.7277109026908875,
+        "TSNE-2": -5.079659938812256,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      },
+      {
+        "TSNE-1": -3.2455668449401855,
+        "TSNE-2": 1.2984356880187988,
+        "cluster": 3,
+        "keywords": "economic, relief, american, social, like"
+      },
+      {
+        "TSNE-1": -4.466766834259033,
+        "TSNE-2": 8.21391773223877,
+        "cluster": 1,
+        "keywords": "job, work, administration, unemployed, conservation"
+      },
+      {
+        "TSNE-1": 0.1358109712600708,
+        "TSNE-2": 3.089116096496582,
+        "cluster": 2,
+        "keywords": "public, also, community, sense, society"
+      },
+      {
+        "TSNE-1": -0.5379568338394165,
+        "TSNE-2": -9.856012344360352,
+        "cluster": 4,
+        "keywords": "engage, opponent, think, customer, group"
+      },
+      {
+        "TSNE-1": -9.296098709106445,
+        "TSNE-2": -4.200526714324951,
+        "cluster": 0,
+        "keywords": "new, deal, program, people, government"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_78",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-38461 - how do people engage over the new deal programs"
+  }
+}

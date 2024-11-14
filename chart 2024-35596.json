@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-95e8be263a522dd4d22e5b3f386758c2"
+  },
+  "datasets": {
+    "data-95e8be263a522dd4d22e5b3f386758c2": [
+      {
+        "TSNE-1": -0.9392521977424622,
+        "TSNE-2": -5.53892707824707,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -5.799940586090088,
+        "TSNE-2": -0.7067538499832153,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -9.445718765258789,
+        "TSNE-2": -3.1411099433898926,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 8.301669120788574,
+        "TSNE-2": 2.5292742252349854,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": -9.445718765258789,
+        "TSNE-2": -3.1411099433898926,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 27.469932556152344,
+        "TSNE-2": 7.685115814208984,
+        "cluster": 5,
+        "keywords": "nan, youtube, emphasizes, empire, empower"
+      },
+      {
+        "TSNE-1": 5.110012054443359,
+        "TSNE-2": 7.720734119415283,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 1.0417269468307495,
+        "TSNE-2": -3.1288294792175293,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -9.057920455932617,
+        "TSNE-2": 5.41431999206543,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 1.0226478576660156,
+        "TSNE-2": -13.326563835144043,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -1.4118379354476929,
+        "TSNE-2": 4.252725601196289,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 1.1248538494110107,
+        "TSNE-2": 8.41912841796875,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 2.5542569160461426,
+        "TSNE-2": -3.9802942276000977,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 6.957140922546387,
+        "TSNE-2": 3.410566806793213,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 9.532561302185059,
+        "TSNE-2": 1.549619197845459,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 5.058053016662598,
+        "TSNE-2": -2.637056589126587,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": 8.69002914428711,
+        "TSNE-2": 4.723156452178955,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 1.0417269468307495,
+        "TSNE-2": -3.1288294792175293,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 3.333704948425293,
+        "TSNE-2": -5.348914623260498,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -5.487114906311035,
+        "TSNE-2": -8.6843900680542,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -3.3620986938476562,
+        "TSNE-2": 9.733739852905273,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -1.3070898056030273,
+        "TSNE-2": -0.6932147145271301,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -0.12074042856693268,
+        "TSNE-2": 5.252930641174316,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 1.0962731838226318,
+        "TSNE-2": -4.95297908782959,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 0.7199557423591614,
+        "TSNE-2": 1.6825709342956543,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 0.6192979216575623,
+        "TSNE-2": -0.4741794168949127,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 7.022709369659424,
+        "TSNE-2": 2.022481918334961,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": -7.1962690353393555,
+        "TSNE-2": -5.054401874542236,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -0.2856560945510864,
+        "TSNE-2": -12.123058319091797,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 5.36033821105957,
+        "TSNE-2": -5.109798431396484,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -3.4134440422058105,
+        "TSNE-2": 5.859978675842285,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -3.697025775909424,
+        "TSNE-2": -9.245588302612305,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 1.8742924928665161,
+        "TSNE-2": -1.777928113937378,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -4.669240474700928,
+        "TSNE-2": -2.768141508102417,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 7.5158305168151855,
+        "TSNE-2": -3.6882126331329346,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -4.096369743347168,
+        "TSNE-2": 1.4653319120407104,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 2.6090240478515625,
+        "TSNE-2": 2.2614269256591797,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 7.374885559082031,
+        "TSNE-2": -1.2237352132797241,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -0.7219551205635071,
+        "TSNE-2": -6.601343631744385,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -3.156585931777954,
+        "TSNE-2": -1.6503888368606567,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -6.385144233703613,
+        "TSNE-2": 1.0699580907821655,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -5.3027753829956055,
+        "TSNE-2": 3.6704535484313965,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 0.5043774843215942,
+        "TSNE-2": -1.6799372434616089,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 6.94106388092041,
+        "TSNE-2": 4.955183506011963,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": -2.012059450149536,
+        "TSNE-2": 0.9670811295509338,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 10.051310539245605,
+        "TSNE-2": -6.1248345375061035,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -3.8420302867889404,
+        "TSNE-2": -7.696080684661865,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -1.0819876194000244,
+        "TSNE-2": -12.846400260925293,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -1.4118379354476929,
+        "TSNE-2": 4.252725601196289,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -3.2051076889038086,
+        "TSNE-2": 0.31269314885139465,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -5.009515285491943,
+        "TSNE-2": 6.8461527824401855,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 0.16634124517440796,
+        "TSNE-2": -13.957563400268555,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 2.87801194190979,
+        "TSNE-2": -2.2434921264648438,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 2.382315158843994,
+        "TSNE-2": 9.15188217163086,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": -4.02694034576416,
+        "TSNE-2": -4.323947429656982,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 5.429080486297607,
+        "TSNE-2": -8.243149757385254,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -2.0808019638061523,
+        "TSNE-2": -3.5717546939849854,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 12.616744041442871,
+        "TSNE-2": -1.2728745937347412,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -7.102880001068115,
+        "TSNE-2": 4.620103359222412,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -3.2990541458129883,
+        "TSNE-2": 7.684704303741455,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -9.789020538330078,
+        "TSNE-2": 0.5813004970550537,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 9.783534049987793,
+        "TSNE-2": 6.136595726013184,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": -6.179503917694092,
+        "TSNE-2": 7.707284927368164,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -4.939057350158691,
+        "TSNE-2": -7.2220377922058105,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 3.579071521759033,
+        "TSNE-2": 1.8397274017333984,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": -0.5353271961212158,
+        "TSNE-2": -3.5871992111206055,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 4.362721920013428,
+        "TSNE-2": 0.8724055290222168,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": -0.6146401166915894,
+        "TSNE-2": 0.5789549946784973,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -2.9568912982940674,
+        "TSNE-2": 3.4195237159729004,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 5.366012096405029,
+        "TSNE-2": -9.599692344665527,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -3.826622247695923,
+        "TSNE-2": 4.3628010749816895,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 8.69002914428711,
+        "TSNE-2": 4.723156452178955,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 4.475891590118408,
+        "TSNE-2": 6.0561842918396,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 2.300710678100586,
+        "TSNE-2": 4.830191612243652,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 3.8351666927337646,
+        "TSNE-2": 3.0555429458618164,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": 1.7940905094146729,
+        "TSNE-2": -7.447123050689697,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 1.9137698411941528,
+        "TSNE-2": 0.2987969219684601,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 4.475891590118408,
+        "TSNE-2": 6.0561842918396,
+        "cluster": 2,
+        "keywords": "politician, citizen, way, news, social"
+      },
+      {
+        "TSNE-1": -5.841357707977295,
+        "TSNE-2": 6.1815972328186035,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -1.5806406736373901,
+        "TSNE-2": -13.15690803527832,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -1.0093432664871216,
+        "TSNE-2": -2.0571627616882324,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 10.280416488647461,
+        "TSNE-2": -6.534567832946777,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -9.789020538330078,
+        "TSNE-2": 0.5813004970550537,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": -1.3384373188018799,
+        "TSNE-2": 2.418391227722168,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -3.156585931777954,
+        "TSNE-2": -1.6503888368606567,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": 12.616707801818848,
+        "TSNE-2": -1.2540886402130127,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      },
+      {
+        "TSNE-1": -7.356355667114258,
+        "TSNE-2": -9.090068817138672,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": -1.726171612739563,
+        "TSNE-2": 7.452795505523682,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 4.105411529541016,
+        "TSNE-2": -1.454819917678833,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -3.0250864028930664,
+        "TSNE-2": 6.917706489562988,
+        "cluster": 3,
+        "keywords": "impact, public, communication, role, debate"
+      },
+      {
+        "TSNE-1": 1.2027262449264526,
+        "TSNE-2": 2.8476762771606445,
+        "cluster": 4,
+        "keywords": "information, also, platform, voter, influence"
+      },
+      {
+        "TSNE-1": -3.697025775909424,
+        "TSNE-2": -9.245588302612305,
+        "cluster": 1,
+        "keywords": "people, journalism, electronic, access, easier"
+      },
+      {
+        "TSNE-1": 5.341761112213135,
+        "TSNE-2": -9.976807594299316,
+        "cluster": 0,
+        "keywords": "political, range, wide, medium, opinion"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_266",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-35596 - how did electronic journalism influence politics?"
+  }
+}

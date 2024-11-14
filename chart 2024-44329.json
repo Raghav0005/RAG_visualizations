@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-2ac5384a85031cc4e973ce404ec1d647"
+  },
+  "datasets": {
+    "data-2ac5384a85031cc4e973ce404ec1d647": [
+      {
+        "TSNE-1": 5.898146152496338,
+        "TSNE-2": -8.558053016662598,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -5.656642913818359,
+        "TSNE-2": 1.943194031715393,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": -7.416075229644775,
+        "TSNE-2": 10.607075691223145,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": -4.817536354064941,
+        "TSNE-2": -8.073633193969727,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": -7.416075229644775,
+        "TSNE-2": 10.607075691223145,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": 6.903451919555664,
+        "TSNE-2": 5.126670837402344,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": -2.317035675048828,
+        "TSNE-2": -13.708624839782715,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": -3.7617225646972656,
+        "TSNE-2": 0.026078015565872192,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": -1.6121383905410767,
+        "TSNE-2": 2.010765790939331,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": -6.907639503479004,
+        "TSNE-2": -2.754972219467163,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": 1.7221163511276245,
+        "TSNE-2": -10.559942245483398,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": -0.5543140172958374,
+        "TSNE-2": 14.604723930358887,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": 4.90688943862915,
+        "TSNE-2": -5.787884712219238,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 1.7565139532089233,
+        "TSNE-2": -0.9930241107940674,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": -7.033901691436768,
+        "TSNE-2": -7.491471290588379,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 9.694685935974121,
+        "TSNE-2": -8.723496437072754,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -9.457809448242188,
+        "TSNE-2": 1.3516865968704224,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": -3.7617225646972656,
+        "TSNE-2": 0.026078015565872192,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": 4.632768154144287,
+        "TSNE-2": -10.065089225769043,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 6.477087020874023,
+        "TSNE-2": -2.33937931060791,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -0.8344327211380005,
+        "TSNE-2": -5.140784740447998,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 3.7593326568603516,
+        "TSNE-2": -4.569404602050781,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -2.2598674297332764,
+        "TSNE-2": -5.309503078460693,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": -0.3358055055141449,
+        "TSNE-2": -2.420605421066284,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": 5.576603412628174,
+        "TSNE-2": -3.5487284660339355,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -2.2865052223205566,
+        "TSNE-2": -0.8115019202232361,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": -4.898005485534668,
+        "TSNE-2": -6.530895233154297,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 2.756937026977539,
+        "TSNE-2": -4.0462727546691895,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -12.804374694824219,
+        "TSNE-2": -3.205873489379883,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": -10.191808700561523,
+        "TSNE-2": 5.681386470794678,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": -1.859953761100769,
+        "TSNE-2": 2.5597152709960938,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": -0.2626487612724304,
+        "TSNE-2": -7.7287702560424805,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 7.517425060272217,
+        "TSNE-2": -6.221597671508789,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 3.633538007736206,
+        "TSNE-2": 9.909825325012207,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": 3.9262773990631104,
+        "TSNE-2": -3.238403558731079,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 3.402216672897339,
+        "TSNE-2": 7.723648548126221,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": 3.1990251541137695,
+        "TSNE-2": -8.007344245910645,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 8.919340133666992,
+        "TSNE-2": 2.0617871284484863,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": 7.613621234893799,
+        "TSNE-2": -4.1119561195373535,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -4.749709606170654,
+        "TSNE-2": 3.8845016956329346,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": 6.15505313873291,
+        "TSNE-2": 9.85254955291748,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": 3.8184287548065186,
+        "TSNE-2": 2.5533416271209717,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": 5.793459892272949,
+        "TSNE-2": -5.069267749786377,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 4.391098976135254,
+        "TSNE-2": 3.9966464042663574,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": 1.3435887098312378,
+        "TSNE-2": 8.099488258361816,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": -0.19079825282096863,
+        "TSNE-2": 5.3159942626953125,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": -3.668182849884033,
+        "TSNE-2": -14.42764949798584,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": -6.399876117706299,
+        "TSNE-2": -2.3394901752471924,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": 1.7221163511276245,
+        "TSNE-2": -10.559942245483398,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 2.5064008235931396,
+        "TSNE-2": 7.399429798126221,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": 6.938652515411377,
+        "TSNE-2": 2.8525118827819824,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": -7.950835227966309,
+        "TSNE-2": -3.577847719192505,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": 6.6841816902160645,
+        "TSNE-2": -5.402129650115967,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 0.18466651439666748,
+        "TSNE-2": 13.560935020446777,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": 3.518923044204712,
+        "TSNE-2": 11.098532676696777,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": -3.4414215087890625,
+        "TSNE-2": -5.677600860595703,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 10.472061157226562,
+        "TSNE-2": -6.406966686248779,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -12.909442901611328,
+        "TSNE-2": -1.4088858366012573,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": 3.068575859069824,
+        "TSNE-2": -5.8072829246521,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -3.054577112197876,
+        "TSNE-2": -6.332070350646973,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 0.9210203289985657,
+        "TSNE-2": 2.6847054958343506,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": 6.016854286193848,
+        "TSNE-2": 3.7130870819091797,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": -2.206733465194702,
+        "TSNE-2": 6.1045708656311035,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": -1.4906156063079834,
+        "TSNE-2": -11.763811111450195,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 9.425495147705078,
+        "TSNE-2": -3.287998676300049,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 4.691579341888428,
+        "TSNE-2": -7.159459590911865,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": 3.5283827781677246,
+        "TSNE-2": 5.133485794067383,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": 7.135972023010254,
+        "TSNE-2": -9.869675636291504,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -1.1146665811538696,
+        "TSNE-2": 7.640236854553223,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": -4.6220293045043945,
+        "TSNE-2": -11.924873352050781,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": 4.768432140350342,
+        "TSNE-2": 0.7783209085464478,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": -9.457809448242188,
+        "TSNE-2": 1.3516865968704224,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": -3.8040971755981445,
+        "TSNE-2": -17.855199813842773,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": -2.4449141025543213,
+        "TSNE-2": 4.89547872543335,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": 1.499194860458374,
+        "TSNE-2": 6.466510772705078,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": 1.8752485513687134,
+        "TSNE-2": 4.377040863037109,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": -4.153542518615723,
+        "TSNE-2": 6.266353130340576,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": -3.8040971755981445,
+        "TSNE-2": -17.855199813842773,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": -7.103048801422119,
+        "TSNE-2": 5.861903667449951,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": -11.671048164367676,
+        "TSNE-2": -2.3064117431640625,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": 0.9990431666374207,
+        "TSNE-2": -2.304863214492798,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": 0.11787551641464233,
+        "TSNE-2": 4.7090678215026855,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": 0.9210203289985657,
+        "TSNE-2": 2.6847054958343506,
+        "cluster": 0,
+        "keywords": "max, information, airplane, material, cover"
+      },
+      {
+        "TSNE-1": 0.9536852240562439,
+        "TSNE-2": 9.518747329711914,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": -4.749709606170654,
+        "TSNE-2": 3.8845016956329346,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": -11.584466934204102,
+        "TSNE-2": -1.4047836065292358,
+        "cluster": 5,
+        "keywords": "false, administration, defraud, aviation, allegation"
+      },
+      {
+        "TSNE-1": 5.852083683013916,
+        "TSNE-2": 7.3687639236450195,
+        "cluster": 1,
+        "keywords": "criminal, airline, faa, settlement, safety"
+      },
+      {
+        "TSNE-1": -3.4535791873931885,
+        "TSNE-2": 9.64578914642334,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": 9.541594505310059,
+        "TSNE-2": -7.7577643394470215,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -6.015144348144531,
+        "TSNE-2": 7.5291218757629395,
+        "cluster": 4,
+        "keywords": "company, transparency, fraud, investigation, internal"
+      },
+      {
+        "TSNE-1": 6.204890727996826,
+        "TSNE-2": -6.9492926597595215,
+        "cluster": 2,
+        "keywords": "million, contract, paid, air, force"
+      },
+      {
+        "TSNE-1": -0.2626487612724304,
+        "TSNE-2": -7.7287702560424805,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      },
+      {
+        "TSNE-1": -3.9407029151916504,
+        "TSNE-2": -11.70266056060791,
+        "cluster": 3,
+        "keywords": "government, tax, pentagon, planning, illegally"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_112",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-44329 - how id boeing defraud the government"
+  }
+}

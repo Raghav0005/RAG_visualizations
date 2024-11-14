@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-34383bb8fa9aa9222da2a3b11b1c4eab"
+  },
+  "datasets": {
+    "data-34383bb8fa9aa9222da2a3b11b1c4eab": [
+      {
+        "TSNE-1": 2.3676183223724365,
+        "TSNE-2": 0.5353173613548279,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": 8.414551734924316,
+        "TSNE-2": -4.048436641693115,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": -6.179626941680908,
+        "TSNE-2": -2.797865152359009,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 3.977557897567749,
+        "TSNE-2": 11.154680252075195,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": -6.179626941680908,
+        "TSNE-2": -2.797865152359009,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -9.892780303955078,
+        "TSNE-2": -6.944856643676758,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -5.5795207023620605,
+        "TSNE-2": -4.278476715087891,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -0.8050196170806885,
+        "TSNE-2": -2.8829092979431152,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": 6.976297855377197,
+        "TSNE-2": 2.571439504623413,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": 0.9285502433776855,
+        "TSNE-2": 8.482943534851074,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": 4.2005743980407715,
+        "TSNE-2": -10.939757347106934,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": -2.8458480834960938,
+        "TSNE-2": 10.803897857666016,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": -0.06796059012413025,
+        "TSNE-2": 3.645575523376465,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -8.846942901611328,
+        "TSNE-2": -3.5980446338653564,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 2.21452260017395,
+        "TSNE-2": 11.6319580078125,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": -0.8352842926979065,
+        "TSNE-2": -4.908674240112305,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": -5.308881759643555,
+        "TSNE-2": -8.114635467529297,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -0.8050196170806885,
+        "TSNE-2": -2.8829092979431152,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -7.506560325622559,
+        "TSNE-2": 2.1638383865356445,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -1.8366758823394775,
+        "TSNE-2": -11.53921890258789,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 2.235738515853882,
+        "TSNE-2": 14.33680248260498,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": 3.233813524246216,
+        "TSNE-2": 1.443943977355957,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": 2.235738515853882,
+        "TSNE-2": 14.33680248260498,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": -10.005266189575195,
+        "TSNE-2": -1.4477342367172241,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -2.5981383323669434,
+        "TSNE-2": 9.033377647399902,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": 0.8337218761444092,
+        "TSNE-2": -2.5058023929595947,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": 2.242670774459839,
+        "TSNE-2": 9.930795669555664,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": 7.455020427703857,
+        "TSNE-2": -1.226073980331421,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": 3.225088119506836,
+        "TSNE-2": 7.186879634857178,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": -9.509105682373047,
+        "TSNE-2": -6.851619720458984,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 7.579938888549805,
+        "TSNE-2": 1.4974193572998047,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": 6.359420299530029,
+        "TSNE-2": 7.198002815246582,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": 0.7441413998603821,
+        "TSNE-2": 2.638261318206787,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -7.938896179199219,
+        "TSNE-2": 0.2684093415737152,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 4.355528354644775,
+        "TSNE-2": -7.409039497375488,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 3.711444139480591,
+        "TSNE-2": -1.4475713968276978,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": 3.20027494430542,
+        "TSNE-2": -3.6638948917388916,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 6.250082969665527,
+        "TSNE-2": -5.940632343292236,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": -6.693190574645996,
+        "TSNE-2": -0.7988375425338745,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 0.26490548253059387,
+        "TSNE-2": -0.5508535504341125,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": 7.126194953918457,
+        "TSNE-2": -3.6723973751068115,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": 5.820687294006348,
+        "TSNE-2": -1.0318034887313843,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": -0.5305378437042236,
+        "TSNE-2": 4.004767417907715,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": 0.838085412979126,
+        "TSNE-2": -5.210597515106201,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 2.609673500061035,
+        "TSNE-2": -2.3209643363952637,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -3.834118127822876,
+        "TSNE-2": 12.175294876098633,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": -1.5868875980377197,
+        "TSNE-2": -11.343281745910645,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": -6.484629154205322,
+        "TSNE-2": 8.16314697265625,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": 4.2005743980407715,
+        "TSNE-2": -10.939757347106934,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 2.8386757373809814,
+        "TSNE-2": -5.3640875816345215,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 10.759533882141113,
+        "TSNE-2": -2.348846435546875,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": -6.209817409515381,
+        "TSNE-2": -9.975628852844238,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -0.6703007817268372,
+        "TSNE-2": 2.628537178039551,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -2.174254894256592,
+        "TSNE-2": 3.587641954421997,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -6.038490295410156,
+        "TSNE-2": 1.0603663921356201,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 2.7924294471740723,
+        "TSNE-2": 13.071195602416992,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": -1.8062450885772705,
+        "TSNE-2": -0.7849553823471069,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -6.640377998352051,
+        "TSNE-2": 6.643928050994873,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": 3.781388759613037,
+        "TSNE-2": 2.243863105773926,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -4.061687469482422,
+        "TSNE-2": 6.595343589782715,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": 7.286073684692383,
+        "TSNE-2": -6.837716102600098,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 10.79662036895752,
+        "TSNE-2": -1.6201015710830688,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": 12.211380958557129,
+        "TSNE-2": -1.240934133529663,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": 6.359420299530029,
+        "TSNE-2": 7.198002815246582,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": 3.6420881748199463,
+        "TSNE-2": -4.572719573974609,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 3.977700710296631,
+        "TSNE-2": 0.3392905592918396,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": 5.066343307495117,
+        "TSNE-2": -3.4863803386688232,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": -4.492431163787842,
+        "TSNE-2": 1.688153862953186,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 1.6618330478668213,
+        "TSNE-2": -8.100420951843262,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 2.8878321647644043,
+        "TSNE-2": 11.387198448181152,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": 1.1346402168273926,
+        "TSNE-2": -8.13888931274414,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": -5.328451633453369,
+        "TSNE-2": -8.42205810546875,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -4.025132656097412,
+        "TSNE-2": -2.291692018508911,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -10.133041381835938,
+        "TSNE-2": 1.7191970348358154,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 4.121466159820557,
+        "TSNE-2": -3.0082874298095703,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": 6.8400797843933105,
+        "TSNE-2": -0.5012979507446289,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": -10.740781784057617,
+        "TSNE-2": 2.146857976913452,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -3.9800069332122803,
+        "TSNE-2": -2.475137948989868,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 10.201658248901367,
+        "TSNE-2": -0.33002346754074097,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": -5.359060287475586,
+        "TSNE-2": 7.640678882598877,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": -9.158777236938477,
+        "TSNE-2": -1.8987587690353394,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -2.8458480834960938,
+        "TSNE-2": 10.803897857666016,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": 7.788293361663818,
+        "TSNE-2": -7.097980976104736,
+        "cluster": 0,
+        "keywords": "system, surveillance, social, government, control"
+      },
+      {
+        "TSNE-1": -3.12261700630188,
+        "TSNE-2": -5.098894119262695,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 0.26490548253059387,
+        "TSNE-2": -0.5508535504341125,
+        "cluster": 4,
+        "keywords": "freedom, speech, digital, information, monitor"
+      },
+      {
+        "TSNE-1": -5.956149101257324,
+        "TSNE-2": 6.8609466552734375,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": -3.007714033126831,
+        "TSNE-2": -6.315154552459717,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": -18.119670867919922,
+        "TSNE-2": 17.664409637451172,
+        "cluster": 1,
+        "keywords": "mention, text, nan, economy, significant"
+      },
+      {
+        "TSNE-1": -7.007451057434082,
+        "TSNE-2": 1.3230211734771729,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 9.165017127990723,
+        "TSNE-2": 1.6364883184432983,
+        "cluster": 3,
+        "keywords": "citizen, score, behavior, credit, data"
+      },
+      {
+        "TSNE-1": -4.766009330749512,
+        "TSNE-2": -0.484395295381546,
+        "cluster": 2,
+        "keywords": "censorship, chinese, access, internet, censor"
+      },
+      {
+        "TSNE-1": 5.510961532592773,
+        "TSNE-2": 6.838109970092773,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      },
+      {
+        "TSNE-1": -0.4062916338443756,
+        "TSNE-2": 10.197141647338867,
+        "cluster": 5,
+        "keywords": "revenue, yuan, fiscal, billion, trillion"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_27",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-69711 - how much does the chinese government bowlderize its citizens"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d60ec1cad416b4820e8f49bbf99ff087"
+  },
+  "datasets": {
+    "data-d60ec1cad416b4820e8f49bbf99ff087": [
+      {
+        "TSNE-1": -0.3017429709434509,
+        "TSNE-2": 11.146242141723633,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": -3.288727045059204,
+        "TSNE-2": 10.465821266174316,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 5.705019474029541,
+        "TSNE-2": 13.406316757202148,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": 5.047243595123291,
+        "TSNE-2": -4.371808052062988,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": 6.24591064453125,
+        "TSNE-2": 14.257357597351074,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": 11.43520450592041,
+        "TSNE-2": -7.21882438659668,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -7.348956108093262,
+        "TSNE-2": -7.349937438964844,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": -4.2052903175354,
+        "TSNE-2": 1.0844593048095703,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": 5.528317451477051,
+        "TSNE-2": 5.688046932220459,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": 8.075753211975098,
+        "TSNE-2": -7.672147750854492,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -5.262694835662842,
+        "TSNE-2": 14.339479446411133,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 5.085031509399414,
+        "TSNE-2": -1.064439058303833,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -3.6012043952941895,
+        "TSNE-2": 5.9080963134765625,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -12.867456436157227,
+        "TSNE-2": 10.45482063293457,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 3.3189122676849365,
+        "TSNE-2": -3.5763120651245117,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -8.495280265808105,
+        "TSNE-2": 4.045368671417236,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": -0.11381800472736359,
+        "TSNE-2": -12.907014846801758,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": -4.2052903175354,
+        "TSNE-2": 1.0844593048095703,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -11.975126266479492,
+        "TSNE-2": -1.3138251304626465,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": -0.16905654966831207,
+        "TSNE-2": 7.147219181060791,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": 15.029766082763672,
+        "TSNE-2": -1.1854639053344727,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": 0.4716804027557373,
+        "TSNE-2": 1.8867017030715942,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": 15.029766082763672,
+        "TSNE-2": -1.1854639053344727,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -10.432336807250977,
+        "TSNE-2": 12.390631675720215,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": -10.02817440032959,
+        "TSNE-2": 7.52800989151001,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": -7.3222150802612305,
+        "TSNE-2": 0.5896556377410889,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": 7.441395282745361,
+        "TSNE-2": -4.35974645614624,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": 7.594753265380859,
+        "TSNE-2": 12.933870315551758,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": 10.117875099182129,
+        "TSNE-2": -1.2767348289489746,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -7.306652069091797,
+        "TSNE-2": -10.6265869140625,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": 4.785159111022949,
+        "TSNE-2": 4.125906467437744,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": 9.88393783569336,
+        "TSNE-2": 6.049391746520996,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": -2.0648348331451416,
+        "TSNE-2": 5.283062934875488,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -13.57282543182373,
+        "TSNE-2": 6.487821578979492,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": -1.8956587314605713,
+        "TSNE-2": 1.8750264644622803,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -1.354724645614624,
+        "TSNE-2": -3.59065580368042,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -9.944079399108887,
+        "TSNE-2": 6.345793724060059,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 5.327487945556641,
+        "TSNE-2": -8.823363304138184,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": -7.443739414215088,
+        "TSNE-2": 11.117110252380371,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": -6.663924694061279,
+        "TSNE-2": 5.9853715896606445,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": -2.584810972213745,
+        "TSNE-2": 8.380637168884277,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 4.306419849395752,
+        "TSNE-2": 8.585774421691895,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": -4.132373332977295,
+        "TSNE-2": 4.293333053588867,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -8.743273735046387,
+        "TSNE-2": -0.6915225386619568,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": 0.39012494683265686,
+        "TSNE-2": 4.328485012054443,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": 7.115462779998779,
+        "TSNE-2": -13.540511131286621,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": 10.685087203979492,
+        "TSNE-2": 3.392195463180542,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": 7.441395282745361,
+        "TSNE-2": -4.35974645614624,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -5.262694835662842,
+        "TSNE-2": 14.339479446411133,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": -3.4299004077911377,
+        "TSNE-2": -2.4417552947998047,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -2.718552589416504,
+        "TSNE-2": -9.6384916305542,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": 7.521739482879639,
+        "TSNE-2": -1.7980278730392456,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -2.479691743850708,
+        "TSNE-2": 3.7445127964019775,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": 7.115462779998779,
+        "TSNE-2": -13.540511131286621,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": -12.213252067565918,
+        "TSNE-2": 7.935993194580078,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 15.029766082763672,
+        "TSNE-2": -1.1854639053344727,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -10.675692558288574,
+        "TSNE-2": 3.6186556816101074,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": 9.70404052734375,
+        "TSNE-2": -3.1788322925567627,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -2.282057285308838,
+        "TSNE-2": -0.09809307008981705,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": 15.029766082763672,
+        "TSNE-2": -1.1854639053344727,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -5.031291484832764,
+        "TSNE-2": -9.274252891540527,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": 4.4744038581848145,
+        "TSNE-2": -14.898293495178223,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": 5.349832534790039,
+        "TSNE-2": -2.935662031173706,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": 10.041241645812988,
+        "TSNE-2": 1.0243499279022217,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": 1.0213874578475952,
+        "TSNE-2": -0.8062984347343445,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -5.50226354598999,
+        "TSNE-2": 8.781872749328613,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": -0.35590624809265137,
+        "TSNE-2": -1.567139744758606,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": -10.068803787231445,
+        "TSNE-2": 9.962055206298828,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 14.292010307312012,
+        "TSNE-2": 7.990212440490723,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": 7.441395282745361,
+        "TSNE-2": -4.35974645614624,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": 13.531330108642578,
+        "TSNE-2": 8.572582244873047,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": -0.11381800472736359,
+        "TSNE-2": -12.907014846801758,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": -8.098732948303223,
+        "TSNE-2": -14.833325386047363,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": -6.948975086212158,
+        "TSNE-2": -3.9010977745056152,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": 1.3633363246917725,
+        "TSNE-2": -7.299989700317383,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": 0.47747787833213806,
+        "TSNE-2": -5.181276798248291,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": -8.064796447753906,
+        "TSNE-2": -3.659228801727295,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": -8.098732948303223,
+        "TSNE-2": -14.833325386047363,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": 2.9306321144104004,
+        "TSNE-2": 6.642399787902832,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": 9.317328453063965,
+        "TSNE-2": -5.699818134307861,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -8.291627883911133,
+        "TSNE-2": 9.083815574645996,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 5.085031509399414,
+        "TSNE-2": -1.064439058303833,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -4.639716625213623,
+        "TSNE-2": -8.329882621765137,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": -10.26697826385498,
+        "TSNE-2": -0.347770094871521,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": -6.663924694061279,
+        "TSNE-2": 5.9853715896606445,
+        "cluster": 2,
+        "keywords": "firm, profit, perfect, economic, lead"
+      },
+      {
+        "TSNE-1": 3.878187656402588,
+        "TSNE-2": -6.649016857147217,
+        "cluster": 3,
+        "keywords": "producer, cannot, marginal, one, consumer"
+      },
+      {
+        "TSNE-1": 5.409012794494629,
+        "TSNE-2": 1.4532523155212402,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": 5.85207462310791,
+        "TSNE-2": -6.348189830780029,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -11.567770004272461,
+        "TSNE-2": 1.6256414651870728,
+        "cluster": 5,
+        "keywords": "cost, purely, maintain, cut, must"
+      },
+      {
+        "TSNE-1": 6.937463760375977,
+        "TSNE-2": 2.264040470123291,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      },
+      {
+        "TSNE-1": -6.145168781280518,
+        "TSNE-2": 3.085378885269165,
+        "cluster": 0,
+        "keywords": "market, price, pure, competition, seller"
+      },
+      {
+        "TSNE-1": 9.88393783569336,
+        "TSNE-2": 6.049391746520996,
+        "cluster": 4,
+        "keywords": "less, revenue, situation, competitive, reality"
+      },
+      {
+        "TSNE-1": 7.441395282745361,
+        "TSNE-2": -4.35974645614624,
+        "cluster": 1,
+        "keywords": "would, buyer, unsustainable, system, high"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_89",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-222481 - why is pure competition considered an unsustainable system?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e34056d4f6b9c14613580f319da2a74e"
+  },
+  "datasets": {
+    "data-e34056d4f6b9c14613580f319da2a74e": [
+      {
+        "TSNE-1": 5.466172695159912,
+        "TSNE-2": -19.162227630615234,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": 13.414154052734375,
+        "TSNE-2": -12.387374877929688,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -18.275604248046875,
+        "TSNE-2": 5.457277297973633,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": 5.4937520027160645,
+        "TSNE-2": 19.129289627075195,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": -18.275604248046875,
+        "TSNE-2": 5.457277297973633,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -15.194243431091309,
+        "TSNE-2": -0.18210868537425995,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -7.9922194480896,
+        "TSNE-2": -22.89044761657715,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": -7.917311668395996,
+        "TSNE-2": 8.209111213684082,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -19.625154495239258,
+        "TSNE-2": -3.032611846923828,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -6.967966556549072,
+        "TSNE-2": -8.359416961669922,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 10.976924896240234,
+        "TSNE-2": 9.35783863067627,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": -8.780472755432129,
+        "TSNE-2": -16.740116119384766,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": -2.5087602138519287,
+        "TSNE-2": -1.6842119693756104,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 3.868886709213257,
+        "TSNE-2": -1.9707472324371338,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": 20.536136627197266,
+        "TSNE-2": 0.24289658665657043,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": 7.286000728607178,
+        "TSNE-2": -6.962204456329346,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -0.6481465101242065,
+        "TSNE-2": 5.34026575088501,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -7.917311668395996,
+        "TSNE-2": 8.209111213684082,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": 4.368587970733643,
+        "TSNE-2": -7.5335307121276855,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -2.223710060119629,
+        "TSNE-2": -9.996147155761719,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 4.775209903717041,
+        "TSNE-2": 15.460526466369629,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 1.402138352394104,
+        "TSNE-2": -2.5558111667633057,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 7.674233913421631,
+        "TSNE-2": 17.33089256286621,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 11.986403465270996,
+        "TSNE-2": -3.9191291332244873,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -1.300922155380249,
+        "TSNE-2": -17.879480361938477,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": -8.773208618164062,
+        "TSNE-2": -4.087729454040527,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 4.775209903717041,
+        "TSNE-2": 15.460526466369629,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": -5.172507286071777,
+        "TSNE-2": 4.847158432006836,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -2.298322916030884,
+        "TSNE-2": 13.390706062316895,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 14.43789291381836,
+        "TSNE-2": 6.643515586853027,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": -14.48490047454834,
+        "TSNE-2": 12.9695463180542,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -1.724827527999878,
+        "TSNE-2": -14.357109069824219,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": -3.141249895095825,
+        "TSNE-2": 1.7242094278335571,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 5.8360419273376465,
+        "TSNE-2": -4.79248046875,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -12.505839347839355,
+        "TSNE-2": 8.856120109558105,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -4.855382919311523,
+        "TSNE-2": -10.950139045715332,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 2.66725754737854,
+        "TSNE-2": 0.915276825428009,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": -11.197938919067383,
+        "TSNE-2": -11.350342750549316,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": -1.4582889080047607,
+        "TSNE-2": 21.52832794189453,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": -2.6203718185424805,
+        "TSNE-2": 9.02056884765625,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": 14.443412780761719,
+        "TSNE-2": 2.8052871227264404,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": -10.620597839355469,
+        "TSNE-2": -7.097386360168457,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": -4.489058971405029,
+        "TSNE-2": 0.6968465447425842,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": -10.742643356323242,
+        "TSNE-2": -0.8814400434494019,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 12.880005836486816,
+        "TSNE-2": 17.023483276367188,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": -1.0978997945785522,
+        "TSNE-2": -22.709447860717773,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": 17.107208251953125,
+        "TSNE-2": 11.366960525512695,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": 4.676682472229004,
+        "TSNE-2": -15.126646041870117,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": 10.976924896240234,
+        "TSNE-2": 9.35783863067627,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 0.2758297026157379,
+        "TSNE-2": -9.029017448425293,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 19.57836151123047,
+        "TSNE-2": 5.627285957336426,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": 21.88885498046875,
+        "TSNE-2": -3.4457743167877197,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": -3.7381372451782227,
+        "TSNE-2": -7.129080772399902,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": -1.0978997945785522,
+        "TSNE-2": -22.709447860717773,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": 7.268953323364258,
+        "TSNE-2": -9.463860511779785,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": 8.253533363342285,
+        "TSNE-2": 14.03141975402832,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 8.729968070983887,
+        "TSNE-2": -5.567202091217041,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -0.10742540657520294,
+        "TSNE-2": 0.5811401605606079,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": -7.226344108581543,
+        "TSNE-2": -0.47795569896698,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 7.674233913421631,
+        "TSNE-2": 17.33089256286621,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": -10.638199806213379,
+        "TSNE-2": 3.430433511734009,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": 12.393295288085938,
+        "TSNE-2": -17.666900634765625,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": 8.818902015686035,
+        "TSNE-2": -13.425185203552246,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": 0.46350252628326416,
+        "TSNE-2": -16.474937438964844,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": 16.04863929748535,
+        "TSNE-2": -4.452652931213379,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": -13.511248588562012,
+        "TSNE-2": -4.502801418304443,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 0.5072181224822998,
+        "TSNE-2": -5.922186851501465,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 8.423139572143555,
+        "TSNE-2": 4.443232536315918,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": -5.199344158172607,
+        "TSNE-2": -3.962526321411133,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 4.775209903717041,
+        "TSNE-2": 15.460526466369629,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 16.739681243896484,
+        "TSNE-2": -9.241127967834473,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": 0.830873429775238,
+        "TSNE-2": 5.335251808166504,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 4.91262674331665,
+        "TSNE-2": 5.646263122558594,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 12.920113563537598,
+        "TSNE-2": -0.4139827489852905,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": 2.7326242923736572,
+        "TSNE-2": -4.339998722076416,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -15.696731567382812,
+        "TSNE-2": -9.437843322753906,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": 8.753288269042969,
+        "TSNE-2": -1.2347583770751953,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": 4.91262674331665,
+        "TSNE-2": 5.646263122558594,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": 5.957703113555908,
+        "TSNE-2": 0.5686884522438049,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": 3.2102696895599365,
+        "TSNE-2": -13.859044075012207,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": 10.1962251663208,
+        "TSNE-2": 1.6971817016601562,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": -8.780472755432129,
+        "TSNE-2": -16.740116119384766,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": -12.131183624267578,
+        "TSNE-2": 3.9813625812530518,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": 12.064920425415039,
+        "TSNE-2": -8.184578895568848,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -2.6203718185424805,
+        "TSNE-2": 9.02056884765625,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": 18.83634376525879,
+        "TSNE-2": -0.10994713008403778,
+        "cluster": 2,
+        "keywords": "mention, discusses, behavior, manipulation, leader"
+      },
+      {
+        "TSNE-1": 3.063408613204956,
+        "TSNE-2": 9.449731826782227,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      },
+      {
+        "TSNE-1": -6.406725883483887,
+        "TSNE-2": 18.67828369140625,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": 4.71074914932251,
+        "TSNE-2": -10.051761627197266,
+        "cluster": 5,
+        "keywords": "curriculum, influence, effective, development, impact"
+      },
+      {
+        "TSNE-1": -7.890390396118164,
+        "TSNE-2": 13.63521671295166,
+        "cluster": 0,
+        "keywords": "administrator, may, parent, child, without"
+      },
+      {
+        "TSNE-1": -1.3369946479797363,
+        "TSNE-2": -3.808793544769287,
+        "cluster": 1,
+        "keywords": "educational, student, manipulate, staff, role"
+      },
+      {
+        "TSNE-1": -1.724827527999878,
+        "TSNE-2": -14.357109069824219,
+        "cluster": 4,
+        "keywords": "school, regular, parental, often, meeting"
+      },
+      {
+        "TSNE-1": 3.127664566040039,
+        "TSNE-2": 18.102087020874023,
+        "cluster": 3,
+        "keywords": "guidance, something, harmful, cannot, illegal"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_126",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-37531 - how do educational administrators manipulate children"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-5e78b021b0f11c4d4f08b0662a4dd7c8"
+  },
+  "datasets": {
+    "data-5e78b021b0f11c4d4f08b0662a4dd7c8": [
+      {
+        "TSNE-1": 6.780497074127197,
+        "TSNE-2": -2.644655227661133,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -1.199155330657959,
+        "TSNE-2": 6.471167087554932,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -6.302760601043701,
+        "TSNE-2": 5.966612815856934,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": -9.38644790649414,
+        "TSNE-2": 3.122089147567749,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": -6.302760601043701,
+        "TSNE-2": 5.966612815856934,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 2.51389217376709,
+        "TSNE-2": -15.055122375488281,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": -2.375760078430176,
+        "TSNE-2": 5.40172004699707,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 5.4289655685424805,
+        "TSNE-2": 1.8758949041366577,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -0.12414000183343887,
+        "TSNE-2": -10.014758110046387,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": -4.055368900299072,
+        "TSNE-2": 5.481162071228027,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": -1.654929518699646,
+        "TSNE-2": -1.3226109743118286,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 7.456007957458496,
+        "TSNE-2": -11.23399829864502,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": 2.497687578201294,
+        "TSNE-2": 2.7781996726989746,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -5.228705406188965,
+        "TSNE-2": 1.48368239402771,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": -4.628458023071289,
+        "TSNE-2": -11.405165672302246,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": 4.13287878036499,
+        "TSNE-2": -1.2243627309799194,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": 2.8529460430145264,
+        "TSNE-2": -6.770286560058594,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": 5.4289655685424805,
+        "TSNE-2": 1.8758949041366577,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": 8.721822738647461,
+        "TSNE-2": -1.8614256381988525,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -5.730622291564941,
+        "TSNE-2": -7.409483909606934,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": -3.841593027114868,
+        "TSNE-2": 8.81971263885498,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 2.9979209899902344,
+        "TSNE-2": 6.1317572593688965,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -3.13812518119812,
+        "TSNE-2": 8.874625205993652,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": -3.641383647918701,
+        "TSNE-2": 2.392207384109497,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 0.746764600276947,
+        "TSNE-2": 2.242976427078247,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": 3.065267562866211,
+        "TSNE-2": 1.0253887176513672,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -8.353288650512695,
+        "TSNE-2": 10.157676696777344,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 6.6068596839904785,
+        "TSNE-2": 5.541586875915527,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -5.074305534362793,
+        "TSNE-2": -11.810979843139648,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": 1.1796085834503174,
+        "TSNE-2": -14.500771522521973,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": 0.6581676006317139,
+        "TSNE-2": -10.032591819763184,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": -6.909075736999512,
+        "TSNE-2": -6.13159704208374,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": 1.8308472633361816,
+        "TSNE-2": 3.536449670791626,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": 0.4319717288017273,
+        "TSNE-2": 5.284912586212158,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": 4.399973392486572,
+        "TSNE-2": 7.691120624542236,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -0.4596756100654602,
+        "TSNE-2": 3.9637598991394043,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": 0.8766510486602783,
+        "TSNE-2": 7.606030464172363,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": 4.909434795379639,
+        "TSNE-2": 6.388513565063477,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -3.8647472858428955,
+        "TSNE-2": -0.01618889719247818,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 6.066468238830566,
+        "TSNE-2": -4.842447757720947,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -9.251298904418945,
+        "TSNE-2": 6.517538070678711,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 7.684081554412842,
+        "TSNE-2": -1.1646556854248047,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": 3.1548779010772705,
+        "TSNE-2": 3.107645273208618,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -2.0191965103149414,
+        "TSNE-2": 1.0496186017990112,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 0.21156692504882812,
+        "TSNE-2": 0.1552581936120987,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 4.820236682891846,
+        "TSNE-2": -12.169726371765137,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": -4.715610504150391,
+        "TSNE-2": -6.365821361541748,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": -9.660334587097168,
+        "TSNE-2": -1.2923277616500854,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": -1.654929518699646,
+        "TSNE-2": -1.3226109743118286,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": -1.1341930627822876,
+        "TSNE-2": 3.7906126976013184,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": 7.686093330383301,
+        "TSNE-2": 8.148265838623047,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -4.852631092071533,
+        "TSNE-2": 11.432014465332031,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 3.3467259407043457,
+        "TSNE-2": 4.049985885620117,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": 4.820236682891846,
+        "TSNE-2": -12.169726371765137,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": 0.8822582960128784,
+        "TSNE-2": 6.191391944885254,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -5.4507060050964355,
+        "TSNE-2": 8.62720012664795,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 4.113390922546387,
+        "TSNE-2": -2.796034574508667,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -6.0030717849731445,
+        "TSNE-2": -11.167641639709473,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": 5.8371148109436035,
+        "TSNE-2": 4.233163833618164,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -5.666591167449951,
+        "TSNE-2": 3.4234447479248047,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 10.597931861877441,
+        "TSNE-2": 3.0941476821899414,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -8.755435943603516,
+        "TSNE-2": -4.610099792480469,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": -0.38808026909828186,
+        "TSNE-2": -5.969784259796143,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": -4.405421733856201,
+        "TSNE-2": -7.253244400024414,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": -0.07521745562553406,
+        "TSNE-2": 0.9347416162490845,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 7.078442096710205,
+        "TSNE-2": 1.4939489364624023,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -2.7199342250823975,
+        "TSNE-2": -3.1505239009857178,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 2.2435059547424316,
+        "TSNE-2": 0.14908133447170258,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": 1.3077101707458496,
+        "TSNE-2": -3.2131240367889404,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -7.2613019943237305,
+        "TSNE-2": 9.656216621398926,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 0.6936889886856079,
+        "TSNE-2": -2.961848497390747,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": 2.809046983718872,
+        "TSNE-2": -6.720803260803223,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": -6.793822288513184,
+        "TSNE-2": 2.0743677616119385,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 0.5931277871131897,
+        "TSNE-2": 9.984421730041504,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -4.078270435333252,
+        "TSNE-2": -3.449634313583374,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": -10.463534355163574,
+        "TSNE-2": 6.427554607391357,
+        "cluster": 3,
+        "keywords": "promote, issue, racism, address, full"
+      },
+      {
+        "TSNE-1": 1.8715506792068481,
+        "TSNE-2": 8.860936164855957,
+        "cluster": 0,
+        "keywords": "latino, latinx, hispanic, american, organization"
+      },
+      {
+        "TSNE-1": -6.793822288513184,
+        "TSNE-2": 2.0743677616119385,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": -0.8936904668807983,
+        "TSNE-2": -5.878612041473389,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": -7.758710861206055,
+        "TSNE-2": 3.663752317428589,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": -2.69990873336792,
+        "TSNE-2": 3.186290740966797,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 7.456007957458496,
+        "TSNE-2": -11.23399829864502,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": 10.959582328796387,
+        "TSNE-2": 3.172513246536255,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": 6.418715953826904,
+        "TSNE-2": -0.0002352660521864891,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": 6.066468238830566,
+        "TSNE-2": -4.842447757720947,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": -10.752706527709961,
+        "TSNE-2": -1.8216850757598877,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": 2.669710636138916,
+        "TSNE-2": -14.655783653259277,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": 5.346826553344727,
+        "TSNE-2": -8.480989456176758,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": 4.849040508270264,
+        "TSNE-2": -1.527354121208191,
+        "cluster": 4,
+        "keywords": "like, educational, within, activist, historical"
+      },
+      {
+        "TSNE-1": 1.3568768501281738,
+        "TSNE-2": -10.306251525878906,
+        "cluster": 2,
+        "keywords": "woman, native, stand, suffragist, amendment"
+      },
+      {
+        "TSNE-1": -5.074318885803223,
+        "TSNE-2": -0.849815845489502,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      },
+      {
+        "TSNE-1": -6.909075736999512,
+        "TSNE-2": -6.13159704208374,
+        "cluster": 5,
+        "keywords": "bias, latinas, nondiscrimination, comprehensive, gap"
+      },
+      {
+        "TSNE-1": -9.332046508789062,
+        "TSNE-2": -0.7329404950141907,
+        "cluster": 1,
+        "keywords": "equality, social, community, right, fight"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_166",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-45474 - how latinx americans continue to fight for full equality"
+  }
+}

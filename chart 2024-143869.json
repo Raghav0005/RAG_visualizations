@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-8be6567c9ed0c52fc42b348d9cf96766"
+  },
+  "datasets": {
+    "data-8be6567c9ed0c52fc42b348d9cf96766": [
+      {
+        "TSNE-1": 2.1790859699249268,
+        "TSNE-2": -5.6659111976623535,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 5.721045017242432,
+        "TSNE-2": 0.841084361076355,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": -7.358119964599609,
+        "TSNE-2": 3.353459596633911,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 10.581524848937988,
+        "TSNE-2": -5.1171369552612305,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      },
+      {
+        "TSNE-1": -7.358119964599609,
+        "TSNE-2": 3.353459596633911,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 2.622152805328369,
+        "TSNE-2": 6.986648082733154,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": -3.6092143058776855,
+        "TSNE-2": 4.698190212249756,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 4.999866008758545,
+        "TSNE-2": -3.600492477416992,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 6.104488849639893,
+        "TSNE-2": -5.951712608337402,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      },
+      {
+        "TSNE-1": 8.485515594482422,
+        "TSNE-2": 8.630900382995605,
+        "cluster": 4,
+        "keywords": "rating, particular, provide, context, insufficient"
+      },
+      {
+        "TSNE-1": 1.7116628885269165,
+        "TSNE-2": -0.9762305617332458,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": -10.818662643432617,
+        "TSNE-2": 5.330836772918701,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -0.49011388421058655,
+        "TSNE-2": -6.695733070373535,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -2.978850841522217,
+        "TSNE-2": 10.849133491516113,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": 4.786883354187012,
+        "TSNE-2": 8.975309371948242,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": 3.426988124847412,
+        "TSNE-2": -4.740567684173584,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 0.1793709695339203,
+        "TSNE-2": 13.015366554260254,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": 4.999866008758545,
+        "TSNE-2": -3.600492477416992,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 1.9198782444000244,
+        "TSNE-2": -2.9611876010894775,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": -5.968032360076904,
+        "TSNE-2": 8.339241027832031,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 10.480962753295898,
+        "TSNE-2": -10.914373397827148,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      },
+      {
+        "TSNE-1": 2.7799184322357178,
+        "TSNE-2": -6.615672588348389,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 10.391094207763672,
+        "TSNE-2": -9.462663650512695,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      },
+      {
+        "TSNE-1": 2.2934775352478027,
+        "TSNE-2": 3.262568235397339,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": -1.0650125741958618,
+        "TSNE-2": -8.459781646728516,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": 5.011988162994385,
+        "TSNE-2": -1.5621864795684814,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 10.031182289123535,
+        "TSNE-2": -0.27766090631484985,
+        "cluster": 4,
+        "keywords": "rating, particular, provide, context, insufficient"
+      },
+      {
+        "TSNE-1": -3.2428019046783447,
+        "TSNE-2": 4.03609037399292,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 7.393975734710693,
+        "TSNE-2": 7.198238372802734,
+        "cluster": 4,
+        "keywords": "rating, particular, provide, context, insufficient"
+      },
+      {
+        "TSNE-1": 0.4912494421005249,
+        "TSNE-2": 8.32181453704834,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": -3.5116188526153564,
+        "TSNE-2": -8.804973602294922,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -7.593740940093994,
+        "TSNE-2": 11.025135040283203,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -0.10783900320529938,
+        "TSNE-2": -5.526183605194092,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": 3.577680826187134,
+        "TSNE-2": 1.276731014251709,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 0.030444294214248657,
+        "TSNE-2": 4.682298183441162,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": 2.3745291233062744,
+        "TSNE-2": -9.229272842407227,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -3.526559352874756,
+        "TSNE-2": -1.5692856311798096,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -0.2889134883880615,
+        "TSNE-2": 10.68825626373291,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": -3.582960605621338,
+        "TSNE-2": 0.21905361115932465,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -0.7034868001937866,
+        "TSNE-2": -2.3385977745056152,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 6.969496250152588,
+        "TSNE-2": -0.7189702391624451,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": -4.5822834968566895,
+        "TSNE-2": -7.536547660827637,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": 0.4307090938091278,
+        "TSNE-2": -6.280808925628662,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -0.5727146863937378,
+        "TSNE-2": 4.239795207977295,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": 2.7833240032196045,
+        "TSNE-2": -10.382209777832031,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -0.029650501906871796,
+        "TSNE-2": 8.094832420349121,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": -6.172366619110107,
+        "TSNE-2": 9.401095390319824,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 8.439112663269043,
+        "TSNE-2": 9.3456449508667,
+        "cluster": 4,
+        "keywords": "rating, particular, provide, context, insufficient"
+      },
+      {
+        "TSNE-1": 1.7116628885269165,
+        "TSNE-2": -0.9762305617332458,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 4.491415977478027,
+        "TSNE-2": -7.604144096374512,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      },
+      {
+        "TSNE-1": -7.479219436645508,
+        "TSNE-2": 0.5009077787399292,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 7.654268741607666,
+        "TSNE-2": 10.268410682678223,
+        "cluster": 4,
+        "keywords": "rating, particular, provide, context, insufficient"
+      },
+      {
+        "TSNE-1": -1.3217295408248901,
+        "TSNE-2": -5.511592388153076,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -3.165794610977173,
+        "TSNE-2": -12.879840850830078,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": 2.7112700939178467,
+        "TSNE-2": 0.7593839168548584,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 9.619109153747559,
+        "TSNE-2": -10.596122741699219,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      },
+      {
+        "TSNE-1": 0.4547615647315979,
+        "TSNE-2": -3.933910846710205,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 4.6152119636535645,
+        "TSNE-2": 9.592816352844238,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": 0.5216525793075562,
+        "TSNE-2": -0.4303785562515259,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 8.361026763916016,
+        "TSNE-2": -9.540897369384766,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      },
+      {
+        "TSNE-1": -3.0191810131073,
+        "TSNE-2": 9.349489212036133,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": -6.8605475425720215,
+        "TSNE-2": 0.5427656173706055,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -9.93529224395752,
+        "TSNE-2": -1.5250786542892456,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -7.593740940093994,
+        "TSNE-2": 11.025135040283203,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -3.235616683959961,
+        "TSNE-2": -3.473585605621338,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -2.5979926586151123,
+        "TSNE-2": 1.242742896080017,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -4.563239097595215,
+        "TSNE-2": -3.2189908027648926,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -1.3387033939361572,
+        "TSNE-2": -0.10103137791156769,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 3.6138973236083984,
+        "TSNE-2": -1.870047688484192,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 11.433215141296387,
+        "TSNE-2": -5.116013050079346,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      },
+      {
+        "TSNE-1": -3.0441477298736572,
+        "TSNE-2": -6.927487373352051,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": 0.1793709695339203,
+        "TSNE-2": 13.015366554260254,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": -7.2459917068481445,
+        "TSNE-2": -5.375118255615234,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -7.324757099151611,
+        "TSNE-2": -1.9844136238098145,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -3.826662063598633,
+        "TSNE-2": -2.409985065460205,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -5.7287092208862305,
+        "TSNE-2": 3.3175437450408936,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -6.287971496582031,
+        "TSNE-2": -2.5347912311553955,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -7.2459917068481445,
+        "TSNE-2": -5.375118255615234,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -10.314321517944336,
+        "TSNE-2": -2.7843260765075684,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 9.93042278289795,
+        "TSNE-2": 9.833168983459473,
+        "cluster": 4,
+        "keywords": "rating, particular, provide, context, insufficient"
+      },
+      {
+        "TSNE-1": 0.875038743019104,
+        "TSNE-2": 1.9527486562728882,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": -10.818662643432617,
+        "TSNE-2": 5.330836772918701,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": -3.138118028640747,
+        "TSNE-2": 8.998311042785645,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": -5.771204471588135,
+        "TSNE-2": -8.743165016174316,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -0.7034868001937866,
+        "TSNE-2": -2.3385977745056152,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": 4.9217529296875,
+        "TSNE-2": 11.325953483581543,
+        "cluster": 0,
+        "keywords": "yoghurt, evidence, may, scientific, treatment"
+      },
+      {
+        "TSNE-1": 12.312317848205566,
+        "TSNE-2": 1.8338544368743896,
+        "cluster": 4,
+        "keywords": "rating, particular, provide, context, insufficient"
+      },
+      {
+        "TSNE-1": 0.5100603699684143,
+        "TSNE-2": -8.540008544921875,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": 2.34482741355896,
+        "TSNE-2": -3.967325210571289,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": -1.9796254634857178,
+        "TSNE-2": -12.850712776184082,
+        "cluster": 1,
+        "keywords": "yogurt, study, health, risk, probiotic"
+      },
+      {
+        "TSNE-1": -0.8450157642364502,
+        "TSNE-2": 1.5767107009887695,
+        "cluster": 5,
+        "keywords": "help, lactose, gastrointestinal, consumption, benefit"
+      },
+      {
+        "TSNE-1": -7.593740940093994,
+        "TSNE-2": 11.025135040283203,
+        "cluster": 3,
+        "keywords": "management, also, certain, bone, beneficial"
+      },
+      {
+        "TSNE-1": 11.118074417114258,
+        "TSNE-2": -6.202704906463623,
+        "cluster": 2,
+        "keywords": "discusses, text, mention, concept, use"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_12",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-143869 - what is scientific evidence for or against the use of yoghurt"
+  }
+}

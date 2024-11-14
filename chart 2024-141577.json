@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-ddbbf908471f0741d2bc598df6c2d7c5"
+  },
+  "datasets": {
+    "data-ddbbf908471f0741d2bc598df6c2d7c5": [
+      {
+        "TSNE-1": -4.687061309814453,
+        "TSNE-2": -1.3922673463821411,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -2.233332395553589,
+        "TSNE-2": -5.975669860839844,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 2.8045670986175537,
+        "TSNE-2": 3.396152973175049,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 0.6687813997268677,
+        "TSNE-2": 5.629889965057373,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": 2.8555219173431396,
+        "TSNE-2": 3.3162856101989746,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": -1.769079566001892,
+        "TSNE-2": -9.732512474060059,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 6.805943489074707,
+        "TSNE-2": 5.337925434112549,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 0.1837145984172821,
+        "TSNE-2": -1.605828046798706,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 5.722446918487549,
+        "TSNE-2": -4.301054954528809,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -3.1381962299346924,
+        "TSNE-2": 9.719301223754883,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": 7.223962783813477,
+        "TSNE-2": -2.2774691581726074,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": 3.698617696762085,
+        "TSNE-2": -10.322328567504883,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 2.020814895629883,
+        "TSNE-2": -4.010890007019043,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 1.0410488843917847,
+        "TSNE-2": 7.5160980224609375,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": -3.0241785049438477,
+        "TSNE-2": 8.586877822875977,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": -5.8197922706604,
+        "TSNE-2": -4.244818687438965,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -9.905824661254883,
+        "TSNE-2": -3.7762985229492188,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 0.1837145984172821,
+        "TSNE-2": -1.605828046798706,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": -5.628396034240723,
+        "TSNE-2": -2.710847854614258,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 7.469346046447754,
+        "TSNE-2": -6.110536575317383,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -1.6174453496932983,
+        "TSNE-2": 3.7302212715148926,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": 3.0893306732177734,
+        "TSNE-2": 8.107348442077637,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": -1.6682002544403076,
+        "TSNE-2": 3.8186821937561035,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": 2.480724573135376,
+        "TSNE-2": 9.159152030944824,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": -2.490817070007324,
+        "TSNE-2": -1.7984791994094849,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 4.765132904052734,
+        "TSNE-2": -0.8067135810852051,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 0.10970130562782288,
+        "TSNE-2": 3.4666941165924072,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": 4.249417781829834,
+        "TSNE-2": 2.0439863204956055,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": -7.0551629066467285,
+        "TSNE-2": -8.35881519317627,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -0.5620054006576538,
+        "TSNE-2": -9.013136863708496,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 8.921963691711426,
+        "TSNE-2": 3.4228782653808594,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 9.212857246398926,
+        "TSNE-2": -5.665820121765137,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": 3.208357095718384,
+        "TSNE-2": -3.418921709060669,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -4.180816650390625,
+        "TSNE-2": -3.25337553024292,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 5.7446699142456055,
+        "TSNE-2": -2.9163944721221924,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -1.2146888971328735,
+        "TSNE-2": -2.028575897216797,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -5.6628241539001465,
+        "TSNE-2": 1.4704831838607788,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -8.805146217346191,
+        "TSNE-2": -0.3976031541824341,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 0.9912171959877014,
+        "TSNE-2": 0.3476596474647522,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 4.0171308517456055,
+        "TSNE-2": -5.9077911376953125,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -3.580148935317993,
+        "TSNE-2": -6.572510719299316,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 4.190345287322998,
+        "TSNE-2": -2.307704210281372,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": 2.9973738193511963,
+        "TSNE-2": -2.368215322494507,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": 4.9316935539245605,
+        "TSNE-2": 0.1203492283821106,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 2.0957913398742676,
+        "TSNE-2": 0.12340239435434341,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 5.248413562774658,
+        "TSNE-2": -10.629900932312012,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 10.491524696350098,
+        "TSNE-2": -5.567451000213623,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -4.155354976654053,
+        "TSNE-2": 5.575520038604736,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": 7.223962783813477,
+        "TSNE-2": -2.2774691581726074,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": 2.49731183052063,
+        "TSNE-2": -0.5545646548271179,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 5.461259365081787,
+        "TSNE-2": 3.01916241645813,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": -2.3626866340637207,
+        "TSNE-2": 5.245291233062744,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": 3.043473958969116,
+        "TSNE-2": -3.8107070922851562,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": 2.911309242248535,
+        "TSNE-2": -9.991360664367676,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": -5.119589328765869,
+        "TSNE-2": -3.8815462589263916,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 0.34186142683029175,
+        "TSNE-2": 3.9545910358428955,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": -4.665566921234131,
+        "TSNE-2": -4.919567584991455,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -7.1453537940979,
+        "TSNE-2": -8.51576042175293,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 1.413204312324524,
+        "TSNE-2": -2.322132110595703,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": -0.021806176751852036,
+        "TSNE-2": 5.591815948486328,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": -7.723172664642334,
+        "TSNE-2": 7.299458026885986,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": 3.9563779830932617,
+        "TSNE-2": 3.442797899246216,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 3.552985429763794,
+        "TSNE-2": 4.64241886138916,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": 8.23601245880127,
+        "TSNE-2": -4.942749977111816,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -4.40001106262207,
+        "TSNE-2": 0.34077563881874084,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -2.947399854660034,
+        "TSNE-2": 0.7312286496162415,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -5.870155334472656,
+        "TSNE-2": -0.3893319368362427,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -3.00277042388916,
+        "TSNE-2": 1.2794537544250488,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 6.844640731811523,
+        "TSNE-2": 4.955939292907715,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": -3.438638210296631,
+        "TSNE-2": 8.021612167358398,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": 0.03113318420946598,
+        "TSNE-2": -5.142953872680664,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": -9.905824661254883,
+        "TSNE-2": -3.7762985229492188,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -8.262474060058594,
+        "TSNE-2": 3.2176969051361084,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": 8.017352104187012,
+        "TSNE-2": 0.5002537965774536,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": -5.429239273071289,
+        "TSNE-2": 0.37686848640441895,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": -2.3589208126068115,
+        "TSNE-2": -5.1306352615356445,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 8.722996711730957,
+        "TSNE-2": 0.32215967774391174,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": -8.262474060058594,
+        "TSNE-2": 3.2176969051361084,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": 4.571846008300781,
+        "TSNE-2": 5.2801127433776855,
+        "cluster": 2,
+        "keywords": "fine, punishable, fourth, misdemeanor, victim"
+      },
+      {
+        "TSNE-1": -4.6052117347717285,
+        "TSNE-2": 4.76980447769165,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": 0.06988661736249924,
+        "TSNE-2": 7.437852382659912,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": 4.514682769775391,
+        "TSNE-2": -10.379475593566895,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": -7.858765602111816,
+        "TSNE-2": 7.377797603607178,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": -3.441171169281006,
+        "TSNE-2": 3.111393451690674,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      },
+      {
+        "TSNE-1": 4.0171308517456055,
+        "TSNE-2": -5.9077911376953125,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -2.4853177070617676,
+        "TSNE-2": 6.4442877769470215,
+        "cluster": 5,
+        "keywords": "could, behavior, action, individual, treatment"
+      },
+      {
+        "TSNE-1": -0.20358242094516754,
+        "TSNE-2": -8.731959342956543,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": 12.022266387939453,
+        "TSNE-2": -5.573546886444092,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -6.273346900939941,
+        "TSNE-2": -2.381789445877075,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 2.500488758087158,
+        "TSNE-2": -11.437361717224121,
+        "cluster": 3,
+        "keywords": "demand, jail, threat, reasonable, perpetrator"
+      },
+      {
+        "TSNE-1": -7.474486827850342,
+        "TSNE-2": 1.0712363719940186,
+        "cluster": 1,
+        "keywords": "legal, menace, lead, consequence, result"
+      },
+      {
+        "TSNE-1": 9.212857246398926,
+        "TSNE-2": -5.665820121765137,
+        "cluster": 0,
+        "keywords": "public, nuisance, involve, include, criminal"
+      },
+      {
+        "TSNE-1": -4.075356960296631,
+        "TSNE-2": 7.6232404708862305,
+        "cluster": 4,
+        "keywords": "may, even, community, subject, offense"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_76",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-141577 - what happens if you are deemed a public menace"
+  }
+}

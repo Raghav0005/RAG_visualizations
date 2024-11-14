@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-599e47a789248e08d1987f6f17351ce1"
+  },
+  "datasets": {
+    "data-599e47a789248e08d1987f6f17351ce1": [
+      {
+        "TSNE-1": -6.995100498199463,
+        "TSNE-2": -1.8374402523040771,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": 2.7227768898010254,
+        "TSNE-2": 15.939485549926758,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": -13.007280349731445,
+        "TSNE-2": -8.567597389221191,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": 4.753227233886719,
+        "TSNE-2": 0.6160574555397034,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": -13.007280349731445,
+        "TSNE-2": -8.567597389221191,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": -8.492831230163574,
+        "TSNE-2": -13.588263511657715,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": 15.578361511230469,
+        "TSNE-2": 2.176074266433716,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -2.6108152866363525,
+        "TSNE-2": 0.8594539761543274,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 15.850605010986328,
+        "TSNE-2": 6.730508327484131,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 13.008162498474121,
+        "TSNE-2": -10.905327796936035,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -0.442236989736557,
+        "TSNE-2": -10.316720008850098,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -7.350213527679443,
+        "TSNE-2": -7.624395370483398,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": -3.0636484622955322,
+        "TSNE-2": 5.954418659210205,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": -3.4711878299713135,
+        "TSNE-2": -8.190990447998047,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": -8.7921724319458,
+        "TSNE-2": 9.939656257629395,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": 2.675414800643921,
+        "TSNE-2": 7.395608901977539,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": -17.81160545349121,
+        "TSNE-2": 2.7054150104522705,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": -2.6108152866363525,
+        "TSNE-2": 0.8594539761543274,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -9.586800575256348,
+        "TSNE-2": 5.025271892547607,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": 8.182005882263184,
+        "TSNE-2": -11.908198356628418,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 3.0403435230255127,
+        "TSNE-2": 2.0425612926483154,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 4.611164569854736,
+        "TSNE-2": -3.328727960586548,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 2.641450881958008,
+        "TSNE-2": -0.06218118965625763,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -0.518898606300354,
+        "TSNE-2": 13.243420600891113,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": -0.5526214838027954,
+        "TSNE-2": 2.4871511459350586,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -3.3746538162231445,
+        "TSNE-2": 8.455828666687012,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": 4.03399133682251,
+        "TSNE-2": 3.5936548709869385,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 5.647841930389404,
+        "TSNE-2": 6.782547473907471,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": -8.156848907470703,
+        "TSNE-2": 8.703258514404297,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": -10.019455909729004,
+        "TSNE-2": -15.128585815429688,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": 15.584365844726562,
+        "TSNE-2": 8.405473709106445,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 10.246933937072754,
+        "TSNE-2": 6.11350679397583,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 0.07644226402044296,
+        "TSNE-2": 4.54297399520874,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": -12.251821517944336,
+        "TSNE-2": -1.369215726852417,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": 14.636862754821777,
+        "TSNE-2": -0.8492104411125183,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -0.6748534440994263,
+        "TSNE-2": -6.517594814300537,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 3.0555238723754883,
+        "TSNE-2": -5.675784587860107,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 4.955193519592285,
+        "TSNE-2": -8.972349166870117,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -15.638063430786133,
+        "TSNE-2": -4.308835029602051,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": -4.119842052459717,
+        "TSNE-2": 11.897798538208008,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": 0.6574961543083191,
+        "TSNE-2": -15.360501289367676,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": 21.26633071899414,
+        "TSNE-2": 1.5370862483978271,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -1.5468857288360596,
+        "TSNE-2": 5.730906009674072,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": 0.02568644843995571,
+        "TSNE-2": -0.6786535382270813,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -0.5361161231994629,
+        "TSNE-2": -2.847465753555298,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 8.80823802947998,
+        "TSNE-2": -7.846412658691406,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": 11.7205228805542,
+        "TSNE-2": 10.970357894897461,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": -7.2014079093933105,
+        "TSNE-2": 1.31790030002594,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": -0.442236989736557,
+        "TSNE-2": -10.316720008850098,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 1.276906967163086,
+        "TSNE-2": -2.9256772994995117,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 10.936030387878418,
+        "TSNE-2": -1.1847394704818726,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -8.90573787689209,
+        "TSNE-2": 0.11738801002502441,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": 0.9218853116035461,
+        "TSNE-2": 5.638010501861572,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 8.80823802947998,
+        "TSNE-2": -7.846412658691406,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -13.245762825012207,
+        "TSNE-2": -0.4719015955924988,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": -15.333309173583984,
+        "TSNE-2": 6.43398904800415,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": 7.071707725524902,
+        "TSNE-2": -1.5006802082061768,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -10.58139419555664,
+        "TSNE-2": 10.656527519226074,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": 3.256532669067383,
+        "TSNE-2": 10.511113166809082,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": -15.909168243408203,
+        "TSNE-2": 7.605463027954102,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": -5.931241035461426,
+        "TSNE-2": -16.127025604248047,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": 12.470611572265625,
+        "TSNE-2": -3.499399423599243,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": 15.131681442260742,
+        "TSNE-2": -4.546853542327881,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": 10.246933937072754,
+        "TSNE-2": 6.11350679397583,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 1.6832716464996338,
+        "TSNE-2": -4.9183220863342285,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -4.579802513122559,
+        "TSNE-2": -0.6581743955612183,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": -0.4451972544193268,
+        "TSNE-2": -4.653637886047363,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -0.33493220806121826,
+        "TSNE-2": 9.117884635925293,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": 11.266011238098145,
+        "TSNE-2": 2.380903720855713,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": 7.059444427490234,
+        "TSNE-2": 2.2964797019958496,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 12.636823654174805,
+        "TSNE-2": 1.12450110912323,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -17.81160545349121,
+        "TSNE-2": 2.7054150104522705,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": 3.9207561016082764,
+        "TSNE-2": -11.437080383300781,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": -6.242129802703857,
+        "TSNE-2": 4.80942440032959,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": 7.027801036834717,
+        "TSNE-2": -4.012759685516357,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 16.53310775756836,
+        "TSNE-2": -1.413833737373352,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": 5.369785785675049,
+        "TSNE-2": -15.968055725097656,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 3.9207561016082764,
+        "TSNE-2": -11.437080383300781,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 11.106618881225586,
+        "TSNE-2": -2.8357627391815186,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -10.045985221862793,
+        "TSNE-2": 2.4883458614349365,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": -3.726837635040283,
+        "TSNE-2": -10.642091751098633,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": -7.350213527679443,
+        "TSNE-2": -7.624395370483398,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": -5.931241035461426,
+        "TSNE-2": -16.127025604248047,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": -4.625836372375488,
+        "TSNE-2": 3.207125425338745,
+        "cluster": 5,
+        "keywords": "also, factor, expensive, stage, grove"
+      },
+      {
+        "TSNE-1": -4.119842052459717,
+        "TSNE-2": 11.897798538208008,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": 5.82525634765625,
+        "TSNE-2": 11.773744583129883,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": -7.571585178375244,
+        "TSNE-2": -10.966865539550781,
+        "cluster": 3,
+        "keywords": "percent, export, country, october, average"
+      },
+      {
+        "TSNE-1": -11.361207008361816,
+        "TSNE-2": 12.7783784866333,
+        "cluster": 2,
+        "keywords": "fuel, due, environmental, increase, higher"
+      },
+      {
+        "TSNE-1": -3.6879589557647705,
+        "TSNE-2": -5.168500900268555,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 15.820013999938965,
+        "TSNE-2": 4.5879340171813965,
+        "cluster": 0,
+        "keywords": "olive, oil, price, production, million"
+      },
+      {
+        "TSNE-1": -3.5587239265441895,
+        "TSNE-2": -2.0373222827911377,
+        "cluster": 1,
+        "keywords": "supply, demand, market, like, cost"
+      },
+      {
+        "TSNE-1": 10.246933937072754,
+        "TSNE-2": 6.11350679397583,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      },
+      {
+        "TSNE-1": 4.991517066955566,
+        "TSNE-2": 2.945746660232544,
+        "cluster": 4,
+        "keywords": "global, combination, authentic, glut, situation"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_30",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-219624 - why has olive oil increased in price"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-cf035f2a01c3ee59d2b87d8a36697168"
+  },
+  "datasets": {
+    "data-cf035f2a01c3ee59d2b87d8a36697168": [
+      {
+        "TSNE-1": -5.592773914337158,
+        "TSNE-2": -3.310171365737915,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -1.7621020078659058,
+        "TSNE-2": -3.701510429382324,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 10.319011688232422,
+        "TSNE-2": -1.4127157926559448,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 5.391123294830322,
+        "TSNE-2": -9.862361907958984,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": 10.319011688232422,
+        "TSNE-2": -1.4127157926559448,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 7.716057300567627,
+        "TSNE-2": 12.791328430175781,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 13.499770164489746,
+        "TSNE-2": -5.1524338722229,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": -3.4975504875183105,
+        "TSNE-2": -1.5040956735610962,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -10.6648530960083,
+        "TSNE-2": 5.894148826599121,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": 2.1629912853240967,
+        "TSNE-2": -12.399443626403809,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": -3.3050990104675293,
+        "TSNE-2": 3.897386312484741,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -14.985163688659668,
+        "TSNE-2": 5.113741397857666,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": -3.0426738262176514,
+        "TSNE-2": 0.5579115748405457,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -0.4169641435146332,
+        "TSNE-2": 13.056939125061035,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -1.035876989364624,
+        "TSNE-2": -10.826993942260742,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": 0.11076042056083679,
+        "TSNE-2": -2.4413201808929443,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -5.033782482147217,
+        "TSNE-2": -15.029004096984863,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": -3.4975504875183105,
+        "TSNE-2": -1.5040956735610962,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -3.893219232559204,
+        "TSNE-2": -5.0442423820495605,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -5.949219703674316,
+        "TSNE-2": 10.768059730529785,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": -8.929366111755371,
+        "TSNE-2": -10.277612686157227,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": -4.301769256591797,
+        "TSNE-2": 6.973960876464844,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": -5.586827278137207,
+        "TSNE-2": -8.944921493530273,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": -3.4148073196411133,
+        "TSNE-2": 13.703170776367188,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 9.137609481811523,
+        "TSNE-2": 4.270017623901367,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": -5.354162216186523,
+        "TSNE-2": -0.13694100081920624,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 6.244089603424072,
+        "TSNE-2": -11.31014633178711,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": 13.247523307800293,
+        "TSNE-2": -5.986900329589844,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 0.3538830578327179,
+        "TSNE-2": -11.72277545928955,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": 7.001917362213135,
+        "TSNE-2": 13.3129301071167,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 7.999536037445068,
+        "TSNE-2": 2.558685064315796,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 7.0829596519470215,
+        "TSNE-2": -4.81238317489624,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": -1.9180291891098022,
+        "TSNE-2": 1.1511428356170654,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 0.8521360754966736,
+        "TSNE-2": -5.059289455413818,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 13.666237831115723,
+        "TSNE-2": 2.7895877361297607,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 5.913854122161865,
+        "TSNE-2": 0.7151559591293335,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 4.431401252746582,
+        "TSNE-2": 9.497601509094238,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 10.751627922058105,
+        "TSNE-2": 8.749399185180664,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": -7.500712871551514,
+        "TSNE-2": -1.6749770641326904,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -0.5438157320022583,
+        "TSNE-2": 5.154375076293945,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -1.3961763381958008,
+        "TSNE-2": -6.8900017738342285,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": -7.269515514373779,
+        "TSNE-2": 1.033052682876587,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": -0.7601839303970337,
+        "TSNE-2": 2.362382411956787,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 1.3764678239822388,
+        "TSNE-2": 4.090946674346924,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 3.501544952392578,
+        "TSNE-2": 4.993393898010254,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 4.202834129333496,
+        "TSNE-2": 17.3649959564209,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 1.2034918069839478,
+        "TSNE-2": 2.201296806335449,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 6.228038787841797,
+        "TSNE-2": -14.028152465820312,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": -3.3050990104675293,
+        "TSNE-2": 3.897386312484741,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 4.481929779052734,
+        "TSNE-2": 3.1828293800354004,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": -4.390461444854736,
+        "TSNE-2": -9.440937995910645,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": 2.1629912853240967,
+        "TSNE-2": -12.399443626403809,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": -0.5368348956108093,
+        "TSNE-2": 0.3886435031890869,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 4.202834129333496,
+        "TSNE-2": 17.3649959564209,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 0.9835514426231384,
+        "TSNE-2": -4.024496555328369,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -8.507095336914062,
+        "TSNE-2": -8.356765747070312,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": 2.9393317699432373,
+        "TSNE-2": -3.8058276176452637,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 9.005301475524902,
+        "TSNE-2": -10.543632507324219,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": -2.109294891357422,
+        "TSNE-2": 6.657651424407959,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -6.356444358825684,
+        "TSNE-2": -7.759282112121582,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": 11.062457084655762,
+        "TSNE-2": 3.6890439987182617,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": -8.44788932800293,
+        "TSNE-2": 7.839729309082031,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": 10.286249160766602,
+        "TSNE-2": 1.8728195428848267,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": -4.172449588775635,
+        "TSNE-2": 9.421648979187012,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 3.2895989418029785,
+        "TSNE-2": 6.906893730163574,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -4.969390869140625,
+        "TSNE-2": 1.8824816942214966,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 2.4837095737457275,
+        "TSNE-2": 9.203758239746094,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -9.21318244934082,
+        "TSNE-2": -3.5612144470214844,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -8.129619598388672,
+        "TSNE-2": 4.560198783874512,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": 3.825744867324829,
+        "TSNE-2": -10.247574806213379,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": -9.0589599609375,
+        "TSNE-2": 4.951825141906738,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": -5.852387428283691,
+        "TSNE-2": -15.088400840759277,
+        "cluster": 5,
+        "keywords": "jurisdiction, harmful, illegal, violation, stretch"
+      },
+      {
+        "TSNE-1": -0.0032890960574150085,
+        "TSNE-2": 8.613059043884277,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -5.2880377769470215,
+        "TSNE-2": 5.117706775665283,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": 3.3736305236816406,
+        "TSNE-2": 10.656936645507812,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -9.89111614227295,
+        "TSNE-2": 2.8700685501098633,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": -11.047847747802734,
+        "TSNE-2": -0.3506520390510559,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": -0.0032890960574150085,
+        "TSNE-2": 8.613059043884277,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 9.323598861694336,
+        "TSNE-2": 6.656316757202148,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 7.751155853271484,
+        "TSNE-2": -12.724339485168457,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": -2.260803699493408,
+        "TSNE-2": 13.121048927307129,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -14.985163688659668,
+        "TSNE-2": 5.113741397857666,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": 11.062457084655762,
+        "TSNE-2": 3.6890439987182617,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 3.2655298709869385,
+        "TSNE-2": 1.0331196784973145,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": -0.5438157320022583,
+        "TSNE-2": 5.154375076293945,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": 8.169252395629883,
+        "TSNE-2": -11.508193969726562,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": 6.297596454620361,
+        "TSNE-2": 7.246823310852051,
+        "cluster": 3,
+        "keywords": "exploitation, often, argue, criminalization, health"
+      },
+      {
+        "TSNE-1": -11.151691436767578,
+        "TSNE-2": 11.44832992553711,
+        "cluster": 2,
+        "keywords": "harm, individual, sex, form, protect"
+      },
+      {
+        "TSNE-1": -0.9555790424346924,
+        "TSNE-2": -1.6068159341812134,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 12.519620895385742,
+        "TSNE-2": 5.629363536834717,
+        "cluster": 0,
+        "keywords": "prostitution, conjunction, minor, crime, become"
+      },
+      {
+        "TSNE-1": 3.212146282196045,
+        "TSNE-2": -1.2117372751235962,
+        "cluster": 4,
+        "keywords": "law, societal, public, violence, moral"
+      },
+      {
+        "TSNE-1": 7.0829596519470215,
+        "TSNE-2": -4.81238317489624,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      },
+      {
+        "TSNE-1": 1.5529670715332031,
+        "TSNE-2": -13.895340919494629,
+        "cluster": 1,
+        "keywords": "higher, incidence, social, drug, many"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_189",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-222465 - why is prostitution a crime"
+  }
+}

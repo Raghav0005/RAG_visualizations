@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-fa04b68fc0980a9fd10f65b78d67625e"
+  },
+  "datasets": {
+    "data-fa04b68fc0980a9fd10f65b78d67625e": [
+      {
+        "TSNE-1": 3.5108184814453125,
+        "TSNE-2": -3.258634567260742,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 13.322572708129883,
+        "TSNE-2": -1.3123412132263184,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": 11.699052810668945,
+        "TSNE-2": 5.666869640350342,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -11.042052268981934,
+        "TSNE-2": 4.330333232879639,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": 11.699052810668945,
+        "TSNE-2": 5.666869640350342,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -1.4435031414031982,
+        "TSNE-2": 8.531607627868652,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": 7.417006969451904,
+        "TSNE-2": 3.324458599090576,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 3.467942237854004,
+        "TSNE-2": -0.6580123901367188,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 10.56905460357666,
+        "TSNE-2": -7.014103889465332,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": -12.350814819335938,
+        "TSNE-2": 2.3513128757476807,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": 4.116486549377441,
+        "TSNE-2": 3.603238105773926,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 4.71153450012207,
+        "TSNE-2": -9.774622917175293,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": 0.5520411729812622,
+        "TSNE-2": 0.18829219043254852,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -3.9903039932250977,
+        "TSNE-2": 5.056765556335449,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -9.04038143157959,
+        "TSNE-2": 3.8453586101531982,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": 0.44488367438316345,
+        "TSNE-2": -3.4480185508728027,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 0.5082966089248657,
+        "TSNE-2": 6.886031627655029,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": 3.467942237854004,
+        "TSNE-2": -0.6580123901367188,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 1.7530245780944824,
+        "TSNE-2": 3.104219436645508,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": 9.616625785827637,
+        "TSNE-2": 2.0198071002960205,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -7.882579326629639,
+        "TSNE-2": 2.9759387969970703,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": -1.3296085596084595,
+        "TSNE-2": 5.068070411682129,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -9.080127716064453,
+        "TSNE-2": 2.6939449310302734,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": -1.5061569213867188,
+        "TSNE-2": -3.4695451259613037,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 2.1784276962280273,
+        "TSNE-2": -2.1669697761535645,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -0.7680259346961975,
+        "TSNE-2": 0.7384849786758423,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -12.936320304870605,
+        "TSNE-2": -0.31985530257225037,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": 8.187800407409668,
+        "TSNE-2": 5.133298397064209,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -12.867429733276367,
+        "TSNE-2": 4.076018333435059,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": -6.902087688446045,
+        "TSNE-2": -2.4670791625976562,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": 10.484009742736816,
+        "TSNE-2": -6.558722019195557,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": -4.350497245788574,
+        "TSNE-2": 8.697232246398926,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -0.20423650741577148,
+        "TSNE-2": -0.02142401412129402,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 1.4600298404693604,
+        "TSNE-2": 1.6748498678207397,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -9.356849670410156,
+        "TSNE-2": -0.9316501617431641,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": -4.096434593200684,
+        "TSNE-2": -3.86857533454895,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -3.6217620372772217,
+        "TSNE-2": 2.927091360092163,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": 7.231644630432129,
+        "TSNE-2": 4.997843265533447,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 1.6250841617584229,
+        "TSNE-2": -5.988824367523193,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -1.2448087930679321,
+        "TSNE-2": -5.863353252410889,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 12.852422714233398,
+        "TSNE-2": -1.3442922830581665,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": -1.843296766281128,
+        "TSNE-2": 1.6791918277740479,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": 2.1315484046936035,
+        "TSNE-2": -0.23970718681812286,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 5.6536736488342285,
+        "TSNE-2": 1.0422930717468262,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -3.358450412750244,
+        "TSNE-2": 0.4862287640571594,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": 6.837510108947754,
+        "TSNE-2": -5.789613246917725,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": -7.725941181182861,
+        "TSNE-2": 0.5546973943710327,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": -10.68338680267334,
+        "TSNE-2": 6.1444315910339355,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": 4.116486549377441,
+        "TSNE-2": 3.603238105773926,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 6.147285461425781,
+        "TSNE-2": -0.9462183117866516,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -0.2707061171531677,
+        "TSNE-2": 3.387887716293335,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -13.784119606018066,
+        "TSNE-2": 2.3887288570404053,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": 1.080902338027954,
+        "TSNE-2": -0.85526442527771,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 6.837510108947754,
+        "TSNE-2": -5.789613246917725,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": 1.0417441129684448,
+        "TSNE-2": -2.7479729652404785,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -7.824166774749756,
+        "TSNE-2": 4.719973564147949,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": -1.9720450639724731,
+        "TSNE-2": -0.4046964943408966,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -12.27188491821289,
+        "TSNE-2": 5.60306453704834,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": 11.356067657470703,
+        "TSNE-2": 1.4657275676727295,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -11.37342643737793,
+        "TSNE-2": 2.5443410873413086,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": -8.990025520324707,
+        "TSNE-2": -6.198667049407959,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": 0.03198309242725372,
+        "TSNE-2": -9.384634971618652,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 9.584808349609375,
+        "TSNE-2": -8.171542167663574,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": -8.92071533203125,
+        "TSNE-2": 0.9940875172615051,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": -2.7597851753234863,
+        "TSNE-2": 3.2830443382263184,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": 3.7761476039886475,
+        "TSNE-2": 1.462052583694458,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 7.071774959564209,
+        "TSNE-2": -1.342607021331787,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 3.3453116416931152,
+        "TSNE-2": -4.854148864746094,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 2.6783244609832764,
+        "TSNE-2": 5.131431579589844,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -8.420005798339844,
+        "TSNE-2": 3.5010852813720703,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": -0.5079964995384216,
+        "TSNE-2": 2.5851082801818848,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -5.091472148895264,
+        "TSNE-2": -6.190729141235352,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 7.991125106811523,
+        "TSNE-2": 1.6471565961837769,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 7.853209495544434,
+        "TSNE-2": -0.3988926112651825,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 5.144565105438232,
+        "TSNE-2": -1.6737778186798096,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -8.429764747619629,
+        "TSNE-2": 8.243416786193848,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": 8.045886993408203,
+        "TSNE-2": -2.1687002182006836,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": 7.991125106811523,
+        "TSNE-2": 1.6471565961837769,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 0.36880242824554443,
+        "TSNE-2": -9.031455993652344,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -12.733776092529297,
+        "TSNE-2": -0.04535125568509102,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": -2.374553918838501,
+        "TSNE-2": -2.2994625568389893,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": 4.71153450012207,
+        "TSNE-2": -9.774622917175293,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": -8.990025520324707,
+        "TSNE-2": -6.198667049407959,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": 1.8741874694824219,
+        "TSNE-2": -4.539400577545166,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -1.2448087930679321,
+        "TSNE-2": -5.863353252410889,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -15.082193374633789,
+        "TSNE-2": 2.891000986099243,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      },
+      {
+        "TSNE-1": 3.92525053024292,
+        "TSNE-2": 8.004051208496094,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": -5.483340263366699,
+        "TSNE-2": 0.24627001583576202,
+        "cluster": 0,
+        "keywords": "mention, nan, provide, disdain, responsible"
+      },
+      {
+        "TSNE-1": 2.4965503215789795,
+        "TSNE-2": 1.242331624031067,
+        "cluster": 1,
+        "keywords": "art, issue, environmental, artist, climate"
+      },
+      {
+        "TSNE-1": 9.137883186340332,
+        "TSNE-2": -5.255173206329346,
+        "cluster": 2,
+        "keywords": "change, street, straw, encourage, idea"
+      },
+      {
+        "TSNE-1": -0.37305641174316406,
+        "TSNE-2": -1.7608953714370728,
+        "cluster": 3,
+        "keywords": "public, activist, protest, act, action"
+      },
+      {
+        "TSNE-1": -4.350497245788574,
+        "TSNE-2": 8.697232246398926,
+        "cluster": 4,
+        "keywords": "attention, awareness, draw, famous, deface"
+      },
+      {
+        "TSNE-1": -12.006677627563477,
+        "TSNE-2": 3.622004508972168,
+        "cluster": 5,
+        "keywords": "text, discusses, context, evidence, importance"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_201",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-213855 - why are climate activists defacing famous art?"
+  }
+}

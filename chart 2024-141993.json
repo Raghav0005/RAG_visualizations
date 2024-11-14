@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-f325e4609ee713874cc0d0dddf7c5fa7"
+  },
+  "datasets": {
+    "data-f325e4609ee713874cc0d0dddf7c5fa7": [
+      {
+        "TSNE-1": 1.3056050539016724,
+        "TSNE-2": -1.9930530786514282,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 4.3134331703186035,
+        "TSNE-2": -11.636639595031738,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -9.146285057067871,
+        "TSNE-2": -3.410693645477295,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": -4.4614644050598145,
+        "TSNE-2": 1.6757879257202148,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": -9.146285057067871,
+        "TSNE-2": -3.410693645477295,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": 9.21009349822998,
+        "TSNE-2": 6.603854656219482,
+        "cluster": 5,
+        "keywords": "numb, biological, doc, mood, symptom"
+      },
+      {
+        "TSNE-1": 0.21026450395584106,
+        "TSNE-2": -0.10541646182537079,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": 1.255126953125,
+        "TSNE-2": -7.5288519859313965,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 9.361897468566895,
+        "TSNE-2": 1.2132786512374878,
+        "cluster": 5,
+        "keywords": "numb, biological, doc, mood, symptom"
+      },
+      {
+        "TSNE-1": 13.396809577941895,
+        "TSNE-2": 1.1245622634887695,
+        "cluster": 5,
+        "keywords": "numb, biological, doc, mood, symptom"
+      },
+      {
+        "TSNE-1": 7.1097211837768555,
+        "TSNE-2": 0.13130511343479156,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": 9.783803939819336,
+        "TSNE-2": 9.844707489013672,
+        "cluster": 5,
+        "keywords": "numb, biological, doc, mood, symptom"
+      },
+      {
+        "TSNE-1": -2.107017993927002,
+        "TSNE-2": -5.914279460906982,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -1.9652916193008423,
+        "TSNE-2": -11.447013854980469,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 14.164158821105957,
+        "TSNE-2": 1.6078026294708252,
+        "cluster": 5,
+        "keywords": "numb, biological, doc, mood, symptom"
+      },
+      {
+        "TSNE-1": 5.217258930206299,
+        "TSNE-2": -6.181185245513916,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": 12.776792526245117,
+        "TSNE-2": -10.309327125549316,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": 1.255126953125,
+        "TSNE-2": -7.5288519859313965,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 6.750945568084717,
+        "TSNE-2": -5.493982315063477,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": -14.77519416809082,
+        "TSNE-2": 1.8140244483947754,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": -5.334102630615234,
+        "TSNE-2": 10.871343612670898,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": -4.139086723327637,
+        "TSNE-2": -8.026558876037598,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -13.87696647644043,
+        "TSNE-2": -2.973849058151245,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": 0.8614108562469482,
+        "TSNE-2": -11.826156616210938,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 3.3861687183380127,
+        "TSNE-2": 1.7150452136993408,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -0.6459565758705139,
+        "TSNE-2": -7.545080661773682,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -4.5960493087768555,
+        "TSNE-2": 6.783655166625977,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": -8.185935974121094,
+        "TSNE-2": -1.0557403564453125,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": -7.439344882965088,
+        "TSNE-2": 8.769810676574707,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": 12.731242179870605,
+        "TSNE-2": 5.352310657501221,
+        "cluster": 5,
+        "keywords": "numb, biological, doc, mood, symptom"
+      },
+      {
+        "TSNE-1": -7.892736434936523,
+        "TSNE-2": -7.7378058433532715,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -6.3613457679748535,
+        "TSNE-2": 18.02393341064453,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": -5.356937885284424,
+        "TSNE-2": -5.3570404052734375,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 5.418959140777588,
+        "TSNE-2": 2.6518633365631104,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -5.713510036468506,
+        "TSNE-2": -11.420300483703613,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 2.7004237174987793,
+        "TSNE-2": 4.862083911895752,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": 0.371582955121994,
+        "TSNE-2": 3.004753589630127,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -10.074995040893555,
+        "TSNE-2": 3.1429286003112793,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": -0.10650718212127686,
+        "TSNE-2": -3.3778586387634277,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 3.2914228439331055,
+        "TSNE-2": -2.4104557037353516,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 5.860379219055176,
+        "TSNE-2": -9.885173797607422,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": 2.8023393154144287,
+        "TSNE-2": 0.229006826877594,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -3.281491279602051,
+        "TSNE-2": -4.683488845825195,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -2.7074644565582275,
+        "TSNE-2": -9.81799030303955,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 0.8696272969245911,
+        "TSNE-2": 4.2962164878845215,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": 14.63791561126709,
+        "TSNE-2": -3.285667896270752,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": -14.477991104125977,
+        "TSNE-2": 2.878612995147705,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": -7.831363677978516,
+        "TSNE-2": 15.180851936340332,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": 7.1097211837768555,
+        "TSNE-2": 0.13130511343479156,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": 3.4402217864990234,
+        "TSNE-2": 6.17840576171875,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -11.119318008422852,
+        "TSNE-2": -1.2650688886642456,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": -8.095734596252441,
+        "TSNE-2": 11.952203750610352,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": -3.3277759552001953,
+        "TSNE-2": -5.982916355133057,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 14.63791561126709,
+        "TSNE-2": -3.285667896270752,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": 4.005627632141113,
+        "TSNE-2": -5.296961307525635,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -10.679030418395996,
+        "TSNE-2": 10.150297164916992,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": 5.084029197692871,
+        "TSNE-2": -4.010124206542969,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": -9.095518112182617,
+        "TSNE-2": 11.39004135131836,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": 0.7198192477226257,
+        "TSNE-2": 6.617274761199951,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -2.887578248977661,
+        "TSNE-2": 6.29231071472168,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -8.259634971618652,
+        "TSNE-2": 3.936121702194214,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": 10.577765464782715,
+        "TSNE-2": -7.330760955810547,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": 3.783235549926758,
+        "TSNE-2": 8.467156410217285,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -14.327677726745605,
+        "TSNE-2": 4.603261947631836,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": -0.8471142053604126,
+        "TSNE-2": 2.728153705596924,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -0.5348204374313354,
+        "TSNE-2": -5.171894550323486,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -1.5405291318893433,
+        "TSNE-2": 4.547384738922119,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": 1.6669481992721558,
+        "TSNE-2": -4.4114484786987305,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 4.8407769203186035,
+        "TSNE-2": -0.3311918377876282,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -4.015298843383789,
+        "TSNE-2": 7.486223220825195,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": -1.9946949481964111,
+        "TSNE-2": -2.5471107959747314,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 12.776792526245117,
+        "TSNE-2": -10.309327125549316,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": -5.857090473175049,
+        "TSNE-2": -1.7198116779327393,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": 8.27592945098877,
+        "TSNE-2": -2.898862361907959,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": -1.1727031469345093,
+        "TSNE-2": 1.284346103668213,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": -13.02370548248291,
+        "TSNE-2": -4.766687393188477,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": 9.511404991149902,
+        "TSNE-2": -3.192964792251587,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": -5.857090473175049,
+        "TSNE-2": -1.7198116779327393,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": 9.526056289672852,
+        "TSNE-2": -8.157832145690918,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": -9.972414016723633,
+        "TSNE-2": 13.319842338562012,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": -0.18466241657733917,
+        "TSNE-2": -9.682708740234375,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": 9.783803939819336,
+        "TSNE-2": 9.844707489013672,
+        "cluster": 5,
+        "keywords": "numb, biological, doc, mood, symptom"
+      },
+      {
+        "TSNE-1": -8.259634971618652,
+        "TSNE-2": 3.936121702194214,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": 7.853972434997559,
+        "TSNE-2": 4.05496883392334,
+        "cluster": 5,
+        "keywords": "numb, biological, doc, mood, symptom"
+      },
+      {
+        "TSNE-1": 3.2914228439331055,
+        "TSNE-2": -2.4104557037353516,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -10.058175086975098,
+        "TSNE-2": 11.559835433959961,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": 4.9403181076049805,
+        "TSNE-2": 11.416706085205078,
+        "cluster": 1,
+        "keywords": "heart, immune, fatigue, lead, headache"
+      },
+      {
+        "TSNE-1": 12.195934295654297,
+        "TSNE-2": -7.198551654815674,
+        "cluster": 4,
+        "keywords": "disease, emotional, also, common, may"
+      },
+      {
+        "TSNE-1": 3.783987283706665,
+        "TSNE-2": -7.280801773071289,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -9.44377326965332,
+        "TSNE-2": 0.9468024969100952,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      },
+      {
+        "TSNE-1": 2.245408773422241,
+        "TSNE-2": -9.243631362915039,
+        "cluster": 2,
+        "keywords": "stress, chronic, health, like, brain"
+      },
+      {
+        "TSNE-1": -6.3613457679748535,
+        "TSNE-2": 18.02393341064453,
+        "cluster": 3,
+        "keywords": "harm, bodily, beyond, cause, hold"
+      },
+      {
+        "TSNE-1": -4.958775043487549,
+        "TSNE-2": 2.288832664489746,
+        "cluster": 0,
+        "keywords": "range, grief, stomach, physical, ache"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_202",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-141993 - what happens to us biologically if we hold in grief"
+  }
+}

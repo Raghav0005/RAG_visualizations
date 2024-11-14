@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-1251f313f5f28b42c5e479bbc6f7bc41"
+  },
+  "datasets": {
+    "data-1251f313f5f28b42c5e479bbc6f7bc41": [
+      {
+        "TSNE-1": 0.34974053502082825,
+        "TSNE-2": 5.099518775939941,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 5.6645917892456055,
+        "TSNE-2": -3.3252155780792236,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -12.961393356323242,
+        "TSNE-2": -1.396131157875061,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": -2.7096855640411377,
+        "TSNE-2": 8.919246673583984,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": -12.961393356323242,
+        "TSNE-2": -1.396131157875061,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": 12.318903923034668,
+        "TSNE-2": 9.250600814819336,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 6.671059608459473,
+        "TSNE-2": 1.4841159582138062,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -2.3931519985198975,
+        "TSNE-2": -0.4513095021247864,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 4.146204471588135,
+        "TSNE-2": -9.676097869873047,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -0.852281928062439,
+        "TSNE-2": 11.276058197021484,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": -13.697579383850098,
+        "TSNE-2": 3.3692893981933594,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": 9.39923095703125,
+        "TSNE-2": -1.4079656600952148,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": -2.666897773742676,
+        "TSNE-2": 2.827890157699585,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 4.881472110748291,
+        "TSNE-2": 8.28235912322998,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 13.88150405883789,
+        "TSNE-2": 2.1949007511138916,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": 1.7387579679489136,
+        "TSNE-2": -1.4993462562561035,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": 11.451386451721191,
+        "TSNE-2": -9.579107284545898,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": -2.3931519985198975,
+        "TSNE-2": -0.4513095021247864,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 4.289762496948242,
+        "TSNE-2": -5.128133296966553,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -8.680366516113281,
+        "TSNE-2": -8.593682289123535,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": 1.7047773599624634,
+        "TSNE-2": 10.902536392211914,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": -0.2151411473751068,
+        "TSNE-2": -5.973913669586182,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": 3.021209478378296,
+        "TSNE-2": 11.629355430603027,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 5.821333408355713,
+        "TSNE-2": 11.445393562316895,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 2.1505658626556396,
+        "TSNE-2": -5.686275959014893,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -0.07404213398694992,
+        "TSNE-2": 0.2805006504058838,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -1.814738392829895,
+        "TSNE-2": 8.419466972351074,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 6.342278957366943,
+        "TSNE-2": 0.7710093855857849,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": 14.40434741973877,
+        "TSNE-2": 1.725830078125,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": 11.977859497070312,
+        "TSNE-2": 8.603002548217773,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 4.97823429107666,
+        "TSNE-2": -9.122801780700684,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": 9.064022064208984,
+        "TSNE-2": 4.883753776550293,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -4.0976057052612305,
+        "TSNE-2": 4.611584663391113,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 3.195922374725342,
+        "TSNE-2": 1.6909711360931396,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -0.8690119385719299,
+        "TSNE-2": -11.53820514678955,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -2.8653156757354736,
+        "TSNE-2": -3.0581488609313965,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -1.564619779586792,
+        "TSNE-2": -3.1054751873016357,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 8.91372299194336,
+        "TSNE-2": 1.6097019910812378,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -7.204664707183838,
+        "TSNE-2": 0.20223885774612427,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 1.4593567848205566,
+        "TSNE-2": 3.1133458614349365,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -5.327371597290039,
+        "TSNE-2": 6.405808925628662,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -1.625473976135254,
+        "TSNE-2": -9.580887794494629,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -4.851794719696045,
+        "TSNE-2": 3.268502712249756,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -6.989912033081055,
+        "TSNE-2": 4.968744277954102,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -0.9351985454559326,
+        "TSNE-2": 1.5361833572387695,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 5.508963108062744,
+        "TSNE-2": -14.474503517150879,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": 2.0880329608917236,
+        "TSNE-2": -8.050529479980469,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": 15.272093772888184,
+        "TSNE-2": 3.3167858123779297,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": -13.697579383850098,
+        "TSNE-2": 3.3692893981933594,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": 2.096118927001953,
+        "TSNE-2": 5.356672763824463,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": -2.0983824729919434,
+        "TSNE-2": -8.45173168182373,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -0.3787253797054291,
+        "TSNE-2": 7.988633632659912,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": -3.4253668785095215,
+        "TSNE-2": 3.9249672889709473,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -10.345383644104004,
+        "TSNE-2": -5.760019779205322,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": 2.6593973636627197,
+        "TSNE-2": 0.3030358552932739,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": 2.3908162117004395,
+        "TSNE-2": 9.217267990112305,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": -4.91832971572876,
+        "TSNE-2": -1.9341081380844116,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -8.361769676208496,
+        "TSNE-2": -14.053277015686035,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -3.516674757003784,
+        "TSNE-2": 0.6999951601028442,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 0.4027509093284607,
+        "TSNE-2": 13.548262596130371,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": -6.824878692626953,
+        "TSNE-2": 10.582037925720215,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": -4.03378963470459,
+        "TSNE-2": -10.342293739318848,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -5.166264533996582,
+        "TSNE-2": -7.58882474899292,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": 0.6002994775772095,
+        "TSNE-2": -7.237658500671387,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -0.5656611919403076,
+        "TSNE-2": -1.5616143941879272,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -9.53625202178955,
+        "TSNE-2": 5.83787727355957,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": -3.455655097961426,
+        "TSNE-2": -4.064257621765137,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": -7.026792049407959,
+        "TSNE-2": 2.6405746936798096,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 1.1668930053710938,
+        "TSNE-2": -3.6935012340545654,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -11.36959171295166,
+        "TSNE-2": -5.619622230529785,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": 0.5191942453384399,
+        "TSNE-2": -3.605642318725586,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": 11.451386451721191,
+        "TSNE-2": -9.579107284545898,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": 14.754508018493652,
+        "TSNE-2": -3.4539530277252197,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": 5.683451175689697,
+        "TSNE-2": -1.3475162982940674,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -2.620298147201538,
+        "TSNE-2": -5.271047115325928,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -10.121294975280762,
+        "TSNE-2": 1.9336315393447876,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": -7.956747055053711,
+        "TSNE-2": -3.2584214210510254,
+        "cluster": 2,
+        "keywords": "narrative, challenged, dominant, distorts, scholar"
+      },
+      {
+        "TSNE-1": 14.754508018493652,
+        "TSNE-2": -3.4539530277252197,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": -4.643582820892334,
+        "TSNE-2": -8.591766357421875,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": 0.9819652438163757,
+        "TSNE-2": 12.116950035095215,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 5.1802239418029785,
+        "TSNE-2": 14.407509803771973,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 5.902028560638428,
+        "TSNE-2": -13.782146453857422,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -7.561209678649902,
+        "TSNE-2": 10.49409008026123,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 5.275258541107178,
+        "TSNE-2": 6.552670478820801,
+        "cluster": 1,
+        "keywords": "often, achievement, culture, historian, negative"
+      },
+      {
+        "TSNE-1": 1.4593567848205566,
+        "TSNE-2": 3.1133458614349365,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -8.225555419921875,
+        "TSNE-2": -13.250706672668457,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": 9.940719604492188,
+        "TSNE-2": -5.367028713226318,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": 9.014242172241211,
+        "TSNE-2": -4.265753269195557,
+        "cluster": 3,
+        "keywords": "question, asks, europe, never, whether"
+      },
+      {
+        "TSNE-1": 3.1260476112365723,
+        "TSNE-2": -2.3236072063446045,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": 0.20748819410800934,
+        "TSNE-2": -8.813611030578613,
+        "cluster": 0,
+        "keywords": "history, national, historical, perspective, european"
+      },
+      {
+        "TSNE-1": -5.469761848449707,
+        "TSNE-2": 1.159332036972046,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      },
+      {
+        "TSNE-1": 9.064022064208984,
+        "TSNE-2": 4.883753776550293,
+        "cluster": 4,
+        "keywords": "western, favorable, nationalism, military, political"
+      },
+      {
+        "TSNE-1": -6.366085052490234,
+        "TSNE-2": -5.233561992645264,
+        "cluster": 5,
+        "keywords": "positive, portrayal, professionalization, eurocentrism, bias"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_258",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-221022 - why is history in europe often only written positivly"
+  }
+}

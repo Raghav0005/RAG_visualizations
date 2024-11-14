@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-8e8b5615828d2f803c719f039933a69e"
+  },
+  "datasets": {
+    "data-8e8b5615828d2f803c719f039933a69e": [
+      {
+        "TSNE-1": -8.700431823730469,
+        "TSNE-2": -21.02941131591797,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": -28.083873748779297,
+        "TSNE-2": 11.311515808105469,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": -24.647119522094727,
+        "TSNE-2": 5.913750171661377,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": 8.952377319335938,
+        "TSNE-2": -7.9959940910339355,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": -24.647119522094727,
+        "TSNE-2": 5.913750171661377,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": -22.055522918701172,
+        "TSNE-2": 25.384750366210938,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": -22.15386962890625,
+        "TSNE-2": -17.938268661499023,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": -8.037409782409668,
+        "TSNE-2": 5.693288326263428,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 10.889670372009277,
+        "TSNE-2": -18.51658058166504,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 8.446331024169922,
+        "TSNE-2": 16.606870651245117,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -2.5841236114501953,
+        "TSNE-2": 18.40169906616211,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": 19.14592742919922,
+        "TSNE-2": -8.01594066619873,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 2.186966896057129,
+        "TSNE-2": 7.182039260864258,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -17.17885398864746,
+        "TSNE-2": -12.204010009765625,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": 17.263378143310547,
+        "TSNE-2": 15.440357208251953,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -10.92197036743164,
+        "TSNE-2": -10.471498489379883,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": -7.190913200378418,
+        "TSNE-2": 14.654664039611816,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": -8.037409782409668,
+        "TSNE-2": 5.693288326263428,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -14.469515800476074,
+        "TSNE-2": -16.216367721557617,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": 4.340745449066162,
+        "TSNE-2": -18.68588638305664,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 16.340045928955078,
+        "TSNE-2": -22.611894607543945,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": -22.078805923461914,
+        "TSNE-2": -15.345163345336914,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": 10.791031837463379,
+        "TSNE-2": -3.214437961578369,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 24.517261505126953,
+        "TSNE-2": 0.07144283503293991,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": 3.090012550354004,
+        "TSNE-2": 12.944263458251953,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -13.463991165161133,
+        "TSNE-2": 3.0780272483825684,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": 9.976873397827148,
+        "TSNE-2": -10.273456573486328,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 3.5431525707244873,
+        "TSNE-2": 22.436880111694336,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": 14.906174659729004,
+        "TSNE-2": 13.592008590698242,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": 23.9478816986084,
+        "TSNE-2": 11.21330451965332,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -2.568188428878784,
+        "TSNE-2": -15.811742782592773,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": 7.698863983154297,
+        "TSNE-2": 6.599786758422852,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -3.0905206203460693,
+        "TSNE-2": 6.22337007522583,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -1.466206431388855,
+        "TSNE-2": -20.92995262145996,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": 27.266862869262695,
+        "TSNE-2": -5.177457332611084,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -24.413984298706055,
+        "TSNE-2": -3.3927669525146484,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": -13.693970680236816,
+        "TSNE-2": 23.024375915527344,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": -19.22677230834961,
+        "TSNE-2": -6.61234712600708,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": -14.812088966369629,
+        "TSNE-2": -1.7834575176239014,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": -4.192008972167969,
+        "TSNE-2": 10.996916770935059,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -14.666032791137695,
+        "TSNE-2": -23.65775489807129,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": -7.1889824867248535,
+        "TSNE-2": -14.131138801574707,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": -2.7410359382629395,
+        "TSNE-2": 2.370478868484497,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -5.510471343994141,
+        "TSNE-2": 24.275060653686523,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": -13.31589126586914,
+        "TSNE-2": 18.434307098388672,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": 3.2900514602661133,
+        "TSNE-2": -12.88668155670166,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 15.196747779846191,
+        "TSNE-2": 25.191709518432617,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": 5.633501052856445,
+        "TSNE-2": 14.4789400100708,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -2.5841236114501953,
+        "TSNE-2": 18.40169906616211,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": -11.434088706970215,
+        "TSNE-2": 9.866266250610352,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": 9.955291748046875,
+        "TSNE-2": -25.130043029785156,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 21.463668823242188,
+        "TSNE-2": 4.552121162414551,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": 0.1389474868774414,
+        "TSNE-2": 3.100074529647827,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 3.2900514602661133,
+        "TSNE-2": -12.88668155670166,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 16.104352951049805,
+        "TSNE-2": -1.211551547050476,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -3.4528567790985107,
+        "TSNE-2": -7.031888961791992,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": 13.79613971710205,
+        "TSNE-2": 2.3908567428588867,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -21.898860931396484,
+        "TSNE-2": 15.57762336730957,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": -10.543495178222656,
+        "TSNE-2": -4.100732326507568,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": -5.042453765869141,
+        "TSNE-2": -4.588102340698242,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 22.971643447875977,
+        "TSNE-2": -15.217039108276367,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 9.955291748046875,
+        "TSNE-2": -25.130043029785156,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 9.955291748046875,
+        "TSNE-2": -25.130043029785156,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": -19.70278549194336,
+        "TSNE-2": -0.7092846035957336,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": -16.95405387878418,
+        "TSNE-2": 19.658273696899414,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": 4.526179790496826,
+        "TSNE-2": -3.068375825881958,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -9.852313041687012,
+        "TSNE-2": 21.104001998901367,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": 29.332609176635742,
+        "TSNE-2": 7.204172611236572,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -6.2125749588012695,
+        "TSNE-2": -10.439260482788086,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": 10.617337226867676,
+        "TSNE-2": 11.30332088470459,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -9.748997688293457,
+        "TSNE-2": -13.911256790161133,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": 6.744479179382324,
+        "TSNE-2": 0.5712631940841675,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 1.9063771963119507,
+        "TSNE-2": 26.57756996154785,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": -12.724981307983398,
+        "TSNE-2": 13.532958984375,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": 8.284585952758789,
+        "TSNE-2": 27.86021614074707,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": -30.98284149169922,
+        "TSNE-2": -0.7859947681427002,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": -6.761826515197754,
+        "TSNE-2": 1.5286383628845215,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 1.9063771963119507,
+        "TSNE-2": 26.57756996154785,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": 9.955291748046875,
+        "TSNE-2": -25.130043029785156,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 1.7287977933883667,
+        "TSNE-2": -6.833552837371826,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": -0.8852712512016296,
+        "TSNE-2": -2.322986602783203,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 19.14592742919922,
+        "TSNE-2": -8.01594066619873,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": 22.971643447875977,
+        "TSNE-2": -15.217039108276367,
+        "cluster": 5,
+        "keywords": "report, civic, prepare, adequately, serve"
+      },
+      {
+        "TSNE-1": -2.671180009841919,
+        "TSNE-2": -26.9262752532959,
+        "cluster": 3,
+        "keywords": "rate, school, educational, white, hispanic"
+      },
+      {
+        "TSNE-1": -4.192008972167969,
+        "TSNE-2": 10.996916770935059,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 22.089202880859375,
+        "TSNE-2": 19.726558685302734,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": 18.012508392333984,
+        "TSNE-2": 8.437509536743164,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -28.46550178527832,
+        "TSNE-2": -10.492816925048828,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": 12.462508201599121,
+        "TSNE-2": 5.517980575561523,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      },
+      {
+        "TSNE-1": -5.56951904296875,
+        "TSNE-2": 31.630308151245117,
+        "cluster": 4,
+        "keywords": "document, american, track, minority, african"
+      },
+      {
+        "TSNE-1": -18.167091369628906,
+        "TSNE-2": 7.601438522338867,
+        "cluster": 2,
+        "keywords": "college, experience, nan, family, information"
+      },
+      {
+        "TSNE-1": 7.698863983154297,
+        "TSNE-2": 6.599786758422852,
+        "cluster": 1,
+        "keywords": "admission, student, state, university, could"
+      },
+      {
+        "TSNE-1": 12.500317573547363,
+        "TSNE-2": 17.426523208618164,
+        "cluster": 0,
+        "keywords": "latino, access, many, text, may"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_297",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-58819 - how many latino have been misinformed about education?"
+  }
+}

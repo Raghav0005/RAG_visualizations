@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-8665dc6a9ba32274c2f46a240f734853"
+  },
+  "datasets": {
+    "data-8665dc6a9ba32274c2f46a240f734853": [
+      {
+        "TSNE-1": -1.6125316619873047,
+        "TSNE-2": -1.285314679145813,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -6.276476860046387,
+        "TSNE-2": 3.7585160732269287,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": -0.9291020631790161,
+        "TSNE-2": 8.058904647827148,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 9.944230079650879,
+        "TSNE-2": 4.251020431518555,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -0.9291020631790161,
+        "TSNE-2": 8.058904647827148,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 1.6543850898742676,
+        "TSNE-2": -10.919164657592773,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 11.836669921875,
+        "TSNE-2": -1.1783478260040283,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -2.0657176971435547,
+        "TSNE-2": 0.4083031415939331,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": 7.120276927947998,
+        "TSNE-2": -2.074988842010498,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -7.1113505363464355,
+        "TSNE-2": -9.159268379211426,
+        "cluster": 5,
+        "keywords": "internal, change, result, gradual, orderly"
+      },
+      {
+        "TSNE-1": -4.434133529663086,
+        "TSNE-2": 6.020296096801758,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 5.7980055809021,
+        "TSNE-2": 8.566856384277344,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 2.597062349319458,
+        "TSNE-2": -2.6984686851501465,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -1.9310914278030396,
+        "TSNE-2": -2.7390995025634766,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -2.837754726409912,
+        "TSNE-2": -11.43130111694336,
+        "cluster": 5,
+        "keywords": "internal, change, result, gradual, orderly"
+      },
+      {
+        "TSNE-1": -5.388814449310303,
+        "TSNE-2": 0.1860894411802292,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -14.426921844482422,
+        "TSNE-2": 1.6043434143066406,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": -2.0657176971435547,
+        "TSNE-2": 0.4083031415939331,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -7.508673191070557,
+        "TSNE-2": 2.0200555324554443,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 5.676327228546143,
+        "TSNE-2": 2.552830696105957,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": 9.330472946166992,
+        "TSNE-2": 1.786932110786438,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -7.237725257873535,
+        "TSNE-2": -0.147282212972641,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": 8.518599510192871,
+        "TSNE-2": 1.4271807670593262,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -1.9159189462661743,
+        "TSNE-2": -3.884045362472534,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -0.5501259565353394,
+        "TSNE-2": -5.060861110687256,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -3.064159393310547,
+        "TSNE-2": 1.2739036083221436,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": 12.766349792480469,
+        "TSNE-2": -3.623446464538574,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": 11.789499282836914,
+        "TSNE-2": -1.2012914419174194,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -2.8940513134002686,
+        "TSNE-2": -11.590544700622559,
+        "cluster": 5,
+        "keywords": "internal, change, result, gradual, orderly"
+      },
+      {
+        "TSNE-1": 3.4193873405456543,
+        "TSNE-2": -10.154960632324219,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 6.3404927253723145,
+        "TSNE-2": -3.485852003097534,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 3.8567886352539062,
+        "TSNE-2": 4.8200907707214355,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 3.901937246322632,
+        "TSNE-2": -2.1711173057556152,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -4.472079753875732,
+        "TSNE-2": 2.3994953632354736,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": -6.948123931884766,
+        "TSNE-2": -2.2205073833465576,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -8.352779388427734,
+        "TSNE-2": 5.0679497718811035,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": -5.560915946960449,
+        "TSNE-2": -6.048648357391357,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -5.95799446105957,
+        "TSNE-2": -1.484945297241211,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -3.8228745460510254,
+        "TSNE-2": -0.14384940266609192,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -4.144358158111572,
+        "TSNE-2": -3.7581827640533447,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -6.628032207489014,
+        "TSNE-2": 4.8039422035217285,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 2.5406858921051025,
+        "TSNE-2": -4.640326976776123,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 2.6579036712646484,
+        "TSNE-2": -1.5790374279022217,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -0.28396037220954895,
+        "TSNE-2": -0.16462939977645874,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": 3.1849584579467773,
+        "TSNE-2": 1.7528083324432373,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": -12.515380859375,
+        "TSNE-2": 3.0717520713806152,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 5.2957634925842285,
+        "TSNE-2": 5.261301040649414,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": -6.086828708648682,
+        "TSNE-2": -9.30887222290039,
+        "cluster": 5,
+        "keywords": "internal, change, result, gradual, orderly"
+      },
+      {
+        "TSNE-1": -4.434133529663086,
+        "TSNE-2": 6.020296096801758,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 1.7644200325012207,
+        "TSNE-2": 0.9108741879463196,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 1.4136852025985718,
+        "TSNE-2": -4.154665946960449,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -7.622987270355225,
+        "TSNE-2": -9.189436912536621,
+        "cluster": 5,
+        "keywords": "internal, change, result, gradual, orderly"
+      },
+      {
+        "TSNE-1": 1.8086434602737427,
+        "TSNE-2": -2.547055721282959,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -12.515380859375,
+        "TSNE-2": 3.0717520713806152,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": -5.16021203994751,
+        "TSNE-2": 1.7549480199813843,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 8.026883125305176,
+        "TSNE-2": 2.9519288539886475,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -3.9672329425811768,
+        "TSNE-2": 3.8397409915924072,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": -1.8291823863983154,
+        "TSNE-2": -12.191444396972656,
+        "cluster": 5,
+        "keywords": "internal, change, result, gradual, orderly"
+      },
+      {
+        "TSNE-1": -2.101560592651367,
+        "TSNE-2": 4.130151271820068,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 7.922117710113525,
+        "TSNE-2": 0.5148921608924866,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -7.729982376098633,
+        "TSNE-2": -4.759235858917236,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": 9.188507080078125,
+        "TSNE-2": -3.241708993911743,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": 5.334609031677246,
+        "TSNE-2": -6.668670654296875,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 4.838027477264404,
+        "TSNE-2": 0.021881304681301117,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": 4.506880760192871,
+        "TSNE-2": -4.217825412750244,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -1.2854726314544678,
+        "TSNE-2": 2.730036735534668,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 2.189974784851074,
+        "TSNE-2": 2.458954334259033,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": -0.35047414898872375,
+        "TSNE-2": 1.6104942560195923,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": -1.7823035717010498,
+        "TSNE-2": -6.25875997543335,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 9.882183074951172,
+        "TSNE-2": 4.967697620391846,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      },
+      {
+        "TSNE-1": -1.9323298931121826,
+        "TSNE-2": -6.763762950897217,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -13.655503273010254,
+        "TSNE-2": 5.518402576446533,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 0.07682088017463684,
+        "TSNE-2": 5.449880599975586,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": -9.909651756286621,
+        "TSNE-2": -0.8158731460571289,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 3.863771438598633,
+        "TSNE-2": 1.9288733005523682,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": -7.87756872177124,
+        "TSNE-2": -2.8698461055755615,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": 5.733598709106445,
+        "TSNE-2": -7.495898723602295,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 0.07682088017463684,
+        "TSNE-2": 5.449880599975586,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 6.2948503494262695,
+        "TSNE-2": -4.480106353759766,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 1.0241917371749878,
+        "TSNE-2": -6.8721113204956055,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -3.1125664710998535,
+        "TSNE-2": -1.7701371908187866,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": 5.761703014373779,
+        "TSNE-2": 8.74140453338623,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": -8.099396705627441,
+        "TSNE-2": -5.011650085449219,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": 0.0369589701294899,
+        "TSNE-2": -2.2016806602478027,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": -4.144358158111572,
+        "TSNE-2": -3.7581827640533447,
+        "cluster": 0,
+        "keywords": "role, societal, social, cultural, evolutionary"
+      },
+      {
+        "TSNE-1": -4.898314952850342,
+        "TSNE-2": 10.194209098815918,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 2.188494920730591,
+        "TSNE-2": -10.836030006408691,
+        "cluster": 3,
+        "keywords": "sociocultural, adaptation, survival, psychology, men"
+      },
+      {
+        "TSNE-1": 2.1537694931030273,
+        "TSNE-2": 8.119897842407227,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": -5.995203018188477,
+        "TSNE-2": 1.147718906402588,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": -9.533720016479492,
+        "TSNE-2": 3.0143890380859375,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": -2.9237313270568848,
+        "TSNE-2": 2.7575862407684326,
+        "cluster": 4,
+        "keywords": "society, expectation, support, different, influence"
+      },
+      {
+        "TSNE-1": 3.8567886352539062,
+        "TSNE-2": 4.8200907707214355,
+        "cluster": 1,
+        "keywords": "human, behavior, genetic, like, individual"
+      },
+      {
+        "TSNE-1": 10.585822105407715,
+        "TSNE-2": 3.7355704307556152,
+        "cluster": 2,
+        "keywords": "document, psychologist, thought, problem, infer"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_169",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-42163 - how does society give us societal roles evolutionary psychology"
+  }
+}

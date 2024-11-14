@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-9edb8169fccfe3e3f9cc1481177a093d"
+  },
+  "datasets": {
+    "data-9edb8169fccfe3e3f9cc1481177a093d": [
+      {
+        "TSNE-1": -2.3734023571014404,
+        "TSNE-2": 7.043144226074219,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 1.904579758644104,
+        "TSNE-2": 10.388840675354004,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -12.105070114135742,
+        "TSNE-2": -3.3484113216400146,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 4.9711174964904785,
+        "TSNE-2": -2.8912320137023926,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": -11.564583778381348,
+        "TSNE-2": -2.74579119682312,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": -3.920320987701416,
+        "TSNE-2": 14.118537902832031,
+        "cluster": 1,
+        "keywords": "color, harshly, crime, individual, drug"
+      },
+      {
+        "TSNE-1": 0.6738447546958923,
+        "TSNE-2": -3.351564645767212,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 2.131920576095581,
+        "TSNE-2": 0.7724688053131104,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 1.0275707244873047,
+        "TSNE-2": -14.574084281921387,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": 8.280749320983887,
+        "TSNE-2": -5.984616756439209,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 4.8131022453308105,
+        "TSNE-2": -11.464632034301758,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": -12.702744483947754,
+        "TSNE-2": -11.412951469421387,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 1.9513899087905884,
+        "TSNE-2": 3.7469663619995117,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -13.223443031311035,
+        "TSNE-2": 1.6554186344146729,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 9.48422622680664,
+        "TSNE-2": -11.22140884399414,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": -0.6301630139350891,
+        "TSNE-2": 9.83395767211914,
+        "cluster": 1,
+        "keywords": "color, harshly, crime, individual, drug"
+      },
+      {
+        "TSNE-1": 9.884560585021973,
+        "TSNE-2": 13.585841178894043,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 2.131920576095581,
+        "TSNE-2": 0.7724688053131104,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 9.122448921203613,
+        "TSNE-2": 7.928024768829346,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -7.506567001342773,
+        "TSNE-2": -3.5377731323242188,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": -3.2948179244995117,
+        "TSNE-2": -9.29503345489502,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": 4.907598495483398,
+        "TSNE-2": 7.202919960021973,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -2.2891616821289062,
+        "TSNE-2": -7.866429805755615,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": -11.801806449890137,
+        "TSNE-2": 5.762235641479492,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 4.4905104637146,
+        "TSNE-2": -0.9653283357620239,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 0.35931870341300964,
+        "TSNE-2": 1.5093470811843872,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 3.992831230163574,
+        "TSNE-2": -4.6133646965026855,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 0.24927984178066254,
+        "TSNE-2": -4.187825679779053,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 9.596424102783203,
+        "TSNE-2": -12.017175674438477,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": -5.496606826782227,
+        "TSNE-2": 13.50744915008545,
+        "cluster": 1,
+        "keywords": "color, harshly, crime, individual, drug"
+      },
+      {
+        "TSNE-1": 0.10943935811519623,
+        "TSNE-2": -12.905559539794922,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": -5.121853828430176,
+        "TSNE-2": -4.2993621826171875,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 5.154196739196777,
+        "TSNE-2": 2.723489761352539,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 10.006522178649902,
+        "TSNE-2": 5.499255657196045,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 1.562549352645874,
+        "TSNE-2": -9.396930694580078,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": -7.263350009918213,
+        "TSNE-2": 4.770677089691162,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 7.2655158042907715,
+        "TSNE-2": 4.057133674621582,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -3.7722089290618896,
+        "TSNE-2": 0.14886212348937988,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 3.469125986099243,
+        "TSNE-2": 5.038248062133789,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 2.8678412437438965,
+        "TSNE-2": 8.560088157653809,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 7.352766990661621,
+        "TSNE-2": 1.2316029071807861,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 0.6612136960029602,
+        "TSNE-2": -11.096899032592773,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": 1.8563246726989746,
+        "TSNE-2": 4.927939414978027,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -2.0763332843780518,
+        "TSNE-2": 2.2407572269439697,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -6.280709743499756,
+        "TSNE-2": 5.902988433837891,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -7.998354434967041,
+        "TSNE-2": -14.81446361541748,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": -2.9701154232025146,
+        "TSNE-2": -3.3325910568237305,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 11.578096389770508,
+        "TSNE-2": -5.969466209411621,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 4.8131022453308105,
+        "TSNE-2": -11.464632034301758,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": 5.360362529754639,
+        "TSNE-2": 5.564666271209717,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 1.8651678562164307,
+        "TSNE-2": -6.7524871826171875,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": 9.638148307800293,
+        "TSNE-2": -4.688699722290039,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 0.2970260977745056,
+        "TSNE-2": 4.0231404304504395,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -7.998354434967041,
+        "TSNE-2": -14.81446361541748,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 10.273131370544434,
+        "TSNE-2": 4.128374099731445,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -0.6218189597129822,
+        "TSNE-2": -7.092761516571045,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": 6.853677749633789,
+        "TSNE-2": 8.815022468566895,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 10.37575626373291,
+        "TSNE-2": -1.7342066764831543,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 1.4678583145141602,
+        "TSNE-2": -1.6662172079086304,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": -1.5359745025634766,
+        "TSNE-2": -9.131531715393066,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": -4.485650062561035,
+        "TSNE-2": 2.5620055198669434,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -2.0015335083007812,
+        "TSNE-2": 17.021743774414062,
+        "cluster": 1,
+        "keywords": "color, harshly, crime, individual, drug"
+      },
+      {
+        "TSNE-1": -2.8497369289398193,
+        "TSNE-2": 16.933788299560547,
+        "cluster": 1,
+        "keywords": "color, harshly, crime, individual, drug"
+      },
+      {
+        "TSNE-1": -5.892132759094238,
+        "TSNE-2": -1.3787624835968018,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 5.641020774841309,
+        "TSNE-2": 3.0259592533111572,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 0.3407822847366333,
+        "TSNE-2": 6.635108947753906,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 3.736055374145508,
+        "TSNE-2": 2.8424696922302246,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": 4.8853840827941895,
+        "TSNE-2": 10.457199096679688,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -2.1255111694335938,
+        "TSNE-2": -0.12870071828365326,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 4.205918312072754,
+        "TSNE-2": -7.000073432922363,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": -1.6771605014801025,
+        "TSNE-2": -0.8275835514068604,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 9.884560585021973,
+        "TSNE-2": 13.585841178894043,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -6.902530670166016,
+        "TSNE-2": -7.852385997772217,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 2.992196559906006,
+        "TSNE-2": 13.531219482421875,
+        "cluster": 1,
+        "keywords": "color, harshly, crime, individual, drug"
+      },
+      {
+        "TSNE-1": -3.4514782428741455,
+        "TSNE-2": 4.570950984954834,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -6.335736274719238,
+        "TSNE-2": 7.13304328918457,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -0.24298804998397827,
+        "TSNE-2": 12.06893253326416,
+        "cluster": 1,
+        "keywords": "color, harshly, crime, individual, drug"
+      },
+      {
+        "TSNE-1": -6.902530670166016,
+        "TSNE-2": -7.852385997772217,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 7.341882705688477,
+        "TSNE-2": -8.186117172241211,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 9.762446403503418,
+        "TSNE-2": -6.081875801086426,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": -10.717231750488281,
+        "TSNE-2": 6.219578742980957,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -12.702744483947754,
+        "TSNE-2": -11.412951469421387,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": -4.485650062561035,
+        "TSNE-2": 2.5620055198669434,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -8.878971099853516,
+        "TSNE-2": -8.670985221862793,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 2.8678412437438965,
+        "TSNE-2": 8.560088157653809,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -8.478677749633789,
+        "TSNE-2": -0.09200944006443024,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -14.661575317382812,
+        "TSNE-2": 0.8690047264099121,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": 13.828225135803223,
+        "TSNE-2": -5.971218585968018,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      },
+      {
+        "TSNE-1": 7.109408855438232,
+        "TSNE-2": 6.6889801025390625,
+        "cluster": 3,
+        "keywords": "rate, disparity, criminal, justice, systemic"
+      },
+      {
+        "TSNE-1": -2.3522748947143555,
+        "TSNE-2": -15.754076957702637,
+        "cluster": 0,
+        "keywords": "people, black, white, likely, whereas"
+      },
+      {
+        "TSNE-1": -9.540899276733398,
+        "TSNE-2": 7.207836151123047,
+        "cluster": 4,
+        "keywords": "men, sentence, longer, inmate, offender"
+      },
+      {
+        "TSNE-1": -5.121853828430176,
+        "TSNE-2": -4.2993621826171875,
+        "cluster": 2,
+        "keywords": "prison, shorter, policy, racial, community"
+      },
+      {
+        "TSNE-1": 5.792149543762207,
+        "TSNE-2": -3.1857857704162598,
+        "cluster": 5,
+        "keywords": "less, mental, better, health, receive"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_195",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-32856 - how are white people in prison treated better than black people"
+  }
+}

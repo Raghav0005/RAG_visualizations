@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7a51810d64e787c41e1e4aa82e188431"
+  },
+  "datasets": {
+    "data-7a51810d64e787c41e1e4aa82e188431": [
+      {
+        "TSNE-1": -4.780849933624268,
+        "TSNE-2": 2.9401285648345947,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 4.519573211669922,
+        "TSNE-2": 0.8599781394004822,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -9.836673736572266,
+        "TSNE-2": -5.876073837280273,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": -2.7350339889526367,
+        "TSNE-2": -8.59389877319336,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": -9.836673736572266,
+        "TSNE-2": -5.876073837280273,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": -2.241410970687866,
+        "TSNE-2": 13.055901527404785,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": 6.754945755004883,
+        "TSNE-2": 10.517579078674316,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -1.6733036041259766,
+        "TSNE-2": -2.8397953510284424,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 10.051959991455078,
+        "TSNE-2": 0.643566370010376,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -7.391027927398682,
+        "TSNE-2": 12.05031967163086,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": 10.317660331726074,
+        "TSNE-2": -5.023716926574707,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": 8.002015113830566,
+        "TSNE-2": 5.990930557250977,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -6.427756309509277,
+        "TSNE-2": -2.619489908218384,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": 6.215544700622559,
+        "TSNE-2": -8.755234718322754,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -10.100390434265137,
+        "TSNE-2": 11.664546012878418,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": -2.9071872234344482,
+        "TSNE-2": 4.852872371673584,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 3.867100954055786,
+        "TSNE-2": -12.48655891418457,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -1.6733036041259766,
+        "TSNE-2": -2.8397953510284424,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 1.1790891885757446,
+        "TSNE-2": 9.561212539672852,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -11.699045181274414,
+        "TSNE-2": 3.3342392444610596,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": -10.029828071594238,
+        "TSNE-2": -8.199381828308105,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": 3.434497356414795,
+        "TSNE-2": 14.837069511413574,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -9.579625129699707,
+        "TSNE-2": 9.345946311950684,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": 8.772743225097656,
+        "TSNE-2": -9.262519836425781,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": 10.752307891845703,
+        "TSNE-2": -7.332544326782227,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -4.256218910217285,
+        "TSNE-2": -4.490207195281982,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": -2.815047264099121,
+        "TSNE-2": -9.752348899841309,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": 7.147734642028809,
+        "TSNE-2": 9.524140357971191,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -8.460082054138184,
+        "TSNE-2": 11.447434425354004,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": -5.506594657897949,
+        "TSNE-2": 12.799562454223633,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": -4.367690563201904,
+        "TSNE-2": -8.23836612701416,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": -8.871137619018555,
+        "TSNE-2": 1.8438600301742554,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": -5.38410758972168,
+        "TSNE-2": -2.870743751525879,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": -3.9145658016204834,
+        "TSNE-2": 6.605245590209961,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -7.255997657775879,
+        "TSNE-2": 14.482161521911621,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": 5.7118425369262695,
+        "TSNE-2": 6.330019950866699,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 3.49041485786438,
+        "TSNE-2": 4.529195308685303,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -0.10582277923822403,
+        "TSNE-2": 4.8894877433776855,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 7.1131792068481445,
+        "TSNE-2": -6.1554789543151855,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": 3.764617919921875,
+        "TSNE-2": -4.105694770812988,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": 4.512715816497803,
+        "TSNE-2": 8.420977592468262,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -0.5485444068908691,
+        "TSNE-2": 0.5522336959838867,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -3.640261650085449,
+        "TSNE-2": -2.292937755584717,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 6.722070217132568,
+        "TSNE-2": 1.4791595935821533,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 4.0889177322387695,
+        "TSNE-2": 5.705946445465088,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 2.898303985595703,
+        "TSNE-2": 10.906612396240234,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 7.559286594390869,
+        "TSNE-2": -1.785900354385376,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -4.049721717834473,
+        "TSNE-2": -11.772838592529297,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": 10.317660331726074,
+        "TSNE-2": -5.023716926574707,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": 5.258371829986572,
+        "TSNE-2": 3.916370153427124,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 1.5388978719711304,
+        "TSNE-2": -1.8182458877563477,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -8.076521873474121,
+        "TSNE-2": 9.531251907348633,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": -5.9611945152282715,
+        "TSNE-2": -1.0285595655441284,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": 2.898303985595703,
+        "TSNE-2": 10.906612396240234,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 0.9969911575317383,
+        "TSNE-2": 7.09930944442749,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -5.087373733520508,
+        "TSNE-2": -11.053421020507812,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": -1.2226849794387817,
+        "TSNE-2": 10.457508087158203,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": -3.7932958602905273,
+        "TSNE-2": -15.384571075439453,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": 6.53179931640625,
+        "TSNE-2": -3.7575790882110596,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -6.9306206703186035,
+        "TSNE-2": -11.281540870666504,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": 12.457242012023926,
+        "TSNE-2": 2.646510124206543,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 2.3133811950683594,
+        "TSNE-2": -0.24063020944595337,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 2.3133811950683594,
+        "TSNE-2": -0.24063020944595337,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 8.483868598937988,
+        "TSNE-2": -1.6978802680969238,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": 2.2266671657562256,
+        "TSNE-2": 5.28147554397583,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -12.148785591125488,
+        "TSNE-2": 4.826392650604248,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": 3.2231950759887695,
+        "TSNE-2": 6.67741060256958,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 4.747969627380371,
+        "TSNE-2": -6.961707592010498,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -1.3430778980255127,
+        "TSNE-2": 2.051849603652954,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -1.3595327138900757,
+        "TSNE-2": -10.444202423095703,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": -1.1424643993377686,
+        "TSNE-2": 3.3673300743103027,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 3.867100954055786,
+        "TSNE-2": -12.48655891418457,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -12.354604721069336,
+        "TSNE-2": -1.9636895656585693,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": 1.463566541671753,
+        "TSNE-2": -6.3659987449646,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -2.782144546508789,
+        "TSNE-2": 2.473001480102539,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -3.0986504554748535,
+        "TSNE-2": -0.10185568034648895,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 1.7615188360214233,
+        "TSNE-2": -7.438624858856201,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -12.354604721069336,
+        "TSNE-2": -1.9636895656585693,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": 10.047159194946289,
+        "TSNE-2": 6.26539945602417,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": -4.633388042449951,
+        "TSNE-2": -13.020825386047363,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      },
+      {
+        "TSNE-1": 7.964476585388184,
+        "TSNE-2": -7.470959186553955,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": 8.002015113830566,
+        "TSNE-2": 5.990930557250977,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 12.457242012023926,
+        "TSNE-2": 2.646510124206543,
+        "cluster": 3,
+        "keywords": "texas, situation, previous, year, rio"
+      },
+      {
+        "TSNE-1": 2.026232957839966,
+        "TSNE-2": 2.9828224182128906,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 3.764617919921875,
+        "TSNE-2": -4.105694770812988,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -6.900576114654541,
+        "TSNE-2": 10.600692749023438,
+        "cluster": 0,
+        "keywords": "mention, discusses, watermelon, text, shortage"
+      },
+      {
+        "TSNE-1": -7.591423511505127,
+        "TSNE-2": 5.421520233154297,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": 7.14066743850708,
+        "TSNE-2": -12.718283653259277,
+        "cluster": 2,
+        "keywords": "supply, affect, disease, fruit, weather"
+      },
+      {
+        "TSNE-1": -1.2872673273086548,
+        "TSNE-2": 6.042391777038574,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -0.6556351184844971,
+        "TSNE-2": 8.411916732788086,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": 0.4768785834312439,
+        "TSNE-2": 2.4762821197509766,
+        "cluster": 1,
+        "keywords": "oversupply, memorial, delay, price, due"
+      },
+      {
+        "TSNE-1": -8.871137619018555,
+        "TSNE-2": 1.8438600301742554,
+        "cluster": 5,
+        "keywords": "temperature, water, information, cannot, seedless"
+      },
+      {
+        "TSNE-1": -1.6896553039550781,
+        "TSNE-2": -12.00291633605957,
+        "cluster": 4,
+        "keywords": "scarce, occasionally, fact, limited, pay"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_113",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-223358 - why is there a watermelon shortage"
+  }
+}

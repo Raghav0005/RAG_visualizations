@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-48c331cac5736029234b52e8ee97c823"
+  },
+  "datasets": {
+    "data-48c331cac5736029234b52e8ee97c823": [
+      {
+        "TSNE-1": -6.391941547393799,
+        "TSNE-2": -0.9615699648857117,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 7.079533576965332,
+        "TSNE-2": 5.37404203414917,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": 10.199333190917969,
+        "TSNE-2": 5.936149597167969,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -10.499221801757812,
+        "TSNE-2": -10.125923156738281,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 10.199333190917969,
+        "TSNE-2": 5.936149597167969,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": 9.197929382324219,
+        "TSNE-2": -4.637941837310791,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": 9.64016342163086,
+        "TSNE-2": -1.9259053468704224,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": 2.3679661750793457,
+        "TSNE-2": 11.844542503356934,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": 5.384232044219971,
+        "TSNE-2": 7.930322170257568,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": -4.78760290145874,
+        "TSNE-2": 7.948842525482178,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": 4.467005729675293,
+        "TSNE-2": -7.036818027496338,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 14.972760200500488,
+        "TSNE-2": 5.546804428100586,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": 0.8347004652023315,
+        "TSNE-2": -0.6487119793891907,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 7.395443439483643,
+        "TSNE-2": 2.9989993572235107,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -10.77661418914795,
+        "TSNE-2": 1.079172134399414,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": -1.208898901939392,
+        "TSNE-2": -1.9498121738433838,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 7.107865810394287,
+        "TSNE-2": 13.326510429382324,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": 2.820164203643799,
+        "TSNE-2": -0.31207436323165894,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -3.8756110668182373,
+        "TSNE-2": -2.147388458251953,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -11.465291976928711,
+        "TSNE-2": 5.975827693939209,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": -10.121746063232422,
+        "TSNE-2": -3.0137341022491455,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": -0.6416559219360352,
+        "TSNE-2": 0.275259792804718,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -10.716329574584961,
+        "TSNE-2": -3.759502649307251,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 1.5811699628829956,
+        "TSNE-2": -8.231022834777832,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": -0.0823407992720604,
+        "TSNE-2": 6.959042549133301,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": 4.652072906494141,
+        "TSNE-2": -0.3210948407649994,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -8.206871032714844,
+        "TSNE-2": -8.106515884399414,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 8.551953315734863,
+        "TSNE-2": -1.2650110721588135,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -8.865095138549805,
+        "TSNE-2": 2.869123935699463,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": -14.617960929870605,
+        "TSNE-2": -3.9240710735321045,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 4.763084888458252,
+        "TSNE-2": 7.1909379959106445,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": -13.83545207977295,
+        "TSNE-2": 6.235787868499756,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": 1.5383975505828857,
+        "TSNE-2": -3.3885838985443115,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -5.445648670196533,
+        "TSNE-2": -5.255557537078857,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 10.833353996276855,
+        "TSNE-2": 1.3659708499908447,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -4.661930084228516,
+        "TSNE-2": 4.269281387329102,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 0.3561699688434601,
+        "TSNE-2": 5.365021705627441,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": 4.8467512130737305,
+        "TSNE-2": -10.097649574279785,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 2.7732186317443848,
+        "TSNE-2": -5.043905258178711,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": -2.2865195274353027,
+        "TSNE-2": -3.8043906688690186,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 2.7619211673736572,
+        "TSNE-2": 11.110526084899902,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": -1.1652734279632568,
+        "TSNE-2": -9.408564567565918,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 2.3699185848236084,
+        "TSNE-2": -2.3916966915130615,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 5.826257705688477,
+        "TSNE-2": 0.683771014213562,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -4.985127925872803,
+        "TSNE-2": 2.106149435043335,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 16.469589233398438,
+        "TSNE-2": 0.26389455795288086,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -16.12384605407715,
+        "TSNE-2": 6.814291954040527,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": -8.394576072692871,
+        "TSNE-2": 9.885038375854492,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": 4.467005729675293,
+        "TSNE-2": -7.036818027496338,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 4.6638875007629395,
+        "TSNE-2": -3.089470148086548,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 11.565413475036621,
+        "TSNE-2": -5.621256351470947,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -5.5983710289001465,
+        "TSNE-2": 7.814774036407471,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": 1.33877694606781,
+        "TSNE-2": -1.3978681564331055,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 16.469589233398438,
+        "TSNE-2": 0.26389455795288086,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -6.538430690765381,
+        "TSNE-2": -6.020013332366943,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": -9.458574295043945,
+        "TSNE-2": -9.91867733001709,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": -4.18112325668335,
+        "TSNE-2": -6.198133945465088,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 2.138493061065674,
+        "TSNE-2": -13.215658187866211,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 6.960832595825195,
+        "TSNE-2": -2.006009578704834,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -11.853157043457031,
+        "TSNE-2": -10.118513107299805,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 7.89585018157959,
+        "TSNE-2": -11.353301048278809,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 11.565413475036621,
+        "TSNE-2": -5.621256351470947,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": 2.89560604095459,
+        "TSNE-2": 5.581313610076904,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": -13.83545207977295,
+        "TSNE-2": 6.235787868499756,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": -1.28266441822052,
+        "TSNE-2": 2.4102139472961426,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -0.48885804414749146,
+        "TSNE-2": -4.643988609313965,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -3.3540053367614746,
+        "TSNE-2": 3.4182045459747314,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -2.4493460655212402,
+        "TSNE-2": 0.1315574049949646,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": 7.246325969696045,
+        "TSNE-2": -5.006381034851074,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -3.491147518157959,
+        "TSNE-2": 10.960461616516113,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": -1.1899815797805786,
+        "TSNE-2": -8.39922046661377,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 7.107865810394287,
+        "TSNE-2": 13.326510429382324,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": -2.1726558208465576,
+        "TSNE-2": -13.2717866897583,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 0.949742317199707,
+        "TSNE-2": 2.6928017139434814,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -2.0067827701568604,
+        "TSNE-2": 4.362866401672363,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -4.632888317108154,
+        "TSNE-2": -9.007136344909668,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 2.5249757766723633,
+        "TSNE-2": 1.596086025238037,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -2.1726558208465576,
+        "TSNE-2": -13.2717866897583,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 11.565413475036621,
+        "TSNE-2": -5.621256351470947,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -8.58334732055664,
+        "TSNE-2": 8.401055335998535,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": 0.6405010223388672,
+        "TSNE-2": -6.196407794952393,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 14.972760200500488,
+        "TSNE-2": 5.546804428100586,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": 7.035603046417236,
+        "TSNE-2": -11.394933700561523,
+        "cluster": 3,
+        "keywords": "provide, cover, portion, living, standard"
+      },
+      {
+        "TSNE-1": 8.547736167907715,
+        "TSNE-2": 0.18776412308216095,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -2.2865195274353027,
+        "TSNE-2": -3.8043906688690186,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -8.378336906433105,
+        "TSNE-2": 3.6798641681671143,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": -16.075000762939453,
+        "TSNE-2": -4.396868705749512,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 3.797870397567749,
+        "TSNE-2": 3.7329373359680176,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      },
+      {
+        "TSNE-1": -5.932548522949219,
+        "TSNE-2": -3.7223479747772217,
+        "cluster": 5,
+        "keywords": "valuable, ability, earn, protects, smart"
+      },
+      {
+        "TSNE-1": 11.150607109069824,
+        "TSNE-2": -1.9000616073608398,
+        "cluster": 0,
+        "keywords": "disability, insurance, financial, due, almost"
+      },
+      {
+        "TSNE-1": -4.255985260009766,
+        "TSNE-2": -0.1895834505558014,
+        "cluster": 1,
+        "keywords": "income, individual, risk, range, crucial"
+      },
+      {
+        "TSNE-1": -13.83545207977295,
+        "TSNE-2": 6.235787868499756,
+        "cluster": 4,
+        "keywords": "plan, premium, ensures, become, benefit"
+      },
+      {
+        "TSNE-1": -3.0447611808776855,
+        "TSNE-2": 10.188237190246582,
+        "cluster": 2,
+        "keywords": "work, investment, policy, unable, injury"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_3",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-216592 - why disability insurance is a smart investment"
+  }
+}

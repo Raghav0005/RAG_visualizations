@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-9aca8f75a55539166c08eacfd4d45e4c"
+  },
+  "datasets": {
+    "data-9aca8f75a55539166c08eacfd4d45e4c": [
+      {
+        "TSNE-1": -5.614696979522705,
+        "TSNE-2": -7.249946117401123,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -8.383594512939453,
+        "TSNE-2": -5.2908034324646,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -14.079919815063477,
+        "TSNE-2": -2.260077476501465,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": -11.147723197937012,
+        "TSNE-2": 4.229169845581055,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": -14.079919815063477,
+        "TSNE-2": -2.260077476501465,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": 24.552165985107422,
+        "TSNE-2": 11.74371337890625,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": 9.256778717041016,
+        "TSNE-2": 8.620539665222168,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": -5.349694728851318,
+        "TSNE-2": -5.295642375946045,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -1.3152451515197754,
+        "TSNE-2": 3.999326705932617,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -2.297496795654297,
+        "TSNE-2": 10.354061126708984,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": 9.325791358947754,
+        "TSNE-2": -2.852163791656494,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -9.780248641967773,
+        "TSNE-2": -10.660530090332031,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -1.6821186542510986,
+        "TSNE-2": -5.346322059631348,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 2.4887614250183105,
+        "TSNE-2": -5.8497819900512695,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -0.709714949131012,
+        "TSNE-2": 11.172965049743652,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": 5.140560150146484,
+        "TSNE-2": -7.506219387054443,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -3.3477847576141357,
+        "TSNE-2": 6.5204691886901855,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -5.349694728851318,
+        "TSNE-2": -5.295642375946045,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 7.561760902404785,
+        "TSNE-2": -7.630744457244873,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": 3.666167974472046,
+        "TSNE-2": 10.592489242553711,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": -6.915256500244141,
+        "TSNE-2": 7.426025390625,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": 4.697545528411865,
+        "TSNE-2": -3.104158401489258,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -7.206320285797119,
+        "TSNE-2": 6.7594828605651855,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": -5.10383415222168,
+        "TSNE-2": -3.411029577255249,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -2.1418867111206055,
+        "TSNE-2": -11.705500602722168,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 0.5009699463844299,
+        "TSNE-2": -5.407591342926025,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -8.019430160522461,
+        "TSNE-2": 4.142947673797607,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": -9.790475845336914,
+        "TSNE-2": -0.7456246018409729,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": -1.5752389430999756,
+        "TSNE-2": 11.955016136169434,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": -11.3887939453125,
+        "TSNE-2": -8.328432083129883,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -1.0724842548370361,
+        "TSNE-2": 3.5102803707122803,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -4.512704372406006,
+        "TSNE-2": 2.4272501468658447,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -1.1733804941177368,
+        "TSNE-2": -5.753661155700684,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 5.375941753387451,
+        "TSNE-2": -10.057415962219238,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -1.1297396421432495,
+        "TSNE-2": -3.416151762008667,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 2.463552951812744,
+        "TSNE-2": -1.0872999429702759,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -0.7891526222229004,
+        "TSNE-2": 0.2604222893714905,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": 2.9249789714813232,
+        "TSNE-2": 5.444824695587158,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": 0.9796948432922363,
+        "TSNE-2": -10.18448543548584,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": 2.454777479171753,
+        "TSNE-2": -12.398618698120117,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -8.28139591217041,
+        "TSNE-2": -6.582773208618164,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 8.179489135742188,
+        "TSNE-2": 5.453011989593506,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": -2.5846712589263916,
+        "TSNE-2": -6.526719093322754,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -3.005622625350952,
+        "TSNE-2": -4.199483871459961,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 2.248945713043213,
+        "TSNE-2": -2.537344217300415,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": 2.497591495513916,
+        "TSNE-2": 15.239055633544922,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": 2.7990434169769287,
+        "TSNE-2": 9.670695304870605,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": -1.3085339069366455,
+        "TSNE-2": 9.028564453125,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": 9.325791358947754,
+        "TSNE-2": -2.852163791656494,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": 1.3604836463928223,
+        "TSNE-2": -1.32496976852417,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": 5.91357946395874,
+        "TSNE-2": 1.6060447692871094,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": -2.7708728313446045,
+        "TSNE-2": 11.143879890441895,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": -1.4719784259796143,
+        "TSNE-2": -7.298915863037109,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 2.497591495513916,
+        "TSNE-2": 15.239055633544922,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": 6.700369834899902,
+        "TSNE-2": -10.05184555053711,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -7.230177879333496,
+        "TSNE-2": 4.753413677215576,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": 4.926682472229004,
+        "TSNE-2": -6.287106513977051,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": 2.8662190437316895,
+        "TSNE-2": 2.5169484615325928,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": 0.41461819410324097,
+        "TSNE-2": -3.1056530475616455,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -8.421730041503906,
+        "TSNE-2": 2.796280860900879,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": 1.5117626190185547,
+        "TSNE-2": 5.550776958465576,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": 5.512591361999512,
+        "TSNE-2": 3.0036542415618896,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": 6.529142379760742,
+        "TSNE-2": 0.3708358705043793,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": 3.3372304439544678,
+        "TSNE-2": 8.918131828308105,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": -2.696363687515259,
+        "TSNE-2": -0.8735034465789795,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": 3.035038709640503,
+        "TSNE-2": -8.694645881652832,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -1.5338362455368042,
+        "TSNE-2": -1.1761372089385986,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -9.434319496154785,
+        "TSNE-2": 10.1415433883667,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": 7.266247749328613,
+        "TSNE-2": 7.799070835113525,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": -9.233469009399414,
+        "TSNE-2": 6.628871917724609,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": 7.777287006378174,
+        "TSNE-2": 7.397439002990723,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": -3.3477847576141357,
+        "TSNE-2": 6.5204691886901855,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": 10.356512069702148,
+        "TSNE-2": 2.199769973754883,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": -6.639123916625977,
+        "TSNE-2": -1.056744933128357,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": -2.146350145339966,
+        "TSNE-2": 0.16740038990974426,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -4.569215297698975,
+        "TSNE-2": -9.992673873901367,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -5.672963619232178,
+        "TSNE-2": -1.0880959033966064,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 10.356512069702148,
+        "TSNE-2": 2.199769973754883,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": 4.108958721160889,
+        "TSNE-2": 2.8131351470947266,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -0.04272128641605377,
+        "TSNE-2": 8.719693183898926,
+        "cluster": 1,
+        "keywords": "completely, confess, honest, excuse, pain"
+      },
+      {
+        "TSNE-1": 1.646158218383789,
+        "TSNE-2": -6.646766662597656,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": -9.780248641967773,
+        "TSNE-2": -10.660530090332031,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 0.952884316444397,
+        "TSNE-2": 5.866621494293213,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -0.8447144627571106,
+        "TSNE-2": -10.282449722290039,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 2.454777479171753,
+        "TSNE-2": -12.398618698120117,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": 5.82112979888916,
+        "TSNE-2": 6.009490013122559,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": -10.973137855529785,
+        "TSNE-2": -0.11762732267379761,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      },
+      {
+        "TSNE-1": -12.743656158447266,
+        "TSNE-2": -5.824511528015137,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": 6.478868007659912,
+        "TSNE-2": -7.3595051765441895,
+        "cluster": 4,
+        "keywords": "individual, personal, goal, behavior, growth"
+      },
+      {
+        "TSNE-1": 6.95880126953125,
+        "TSNE-2": 9.446106910705566,
+        "cluster": 3,
+        "keywords": "sin, repentant, right, similar, nan"
+      },
+      {
+        "TSNE-1": -3.529212474822998,
+        "TSNE-2": -8.241619110107422,
+        "cluster": 0,
+        "keywords": "change, show, people, action, commitment"
+      },
+      {
+        "TSNE-1": -4.512704372406006,
+        "TSNE-2": 2.4272501468658447,
+        "cluster": 5,
+        "keywords": "new, may, life, also, willingness"
+      },
+      {
+        "TSNE-1": -11.290970802307129,
+        "TSNE-2": 4.832247734069824,
+        "cluster": 2,
+        "keywords": "positive, document, open, effort, others"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_277",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-129062 - what can people do to show that they have changed"
+  }
+}

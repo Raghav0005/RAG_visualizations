@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-1534e60ca41f9a79299a7edf4849e9ed"
+  },
+  "datasets": {
+    "data-1534e60ca41f9a79299a7edf4849e9ed": [
+      {
+        "TSNE-1": 0.45888063311576843,
+        "TSNE-2": 5.204229831695557,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": 0.44563427567481995,
+        "TSNE-2": 2.186936140060425,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": -7.417545318603516,
+        "TSNE-2": 5.625601291656494,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": 3.1584813594818115,
+        "TSNE-2": 6.987246036529541,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": -7.417545318603516,
+        "TSNE-2": 5.625601291656494,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": -5.442165851593018,
+        "TSNE-2": -0.9908336400985718,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -11.029752731323242,
+        "TSNE-2": -6.332429885864258,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 3.5487449169158936,
+        "TSNE-2": -1.726348638534546,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -11.706192970275879,
+        "TSNE-2": 5.109504222869873,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": 6.088765621185303,
+        "TSNE-2": -9.28369140625,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 9.135129928588867,
+        "TSNE-2": -1.1834096908569336,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -5.119722843170166,
+        "TSNE-2": 3.2198143005371094,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": 6.058951377868652,
+        "TSNE-2": -3.9487133026123047,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 5.36171293258667,
+        "TSNE-2": 2.5979115962982178,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 5.758317470550537,
+        "TSNE-2": 9.754310607910156,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": 0.5650670528411865,
+        "TSNE-2": -3.5982558727264404,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 0.05965811014175415,
+        "TSNE-2": 12.813238143920898,
+        "cluster": 0,
+        "keywords": "thing, living, evolution, supreme, present"
+      },
+      {
+        "TSNE-1": 3.5487449169158936,
+        "TSNE-2": -1.726348638534546,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -1.4604334831237793,
+        "TSNE-2": 7.471074104309082,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": -3.0684568881988525,
+        "TSNE-2": -13.180449485778809,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 1.5302501916885376,
+        "TSNE-2": 9.217944145202637,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": 10.135980606079102,
+        "TSNE-2": 1.9948252439498901,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 1.2846790552139282,
+        "TSNE-2": 8.481880187988281,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": 8.740545272827148,
+        "TSNE-2": 3.223548412322998,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -1.3810887336730957,
+        "TSNE-2": -0.14017800986766815,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 3.4753994941711426,
+        "TSNE-2": 0.27148786187171936,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 2.924821138381958,
+        "TSNE-2": 6.550078868865967,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": -10.77757453918457,
+        "TSNE-2": -5.950405120849609,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 5.288213729858398,
+        "TSNE-2": 9.490015029907227,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": -7.00539493560791,
+        "TSNE-2": 0.8750966787338257,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -11.467426300048828,
+        "TSNE-2": 4.657017230987549,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": -3.791249990463257,
+        "TSNE-2": -11.182387351989746,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 6.2878522872924805,
+        "TSNE-2": -2.8107619285583496,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 2.0530154705047607,
+        "TSNE-2": -3.739980697631836,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 2.2272701263427734,
+        "TSNE-2": 15.00050163269043,
+        "cluster": 0,
+        "keywords": "thing, living, evolution, supreme, present"
+      },
+      {
+        "TSNE-1": -6.313007831573486,
+        "TSNE-2": -8.450242042541504,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -3.523569107055664,
+        "TSNE-2": -2.3009743690490723,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 4.446878910064697,
+        "TSNE-2": 13.235050201416016,
+        "cluster": 0,
+        "keywords": "thing, living, evolution, supreme, present"
+      },
+      {
+        "TSNE-1": 11.862102508544922,
+        "TSNE-2": -2.285576105117798,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -1.8697113990783691,
+        "TSNE-2": 3.985776901245117,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": 4.684967517852783,
+        "TSNE-2": -6.446794033050537,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 1.3104926347732544,
+        "TSNE-2": -7.995725154876709,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 5.111597537994385,
+        "TSNE-2": -2.292400360107422,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 2.3181915283203125,
+        "TSNE-2": 2.891085147857666,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": -2.1780900955200195,
+        "TSNE-2": -2.989985227584839,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 3.32488751411438,
+        "TSNE-2": -12.796306610107422,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": -1.407906174659729,
+        "TSNE-2": -10.570464134216309,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 7.82706880569458,
+        "TSNE-2": -8.2603759765625,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 9.135129928588867,
+        "TSNE-2": -1.1834096908569336,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -0.7854084372520447,
+        "TSNE-2": -2.497368574142456,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -2.314063549041748,
+        "TSNE-2": -1.1758369207382202,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 7.057693958282471,
+        "TSNE-2": -9.226139068603516,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 6.694790840148926,
+        "TSNE-2": -2.231794834136963,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -5.679538726806641,
+        "TSNE-2": 3.368530511856079,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": -2.0074307918548584,
+        "TSNE-2": 2.1659271717071533,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": 3.317125082015991,
+        "TSNE-2": 3.326425075531006,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": -3.8542075157165527,
+        "TSNE-2": 0.38062095642089844,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -5.538639068603516,
+        "TSNE-2": -2.930466413497925,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 1.161320447921753,
+        "TSNE-2": -1.785779595375061,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 4.127944469451904,
+        "TSNE-2": 4.054781436920166,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": -6.317809104919434,
+        "TSNE-2": 9.078949928283691,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": -4.304728031158447,
+        "TSNE-2": -6.576502323150635,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -3.2805187702178955,
+        "TSNE-2": -6.618534088134766,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -1.8620350360870361,
+        "TSNE-2": -8.34527587890625,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 8.278507232666016,
+        "TSNE-2": 1.5422184467315674,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 3.589512586593628,
+        "TSNE-2": -4.83873987197876,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -3.1464858055114746,
+        "TSNE-2": -3.8707966804504395,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 5.191580772399902,
+        "TSNE-2": -0.04364488646388054,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": 0.6190974712371826,
+        "TSNE-2": -6.631124973297119,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": -3.6963021755218506,
+        "TSNE-2": 9.766826629638672,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": 0.9124088287353516,
+        "TSNE-2": -5.78176212310791,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": -0.2684866786003113,
+        "TSNE-2": 13.017157554626465,
+        "cluster": 0,
+        "keywords": "thing, living, evolution, supreme, present"
+      },
+      {
+        "TSNE-1": 8.475019454956055,
+        "TSNE-2": 7.245852947235107,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": 5.84414005279541,
+        "TSNE-2": 5.482585430145264,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": 9.327695846557617,
+        "TSNE-2": -5.029502868652344,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -9.856505393981934,
+        "TSNE-2": 1.8208413124084473,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": -0.9275604486465454,
+        "TSNE-2": -4.456504821777344,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 8.475019454956055,
+        "TSNE-2": 7.245852947235107,
+        "cluster": 2,
+        "keywords": "scientific, threat, evidence, object, theory"
+      },
+      {
+        "TSNE-1": -4.492905616760254,
+        "TSNE-2": -5.541589260101318,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": 7.855717182159424,
+        "TSNE-2": -9.867953300476074,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 7.389344692230225,
+        "TSNE-2": 3.0505714416503906,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -9.164175987243652,
+        "TSNE-2": -2.4775164127349854,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -6.317809104919434,
+        "TSNE-2": 9.078949928283691,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": -0.8482464551925659,
+        "TSNE-2": 0.6766828298568726,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -1.8697113990783691,
+        "TSNE-2": 3.985776901245117,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": -6.314099311828613,
+        "TSNE-2": -3.2127890586853027,
+        "cluster": 3,
+        "keywords": "belief, due, conflict, argue, contradicts"
+      },
+      {
+        "TSNE-1": -2.902590036392212,
+        "TSNE-2": 5.3675971031188965,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      },
+      {
+        "TSNE-1": 3.673762559890747,
+        "TSNE-2": -13.245110511779785,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 0.7865983247756958,
+        "TSNE-2": 0.5632963180541992,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -0.2180006355047226,
+        "TSNE-2": -10.988630294799805,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": 2.0118134021759033,
+        "TSNE-2": -0.26298075914382935,
+        "cluster": 5,
+        "keywords": "evolutionary, social, many, school, public"
+      },
+      {
+        "TSNE-1": -3.791249990463257,
+        "TSNE-2": -11.182387351989746,
+        "cluster": 1,
+        "keywords": "child, parent, may, doctrine, religious"
+      },
+      {
+        "TSNE-1": -4.648168563842773,
+        "TSNE-2": 9.020200729370117,
+        "cluster": 4,
+        "keywords": "taught, science, also, creationism, immoral"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_229",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-225531 - why would parents object to the teaching of evolution"
+  }
+}

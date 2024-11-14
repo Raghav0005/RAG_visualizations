@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-a7db91b089008a23fe4b61b434f1ba86"
+  },
+  "datasets": {
+    "data-a7db91b089008a23fe4b61b434f1ba86": [
+      {
+        "TSNE-1": 0.7384383082389832,
+        "TSNE-2": 6.939576625823975,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": -0.7075515985488892,
+        "TSNE-2": -5.163290500640869,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": -2.7454769611358643,
+        "TSNE-2": -1.3930240869522095,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": -12.697060585021973,
+        "TSNE-2": 2.7523250579833984,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": -2.7454769611358643,
+        "TSNE-2": -1.3930240869522095,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": -3.1322953701019287,
+        "TSNE-2": -3.2012689113616943,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": 3.687075138092041,
+        "TSNE-2": -4.48573112487793,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -11.101738929748535,
+        "TSNE-2": -4.225177764892578,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": -17.11004638671875,
+        "TSNE-2": -2.476544141769409,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": 2.3625917434692383,
+        "TSNE-2": 2.918987512588501,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 6.595107078552246,
+        "TSNE-2": 10.812353134155273,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 1.52271568775177,
+        "TSNE-2": -4.3437042236328125,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": 11.990538597106934,
+        "TSNE-2": -0.12169213593006134,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": 1.5226185321807861,
+        "TSNE-2": 11.160687446594238,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 5.735836029052734,
+        "TSNE-2": 0.17620232701301575,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -12.160948753356934,
+        "TSNE-2": 6.665678024291992,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 3.687075138092041,
+        "TSNE-2": -4.48573112487793,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": 4.678221702575684,
+        "TSNE-2": 0.6477449536323547,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": 0.2036411166191101,
+        "TSNE-2": -7.165132999420166,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": -8.212878227233887,
+        "TSNE-2": -0.5602322816848755,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": -4.284276962280273,
+        "TSNE-2": -12.123376846313477,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": -7.664378643035889,
+        "TSNE-2": 1.5825154781341553,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 10.51746940612793,
+        "TSNE-2": -2.4350087642669678,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": -1.201066017150879,
+        "TSNE-2": 4.310300827026367,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 5.394935607910156,
+        "TSNE-2": -6.880799770355225,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -7.502951145172119,
+        "TSNE-2": 4.750232696533203,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 10.801438331604004,
+        "TSNE-2": -9.863990783691406,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": 1.0274876356124878,
+        "TSNE-2": 12.030356407165527,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 15.809552192687988,
+        "TSNE-2": -6.069380760192871,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": -11.675819396972656,
+        "TSNE-2": -3.52388596534729,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": -5.887939929962158,
+        "TSNE-2": -4.780591011047363,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": 1.7117152214050293,
+        "TSNE-2": -5.1846723556518555,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": 3.4343721866607666,
+        "TSNE-2": -1.9267027378082275,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": 13.96397590637207,
+        "TSNE-2": 5.190423011779785,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 6.29703426361084,
+        "TSNE-2": 6.444904804229736,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 8.266222953796387,
+        "TSNE-2": 4.619998931884766,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 7.879157066345215,
+        "TSNE-2": -9.11267375946045,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": 1.1397234201431274,
+        "TSNE-2": 4.669656753540039,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 10.48123550415039,
+        "TSNE-2": 1.8707329034805298,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 7.15429162979126,
+        "TSNE-2": -11.97508430480957,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": 4.501770973205566,
+        "TSNE-2": -8.940461158752441,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": 2.940343141555786,
+        "TSNE-2": -7.0175628662109375,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -2.194708824157715,
+        "TSNE-2": 7.01122522354126,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 6.976073741912842,
+        "TSNE-2": 2.458746910095215,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 3.1113173961639404,
+        "TSNE-2": 6.4880475997924805,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 14.83692455291748,
+        "TSNE-2": -1.2436071634292603,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": -15.34762954711914,
+        "TSNE-2": -1.8240792751312256,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": 2.3625917434692383,
+        "TSNE-2": 2.918987512588501,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 5.343657493591309,
+        "TSNE-2": 4.390012741088867,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 3.3342440128326416,
+        "TSNE-2": 9.306390762329102,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": -15.889249801635742,
+        "TSNE-2": 0.16734933853149414,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": 4.0007243156433105,
+        "TSNE-2": -6.507733345031738,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -1.361167550086975,
+        "TSNE-2": -9.402020454406738,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": 7.065372467041016,
+        "TSNE-2": -0.5810672044754028,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -7.883562088012695,
+        "TSNE-2": -1.2425670623779297,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 4.406986713409424,
+        "TSNE-2": -11.94378662109375,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": -7.556519508361816,
+        "TSNE-2": 6.6991448402404785,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 0.09551265090703964,
+        "TSNE-2": -1.3296617269515991,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -6.597414016723633,
+        "TSNE-2": 1.8557631969451904,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": -3.030313491821289,
+        "TSNE-2": 1.9153519868850708,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 11.177806854248047,
+        "TSNE-2": 9.24975872039795,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 12.36684799194336,
+        "TSNE-2": 8.071545600891113,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": -5.2407355308532715,
+        "TSNE-2": -6.566397190093994,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": 6.9589128494262695,
+        "TSNE-2": 4.184453010559082,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": -3.8116137981414795,
+        "TSNE-2": -9.046334266662598,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": 7.4740424156188965,
+        "TSNE-2": 5.789527893066406,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 12.812851905822754,
+        "TSNE-2": 2.8792169094085693,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 5.457172870635986,
+        "TSNE-2": -3.037342071533203,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -8.885693550109863,
+        "TSNE-2": 4.04166316986084,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 0.4536503255367279,
+        "TSNE-2": -3.4334347248077393,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -12.160948753356934,
+        "TSNE-2": 6.665678024291992,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 7.714757442474365,
+        "TSNE-2": -6.543076038360596,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": 11.932852745056152,
+        "TSNE-2": -5.283381462097168,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": 8.454363822937012,
+        "TSNE-2": 6.839934349060059,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": 1.9506330490112305,
+        "TSNE-2": -9.742522239685059,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": 8.864612579345703,
+        "TSNE-2": -4.568256855010986,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": 7.714757442474365,
+        "TSNE-2": -6.543076038360596,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": 12.13154411315918,
+        "TSNE-2": 9.599165916442871,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": -16.929590225219727,
+        "TSNE-2": -0.5734426975250244,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": 9.49341106414795,
+        "TSNE-2": -0.3431437611579895,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": -0.481768399477005,
+        "TSNE-2": -13.082594871520996,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": -3.030313491821289,
+        "TSNE-2": 1.9153519868850708,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      },
+      {
+        "TSNE-1": 5.555872440338135,
+        "TSNE-2": -4.764043807983398,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": 10.48123550415039,
+        "TSNE-2": 1.8707329034805298,
+        "cluster": 0,
+        "keywords": "trend, user, tiktok, content, addiction"
+      },
+      {
+        "TSNE-1": -14.261725425720215,
+        "TSNE-2": -1.2906776666641235,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": -12.717263221740723,
+        "TSNE-2": -7.945963382720947,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": -13.473061561584473,
+        "TSNE-2": -7.7159223556518555,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": 7.92119836807251,
+        "TSNE-2": -1.6949082612991333,
+        "cluster": 3,
+        "keywords": "popular, spend, app, hour, social"
+      },
+      {
+        "TSNE-1": -12.335004806518555,
+        "TSNE-2": -0.9975682497024536,
+        "cluster": 4,
+        "keywords": "tik, tok, people, young, kid"
+      },
+      {
+        "TSNE-1": 2.7976083755493164,
+        "TSNE-2": -0.31470704078674316,
+        "cluster": 5,
+        "keywords": "challenge, role, play, significant, latest"
+      },
+      {
+        "TSNE-1": -5.887939929962158,
+        "TSNE-2": -4.780591011047363,
+        "cluster": 2,
+        "keywords": "video, lead, new, short, essential"
+      },
+      {
+        "TSNE-1": -9.68986988067627,
+        "TSNE-2": 3.4346165657043457,
+        "cluster": 1,
+        "keywords": "article, mention, addictive, sense, nature"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_134",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-24022 - do trends have to do with tik tok addiction"
+  }
+}

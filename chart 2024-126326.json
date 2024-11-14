@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-85662dada6ddf3392b7618aa35bf6c9b"
+  },
+  "datasets": {
+    "data-85662dada6ddf3392b7618aa35bf6c9b": [
+      {
+        "TSNE-1": 0.44400450587272644,
+        "TSNE-2": 8.135198593139648,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": 7.068006992340088,
+        "TSNE-2": 8.665894508361816,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -12.687811851501465,
+        "TSNE-2": -1.091484546661377,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 4.429563999176025,
+        "TSNE-2": -8.007052421569824,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": -12.687811851501465,
+        "TSNE-2": -1.091484546661377,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 14.643404006958008,
+        "TSNE-2": -2.5935966968536377,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -2.662506341934204,
+        "TSNE-2": 9.221630096435547,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": 8.453707695007324,
+        "TSNE-2": 6.625964164733887,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -7.554637908935547,
+        "TSNE-2": 10.912820816040039,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": 11.712981224060059,
+        "TSNE-2": -6.353531360626221,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": -4.366991996765137,
+        "TSNE-2": 13.876323699951172,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": -6.510261535644531,
+        "TSNE-2": -10.017056465148926,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": -0.9858264327049255,
+        "TSNE-2": 5.800085067749023,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": 6.040076732635498,
+        "TSNE-2": -10.57559871673584,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 2.4825267791748047,
+        "TSNE-2": -6.6791605949401855,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 2.616203546524048,
+        "TSNE-2": 8.533178329467773,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -12.41391658782959,
+        "TSNE-2": -7.025885105133057,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 9.952247619628906,
+        "TSNE-2": 15.492801666259766,
+        "cluster": 4,
+        "keywords": "nan, dangerous, organization, alone, potentially"
+      },
+      {
+        "TSNE-1": 4.312240123748779,
+        "TSNE-2": 9.079444885253906,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 8.612811088562012,
+        "TSNE-2": 0.7608196139335632,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 1.2639285326004028,
+        "TSNE-2": -6.326079845428467,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 2.674271821975708,
+        "TSNE-2": 2.4413273334503174,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 1.3260157108306885,
+        "TSNE-2": -5.16906213760376,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 6.456352710723877,
+        "TSNE-2": -12.650754928588867,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": -2.231321334838867,
+        "TSNE-2": 7.930880069732666,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": -0.09530355781316757,
+        "TSNE-2": 2.9139492511749268,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": 3.5918195247650146,
+        "TSNE-2": -9.167099952697754,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": -1.0822466611862183,
+        "TSNE-2": -1.2737435102462769,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": 3.4922094345092773,
+        "TSNE-2": -5.532486915588379,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 15.549107551574707,
+        "TSNE-2": -0.8032280802726746,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -7.109396457672119,
+        "TSNE-2": 10.241872787475586,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": 8.803787231445312,
+        "TSNE-2": -1.6614975929260254,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 2.030783176422119,
+        "TSNE-2": 4.084465026855469,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -5.526064395904541,
+        "TSNE-2": 1.7923632860183716,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": 5.271181583404541,
+        "TSNE-2": 1.7454986572265625,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -2.052554130554199,
+        "TSNE-2": 2.6090359687805176,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -4.326143741607666,
+        "TSNE-2": -1.0780110359191895,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -1.3864350318908691,
+        "TSNE-2": 0.8709364533424377,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -8.810588836669922,
+        "TSNE-2": 1.3037201166152954,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": 3.8034939765930176,
+        "TSNE-2": -0.9809561371803284,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 9.190664291381836,
+        "TSNE-2": 6.424954414367676,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 4.842782974243164,
+        "TSNE-2": 4.146432399749756,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 0.9043117761611938,
+        "TSNE-2": 4.784174919128418,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -7.231924533843994,
+        "TSNE-2": 4.238461494445801,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -3.534677267074585,
+        "TSNE-2": -0.8089025020599365,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -3.3543388843536377,
+        "TSNE-2": -11.866385459899902,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 10.314342498779297,
+        "TSNE-2": 0.25598764419555664,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 7.376672744750977,
+        "TSNE-2": -8.03675365447998,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": -4.366991996765137,
+        "TSNE-2": 13.876323699951172,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": 0.9124460220336914,
+        "TSNE-2": 0.7736578583717346,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -4.325124263763428,
+        "TSNE-2": -6.412123203277588,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 11.005270004272461,
+        "TSNE-2": -6.866037845611572,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": -0.09166377037763596,
+        "TSNE-2": 4.7155842781066895,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -5.48734712600708,
+        "TSNE-2": -10.976207733154297,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": -6.178356647491455,
+        "TSNE-2": 2.4040348529815674,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": 5.706019878387451,
+        "TSNE-2": -7.064324855804443,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 3.18827748298645,
+        "TSNE-2": 6.180034160614014,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 2.931220054626465,
+        "TSNE-2": -11.783390998840332,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": -9.56171989440918,
+        "TSNE-2": 5.445802211761475,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": 6.9259538650512695,
+        "TSNE-2": -5.555806636810303,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 0.3920315206050873,
+        "TSNE-2": -2.676152467727661,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -2.8207225799560547,
+        "TSNE-2": -7.205471992492676,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": -5.820514678955078,
+        "TSNE-2": -7.345108985900879,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 10.982297897338867,
+        "TSNE-2": -0.753841757774353,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -2.9619696140289307,
+        "TSNE-2": 0.791263222694397,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": 0.6972783803939819,
+        "TSNE-2": 11.233407020568848,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": -3.7974281311035156,
+        "TSNE-2": 4.756312370300293,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -9.101612091064453,
+        "TSNE-2": -3.9580318927764893,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 5.0373663902282715,
+        "TSNE-2": 6.539140224456787,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -11.759115219116211,
+        "TSNE-2": 8.446297645568848,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": -5.8094801902771,
+        "TSNE-2": -2.873685598373413,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": -12.41391658782959,
+        "TSNE-2": -7.025885105133057,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": -6.193740367889404,
+        "TSNE-2": 6.545365333557129,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": -6.544674396514893,
+        "TSNE-2": -0.4499261677265167,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -3.5515079498291016,
+        "TSNE-2": 3.428356647491455,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -1.9220497608184814,
+        "TSNE-2": -3.1662673950195312,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": -8.054793357849121,
+        "TSNE-2": -1.360213279724121,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": -6.193740367889404,
+        "TSNE-2": 6.545365333557129,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": -5.821782112121582,
+        "TSNE-2": -6.19192361831665,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 9.408634185791016,
+        "TSNE-2": -7.206711769104004,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 9.38741683959961,
+        "TSNE-2": -11.443990707397461,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": -4.224496364593506,
+        "TSNE-2": -10.777512550354004,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 11.13532543182373,
+        "TSNE-2": 28.40740966796875,
+        "cluster": 4,
+        "keywords": "nan, dangerous, organization, alone, potentially"
+      },
+      {
+        "TSNE-1": -1.308284878730774,
+        "TSNE-2": -10.811869621276855,
+        "cluster": 3,
+        "keywords": "health, use, drug, sexual, monitor"
+      },
+      {
+        "TSNE-1": 3.8034939765930176,
+        "TSNE-2": -0.9809561371803284,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 4.456559181213379,
+        "TSNE-2": -4.49736213684082,
+        "cluster": 2,
+        "keywords": "stay, authority, class, procedure, report"
+      },
+      {
+        "TSNE-1": 15.978629112243652,
+        "TSNE-2": -0.03885409235954285,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 12.25832462310791,
+        "TSNE-2": 2.7868764400482178,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": 3.2315962314605713,
+        "TSNE-2": 7.723099708557129,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -12.613181114196777,
+        "TSNE-2": 3.732438564300537,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      },
+      {
+        "TSNE-1": -10.463199615478516,
+        "TSNE-2": 1.9265636205673218,
+        "cluster": 1,
+        "keywords": "campus, personal, also, phone, avoid"
+      },
+      {
+        "TSNE-1": 8.803787231445312,
+        "TSNE-2": -1.6614975929260254,
+        "cluster": 0,
+        "keywords": "student, safety, academic, college, right"
+      },
+      {
+        "TSNE-1": -12.357049942016602,
+        "TSNE-2": 9.207189559936523,
+        "cluster": 5,
+        "keywords": "emergency, learn, protect, advantage, security"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_215",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-126326 - what actions shoudl college studetns take to protect themselves"
+  }
+}

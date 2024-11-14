@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-2b02a472697231c7e9fa1631477b5b2c"
+  },
+  "datasets": {
+    "data-2b02a472697231c7e9fa1631477b5b2c": [
+      {
+        "TSNE-1": 2.9380831718444824,
+        "TSNE-2": -2.684293508529663,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 4.30269718170166,
+        "TSNE-2": 6.1909499168396,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": 6.9022932052612305,
+        "TSNE-2": 4.557347774505615,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": -4.034883975982666,
+        "TSNE-2": 6.992213726043701,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": 6.9022932052612305,
+        "TSNE-2": 4.557347774505615,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": 1.836254596710205,
+        "TSNE-2": 10.998863220214844,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": 8.400003433227539,
+        "TSNE-2": 3.79935884475708,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 2.638429880142212,
+        "TSNE-2": -0.726935863494873,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -9.371827125549316,
+        "TSNE-2": 2.3222482204437256,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": 6.16605281829834,
+        "TSNE-2": -2.794626474380493,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": -5.461058616638184,
+        "TSNE-2": 2.479851722717285,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": -6.482921123504639,
+        "TSNE-2": -7.59920072555542,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": 0.5414488911628723,
+        "TSNE-2": 0.6070888042449951,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -2.470982551574707,
+        "TSNE-2": 3.181709051132202,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -3.5112035274505615,
+        "TSNE-2": -10.307269096374512,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": 0.6944583058357239,
+        "TSNE-2": 3.255413770675659,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -9.219919204711914,
+        "TSNE-2": -1.800829291343689,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": 2.638429880142212,
+        "TSNE-2": -0.726935863494873,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 2.228415012359619,
+        "TSNE-2": 3.5573959350585938,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": -4.14217472076416,
+        "TSNE-2": -3.585477352142334,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": 9.334508895874023,
+        "TSNE-2": -4.159510612487793,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": -6.532171726226807,
+        "TSNE-2": -4.46114444732666,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": 7.626939296722412,
+        "TSNE-2": -4.23056173324585,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 4.34633731842041,
+        "TSNE-2": 2.8807387351989746,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": -2.9537134170532227,
+        "TSNE-2": 5.700109481811523,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": -0.21643014252185822,
+        "TSNE-2": 1.5467591285705566,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -2.7848238945007324,
+        "TSNE-2": 7.516605854034424,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": -0.5050023794174194,
+        "TSNE-2": -8.990650177001953,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -5.135029315948486,
+        "TSNE-2": 9.576942443847656,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": 3.5661098957061768,
+        "TSNE-2": -5.329301357269287,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": 1.961907982826233,
+        "TSNE-2": 7.380099773406982,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": -3.0153005123138428,
+        "TSNE-2": -4.2917799949646,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": 0.06453141570091248,
+        "TSNE-2": -0.1594434529542923,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -0.3307468593120575,
+        "TSNE-2": 3.3790459632873535,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -2.1431894302368164,
+        "TSNE-2": -8.512104034423828,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -5.542877674102783,
+        "TSNE-2": -0.5023931264877319,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": -1.7272965908050537,
+        "TSNE-2": -1.8416764736175537,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 9.556024551391602,
+        "TSNE-2": 3.6878979206085205,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 4.787624835968018,
+        "TSNE-2": 1.4433387517929077,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": -0.4318963885307312,
+        "TSNE-2": 5.123061180114746,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": 1.147310495376587,
+        "TSNE-2": -2.453486919403076,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 1.5765764713287354,
+        "TSNE-2": 6.095327854156494,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": 0.906592845916748,
+        "TSNE-2": -0.2568156123161316,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 1.387089490890503,
+        "TSNE-2": 1.9788236618041992,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -2.00331449508667,
+        "TSNE-2": 0.14436616003513336,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -7.595029354095459,
+        "TSNE-2": -7.412797927856445,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -4.608626842498779,
+        "TSNE-2": -2.760897636413574,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": -3.124673843383789,
+        "TSNE-2": 9.628532409667969,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": -5.461058616638184,
+        "TSNE-2": 2.479851722717285,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": -2.4858651161193848,
+        "TSNE-2": 0.9933584332466125,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 2.196131944656372,
+        "TSNE-2": -7.928069591522217,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -7.110725402832031,
+        "TSNE-2": 6.793209552764893,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": -0.5360475182533264,
+        "TSNE-2": -0.22189421951770782,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -6.572741985321045,
+        "TSNE-2": -7.9485602378845215,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -0.5872789621353149,
+        "TSNE-2": 2.5997910499572754,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 9.425433158874512,
+        "TSNE-2": -3.743346691131592,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 3.1731276512145996,
+        "TSNE-2": 4.5663042068481445,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": -5.7086005210876465,
+        "TSNE-2": 8.016935348510742,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": 5.71298885345459,
+        "TSNE-2": 0.1686413288116455,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 9.213415145874023,
+        "TSNE-2": -2.744243621826172,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": -0.003921426832675934,
+        "TSNE-2": -7.967206001281738,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": 2.977242946624756,
+        "TSNE-2": -9.162030220031738,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": 2.749441146850586,
+        "TSNE-2": -8.714303970336914,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -2.355175733566284,
+        "TSNE-2": -5.602774143218994,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -3.887172222137451,
+        "TSNE-2": -0.2555181086063385,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": 2.875767230987549,
+        "TSNE-2": 1.4766117334365845,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -3.385401725769043,
+        "TSNE-2": -0.7075833082199097,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": 4.274106025695801,
+        "TSNE-2": 0.47470441460609436,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 1.528117299079895,
+        "TSNE-2": 1.0516377687454224,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 6.725720405578613,
+        "TSNE-2": -3.4813778400421143,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": -5.769222259521484,
+        "TSNE-2": 5.75991153717041,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": -9.219919204711914,
+        "TSNE-2": -1.800829291343689,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": 7.799698352813721,
+        "TSNE-2": 0.7699732184410095,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 0.5409802198410034,
+        "TSNE-2": -5.277435302734375,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -1.0477677583694458,
+        "TSNE-2": -1.7773323059082031,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": 10.433599472045898,
+        "TSNE-2": 3.416344165802002,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 0.6750722527503967,
+        "TSNE-2": -4.608247756958008,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": 7.799698352813721,
+        "TSNE-2": 0.7699732184410095,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": 3.6033315658569336,
+        "TSNE-2": -10.326534271240234,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -4.960410118103027,
+        "TSNE-2": 7.255373477935791,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": -2.6115174293518066,
+        "TSNE-2": 2.673928737640381,
+        "cluster": 3,
+        "keywords": "often, particularly, also, medical, punitive"
+      },
+      {
+        "TSNE-1": -7.185286521911621,
+        "TSNE-2": -9.087957382202148,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -0.003921426832675934,
+        "TSNE-2": -7.967206001281738,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -3.694392442703247,
+        "TSNE-2": 4.962892055511475,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": -0.4318963885307312,
+        "TSNE-2": 5.123061180114746,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": -4.258776664733887,
+        "TSNE-2": 8.621501922607422,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": 2.5775551795959473,
+        "TSNE-2": 10.672820091247559,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": -19.16014289855957,
+        "TSNE-2": 16.271320343017578,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      },
+      {
+        "TSNE-1": 1.6050493717193604,
+        "TSNE-2": 4.275472640991211,
+        "cluster": 1,
+        "keywords": "sexual, testicular, individual, castrate, psychological"
+      },
+      {
+        "TSNE-1": -9.359014511108398,
+        "TSNE-2": 1.8943859338760376,
+        "cluster": 2,
+        "keywords": "may, reason, cancer, gender, behavior"
+      },
+      {
+        "TSNE-1": 4.123498439788818,
+        "TSNE-2": -1.1525293588638306,
+        "cluster": 5,
+        "keywords": "case, removal, create, eliminate, reproduction"
+      },
+      {
+        "TSNE-1": -3.0153005123138428,
+        "TSNE-2": -4.2917799949646,
+        "cluster": 0,
+        "keywords": "castration, rare, female, treat, hormone"
+      },
+      {
+        "TSNE-1": -1.044500708580017,
+        "TSNE-2": 8.47840690612793,
+        "cluster": 4,
+        "keywords": "prevent, population, certain, temperament, form"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_156",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-217496 - why do people get castrated"
+  }
+}

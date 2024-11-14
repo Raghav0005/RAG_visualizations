@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-513f89a4f2f259acec0a7936bbaa2443"
+  },
+  "datasets": {
+    "data-513f89a4f2f259acec0a7936bbaa2443": [
+      {
+        "TSNE-1": -11.955663681030273,
+        "TSNE-2": -2.83359694480896,
+        "cluster": 5,
+        "keywords": "spanish, american, resource, rocket, kaito"
+      },
+      {
+        "TSNE-1": -3.4351468086242676,
+        "TSNE-2": 3.375053644180298,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": 6.91756010055542,
+        "TSNE-2": -8.671344757080078,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 3.8318471908569336,
+        "TSNE-2": -5.817826747894287,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 6.91756010055542,
+        "TSNE-2": -8.671344757080078,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 5.481451988220215,
+        "TSNE-2": 1.5510379076004028,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 8.019084930419922,
+        "TSNE-2": -6.027295112609863,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -2.4794602394104004,
+        "TSNE-2": -0.09748144447803497,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": 2.6312384605407715,
+        "TSNE-2": 4.016773700714111,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 5.828299045562744,
+        "TSNE-2": -7.169410228729248,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -10.722423553466797,
+        "TSNE-2": 4.110106468200684,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": 0.7406939268112183,
+        "TSNE-2": 2.048135995864868,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": -0.9215474724769592,
+        "TSNE-2": 1.81775963306427,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": -11.448371887207031,
+        "TSNE-2": 2.9662387371063232,
+        "cluster": 5,
+        "keywords": "spanish, american, resource, rocket, kaito"
+      },
+      {
+        "TSNE-1": 6.017548561096191,
+        "TSNE-2": -8.870676040649414,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -12.689019203186035,
+        "TSNE-2": 6.490853309631348,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": -1.0118508338928223,
+        "TSNE-2": 6.725726127624512,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": -2.4794602394104004,
+        "TSNE-2": -0.09748144447803497,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": -8.533970832824707,
+        "TSNE-2": 7.088183403015137,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": 3.4517037868499756,
+        "TSNE-2": 7.642111301422119,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 2.913938522338867,
+        "TSNE-2": 0.3108498156070709,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -0.5595973134040833,
+        "TSNE-2": 2.859480857849121,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": 2.498922109603882,
+        "TSNE-2": 0.32296454906463623,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -12.755728721618652,
+        "TSNE-2": 3.8741090297698975,
+        "cluster": 5,
+        "keywords": "spanish, american, resource, rocket, kaito"
+      },
+      {
+        "TSNE-1": -8.568873405456543,
+        "TSNE-2": 5.175220489501953,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": -3.7868311405181885,
+        "TSNE-2": 1.1483474969863892,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": 4.502877712249756,
+        "TSNE-2": -0.6105717420578003,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 8.70716381072998,
+        "TSNE-2": -8.015936851501465,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 5.719317436218262,
+        "TSNE-2": -8.128068923950195,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 9.083541870117188,
+        "TSNE-2": -1.0063726902008057,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 2.661073684692383,
+        "TSNE-2": 4.3208327293396,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -0.3356582820415497,
+        "TSNE-2": -6.54957914352417,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": -3.769639492034912,
+        "TSNE-2": -0.3247920274734497,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": -11.062570571899414,
+        "TSNE-2": 6.273679256439209,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": -1.734654426574707,
+        "TSNE-2": -3.055856943130493,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": 4.772373199462891,
+        "TSNE-2": 3.368866205215454,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -7.334799766540527,
+        "TSNE-2": -2.613517999649048,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": 3.0530879497528076,
+        "TSNE-2": -1.5835237503051758,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -9.54234790802002,
+        "TSNE-2": 4.224965572357178,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": 6.264677047729492,
+        "TSNE-2": 5.746038436889648,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -3.4543004035949707,
+        "TSNE-2": -3.9701008796691895,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": 10.550460815429688,
+        "TSNE-2": -2.8339695930480957,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -2.0725319385528564,
+        "TSNE-2": 0.7298753261566162,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": 5.668168067932129,
+        "TSNE-2": -1.4893560409545898,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 2.347123384475708,
+        "TSNE-2": -4.412029266357422,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 0.3445800542831421,
+        "TSNE-2": -3.5801851749420166,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": -1.5494425296783447,
+        "TSNE-2": -4.9855732917785645,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": 8.440509796142578,
+        "TSNE-2": -2.8088815212249756,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -10.711380958557129,
+        "TSNE-2": 4.142459869384766,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": -5.377694129943848,
+        "TSNE-2": -2.6174211502075195,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": 7.623328685760498,
+        "TSNE-2": -0.5924226641654968,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 8.477723121643066,
+        "TSNE-2": -4.880958080291748,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -3.469850778579712,
+        "TSNE-2": -0.9620387554168701,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": 0.2610984444618225,
+        "TSNE-2": -3.5897529125213623,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": -9.583430290222168,
+        "TSNE-2": 5.405981063842773,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": 3.233945608139038,
+        "TSNE-2": -0.3148038983345032,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -11.85018253326416,
+        "TSNE-2": 1.596191644668579,
+        "cluster": 5,
+        "keywords": "spanish, american, resource, rocket, kaito"
+      },
+      {
+        "TSNE-1": 5.519101619720459,
+        "TSNE-2": -4.149722099304199,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 6.878871917724609,
+        "TSNE-2": 2.565619468688965,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 3.364816665649414,
+        "TSNE-2": 1.1428015232086182,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 4.222520351409912,
+        "TSNE-2": -2.546159505844116,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 7.656004905700684,
+        "TSNE-2": 0.8145784735679626,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 6.3749542236328125,
+        "TSNE-2": 0.4557685852050781,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 0.12724992632865906,
+        "TSNE-2": -1.8960278034210205,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": -6.264956951141357,
+        "TSNE-2": -3.171293258666992,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": -1.7893511056900024,
+        "TSNE-2": -1.293508529663086,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": -6.89820671081543,
+        "TSNE-2": -1.3748247623443604,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": -9.405366897583008,
+        "TSNE-2": 2.819589614868164,
+        "cluster": 5,
+        "keywords": "spanish, american, resource, rocket, kaito"
+      },
+      {
+        "TSNE-1": 5.885502338409424,
+        "TSNE-2": -2.3282623291015625,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 8.024269104003906,
+        "TSNE-2": -4.343625545501709,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 6.468360424041748,
+        "TSNE-2": -2.981243371963501,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -1.0049117803573608,
+        "TSNE-2": 6.739777088165283,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": 9.583629608154297,
+        "TSNE-2": 2.3911828994750977,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -8.16872787475586,
+        "TSNE-2": 4.346808910369873,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": -7.381497383117676,
+        "TSNE-2": -3.349215507507324,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": 3.5404489040374756,
+        "TSNE-2": -3.5973424911499023,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -7.459829807281494,
+        "TSNE-2": 6.017143726348877,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": 9.583629608154297,
+        "TSNE-2": 2.3911828994750977,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 6.665599346160889,
+        "TSNE-2": -0.6990495324134827,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 7.427988052368164,
+        "TSNE-2": -1.84235680103302,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -12.211790084838867,
+        "TSNE-2": 5.160715103149414,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": 0.7406939268112183,
+        "TSNE-2": 2.048135995864868,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": 4.222520351409912,
+        "TSNE-2": -2.546159505844116,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": -10.377180099487305,
+        "TSNE-2": 5.583462238311768,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": 6.264677047729492,
+        "TSNE-2": 5.746038436889648,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": 5.305673599243164,
+        "TSNE-2": -4.676161766052246,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      },
+      {
+        "TSNE-1": 2.6289994716644287,
+        "TSNE-2": 6.058646202087402,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -12.086217880249023,
+        "TSNE-2": 0.8491883277893066,
+        "cluster": 5,
+        "keywords": "spanish, american, resource, rocket, kaito"
+      },
+      {
+        "TSNE-1": -9.30815601348877,
+        "TSNE-2": 5.9061360359191895,
+        "cluster": 2,
+        "keywords": "de, expedition, native, soto, death"
+      },
+      {
+        "TSNE-1": 6.026331424713135,
+        "TSNE-2": 1.7740888595581055,
+        "cluster": 3,
+        "keywords": "plymouth, failure, car, model, new"
+      },
+      {
+        "TSNE-1": -2.9211652278900146,
+        "TSNE-2": 1.9330698251724243,
+        "cluster": 4,
+        "keywords": "many, internal, one, network, november"
+      },
+      {
+        "TSNE-1": -0.3619278371334076,
+        "TSNE-2": -6.600375652313232,
+        "cluster": 0,
+        "keywords": "chrysler, brand, desoto, market, competitor"
+      },
+      {
+        "TSNE-1": 8.647249221801758,
+        "TSNE-2": -3.9205706119537354,
+        "cluster": 1,
+        "keywords": "dealer, mistake, beyond, factor, corporate"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_200",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-215256 - why did desoto fail"
+  }
+}

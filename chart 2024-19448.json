@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-1ff6b1086d9f0217843b4b08aa410b75"
+  },
+  "datasets": {
+    "data-1ff6b1086d9f0217843b4b08aa410b75": [
+      {
+        "TSNE-1": -5.355309009552002,
+        "TSNE-2": 2.486992359161377,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": -7.184223651885986,
+        "TSNE-2": 4.098301887512207,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 2.8175833225250244,
+        "TSNE-2": 2.705888271331787,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": 8.096935272216797,
+        "TSNE-2": 1.0976275205612183,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": 2.9071474075317383,
+        "TSNE-2": 2.6609363555908203,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": -1.4440841674804688,
+        "TSNE-2": -5.86501407623291,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": -0.8161855340003967,
+        "TSNE-2": -2.2642736434936523,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": -5.313466548919678,
+        "TSNE-2": 4.955677509307861,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": -9.28422737121582,
+        "TSNE-2": -2.7876546382904053,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 8.486213684082031,
+        "TSNE-2": 2.6404635906219482,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -0.6953309178352356,
+        "TSNE-2": 3.111562490463257,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": -6.040585994720459,
+        "TSNE-2": -7.969995498657227,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": -3.860290288925171,
+        "TSNE-2": 4.693241119384766,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 2.688591480255127,
+        "TSNE-2": -0.02819378301501274,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": 3.6338446140289307,
+        "TSNE-2": -7.796272277832031,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": 0.8302549123764038,
+        "TSNE-2": 6.135773181915283,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": -10.902207374572754,
+        "TSNE-2": -6.615441799163818,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": -5.313466548919678,
+        "TSNE-2": 4.955677509307861,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 0.0798654705286026,
+        "TSNE-2": 6.616161823272705,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": 9.351714134216309,
+        "TSNE-2": -1.762283444404602,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": 7.857892990112305,
+        "TSNE-2": 0.1794028878211975,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -3.2011537551879883,
+        "TSNE-2": 8.846964836120605,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 5.7673115730285645,
+        "TSNE-2": -1.309104561805725,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -1.4203379154205322,
+        "TSNE-2": 1.2278985977172852,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": -3.2199838161468506,
+        "TSNE-2": -1.5827710628509521,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": -3.775282382965088,
+        "TSNE-2": 2.71976900100708,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 5.667684555053711,
+        "TSNE-2": 2.2585508823394775,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -4.720468521118164,
+        "TSNE-2": -4.701768398284912,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 4.752604961395264,
+        "TSNE-2": -4.5975823402404785,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": -0.3095286190509796,
+        "TSNE-2": -7.502270698547363,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": -9.334783554077148,
+        "TSNE-2": -2.5691089630126953,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 8.018204689025879,
+        "TSNE-2": -4.590188026428223,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": -3.0003740787506104,
+        "TSNE-2": 4.015773296356201,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": -6.028991222381592,
+        "TSNE-2": 0.7704847455024719,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": -4.605690002441406,
+        "TSNE-2": -5.0161051750183105,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 1.682017207145691,
+        "TSNE-2": 9.221057891845703,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": 6.650258541107178,
+        "TSNE-2": 6.080953598022461,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": 2.5033512115478516,
+        "TSNE-2": 4.098104000091553,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": -3.036226272583008,
+        "TSNE-2": 1.1957101821899414,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": -2.495424270629883,
+        "TSNE-2": -0.4015233516693115,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": -7.597629070281982,
+        "TSNE-2": 1.6434246301651,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 9.315265655517578,
+        "TSNE-2": 3.8409552574157715,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -2.2634263038635254,
+        "TSNE-2": 4.812965393066406,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 1.4608606100082397,
+        "TSNE-2": 1.7428219318389893,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": 0.3562953472137451,
+        "TSNE-2": 9.954557418823242,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": -3.715873956680298,
+        "TSNE-2": -7.977850437164307,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 1.8625452518463135,
+        "TSNE-2": -10.614361763000488,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": 7.369500160217285,
+        "TSNE-2": 2.299602508544922,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -0.6473967432975769,
+        "TSNE-2": 3.1327931880950928,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": 3.46420955657959,
+        "TSNE-2": 8.98314094543457,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": 11.384336471557617,
+        "TSNE-2": 2.0492758750915527,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": 3.641545057296753,
+        "TSNE-2": -5.7625956535339355,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": -2.9963409900665283,
+        "TSNE-2": 5.341683864593506,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": -3.715873956680298,
+        "TSNE-2": -7.977850437164307,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": -6.339544296264648,
+        "TSNE-2": 1.4998897314071655,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 4.7390289306640625,
+        "TSNE-2": -0.3608364462852478,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -9.1972074508667,
+        "TSNE-2": 2.7508621215820312,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 6.731101036071777,
+        "TSNE-2": 1.2160553932189941,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -4.889627456665039,
+        "TSNE-2": -2.9060707092285156,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 0.4494354724884033,
+        "TSNE-2": -0.43010011315345764,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": 12.549237251281738,
+        "TSNE-2": -3.0296010971069336,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": 11.38504695892334,
+        "TSNE-2": 3.3769850730895996,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": 2.2775304317474365,
+        "TSNE-2": 6.563233852386475,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": 2.589064121246338,
+        "TSNE-2": -9.993290901184082,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": -0.752593457698822,
+        "TSNE-2": 9.015114784240723,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": -4.889852046966553,
+        "TSNE-2": 7.52750301361084,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 6.482604503631592,
+        "TSNE-2": 4.66721248626709,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -1.9584578275680542,
+        "TSNE-2": 7.008193016052246,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": -0.10661081969738007,
+        "TSNE-2": -4.5360612869262695,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": 0.3465709388256073,
+        "TSNE-2": -2.0491130352020264,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": 0.11610135436058044,
+        "TSNE-2": -4.180492877960205,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": -10.903231620788574,
+        "TSNE-2": -6.581305027008057,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 6.692174434661865,
+        "TSNE-2": -7.965113639831543,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": -2.091662645339966,
+        "TSNE-2": -2.9639577865600586,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": 8.008584976196289,
+        "TSNE-2": 5.777109622955322,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -7.827360153198242,
+        "TSNE-2": -3.8376219272613525,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 2.135462999343872,
+        "TSNE-2": -1.8113399744033813,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": 6.692174434661865,
+        "TSNE-2": -7.965113639831543,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": 2.9241812229156494,
+        "TSNE-2": -5.548380374908447,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": 7.5626068115234375,
+        "TSNE-2": 3.3057801723480225,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -4.131515026092529,
+        "TSNE-2": 0.6450295448303223,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": -6.040585994720459,
+        "TSNE-2": -7.969995498657227,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 12.555744171142578,
+        "TSNE-2": -3.0221447944641113,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -5.874452114105225,
+        "TSNE-2": -1.0427684783935547,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": -2.495424270629883,
+        "TSNE-2": -0.4015233516693115,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      },
+      {
+        "TSNE-1": 5.782377243041992,
+        "TSNE-2": -0.02396203577518463,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": -4.175111770629883,
+        "TSNE-2": -9.890257835388184,
+        "cluster": 0,
+        "keywords": "cover, religious, also, care, court"
+      },
+      {
+        "TSNE-1": 9.855789184570312,
+        "TSNE-2": 0.7440827488899231,
+        "cluster": 1,
+        "keywords": "individual, mandate, first, power, insurance"
+      },
+      {
+        "TSNE-1": 0.011018257588148117,
+        "TSNE-2": 4.847354888916016,
+        "cluster": 4,
+        "keywords": "aca, whether, right, exercise, government"
+      },
+      {
+        "TSNE-1": -7.267550468444824,
+        "TSNE-2": 7.292513370513916,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": -3.7968523502349854,
+        "TSNE-2": 6.673771381378174,
+        "cluster": 2,
+        "keywords": "amendment, hobby, contraceptive, lobby, case"
+      },
+      {
+        "TSNE-1": 8.018204689025879,
+        "TSNE-2": -4.590188026428223,
+        "cluster": 3,
+        "keywords": "directly, act, freedom, violate, affordable"
+      },
+      {
+        "TSNE-1": -0.07509806752204895,
+        "TSNE-2": -0.3718881905078888,
+        "cluster": 5,
+        "keywords": "contraception, supreme, held, burwell, free"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_183",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-19448 - did the affordable care act violate the first amendment"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-7fdf5570f8f99e98e4e34521c02d7c87"
+  },
+  "datasets": {
+    "data-7fdf5570f8f99e98e4e34521c02d7c87": [
+      {
+        "TSNE-1": -1.0397312641143799,
+        "TSNE-2": -2.5756726264953613,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 8.955599784851074,
+        "TSNE-2": 6.019985675811768,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": 13.086715698242188,
+        "TSNE-2": 4.578669548034668,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -7.509537696838379,
+        "TSNE-2": 13.327864646911621,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 13.849325180053711,
+        "TSNE-2": 4.970773220062256,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -8.546158790588379,
+        "TSNE-2": 9.041069984436035,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": -5.329695224761963,
+        "TSNE-2": -7.819474697113037,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": -2.729114294052124,
+        "TSNE-2": -5.999059677124023,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": -15.863055229187012,
+        "TSNE-2": 4.233699798583984,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": -6.85656213760376,
+        "TSNE-2": 11.211636543273926,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 0.13603663444519043,
+        "TSNE-2": 16.794973373413086,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": -15.479188919067383,
+        "TSNE-2": -5.985420227050781,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": -3.4978647232055664,
+        "TSNE-2": 1.9556667804718018,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 7.985960483551025,
+        "TSNE-2": 2.5470430850982666,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -6.127837657928467,
+        "TSNE-2": 6.755554676055908,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 5.7627668380737305,
+        "TSNE-2": -2.2175397872924805,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -6.29666805267334,
+        "TSNE-2": -1.2545642852783203,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": -2.729114294052124,
+        "TSNE-2": -5.999059677124023,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": 8.081047058105469,
+        "TSNE-2": -4.7413153648376465,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": 4.611340522766113,
+        "TSNE-2": 12.945106506347656,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": -5.451960563659668,
+        "TSNE-2": 13.244930267333984,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 2.8020150661468506,
+        "TSNE-2": 1.8652870655059814,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": -9.590017318725586,
+        "TSNE-2": 5.077961444854736,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 5.940498352050781,
+        "TSNE-2": 0.35560670495033264,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": 1.4145362377166748,
+        "TSNE-2": 6.166570663452148,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 1.2115882635116577,
+        "TSNE-2": -3.7423577308654785,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": -10.484421730041504,
+        "TSNE-2": -0.22861415147781372,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": -3.1065866947174072,
+        "TSNE-2": -3.283048391342163,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": -8.190873146057129,
+        "TSNE-2": 11.195555686950684,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 12.55617904663086,
+        "TSNE-2": -11.374645233154297,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -15.507080078125,
+        "TSNE-2": 3.401158332824707,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 2.824172019958496,
+        "TSNE-2": 10.550494194030762,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": -2.6613314151763916,
+        "TSNE-2": 2.7676732540130615,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 12.198097229003906,
+        "TSNE-2": 0.16336534917354584,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -2.698734760284424,
+        "TSNE-2": -0.04882539063692093,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 8.523554801940918,
+        "TSNE-2": -7.93002986907959,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 3.239929437637329,
+        "TSNE-2": -6.265102863311768,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 10.036001205444336,
+        "TSNE-2": -2.4147136211395264,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": 1.1781320571899414,
+        "TSNE-2": 1.7802093029022217,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 3.856560468673706,
+        "TSNE-2": -9.125444412231445,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 8.839850425720215,
+        "TSNE-2": 7.1185526847839355,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": 4.195331573486328,
+        "TSNE-2": 5.050393581390381,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": -1.327530026435852,
+        "TSNE-2": 1.9334971904754639,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": -0.36713075637817383,
+        "TSNE-2": -5.124234199523926,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 10.068958282470703,
+        "TSNE-2": -7.690321922302246,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -13.39632797241211,
+        "TSNE-2": -6.010097503662109,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": 1.4117542505264282,
+        "TSNE-2": 12.459617614746094,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": -4.575750827789307,
+        "TSNE-2": 11.001801490783691,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 0.13603663444519043,
+        "TSNE-2": 16.794973373413086,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": 1.554593563079834,
+        "TSNE-2": -12.782930374145508,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -0.9247854948043823,
+        "TSNE-2": -11.759511947631836,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -10.607725143432617,
+        "TSNE-2": 10.474345207214355,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": -0.7134604454040527,
+        "TSNE-2": 3.0359392166137695,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": -14.546996116638184,
+        "TSNE-2": -4.388713359832764,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": 10.624655723571777,
+        "TSNE-2": 0.21447354555130005,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -10.637178421020508,
+        "TSNE-2": 3.1669201850891113,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 4.261136531829834,
+        "TSNE-2": 0.2992587089538574,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": -5.357111930847168,
+        "TSNE-2": 8.017743110656738,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": -1.5766459703445435,
+        "TSNE-2": -7.673181533813477,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -11.366235733032227,
+        "TSNE-2": -0.6785821914672852,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": 11.463314056396484,
+        "TSNE-2": -3.4840269088745117,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -1.2492173910140991,
+        "TSNE-2": -14.420757293701172,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -0.887186586856842,
+        "TSNE-2": -12.984013557434082,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 2.824172019958496,
+        "TSNE-2": 10.550494194030762,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": 7.313359260559082,
+        "TSNE-2": -11.048666954040527,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -3.8215205669403076,
+        "TSNE-2": 4.954789161682129,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 4.420319557189941,
+        "TSNE-2": -5.270041465759277,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 0.34528228640556335,
+        "TSNE-2": -0.10741633176803589,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 2.377575635910034,
+        "TSNE-2": 4.954080581665039,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": -10.624557495117188,
+        "TSNE-2": 5.059660911560059,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 3.1375317573547363,
+        "TSNE-2": -2.4544317722320557,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": -6.183533668518066,
+        "TSNE-2": -2.0914289951324463,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": 5.68328857421875,
+        "TSNE-2": 3.7196364402770996,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": 6.222827911376953,
+        "TSNE-2": -12.580229759216309,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 6.019201755523682,
+        "TSNE-2": -7.374605178833008,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -4.614150047302246,
+        "TSNE-2": -4.568260192871094,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": 0.6190030574798584,
+        "TSNE-2": -7.885616302490234,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 5.68328857421875,
+        "TSNE-2": 3.7196364402770996,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -2.3904707431793213,
+        "TSNE-2": -12.472442626953125,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -2.167099714279175,
+        "TSNE-2": 10.574981689453125,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": 7.233011722564697,
+        "TSNE-2": 1.1056100130081177,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -15.479188919067383,
+        "TSNE-2": -5.985420227050781,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      },
+      {
+        "TSNE-1": 12.216377258300781,
+        "TSNE-2": -4.263703346252441,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": 9.810112953186035,
+        "TSNE-2": 11.890975952148438,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": 3.856560468673706,
+        "TSNE-2": -9.125444412231445,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": -5.097036361694336,
+        "TSNE-2": 9.3495454788208,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 11.589119911193848,
+        "TSNE-2": 11.654961585998535,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": -7.96815299987793,
+        "TSNE-2": 15.59045696258545,
+        "cluster": 3,
+        "keywords": "mention, text, money, state, major"
+      },
+      {
+        "TSNE-1": 5.237375736236572,
+        "TSNE-2": -3.6619651317596436,
+        "cluster": 4,
+        "keywords": "saudi, also, various, arabia, project"
+      },
+      {
+        "TSNE-1": -3.946964740753174,
+        "TSNE-2": -13.65927505493164,
+        "cluster": 1,
+        "keywords": "mineral, investment, country, sector, oman"
+      },
+      {
+        "TSNE-1": 1.510194182395935,
+        "TSNE-2": -2.595825433731079,
+        "cluster": 5,
+        "keywords": "economic, gold, diversify, broader, international"
+      },
+      {
+        "TSNE-1": 2.824172019958496,
+        "TSNE-2": 10.550494194030762,
+        "cluster": 2,
+        "keywords": "gas, oil, gcc, region, gulf"
+      },
+      {
+        "TSNE-1": -11.477937698364258,
+        "TSNE-2": 1.3184658288955688,
+        "cluster": 0,
+        "keywords": "mining, heart, important, coast, source"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_53",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-43905 - how gulf states are putting their money into mining"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-1f44ed3469a917f2790c5c17829b3906"
+  },
+  "datasets": {
+    "data-1f44ed3469a917f2790c5c17829b3906": [
+      {
+        "TSNE-1": -5.93526554107666,
+        "TSNE-2": -0.6062841415405273,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -7.663764953613281,
+        "TSNE-2": -5.444295883178711,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 15.458117485046387,
+        "TSNE-2": -4.343692779541016,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 7.333009243011475,
+        "TSNE-2": 1.4952329397201538,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 15.458117485046387,
+        "TSNE-2": -4.343692779541016,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": -19.358911514282227,
+        "TSNE-2": 18.635459899902344,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 3.9516749382019043,
+        "TSNE-2": 9.991227149963379,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": -0.8697329163551331,
+        "TSNE-2": -2.2075917720794678,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -13.052488327026367,
+        "TSNE-2": -2.876499652862549,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 5.796059608459473,
+        "TSNE-2": -2.600839376449585,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -3.76009464263916,
+        "TSNE-2": 7.913430690765381,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": -0.23734524846076965,
+        "TSNE-2": 6.704023361206055,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": 2.9630255699157715,
+        "TSNE-2": -0.7478948831558228,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -0.032744839787483215,
+        "TSNE-2": 2.5729668140411377,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": 5.796059608459473,
+        "TSNE-2": -2.600839376449585,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -7.549056053161621,
+        "TSNE-2": 4.412189483642578,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 2.274634599685669,
+        "TSNE-2": -5.706567287445068,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -0.8697329163551331,
+        "TSNE-2": -2.2075917720794678,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -6.602804183959961,
+        "TSNE-2": 5.497337341308594,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 7.705623626708984,
+        "TSNE-2": -7.924455642700195,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": 5.258928298950195,
+        "TSNE-2": -4.635962963104248,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": 8.747804641723633,
+        "TSNE-2": -4.116233825683594,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 11.310781478881836,
+        "TSNE-2": -1.4939990043640137,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 0.7713183164596558,
+        "TSNE-2": 3.391205072402954,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -3.8389179706573486,
+        "TSNE-2": -0.7181931138038635,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -6.333651542663574,
+        "TSNE-2": -3.687525987625122,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 7.721845626831055,
+        "TSNE-2": 2.728457450866699,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 2.5887303352355957,
+        "TSNE-2": 6.287408351898193,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": 5.796059608459473,
+        "TSNE-2": -2.600839376449585,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": 4.80068826675415,
+        "TSNE-2": -9.503811836242676,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -4.566224098205566,
+        "TSNE-2": -10.538043022155762,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 10.825714111328125,
+        "TSNE-2": -6.5432868003845215,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 1.4506500959396362,
+        "TSNE-2": -0.46989041566848755,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -5.0996174812316895,
+        "TSNE-2": 1.7655178308486938,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -9.80593490600586,
+        "TSNE-2": -4.439864158630371,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -2.8362581729888916,
+        "TSNE-2": -4.079835891723633,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -4.07156229019165,
+        "TSNE-2": -3.0859217643737793,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -0.3657969832420349,
+        "TSNE-2": 10.552863121032715,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": -2.9660768508911133,
+        "TSNE-2": 3.094823122024536,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -7.653805255889893,
+        "TSNE-2": -2.3636491298675537,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -6.728470802307129,
+        "TSNE-2": -7.3405375480651855,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 9.835299491882324,
+        "TSNE-2": 5.9085588455200195,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": 2.03488826751709,
+        "TSNE-2": -1.9910414218902588,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -9.54587173461914,
+        "TSNE-2": -2.1401937007904053,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -1.1515806913375854,
+        "TSNE-2": -4.913334846496582,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -7.137386798858643,
+        "TSNE-2": 12.55477523803711,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 9.229371070861816,
+        "TSNE-2": -8.465673446655273,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": 8.321723937988281,
+        "TSNE-2": -0.434320330619812,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": -3.76009464263916,
+        "TSNE-2": 7.913430690765381,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": -0.3433358371257782,
+        "TSNE-2": -12.107245445251465,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -12.525826454162598,
+        "TSNE-2": 3.3520188331604004,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 10.53752326965332,
+        "TSNE-2": -1.838810920715332,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 1.656384825706482,
+        "TSNE-2": 0.21134482324123383,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -7.137386798858643,
+        "TSNE-2": 12.55477523803711,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": -5.185813903808594,
+        "TSNE-2": 3.236600875854492,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": 9.775537490844727,
+        "TSNE-2": 2.3246874809265137,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": -7.949400424957275,
+        "TSNE-2": 2.252828598022461,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 14.2894287109375,
+        "TSNE-2": 0.16692335903644562,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": -10.191672325134277,
+        "TSNE-2": -0.9983173608779907,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 12.732892036437988,
+        "TSNE-2": 1.7802799940109253,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 0.4908204972743988,
+        "TSNE-2": -9.115053176879883,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -12.317612648010254,
+        "TSNE-2": 5.7220916748046875,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": -10.900160789489746,
+        "TSNE-2": 4.511963844299316,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 8.810853958129883,
+        "TSNE-2": -6.35975980758667,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -3.7637624740600586,
+        "TSNE-2": -6.56879186630249,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 4.016513824462891,
+        "TSNE-2": 0.5447359681129456,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -4.567984580993652,
+        "TSNE-2": -5.425968170166016,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -2.46681547164917,
+        "TSNE-2": 0.8176177144050598,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -7.784633159637451,
+        "TSNE-2": 6.837953090667725,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 8.320176124572754,
+        "TSNE-2": 8.193227767944336,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": -9.835061073303223,
+        "TSNE-2": 5.932065486907959,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 2.274634599685669,
+        "TSNE-2": -5.706567287445068,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": 2.0924148559570312,
+        "TSNE-2": 10.107426643371582,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": 5.327705383300781,
+        "TSNE-2": 5.6016316413879395,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": -2.8485605716705322,
+        "TSNE-2": -5.272286891937256,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": -5.201778888702393,
+        "TSNE-2": -9.93892765045166,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 4.865326404571533,
+        "TSNE-2": 4.958705425262451,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": 2.0924148559570312,
+        "TSNE-2": 10.107426643371582,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": -12.60588550567627,
+        "TSNE-2": 4.256746768951416,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": 9.255891799926758,
+        "TSNE-2": 0.7570425271987915,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": -1.1981990337371826,
+        "TSNE-2": 1.8089544773101807,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -0.23734524846076965,
+        "TSNE-2": 6.704023361206055,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": 0.9659658670425415,
+        "TSNE-2": -9.606874465942383,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -2.603006601333618,
+        "TSNE-2": 4.401455402374268,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": -7.653805255889893,
+        "TSNE-2": -2.3636491298675537,
+        "cluster": 0,
+        "keywords": "scientific, science, human, ethical, moral"
+      },
+      {
+        "TSNE-1": 13.337522506713867,
+        "TSNE-2": 0.9538111686706543,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 4.818790912628174,
+        "TSNE-2": -11.603909492492676,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": 9.744808197021484,
+        "TSNE-2": -10.050562858581543,
+        "cluster": 5,
+        "keywords": "essential, capable, others, destroy, important"
+      },
+      {
+        "TSNE-1": -6.679208755493164,
+        "TSNE-2": 3.0446338653564453,
+        "cluster": 4,
+        "keywords": "mean, view, nan, existence, end"
+      },
+      {
+        "TSNE-1": -1.5758097171783447,
+        "TSNE-2": 12.331262588500977,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      },
+      {
+        "TSNE-1": 3.8023250102996826,
+        "TSNE-2": 2.019392967224121,
+        "cluster": 3,
+        "keywords": "misuse, social, lead, race, harmful"
+      },
+      {
+        "TSNE-1": 10.825714111328125,
+        "TSNE-2": -6.5432868003845215,
+        "cluster": 2,
+        "keywords": "context, importance, affront, question, suggests"
+      },
+      {
+        "TSNE-1": 8.574878692626953,
+        "TSNE-2": 9.291029930114746,
+        "cluster": 1,
+        "keywords": "answer, inform, rather, argue, one"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_296",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-222696 - why is science and affront to the human race?"
+  }
+}

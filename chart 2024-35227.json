@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-a0421b3bc06c3990f8781c09b1702a32"
+  },
+  "datasets": {
+    "data-a0421b3bc06c3990f8781c09b1702a32": [
+      {
+        "TSNE-1": 1.7701517343521118,
+        "TSNE-2": 0.13348813354969025,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": 3.0784831047058105,
+        "TSNE-2": 8.843491554260254,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 1.8362385034561157,
+        "TSNE-2": 13.389924049377441,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 6.411864280700684,
+        "TSNE-2": -5.40355110168457,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": 1.8362385034561157,
+        "TSNE-2": 13.389924049377441,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 10.586211204528809,
+        "TSNE-2": 2.330518960952759,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": 6.974555969238281,
+        "TSNE-2": 6.236031532287598,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 0.8074777722358704,
+        "TSNE-2": 3.3335134983062744,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -1.8140631914138794,
+        "TSNE-2": -7.70839262008667,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": -13.930764198303223,
+        "TSNE-2": -0.7254307866096497,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": 3.917339324951172,
+        "TSNE-2": 5.731825351715088,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 4.209067344665527,
+        "TSNE-2": -12.519559860229492,
+        "cluster": 5,
+        "keywords": "million, exchange, decline, negative, population"
+      },
+      {
+        "TSNE-1": -3.8376708030700684,
+        "TSNE-2": 1.8571289777755737,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 4.566406726837158,
+        "TSNE-2": 2.0609283447265625,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -11.18852424621582,
+        "TSNE-2": -4.731639385223389,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": -4.426878452301025,
+        "TSNE-2": -0.8485181927680969,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -3.2009639739990234,
+        "TSNE-2": -5.2618513107299805,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": 0.8074777722358704,
+        "TSNE-2": 3.3335134983062744,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -0.26534852385520935,
+        "TSNE-2": -3.6770334243774414,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": 2.2698421478271484,
+        "TSNE-2": -9.213898658752441,
+        "cluster": 5,
+        "keywords": "million, exchange, decline, negative, population"
+      },
+      {
+        "TSNE-1": 7.117217540740967,
+        "TSNE-2": 11.595264434814453,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": -4.060791492462158,
+        "TSNE-2": 5.258962154388428,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 12.391765594482422,
+        "TSNE-2": -1.2103592157363892,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -0.03269962966442108,
+        "TSNE-2": 7.256622791290283,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": -5.334902763366699,
+        "TSNE-2": -4.6934943199157715,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": 0.9876964092254639,
+        "TSNE-2": 4.867128372192383,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 3.9760637283325195,
+        "TSNE-2": -2.4467644691467285,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": 7.877625942230225,
+        "TSNE-2": 6.493572235107422,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": -14.136709213256836,
+        "TSNE-2": -1.7682960033416748,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": 11.028947830200195,
+        "TSNE-2": 3.2412045001983643,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -0.5709810853004456,
+        "TSNE-2": -7.459120750427246,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": 4.922379016876221,
+        "TSNE-2": -8.473175048828125,
+        "cluster": 5,
+        "keywords": "million, exchange, decline, negative, population"
+      },
+      {
+        "TSNE-1": -5.1085638999938965,
+        "TSNE-2": 1.929670810699463,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -1.8002597093582153,
+        "TSNE-2": 1.5070970058441162,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -4.584003925323486,
+        "TSNE-2": 3.5714938640594482,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -2.2226428985595703,
+        "TSNE-2": -2.4016363620758057,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": 1.5928666591644287,
+        "TSNE-2": -2.1059842109680176,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": 6.002606391906738,
+        "TSNE-2": 1.1610982418060303,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": 1.6661498546600342,
+        "TSNE-2": 0.8958609700202942,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -2.8757362365722656,
+        "TSNE-2": 7.7929911613464355,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -9.000738143920898,
+        "TSNE-2": 0.9684150815010071,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": -7.7659502029418945,
+        "TSNE-2": 4.358156204223633,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -5.529893398284912,
+        "TSNE-2": 1.5425149202346802,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 3.0898306369781494,
+        "TSNE-2": 2.4056646823883057,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -0.9401354193687439,
+        "TSNE-2": -0.5398590564727783,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 0.23686838150024414,
+        "TSNE-2": -5.6391401290893555,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": 2.736924648284912,
+        "TSNE-2": -8.251193046569824,
+        "cluster": 5,
+        "keywords": "million, exchange, decline, negative, population"
+      },
+      {
+        "TSNE-1": -11.14720630645752,
+        "TSNE-2": -2.0697150230407715,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": 3.917339324951172,
+        "TSNE-2": 5.731825351715088,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": -1.1346583366394043,
+        "TSNE-2": -2.3636362552642822,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": -4.286408424377441,
+        "TSNE-2": -9.983022689819336,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": -13.010214805603027,
+        "TSNE-2": -1.2758609056472778,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": -2.9935977458953857,
+        "TSNE-2": 2.75716233253479,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 2.2786262035369873,
+        "TSNE-2": -12.160683631896973,
+        "cluster": 5,
+        "keywords": "million, exchange, decline, negative, population"
+      },
+      {
+        "TSNE-1": -2.633237361907959,
+        "TSNE-2": -0.33715522289276123,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 7.456826210021973,
+        "TSNE-2": 11.929329872131348,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": -3.80609130859375,
+        "TSNE-2": -2.91420316696167,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": -13.952284812927246,
+        "TSNE-2": -3.64741849899292,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": 2.494929313659668,
+        "TSNE-2": 3.9336178302764893,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 6.5987677574157715,
+        "TSNE-2": -3.9187028408050537,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -8.29163932800293,
+        "TSNE-2": -8.13011646270752,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": -3.3618693351745605,
+        "TSNE-2": -7.459524154663086,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": 8.865291595458984,
+        "TSNE-2": -1.953487753868103,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -0.40565547347068787,
+        "TSNE-2": -10.25922679901123,
+        "cluster": 5,
+        "keywords": "million, exchange, decline, negative, population"
+      },
+      {
+        "TSNE-1": 9.297259330749512,
+        "TSNE-2": -5.234142303466797,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -0.0710894912481308,
+        "TSNE-2": 2.0157034397125244,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 9.116850852966309,
+        "TSNE-2": -7.303350448608398,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": 5.381105899810791,
+        "TSNE-2": 4.215331554412842,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": -7.110871315002441,
+        "TSNE-2": 4.411637783050537,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 4.412676811218262,
+        "TSNE-2": -4.830973148345947,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -7.238391399383545,
+        "TSNE-2": 5.736678123474121,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -3.2009639739990234,
+        "TSNE-2": -5.2618513107299805,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": -0.4601285457611084,
+        "TSNE-2": 10.413900375366211,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 5.622404098510742,
+        "TSNE-2": -0.12412665039300919,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": 1.9773023128509521,
+        "TSNE-2": -3.3250839710235596,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -8.302937507629395,
+        "TSNE-2": 0.6065223217010498,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": 7.27719259262085,
+        "TSNE-2": 2.792701005935669,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -0.4601285457611084,
+        "TSNE-2": 10.413900375366211,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 9.134896278381348,
+        "TSNE-2": -1.3321244716644287,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -12.512906074523926,
+        "TSNE-2": -3.7350728511810303,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": 1.3804718255996704,
+        "TSNE-2": 6.863730430603027,
+        "cluster": 2,
+        "keywords": "asks, kingdom, question, able, supply"
+      },
+      {
+        "TSNE-1": 4.209067344665527,
+        "TSNE-2": -12.519559860229492,
+        "cluster": 5,
+        "keywords": "million, exchange, decline, negative, population"
+      },
+      {
+        "TSNE-1": -8.29163932800293,
+        "TSNE-2": -8.13011646270752,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": -1.1485735177993774,
+        "TSNE-2": 3.5819735527038574,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -2.8757362365722656,
+        "TSNE-2": 7.7929911613464355,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -12.414473533630371,
+        "TSNE-2": -2.9279911518096924,
+        "cluster": 4,
+        "keywords": "revenue, tax, rent, building, land"
+      },
+      {
+        "TSNE-1": 3.7859365940093994,
+        "TSNE-2": -0.21968810260295868,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -5.214495658874512,
+        "TSNE-2": 9.299421310424805,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": -3.898622989654541,
+        "TSNE-2": -1.5931286811828613,
+        "cluster": 3,
+        "keywords": "good, new, cooperate, developed, avoid"
+      },
+      {
+        "TSNE-1": 6.224767684936523,
+        "TSNE-2": -2.055898427963257,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      },
+      {
+        "TSNE-1": -1.0172228813171387,
+        "TSNE-2": 5.067201137542725,
+        "cluster": 0,
+        "keywords": "african, trade, ruler, european, triangular"
+      },
+      {
+        "TSNE-1": 4.922379016876221,
+        "TSNE-2": -8.473175048828125,
+        "cluster": 5,
+        "keywords": "million, exchange, decline, negative, population"
+      },
+      {
+        "TSNE-1": 5.073398590087891,
+        "TSNE-2": -5.108301639556885,
+        "cluster": 1,
+        "keywords": "slave, trader, people, triangle, africa"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_180",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-35227 - how did african rulers contribute to the triangle trade"
+  }
+}

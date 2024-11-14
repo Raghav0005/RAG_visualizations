@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e771045e4bc1a474d1cfa74a8cf47ce6"
+  },
+  "datasets": {
+    "data-e771045e4bc1a474d1cfa74a8cf47ce6": [
+      {
+        "TSNE-1": -11.500570297241211,
+        "TSNE-2": -11.23742961883545,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": -2.0651156902313232,
+        "TSNE-2": -4.017324447631836,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -12.145843505859375,
+        "TSNE-2": 2.764066696166992,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 16.76256561279297,
+        "TSNE-2": -0.5340474843978882,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -12.145843505859375,
+        "TSNE-2": 2.764066696166992,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -21.793455123901367,
+        "TSNE-2": 22.291109085083008,
+        "cluster": 3,
+        "keywords": "nan, popular, time, billion, whole"
+      },
+      {
+        "TSNE-1": 3.1599390506744385,
+        "TSNE-2": 14.797675132751465,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 0.9207735061645508,
+        "TSNE-2": -6.364300727844238,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": -5.277023792266846,
+        "TSNE-2": 13.646702766418457,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 0.2284095585346222,
+        "TSNE-2": -14.997260093688965,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": 4.023437023162842,
+        "TSNE-2": 0.4204457700252533,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -5.963605880737305,
+        "TSNE-2": 18.27828598022461,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 2.6575119495391846,
+        "TSNE-2": -4.794463157653809,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -0.5549607276916504,
+        "TSNE-2": 4.739973068237305,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -16.17058563232422,
+        "TSNE-2": -4.054762363433838,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -0.3792283535003662,
+        "TSNE-2": 11.958761215209961,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 6.337564945220947,
+        "TSNE-2": -11.817693710327148,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": 0.9207735061645508,
+        "TSNE-2": -6.364300727844238,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": -6.399607181549072,
+        "TSNE-2": -0.054656028747558594,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 11.776230812072754,
+        "TSNE-2": 5.585592746734619,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -18.270349502563477,
+        "TSNE-2": 2.907001495361328,
+        "cluster": 3,
+        "keywords": "nan, popular, time, billion, whole"
+      },
+      {
+        "TSNE-1": -3.0674493312835693,
+        "TSNE-2": -8.315277099609375,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": 1.0893447399139404,
+        "TSNE-2": -12.218441009521484,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": -2.370284080505371,
+        "TSNE-2": 3.3075835704803467,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -10.810646057128906,
+        "TSNE-2": -10.013054847717285,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": -1.7709591388702393,
+        "TSNE-2": -0.16278046369552612,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 16.76256561279297,
+        "TSNE-2": -0.5340474843978882,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": 10.474496841430664,
+        "TSNE-2": -1.7591344118118286,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -13.33689022064209,
+        "TSNE-2": -3.6104791164398193,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -17.455665588378906,
+        "TSNE-2": 3.7804372310638428,
+        "cluster": 3,
+        "keywords": "nan, popular, time, billion, whole"
+      },
+      {
+        "TSNE-1": -4.242152214050293,
+        "TSNE-2": 12.166543006896973,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": -13.739832878112793,
+        "TSNE-2": 9.949002265930176,
+        "cluster": 3,
+        "keywords": "nan, popular, time, billion, whole"
+      },
+      {
+        "TSNE-1": 0.5857282876968384,
+        "TSNE-2": -1.9211935997009277,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -5.466613292694092,
+        "TSNE-2": -3.088453769683838,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 4.636168003082275,
+        "TSNE-2": -5.740472793579102,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": 7.959371089935303,
+        "TSNE-2": 6.397605895996094,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 8.121588706970215,
+        "TSNE-2": 1.2257475852966309,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -9.547954559326172,
+        "TSNE-2": 4.332864284515381,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 0.7353864312171936,
+        "TSNE-2": 2.953885316848755,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 3.762617588043213,
+        "TSNE-2": 4.135542392730713,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 5.751906871795654,
+        "TSNE-2": 8.021354675292969,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -0.711331307888031,
+        "TSNE-2": 9.721038818359375,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 3.239943265914917,
+        "TSNE-2": -3.141690254211426,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -6.970965385437012,
+        "TSNE-2": 3.297891855239868,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 7.597987174987793,
+        "TSNE-2": 3.22576904296875,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 8.087593078613281,
+        "TSNE-2": -7.036543846130371,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -9.09818172454834,
+        "TSNE-2": 8.202380180358887,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 14.025795936584473,
+        "TSNE-2": -8.62897777557373,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": 4.023437023162842,
+        "TSNE-2": 0.4204457700252533,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 8.76353931427002,
+        "TSNE-2": 4.291383266448975,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 4.694057464599609,
+        "TSNE-2": 11.85892391204834,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 1.6415761709213257,
+        "TSNE-2": -16.382474899291992,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": 1.1014336347579956,
+        "TSNE-2": -3.601010799407959,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": 8.087593078613281,
+        "TSNE-2": -7.036543846130371,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -3.94453763961792,
+        "TSNE-2": -4.720210552215576,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 1.7696341276168823,
+        "TSNE-2": -10.62409782409668,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": -4.061398029327393,
+        "TSNE-2": -0.792728841304779,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -14.421809196472168,
+        "TSNE-2": -2.251985788345337,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -9.595091819763184,
+        "TSNE-2": -8.468660354614258,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": 2.965665817260742,
+        "TSNE-2": -12.867368698120117,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": -5.111328601837158,
+        "TSNE-2": -14.11569595336914,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": 2.3985157012939453,
+        "TSNE-2": 7.811553001403809,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 2.6869006156921387,
+        "TSNE-2": 8.890955924987793,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -13.739832878112793,
+        "TSNE-2": 9.949002265930176,
+        "cluster": 3,
+        "keywords": "nan, popular, time, billion, whole"
+      },
+      {
+        "TSNE-1": -5.952167510986328,
+        "TSNE-2": -6.712838172912598,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": -1.8885055780410767,
+        "TSNE-2": -1.700212001800537,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -7.171177387237549,
+        "TSNE-2": -5.544423580169678,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 0.28893277049064636,
+        "TSNE-2": 1.2559199333190918,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -1.0417944192886353,
+        "TSNE-2": 8.433354377746582,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 16.76256561279297,
+        "TSNE-2": -0.5340474843978882,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -8.916504859924316,
+        "TSNE-2": -0.8690946698188782,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": 6.337564945220947,
+        "TSNE-2": -11.817693710327148,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -7.392654895782471,
+        "TSNE-2": 6.204290866851807,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 9.810166358947754,
+        "TSNE-2": 10.127145767211914,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -4.019414901733398,
+        "TSNE-2": -6.525327682495117,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": 10.569326400756836,
+        "TSNE-2": -3.3389997482299805,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": 11.163819313049316,
+        "TSNE-2": 10.73310375213623,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -7.392654895782471,
+        "TSNE-2": 6.204290866851807,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 3.297729015350342,
+        "TSNE-2": 12.352997779846191,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": 12.953372955322266,
+        "TSNE-2": -9.193731307983398,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -2.046377182006836,
+        "TSNE-2": 5.162446022033691,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": -5.963605880737305,
+        "TSNE-2": 18.27828598022461,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": -5.111328601837158,
+        "TSNE-2": -14.11569595336914,
+        "cluster": 4,
+        "keywords": "document, period, federal, abraham, financial"
+      },
+      {
+        "TSNE-1": 8.245600700378418,
+        "TSNE-2": -2.046938896179199,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": 3.762617588043213,
+        "TSNE-2": 4.135542392730713,
+        "cluster": 2,
+        "keywords": "greenback, government, administration, revenue, loan"
+      },
+      {
+        "TSNE-1": -14.421809196472168,
+        "TSNE-2": -2.251985788345337,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -5.186609268188477,
+        "TSNE-2": 7.578256607055664,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 10.46470832824707,
+        "TSNE-2": -10.949024200439453,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -4.579779624938965,
+        "TSNE-2": 1.0438921451568604,
+        "cluster": 5,
+        "keywords": "ratio, tax, million, without, interest"
+      },
+      {
+        "TSNE-1": -5.64918851852417,
+        "TSNE-2": 11.856087684631348,
+        "cluster": 1,
+        "keywords": "lincoln, war, would, money, civil"
+      },
+      {
+        "TSNE-1": 6.241308212280273,
+        "TSNE-2": -1.5245226621627808,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      },
+      {
+        "TSNE-1": -13.739832878112793,
+        "TSNE-2": 9.949002265930176,
+        "cluster": 3,
+        "keywords": "nan, popular, time, billion, whole"
+      },
+      {
+        "TSNE-1": 16.76256561279297,
+        "TSNE-2": -0.5340474843978882,
+        "cluster": 0,
+        "keywords": "debt, percentage, national, less, low"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_51",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-225026 - why was the debt percentages of abraham lincoln so low"
+  }
+}

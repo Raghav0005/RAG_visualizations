@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-361fad97e36a2a82e8482eaf94602676"
+  },
+  "datasets": {
+    "data-361fad97e36a2a82e8482eaf94602676": [
+      {
+        "TSNE-1": -7.714913845062256,
+        "TSNE-2": -1.871650218963623,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": -4.300784587860107,
+        "TSNE-2": 1.4604260921478271,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 4.156713008880615,
+        "TSNE-2": 2.5209004878997803,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 6.295010566711426,
+        "TSNE-2": 3.270925998687744,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": 4.156713008880615,
+        "TSNE-2": 2.5209004878997803,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 2.877825975418091,
+        "TSNE-2": 5.061019420623779,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": -2.691706657409668,
+        "TSNE-2": 6.337491035461426,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 11.742172241210938,
+        "TSNE-2": 6.606289386749268,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": -5.876009464263916,
+        "TSNE-2": -10.301200866699219,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -0.9884663224220276,
+        "TSNE-2": 1.1252504587173462,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 2.96256685256958,
+        "TSNE-2": -9.81917667388916,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -4.984810829162598,
+        "TSNE-2": 3.9061715602874756,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 4.0700364112854,
+        "TSNE-2": -10.796749114990234,
+        "cluster": 5,
+        "keywords": "mention, term, refers, angle, upper"
+      },
+      {
+        "TSNE-1": 11.545671463012695,
+        "TSNE-2": -7.431998252868652,
+        "cluster": 5,
+        "keywords": "mention, term, refers, angle, upper"
+      },
+      {
+        "TSNE-1": 0.5091395378112793,
+        "TSNE-2": -1.480747938156128,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -1.3759833574295044,
+        "TSNE-2": -11.349677085876465,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -2.691706657409668,
+        "TSNE-2": 6.337491035461426,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": -3.6692843437194824,
+        "TSNE-2": -1.7130649089813232,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 3.871821165084839,
+        "TSNE-2": -0.19472894072532654,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 6.763523101806641,
+        "TSNE-2": 6.0726141929626465,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": 6.44418478012085,
+        "TSNE-2": 0.5300841927528381,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 5.6566033363342285,
+        "TSNE-2": 6.263820648193359,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": -10.293856620788574,
+        "TSNE-2": 1.96188223361969,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 0.789280891418457,
+        "TSNE-2": -3.1557159423828125,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -6.708876132965088,
+        "TSNE-2": 2.9926109313964844,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 7.450480937957764,
+        "TSNE-2": 1.886096715927124,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 1.7683764696121216,
+        "TSNE-2": 5.409177780151367,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 11.599961280822754,
+        "TSNE-2": -7.125254154205322,
+        "cluster": 5,
+        "keywords": "mention, term, refers, angle, upper"
+      },
+      {
+        "TSNE-1": -14.38308048248291,
+        "TSNE-2": 2.197047472000122,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 11.456222534179688,
+        "TSNE-2": 6.219735145568848,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": 2.1252007484436035,
+        "TSNE-2": 0.13469581305980682,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -6.227524280548096,
+        "TSNE-2": 4.430241107940674,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": -2.2205305099487305,
+        "TSNE-2": -2.79123854637146,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -8.549064636230469,
+        "TSNE-2": -5.749895095825195,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -2.215407609939575,
+        "TSNE-2": -6.718609809875488,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -0.816105842590332,
+        "TSNE-2": 5.094239234924316,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 3.7294061183929443,
+        "TSNE-2": -5.949277400970459,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -3.6293222904205322,
+        "TSNE-2": 0.24294546246528625,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": -5.183846950531006,
+        "TSNE-2": -2.685258626937866,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -5.895923614501953,
+        "TSNE-2": 0.8188086152076721,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 3.3070149421691895,
+        "TSNE-2": -2.602229595184326,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -7.359180450439453,
+        "TSNE-2": 5.722975730895996,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 8.4049654006958,
+        "TSNE-2": -4.722415447235107,
+        "cluster": 5,
+        "keywords": "mention, term, refers, angle, upper"
+      },
+      {
+        "TSNE-1": -1.1817779541015625,
+        "TSNE-2": 3.2425336837768555,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 11.925214767456055,
+        "TSNE-2": -0.6610927581787109,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -3.5377087593078613,
+        "TSNE-2": 9.79221248626709,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 7.38978385925293,
+        "TSNE-2": 10.37222671508789,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": -0.9884663224220276,
+        "TSNE-2": 1.1252504587173462,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": -2.542559862136841,
+        "TSNE-2": -5.45316219329834,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 7.89776086807251,
+        "TSNE-2": -1.901355266571045,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 6.682990550994873,
+        "TSNE-2": 10.818352699279785,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": -6.547048568725586,
+        "TSNE-2": 5.227261066436768,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": -4.6546783447265625,
+        "TSNE-2": -7.444074630737305,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -1.0465751886367798,
+        "TSNE-2": -2.253340482711792,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 6.51434326171875,
+        "TSNE-2": 4.806732654571533,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": -0.5614312291145325,
+        "TSNE-2": 8.376006126403809,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 10.055584907531738,
+        "TSNE-2": -6.999414443969727,
+        "cluster": 5,
+        "keywords": "mention, term, refers, angle, upper"
+      },
+      {
+        "TSNE-1": 1.3291832208633423,
+        "TSNE-2": -5.963079929351807,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 5.280338287353516,
+        "TSNE-2": 5.217598915100098,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": 2.295435905456543,
+        "TSNE-2": 6.985437393188477,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": 8.779029846191406,
+        "TSNE-2": -1.8556770086288452,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 4.906256198883057,
+        "TSNE-2": -2.523449659347534,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 2.525421380996704,
+        "TSNE-2": 1.7474404573440552,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -2.631024122238159,
+        "TSNE-2": 3.412337303161621,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": -10.077726364135742,
+        "TSNE-2": -2.5749285221099854,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": -1.9413692951202393,
+        "TSNE-2": -0.17208196222782135,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": -8.460770606994629,
+        "TSNE-2": 0.7060578465461731,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 2.717498302459717,
+        "TSNE-2": -3.930819272994995,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 7.845123291015625,
+        "TSNE-2": 1.430320143699646,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 2.0492851734161377,
+        "TSNE-2": -2.399702310562134,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -1.3759833574295044,
+        "TSNE-2": -11.349677085876465,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 5.617686748504639,
+        "TSNE-2": -5.166831970214844,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -5.84421968460083,
+        "TSNE-2": -4.402146816253662,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -0.3987354338169098,
+        "TSNE-2": -6.4929399490356445,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 0.7216307520866394,
+        "TSNE-2": 2.5751233100891113,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": -0.734516978263855,
+        "TSNE-2": -4.069733619689941,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 5.617686748504639,
+        "TSNE-2": -5.166831970214844,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 6.825352668762207,
+        "TSNE-2": -1.9670579433441162,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": -6.7491135597229,
+        "TSNE-2": -10.534303665161133,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -9.676397323608398,
+        "TSNE-2": 2.460012912750244,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": -14.251816749572754,
+        "TSNE-2": 4.2356462478637695,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 2.295435905456543,
+        "TSNE-2": 6.985437393188477,
+        "cluster": 1,
+        "keywords": "young, beauty, lateral, degree, medial"
+      },
+      {
+        "TSNE-1": -15.144113540649414,
+        "TSNE-2": 1.7272745370864868,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": -5.183846950531006,
+        "TSNE-2": -2.685258626937866,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 10.546773910522461,
+        "TSNE-2": -8.825387001037598,
+        "cluster": 5,
+        "keywords": "mention, term, refers, angle, upper"
+      },
+      {
+        "TSNE-1": -14.673320770263672,
+        "TSNE-2": 2.974903106689453,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 6.047079563140869,
+        "TSNE-2": 7.985450744628906,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      },
+      {
+        "TSNE-1": -0.7329956293106079,
+        "TSNE-2": -1.3081893920898438,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": 1.644162893295288,
+        "TSNE-2": -8.781296730041504,
+        "cluster": 0,
+        "keywords": "canthal, positive, tilt, canthus, people"
+      },
+      {
+        "TSNE-1": -8.513688087463379,
+        "TSNE-2": 4.380707740783691,
+        "cluster": 4,
+        "keywords": "head, skin, dog, elasticity, genetic"
+      },
+      {
+        "TSNE-1": 2.1252007484436035,
+        "TSNE-2": 0.13469581305980682,
+        "cluster": 3,
+        "keywords": "often, higher, woman, youthful, ethnic"
+      },
+      {
+        "TSNE-1": 8.878463745117188,
+        "TSNE-2": 3.886422634124756,
+        "cluster": 2,
+        "keywords": "text, state, attractive, sign, fashion"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_105",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-217812 - why do some people have positive cantal tilt"
+  }
+}

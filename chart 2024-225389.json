@@ -1,0 +1,612 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-bff80b733adb3a019bfe7fe054dd5a80"
+  },
+  "datasets": {
+    "data-bff80b733adb3a019bfe7fe054dd5a80": [
+      {
+        "TSNE-1": -2.621750593185425,
+        "TSNE-2": 3.679792881011963,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -4.010861396789551,
+        "TSNE-2": 5.281505107879639,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": -1.5390421152114868,
+        "TSNE-2": -2.307955503463745,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -3.1736578941345215,
+        "TSNE-2": 14.560174942016602,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": -1.5390421152114868,
+        "TSNE-2": -2.307955503463745,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -2.327754020690918,
+        "TSNE-2": -1.1393095254898071,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": 0.7160195708274841,
+        "TSNE-2": 4.425146579742432,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -8.254354476928711,
+        "TSNE-2": -1.7658196687698364,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": 11.760920524597168,
+        "TSNE-2": -0.024656549096107483,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 1.953620433807373,
+        "TSNE-2": 1.377953290939331,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": 5.733826637268066,
+        "TSNE-2": 2.2126691341400146,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": -3.0055136680603027,
+        "TSNE-2": 7.621405124664307,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": 2.3451452255249023,
+        "TSNE-2": 9.629587173461914,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": -5.910586357116699,
+        "TSNE-2": -8.38347053527832,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": 0.14546923339366913,
+        "TSNE-2": 2.138854742050171,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -10.512574195861816,
+        "TSNE-2": 4.916400909423828,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": 0.7160195708274841,
+        "TSNE-2": 4.425146579742432,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": 3.8346331119537354,
+        "TSNE-2": -0.6722899675369263,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": 8.430183410644531,
+        "TSNE-2": -5.667088508605957,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": -0.19616174697875977,
+        "TSNE-2": -8.989557266235352,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": -3.42262601852417,
+        "TSNE-2": 0.927359938621521,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -0.6277269124984741,
+        "TSNE-2": -10.893570899963379,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": -4.9834208488464355,
+        "TSNE-2": 2.0265119075775146,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": 2.0655832290649414,
+        "TSNE-2": 2.6963064670562744,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -2.2290027141571045,
+        "TSNE-2": 1.6286307573318481,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -3.812239408493042,
+        "TSNE-2": 14.399907112121582,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": -2.875258445739746,
+        "TSNE-2": -1.2590911388397217,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": 10.400495529174805,
+        "TSNE-2": 4.468232154846191,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": 5.605498790740967,
+        "TSNE-2": 8.370388984680176,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": 1.4442226886749268,
+        "TSNE-2": -7.051890850067139,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": 8.959539413452148,
+        "TSNE-2": -7.397428512573242,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": -1.7466096878051758,
+        "TSNE-2": 7.04546594619751,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": -7.156439304351807,
+        "TSNE-2": 4.232419013977051,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": 8.380617141723633,
+        "TSNE-2": 8.251031875610352,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": -6.122992992401123,
+        "TSNE-2": 9.18401050567627,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": 4.424139022827148,
+        "TSNE-2": 4.291333198547363,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": -5.150196075439453,
+        "TSNE-2": -1.308721661567688,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -5.303829193115234,
+        "TSNE-2": 9.740678787231445,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": -1.2273262739181519,
+        "TSNE-2": 2.827803611755371,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -1.2613928318023682,
+        "TSNE-2": 5.120517253875732,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -0.86445552110672,
+        "TSNE-2": 0.029295461252331734,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -3.7794601917266846,
+        "TSNE-2": 7.149281024932861,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": -1.0353013277053833,
+        "TSNE-2": -4.408541679382324,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": 3.494032859802246,
+        "TSNE-2": 3.504807710647583,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": 7.787990093231201,
+        "TSNE-2": 0.10583092272281647,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 10.376387596130371,
+        "TSNE-2": -7.092689514160156,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 5.418704509735107,
+        "TSNE-2": -3.111522674560547,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 1.953620433807373,
+        "TSNE-2": 1.377953290939331,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -4.203585624694824,
+        "TSNE-2": -4.64719820022583,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": 4.060060024261475,
+        "TSNE-2": -8.68389892578125,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": -5.958499908447266,
+        "TSNE-2": -9.543556213378906,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": -3.21809458732605,
+        "TSNE-2": 6.3200273513793945,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": 4.317320823669434,
+        "TSNE-2": 1.9670370817184448,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -7.315028667449951,
+        "TSNE-2": 1.8920671939849854,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -0.5091306567192078,
+        "TSNE-2": -11.202500343322754,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": 0.3237999975681305,
+        "TSNE-2": 0.6212671995162964,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -6.6260223388671875,
+        "TSNE-2": -8.644980430603027,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": -5.211319923400879,
+        "TSNE-2": -0.6404998898506165,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -0.12678727507591248,
+        "TSNE-2": -12.32860279083252,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": -6.625287055969238,
+        "TSNE-2": -4.224433898925781,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": 3.9381654262542725,
+        "TSNE-2": -7.703003883361816,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 4.439080238342285,
+        "TSNE-2": -5.358188152313232,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 10.344673156738281,
+        "TSNE-2": -5.863901138305664,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 2.5833821296691895,
+        "TSNE-2": 4.632532119750977,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": 5.138160705566406,
+        "TSNE-2": 6.094265937805176,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": 2.4046103954315186,
+        "TSNE-2": 6.653958320617676,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": 0.8802509307861328,
+        "TSNE-2": 7.5537428855896,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": -4.5098371505737305,
+        "TSNE-2": 3.5655832290649414,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -1.911586880683899,
+        "TSNE-2": 13.834507942199707,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": 1.725412130355835,
+        "TSNE-2": -0.1646789312362671,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -10.512574195861816,
+        "TSNE-2": 4.916400909423828,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": 1.2611443996429443,
+        "TSNE-2": -4.28703498840332,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": -0.07311880588531494,
+        "TSNE-2": -1.6933220624923706,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -1.1380096673965454,
+        "TSNE-2": 9.12391185760498,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": 1.5336031913757324,
+        "TSNE-2": -2.1656301021575928,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -3.451975107192993,
+        "TSNE-2": -3.2822656631469727,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": 1.2611443996429443,
+        "TSNE-2": -4.28703498840332,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": 3.9853901863098145,
+        "TSNE-2": -6.8158955574035645,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 11.495882987976074,
+        "TSNE-2": -0.29581278562545776,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": 1.4718742370605469,
+        "TSNE-2": 9.514309883117676,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": 7.505254745483398,
+        "TSNE-2": 0.0924234539270401,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": -6.625287055969238,
+        "TSNE-2": -4.224433898925781,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": 0.019141918048262596,
+        "TSNE-2": 6.403820991516113,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": -1.2273262739181519,
+        "TSNE-2": 2.827803611755371,
+        "cluster": 5,
+        "keywords": "specialized, training, due, refer, often"
+      },
+      {
+        "TSNE-1": 10.24138069152832,
+        "TSNE-2": 4.405166149139404,
+        "cluster": 3,
+        "keywords": "treatment, psychiatric, condition, specific, reason"
+      },
+      {
+        "TSNE-1": -10.987632751464844,
+        "TSNE-2": -0.4118044972419739,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -3.214294195175171,
+        "TSNE-2": -8.153212547302246,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": -7.198777198791504,
+        "TSNE-2": 2.547818899154663,
+        "cluster": 1,
+        "keywords": "medication, care, prescribe, patient, primary"
+      },
+      {
+        "TSNE-1": -1.1801224946975708,
+        "TSNE-2": -6.0248332023620605,
+        "cluster": 4,
+        "keywords": "psychiatrist, psychologist, script, prevention, help"
+      },
+      {
+        "TSNE-1": -5.65052604675293,
+        "TSNE-2": 6.841452598571777,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      },
+      {
+        "TSNE-1": 8.959539413452148,
+        "TSNE-2": -7.397428512573242,
+        "cluster": 2,
+        "keywords": "may, doctor, illness, disease, family"
+      },
+      {
+        "TSNE-1": -2.824146032333374,
+        "TSNE-2": 13.059468269348145,
+        "cluster": 0,
+        "keywords": "mental, health, prescription, write, medical"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_171",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-225389 - why won't doctors write script for mental illness"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d6b17e6b80aae1180bd3796ccfa26ace"
+  },
+  "datasets": {
+    "data-d6b17e6b80aae1180bd3796ccfa26ace": [
+      {
+        "TSNE-1": 33.72007751464844,
+        "TSNE-2": 13.349896430969238,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 14.87021541595459,
+        "TSNE-2": -23.461463928222656,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": 13.23263931274414,
+        "TSNE-2": -3.9671823978424072,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": -24.744264602661133,
+        "TSNE-2": 1.56191885471344,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 13.23263931274414,
+        "TSNE-2": -3.9671823978424072,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": -5.902764320373535,
+        "TSNE-2": -36.27439498901367,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": 22.483264923095703,
+        "TSNE-2": -3.7443366050720215,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 3.8493492603302,
+        "TSNE-2": 12.119634628295898,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 31.556116104125977,
+        "TSNE-2": -10.152935981750488,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 7.596414566040039,
+        "TSNE-2": -28.845684051513672,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -15.481216430664062,
+        "TSNE-2": -10.911377906799316,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": -2.1748859882354736,
+        "TSNE-2": 24.102415084838867,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -5.584021091461182,
+        "TSNE-2": 14.050874710083008,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -16.79043197631836,
+        "TSNE-2": -21.864294052124023,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": -5.043583869934082,
+        "TSNE-2": -9.306756973266602,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -0.9974640011787415,
+        "TSNE-2": -20.290332794189453,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": 25.378215789794922,
+        "TSNE-2": 10.723647117614746,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 3.8493492603302,
+        "TSNE-2": 12.119634628295898,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -11.166725158691406,
+        "TSNE-2": -24.470582962036133,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": 22.42205238342285,
+        "TSNE-2": -19.71748161315918,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": -5.775355815887451,
+        "TSNE-2": -1.1117234230041504,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 273.3992919921875,
+        "TSNE-2": -103.61392211914062,
+        "cluster": 2,
+        "keywords": "zone, last, fall, faint, fahrenheit"
+      },
+      {
+        "TSNE-1": -9.220841407775879,
+        "TSNE-2": -1.525496482849121,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": -11.88846206665039,
+        "TSNE-2": -17.539674758911133,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": 19.513134002685547,
+        "TSNE-2": 6.969832897186279,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": -9.245445251464844,
+        "TSNE-2": 18.419780731201172,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -21.304527282714844,
+        "TSNE-2": 1.657529354095459,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 17.784774780273438,
+        "TSNE-2": -4.496325492858887,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 3.4591407775878906,
+        "TSNE-2": -24.95392417907715,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -17.298629760742188,
+        "TSNE-2": -29.499801635742188,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": 32.991764068603516,
+        "TSNE-2": -4.484655380249023,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 2.9157352447509766,
+        "TSNE-2": -10.734110832214355,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -2.365431070327759,
+        "TSNE-2": 11.174138069152832,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -5.961407661437988,
+        "TSNE-2": -23.636016845703125,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": 26.045063018798828,
+        "TSNE-2": -0.35830157995224,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 15.85497760772705,
+        "TSNE-2": -15.156058311462402,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -1.5371822118759155,
+        "TSNE-2": 31.806610107421875,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 11.531494140625,
+        "TSNE-2": -8.527709007263184,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -0.7839852571487427,
+        "TSNE-2": 16.259931564331055,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -1.1561263799667358,
+        "TSNE-2": 4.556018352508545,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -17.12750244140625,
+        "TSNE-2": 17.190811157226562,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 14.222031593322754,
+        "TSNE-2": 20.49461555480957,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -6.114838600158691,
+        "TSNE-2": 10.764906883239746,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 13.818439483642578,
+        "TSNE-2": 7.773781776428223,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 4.952911376953125,
+        "TSNE-2": -3.517782211303711,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": 7.798182964324951,
+        "TSNE-2": 27.538179397583008,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -19.41321563720703,
+        "TSNE-2": -16.06173324584961,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": -10.9237642288208,
+        "TSNE-2": -6.264891147613525,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": -15.481216430664062,
+        "TSNE-2": -10.911377906799316,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 2.138561964035034,
+        "TSNE-2": -1.3898775577545166,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": 18.514047622680664,
+        "TSNE-2": 1.2971773147583008,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 12.389457702636719,
+        "TSNE-2": 1.4054522514343262,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": -5.410122394561768,
+        "TSNE-2": 6.989692211151123,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 7.798182964324951,
+        "TSNE-2": 27.538179397583008,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -6.702022552490234,
+        "TSNE-2": -18.896530151367188,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": -18.96332359313965,
+        "TSNE-2": 7.469805717468262,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 32.80243682861328,
+        "TSNE-2": 3.9929921627044678,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 6.9486846923828125,
+        "TSNE-2": -21.714624404907227,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -1.7865519523620605,
+        "TSNE-2": -4.505794525146484,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -1.1064804792404175,
+        "TSNE-2": -27.93765640258789,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": 19.63553237915039,
+        "TSNE-2": -9.123285293579102,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 8.395479202270508,
+        "TSNE-2": 4.030865669250488,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 5.802227020263672,
+        "TSNE-2": 0.975581705570221,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 2.9157352447509766,
+        "TSNE-2": -10.734110832214355,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -13.500401496887207,
+        "TSNE-2": 10.405730247497559,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 7.408009052276611,
+        "TSNE-2": 9.020196914672852,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -12.500531196594238,
+        "TSNE-2": 6.886141777038574,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 3.0072667598724365,
+        "TSNE-2": 6.209096431732178,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 15.74351978302002,
+        "TSNE-2": 14.964536666870117,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -25.999582290649414,
+        "TSNE-2": 6.102457046508789,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 12.026598930358887,
+        "TSNE-2": 17.380348205566406,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 25.378215789794922,
+        "TSNE-2": 10.723647117614746,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": -28.073162078857422,
+        "TSNE-2": -11.245463371276855,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 21.91423988342285,
+        "TSNE-2": 18.529247283935547,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -13.472707748413086,
+        "TSNE-2": 3.8849036693573,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": -25.10753059387207,
+        "TSNE-2": -21.627197265625,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": 10.120121955871582,
+        "TSNE-2": -14.612849235534668,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -28.073162078857422,
+        "TSNE-2": -11.245463371276855,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": -19.627357482910156,
+        "TSNE-2": -5.145186424255371,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": -12.67324447631836,
+        "TSNE-2": -2.8926711082458496,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      },
+      {
+        "TSNE-1": 2.6101489067077637,
+        "TSNE-2": -17.711450576782227,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -2.1748859882354736,
+        "TSNE-2": 24.102415084838867,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 19.63553237915039,
+        "TSNE-2": -9.123285293579102,
+        "cluster": 0,
+        "keywords": "climate, dry, zabriskie, along, lake"
+      },
+      {
+        "TSNE-1": 11.547128677368164,
+        "TSNE-2": 10.916587829589844,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -1.1561263799667358,
+        "TSNE-2": 4.556018352508545,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -8.299341201782227,
+        "TSNE-2": -11.025553703308105,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": 8.708934783935547,
+        "TSNE-2": 21.756351470947266,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": -7.899288654327393,
+        "TSNE-2": -34.58614730834961,
+        "cluster": 1,
+        "keywords": "nan, temperature, change, information, precipitation"
+      },
+      {
+        "TSNE-1": -3.9782536029815674,
+        "TSNE-2": -15.381765365600586,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": 3.0597586631774902,
+        "TSNE-2": 22.893020629882812,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 4.396172046661377,
+        "TSNE-2": 17.292322158813477,
+        "cluster": 3,
+        "keywords": "million, furnace, creek, year, death"
+      },
+      {
+        "TSNE-1": 2.9157352447509766,
+        "TSNE-2": -10.734110832214355,
+        "cluster": 5,
+        "keywords": "point, provide, location, hot, describes"
+      },
+      {
+        "TSNE-1": -22.951662063598633,
+        "TSNE-2": 5.333385467529297,
+        "cluster": 4,
+        "keywords": "possible, mention, answer, question, context"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_69",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-44059 - how has zabriskie point's climate changed?"
+  }
+}

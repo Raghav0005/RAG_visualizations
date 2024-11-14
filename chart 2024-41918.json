@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-e3c1f806ba1a6b063afd975e656d5f6c"
+  },
+  "datasets": {
+    "data-e3c1f806ba1a6b063afd975e656d5f6c": [
+      {
+        "TSNE-1": -8.195255279541016,
+        "TSNE-2": 5.825966835021973,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -2.254051446914673,
+        "TSNE-2": -3.1212239265441895,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": 11.702552795410156,
+        "TSNE-2": 8.051328659057617,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 7.275408744812012,
+        "TSNE-2": -7.174900054931641,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": 11.702552795410156,
+        "TSNE-2": 8.051328659057617,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -3.207760810852051,
+        "TSNE-2": -11.720633506774902,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": 6.883014678955078,
+        "TSNE-2": 8.220598220825195,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -6.952868938446045,
+        "TSNE-2": 3.943312883377075,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -7.427921772003174,
+        "TSNE-2": -8.880891799926758,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": 7.677079200744629,
+        "TSNE-2": 2.700308084487915,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 13.160863876342773,
+        "TSNE-2": -6.657035827636719,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": -18.394018173217773,
+        "TSNE-2": -1.1432462930679321,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -3.010807752609253,
+        "TSNE-2": 1.5464749336242676,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -11.344182968139648,
+        "TSNE-2": 6.402449131011963,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 10.223482131958008,
+        "TSNE-2": 3.417266607284546,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -4.955546855926514,
+        "TSNE-2": 6.144086837768555,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -11.1091890335083,
+        "TSNE-2": -2.5763819217681885,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": -6.952868938446045,
+        "TSNE-2": 3.943312883377075,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -8.652603149414062,
+        "TSNE-2": 0.21535778045654297,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 3.367488384246826,
+        "TSNE-2": -16.014785766601562,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": 6.188467979431152,
+        "TSNE-2": -7.634078025817871,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": -0.2995920777320862,
+        "TSNE-2": 1.947098731994629,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": 5.135856628417969,
+        "TSNE-2": -0.3617466688156128,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -10.02226734161377,
+        "TSNE-2": -11.302970886230469,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": 2.603372812271118,
+        "TSNE-2": 9.283516883850098,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -4.458423137664795,
+        "TSNE-2": 0.42622196674346924,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": 6.394262790679932,
+        "TSNE-2": -5.844028472900391,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": 5.7925286293029785,
+        "TSNE-2": 6.735845565795898,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 11.001761436462402,
+        "TSNE-2": 1.8828140497207642,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -13.47335433959961,
+        "TSNE-2": -0.08998972177505493,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -7.012423038482666,
+        "TSNE-2": -8.139948844909668,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": 1.9383524656295776,
+        "TSNE-2": -13.99283504486084,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": -3.840391159057617,
+        "TSNE-2": 2.6706156730651855,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -8.366972923278809,
+        "TSNE-2": 1.3423516750335693,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 1.3655157089233398,
+        "TSNE-2": -0.1079188883304596,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -3.074761152267456,
+        "TSNE-2": -7.406674385070801,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": -7.41075325012207,
+        "TSNE-2": -1.8916698694229126,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": 9.261115074157715,
+        "TSNE-2": -6.569818019866943,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": -11.190810203552246,
+        "TSNE-2": -6.176204204559326,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": -2.009230852127075,
+        "TSNE-2": -0.8568524122238159,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -0.6281916499137878,
+        "TSNE-2": -8.510496139526367,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": 3.6716601848602295,
+        "TSNE-2": 5.55907678604126,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -2.3115453720092773,
+        "TSNE-2": 2.484473466873169,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -7.496402263641357,
+        "TSNE-2": -4.656597137451172,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": -0.7168360948562622,
+        "TSNE-2": -6.066705226898193,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": 2.4675540924072266,
+        "TSNE-2": -7.6964111328125,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": -0.14578190445899963,
+        "TSNE-2": -15.447623252868652,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": 8.470172882080078,
+        "TSNE-2": 0.5111662149429321,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 13.160863876342773,
+        "TSNE-2": -6.657035827636719,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": -5.498785018920898,
+        "TSNE-2": -3.559464931488037,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": 6.864328384399414,
+        "TSNE-2": 5.828372955322266,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 6.38039493560791,
+        "TSNE-2": 3.1722564697265625,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -3.7122340202331543,
+        "TSNE-2": 4.218766689300537,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": 2.4675540924072266,
+        "TSNE-2": -7.6964111328125,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": -5.147127628326416,
+        "TSNE-2": -1.469030737876892,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": 2.45831561088562,
+        "TSNE-2": -1.4027411937713623,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -2.326408624649048,
+        "TSNE-2": 5.662475109100342,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": 3.097353458404541,
+        "TSNE-2": 2.7115519046783447,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -0.508796751499176,
+        "TSNE-2": 3.8592278957366943,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": 2.0302634239196777,
+        "TSNE-2": -2.8149776458740234,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -11.9408540725708,
+        "TSNE-2": 10.335334777832031,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 9.13990306854248,
+        "TSNE-2": -3.70793080329895,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": 8.900413513183594,
+        "TSNE-2": 6.189745903015137,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 1.9383524656295776,
+        "TSNE-2": -13.99283504486084,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": -4.420597553253174,
+        "TSNE-2": -4.074038982391357,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": 14.254240036010742,
+        "TSNE-2": -1.6874921321868896,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": -1.3634413480758667,
+        "TSNE-2": 8.279574394226074,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -7.90222692489624,
+        "TSNE-2": 7.883793830871582,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 2.6615428924560547,
+        "TSNE-2": 5.872790813446045,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 3.9707298278808594,
+        "TSNE-2": -3.116313934326172,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": 4.235250473022461,
+        "TSNE-2": 8.195022583007812,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -11.1091890335083,
+        "TSNE-2": -2.5763819217681885,
+        "cluster": 5,
+        "keywords": "property, us, weapon, application, technological"
+      },
+      {
+        "TSNE-1": 5.176288604736328,
+        "TSNE-2": 1.6337417364120483,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 4.921672821044922,
+        "TSNE-2": 11.696595191955566,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -10.834970474243164,
+        "TSNE-2": 2.381085157394409,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 6.605278015136719,
+        "TSNE-2": -2.7471566200256348,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": -5.165822982788086,
+        "TSNE-2": 14.02839183807373,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 5.176288604736328,
+        "TSNE-2": 1.6337417364120483,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": 10.289850234985352,
+        "TSNE-2": -3.0838699340820312,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": 8.12631893157959,
+        "TSNE-2": 4.2667460441589355,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -5.4581098556518555,
+        "TSNE-2": 9.71496295928955,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -18.394018173217773,
+        "TSNE-2": -1.1432462930679321,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -11.9408540725708,
+        "TSNE-2": 10.335334777832031,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 0.4991127848625183,
+        "TSNE-2": 6.330574989318848,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": -2.009230852127075,
+        "TSNE-2": -0.8568524122238159,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": 9.349889755249023,
+        "TSNE-2": -0.1115613579750061,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": 15.217615127563477,
+        "TSNE-2": -7.5135393142700195,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      },
+      {
+        "TSNE-1": -15.266641616821289,
+        "TSNE-2": 3.63808536529541,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": -4.777060031890869,
+        "TSNE-2": 7.770535469055176,
+        "cluster": 1,
+        "keywords": "heat, source, energy, radioactive, generator"
+      },
+      {
+        "TSNE-1": 14.7268648147583,
+        "TSNE-2": 2.2845406532287598,
+        "cluster": 4,
+        "keywords": "people, pacemaker, artificial, heart, electrical"
+      },
+      {
+        "TSNE-1": -5.963357925415039,
+        "TSNE-2": 1.55461847782135,
+        "cluster": 0,
+        "keywords": "nuclear, power, plutonium, space, medical"
+      },
+      {
+        "TSNE-1": 1.9383524656295776,
+        "TSNE-2": -13.99283504486084,
+        "cluster": 3,
+        "keywords": "atomic, glenn, number, various, element"
+      },
+      {
+        "TSNE-1": 6.741344451904297,
+        "TSNE-2": -9.000439643859863,
+        "cluster": 2,
+        "keywords": "radioisotope, unit, heater, thermoelectric, probe"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_38",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-41918 - how does plutonium help us improve technology?"
+  }
+}

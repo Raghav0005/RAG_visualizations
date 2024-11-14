@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-c16fce0ef73c1a4f46a00dd5463e4b23"
+  },
+  "datasets": {
+    "data-c16fce0ef73c1a4f46a00dd5463e4b23": [
+      {
+        "TSNE-1": 1.6044018268585205,
+        "TSNE-2": -11.682321548461914,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -15.31567668914795,
+        "TSNE-2": 4.023967742919922,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": -15.377708435058594,
+        "TSNE-2": 8.427343368530273,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": 2.2105135917663574,
+        "TSNE-2": 0.15215268731117249,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -15.377708435058594,
+        "TSNE-2": 8.427343368530273,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": 4.993288516998291,
+        "TSNE-2": -11.504732131958008,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -11.335716247558594,
+        "TSNE-2": 3.6415297985076904,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": -2.516512870788574,
+        "TSNE-2": 1.861227035522461,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": 9.755319595336914,
+        "TSNE-2": 6.5151262283325195,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -0.8468351364135742,
+        "TSNE-2": 15.611274719238281,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 5.313302040100098,
+        "TSNE-2": 5.52534818649292,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -0.7254880666732788,
+        "TSNE-2": -3.6939501762390137,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -2.7173101902008057,
+        "TSNE-2": 4.16444730758667,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -0.3966562747955322,
+        "TSNE-2": -17.23118782043457,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -4.113544464111328,
+        "TSNE-2": -15.64393424987793,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": 9.665562629699707,
+        "TSNE-2": 2.8905014991760254,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": 19.049480438232422,
+        "TSNE-2": -0.7324422597885132,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -2.516512870788574,
+        "TSNE-2": 1.861227035522461,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": 6.701744079589844,
+        "TSNE-2": 2.5730276107788086,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -7.894262790679932,
+        "TSNE-2": 8.984551429748535,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": -5.798305988311768,
+        "TSNE-2": -7.209333419799805,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -15.206119537353516,
+        "TSNE-2": -3.752425193786621,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -5.25648307800293,
+        "TSNE-2": 0.06099383533000946,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": 1.0621074438095093,
+        "TSNE-2": -17.41838836669922,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": 10.350117683410645,
+        "TSNE-2": -8.018397331237793,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -3.3116652965545654,
+        "TSNE-2": 7.535606384277344,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 0.6162859797477722,
+        "TSNE-2": -0.629930317401886,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -10.352652549743652,
+        "TSNE-2": 2.312574625015259,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": 8.780414581298828,
+        "TSNE-2": -1.8180521726608276,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -8.30431079864502,
+        "TSNE-2": 14.586417198181152,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": 8.669782638549805,
+        "TSNE-2": 6.01369047164917,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -10.384033203125,
+        "TSNE-2": -11.027311325073242,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": 3.580780267715454,
+        "TSNE-2": 2.5227248668670654,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": 5.015966415405273,
+        "TSNE-2": 9.106075286865234,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 6.260350704193115,
+        "TSNE-2": -6.366076469421387,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": 8.448427200317383,
+        "TSNE-2": 12.532999038696289,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 2.088435411453247,
+        "TSNE-2": -4.156628131866455,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -18.685054779052734,
+        "TSNE-2": 2.599106550216675,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": -12.059616088867188,
+        "TSNE-2": -5.351765155792236,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -0.2860848307609558,
+        "TSNE-2": 6.828973293304443,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 2.655437707901001,
+        "TSNE-2": 9.567938804626465,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 1.8868597745895386,
+        "TSNE-2": 13.737772941589355,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 0.4244186282157898,
+        "TSNE-2": 4.080923557281494,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -1.3912960290908813,
+        "TSNE-2": -5.98162841796875,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": 13.456575393676758,
+        "TSNE-2": 1.5776793956756592,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -0.5558634996414185,
+        "TSNE-2": -8.366673469543457,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -12.514280319213867,
+        "TSNE-2": -9.5233793258667,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": 12.229365348815918,
+        "TSNE-2": -2.8726389408111572,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": 5.313302040100098,
+        "TSNE-2": 5.52534818649292,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": 2.499988317489624,
+        "TSNE-2": -7.032230377197266,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -3.7823030948638916,
+        "TSNE-2": -2.6796810626983643,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": 4.020227909088135,
+        "TSNE-2": -1.9219694137573242,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -1.1002893447875977,
+        "TSNE-2": 4.261669635772705,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -0.5558634996414185,
+        "TSNE-2": -8.366673469543457,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": 11.798392295837402,
+        "TSNE-2": 10.006401062011719,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -0.961156964302063,
+        "TSNE-2": -0.8239724636077881,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -4.901934623718262,
+        "TSNE-2": 5.0017313957214355,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": 5.825040340423584,
+        "TSNE-2": -1.0165456533432007,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -0.9556534290313721,
+        "TSNE-2": -11.068943977355957,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -7.92622184753418,
+        "TSNE-2": -0.6422175765037537,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -6.398715972900391,
+        "TSNE-2": -2.7300121784210205,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -7.806596279144287,
+        "TSNE-2": -5.7079620361328125,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -9.605433464050293,
+        "TSNE-2": -2.185471773147583,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": 6.862931728363037,
+        "TSNE-2": 8.38332462310791,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 3.0126307010650635,
+        "TSNE-2": -5.6220879554748535,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": 6.076975345611572,
+        "TSNE-2": -3.411109447479248,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": 3.6203012466430664,
+        "TSNE-2": -9.481618881225586,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -13.416239738464355,
+        "TSNE-2": -0.23658882081508636,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -0.13727429509162903,
+        "TSNE-2": 10.58189582824707,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": -6.769365310668945,
+        "TSNE-2": 1.6902447938919067,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -2.0092785358428955,
+        "TSNE-2": 11.035563468933105,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 18.807676315307617,
+        "TSNE-2": 0.2667429745197296,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -11.603904724121094,
+        "TSNE-2": 11.139721870422363,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": 2.1996939182281494,
+        "TSNE-2": 3.9588701725006104,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -3.2554991245269775,
+        "TSNE-2": -10.715215682983398,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": 14.487075805664062,
+        "TSNE-2": -7.020323753356934,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -4.7150163650512695,
+        "TSNE-2": 11.702637672424316,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": -11.603904724121094,
+        "TSNE-2": 11.139721870422363,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": -9.831402778625488,
+        "TSNE-2": -3.656259536743164,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": 11.193833351135254,
+        "TSNE-2": -3.4741430282592773,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": 3.9213521480560303,
+        "TSNE-2": -17.21184539794922,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": -0.7254880666732788,
+        "TSNE-2": -3.6939501762390137,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -6.398715972900391,
+        "TSNE-2": -2.7300121784210205,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": 2.4849283695220947,
+        "TSNE-2": 7.045148849487305,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": -0.2860848307609558,
+        "TSNE-2": 6.828973293304443,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 13.25110149383545,
+        "TSNE-2": -5.340276718139648,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": 6.195999622344971,
+        "TSNE-2": -11.985397338867188,
+        "cluster": 0,
+        "keywords": "confidence, interval, business, estimate, range"
+      },
+      {
+        "TSNE-1": 4.068933010101318,
+        "TSNE-2": 17.928194046020508,
+        "cluster": 1,
+        "keywords": "help, sale, within, risk, market"
+      },
+      {
+        "TSNE-1": 12.580499649047852,
+        "TSNE-2": 6.525665760040283,
+        "cluster": 5,
+        "keywords": "particular, result, change, act, whether"
+      },
+      {
+        "TSNE-1": -7.816607475280762,
+        "TSNE-2": 5.535351753234863,
+        "cluster": 2,
+        "keywords": "population, sample, value, level, reliability"
+      },
+      {
+        "TSNE-1": 0.09062810242176056,
+        "TSNE-2": 2.175995111465454,
+        "cluster": 4,
+        "keywords": "budget, future, actual, company, likely"
+      },
+      {
+        "TSNE-1": -10.384033203125,
+        "TSNE-2": -11.027311325073242,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      },
+      {
+        "TSNE-1": -4.434711933135986,
+        "TSNE-2": -4.605663299560547,
+        "cluster": 3,
+        "keywords": "possible, manage, affect, evaluate, financial"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_114",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-79113 - how the confidence interval affects business"
+  }
+}

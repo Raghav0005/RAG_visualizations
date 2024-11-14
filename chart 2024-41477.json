@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-ccc7c9d903f5193f6b1325f186ca5388"
+  },
+  "datasets": {
+    "data-ccc7c9d903f5193f6b1325f186ca5388": [
+      {
+        "TSNE-1": 6.842576503753662,
+        "TSNE-2": 0.7421174645423889,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 8.934225082397461,
+        "TSNE-2": 8.855185508728027,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": -4.6075334548950195,
+        "TSNE-2": 1.1470589637756348,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": -13.171344757080078,
+        "TSNE-2": -2.2783563137054443,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": -4.6075334548950195,
+        "TSNE-2": 1.1470589637756348,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": 4.829620361328125,
+        "TSNE-2": -10.544528007507324,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": -5.296697616577148,
+        "TSNE-2": 3.926957845687866,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": 6.973028659820557,
+        "TSNE-2": 2.5988306999206543,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": -4.044462203979492,
+        "TSNE-2": 11.92901611328125,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": -7.891155242919922,
+        "TSNE-2": -8.273303985595703,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": -3.3682849407196045,
+        "TSNE-2": -2.9835309982299805,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 3.161961317062378,
+        "TSNE-2": -6.847136974334717,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": 9.029903411865234,
+        "TSNE-2": 3.364168882369995,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 13.176755905151367,
+        "TSNE-2": -2.9715898036956787,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": -9.23214340209961,
+        "TSNE-2": -4.436212539672852,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 6.141634941101074,
+        "TSNE-2": -3.562182903289795,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -10.962718963623047,
+        "TSNE-2": 6.715407371520996,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": 7.341825008392334,
+        "TSNE-2": 2.9123361110687256,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 12.169184684753418,
+        "TSNE-2": 4.459934711456299,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 4.294790267944336,
+        "TSNE-2": -8.500725746154785,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -12.826478958129883,
+        "TSNE-2": -0.1010875403881073,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 2.9336860179901123,
+        "TSNE-2": 1.1460623741149902,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -8.858835220336914,
+        "TSNE-2": -7.133829116821289,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 7.835028171539307,
+        "TSNE-2": -2.287609815597534,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": 1.0953435897827148,
+        "TSNE-2": 8.069859504699707,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": 6.49313497543335,
+        "TSNE-2": 4.863528728485107,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": -8.362974166870117,
+        "TSNE-2": -2.245548963546753,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": -5.438652515411377,
+        "TSNE-2": 9.603251457214355,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": -11.188081741333008,
+        "TSNE-2": -6.843804359436035,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": -6.849393367767334,
+        "TSNE-2": -13.213748931884766,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": -2.2736318111419678,
+        "TSNE-2": -10.466249465942383,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": 3.2685799598693848,
+        "TSNE-2": -13.284358024597168,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": 10.227636337280273,
+        "TSNE-2": 2.1463687419891357,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 2.214634418487549,
+        "TSNE-2": 4.161734104156494,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": -2.659385919570923,
+        "TSNE-2": 3.9901301860809326,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": 2.2664871215820312,
+        "TSNE-2": -1.1477770805358887,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": 4.1429667472839355,
+        "TSNE-2": 0.621058464050293,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -2.3919882774353027,
+        "TSNE-2": -11.438549995422363,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": -0.10437215119600296,
+        "TSNE-2": 2.634352922439575,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": 5.933901309967041,
+        "TSNE-2": 8.223045349121094,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": -0.9305064678192139,
+        "TSNE-2": -1.4046909809112549,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": 0.29389384388923645,
+        "TSNE-2": -4.439609527587891,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": 9.089506149291992,
+        "TSNE-2": 1.2948440313339233,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 13.56314754486084,
+        "TSNE-2": -1.7539539337158203,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 1.6388561725616455,
+        "TSNE-2": 0.17391245067119598,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -9.491225242614746,
+        "TSNE-2": -10.856938362121582,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 6.605550289154053,
+        "TSNE-2": -6.598819255828857,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -7.526115894317627,
+        "TSNE-2": -6.262927532196045,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": -3.3682849407196045,
+        "TSNE-2": -2.9835309982299805,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 2.559523820877075,
+        "TSNE-2": -2.953536033630371,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -4.88972806930542,
+        "TSNE-2": 6.677835464477539,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": -6.952808380126953,
+        "TSNE-2": -9.068541526794434,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 9.878334045410156,
+        "TSNE-2": -0.42156291007995605,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 2.84613037109375,
+        "TSNE-2": -5.91510009765625,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": 1.0858128070831299,
+        "TSNE-2": 3.572204828262329,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": -11.574172019958496,
+        "TSNE-2": -1.542917251586914,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 9.647214889526367,
+        "TSNE-2": 5.495498180389404,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": -12.428956985473633,
+        "TSNE-2": -4.819182395935059,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": -0.9575769305229187,
+        "TSNE-2": 8.20495891571045,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": -8.590799331665039,
+        "TSNE-2": -0.17155137658119202,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 4.269520282745361,
+        "TSNE-2": 13.159862518310547,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": -13.141989707946777,
+        "TSNE-2": 4.441623210906982,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": -4.259587287902832,
+        "TSNE-2": 6.054906845092773,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": 3.2685799598693848,
+        "TSNE-2": -13.284358024597168,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": 4.683985233306885,
+        "TSNE-2": -0.7340370416641235,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": 3.26708722114563,
+        "TSNE-2": 6.531105995178223,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": 3.8840243816375732,
+        "TSNE-2": -2.082505702972412,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": 4.740694046020508,
+        "TSNE-2": 4.521920204162598,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": 12.466190338134766,
+        "TSNE-2": 1.6216703653335571,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": -10.854199409484863,
+        "TSNE-2": 0.668674111366272,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 4.536509990692139,
+        "TSNE-2": 2.2953836917877197,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": -10.962718963623047,
+        "TSNE-2": 6.715407371520996,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": -0.8433966040611267,
+        "TSNE-2": 12.39791202545166,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": -8.375358581542969,
+        "TSNE-2": 11.59843635559082,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": 9.239452362060547,
+        "TSNE-2": -5.606685638427734,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -2.223567485809326,
+        "TSNE-2": -8.62650203704834,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": -9.456025123596191,
+        "TSNE-2": 11.728758811950684,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": -0.8433966040611267,
+        "TSNE-2": 12.39791202545166,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": -12.933481216430664,
+        "TSNE-2": -12.023378372192383,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": -10.240885734558105,
+        "TSNE-2": -2.643216609954834,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 7.04288911819458,
+        "TSNE-2": -1.4479153156280518,
+        "cluster": 1,
+        "keywords": "economic, region, discriminatory, like, sound"
+      },
+      {
+        "TSNE-1": -7.672844886779785,
+        "TSNE-2": -11.876694679260254,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": 4.269520282745361,
+        "TSNE-2": 13.159862518310547,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": 10.434466361999512,
+        "TSNE-2": -2.4743151664733887,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": 5.933901309967041,
+        "TSNE-2": 8.223045349121094,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": -10.868623733520508,
+        "TSNE-2": -4.2367682456970215,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": -13.910383224487305,
+        "TSNE-2": -7.1201910972595215,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      },
+      {
+        "TSNE-1": 2.9193029403686523,
+        "TSNE-2": -10.241301536560059,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": 11.793195724487305,
+        "TSNE-2": 7.4248785972595215,
+        "cluster": 2,
+        "keywords": "urban, development, construction, community, infrastructure"
+      },
+      {
+        "TSNE-1": -5.006552696228027,
+        "TSNE-2": 10.622143745422363,
+        "cluster": 0,
+        "keywords": "minority, area, highway, home, american"
+      },
+      {
+        "TSNE-1": 0.48039838671684265,
+        "TSNE-2": 6.198317527770996,
+        "cluster": 5,
+        "keywords": "racial, often, neighborhood, practice, resident"
+      },
+      {
+        "TSNE-1": 3.2685799598693848,
+        "TSNE-2": -13.284358024597168,
+        "cluster": 3,
+        "keywords": "nan, part, washington, interstate, makeup"
+      },
+      {
+        "TSNE-1": -10.235292434692383,
+        "TSNE-2": -1.1262768507003784,
+        "cluster": 4,
+        "keywords": "puget, mention, may, context, relation"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_17",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-41477 - how does i-5 relate to redlining in the puget sound"
+  }
+}

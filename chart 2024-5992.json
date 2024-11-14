@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-a9671e40b2529a31ded76350d435fd6b"
+  },
+  "datasets": {
+    "data-a9671e40b2529a31ded76350d435fd6b": [
+      {
+        "TSNE-1": 1.2875889539718628,
+        "TSNE-2": 1.8070372343063354,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -0.24620310962200165,
+        "TSNE-2": -7.413647174835205,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": 3.2557621002197266,
+        "TSNE-2": -9.497773170471191,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": -5.35699462890625,
+        "TSNE-2": 5.871236801147461,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": 3.2557621002197266,
+        "TSNE-2": -9.497773170471191,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": -9.955755233764648,
+        "TSNE-2": 2.4077539443969727,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": 7.28101921081543,
+        "TSNE-2": 9.652255058288574,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 7.84046745300293,
+        "TSNE-2": -0.5529124140739441,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 0.49804428219795227,
+        "TSNE-2": -12.929529190063477,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": -7.104185104370117,
+        "TSNE-2": 2.3411967754364014,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": -1.3153440952301025,
+        "TSNE-2": -4.334412574768066,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -12.882978439331055,
+        "TSNE-2": 2.277182102203369,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": 4.592550277709961,
+        "TSNE-2": -5.7114386558532715,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": -0.5659427642822266,
+        "TSNE-2": 2.574928045272827,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -8.645879745483398,
+        "TSNE-2": 8.013483047485352,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": 4.907878398895264,
+        "TSNE-2": 2.9889988899230957,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 13.374502182006836,
+        "TSNE-2": 1.324554681777954,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 7.84046745300293,
+        "TSNE-2": -0.5529124140739441,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 1.612061858177185,
+        "TSNE-2": -0.7900670170783997,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": 12.269464492797852,
+        "TSNE-2": -6.470966339111328,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -8.870237350463867,
+        "TSNE-2": 7.377565383911133,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": -1.5320522785186768,
+        "TSNE-2": 4.258919715881348,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -5.671777248382568,
+        "TSNE-2": -12.599245071411133,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": 0.4436146318912506,
+        "TSNE-2": 5.080812454223633,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 2.667191505432129,
+        "TSNE-2": -7.738961696624756,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": 5.60012149810791,
+        "TSNE-2": 0.9749672412872314,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -5.6108293533325195,
+        "TSNE-2": 4.540440082550049,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": 1.5318310260772705,
+        "TSNE-2": -5.468915939331055,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": -10.113988876342773,
+        "TSNE-2": 7.859493732452393,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": -8.596705436706543,
+        "TSNE-2": -0.26426962018013,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": -8.68026351928711,
+        "TSNE-2": -3.974247455596924,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": 13.075056076049805,
+        "TSNE-2": -4.276998996734619,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 4.034883499145508,
+        "TSNE-2": -4.141176223754883,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": 1.8249497413635254,
+        "TSNE-2": 0.33302104473114014,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -1.6572072505950928,
+        "TSNE-2": -1.0277295112609863,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -1.6203840970993042,
+        "TSNE-2": 1.6123356819152832,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": 8.267412185668945,
+        "TSNE-2": -5.5175461769104,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": 7.962922096252441,
+        "TSNE-2": 2.512378454208374,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 3.2704310417175293,
+        "TSNE-2": 1.4187053442001343,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": 4.584997653961182,
+        "TSNE-2": -0.8963552713394165,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -9.868340492248535,
+        "TSNE-2": -5.771289348602295,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": -4.720963001251221,
+        "TSNE-2": -1.6036251783370972,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": 3.1309311389923096,
+        "TSNE-2": -5.354023456573486,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": 6.004565715789795,
+        "TSNE-2": -2.773425579071045,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 8.521921157836914,
+        "TSNE-2": -6.52824592590332,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": -2.047908067703247,
+        "TSNE-2": -10.942526817321777,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": 2.7712976932525635,
+        "TSNE-2": 9.542631149291992,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 9.27873706817627,
+        "TSNE-2": 6.339786529541016,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -1.3153440952301025,
+        "TSNE-2": -4.334412574768066,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": 12.384710311889648,
+        "TSNE-2": -0.4849197268486023,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -4.130627155303955,
+        "TSNE-2": 1.9770338535308838,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -5.579139709472656,
+        "TSNE-2": 2.1662850379943848,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": 4.317356586456299,
+        "TSNE-2": -3.329374074935913,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": -2.047908067703247,
+        "TSNE-2": -10.942526817321777,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": 0.20205095410346985,
+        "TSNE-2": -0.3856894373893738,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -3.9619855880737305,
+        "TSNE-2": -6.897819519042969,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": 2.744706392288208,
+        "TSNE-2": -2.0472571849823,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -8.986690521240234,
+        "TSNE-2": 5.546315670013428,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": 9.146624565124512,
+        "TSNE-2": -1.687167763710022,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -6.388871192932129,
+        "TSNE-2": 0.5138901472091675,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": -12.295492172241211,
+        "TSNE-2": -3.9065122604370117,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": -4.964333534240723,
+        "TSNE-2": -4.3905134201049805,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": -3.3056561946868896,
+        "TSNE-2": 2.8793089389801025,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": 10.529643058776855,
+        "TSNE-2": 1.6814557313919067,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 4.7037577629089355,
+        "TSNE-2": 6.616328239440918,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 0.8771923780441284,
+        "TSNE-2": -2.814408540725708,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": 5.674637317657471,
+        "TSNE-2": 6.985548973083496,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 2.555655002593994,
+        "TSNE-2": 3.2108500003814697,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -3.8964948654174805,
+        "TSNE-2": -1.5188480615615845,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -5.246243000030518,
+        "TSNE-2": 3.262403964996338,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": -3.438485860824585,
+        "TSNE-2": -0.5698458552360535,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": 12.992558479309082,
+        "TSNE-2": 1.66389000415802,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -6.947992324829102,
+        "TSNE-2": -8.926033020019531,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": -2.894618272781372,
+        "TSNE-2": 9.321883201599121,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 7.9423828125,
+        "TSNE-2": -4.29871129989624,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -8.43149471282959,
+        "TSNE-2": -5.166085243225098,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": -1.9833906888961792,
+        "TSNE-2": 7.811920642852783,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": -6.947992324829102,
+        "TSNE-2": -8.926033020019531,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": -5.501760959625244,
+        "TSNE-2": -4.413153648376465,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": 9.840654373168945,
+        "TSNE-2": 6.605912685394287,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 0.4863467812538147,
+        "TSNE-2": 3.4941186904907227,
+        "cluster": 0,
+        "keywords": "belief, rigid, attitude, erroneous, often"
+      },
+      {
+        "TSNE-1": -12.882978439331055,
+        "TSNE-2": 2.277182102203369,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": -12.295492172241211,
+        "TSNE-2": -3.9065122604370117,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      },
+      {
+        "TSNE-1": 2.1753923892974854,
+        "TSNE-2": 6.227985382080078,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 4.584997653961182,
+        "TSNE-2": -0.8963552713394165,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -4.778623580932617,
+        "TSNE-2": 6.846794128417969,
+        "cluster": 2,
+        "keywords": "necessarily, need, outcome, desire, boundary"
+      },
+      {
+        "TSNE-1": -0.02268250286579132,
+        "TSNE-2": 11.234928131103516,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 12.133269309997559,
+        "TSNE-2": -8.027091026306152,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": 5.4449005126953125,
+        "TSNE-2": 3.4147861003875732,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -0.8655600547790527,
+        "TSNE-2": 11.309727668762207,
+        "cluster": 3,
+        "keywords": "intellectual, inner, mind, opinion, lead"
+      },
+      {
+        "TSNE-1": 5.777884483337402,
+        "TSNE-2": -7.449432849884033,
+        "cluster": 5,
+        "keywords": "current, future, influence, individual, behavior"
+      },
+      {
+        "TSNE-1": 13.075056076049805,
+        "TSNE-2": -4.276998996734619,
+        "cluster": 1,
+        "keywords": "resistant, rigidity, cognitive, emotional, may"
+      },
+      {
+        "TSNE-1": -3.664048433303833,
+        "TSNE-2": -7.589093208312988,
+        "cluster": 4,
+        "keywords": "negative, core, challenge, text, image"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_170",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-5992 - are rigid attitudes based on erroneous beliefs."
+  }
+}

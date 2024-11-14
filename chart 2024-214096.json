@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-fc3a0d16f254e9f86af8e96fd8e612f2"
+  },
+  "datasets": {
+    "data-fc3a0d16f254e9f86af8e96fd8e612f2": [
+      {
+        "TSNE-1": -6.8148393630981445,
+        "TSNE-2": -6.924219608306885,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -6.429014682769775,
+        "TSNE-2": -13.964567184448242,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -7.255092620849609,
+        "TSNE-2": 0.6945475339889526,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -3.6814959049224854,
+        "TSNE-2": 7.520848274230957,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -7.255092620849609,
+        "TSNE-2": 0.6945475339889526,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -0.1662299931049347,
+        "TSNE-2": 11.167376518249512,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 1.741142988204956,
+        "TSNE-2": 6.457420349121094,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -4.1855573654174805,
+        "TSNE-2": -7.948404788970947,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -1.8897316455841064,
+        "TSNE-2": 12.032329559326172,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 11.326482772827148,
+        "TSNE-2": -3.949730396270752,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": -13.40503978729248,
+        "TSNE-2": 2.4027299880981445,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": 12.748780250549316,
+        "TSNE-2": -0.2456289827823639,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": -1.6295779943466187,
+        "TSNE-2": -3.914891004562378,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 3.0017588138580322,
+        "TSNE-2": -12.625205993652344,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": 5.869754791259766,
+        "TSNE-2": 12.568928718566895,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -7.958581447601318,
+        "TSNE-2": -9.774151802062988,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": 11.372387886047363,
+        "TSNE-2": -11.360970497131348,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": -4.1855573654174805,
+        "TSNE-2": -7.948404788970947,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -9.958927154541016,
+        "TSNE-2": -7.225748062133789,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -12.036108016967773,
+        "TSNE-2": 7.902329444885254,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": 7.304137229919434,
+        "TSNE-2": 6.823309898376465,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": -1.1824108362197876,
+        "TSNE-2": 5.235080242156982,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 3.815676212310791,
+        "TSNE-2": 9.96701717376709,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 1.54209566116333,
+        "TSNE-2": -15.464678764343262,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": 7.039464950561523,
+        "TSNE-2": 0.4634050726890564,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": -1.7903193235397339,
+        "TSNE-2": -8.509085655212402,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": 8.058887481689453,
+        "TSNE-2": 9.62510871887207,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": 3.9634227752685547,
+        "TSNE-2": 7.946585655212402,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 4.284637928009033,
+        "TSNE-2": 15.609040260314941,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 9.352542877197266,
+        "TSNE-2": 3.9483819007873535,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": -3.369128704071045,
+        "TSNE-2": 4.662059307098389,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -9.473840713500977,
+        "TSNE-2": 7.471927165985107,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -3.981147050857544,
+        "TSNE-2": -4.261198997497559,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -3.8228774070739746,
+        "TSNE-2": -11.466086387634277,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -12.419524192810059,
+        "TSNE-2": -3.1921215057373047,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": 11.553478240966797,
+        "TSNE-2": 12.726688385009766,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": -4.240966320037842,
+        "TSNE-2": -0.29687559604644775,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": 7.956887722015381,
+        "TSNE-2": -5.5024094581604,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": -1.186082363128662,
+        "TSNE-2": -13.550904273986816,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": -0.05043743550777435,
+        "TSNE-2": -10.788006782531738,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": -6.6194047927856445,
+        "TSNE-2": 3.6209473609924316,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -10.536053657531738,
+        "TSNE-2": -1.4102259874343872,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -1.5220816135406494,
+        "TSNE-2": -2.8442461490631104,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 3.203089714050293,
+        "TSNE-2": -2.943148374557495,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": -4.481820106506348,
+        "TSNE-2": 2.5704870223999023,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -0.2509755492210388,
+        "TSNE-2": 6.960312843322754,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 2.198945999145508,
+        "TSNE-2": -5.989899158477783,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 6.64241886138916,
+        "TSNE-2": 8.123517990112305,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": -14.237060546875,
+        "TSNE-2": 2.5681216716766357,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": 13.240358352661133,
+        "TSNE-2": 9.880674362182617,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": 5.368514537811279,
+        "TSNE-2": 3.8393731117248535,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": 2.7582614421844482,
+        "TSNE-2": 10.709038734436035,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -2.3646368980407715,
+        "TSNE-2": -5.086151123046875,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -0.2509755492210388,
+        "TSNE-2": 6.960312843322754,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -11.305204391479492,
+        "TSNE-2": -8.432390213012695,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": 1.7412153482437134,
+        "TSNE-2": 8.050609588623047,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -6.364264488220215,
+        "TSNE-2": -11.934597969055176,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": 3.4440033435821533,
+        "TSNE-2": 6.133420467376709,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 1.3826168775558472,
+        "TSNE-2": -1.6466219425201416,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 1.1033122539520264,
+        "TSNE-2": 4.548762321472168,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 6.979467391967773,
+        "TSNE-2": -2.9028217792510986,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 5.368514537811279,
+        "TSNE-2": 3.8393731117248535,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": 2.684314250946045,
+        "TSNE-2": 4.776897430419922,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -9.473840713500977,
+        "TSNE-2": 7.471927165985107,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -3.237560510635376,
+        "TSNE-2": -0.7053707838058472,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -10.456415176391602,
+        "TSNE-2": -11.779303550720215,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": -4.952482223510742,
+        "TSNE-2": -1.5400640964508057,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": 1.9765007495880127,
+        "TSNE-2": -9.713239669799805,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": 0.9288313984870911,
+        "TSNE-2": 2.4466476440429688,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 5.2806291580200195,
+        "TSNE-2": 10.437292098999023,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -10.31236743927002,
+        "TSNE-2": -2.5970616340637207,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": 11.372387886047363,
+        "TSNE-2": -11.360970497131348,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": 3.971808433532715,
+        "TSNE-2": -0.0019654780626296997,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 5.039629936218262,
+        "TSNE-2": -7.736058712005615,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": -6.352540016174316,
+        "TSNE-2": -2.7066664695739746,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": -5.840207099914551,
+        "TSNE-2": 11.003994941711426,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 5.774377822875977,
+        "TSNE-2": -5.884632587432861,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 3.971808433532715,
+        "TSNE-2": -0.0019654780626296997,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 3.0331783294677734,
+        "TSNE-2": 3.23783016204834,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": 9.09218692779541,
+        "TSNE-2": 7.30021333694458,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": 1.5507837533950806,
+        "TSNE-2": -13.423979759216309,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": 12.748780250549316,
+        "TSNE-2": -0.2456289827823639,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": 6.979467391967773,
+        "TSNE-2": -2.9028217792510986,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": -0.4350397288799286,
+        "TSNE-2": -0.05341703072190285,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": -0.05043743550777435,
+        "TSNE-2": -10.788006782531738,
+        "cluster": 3,
+        "keywords": "stereotype, operating, business, also, historical"
+      },
+      {
+        "TSNE-1": 4.284637928009033,
+        "TSNE-2": 15.609040260314941,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": 13.63145923614502,
+        "TSNE-2": 3.869074583053589,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": -0.5632547736167908,
+        "TSNE-2": 8.537226676940918,
+        "cluster": 2,
+        "keywords": "perform, inability, manifest, memory, time"
+      },
+      {
+        "TSNE-1": -9.15587043762207,
+        "TSNE-2": -8.360848426818848,
+        "cluster": 5,
+        "keywords": "lead, lack, often, motivation, use"
+      },
+      {
+        "TSNE-1": 14.378305435180664,
+        "TSNE-2": 4.226876735687256,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      },
+      {
+        "TSNE-1": 0.23429588973522186,
+        "TSNE-2": -4.134940147399902,
+        "cluster": 1,
+        "keywords": "general, thc, side, increase, smell"
+      },
+      {
+        "TSNE-1": -9.473840713500977,
+        "TSNE-2": 7.471927165985107,
+        "cluster": 0,
+        "keywords": "marijuana, food, user, appetite, effect"
+      },
+      {
+        "TSNE-1": 5.205545902252197,
+        "TSNE-2": 6.282675743103027,
+        "cluster": 4,
+        "keywords": "task, people, munchies, disregard, intense"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_29",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-214096 - why are marijuana users stereotypically portrayed as sluggish people with the munchies?"
+  }
+}

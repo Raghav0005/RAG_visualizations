@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-a7f6177addd770720048170e0b174a82"
+  },
+  "datasets": {
+    "data-a7f6177addd770720048170e0b174a82": [
+      {
+        "TSNE-1": 0.605323076248169,
+        "TSNE-2": -1.540791392326355,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -1.6635828018188477,
+        "TSNE-2": -9.431635856628418,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": -2.6209793090820312,
+        "TSNE-2": 7.156184196472168,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": -7.12249755859375,
+        "TSNE-2": 1.0866990089416504,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": -2.6209793090820312,
+        "TSNE-2": 7.156184196472168,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": 7.283783435821533,
+        "TSNE-2": -9.382192611694336,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -8.286919593811035,
+        "TSNE-2": -2.802144765853882,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": -2.1696205139160156,
+        "TSNE-2": -6.390987873077393,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 1.9374914169311523,
+        "TSNE-2": -11.806835174560547,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 7.5155863761901855,
+        "TSNE-2": 6.6694746017456055,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": -5.5982537269592285,
+        "TSNE-2": -3.947910785675049,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 5.833767414093018,
+        "TSNE-2": -2.116295337677002,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -0.7314704060554504,
+        "TSNE-2": -2.8843092918395996,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 10.228425025939941,
+        "TSNE-2": -0.533782422542572,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": 7.129990100860596,
+        "TSNE-2": 5.906841278076172,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": -6.557765960693359,
+        "TSNE-2": 5.178116798400879,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": -3.622563600540161,
+        "TSNE-2": 11.14299488067627,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": -1.4229254722595215,
+        "TSNE-2": -6.005735397338867,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": -8.25068473815918,
+        "TSNE-2": 5.431670188903809,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": 2.0483250617980957,
+        "TSNE-2": 1.9396723508834839,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -5.612368583679199,
+        "TSNE-2": -0.9034315943717957,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": -8.784753799438477,
+        "TSNE-2": 2.3367652893066406,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": -7.882465839385986,
+        "TSNE-2": -5.523421287536621,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 9.406744003295898,
+        "TSNE-2": -0.40809303522109985,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": 4.275853633880615,
+        "TSNE-2": -0.24286702275276184,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -0.7403538823127747,
+        "TSNE-2": -4.386229038238525,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": -4.951442241668701,
+        "TSNE-2": 1.1271532773971558,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 1.5234357118606567,
+        "TSNE-2": 6.66899299621582,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 7.961673736572266,
+        "TSNE-2": 8.041278839111328,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": 7.567507743835449,
+        "TSNE-2": -9.420995712280273,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": 1.6973158121109009,
+        "TSNE-2": -12.449644088745117,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 0.5589936375617981,
+        "TSNE-2": 0.535606861114502,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -1.708687663078308,
+        "TSNE-2": -1.0202778577804565,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 7.367165565490723,
+        "TSNE-2": 1.3303271532058716,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": 1.801298975944519,
+        "TSNE-2": -3.6180739402770996,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": -0.20108602941036224,
+        "TSNE-2": 9.874665260314941,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": 3.7114474773406982,
+        "TSNE-2": -2.8300256729125977,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -2.1248576641082764,
+        "TSNE-2": 0.2896764278411865,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 6.4983110427856445,
+        "TSNE-2": 0.8350901007652283,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": -3.679281234741211,
+        "TSNE-2": -1.6891595125198364,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": -2.902287483215332,
+        "TSNE-2": -7.500180721282959,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 9.062864303588867,
+        "TSNE-2": -5.417074680328369,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -1.0057480335235596,
+        "TSNE-2": -1.8121267557144165,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 1.2167774438858032,
+        "TSNE-2": -5.803572177886963,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 0.525435209274292,
+        "TSNE-2": 8.072402000427246,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": 0.6374480128288269,
+        "TSNE-2": 3.847355604171753,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 2.1760568618774414,
+        "TSNE-2": 1.0449624061584473,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 6.8161845207214355,
+        "TSNE-2": 4.360323905944824,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": -5.5982537269592285,
+        "TSNE-2": -3.947910785675049,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 0.1709735244512558,
+        "TSNE-2": 8.950817108154297,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": 1.9367506504058838,
+        "TSNE-2": -7.046173572540283,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": -9.937138557434082,
+        "TSNE-2": -1.3873600959777832,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": -1.595611333847046,
+        "TSNE-2": -2.023203134536743,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 6.5588250160217285,
+        "TSNE-2": -3.1439368724823,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -4.733889579772949,
+        "TSNE-2": 4.881361961364746,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": -5.020105838775635,
+        "TSNE-2": -0.031075872480869293,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": -6.490444183349609,
+        "TSNE-2": 5.812753677368164,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": 4.3306756019592285,
+        "TSNE-2": 8.339766502380371,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": 2.2187740802764893,
+        "TSNE-2": -1.2862170934677124,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -6.614205360412598,
+        "TSNE-2": -0.265755832195282,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 11.523488998413086,
+        "TSNE-2": 8.51488971710205,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": 3.8626017570495605,
+        "TSNE-2": 3.4691662788391113,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -4.663343906402588,
+        "TSNE-2": -9.44176197052002,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 3.2035720348358154,
+        "TSNE-2": -0.3217383325099945,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -2.6961824893951416,
+        "TSNE-2": 1.9073485136032104,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -2.62235951423645,
+        "TSNE-2": -3.3963825702667236,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 2.10825777053833,
+        "TSNE-2": 4.665338516235352,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 0.5266311764717102,
+        "TSNE-2": -3.964885950088501,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 0.34832143783569336,
+        "TSNE-2": -8.185276985168457,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": -7.741381645202637,
+        "TSNE-2": -0.9596774578094482,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 8.693340301513672,
+        "TSNE-2": -5.525935173034668,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -3.622563600540161,
+        "TSNE-2": 11.14299488067627,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": -1.258867621421814,
+        "TSNE-2": 2.7593493461608887,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 6.045598030090332,
+        "TSNE-2": -3.773700714111328,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -1.3692810535430908,
+        "TSNE-2": 4.641154766082764,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": 3.419989585876465,
+        "TSNE-2": -8.852760314941406,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 5.398246765136719,
+        "TSNE-2": -5.295657634735107,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -1.258867621421814,
+        "TSNE-2": 2.7593493461608887,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 3.269191265106201,
+        "TSNE-2": 3.590486526489258,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 8.095497131347656,
+        "TSNE-2": 3.7308990955352783,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": -3.764727830886841,
+        "TSNE-2": -4.662501335144043,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 0.37155482172966003,
+        "TSNE-2": 4.670576095581055,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 11.629035949707031,
+        "TSNE-2": 8.496377944946289,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": -11.100652694702148,
+        "TSNE-2": 1.2178428173065186,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": -3.679281234741211,
+        "TSNE-2": -1.6891595125198364,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      },
+      {
+        "TSNE-1": 4.80470609664917,
+        "TSNE-2": 7.986349582672119,
+        "cluster": 2,
+        "keywords": "personal, show, difference, commercial, context"
+      },
+      {
+        "TSNE-1": 8.979464530944824,
+        "TSNE-2": -9.124724388122559,
+        "cluster": 0,
+        "keywords": "real, law, estate, property, variance"
+      },
+      {
+        "TSNE-1": -0.007873296737670898,
+        "TSNE-2": -8.891033172607422,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": -5.8220038414001465,
+        "TSNE-2": 3.888355016708374,
+        "cluster": 1,
+        "keywords": "right, land, type, like, enjoyment"
+      },
+      {
+        "TSNE-1": 3.043544054031372,
+        "TSNE-2": -12.795022964477539,
+        "cluster": 4,
+        "keywords": "movable, distinguish, different, specifically, many"
+      },
+      {
+        "TSNE-1": 3.5322978496551514,
+        "TSNE-2": -1.2874687910079956,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": 0.5589936375617981,
+        "TSNE-2": 0.535606861114502,
+        "cluster": 5,
+        "keywords": "ownership, also, usage, object, bundle"
+      },
+      {
+        "TSNE-1": -7.589895248413086,
+        "TSNE-2": -1.2670843601226807,
+        "cluster": 3,
+        "keywords": "state, regulation, physical, federal, legal"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_106",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-6778 - are there any laws that show the difference between real estate"
+  }
+}

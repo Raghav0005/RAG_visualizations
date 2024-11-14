@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-cb551caecd73627da962602d9127b9bb"
+  },
+  "datasets": {
+    "data-cb551caecd73627da962602d9127b9bb": [
+      {
+        "TSNE-1": -1.5933927297592163,
+        "TSNE-2": -2.0992960929870605,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -9.696439743041992,
+        "TSNE-2": 3.4184579849243164,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 12.377970695495605,
+        "TSNE-2": 0.35397160053253174,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": -6.663218021392822,
+        "TSNE-2": -1.6168721914291382,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 12.377970695495605,
+        "TSNE-2": 0.35397160053253174,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": -6.976511001586914,
+        "TSNE-2": -3.089357376098633,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 0.7982251048088074,
+        "TSNE-2": -9.251724243164062,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -5.710663318634033,
+        "TSNE-2": 4.636678695678711,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 8.655709266662598,
+        "TSNE-2": -0.7259879112243652,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": 10.682487487792969,
+        "TSNE-2": 5.454216480255127,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": 1.1333861351013184,
+        "TSNE-2": -4.72903299331665,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 3.7597787380218506,
+        "TSNE-2": 0.4493028223514557,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": -3.051816940307617,
+        "TSNE-2": 0.20132499933242798,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 2.5648691654205322,
+        "TSNE-2": -3.655104398727417,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": 4.717769145965576,
+        "TSNE-2": 7.8018951416015625,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": -4.354574203491211,
+        "TSNE-2": -5.21990966796875,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 2.2129127979278564,
+        "TSNE-2": 11.898186683654785,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": -5.710663318634033,
+        "TSNE-2": 4.636678695678711,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": -4.111207008361816,
+        "TSNE-2": -6.448443412780762,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 5.741338729858398,
+        "TSNE-2": -2.8069827556610107,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": -13.051469802856445,
+        "TSNE-2": -5.0273308753967285,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 5.3086042404174805,
+        "TSNE-2": -3.7943625450134277,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": -11.681697845458984,
+        "TSNE-2": -0.5784322023391724,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 0.27606821060180664,
+        "TSNE-2": 7.286931037902832,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 0.15748605132102966,
+        "TSNE-2": 1.2300909757614136,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": -5.319849967956543,
+        "TSNE-2": 6.291560649871826,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 7.160531044006348,
+        "TSNE-2": 4.811812877655029,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": 1.9206968545913696,
+        "TSNE-2": -1.2476366758346558,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": 4.694480895996094,
+        "TSNE-2": 8.616744995117188,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": -2.557007312774658,
+        "TSNE-2": 11.798349380493164,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 7.59477424621582,
+        "TSNE-2": -1.1818583011627197,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": 5.856029987335205,
+        "TSNE-2": 0.36560767889022827,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": -7.059241771697998,
+        "TSNE-2": 3.7057762145996094,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -1.1589365005493164,
+        "TSNE-2": -6.728612899780273,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -1.252219796180725,
+        "TSNE-2": 3.488616466522217,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 3.065277576446533,
+        "TSNE-2": -6.526022911071777,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": -4.225488662719727,
+        "TSNE-2": -3.5724616050720215,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 4.156396865844727,
+        "TSNE-2": -9.817449569702148,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": -8.49121379852295,
+        "TSNE-2": -2.7701921463012695,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 1.5919644832611084,
+        "TSNE-2": 4.81265926361084,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": -0.8906675577163696,
+        "TSNE-2": 4.6624979972839355,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": -5.044718265533447,
+        "TSNE-2": 1.9406719207763672,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -1.885483741760254,
+        "TSNE-2": 0.4410475492477417,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -5.878393173217773,
+        "TSNE-2": 7.52772331237793,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 6.998399257659912,
+        "TSNE-2": 10.435976028442383,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": 7.677606582641602,
+        "TSNE-2": -6.764476776123047,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": 4.998912334442139,
+        "TSNE-2": -1.1876084804534912,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": 11.217498779296875,
+        "TSNE-2": 5.397948741912842,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": 1.1333861351013184,
+        "TSNE-2": -4.72903299331665,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 0.4061928391456604,
+        "TSNE-2": -8.649840354919434,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 4.4452409744262695,
+        "TSNE-2": -10.032878875732422,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": -5.250324249267578,
+        "TSNE-2": -10.87883186340332,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -1.927215814590454,
+        "TSNE-2": -0.023921307176351547,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 7.677606582641602,
+        "TSNE-2": -6.764476776123047,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": -2.4819765090942383,
+        "TSNE-2": -6.993465423583984,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -10.450328826904297,
+        "TSNE-2": -0.5073869228363037,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -6.177358150482178,
+        "TSNE-2": -5.691277027130127,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -12.972932815551758,
+        "TSNE-2": -5.799149036407471,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -0.13668254017829895,
+        "TSNE-2": -0.490589439868927,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": -11.248705863952637,
+        "TSNE-2": 0.10496951639652252,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -7.22793436050415,
+        "TSNE-2": -9.3900785446167,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -4.520756244659424,
+        "TSNE-2": -0.3019701838493347,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -2.826131820678711,
+        "TSNE-2": 2.5334954261779785,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 5.856029987335205,
+        "TSNE-2": 0.36560767889022827,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": 0.45804503560066223,
+        "TSNE-2": -1.8084040880203247,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 1.6502799987792969,
+        "TSNE-2": 2.6701509952545166,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": -3.6224143505096436,
+        "TSNE-2": -2.5289151668548584,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -2.9205336570739746,
+        "TSNE-2": 5.68011474609375,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": -6.041086673736572,
+        "TSNE-2": 2.1511008739471436,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -7.30451774597168,
+        "TSNE-2": -1.1913084983825684,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -4.566969394683838,
+        "TSNE-2": 2.44995379447937,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 2.1014158725738525,
+        "TSNE-2": 11.62454891204834,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 11.227457046508789,
+        "TSNE-2": -4.430514812469482,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": -2.208813190460205,
+        "TSNE-2": 8.106629371643066,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": -11.037291526794434,
+        "TSNE-2": -3.3111164569854736,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -8.098589897155762,
+        "TSNE-2": 5.276531219482422,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": -0.7565969228744507,
+        "TSNE-2": -4.872318267822266,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 11.227457046508789,
+        "TSNE-2": -4.430514812469482,
+        "cluster": 5,
+        "keywords": "document, factor, foreign, especially, american"
+      },
+      {
+        "TSNE-1": -5.8028435707092285,
+        "TSNE-2": 0.3444659113883972,
+        "cluster": 3,
+        "keywords": "investment, company, business, two, tariff"
+      },
+      {
+        "TSNE-1": 8.872779846191406,
+        "TSNE-2": 5.55874490737915,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": -0.8383750915527344,
+        "TSNE-2": 7.013151168823242,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 3.7597787380218506,
+        "TSNE-2": 0.4493028223514557,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": 22.82251739501953,
+        "TSNE-2": 13.629796981811523,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": -0.9404621124267578,
+        "TSNE-2": -3.07023024559021,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": 1.5919644832611084,
+        "TSNE-2": 4.81265926361084,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 4.620194911956787,
+        "TSNE-2": 6.912691593170166,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      },
+      {
+        "TSNE-1": -2.591562271118164,
+        "TSNE-2": 12.257440567016602,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 4.558629512786865,
+        "TSNE-2": 4.982088565826416,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": -3.362269401550293,
+        "TSNE-2": -5.074838161468506,
+        "cluster": 1,
+        "keywords": "growth, job, export, million, relationship"
+      },
+      {
+        "TSNE-1": -0.8451738953590393,
+        "TSNE-2": 2.2165677547454834,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": -3.501465320587158,
+        "TSNE-2": 4.409205436706543,
+        "cluster": 0,
+        "keywords": "trade, chinese, china, economic, policy"
+      },
+      {
+        "TSNE-1": 5.856029987335205,
+        "TSNE-2": 0.36560767889022827,
+        "cluster": 4,
+        "keywords": "government, market, major, force, domestic"
+      },
+      {
+        "TSNE-1": 7.100337028503418,
+        "TSNE-2": 4.04812479019165,
+        "cluster": 2,
+        "keywords": "agreement, textile, nan, aid, help"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_72",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-158261 - what us trade policies help aid chinese growth?"
+  }
+}

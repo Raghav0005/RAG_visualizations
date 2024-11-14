@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-d8e643ed84572e8ad26badc1a7197e8d"
+  },
+  "datasets": {
+    "data-d8e643ed84572e8ad26badc1a7197e8d": [
+      {
+        "TSNE-1": -8.03117847442627,
+        "TSNE-2": 1.0253552198410034,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 4.837935924530029,
+        "TSNE-2": -6.57480001449585,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -8.338687896728516,
+        "TSNE-2": -8.154035568237305,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 0.020971816033124924,
+        "TSNE-2": 1.0782639980316162,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -8.338687896728516,
+        "TSNE-2": -8.154035568237305,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 2.2909224033355713,
+        "TSNE-2": -1.6402349472045898,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -9.382396697998047,
+        "TSNE-2": -1.9931831359863281,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 2.3270459175109863,
+        "TSNE-2": -7.836517810821533,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -5.977738380432129,
+        "TSNE-2": 8.01973819732666,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": -5.476323127746582,
+        "TSNE-2": -5.97669792175293,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 4.743566036224365,
+        "TSNE-2": 0.9240806102752686,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -1.0419421195983887,
+        "TSNE-2": 14.507332801818848,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 0.45918384194374084,
+        "TSNE-2": -4.99750280380249,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -2.497568368911743,
+        "TSNE-2": -2.8510727882385254,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": 14.070905685424805,
+        "TSNE-2": -0.7828046083450317,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": -4.556171417236328,
+        "TSNE-2": 3.392616033554077,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 0.46735164523124695,
+        "TSNE-2": 8.614498138427734,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 2.3270459175109863,
+        "TSNE-2": -7.836517810821533,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -3.695992946624756,
+        "TSNE-2": 0.7948795557022095,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": -2.1171040534973145,
+        "TSNE-2": 5.630612850189209,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 0.020971816033124924,
+        "TSNE-2": 1.0782639980316162,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -3.216679573059082,
+        "TSNE-2": -8.619074821472168,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -4.877501010894775,
+        "TSNE-2": -5.872028827667236,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 2.4873175621032715,
+        "TSNE-2": 6.222046852111816,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": -11.238176345825195,
+        "TSNE-2": -1.3479480743408203,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 1.8482868671417236,
+        "TSNE-2": -5.773501396179199,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": 0.020971816033124924,
+        "TSNE-2": 1.0782639980316162,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -8.704042434692383,
+        "TSNE-2": -1.1318485736846924,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 14.070905685424805,
+        "TSNE-2": -0.7828046083450317,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": 4.0453596115112305,
+        "TSNE-2": -2.4391002655029297,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": 1.9675499200820923,
+        "TSNE-2": -2.255352258682251,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": 8.301108360290527,
+        "TSNE-2": 0.5958472490310669,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": -0.5135540962219238,
+        "TSNE-2": -6.077402114868164,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -2.134854555130005,
+        "TSNE-2": -0.31319350004196167,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": 2.261106491088867,
+        "TSNE-2": -10.262657165527344,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -5.766149044036865,
+        "TSNE-2": -0.5247464776039124,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": -10.47674560546875,
+        "TSNE-2": 1.1317704916000366,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 4.371936798095703,
+        "TSNE-2": 4.430891990661621,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -7.730589866638184,
+        "TSNE-2": 3.1014492511749268,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": -5.164029121398926,
+        "TSNE-2": -3.0073206424713135,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 5.124115467071533,
+        "TSNE-2": -7.78752326965332,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": 9.27061653137207,
+        "TSNE-2": 4.008643627166748,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": -0.4175404906272888,
+        "TSNE-2": -4.302651882171631,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": 2.8721234798431396,
+        "TSNE-2": -5.802039623260498,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -6.407821178436279,
+        "TSNE-2": -0.18657101690769196,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 9.104065895080566,
+        "TSNE-2": -4.355317115783691,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": 9.536320686340332,
+        "TSNE-2": 1.3531227111816406,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": 5.3786749839782715,
+        "TSNE-2": -11.686635971069336,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": 4.743566036224365,
+        "TSNE-2": 0.9240806102752686,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -10.79874324798584,
+        "TSNE-2": -0.3235083818435669,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 7.6468071937561035,
+        "TSNE-2": 9.314875602722168,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 6.339842796325684,
+        "TSNE-2": 6.252816677093506,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": -1.1968491077423096,
+        "TSNE-2": -5.063317775726318,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -2.8942039012908936,
+        "TSNE-2": 13.001313209533691,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 3.537992000579834,
+        "TSNE-2": 7.512322425842285,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 0.020971816033124924,
+        "TSNE-2": 1.0782639980316162,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -2.5182876586914062,
+        "TSNE-2": -1.1378306150436401,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -11.09228515625,
+        "TSNE-2": 5.589725494384766,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": -0.5446186661720276,
+        "TSNE-2": -10.292797088623047,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": 10.29578685760498,
+        "TSNE-2": 7.926873683929443,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": -2.036774158477783,
+        "TSNE-2": 2.6889736652374268,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": 8.799799919128418,
+        "TSNE-2": -1.2266954183578491,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": 2.315156936645508,
+        "TSNE-2": 2.1615991592407227,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -0.5109454989433289,
+        "TSNE-2": 5.8435235023498535,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": -9.344895362854004,
+        "TSNE-2": -0.04113484174013138,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": -8.308741569519043,
+        "TSNE-2": 4.695497989654541,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 0.676899254322052,
+        "TSNE-2": 11.462305068969727,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": -2.7726998329162598,
+        "TSNE-2": 8.326894760131836,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 8.647931098937988,
+        "TSNE-2": 2.924680233001709,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": -0.3544028699398041,
+        "TSNE-2": 2.841038703918457,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": 7.116678714752197,
+        "TSNE-2": 3.5170557498931885,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": 0.46735164523124695,
+        "TSNE-2": 8.614498138427734,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": -10.289116859436035,
+        "TSNE-2": -5.363566875457764,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 4.184233665466309,
+        "TSNE-2": 8.747194290161133,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 0.20468392968177795,
+        "TSNE-2": 11.056629180908203,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": 0.42194029688835144,
+        "TSNE-2": -8.060223579406738,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": 4.501708030700684,
+        "TSNE-2": 9.466937065124512,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": -10.289116859436035,
+        "TSNE-2": -5.363566875457764,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": -3.7458560466766357,
+        "TSNE-2": 6.0933966636657715,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 8.23848819732666,
+        "TSNE-2": -10.002829551696777,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": 5.56765079498291,
+        "TSNE-2": -0.28346410393714905,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": -3.258870840072632,
+        "TSNE-2": 13.492881774902344,
+        "cluster": 3,
+        "keywords": "fim, quality, ot, aspect, school"
+      },
+      {
+        "TSNE-1": -28.158369064331055,
+        "TSNE-2": -6.940725326538086,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 4.108033657073975,
+        "TSNE-2": -4.384452819824219,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -5.164029121398926,
+        "TSNE-2": -3.0073206424713135,
+        "cluster": 4,
+        "keywords": "checklist, nan, indicator, behavioral, utilized"
+      },
+      {
+        "TSNE-1": 7.582136154174805,
+        "TSNE-2": -10.413957595825195,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": 5.751382350921631,
+        "TSNE-2": -4.158215045928955,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -3.5437960624694824,
+        "TSNE-2": -9.261249542236328,
+        "cluster": 0,
+        "keywords": "adaptive, assessment, behavior, rehabilitation, determine"
+      },
+      {
+        "TSNE-1": -4.242622375488281,
+        "TSNE-2": 2.4999377727508545,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 4.201943874359131,
+        "TSNE-2": 3.2641780376434326,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      },
+      {
+        "TSNE-1": -8.647989273071289,
+        "TSNE-2": 3.833392381668091,
+        "cluster": 1,
+        "keywords": "need, outcome, progress, nac, tool"
+      },
+      {
+        "TSNE-1": 8.301108360290527,
+        "TSNE-2": 0.5958472490310669,
+        "cluster": 2,
+        "keywords": "functional, level, ability, measure, clinical"
+      },
+      {
+        "TSNE-1": -0.3544028699398041,
+        "TSNE-2": 2.841038703918457,
+        "cluster": 5,
+        "keywords": "adaptation, strategy, assesses, performance, daily"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_227",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-128311 - what assessment is utilized to determine adaptation needs and rehabilitation strategies?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-461a22d70c7df82657af943ee38410b6"
+  },
+  "datasets": {
+    "data-461a22d70c7df82657af943ee38410b6": [
+      {
+        "TSNE-1": 6.217944145202637,
+        "TSNE-2": -0.8906266689300537,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": -1.6553354263305664,
+        "TSNE-2": 3.459000587463379,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": 4.021697521209717,
+        "TSNE-2": 5.502022743225098,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": -10.10683822631836,
+        "TSNE-2": -1.7808986902236938,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": 4.021697521209717,
+        "TSNE-2": 5.502022743225098,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": -3.1829280853271484,
+        "TSNE-2": 8.406606674194336,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": 0.21517664194107056,
+        "TSNE-2": 6.1113057136535645,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": 2.176725387573242,
+        "TSNE-2": -4.298365116119385,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 4.891402244567871,
+        "TSNE-2": 9.888567924499512,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": 8.561422348022461,
+        "TSNE-2": 1.4167641401290894,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": -0.1602553278207779,
+        "TSNE-2": -9.029359817504883,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": -5.9366984367370605,
+        "TSNE-2": -8.294354438781738,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": -0.07247137278318405,
+        "TSNE-2": -0.5446410775184631,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -4.411578178405762,
+        "TSNE-2": 0.3318682909011841,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": -13.100458145141602,
+        "TSNE-2": 0.9890915751457214,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": -1.3570035696029663,
+        "TSNE-2": -3.268245220184326,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": 4.7208333015441895,
+        "TSNE-2": -7.990351676940918,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": 2.176725387573242,
+        "TSNE-2": -4.298365116119385,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -3.010138511657715,
+        "TSNE-2": -4.56841516494751,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": 2.73858642578125,
+        "TSNE-2": 2.74112868309021,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -6.937371253967285,
+        "TSNE-2": 2.6411240100860596,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": 3.7104716300964355,
+        "TSNE-2": -5.039412498474121,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -7.504401206970215,
+        "TSNE-2": 1.7253131866455078,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": -3.013624668121338,
+        "TSNE-2": 0.8810886144638062,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": 2.4717183113098145,
+        "TSNE-2": -2.4487884044647217,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -0.31712794303894043,
+        "TSNE-2": -1.8269715309143066,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -10.047308921813965,
+        "TSNE-2": -1.2735103368759155,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": 2.0383315086364746,
+        "TSNE-2": -6.778847694396973,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": -13.321983337402344,
+        "TSNE-2": 0.7827107310295105,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": 7.454897403717041,
+        "TSNE-2": -6.461206436157227,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": 4.68328857421875,
+        "TSNE-2": 9.737804412841797,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": -7.941891193389893,
+        "TSNE-2": -4.788066864013672,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": -0.957720935344696,
+        "TSNE-2": -0.3673320412635803,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 6.898977279663086,
+        "TSNE-2": -0.13208644092082977,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": 0.4312005639076233,
+        "TSNE-2": -5.991340160369873,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": 4.215507507324219,
+        "TSNE-2": -0.16455590724945068,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 1.5324578285217285,
+        "TSNE-2": 0.6817731857299805,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 7.334840297698975,
+        "TSNE-2": 5.9229936599731445,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": 2.128361940383911,
+        "TSNE-2": -1.186400294303894,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -3.9616732597351074,
+        "TSNE-2": -2.2613251209259033,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": -2.3131916522979736,
+        "TSNE-2": -6.707570552825928,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": 1.9693217277526855,
+        "TSNE-2": 6.358504295349121,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": 0.6840177178382874,
+        "TSNE-2": -1.392278790473938,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -2.230020523071289,
+        "TSNE-2": -1.2524651288986206,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": 4.60768461227417,
+        "TSNE-2": -1.2025277614593506,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 7.244248867034912,
+        "TSNE-2": -3.8103902339935303,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": -5.275225639343262,
+        "TSNE-2": 4.744090557098389,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": 5.3044281005859375,
+        "TSNE-2": 2.964547634124756,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": -0.1602553278207779,
+        "TSNE-2": -9.029359817504883,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": 4.697780132293701,
+        "TSNE-2": 0.7631033658981323,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 1.3675328493118286,
+        "TSNE-2": 9.161694526672363,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": -7.252510070800781,
+        "TSNE-2": -0.8059059977531433,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": -0.923477053642273,
+        "TSNE-2": -0.7659374475479126,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -6.226875305175781,
+        "TSNE-2": -8.004751205444336,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": -1.4749590158462524,
+        "TSNE-2": 1.2332066297531128,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": -6.478123188018799,
+        "TSNE-2": 2.339294672012329,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": -0.873749315738678,
+        "TSNE-2": -4.224724769592285,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": -11.608537673950195,
+        "TSNE-2": 2.3782880306243896,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": 1.3847001791000366,
+        "TSNE-2": -5.38546085357666,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": -5.135115623474121,
+        "TSNE-2": 1.1373097896575928,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": 9.393322944641113,
+        "TSNE-2": 4.04856538772583,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": 1.2685878276824951,
+        "TSNE-2": 10.474052429199219,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": 0.542885422706604,
+        "TSNE-2": 9.665447235107422,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": -4.565670013427734,
+        "TSNE-2": 4.674351692199707,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": 2.3269150257110596,
+        "TSNE-2": 1.0074437856674194,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 1.0482213497161865,
+        "TSNE-2": -2.4652693271636963,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 2.6082537174224854,
+        "TSNE-2": 0.08435056358575821,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 4.191896915435791,
+        "TSNE-2": -3.0137135982513428,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 1.7733639478683472,
+        "TSNE-2": 5.345643997192383,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": -8.191904067993164,
+        "TSNE-2": -1.6947585344314575,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": 2.0226221084594727,
+        "TSNE-2": 7.040189266204834,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": 4.7208333015441895,
+        "TSNE-2": -7.990351676940918,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": 10.74746322631836,
+        "TSNE-2": -1.3223192691802979,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": 0.17962752282619476,
+        "TSNE-2": 3.101661205291748,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 3.235311985015869,
+        "TSNE-2": 0.36017319560050964,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 2.5500216484069824,
+        "TSNE-2": 8.08414077758789,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": 0.3400877118110657,
+        "TSNE-2": 3.383328914642334,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": 10.761300086975098,
+        "TSNE-2": -1.312981367111206,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": -0.39631199836730957,
+        "TSNE-2": 9.867586135864258,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": -8.594962120056152,
+        "TSNE-2": 0.9408437609672546,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": -4.0171356201171875,
+        "TSNE-2": 1.1893867254257202,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": -4.823409080505371,
+        "TSNE-2": -9.238838195800781,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": 9.50635814666748,
+        "TSNE-2": 4.087636470794678,
+        "cluster": 3,
+        "keywords": "lack, may, unfair, various, proper"
+      },
+      {
+        "TSNE-1": 6.52912712097168,
+        "TSNE-2": 5.593903064727783,
+        "cluster": 1,
+        "keywords": "discrimination, year, experienced, less, ageism"
+      },
+      {
+        "TSNE-1": -3.9616732597351074,
+        "TSNE-2": -2.2613251209259033,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": -11.447922706604004,
+        "TSNE-2": 2.5513105392456055,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": -4.912655353546143,
+        "TSNE-2": -10.210843086242676,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": -2.7519869804382324,
+        "TSNE-2": 5.031362056732178,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": -1.7767413854599,
+        "TSNE-2": -3.396151542663574,
+        "cluster": 0,
+        "keywords": "older, age, workplace, worker, diversity"
+      },
+      {
+        "TSNE-1": -5.492217540740967,
+        "TSNE-2": -3.8966007232666016,
+        "cluster": 4,
+        "keywords": "work, job, workforce, organization, support"
+      },
+      {
+        "TSNE-1": 0.31642386317253113,
+        "TSNE-2": 1.2236677408218384,
+        "cluster": 5,
+        "keywords": "bias, issue, isolation, opportunity, employee"
+      },
+      {
+        "TSNE-1": -7.941891193389893,
+        "TSNE-2": -4.788066864013672,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      },
+      {
+        "TSNE-1": -9.194886207580566,
+        "TSNE-2": -1.6627273559570312,
+        "cluster": 2,
+        "keywords": "need, health, deal, mental, effectively"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_82",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-127288 - what are some of the issues related to aging and the workplace?"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3547032330003ed119ff1904bc4e604b"
+  },
+  "datasets": {
+    "data-3547032330003ed119ff1904bc4e604b": [
+      {
+        "TSNE-1": 0.8298044204711914,
+        "TSNE-2": -10.065550804138184,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 5.512372016906738,
+        "TSNE-2": -3.0971853733062744,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -10.7417573928833,
+        "TSNE-2": 4.488806247711182,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": 3.013270139694214,
+        "TSNE-2": 2.7445414066314697,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -10.7417573928833,
+        "TSNE-2": 4.488806247711182,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": -3.0343375205993652,
+        "TSNE-2": 8.009247779846191,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 0.4272679090499878,
+        "TSNE-2": 3.0418739318847656,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -1.636565923690796,
+        "TSNE-2": -2.637723445892334,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -7.806790351867676,
+        "TSNE-2": 2.185460329055786,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": -7.194500923156738,
+        "TSNE-2": 10.041356086730957,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 0.6790046095848083,
+        "TSNE-2": -7.292530059814453,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 0.6818891167640686,
+        "TSNE-2": -15.25094223022461,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 1.7409220933914185,
+        "TSNE-2": -1.9491221904754639,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -0.06639598309993744,
+        "TSNE-2": 6.306746006011963,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 1.1296992301940918,
+        "TSNE-2": 7.916665554046631,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -1.4648784399032593,
+        "TSNE-2": -6.7044267654418945,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 7.442026615142822,
+        "TSNE-2": 9.045337677001953,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": -1.636565923690796,
+        "TSNE-2": -2.637723445892334,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -2.7483162879943848,
+        "TSNE-2": -5.178885459899902,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 11.161332130432129,
+        "TSNE-2": -2.5575430393218994,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -4.462989807128906,
+        "TSNE-2": 13.023004531860352,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -7.487520694732666,
+        "TSNE-2": -5.140486240386963,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": -3.8198554515838623,
+        "TSNE-2": 12.049508094787598,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -4.208693027496338,
+        "TSNE-2": -3.4127559661865234,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -5.810019016265869,
+        "TSNE-2": 5.603545665740967,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -0.6571707129478455,
+        "TSNE-2": -3.8293795585632324,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -2.2320990562438965,
+        "TSNE-2": 10.28545093536377,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 10.381692886352539,
+        "TSNE-2": 0.9765920639038086,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": 0.2733597457408905,
+        "TSNE-2": 8.964672088623047,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 10.680840492248535,
+        "TSNE-2": 1.4805188179016113,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": 6.4117302894592285,
+        "TSNE-2": 0.7507877349853516,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": -4.972116470336914,
+        "TSNE-2": -1.1690099239349365,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": 2.76181697845459,
+        "TSNE-2": -3.7263970375061035,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -1.4601807594299316,
+        "TSNE-2": -5.072115421295166,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 7.018787860870361,
+        "TSNE-2": 4.101367473602295,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": 4.0314435958862305,
+        "TSNE-2": -0.6323117613792419,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -4.2925333976745605,
+        "TSNE-2": -9.206911087036133,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 1.904150128364563,
+        "TSNE-2": 0.42401570081710815,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": 7.542974472045898,
+        "TSNE-2": -4.884151458740234,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": 5.1819376945495605,
+        "TSNE-2": -5.249143123626709,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": 2.497274875640869,
+        "TSNE-2": -8.734320640563965,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -1.329568862915039,
+        "TSNE-2": -0.9857178330421448,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": 1.0899510383605957,
+        "TSNE-2": -3.498180389404297,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -6.563258171081543,
+        "TSNE-2": 0.28114813566207886,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": 4.4676833152771,
+        "TSNE-2": -1.0783576965332031,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -10.376471519470215,
+        "TSNE-2": 0.14779400825500488,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": -7.992128372192383,
+        "TSNE-2": -7.980834007263184,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": -6.64042329788208,
+        "TSNE-2": 9.934006690979004,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 0.6790046095848083,
+        "TSNE-2": -7.292530059814453,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": -1.321972370147705,
+        "TSNE-2": -8.567111015319824,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": -3.311677932739258,
+        "TSNE-2": 1.1283676624298096,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": 10.008315086364746,
+        "TSNE-2": -9.22203254699707,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": 1.8611444234848022,
+        "TSNE-2": -3.6635003089904785,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": 0.9087454676628113,
+        "TSNE-2": -14.812348365783691,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": -3.9386110305786133,
+        "TSNE-2": -6.716649055480957,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": -3.8423852920532227,
+        "TSNE-2": 13.396124839782715,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -4.5813188552856445,
+        "TSNE-2": -5.547164440155029,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 0.03570960462093353,
+        "TSNE-2": 9.839404106140137,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -5.16702938079834,
+        "TSNE-2": 2.885225772857666,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": 2.235546112060547,
+        "TSNE-2": 13.270170211791992,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -0.6270473599433899,
+        "TSNE-2": 2.3803811073303223,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -2.1934871673583984,
+        "TSNE-2": 1.8559107780456543,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": 2.541327953338623,
+        "TSNE-2": 4.734243392944336,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": -7.543630123138428,
+        "TSNE-2": -7.015072822570801,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": -7.148928165435791,
+        "TSNE-2": -3.16050386428833,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": 2.6261065006256104,
+        "TSNE-2": -6.105922698974609,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -2.5922670364379883,
+        "TSNE-2": -9.138545036315918,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 7.9006781578063965,
+        "TSNE-2": -3.044005870819092,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -0.16131965816020966,
+        "TSNE-2": -0.23812806606292725,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": 8.67859935760498,
+        "TSNE-2": -11.276390075683594,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -0.821382462978363,
+        "TSNE-2": 0.19934794306755066,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": 7.442026615142822,
+        "TSNE-2": 9.045337677001953,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": -2.650074005126953,
+        "TSNE-2": 5.3613481521606445,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 5.642739295959473,
+        "TSNE-2": -8.31605052947998,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -1.6166269779205322,
+        "TSNE-2": -10.572216987609863,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 4.417446136474609,
+        "TSNE-2": 1.8905390501022339,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": 4.342092037200928,
+        "TSNE-2": -10.103246688842773,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -2.650074005126953,
+        "TSNE-2": 5.3613481521606445,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -3.2048470973968506,
+        "TSNE-2": 2.222891330718994,
+        "cluster": 5,
+        "keywords": "lead, emotional, charge, valuable, opportunity"
+      },
+      {
+        "TSNE-1": -6.919556617736816,
+        "TSNE-2": 8.043054580688477,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 1.052070140838623,
+        "TSNE-2": -5.4272661209106445,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 3.9808690547943115,
+        "TSNE-2": 7.032392978668213,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": 23.807331085205078,
+        "TSNE-2": 11.683720588684082,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": 7.010843753814697,
+        "TSNE-2": -6.623068332672119,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": 5.1819376945495605,
+        "TSNE-2": -5.249143123626709,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": 0.9826716780662537,
+        "TSNE-2": 12.548371315002441,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": 2.5470662117004395,
+        "TSNE-2": 10.10750961303711,
+        "cluster": 2,
+        "keywords": "good, pay, less, tend, much"
+      },
+      {
+        "TSNE-1": -11.907472610473633,
+        "TSNE-2": -2.5147838592529297,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": -3.0011539459228516,
+        "TSNE-2": -7.315856456756592,
+        "cluster": 1,
+        "keywords": "item, individual, people, something, often"
+      },
+      {
+        "TSNE-1": 5.971340179443359,
+        "TSNE-2": 4.443641662597656,
+        "cluster": 0,
+        "keywords": "free, document, thing, value, nan"
+      },
+      {
+        "TSNE-1": 3.756981134414673,
+        "TSNE-2": -6.974992275238037,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      },
+      {
+        "TSNE-1": -4.972116470336914,
+        "TSNE-2": -1.1690099239349365,
+        "cluster": 4,
+        "keywords": "cost, potential, gift, loss, monetary"
+      },
+      {
+        "TSNE-1": 7.906162261962891,
+        "TSNE-2": -11.861406326293945,
+        "cluster": 3,
+        "keywords": "consumer, product, price, marketing, use"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_287",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-219563 - why free things have less percieved value"
+  }
+}

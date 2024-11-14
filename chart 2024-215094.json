@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-4bfa000ff0d3d43928446f36a98a7861"
+  },
+  "datasets": {
+    "data-4bfa000ff0d3d43928446f36a98a7861": [
+      {
+        "TSNE-1": 5.505138397216797,
+        "TSNE-2": 1.002389669418335,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -12.692575454711914,
+        "TSNE-2": 1.593322515487671,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": -1.5558379888534546,
+        "TSNE-2": 10.990580558776855,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": -2.3657279014587402,
+        "TSNE-2": -5.524013042449951,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -1.5558379888534546,
+        "TSNE-2": 10.990580558776855,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": 6.903321266174316,
+        "TSNE-2": -9.079084396362305,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -6.229341983795166,
+        "TSNE-2": 7.998112201690674,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": 3.5093564987182617,
+        "TSNE-2": 0.7942451238632202,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -1.7630475759506226,
+        "TSNE-2": 8.194974899291992,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": -10.111786842346191,
+        "TSNE-2": -3.506706476211548,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": 12.096463203430176,
+        "TSNE-2": -3.0148422718048096,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 4.02600622177124,
+        "TSNE-2": 5.9752631187438965,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": 2.981527090072632,
+        "TSNE-2": 2.950948476791382,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 9.416962623596191,
+        "TSNE-2": -0.5309786796569824,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 4.093177795410156,
+        "TSNE-2": 9.50600814819336,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": -3.5851478576660156,
+        "TSNE-2": 2.3498895168304443,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -7.779295921325684,
+        "TSNE-2": 10.137524604797363,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": 3.5093564987182617,
+        "TSNE-2": 0.7942451238632202,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -6.770470142364502,
+        "TSNE-2": 1.6873563528060913,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -8.495887756347656,
+        "TSNE-2": -9.700051307678223,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": -0.5677433013916016,
+        "TSNE-2": -6.628688812255859,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -7.384252071380615,
+        "TSNE-2": 6.773331642150879,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": 1.3250401020050049,
+        "TSNE-2": -7.235985279083252,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": 7.071500778198242,
+        "TSNE-2": -5.337430953979492,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 3.5518410205841064,
+        "TSNE-2": -5.086569309234619,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": 3.558692693710327,
+        "TSNE-2": -1.346257209777832,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 2.6528639793395996,
+        "TSNE-2": -6.931305408477783,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -3.0859053134918213,
+        "TSNE-2": 10.059934616088867,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": -1.6511107683181763,
+        "TSNE-2": -8.064459800720215,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -3.9523894786834717,
+        "TSNE-2": 12.245454788208008,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": -0.48332610726356506,
+        "TSNE-2": 6.480808258056641,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": -6.650823593139648,
+        "TSNE-2": -10.142563819885254,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": 1.775687336921692,
+        "TSNE-2": 2.1154730319976807,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -3.011789321899414,
+        "TSNE-2": 3.4787328243255615,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 6.89990758895874,
+        "TSNE-2": 10.943474769592285,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": 8.101791381835938,
+        "TSNE-2": 5.495001316070557,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 7.566277980804443,
+        "TSNE-2": 3.663548469543457,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -2.8606722354888916,
+        "TSNE-2": 5.396909236907959,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 7.778164386749268,
+        "TSNE-2": -2.168931722640991,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 5.984753608703613,
+        "TSNE-2": -0.9154017567634583,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -1.0345686674118042,
+        "TSNE-2": -14.145755767822266,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -6.561902046203613,
+        "TSNE-2": 4.5359721183776855,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": 0.2801285982131958,
+        "TSNE-2": 2.377779245376587,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -0.06528764963150024,
+        "TSNE-2": -0.16611534357070923,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -0.7560588717460632,
+        "TSNE-2": -4.201045036315918,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": 2.8753859996795654,
+        "TSNE-2": 5.947302341461182,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": 10.34006404876709,
+        "TSNE-2": 2.8082947731018066,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -3.401491165161133,
+        "TSNE-2": -5.636927127838135,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": 12.096463203430176,
+        "TSNE-2": -3.0148422718048096,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 1.2721669673919678,
+        "TSNE-2": -3.8781886100769043,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -5.7516021728515625,
+        "TSNE-2": -2.288848876953125,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": -9.37080192565918,
+        "TSNE-2": -3.4361279010772705,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": 1.209944248199463,
+        "TSNE-2": 1.367769479751587,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 5.0590081214904785,
+        "TSNE-2": 6.657569408416748,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": -4.609957218170166,
+        "TSNE-2": 2.6356587409973145,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 0.5061172246932983,
+        "TSNE-2": -9.21311092376709,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -5.357946395874023,
+        "TSNE-2": 1.549418330192566,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -3.573181629180908,
+        "TSNE-2": -8.121153831481934,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": -0.7245992422103882,
+        "TSNE-2": 0.7834786176681519,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 1.2233836650848389,
+        "TSNE-2": -10.5563325881958,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -3.8200974464416504,
+        "TSNE-2": 7.466197967529297,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": -1.3660751581192017,
+        "TSNE-2": -10.926380157470703,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": 1.0285208225250244,
+        "TSNE-2": 9.678330421447754,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": 8.102350234985352,
+        "TSNE-2": 1.9764069318771362,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -5.8129563331604,
+        "TSNE-2": -5.2778239250183105,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": 0.5823119878768921,
+        "TSNE-2": 4.016545295715332,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 7.640512943267822,
+        "TSNE-2": 4.398758888244629,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 8.556476593017578,
+        "TSNE-2": -3.671992540359497,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -5.187324047088623,
+        "TSNE-2": 4.357660293579102,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": 0.06587715446949005,
+        "TSNE-2": -7.232893943786621,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -5.3007307052612305,
+        "TSNE-2": 5.607546329498291,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": -7.779295921325684,
+        "TSNE-2": 10.137524604797363,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": -10.515114784240723,
+        "TSNE-2": 5.085931301116943,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": 0.45426997542381287,
+        "TSNE-2": -1.946729302406311,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 5.205659866333008,
+        "TSNE-2": 3.7280616760253906,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": 0.06698376685380936,
+        "TSNE-2": 7.4445576667785645,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": 1.1941150426864624,
+        "TSNE-2": -1.8145568370819092,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -10.515114784240723,
+        "TSNE-2": 5.085931301116943,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": -6.243646144866943,
+        "TSNE-2": -0.778897225856781,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -10.635613441467285,
+        "TSNE-2": -6.127326011657715,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": 6.05728816986084,
+        "TSNE-2": -3.4783594608306885,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -3.33378267288208,
+        "TSNE-2": -2.3602168560028076,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -3.8200974464416504,
+        "TSNE-2": 7.466197967529297,
+        "cluster": 5,
+        "keywords": "born, people, nativist, idea, unemployment"
+      },
+      {
+        "TSNE-1": -2.8043434619903564,
+        "TSNE-2": -0.46892935037612915,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 5.984753608703613,
+        "TSNE-2": -0.9154017567634583,
+        "cluster": 4,
+        "keywords": "competition, immigration, fear, contribute, economy"
+      },
+      {
+        "TSNE-1": -10.403827667236328,
+        "TSNE-2": -5.278637409210205,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": -0.7435116171836853,
+        "TSNE-2": 12.550045013427734,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": 3.532358407974243,
+        "TSNE-2": 12.738777160644531,
+        "cluster": 0,
+        "keywords": "immigrant, job, would, american, away"
+      },
+      {
+        "TSNE-1": -1.8053953647613525,
+        "TSNE-2": 3.973331928253174,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": 3.8863730430603027,
+        "TSNE-2": -10.596792221069336,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      },
+      {
+        "TSNE-1": -2.2525689601898193,
+        "TSNE-2": 1.483453392982483,
+        "cluster": 1,
+        "keywords": "cultural, economic, many, often, belief"
+      },
+      {
+        "TSNE-1": -6.650823593139648,
+        "TSNE-2": -10.142563819885254,
+        "cluster": 3,
+        "keywords": "chinese, worker, perception, threat, fact"
+      },
+      {
+        "TSNE-1": 1.833520770072937,
+        "TSNE-2": -9.416265487670898,
+        "cluster": 2,
+        "keywords": "willing, thought, work, lower, wage"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_252",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-215094 - why did americans think immigrants wamted to take their jobs"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-5af8fb899bced2e1effa804bd25c8c1b"
+  },
+  "datasets": {
+    "data-5af8fb899bced2e1effa804bd25c8c1b": [
+      {
+        "TSNE-1": -0.7546103000640869,
+        "TSNE-2": -6.349600791931152,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -4.847043991088867,
+        "TSNE-2": 6.88011360168457,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": 11.76015853881836,
+        "TSNE-2": -6.1010942459106445,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": 10.633272171020508,
+        "TSNE-2": 0.7962908148765564,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": 11.76015853881836,
+        "TSNE-2": -6.1010942459106445,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": -10.021737098693848,
+        "TSNE-2": 11.659161567687988,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": -9.035279273986816,
+        "TSNE-2": 1.0737234354019165,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 1.8119698762893677,
+        "TSNE-2": 0.5266938209533691,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -0.9887704253196716,
+        "TSNE-2": -12.161036491394043,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": -6.055858612060547,
+        "TSNE-2": -14.78519344329834,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": 9.49145221710205,
+        "TSNE-2": 7.6964802742004395,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": -15.567069053649902,
+        "TSNE-2": 1.2542972564697266,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 2.461596727371216,
+        "TSNE-2": 4.987249851226807,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": 10.994851112365723,
+        "TSNE-2": -2.323911190032959,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": -3.799978256225586,
+        "TSNE-2": -16.05270767211914,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": 4.411418437957764,
+        "TSNE-2": -0.09314044564962387,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -13.02690601348877,
+        "TSNE-2": 6.780710697174072,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": 1.8119698762893677,
+        "TSNE-2": 0.5266938209533691,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 5.919029235839844,
+        "TSNE-2": -0.8836857080459595,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 6.262417316436768,
+        "TSNE-2": -6.5280890464782715,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 14.481184005737305,
+        "TSNE-2": -0.8415272235870361,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": 6.501054763793945,
+        "TSNE-2": 4.594493865966797,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": 13.492520332336426,
+        "TSNE-2": 0.8199180364608765,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": -11.18693733215332,
+        "TSNE-2": -7.2124810218811035,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": -2.24702525138855,
+        "TSNE-2": -3.3269808292388916,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 7.897680282592773,
+        "TSNE-2": -1.5987367630004883,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": 11.612080574035645,
+        "TSNE-2": -0.6394496560096741,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": -8.082746505737305,
+        "TSNE-2": -0.7363982200622559,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 2.9932000637054443,
+        "TSNE-2": -11.60594367980957,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": -10.749464988708496,
+        "TSNE-2": 11.373178482055664,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": -1.8411533832550049,
+        "TSNE-2": -11.994003295898438,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": -1.6733274459838867,
+        "TSNE-2": 5.488203048706055,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": 2.30784010887146,
+        "TSNE-2": 3.506025791168213,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": 2.0560128688812256,
+        "TSNE-2": -7.343302249908447,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 4.300021171569824,
+        "TSNE-2": 7.024007797241211,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": -6.443759918212891,
+        "TSNE-2": 0.9383594989776611,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 0.13179771602153778,
+        "TSNE-2": -3.503356695175171,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -1.1477068662643433,
+        "TSNE-2": 7.455564975738525,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": -8.444496154785156,
+        "TSNE-2": -9.748207092285156,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": -3.2842535972595215,
+        "TSNE-2": 0.618929922580719,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 3.560720205307007,
+        "TSNE-2": -4.933572292327881,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -4.853677272796631,
+        "TSNE-2": -4.032817363739014,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 3.6634397506713867,
+        "TSNE-2": 3.901712417602539,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": -6.833422660827637,
+        "TSNE-2": -1.3013089895248413,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 2.314950942993164,
+        "TSNE-2": -2.605074882507324,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 11.984172821044922,
+        "TSNE-2": 7.128335475921631,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": -5.888839244842529,
+        "TSNE-2": 4.167848587036133,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": 6.849481105804443,
+        "TSNE-2": -9.138848304748535,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 9.49145221710205,
+        "TSNE-2": 7.6964802742004395,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": -1.5361242294311523,
+        "TSNE-2": -1.4360567331314087,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -10.202044486999512,
+        "TSNE-2": 0.040449108928442,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": -4.785882949829102,
+        "TSNE-2": -15.578108787536621,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": 4.334303855895996,
+        "TSNE-2": 4.8421502113342285,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": -14.91000747680664,
+        "TSNE-2": 0.0066849589347839355,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 3.791165590286255,
+        "TSNE-2": -2.323547840118408,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 12.213826179504395,
+        "TSNE-2": 0.9995072484016418,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": 5.03971004486084,
+        "TSNE-2": 1.300052523612976,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": 6.534764766693115,
+        "TSNE-2": 11.137479782104492,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": -9.076187133789062,
+        "TSNE-2": -3.70369815826416,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 12.16360092163086,
+        "TSNE-2": 2.0918140411376953,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": 1.1759099960327148,
+        "TSNE-2": 9.998719215393066,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": -9.306350708007812,
+        "TSNE-2": 2.3105576038360596,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": -2.7944834232330322,
+        "TSNE-2": -7.822932243347168,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": -4.599147319793701,
+        "TSNE-2": 3.798532724380493,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": -0.3162216544151306,
+        "TSNE-2": 0.84401935338974,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -2.248206615447998,
+        "TSNE-2": -4.778965473175049,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -0.14406967163085938,
+        "TSNE-2": -0.6443066000938416,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 0.9865728616714478,
+        "TSNE-2": -5.4254255294799805,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -6.417996883392334,
+        "TSNE-2": -4.514651298522949,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": -8.243772506713867,
+        "TSNE-2": 5.664825916290283,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": -4.737329483032227,
+        "TSNE-2": -5.270315647125244,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": -13.02690601348877,
+        "TSNE-2": 6.780710697174072,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": -3.590749740600586,
+        "TSNE-2": 11.16751766204834,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": -1.144106149673462,
+        "TSNE-2": 2.8419363498687744,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": 0.743172287940979,
+        "TSNE-2": -1.9904534816741943,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -3.6425888538360596,
+        "TSNE-2": -1.8253093957901,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": -5.636214733123779,
+        "TSNE-2": -7.026975631713867,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": -3.590749740600586,
+        "TSNE-2": 11.16751766204834,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": -4.969503879547119,
+        "TSNE-2": -1.3974449634552002,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 6.1446709632873535,
+        "TSNE-2": -9.948221206665039,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 9.525202751159668,
+        "TSNE-2": 3.177501916885376,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": -14.439541816711426,
+        "TSNE-2": -0.9063829183578491,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 1.2628003358840942,
+        "TSNE-2": 10.814739227294922,
+        "cluster": 0,
+        "keywords": "customer, product, user, survey, feature"
+      },
+      {
+        "TSNE-1": 6.872976303100586,
+        "TSNE-2": -4.272030830383301,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -3.2842535972595215,
+        "TSNE-2": 0.618929922580719,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": 5.383514404296875,
+        "TSNE-2": -10.95123291015625,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": 7.7611083984375,
+        "TSNE-2": 1.2180893421173096,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      },
+      {
+        "TSNE-1": -7.823251724243164,
+        "TSNE-2": 14.203597068786621,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": 4.9111480712890625,
+        "TSNE-2": -1.5393315553665161,
+        "cluster": 3,
+        "keywords": "value, company, rate, need, target"
+      },
+      {
+        "TSNE-1": -4.376577377319336,
+        "TSNE-2": -9.828421592712402,
+        "cluster": 5,
+        "keywords": "accurate, competitive, set, single, switch"
+      },
+      {
+        "TSNE-1": -8.860703468322754,
+        "TSNE-2": -7.171131610870361,
+        "cluster": 1,
+        "keywords": "metric, high, include, per, fit"
+      },
+      {
+        "TSNE-1": -1.6733274459838867,
+        "TSNE-2": 5.488203048706055,
+        "cluster": 4,
+        "keywords": "growth, startup, achieve, test, viable"
+      },
+      {
+        "TSNE-1": 14.753589630126953,
+        "TSNE-2": 2.6468544006347656,
+        "cluster": 2,
+        "keywords": "use, feedback, market, measure, analyze"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_103",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-90454 - how to measure and improve product market fit?"
+  }
+}

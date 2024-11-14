@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-86d264a4ca9c60deba17fd46e7e1c540"
+  },
+  "datasets": {
+    "data-86d264a4ca9c60deba17fd46e7e1c540": [
+      {
+        "TSNE-1": 2.0487093925476074,
+        "TSNE-2": 3.0759658813476562,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 0.6839569807052612,
+        "TSNE-2": 5.593894004821777,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": 9.314763069152832,
+        "TSNE-2": -5.388200283050537,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": 5.2624006271362305,
+        "TSNE-2": -6.2651472091674805,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": 9.314763069152832,
+        "TSNE-2": -5.388200283050537,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": -22.69174575805664,
+        "TSNE-2": -17.3623046875,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": -4.474420547485352,
+        "TSNE-2": 8.52813720703125,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -2.718670129776001,
+        "TSNE-2": 0.4206357002258301,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 8.180215835571289,
+        "TSNE-2": 5.265452861785889,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": 10.804659843444824,
+        "TSNE-2": 0.36931464076042175,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": -7.1295576095581055,
+        "TSNE-2": -4.074636936187744,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": -11.84220027923584,
+        "TSNE-2": 5.029120922088623,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -2.0081801414489746,
+        "TSNE-2": 2.7513701915740967,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -4.707971572875977,
+        "TSNE-2": 1.7012275457382202,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -11.813663482666016,
+        "TSNE-2": -5.546375751495361,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": 0.7997235655784607,
+        "TSNE-2": -3.2261927127838135,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -5.9395036697387695,
+        "TSNE-2": -8.698296546936035,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": -2.718670129776001,
+        "TSNE-2": 0.4206357002258301,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -0.8547687530517578,
+        "TSNE-2": -3.5048253536224365,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 6.531102180480957,
+        "TSNE-2": 8.817298889160156,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": 4.848926067352295,
+        "TSNE-2": -9.778770446777344,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": -5.982786178588867,
+        "TSNE-2": 11.716669082641602,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": 3.37306809425354,
+        "TSNE-2": -10.477123260498047,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": -3.204178810119629,
+        "TSNE-2": 3.3824098110198975,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -7.583320617675781,
+        "TSNE-2": 2.2042341232299805,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -0.5558874607086182,
+        "TSNE-2": 3.5806405544281006,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 5.686467170715332,
+        "TSNE-2": -4.783982276916504,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": 3.6192026138305664,
+        "TSNE-2": 0.06640967726707458,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -11.813663482666016,
+        "TSNE-2": -5.546375751495361,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": 11.23278522491455,
+        "TSNE-2": -8.361042976379395,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": 8.811945915222168,
+        "TSNE-2": 5.358282089233398,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": -1.6588407754898071,
+        "TSNE-2": -10.422988891601562,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": -0.9591686129570007,
+        "TSNE-2": 2.029111862182617,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 2.716806650161743,
+        "TSNE-2": -0.8688687086105347,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 3.137423276901245,
+        "TSNE-2": -2.7276601791381836,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 2.0026285648345947,
+        "TSNE-2": 0.7981528043746948,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -6.166989326477051,
+        "TSNE-2": -0.9488476514816284,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -4.1269755363464355,
+        "TSNE-2": 6.627847671508789,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -1.6144413948059082,
+        "TSNE-2": 4.75380277633667,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -3.1965811252593994,
+        "TSNE-2": -3.418128252029419,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 1.1447596549987793,
+        "TSNE-2": 6.492284297943115,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -5.046131134033203,
+        "TSNE-2": 11.182689666748047,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": 0.09537442773580551,
+        "TSNE-2": 1.7490538358688354,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -5.2029194831848145,
+        "TSNE-2": 4.5726118087768555,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": 0.041677702218294144,
+        "TSNE-2": -0.7165184020996094,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 13.085668563842773,
+        "TSNE-2": -6.368609428405762,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": 2.4275176525115967,
+        "TSNE-2": -4.598350524902344,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": 12.184563636779785,
+        "TSNE-2": 1.839194416999817,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": -7.1295576095581055,
+        "TSNE-2": -4.074636936187744,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": -0.5802463293075562,
+        "TSNE-2": -0.0052132210694253445,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 0.05475412309169769,
+        "TSNE-2": 8.974769592285156,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": 10.804659843444824,
+        "TSNE-2": 0.36931464076042175,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": 0.6535413265228271,
+        "TSNE-2": 2.4431071281433105,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 13.085668563842773,
+        "TSNE-2": -6.368609428405762,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": 0.8587509989738464,
+        "TSNE-2": -2.1935698986053467,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 3.913008689880371,
+        "TSNE-2": -9.424175262451172,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": -0.15552660822868347,
+        "TSNE-2": -5.567309856414795,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 10.804659843444824,
+        "TSNE-2": 0.36931464076042175,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": 4.6503119468688965,
+        "TSNE-2": 1.5044478178024292,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": 4.506689548492432,
+        "TSNE-2": -7.842283725738525,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": -10.059439659118652,
+        "TSNE-2": 1.0565388202667236,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -2.2518911361694336,
+        "TSNE-2": 8.39793872833252,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -1.304233431816101,
+        "TSNE-2": 7.292425155639648,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -1.6588407754898071,
+        "TSNE-2": -10.422988891601562,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": -8.134143829345703,
+        "TSNE-2": -1.922922968864441,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": 3.928739309310913,
+        "TSNE-2": 5.163580417633057,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": 6.477293491363525,
+        "TSNE-2": 4.792597770690918,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": -3.9755167961120605,
+        "TSNE-2": -0.8111210465431213,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -1.3821629285812378,
+        "TSNE-2": 11.752914428710938,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": 2.8380017280578613,
+        "TSNE-2": -8.837660789489746,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": -1.6163228750228882,
+        "TSNE-2": 10.144893646240234,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -5.9395036697387695,
+        "TSNE-2": -8.698296546936035,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": 1.8964362144470215,
+        "TSNE-2": 10.070752143859863,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": 7.055382251739502,
+        "TSNE-2": -2.1109297275543213,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": -6.680480480194092,
+        "TSNE-2": -0.41793277859687805,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": 2.5798325538635254,
+        "TSNE-2": 7.214072227478027,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": 5.482585906982422,
+        "TSNE-2": -2.3605847358703613,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": 1.8964362144470215,
+        "TSNE-2": 10.070752143859863,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -0.9002844095230103,
+        "TSNE-2": 8.420023918151855,
+        "cluster": 3,
+        "keywords": "chief, even, executive, position, financial"
+      },
+      {
+        "TSNE-1": -9.93016242980957,
+        "TSNE-2": -7.672067642211914,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": -5.359065532684326,
+        "TSNE-2": 2.2016658782958984,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -11.84220027923584,
+        "TSNE-2": 5.029120922088623,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -10.682848930358887,
+        "TSNE-2": 0.7831950187683105,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -7.921878814697266,
+        "TSNE-2": 7.441254615783691,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -3.1965811252593994,
+        "TSNE-2": -3.418128252029419,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": -9.612853050231934,
+        "TSNE-2": -6.109455108642578,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": 10.664693832397461,
+        "TSNE-2": -9.407604217529297,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      },
+      {
+        "TSNE-1": -3.4015953540802,
+        "TSNE-2": -6.204658508300781,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": -0.8155480623245239,
+        "TSNE-2": -2.4554316997528076,
+        "cluster": 5,
+        "keywords": "career, professional, within, certification, accountant"
+      },
+      {
+        "TSNE-1": 6.1766676902771,
+        "TSNE-2": 1.9713411331176758,
+        "cluster": 2,
+        "keywords": "account, market, consumer, firm, public"
+      },
+      {
+        "TSNE-1": -7.922939777374268,
+        "TSNE-2": 4.712148189544678,
+        "cluster": 1,
+        "keywords": "internal, role, leadership, may, expertise"
+      },
+      {
+        "TSNE-1": -1.6588407754898071,
+        "TSNE-2": -10.422988891601562,
+        "cluster": 4,
+        "keywords": "director, grow, claim, company, large"
+      },
+      {
+        "TSNE-1": 5.942099571228027,
+        "TSNE-2": -3.9466943740844727,
+        "cluster": 0,
+        "keywords": "audit, auditor, department, move, senior"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_26",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-134629 - what do auditors become after a rapid professional growth?"
+  }
+}

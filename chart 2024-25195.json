@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-77e968cf615a95f709a7813303cf19b4"
+  },
+  "datasets": {
+    "data-77e968cf615a95f709a7813303cf19b4": [
+      {
+        "TSNE-1": -1.288933515548706,
+        "TSNE-2": 0.24836787581443787,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": -6.521323204040527,
+        "TSNE-2": 4.857418060302734,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": -3.29636549949646,
+        "TSNE-2": -10.640007019042969,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -8.51911449432373,
+        "TSNE-2": -7.118987560272217,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -3.29636549949646,
+        "TSNE-2": -10.640007019042969,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -5.694186210632324,
+        "TSNE-2": 8.794057846069336,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": -0.3245719075202942,
+        "TSNE-2": -9.653600692749023,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -1.714477777481079,
+        "TSNE-2": 3.491319417953491,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 3.122292995452881,
+        "TSNE-2": 12.493168830871582,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": 11.0061674118042,
+        "TSNE-2": -3.2575089931488037,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": -5.928649425506592,
+        "TSNE-2": 2.50403094291687,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 5.508261203765869,
+        "TSNE-2": 9.10503101348877,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -3.247864246368408,
+        "TSNE-2": 5.4922261238098145,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 4.013002872467041,
+        "TSNE-2": -1.7649040222167969,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 13.414545059204102,
+        "TSNE-2": -2.466813802719116,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": -4.499933242797852,
+        "TSNE-2": 7.239037036895752,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": -14.390678405761719,
+        "TSNE-2": 2.3571441173553467,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": -1.714477777481079,
+        "TSNE-2": 3.491319417953491,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 1.7030457258224487,
+        "TSNE-2": 7.432131767272949,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": 6.98997163772583,
+        "TSNE-2": 11.402653694152832,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -5.059353828430176,
+        "TSNE-2": -6.247889041900635,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 9.050196647644043,
+        "TSNE-2": 9.582439422607422,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 2.289928674697876,
+        "TSNE-2": -4.252758502960205,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -7.716945171356201,
+        "TSNE-2": 9.087167739868164,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": -2.65729022026062,
+        "TSNE-2": 8.864256858825684,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": 0.28126412630081177,
+        "TSNE-2": 2.38614821434021,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": -0.7705649137496948,
+        "TSNE-2": -3.6042840480804443,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -1.1362277269363403,
+        "TSNE-2": -8.628413200378418,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 11.461082458496094,
+        "TSNE-2": -2.8152904510498047,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": -1.4359703063964844,
+        "TSNE-2": 15.424452781677246,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": -9.680875778198242,
+        "TSNE-2": 2.9919252395629883,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": -6.804533004760742,
+        "TSNE-2": -14.50168228149414,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -1.630869746208191,
+        "TSNE-2": 5.4146647453308105,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 2.233142614364624,
+        "TSNE-2": 2.8136072158813477,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 12.531434059143066,
+        "TSNE-2": -7.958885192871094,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": 6.12575626373291,
+        "TSNE-2": 1.7673217058181763,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -8.269929885864258,
+        "TSNE-2": -0.27249690890312195,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": -1.4408223628997803,
+        "TSNE-2": -12.896537780761719,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 0.24304509162902832,
+        "TSNE-2": 4.392244815826416,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 2.6560826301574707,
+        "TSNE-2": 5.590782165527344,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 8.814128875732422,
+        "TSNE-2": 6.606476306915283,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -12.251051902770996,
+        "TSNE-2": 5.90937614440918,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": -2.2770755290985107,
+        "TSNE-2": 6.441588401794434,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 9.304179191589355,
+        "TSNE-2": 1.1402589082717896,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 5.056791305541992,
+        "TSNE-2": 6.5549139976501465,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -0.5049150586128235,
+        "TSNE-2": 15.380327224731445,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": -3.1993448734283447,
+        "TSNE-2": 11.327593803405762,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": 8.547586441040039,
+        "TSNE-2": -5.847189903259277,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": -5.928649425506592,
+        "TSNE-2": 2.50403094291687,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 4.725732803344727,
+        "TSNE-2": 4.222712516784668,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 5.636264801025391,
+        "TSNE-2": 14.815913200378418,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": 11.980202674865723,
+        "TSNE-2": -4.182309627532959,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": -4.073488712310791,
+        "TSNE-2": 4.983773231506348,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": 2.7950439453125,
+        "TSNE-2": 0.47297796607017517,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -3.512814521789551,
+        "TSNE-2": -0.5733454823493958,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": -3.8361098766326904,
+        "TSNE-2": -5.202719211578369,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 6.3924970626831055,
+        "TSNE-2": 3.5410916805267334,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -8.19912052154541,
+        "TSNE-2": 12.754197120666504,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": -10.67475700378418,
+        "TSNE-2": 1.4474194049835205,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": -2.1592111587524414,
+        "TSNE-2": -4.749246597290039,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 5.315040588378906,
+        "TSNE-2": -10.283946990966797,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 5.087296009063721,
+        "TSNE-2": 1.838134527206421,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -5.808734893798828,
+        "TSNE-2": 0.26565465331077576,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": -0.7195923924446106,
+        "TSNE-2": 10.73305606842041,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": -7.803625583648682,
+        "TSNE-2": -1.47062349319458,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": -0.30850106477737427,
+        "TSNE-2": 7.417346477508545,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": -9.588565826416016,
+        "TSNE-2": -2.551002025604248,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": 0.35464000701904297,
+        "TSNE-2": 1.0685299634933472,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": -11.14582633972168,
+        "TSNE-2": 7.391750335693359,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": 1.2566903829574585,
+        "TSNE-2": -3.4538981914520264,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -9.239725112915039,
+        "TSNE-2": 6.133194923400879,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": -14.390678405761719,
+        "TSNE-2": 2.3571441173553467,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": 1.3427542448043823,
+        "TSNE-2": -13.121062278747559,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 1.5718945264816284,
+        "TSNE-2": -8.55282974243164,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -8.206036567687988,
+        "TSNE-2": -3.3402023315429688,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": 13.332422256469727,
+        "TSNE-2": 4.9643354415893555,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -11.33089542388916,
+        "TSNE-2": -1.581311583518982,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": 1.3427542448043823,
+        "TSNE-2": -13.121062278747559,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 3.068953514099121,
+        "TSNE-2": -5.401065826416016,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 9.598472595214844,
+        "TSNE-2": -4.061602592468262,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": 10.374701499938965,
+        "TSNE-2": 3.6601827144622803,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 7.074742317199707,
+        "TSNE-2": -0.5316950678825378,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 5.315040588378906,
+        "TSNE-2": -10.283946990966797,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": 2.2896738052368164,
+        "TSNE-2": 9.636726379394531,
+        "cluster": 3,
+        "keywords": "system, different, observation, consciousness, difference"
+      },
+      {
+        "TSNE-1": 2.6560826301574707,
+        "TSNE-2": 5.590782165527344,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 6.827880382537842,
+        "TSNE-2": -6.361177444458008,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": 9.900297164916992,
+        "TSNE-2": -11.637982368469238,
+        "cluster": 0,
+        "keywords": "expectation, outcome, presence, alter, experiment"
+      },
+      {
+        "TSNE-1": -15.657896995544434,
+        "TSNE-2": -3.609895706176758,
+        "cluster": 5,
+        "keywords": "observable, physical, value, randomly, force"
+      },
+      {
+        "TSNE-1": 7.089836120605469,
+        "TSNE-2": 5.584609031677246,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": 5.71124792098999,
+        "TSNE-2": 10.277484893798828,
+        "cluster": 4,
+        "keywords": "property, role, reality, photon, behavior"
+      },
+      {
+        "TSNE-1": -2.8516199588775635,
+        "TSNE-2": 1.6171575784683228,
+        "cluster": 1,
+        "keywords": "quantum, observer, state, particle, measurement"
+      },
+      {
+        "TSNE-1": -6.804533004760742,
+        "TSNE-2": -14.50168228149414,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      },
+      {
+        "TSNE-1": -0.31240132451057434,
+        "TSNE-2": -4.705743789672852,
+        "cluster": 2,
+        "keywords": "change, interaction, phenomenon, act, effect"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_194",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-25195 - does an observer really make a difference in the quantum world"
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-ac59b60be2ed8500e1f73f7852f3a19e"
+  },
+  "datasets": {
+    "data-ac59b60be2ed8500e1f73f7852f3a19e": [
+      {
+        "TSNE-1": 0.7239252328872681,
+        "TSNE-2": -1.3204987049102783,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -5.50581169128418,
+        "TSNE-2": -1.746427297592163,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -7.8190717697143555,
+        "TSNE-2": -5.493585586547852,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -9.711148262023926,
+        "TSNE-2": -2.2634410858154297,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -7.8190717697143555,
+        "TSNE-2": -5.493585586547852,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -5.738110542297363,
+        "TSNE-2": -9.856293678283691,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": 9.454237937927246,
+        "TSNE-2": 0.4936559796333313,
+        "cluster": 4,
+        "keywords": "funnel, why, silence, also, customer"
+      },
+      {
+        "TSNE-1": -0.8599833846092224,
+        "TSNE-2": 0.6918538212776184,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 3.0658867359161377,
+        "TSNE-2": 9.491973876953125,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 0.10328076779842377,
+        "TSNE-2": -10.666037559509277,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": -1.4257272481918335,
+        "TSNE-2": 7.7599921226501465,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": 5.861656188964844,
+        "TSNE-2": 3.308626890182495,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 5.563716888427734,
+        "TSNE-2": -2.9208250045776367,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 8.990236282348633,
+        "TSNE-2": -1.1496977806091309,
+        "cluster": 4,
+        "keywords": "funnel, why, silence, also, customer"
+      },
+      {
+        "TSNE-1": -7.819254398345947,
+        "TSNE-2": 6.29567289352417,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": 7.783791542053223,
+        "TSNE-2": -4.803372383117676,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -4.7889814376831055,
+        "TSNE-2": 7.430380344390869,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": -0.8599833846092224,
+        "TSNE-2": 0.6918538212776184,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 8.315865516662598,
+        "TSNE-2": -5.616786003112793,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -10.945231437683105,
+        "TSNE-2": 1.5942046642303467,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": -6.475396633148193,
+        "TSNE-2": 1.9339368343353271,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -2.8474080562591553,
+        "TSNE-2": 0.495939165353775,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -5.903688907623291,
+        "TSNE-2": 1.1804238557815552,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 0.1314627230167389,
+        "TSNE-2": 2.82574462890625,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 3.3595898151397705,
+        "TSNE-2": -8.873268127441406,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 0.27422624826431274,
+        "TSNE-2": 1.0624403953552246,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -9.54844856262207,
+        "TSNE-2": -2.1262736320495605,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 10.100824356079102,
+        "TSNE-2": 0.6165701746940613,
+        "cluster": 4,
+        "keywords": "funnel, why, silence, also, customer"
+      },
+      {
+        "TSNE-1": -2.0848374366760254,
+        "TSNE-2": -11.75979232788086,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": -4.83573579788208,
+        "TSNE-2": -8.301732063293457,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": 3.1877589225769043,
+        "TSNE-2": 9.261287689208984,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 4.196327209472656,
+        "TSNE-2": 1.1752880811691284,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 4.35325813293457,
+        "TSNE-2": -3.0887317657470703,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 0.17167165875434875,
+        "TSNE-2": -6.995495319366455,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": 2.626837730407715,
+        "TSNE-2": 1.0750352144241333,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 5.46299934387207,
+        "TSNE-2": -9.76848316192627,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -1.8992412090301514,
+        "TSNE-2": -2.4070379734039307,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 10.477705955505371,
+        "TSNE-2": 3.0947861671447754,
+        "cluster": 4,
+        "keywords": "funnel, why, silence, also, customer"
+      },
+      {
+        "TSNE-1": 2.3931617736816406,
+        "TSNE-2": -1.9850149154663086,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 0.5956103801727295,
+        "TSNE-2": -3.480210065841675,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 1.4173506498336792,
+        "TSNE-2": 0.08803890645503998,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 1.6660234928131104,
+        "TSNE-2": 6.038723945617676,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 5.1216206550598145,
+        "TSNE-2": -4.2144575119018555,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 4.328176498413086,
+        "TSNE-2": -0.6461001634597778,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -2.415923595428467,
+        "TSNE-2": -3.259425401687622,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -1.888793706893921,
+        "TSNE-2": 11.747384071350098,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": 5.5176591873168945,
+        "TSNE-2": 2.934000015258789,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -10.471381187438965,
+        "TSNE-2": 5.824294090270996,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": -1.4219131469726562,
+        "TSNE-2": 7.808999538421631,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": 5.131282329559326,
+        "TSNE-2": -9.671499252319336,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -4.763606548309326,
+        "TSNE-2": -4.73520565032959,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -0.2580317258834839,
+        "TSNE-2": -10.862785339355469,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": 5.284363746643066,
+        "TSNE-2": -3.2877159118652344,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -1.2286138534545898,
+        "TSNE-2": -2.229736328125,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -0.14098846912384033,
+        "TSNE-2": -6.88408899307251,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": -7.552727222442627,
+        "TSNE-2": 0.2545888125896454,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 6.5325751304626465,
+        "TSNE-2": -5.848121166229248,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -3.1450531482696533,
+        "TSNE-2": -11.981995582580566,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": -1.7438474893569946,
+        "TSNE-2": 3.7258596420288086,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -7.025240898132324,
+        "TSNE-2": 0.9314960241317749,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 9.25502872467041,
+        "TSNE-2": 5.647939205169678,
+        "cluster": 4,
+        "keywords": "funnel, why, silence, also, customer"
+      },
+      {
+        "TSNE-1": -5.0600996017456055,
+        "TSNE-2": -3.9444010257720947,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 3.7555408477783203,
+        "TSNE-2": 5.722431659698486,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": 5.5558319091796875,
+        "TSNE-2": 0.9740341305732727,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -4.386331558227539,
+        "TSNE-2": 4.255490779876709,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": -1.6438326835632324,
+        "TSNE-2": 1.9864131212234497,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": -2.3465921878814697,
+        "TSNE-2": -1.307811975479126,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 2.105563163757324,
+        "TSNE-2": -3.4104413986206055,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 0.9325485825538635,
+        "TSNE-2": 5.521044731140137,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -8.000885963439941,
+        "TSNE-2": 2.722472667694092,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": 1.0944936275482178,
+        "TSNE-2": 5.060785293579102,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -4.7889814376831055,
+        "TSNE-2": 7.430380344390869,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": 9.036738395690918,
+        "TSNE-2": 2.863968849182129,
+        "cluster": 4,
+        "keywords": "funnel, why, silence, also, customer"
+      },
+      {
+        "TSNE-1": 2.2680461406707764,
+        "TSNE-2": -5.5884294509887695,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -4.907388687133789,
+        "TSNE-2": 3.7665810585021973,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": -4.264488697052002,
+        "TSNE-2": -0.2597816586494446,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 2.940469980239868,
+        "TSNE-2": -5.9561872482299805,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 9.036738395690918,
+        "TSNE-2": 2.863968849182129,
+        "cluster": 4,
+        "keywords": "funnel, why, silence, also, customer"
+      },
+      {
+        "TSNE-1": 4.255159854888916,
+        "TSNE-2": 5.5674214363098145,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -10.565576553344727,
+        "TSNE-2": 5.833475589752197,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": 1.642634630203247,
+        "TSNE-2": 2.602135181427002,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -1.8492426872253418,
+        "TSNE-2": 11.797103881835938,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": 9.199743270874023,
+        "TSNE-2": 6.016155242919922,
+        "cluster": 4,
+        "keywords": "funnel, why, silence, also, customer"
+      },
+      {
+        "TSNE-1": 6.698206901550293,
+        "TSNE-2": -1.5175505876541138,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": 0.5956103801727295,
+        "TSNE-2": -3.480210065841675,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -2.8309590816497803,
+        "TSNE-2": -11.25420093536377,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": -4.566381454467773,
+        "TSNE-2": -8.049342155456543,
+        "cluster": 3,
+        "keywords": "name, domain, privileged, potentially, fishing"
+      },
+      {
+        "TSNE-1": -3.922797203063965,
+        "TSNE-2": 2.219977855682373,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 8.491613388061523,
+        "TSNE-2": -4.5642781257629395,
+        "cluster": 5,
+        "keywords": "help, specific, involves, method, provide"
+      },
+      {
+        "TSNE-1": -5.819925785064697,
+        "TSNE-2": 3.862651824951172,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      },
+      {
+        "TSNE-1": -3.6965653896331787,
+        "TSNE-2": -1.2521998882293701,
+        "cluster": 1,
+        "keywords": "gathering, like, reliable, strategy, effective"
+      },
+      {
+        "TSNE-1": 4.196327209472656,
+        "TSNE-2": 1.1752880811691284,
+        "cluster": 0,
+        "keywords": "information, source, question, search, technique"
+      },
+      {
+        "TSNE-1": -8.877817153930664,
+        "TSNE-2": 2.7344422340393066,
+        "cluster": 2,
+        "keywords": "use, tool, boolean, magazine, online"
+      }
+    ]
+  },
+  "encoding": {
+    "color": {
+      "field": "keywords",
+      "legend": {
+        "title": "Keywords"
+      },
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "keywords",
+        "type": "nominal"
+      }
+    ],
+    "x": {
+      "field": "TSNE-1",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "TSNE-2",
+      "type": "quantitative"
+    }
+  },
+  "mark": {
+    "size": 60,
+    "type": "circle"
+  },
+  "params": [
+    {
+      "bind": "scales",
+      "name": "param_276",
+      "select": {
+        "encodings": [
+          "x",
+          "y"
+        ],
+        "type": "interval"
+      }
+    }
+  ],
+  "title": {
+    "align": "center",
+    "text": "2024-190455 - which are effective techniques for seeking more information?"
+  }
+}
