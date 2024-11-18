@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-2bb0d044f7df000d5729684a1fc35f94"
+    "name": "data-a66b42c5547c39aeb5be262adbbe66a1"
   },
   "datasets": {
-    "data-2bb0d044f7df000d5729684a1fc35f94": [
+    "data-a66b42c5547c39aeb5be262adbbe66a1": [
       {
-        "TSNE-1": 2.5246217250823975,
-        "TSNE-2": -1.5616157054901123,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
-      },
-      {
-        "TSNE-1": 5.8561506271362305,
-        "TSNE-2": -2.879072666168213,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
-      },
-      {
-        "TSNE-1": 13.37508773803711,
-        "TSNE-2": 5.863282680511475,
+        "TSNE-1": -4.781719207763672,
+        "TSNE-2": 8.010514259338379,
         "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": -3.9024157524108887,
-        "TSNE-2": 9.256226539611816,
+        "TSNE-1": 7.476675510406494,
+        "TSNE-2": -10.60407543182373,
         "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
+        "keywords": "influence, fact, complex, multiple, form"
       },
       {
-        "TSNE-1": 13.37508773803711,
-        "TSNE-2": 5.863282680511475,
+        "TSNE-1": -4.873347759246826,
+        "TSNE-2": -15.419791221618652,
+        "cluster": 1,
+        "keywords": "document, activity, citizen, effective, civic"
+      },
+      {
+        "TSNE-1": 0.5161331295967102,
+        "TSNE-2": -8.211533546447754,
+        "cluster": 5,
+        "keywords": "influence, fact, complex, multiple, form"
+      },
+      {
+        "TSNE-1": -4.873347759246826,
+        "TSNE-2": -15.419791221618652,
+        "cluster": 1,
+        "keywords": "document, activity, citizen, effective, civic"
+      },
+      {
+        "TSNE-1": 0.8491813540458679,
+        "TSNE-2": 3.421579599380493,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": 3.5081722736358643,
+        "TSNE-2": 0.5230537056922913,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": -1.0017563104629517,
+        "TSNE-2": -1.5410150289535522,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": -11.155832290649414,
+        "TSNE-2": 2.9186811447143555,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": 5.116993427276611,
+        "TSNE-2": 10.171365737915039,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": -7.357778072357178,
+        "TSNE-2": 2.0619266033172607,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": 12.31297492980957,
+        "TSNE-2": 5.045328140258789,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": -3.694972038269043,
+        "TSNE-2": 0.6092055439949036,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": 5.169947624206543,
+        "TSNE-2": 2.7247352600097656,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": 6.0714616775512695,
+        "TSNE-2": 11.187108039855957,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": -7.075312614440918,
+        "TSNE-2": -2.579479217529297,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": -3.8455612659454346,
+        "TSNE-2": -9.07998275756836,
+        "cluster": 1,
+        "keywords": "document, activity, citizen, effective, civic"
+      },
+      {
+        "TSNE-1": -1.0017563104629517,
+        "TSNE-2": -1.5410150289535522,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": -5.7551069259643555,
+        "TSNE-2": -3.6273703575134277,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": 4.916152000427246,
+        "TSNE-2": 0.9935207366943359,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": 2.8555753231048584,
+        "TSNE-2": -6.620541095733643,
+        "cluster": 5,
+        "keywords": "influence, fact, complex, multiple, form"
+      },
+      {
+        "TSNE-1": -0.9663971066474915,
+        "TSNE-2": 4.978842735290527,
         "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": 9.2804536819458,
-        "TSNE-2": 5.727950572967529,
+        "TSNE-1": 2.9507079124450684,
+        "TSNE-2": -8.386456489562988,
+        "cluster": 5,
+        "keywords": "influence, fact, complex, multiple, form"
+      },
+      {
+        "TSNE-1": -2.9037845134735107,
+        "TSNE-2": 9.954367637634277,
         "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": 4.4138007164001465,
-        "TSNE-2": 2.0827250480651855,
+        "TSNE-1": -5.549797534942627,
+        "TSNE-2": 0.2600712478160858,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": -3.53153133392334,
+        "TSNE-2": -3.104949951171875,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": 0.3937196433544159,
+        "TSNE-2": -9.43696403503418,
+        "cluster": 1,
+        "keywords": "document, activity, citizen, effective, civic"
+      },
+      {
+        "TSNE-1": 4.278457164764404,
+        "TSNE-2": -1.1962294578552246,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": 6.854318141937256,
+        "TSNE-2": 10.356019020080566,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": -6.857517719268799,
+        "TSNE-2": -14.14413070678711,
+        "cluster": 1,
+        "keywords": "document, activity, citizen, effective, civic"
+      },
+      {
+        "TSNE-1": 7.113814830780029,
+        "TSNE-2": 5.309467315673828,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": -14.040426254272461,
+        "TSNE-2": 1.9973671436309814,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": -1.8463349342346191,
+        "TSNE-2": 1.971389651298523,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": 10.607211112976074,
+        "TSNE-2": -10.406024932861328,
+        "cluster": 5,
+        "keywords": "influence, fact, complex, multiple, form"
+      },
+      {
+        "TSNE-1": 7.289056301116943,
+        "TSNE-2": 4.396278381347656,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": 14.251726150512695,
+        "TSNE-2": 7.045459270477295,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": 7.265922546386719,
+        "TSNE-2": -5.8057169914245605,
+        "cluster": 5,
+        "keywords": "influence, fact, complex, multiple, form"
+      },
+      {
+        "TSNE-1": -6.516196250915527,
+        "TSNE-2": 4.227088928222656,
         "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": 2.199096441268921,
-        "TSNE-2": -4.860586643218994,
+        "TSNE-1": -2.969010353088379,
+        "TSNE-2": -1.4296624660491943,
         "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
+        "keywords": "decision, enables, essential, effectively, democratic"
       },
       {
-        "TSNE-1": -10.27670955657959,
-        "TSNE-2": 11.838934898376465,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": 1.9590612649917603,
-        "TSNE-2": 6.6066412925720215,
-        "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
-      },
-      {
-        "TSNE-1": -9.804180145263672,
-        "TSNE-2": 4.306406021118164,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": -0.8610708713531494,
-        "TSNE-2": -13.279386520385742,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": 0.7242462635040283,
-        "TSNE-2": -1.7936828136444092,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": -4.956472873687744,
-        "TSNE-2": 1.6500177383422852,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": 3.21229887008667,
-        "TSNE-2": 6.9951887130737305,
-        "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
-      },
-      {
-        "TSNE-1": -4.4338579177856445,
-        "TSNE-2": -4.228728294372559,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -10.361801147460938,
-        "TSNE-2": -5.455591678619385,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": 2.199096441268921,
-        "TSNE-2": -4.860586643218994,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": -2.671210527420044,
-        "TSNE-2": -4.206236839294434,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": -2.066200017929077,
-        "TSNE-2": 0.6091416478157043,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": -1.2962007522583008,
-        "TSNE-2": 6.153268337249756,
-        "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
-      },
-      {
-        "TSNE-1": -5.557135581970215,
-        "TSNE-2": -1.6607754230499268,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -2.7253143787384033,
-        "TSNE-2": 7.334083080291748,
-        "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
-      },
-      {
-        "TSNE-1": -7.101632595062256,
-        "TSNE-2": -1.0227417945861816,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -12.091534614562988,
-        "TSNE-2": 5.782782554626465,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": 3.3198602199554443,
-        "TSNE-2": -3.1428163051605225,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
-      },
-      {
-        "TSNE-1": -4.7072553634643555,
-        "TSNE-2": 8.228021621704102,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": 10.503384590148926,
-        "TSNE-2": -4.036463737487793,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
-      },
-      {
-        "TSNE-1": 2.9240384101867676,
-        "TSNE-2": 8.117475509643555,
-        "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
-      },
-      {
-        "TSNE-1": 11.734938621520996,
-        "TSNE-2": 7.61070442199707,
+        "TSNE-1": -7.719033241271973,
+        "TSNE-2": 6.824671268463135,
         "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": 8.897947311401367,
-        "TSNE-2": -0.8087000846862793,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
-      },
-      {
-        "TSNE-1": 2.7048003673553467,
-        "TSNE-2": -13.230267524719238,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": 0.448358416557312,
-        "TSNE-2": -3.581333875656128,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": 0.05773281678557396,
-        "TSNE-2": 0.9665683507919312,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": 8.229835510253906,
-        "TSNE-2": -1.4857999086380005,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
-      },
-      {
-        "TSNE-1": 4.444161415100098,
-        "TSNE-2": -0.2912532091140747,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
-      },
-      {
-        "TSNE-1": -6.384085655212402,
-        "TSNE-2": -11.841887474060059,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -11.851911544799805,
-        "TSNE-2": 0.250630259513855,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -0.14860348403453827,
-        "TSNE-2": -5.549325466156006,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": -6.759881496429443,
-        "TSNE-2": -7.2008891105651855,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": 5.67349100112915,
-        "TSNE-2": 10.7398681640625,
+        "TSNE-1": 12.771577835083008,
+        "TSNE-2": -7.515017509460449,
         "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
+        "keywords": "influence, fact, complex, multiple, form"
       },
       {
-        "TSNE-1": 7.333412170410156,
-        "TSNE-2": -7.222594738006592,
+        "TSNE-1": 9.92707347869873,
+        "TSNE-2": 1.2191991806030273,
         "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
+        "keywords": "critical, individual, better, citizenship, rational"
       },
       {
-        "TSNE-1": -0.7399333715438843,
-        "TSNE-2": -2.879394769668579,
+        "TSNE-1": -2.1159720420837402,
+        "TSNE-2": 0.5534729957580566,
         "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
+        "keywords": "decision, enables, essential, effectively, democratic"
       },
       {
-        "TSNE-1": 6.815962791442871,
-        "TSNE-2": 1.7976080179214478,
-        "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
-      },
-      {
-        "TSNE-1": 2.5794363021850586,
-        "TSNE-2": 1.4546875953674316,
-        "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
-      },
-      {
-        "TSNE-1": 8.907888412475586,
-        "TSNE-2": 12.601616859436035,
-        "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
-      },
-      {
-        "TSNE-1": 8.716190338134766,
-        "TSNE-2": 2.6098313331604004,
-        "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
-      },
-      {
-        "TSNE-1": -2.5484988689422607,
-        "TSNE-2": 4.661452293395996,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": -9.804180145263672,
-        "TSNE-2": 4.306406021118164,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": -2.8728184700012207,
-        "TSNE-2": -8.973869323730469,
+        "TSNE-1": 2.9721624851226807,
+        "TSNE-2": 2.9406001567840576,
         "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
+        "keywords": "decision, enables, essential, effectively, democratic"
       },
       {
-        "TSNE-1": -5.021423816680908,
-        "TSNE-2": -9.773872375488281,
+        "TSNE-1": 10.02450942993164,
+        "TSNE-2": 5.155932903289795,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": 14.512063026428223,
+        "TSNE-2": -3.63462233543396,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": 8.815842628479004,
+        "TSNE-2": -1.4626312255859375,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": -13.571086883544922,
+        "TSNE-2": -3.0115416049957275,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": -7.357778072357178,
+        "TSNE-2": 2.0619266033172607,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": 1.2471040487289429,
+        "TSNE-2": 6.930288314819336,
+        "cluster": 4,
+        "keywords": "ability, contribute, societal, judgment, promotes"
+      },
+      {
+        "TSNE-1": 14.930363655090332,
+        "TSNE-2": 1.7052429914474487,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": 5.662919521331787,
+        "TSNE-2": 8.430103302001953,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": -3.323364496231079,
+        "TSNE-2": 1.6652880907058716,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": -0.23689955472946167,
+        "TSNE-2": 10.385214805603027,
+        "cluster": 4,
+        "keywords": "ability, contribute, societal, judgment, promotes"
+      },
+      {
+        "TSNE-1": -2.486135721206665,
+        "TSNE-2": -5.989203453063965,
         "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
+        "keywords": "document, activity, citizen, effective, civic"
       },
       {
-        "TSNE-1": 1.0601862668991089,
-        "TSNE-2": 8.141935348510742,
+        "TSNE-1": 3.433500289916992,
+        "TSNE-2": -3.785871982574463,
         "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
+        "keywords": "influence, fact, complex, multiple, form"
       },
       {
-        "TSNE-1": -0.36945173144340515,
-        "TSNE-2": -1.2157000303268433,
+        "TSNE-1": -8.540694236755371,
+        "TSNE-2": -3.616992712020874,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": -12.276344299316406,
+        "TSNE-2": -2.858812093734741,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": 0.9879552125930786,
+        "TSNE-2": -2.5125107765197754,
         "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
+        "keywords": "decision, enables, essential, effectively, democratic"
       },
       {
-        "TSNE-1": 4.625767707824707,
-        "TSNE-2": 14.466266632080078,
+        "TSNE-1": 2.9015936851501465,
+        "TSNE-2": -10.571287155151367,
         "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
+        "keywords": "influence, fact, complex, multiple, form"
       },
       {
-        "TSNE-1": 6.302918910980225,
-        "TSNE-2": 6.782729625701904,
+        "TSNE-1": -11.69563102722168,
+        "TSNE-2": -7.5149946212768555,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": 10.273958206176758,
+        "TSNE-2": -5.770628929138184,
+        "cluster": 5,
+        "keywords": "influence, fact, complex, multiple, form"
+      },
+      {
+        "TSNE-1": 13.596358299255371,
+        "TSNE-2": 2.7172701358795166,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": 0.5969067811965942,
+        "TSNE-2": -0.05077408626675606,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": 6.913577079772949,
+        "TSNE-2": -0.10131490230560303,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": -3.2961697578430176,
+        "TSNE-2": 5.3329057693481445,
         "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": -6.868311882019043,
-        "TSNE-2": 3.7152764797210693,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": -6.059626579284668,
-        "TSNE-2": -4.520915985107422,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -2.22568678855896,
-        "TSNE-2": 3.6766676902770996,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": 2.915470838546753,
-        "TSNE-2": -7.541579723358154,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": -6.554028034210205,
-        "TSNE-2": 8.863448143005371,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": -3.8863863945007324,
-        "TSNE-2": 13.983648300170898,
-        "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
-      },
-      {
-        "TSNE-1": 9.737141609191895,
-        "TSNE-2": -7.564741611480713,
+        "TSNE-1": 10.39454174041748,
+        "TSNE-2": 8.36196231842041,
         "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
+        "keywords": "critical, individual, better, citizenship, rational"
       },
       {
-        "TSNE-1": 0.9457252025604248,
-        "TSNE-2": 12.180203437805176,
-        "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
-      },
-      {
-        "TSNE-1": 2.4174184799194336,
-        "TSNE-2": -9.715682029724121,
+        "TSNE-1": -1.4553261995315552,
+        "TSNE-2": -3.910059928894043,
         "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
+        "keywords": "decision, enables, essential, effectively, democratic"
       },
       {
-        "TSNE-1": -9.08345890045166,
-        "TSNE-2": -3.347377300262451,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -2.4227023124694824,
-        "TSNE-2": -1.6506903171539307,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": -8.880932807922363,
-        "TSNE-2": -11.045031547546387,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -1.9743415117263794,
-        "TSNE-2": -6.238490581512451,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": 7.398125171661377,
-        "TSNE-2": -6.034301280975342,
+        "TSNE-1": 11.083484649658203,
+        "TSNE-2": 0.9182167649269104,
         "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
+        "keywords": "critical, individual, better, citizenship, rational"
       },
       {
-        "TSNE-1": -0.7042118310928345,
-        "TSNE-2": 7.177007675170898,
+        "TSNE-1": 1.8423811197280884,
+        "TSNE-2": -5.656965255737305,
         "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
+        "keywords": "influence, fact, complex, multiple, form"
       },
       {
-        "TSNE-1": 6.141725063323975,
-        "TSNE-2": -5.862971782684326,
+        "TSNE-1": 10.946202278137207,
+        "TSNE-2": 2.2534234523773193,
         "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
+        "keywords": "critical, individual, better, citizenship, rational"
       },
       {
-        "TSNE-1": -10.361801147460938,
-        "TSNE-2": -5.455591678619385,
+        "TSNE-1": -3.8455612659454346,
+        "TSNE-2": -9.07998275756836,
         "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
+        "keywords": "document, activity, citizen, effective, civic"
       },
       {
-        "TSNE-1": 5.771956920623779,
-        "TSNE-2": 3.6186091899871826,
+        "TSNE-1": 1.9838662147521973,
+        "TSNE-2": 1.5130736827850342,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
+      },
+      {
+        "TSNE-1": 16.648487091064453,
+        "TSNE-2": 0.8289409875869751,
+        "cluster": 0,
+        "keywords": "critical, individual, better, citizenship, rational"
+      },
+      {
+        "TSNE-1": 1.98281729221344,
+        "TSNE-2": 8.023581504821777,
         "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": -13.872393608093262,
-        "TSNE-2": -4.011168956756592,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -1.1421029567718506,
-        "TSNE-2": -9.039277076721191,
+        "TSNE-1": 3.0567758083343506,
+        "TSNE-2": 5.100775718688965,
         "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
+        "keywords": "decision, enables, essential, effectively, democratic"
       },
       {
-        "TSNE-1": 11.195266723632812,
-        "TSNE-2": -1.0742053985595703,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
-      },
-      {
-        "TSNE-1": -15.013989448547363,
-        "TSNE-2": 0.24545079469680786,
+        "TSNE-1": -5.914260387420654,
+        "TSNE-2": -5.7762980461120605,
         "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
+        "keywords": "document, activity, citizen, effective, civic"
       },
       {
-        "TSNE-1": 5.771956920623779,
-        "TSNE-2": 3.6186091899871826,
-        "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
+        "TSNE-1": 1.9838662147521973,
+        "TSNE-2": 1.5130736827850342,
+        "cluster": 3,
+        "keywords": "decision, enables, essential, effectively, democratic"
       },
       {
-        "TSNE-1": 5.585335731506348,
-        "TSNE-2": -7.787484645843506,
+        "TSNE-1": 12.341187477111816,
+        "TSNE-2": 3.1389288902282715,
         "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
+        "keywords": "critical, individual, better, citizenship, rational"
       },
       {
-        "TSNE-1": -4.716257572174072,
-        "TSNE-2": 3.1317765712738037,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": -5.696481704711914,
-        "TSNE-2": 0.34770140051841736,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": 9.322284698486328,
-        "TSNE-2": 11.938739776611328,
-        "cluster": 4,
-        "keywords": "document, think, critically, enables, student"
-      },
-      {
-        "TSNE-1": -3.8863863945007324,
-        "TSNE-2": 13.983648300170898,
+        "TSNE-1": 5.474558353424072,
+        "TSNE-2": -3.0069642066955566,
         "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
+        "keywords": "influence, fact, complex, multiple, form"
       },
       {
-        "TSNE-1": -10.30155086517334,
-        "TSNE-2": 9.827826499938965,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
+        "TSNE-1": -1.4447890520095825,
+        "TSNE-2": 7.071193695068359,
+        "cluster": 4,
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": -6.759881496429443,
-        "TSNE-2": -7.2008891105651855,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
-      },
-      {
-        "TSNE-1": -4.728498458862305,
-        "TSNE-2": 4.991057395935059,
-        "cluster": 2,
-        "keywords": "help, social, evaluate, foster, decision"
-      },
-      {
-        "TSNE-1": 13.149847030639648,
-        "TSNE-2": -1.2959439754486084,
+        "TSNE-1": 13.887090682983398,
+        "TSNE-2": -3.155735969543457,
         "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
+        "keywords": "critical, individual, better, citizenship, rational"
       },
       {
-        "TSNE-1": 8.783055305480957,
-        "TSNE-2": -11.667717933654785,
-        "cluster": 0,
-        "keywords": "critical, better, individual, dubious, campaign"
+        "TSNE-1": -11.69563102722168,
+        "TSNE-2": -7.5149946212768555,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
       },
       {
-        "TSNE-1": -4.196167469024658,
-        "TSNE-2": -2.952460527420044,
-        "cluster": 1,
-        "keywords": "citizen, thinker, information, likely, ability"
+        "TSNE-1": -9.665116310119629,
+        "TSNE-2": 3.2651307582855225,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
       },
       {
-        "TSNE-1": 4.557041645050049,
-        "TSNE-2": -11.200447082519531,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
+        "TSNE-1": -7.719033241271973,
+        "TSNE-2": 6.824671268463135,
+        "cluster": 4,
+        "keywords": "ability, contribute, societal, judgment, promotes"
       },
       {
-        "TSNE-1": 0.31481051445007324,
-        "TSNE-2": -7.228527545928955,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": 2.7048003673553467,
-        "TSNE-2": -13.230267524719238,
-        "cluster": 3,
-        "keywords": "political, skill, opinion, judgment, involves"
-      },
-      {
-        "TSNE-1": -0.16670851409435272,
-        "TSNE-2": 5.147274494171143,
+        "TSNE-1": 6.430706977844238,
+        "TSNE-2": -4.0592756271362305,
         "cluster": 5,
-        "keywords": "distinguish, citizenship, influence, logical, fact"
+        "keywords": "influence, fact, complex, multiple, form"
+      },
+      {
+        "TSNE-1": -10.940028190612793,
+        "TSNE-2": 9.835481643676758,
+        "cluster": 4,
+        "keywords": "ability, contribute, societal, judgment, promotes"
+      },
+      {
+        "TSNE-1": -2.253485679626465,
+        "TSNE-2": -11.83314037322998,
+        "cluster": 1,
+        "keywords": "document, activity, citizen, effective, civic"
+      },
+      {
+        "TSNE-1": -7.916163444519043,
+        "TSNE-2": -1.0630388259887695,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": -8.322911262512207,
+        "TSNE-2": -9.474085807800293,
+        "cluster": 1,
+        "keywords": "document, activity, citizen, effective, civic"
+      },
+      {
+        "TSNE-1": -3.5988144874572754,
+        "TSNE-2": 3.4341156482696533,
+        "cluster": 4,
+        "keywords": "ability, contribute, societal, judgment, promotes"
+      },
+      {
+        "TSNE-1": -14.040426254272461,
+        "TSNE-2": 1.9973671436309814,
+        "cluster": 2,
+        "keywords": "help, social, information, political, evaluate"
+      },
+      {
+        "TSNE-1": 3.7698864936828613,
+        "TSNE-2": -5.738147735595703,
+        "cluster": 5,
+        "keywords": "influence, fact, complex, multiple, form"
       }
     ]
   },

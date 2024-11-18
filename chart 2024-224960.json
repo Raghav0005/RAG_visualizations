@@ -7,567 +7,555 @@
     }
   },
   "data": {
-    "name": "data-23e2458649e383d730080cb00afa2f45"
+    "name": "data-9c2d829a64fda3bf3de12bcb69f0cd51"
   },
   "datasets": {
-    "data-23e2458649e383d730080cb00afa2f45": [
+    "data-9c2d829a64fda3bf3de12bcb69f0cd51": [
       {
-        "TSNE-1": 7.423327922821045,
-        "TSNE-2": 1.812862515449524,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -7.09267520904541,
-        "TSNE-2": -0.015611586160957813,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": -8.278592109680176,
-        "TSNE-2": 10.550000190734863,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": 13.131272315979004,
-        "TSNE-2": -0.38400447368621826,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -8.278592109680176,
-        "TSNE-2": 10.550000190734863,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": 11.396605491638184,
-        "TSNE-2": 3.443209648132324,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": 9.71363639831543,
-        "TSNE-2": -0.324055016040802,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": 3.9603941440582275,
-        "TSNE-2": 8.116965293884277,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": -13.470086097717285,
-        "TSNE-2": 2.1958258152008057,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": -11.213025093078613,
-        "TSNE-2": -7.398451805114746,
+        "TSNE-1": -6.871792316436768,
+        "TSNE-2": 1.3657937049865723,
         "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
+        "keywords": "educational, community, movement, walkout, effort"
       },
       {
-        "TSNE-1": -11.850924491882324,
-        "TSNE-2": -2.8517885208129883,
+        "TSNE-1": -3.146975517272949,
+        "TSNE-2": -10.01542854309082,
         "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
+        "keywords": "school, teacher, boycott, alive, chicago"
       },
       {
-        "TSNE-1": 10.931122779846191,
-        "TSNE-2": 5.93577241897583,
+        "TSNE-1": 6.36728572845459,
+        "TSNE-2": 7.173273086547852,
         "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
+        "keywords": "mention, good, text, support, back"
       },
       {
-        "TSNE-1": 4.635416507720947,
-        "TSNE-2": 2.388906955718994,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -11.26814079284668,
-        "TSNE-2": 5.060521125793457,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": 7.336695671081543,
-        "TSNE-2": -3.3332252502441406,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -1.5565367937088013,
-        "TSNE-2": 1.60659921169281,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -5.283941268920898,
-        "TSNE-2": -10.85267448425293,
-        "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
-      },
-      {
-        "TSNE-1": 3.9603941440582275,
-        "TSNE-2": 8.116965293884277,
+        "TSNE-1": 3.4761672019958496,
+        "TSNE-2": 1.1880675554275513,
         "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
+        "keywords": "successful, able, skill, student, provide"
       },
       {
-        "TSNE-1": 10.910975456237793,
-        "TSNE-2": -6.22402286529541,
+        "TSNE-1": 6.36728572845459,
+        "TSNE-2": 7.173273086547852,
         "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
+        "keywords": "mention, good, text, support, back"
       },
       {
-        "TSNE-1": 5.069056510925293,
-        "TSNE-2": -9.282483100891113,
+        "TSNE-1": -2.0217959880828857,
+        "TSNE-2": 13.93519115447998,
+        "cluster": 5,
+        "keywords": "document, directly, democratic, parent, information"
+      },
+      {
+        "TSNE-1": -1.3755923509597778,
+        "TSNE-2": 8.208353042602539,
+        "cluster": 5,
+        "keywords": "document, directly, democratic, parent, information"
+      },
+      {
+        "TSNE-1": -0.9429211616516113,
+        "TSNE-2": -2.1084423065185547,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 13.378281593322754,
+        "TSNE-2": 0.6849793195724487,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": 4.901637077331543,
+        "TSNE-2": 14.872135162353516,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": 2.622105836868286,
+        "TSNE-2": 8.99963092803955,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": 12.366918563842773,
+        "TSNE-2": 8.69134521484375,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -8.729998588562012,
+        "TSNE-2": 3.1734368801116943,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": -7.980192184448242,
+        "TSNE-2": -3.286452054977417,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": 7.38687801361084,
+        "TSNE-2": 2.756394624710083,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": 5.6946516036987305,
+        "TSNE-2": -9.916360855102539,
         "cluster": 3,
-        "keywords": "document, information, help, success, provide"
+        "keywords": "effective, act, success, principal, resource"
       },
       {
-        "TSNE-1": 6.230659484863281,
-        "TSNE-2": -5.211024284362793,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -10.370774269104004,
-        "TSNE-2": 0.5653051137924194,
+        "TSNE-1": -7.1817169189453125,
+        "TSNE-2": -6.751651763916016,
         "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
+        "keywords": "school, teacher, boycott, alive, chicago"
       },
       {
-        "TSNE-1": 6.988154888153076,
-        "TSNE-2": -5.270202159881592,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -9.71398639678955,
-        "TSNE-2": 5.761475563049316,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": -5.127166748046875,
-        "TSNE-2": -3.754826068878174,
+        "TSNE-1": -0.9429211616516113,
+        "TSNE-2": -2.1084423065185547,
         "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
+        "keywords": "educational, community, movement, walkout, effort"
       },
       {
-        "TSNE-1": 4.09772253036499,
-        "TSNE-2": 4.67417049407959,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -4.622005939483643,
-        "TSNE-2": 6.57595157623291,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": -2.5850472450256348,
-        "TSNE-2": 0.28210148215293884,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -9.010322570800781,
-        "TSNE-2": -9.309965133666992,
+        "TSNE-1": -1.680343747138977,
+        "TSNE-2": 5.355627536773682,
         "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
+        "keywords": "educational, community, movement, walkout, effort"
       },
       {
-        "TSNE-1": 6.888425350189209,
-        "TSNE-2": -9.667380332946777,
+        "TSNE-1": -4.910781383514404,
+        "TSNE-2": 11.461443901062012,
+        "cluster": 5,
+        "keywords": "document, directly, democratic, parent, information"
+      },
+      {
+        "TSNE-1": 5.624877452850342,
+        "TSNE-2": 2.45776629447937,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -3.735327959060669,
+        "TSNE-2": -6.021577835083008,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": 5.749927043914795,
+        "TSNE-2": 3.1583874225616455,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -7.204334259033203,
+        "TSNE-2": -2.2164089679718018,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 1.1763100624084473,
+        "TSNE-2": 11.769309997558594,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": -3.1075241565704346,
+        "TSNE-2": -0.20305325090885162,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 8.63725757598877,
+        "TSNE-2": -0.6611596345901489,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": 6.997597694396973,
+        "TSNE-2": -8.705110549926758,
         "cluster": 3,
-        "keywords": "document, information, help, success, provide"
+        "keywords": "effective, act, success, principal, resource"
       },
       {
-        "TSNE-1": -3.9544739723205566,
-        "TSNE-2": -0.24229960143566132,
+        "TSNE-1": 7.224066257476807,
+        "TSNE-2": 12.926420211791992,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": -3.1405792236328125,
+        "TSNE-2": 13.174530029296875,
         "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
+        "keywords": "document, directly, democratic, parent, information"
       },
       {
-        "TSNE-1": 3.4612653255462646,
-        "TSNE-2": -11.066739082336426,
+        "TSNE-1": 7.465928554534912,
+        "TSNE-2": -7.11331844329834,
         "cluster": 3,
-        "keywords": "document, information, help, success, provide"
+        "keywords": "effective, act, success, principal, resource"
       },
       {
-        "TSNE-1": 5.43464994430542,
-        "TSNE-2": 1.5533397197723389,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": 2.0936496257781982,
-        "TSNE-2": -2.8231019973754883,
+        "TSNE-1": -6.6153130531311035,
+        "TSNE-2": 9.178208351135254,
         "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
+        "keywords": "document, directly, democratic, parent, information"
       },
       {
-        "TSNE-1": -11.482582092285156,
-        "TSNE-2": 0.9636823534965515,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": -1.0865237712860107,
-        "TSNE-2": -3.257979154586792,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -5.005796432495117,
-        "TSNE-2": 3.74700665473938,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": -3.5437161922454834,
-        "TSNE-2": 10.865572929382324,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": 2.088418483734131,
-        "TSNE-2": 5.0917134284973145,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": 1.9912699460983276,
-        "TSNE-2": 2.8336000442504883,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -7.5913801193237305,
-        "TSNE-2": 1.1289628744125366,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": 4.218048572540283,
-        "TSNE-2": 9.998250961303711,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": 3.8271074295043945,
-        "TSNE-2": 1.2091336250305176,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": 2.1994097232818604,
-        "TSNE-2": 6.754948616027832,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": -3.167020559310913,
-        "TSNE-2": -7.3186211585998535,
+        "TSNE-1": -8.964492797851562,
+        "TSNE-2": 1.878936767578125,
         "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
+        "keywords": "educational, community, movement, walkout, effort"
       },
       {
-        "TSNE-1": 0.2736128568649292,
-        "TSNE-2": -6.075524806976318,
+        "TSNE-1": -3.7131998538970947,
+        "TSNE-2": 3.763840436935425,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": -2.762112855911255,
+        "TSNE-2": -6.678110599517822,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": 10.74566650390625,
+        "TSNE-2": -6.901180744171143,
         "cluster": 3,
-        "keywords": "document, information, help, success, provide"
+        "keywords": "effective, act, success, principal, resource"
       },
       {
-        "TSNE-1": 3.9271795749664307,
-        "TSNE-2": -8.002881050109863,
+        "TSNE-1": 1.234089970588684,
+        "TSNE-2": -11.929479598999023,
         "cluster": 3,
-        "keywords": "document, information, help, success, provide"
+        "keywords": "effective, act, success, principal, resource"
       },
       {
-        "TSNE-1": -7.866011619567871,
-        "TSNE-2": -3.9960150718688965,
-        "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
-      },
-      {
-        "TSNE-1": -11.850924491882324,
-        "TSNE-2": -2.8517885208129883,
+        "TSNE-1": -12.216025352478027,
+        "TSNE-2": -7.510766506195068,
         "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
+        "keywords": "school, teacher, boycott, alive, chicago"
       },
       {
-        "TSNE-1": 10.478470802307129,
-        "TSNE-2": -8.135170936584473,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -0.6446517705917358,
-        "TSNE-2": 14.458442687988281,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": -11.070759773254395,
-        "TSNE-2": -8.341499328613281,
+        "TSNE-1": -3.7089123725891113,
+        "TSNE-2": 1.0860422849655151,
         "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
+        "keywords": "educational, community, movement, walkout, effort"
       },
       {
-        "TSNE-1": 6.250909328460693,
-        "TSNE-2": 0.744722843170166,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
+        "TSNE-1": -5.422231674194336,
+        "TSNE-2": -0.318408340215683,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
       },
       {
-        "TSNE-1": 0.2736128568649292,
-        "TSNE-2": -6.075524806976318,
-        "cluster": 3,
-        "keywords": "document, information, help, success, provide"
-      },
-      {
-        "TSNE-1": 3.129272937774658,
-        "TSNE-2": -2.624760150909424,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": 6.189947605133057,
-        "TSNE-2": 13.18298625946045,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": -0.46526461839675903,
-        "TSNE-2": 0.7894957065582275,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": 8.419689178466797,
-        "TSNE-2": -2.668363571166992,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -2.023695945739746,
-        "TSNE-2": -0.8788385391235352,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -5.229201316833496,
-        "TSNE-2": 6.37499475479126,
+        "TSNE-1": -1.9160863161087036,
+        "TSNE-2": -10.345755577087402,
         "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
+        "keywords": "school, teacher, boycott, alive, chicago"
       },
       {
-        "TSNE-1": -2.3452248573303223,
-        "TSNE-2": 10.004725456237793,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": -2.187877893447876,
-        "TSNE-2": 14.96053695678711,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": -0.6640421748161316,
-        "TSNE-2": 15.399843215942383,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": 2.9935615062713623,
-        "TSNE-2": -8.260796546936035,
-        "cluster": 3,
-        "keywords": "document, information, help, success, provide"
-      },
-      {
-        "TSNE-1": -2.055018663406372,
-        "TSNE-2": 5.726829528808594,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": 0.5727177262306213,
-        "TSNE-2": 4.311418056488037,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -1.9181596040725708,
-        "TSNE-2": -8.686661720275879,
-        "cluster": 3,
-        "keywords": "document, information, help, success, provide"
-      },
-      {
-        "TSNE-1": 6.334526062011719,
-        "TSNE-2": 3.3959567546844482,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -5.960794925689697,
-        "TSNE-2": 1.306295394897461,
+        "TSNE-1": -1.2779192924499512,
+        "TSNE-2": -3.983288288116455,
         "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
+        "keywords": "school, teacher, boycott, alive, chicago"
       },
       {
-        "TSNE-1": 13.422656059265137,
-        "TSNE-2": -1.6632521152496338,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -6.621797561645508,
-        "TSNE-2": 3.3858253955841064,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": -5.212645053863525,
-        "TSNE-2": -11.580073356628418,
+        "TSNE-1": -7.486924171447754,
+        "TSNE-2": 3.1633763313293457,
         "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
+        "keywords": "educational, community, movement, walkout, effort"
       },
       {
-        "TSNE-1": -3.1376216411590576,
-        "TSNE-2": -3.2208456993103027,
+        "TSNE-1": -1.242350697517395,
+        "TSNE-2": 1.1570031642913818,
         "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
+        "keywords": "educational, community, movement, walkout, effort"
       },
       {
-        "TSNE-1": -2.8445987701416016,
-        "TSNE-2": 3.093261957168579,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -3.243708848953247,
-        "TSNE-2": -8.088028907775879,
-        "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
-      },
-      {
-        "TSNE-1": -7.619231700897217,
-        "TSNE-2": -0.8806877136230469,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": 1.7469077110290527,
-        "TSNE-2": -1.3596718311309814,
-        "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
-      },
-      {
-        "TSNE-1": -3.1376216411590576,
-        "TSNE-2": -3.2208456993103027,
-        "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
-      },
-      {
-        "TSNE-1": 0.6763884425163269,
-        "TSNE-2": 12.870783805847168,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": 5.861042499542236,
-        "TSNE-2": -2.7225759029388428,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -8.936508178710938,
-        "TSNE-2": 5.028678894042969,
-        "cluster": 0,
-        "keywords": "school, student, approach, academic, support"
-      },
-      {
-        "TSNE-1": 10.931122779846191,
-        "TSNE-2": 5.93577241897583,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": -2.3452248573303223,
-        "TSNE-2": 10.004725456237793,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": -0.20551908016204834,
-        "TSNE-2": -11.627363204956055,
+        "TSNE-1": 2.752405881881714,
+        "TSNE-2": -2.1515328884124756,
         "cluster": 3,
-        "keywords": "document, information, help, success, provide"
+        "keywords": "effective, act, success, principal, resource"
       },
       {
-        "TSNE-1": 1.9912699460983276,
-        "TSNE-2": 2.8336000442504883,
+        "TSNE-1": 10.372396469116211,
+        "TSNE-2": 6.028032302856445,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -4.075588226318359,
+        "TSNE-2": 10.133731842041016,
         "cluster": 5,
-        "keywords": "movement, strong, effective, external, leader"
+        "keywords": "document, directly, democratic, parent, information"
       },
       {
-        "TSNE-1": -9.565258979797363,
-        "TSNE-2": -9.81693172454834,
-        "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
-      },
-      {
-        "TSNE-1": -0.46424466371536255,
-        "TSNE-2": -12.487247467041016,
-        "cluster": 3,
-        "keywords": "document, information, help, success, provide"
-      },
-      {
-        "TSNE-1": -6.279770851135254,
-        "TSNE-2": -6.056855201721191,
-        "cluster": 4,
-        "keywords": "mention, teacher, good, text, nan"
-      },
-      {
-        "TSNE-1": 10.125519752502441,
-        "TSNE-2": -6.393793106079102,
-        "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
-      },
-      {
-        "TSNE-1": 5.896732807159424,
-        "TSNE-2": 9.700089454650879,
+        "TSNE-1": 9.851116180419922,
+        "TSNE-2": 0.8607151508331299,
         "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
+        "keywords": "successful, able, skill, student, provide"
       },
       {
-        "TSNE-1": 5.484112739562988,
-        "TSNE-2": 6.632068157196045,
-        "cluster": 2,
-        "keywords": "boycott, alive, high, alternative, often"
-      },
-      {
-        "TSNE-1": 3.4612653255462646,
-        "TSNE-2": -11.066739082336426,
-        "cluster": 3,
-        "keywords": "document, information, help, success, provide"
-      },
-      {
-        "TSNE-1": 13.547410011291504,
-        "TSNE-2": -2.4606032371520996,
+        "TSNE-1": 2.622105836868286,
+        "TSNE-2": 8.99963092803955,
         "cluster": 1,
-        "keywords": "successful, back, community, educational, parent"
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": 3.9910125732421875,
+        "TSNE-2": -4.683603286743164,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": 1.9343068599700928,
+        "TSNE-2": -7.5320515632629395,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": 5.300821304321289,
+        "TSNE-2": 14.021718978881836,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": -8.642356872558594,
+        "TSNE-2": 0.7944148182868958,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 10.372396469116211,
+        "TSNE-2": 6.028032302856445,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -2.542156457901001,
+        "TSNE-2": 3.7214102745056152,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 6.643086910247803,
+        "TSNE-2": -1.7264788150787354,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": 6.6370086669921875,
+        "TSNE-2": -10.908195495605469,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": 8.312801361083984,
+        "TSNE-2": 1.5727647542953491,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": 8.260580062866211,
+        "TSNE-2": -8.687397003173828,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": 7.87357234954834,
+        "TSNE-2": -0.7142831087112427,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -12.064154624938965,
+        "TSNE-2": -6.0747151374816895,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": 3.3403608798980713,
+        "TSNE-2": -7.318799018859863,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": 1.9185762405395508,
+        "TSNE-2": -6.845022678375244,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": -3.7943685054779053,
+        "TSNE-2": 9.291149139404297,
+        "cluster": 5,
+        "keywords": "document, directly, democratic, parent, information"
+      },
+      {
+        "TSNE-1": -3.6702353954315186,
+        "TSNE-2": -1.4284725189208984,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 4.058300495147705,
+        "TSNE-2": -3.08140230178833,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": -10.61715030670166,
+        "TSNE-2": 2.504202365875244,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": -3.591604471206665,
+        "TSNE-2": -11.851607322692871,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": 2.858175754547119,
+        "TSNE-2": 2.308400869369507,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -0.686255156993866,
+        "TSNE-2": -11.809370040893555,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": -7.357993125915527,
+        "TSNE-2": -7.319344520568848,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": 9.565455436706543,
+        "TSNE-2": -4.802863597869873,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": 3.2671737670898438,
+        "TSNE-2": -11.278000831604004,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": 3.5257482528686523,
+        "TSNE-2": -1.8420586585998535,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": -2.9965901374816895,
+        "TSNE-2": -8.99928092956543,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": -4.786552429199219,
+        "TSNE-2": 4.660586357116699,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 9.565455436706543,
+        "TSNE-2": -4.802863597869873,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": 7.5437822341918945,
+        "TSNE-2": 10.498260498046875,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": 8.545454025268555,
+        "TSNE-2": 3.7114884853363037,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -5.953842639923096,
+        "TSNE-2": -3.20463228225708,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": 12.366918563842773,
+        "TSNE-2": 8.69134521484375,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
+      },
+      {
+        "TSNE-1": -12.064154624938965,
+        "TSNE-2": -6.0747151374816895,
+        "cluster": 0,
+        "keywords": "school, teacher, boycott, alive, chicago"
+      },
+      {
+        "TSNE-1": 3.147853136062622,
+        "TSNE-2": 5.713444232940674,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": -5.422231674194336,
+        "TSNE-2": -0.318408340215683,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 6.590891361236572,
+        "TSNE-2": 12.570124626159668,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": 2.359276294708252,
+        "TSNE-2": 5.810096263885498,
+        "cluster": 1,
+        "keywords": "mention, good, text, support, back"
+      },
+      {
+        "TSNE-1": -1.0434166193008423,
+        "TSNE-2": 4.947278022766113,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": 0.17965957522392273,
+        "TSNE-2": -3.929199457168579,
+        "cluster": 3,
+        "keywords": "effective, act, success, principal, resource"
+      },
+      {
+        "TSNE-1": -0.47348618507385254,
+        "TSNE-2": -0.39872679114341736,
+        "cluster": 4,
+        "keywords": "educational, community, movement, walkout, effort"
+      },
+      {
+        "TSNE-1": -6.6153130531311035,
+        "TSNE-2": 9.178208351135254,
+        "cluster": 5,
+        "keywords": "document, directly, democratic, parent, information"
+      },
+      {
+        "TSNE-1": 2.0372047424316406,
+        "TSNE-2": 2.266101837158203,
+        "cluster": 2,
+        "keywords": "successful, able, skill, student, provide"
       }
     ]
   },

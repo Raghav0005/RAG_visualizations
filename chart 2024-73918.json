@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-7a16ee0c2ef6ddbdbbae04e5c951b942"
+    "name": "data-e3d338b9ddff1c859992dd5254c7c281"
   },
   "datasets": {
-    "data-7a16ee0c2ef6ddbdbbae04e5c951b942": [
+    "data-e3d338b9ddff1c859992dd5254c7c281": [
       {
-        "TSNE-1": -5.99575662612915,
-        "TSNE-2": -1.649503231048584,
+        "TSNE-1": -10.530180931091309,
+        "TSNE-2": 0.9437705874443054,
         "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
+        "keywords": "police, officer, innocent, data, victim"
       },
       {
-        "TSNE-1": -7.468136310577393,
-        "TSNE-2": -6.206944942474365,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": 2.155951499938965,
-        "TSNE-2": 5.9521894454956055,
+        "TSNE-1": 0.8958777189254761,
+        "TSNE-2": 4.416756629943848,
         "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": 7.406391143798828,
-        "TSNE-2": -2.791971445083618,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": 2.1205358505249023,
-        "TSNE-2": 5.958261013031006,
-        "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
-      },
-      {
-        "TSNE-1": 18.730880737304688,
-        "TSNE-2": -14.229052543640137,
+        "TSNE-1": 0.08710924535989761,
+        "TSNE-2": -11.40254020690918,
         "cluster": 5,
-        "keywords": "nan, zongo, execution, exist, exists"
+        "keywords": "report, shot, washington, case, fatal"
       },
       {
-        "TSNE-1": 5.197939395904541,
-        "TSNE-2": 3.901024580001831,
+        "TSNE-1": 5.938416957855225,
+        "TSNE-2": -6.771658420562744,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": 0.08710924535989761,
+        "TSNE-2": -11.40254020690918,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": 13.807391166687012,
+        "TSNE-2": -8.06301212310791,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": -8.346845626831055,
+        "TSNE-2": -7.4162163734436035,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": 11.178356170654297,
+        "TSNE-2": -6.627023220062256,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": 8.403566360473633,
+        "TSNE-2": -2.803748846054077,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": -2.0547897815704346,
+        "TSNE-2": 1.2971277236938477,
         "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": -0.9343907833099365,
-        "TSNE-2": 2.3033132553100586,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": 5.100851058959961,
-        "TSNE-2": -7.039602756500244,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": -9.19571304321289,
-        "TSNE-2": -9.126808166503906,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -4.3535637855529785,
-        "TSNE-2": -3.5310380458831787,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -3.6991868019104004,
-        "TSNE-2": -11.591662406921387,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -1.5175098180770874,
-        "TSNE-2": 0.5410992503166199,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -8.6060209274292,
-        "TSNE-2": 4.5495195388793945,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": 11.742226600646973,
-        "TSNE-2": 5.611783027648926,
+        "TSNE-1": -6.488613605499268,
+        "TSNE-2": 11.966501235961914,
         "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
+        "keywords": "situation, united, life, domestic, loss"
       },
       {
-        "TSNE-1": -3.501007080078125,
-        "TSNE-2": -6.487944602966309,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
+        "TSNE-1": -5.619615077972412,
+        "TSNE-2": -4.983521938323975,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
       },
       {
-        "TSNE-1": 9.721577644348145,
-        "TSNE-2": 0.7936593890190125,
+        "TSNE-1": -4.310006618499756,
+        "TSNE-2": -0.8772356510162354,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": 5.648401737213135,
+        "TSNE-2": 6.612492561340332,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": -6.209787845611572,
+        "TSNE-2": 5.624391555786133,
         "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
+        "keywords": "situation, united, life, domestic, loss"
       },
       {
-        "TSNE-1": -0.9343907833099365,
-        "TSNE-2": 2.3033132553100586,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -2.9292311668395996,
-        "TSNE-2": -7.658619403839111,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": 6.776782512664795,
-        "TSNE-2": 8.023970603942871,
-        "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
-      },
-      {
-        "TSNE-1": 8.062167167663574,
-        "TSNE-2": -1.5221270322799683,
+        "TSNE-1": 16.546262741088867,
+        "TSNE-2": 4.130839824676514,
         "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
+        "keywords": "information, kill, document, number, federal"
       },
       {
-        "TSNE-1": -0.0006612688302993774,
-        "TSNE-2": -3.688985586166382,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
+        "TSNE-1": -8.346845626831055,
+        "TSNE-2": -7.4162163734436035,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
       },
       {
-        "TSNE-1": 7.779114246368408,
-        "TSNE-2": -2.072366714477539,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": 0.34274837374687195,
-        "TSNE-2": 3.582915782928467,
-        "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
-      },
-      {
-        "TSNE-1": -0.45547327399253845,
-        "TSNE-2": -8.663850784301758,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -2.5159409046173096,
-        "TSNE-2": 2.2033278942108154,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": 3.483849287033081,
-        "TSNE-2": 2.720303773880005,
-        "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
-      },
-      {
-        "TSNE-1": 5.195366859436035,
-        "TSNE-2": -0.4431913197040558,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": 11.99069881439209,
-        "TSNE-2": 4.353337287902832,
+        "TSNE-1": -7.921623706817627,
+        "TSNE-2": 6.241087913513184,
         "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
+        "keywords": "situation, united, life, domestic, loss"
       },
       {
-        "TSNE-1": 8.319260597229004,
-        "TSNE-2": 6.383494853973389,
+        "TSNE-1": 6.917067050933838,
+        "TSNE-2": 9.166559219360352,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": 6.232285022735596,
+        "TSNE-2": -9.111592292785645,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": -7.115749359130859,
+        "TSNE-2": 1.0214800834655762,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": 6.207342147827148,
+        "TSNE-2": -8.064995765686035,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": -9.344822883605957,
+        "TSNE-2": -10.046361923217773,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": -13.420534133911133,
+        "TSNE-2": 2.596546173095703,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": -10.45199203491211,
+        "TSNE-2": -6.029416561126709,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": 10.11075210571289,
+        "TSNE-2": -9.813375473022461,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": 10.388839721679688,
+        "TSNE-2": -2.230963945388794,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": 4.11844539642334,
+        "TSNE-2": 6.5575103759765625,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": 6.771908283233643,
+        "TSNE-2": 2.6020138263702393,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": 11.388226509094238,
+        "TSNE-2": 2.014918088912964,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": 9.76675796508789,
+        "TSNE-2": 10.245800018310547,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": -4.655645370483398,
+        "TSNE-2": -6.099100589752197,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": -10.607559204101562,
+        "TSNE-2": 4.748762607574463,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": -4.345907211303711,
+        "TSNE-2": 7.675723075866699,
         "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
+        "keywords": "situation, united, life, domestic, loss"
       },
       {
-        "TSNE-1": 4.016402721405029,
-        "TSNE-2": -7.929121971130371,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
+        "TSNE-1": -12.575002670288086,
+        "TSNE-2": -1.1492702960968018,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
       },
       {
-        "TSNE-1": 4.49242639541626,
-        "TSNE-2": 8.629664421081543,
+        "TSNE-1": -6.707489967346191,
+        "TSNE-2": -2.5429742336273193,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": -4.714364528656006,
+        "TSNE-2": 3.8636832237243652,
         "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": -0.5799789428710938,
-        "TSNE-2": 0.06422577053308487,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": -8.57984733581543,
-        "TSNE-2": -2.3692309856414795,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -9.494609832763672,
-        "TSNE-2": -4.772264003753662,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -5.881587505340576,
-        "TSNE-2": 2.589200735092163,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -2.437656879425049,
-        "TSNE-2": -0.3679545223712921,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -5.4983038902282715,
-        "TSNE-2": -3.2015440464019775,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -9.971671104431152,
-        "TSNE-2": 2.1776678562164307,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -4.6602702140808105,
-        "TSNE-2": 6.3467841148376465,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -11.332079887390137,
-        "TSNE-2": -2.915464162826538,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": 2.1786539554595947,
-        "TSNE-2": -2.639155626296997,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": 0.7104082703590393,
-        "TSNE-2": -0.4798567295074463,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": -1.7357230186462402,
-        "TSNE-2": -2.7418413162231445,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": 1.0557291507720947,
-        "TSNE-2": 1.5992107391357422,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": -7.147247791290283,
-        "TSNE-2": 9.539416313171387,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": 4.115283012390137,
-        "TSNE-2": -4.352150917053223,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": -9.226532936096191,
-        "TSNE-2": -10.578500747680664,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -4.3535637855529785,
-        "TSNE-2": -3.5310380458831787,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -0.29379162192344666,
-        "TSNE-2": -6.700018405914307,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": -7.120220184326172,
-        "TSNE-2": -4.519989490509033,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": 4.345510959625244,
-        "TSNE-2": -1.0290418863296509,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": 0.44311249256134033,
-        "TSNE-2": -1.0412789583206177,
-        "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
-      },
-      {
-        "TSNE-1": -7.147247791290283,
-        "TSNE-2": 9.539416313171387,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -8.242233276367188,
-        "TSNE-2": -1.30185067653656,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -0.320586621761322,
-        "TSNE-2": 5.649963855743408,
+        "TSNE-1": 0.18721367418766022,
+        "TSNE-2": -2.9071860313415527,
         "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": -8.745220184326172,
-        "TSNE-2": -0.6545517444610596,
+        "TSNE-1": 3.107948064804077,
+        "TSNE-2": -4.216676235198975,
         "cluster": 2,
-        "keywords": "data, victim, report, case, united"
+        "keywords": "every, civilian, hour, otherwise, citizen"
       },
       {
-        "TSNE-1": 10.64246940612793,
-        "TSNE-2": 5.1201276779174805,
+        "TSNE-1": 2.9299371242523193,
+        "TSNE-2": -9.985635757446289,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": 0.3762012720108032,
+        "TSNE-2": -7.828418254852295,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": -4.189386367797852,
+        "TSNE-2": -8.08265209197998,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": -4.3951568603515625,
+        "TSNE-2": 1.541745901107788,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": -8.043773651123047,
+        "TSNE-2": -5.062052249908447,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": -1.6522789001464844,
+        "TSNE-2": 13.781267166137695,
         "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
+        "keywords": "situation, united, life, domestic, loss"
       },
       {
-        "TSNE-1": -3.1443026065826416,
-        "TSNE-2": -2.481088876724243,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": 6.887421607971191,
-        "TSNE-2": -4.67698860168457,
+        "TSNE-1": 10.82746696472168,
+        "TSNE-2": 7.960477352142334,
         "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
+        "keywords": "information, kill, document, number, federal"
       },
       {
-        "TSNE-1": -1.5079084634780884,
-        "TSNE-2": 8.350611686706543,
-        "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
-      },
-      {
-        "TSNE-1": -1.0721168518066406,
-        "TSNE-2": 10.157532691955566,
-        "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
-      },
-      {
-        "TSNE-1": -0.6734381914138794,
-        "TSNE-2": 10.507063865661621,
-        "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
-      },
-      {
-        "TSNE-1": 4.49242639541626,
-        "TSNE-2": 8.629664421081543,
-        "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
-      },
-      {
-        "TSNE-1": -4.339008331298828,
-        "TSNE-2": -0.17127086222171783,
+        "TSNE-1": 8.959914207458496,
+        "TSNE-2": -0.8711180686950684,
         "cluster": 2,
-        "keywords": "data, victim, report, case, united"
+        "keywords": "every, civilian, hour, otherwise, citizen"
       },
       {
-        "TSNE-1": -4.055073261260986,
-        "TSNE-2": 1.667119026184082,
+        "TSNE-1": -2.0547897815704346,
+        "TSNE-2": 1.2971277236938477,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": -2.8495612144470215,
+        "TSNE-2": -3.832397937774658,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": 1.543052077293396,
+        "TSNE-2": 7.679765701293945,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": 9.676846504211426,
+        "TSNE-2": -3.562696695327759,
         "cluster": 2,
-        "keywords": "data, victim, report, case, united"
+        "keywords": "every, civilian, hour, otherwise, citizen"
       },
       {
-        "TSNE-1": -3.6416211128234863,
-        "TSNE-2": -1.0574405193328857,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
+        "TSNE-1": -5.237677097320557,
+        "TSNE-2": -8.30178451538086,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
       },
       {
-        "TSNE-1": -9.453782081604004,
-        "TSNE-2": 1.7932257652282715,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
+        "TSNE-1": -1.6522789001464844,
+        "TSNE-2": 13.781267166137695,
+        "cluster": 4,
+        "keywords": "situation, united, life, domestic, loss"
       },
       {
-        "TSNE-1": 2.7491307258605957,
-        "TSNE-2": -2.3157448768615723,
+        "TSNE-1": -10.018669128417969,
+        "TSNE-2": 3.185903310775757,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": 1.8098235130310059,
+        "TSNE-2": 9.302780151367188,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": -8.652563095092773,
+        "TSNE-2": 3.1323463916778564,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": 5.303554534912109,
+        "TSNE-2": 5.10971212387085,
         "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
+        "keywords": "information, kill, document, number, federal"
       },
       {
-        "TSNE-1": 4.933099269866943,
-        "TSNE-2": 2.545031785964966,
+        "TSNE-1": -1.8067671060562134,
+        "TSNE-2": -0.6530390977859497,
         "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": -5.416356563568115,
-        "TSNE-2": -4.907500743865967,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": 9.721577644348145,
-        "TSNE-2": 0.7936593890190125,
-        "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
-      },
-      {
-        "TSNE-1": -2.132528066635132,
-        "TSNE-2": -4.516716003417969,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -2.4191734790802,
-        "TSNE-2": 4.7153167724609375,
+        "TSNE-1": 15.236458778381348,
+        "TSNE-2": -5.830275058746338,
         "cluster": 2,
-        "keywords": "data, victim, report, case, united"
+        "keywords": "every, civilian, hour, otherwise, citizen"
       },
       {
-        "TSNE-1": -5.227929592132568,
-        "TSNE-2": 1.4143773317337036,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -6.424671173095703,
-        "TSNE-2": -0.13750167191028595,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -3.684494733810425,
-        "TSNE-2": 3.604318857192993,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -2.132528066635132,
-        "TSNE-2": -4.516716003417969,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -6.290653705596924,
-        "TSNE-2": -7.3965301513671875,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -9.19571304321289,
-        "TSNE-2": -9.126808166503906,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -8.038442611694336,
-        "TSNE-2": 3.676377773284912,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
-      },
-      {
-        "TSNE-1": -3.6991868019104004,
-        "TSNE-2": -11.591662406921387,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": -1.5079084634780884,
-        "TSNE-2": 8.350611686706543,
+        "TSNE-1": -1.0520881414413452,
+        "TSNE-2": 7.65662956237793,
         "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": -5.9554572105407715,
-        "TSNE-2": 3.945305347442627,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
+        "TSNE-1": 2.9730184078216553,
+        "TSNE-2": 0.2784673273563385,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": -4.6602702140808105,
-        "TSNE-2": 6.3467841148376465,
-        "cluster": 2,
-        "keywords": "data, victim, report, case, united"
+        "TSNE-1": 3.55737566947937,
+        "TSNE-2": -0.6667035222053528,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": 10.154315948486328,
-        "TSNE-2": 5.527195453643799,
-        "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
-      },
-      {
-        "TSNE-1": 7.452757835388184,
-        "TSNE-2": 5.580587387084961,
-        "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
-      },
-      {
-        "TSNE-1": 13.081029891967773,
-        "TSNE-2": 4.20950984954834,
-        "cluster": 4,
-        "keywords": "information, federal, rate, provide, constant"
-      },
-      {
-        "TSNE-1": -4.3390960693359375,
-        "TSNE-2": -6.478989124298096,
-        "cluster": 0,
-        "keywords": "police, unarmed, black, officer, people"
-      },
-      {
-        "TSNE-1": 0.655752420425415,
-        "TSNE-2": -4.854039192199707,
+        "TSNE-1": 9.76675796508789,
+        "TSNE-2": 10.245800018310547,
         "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
+        "keywords": "information, kill, document, number, federal"
       },
       {
-        "TSNE-1": 3.096386671066284,
-        "TSNE-2": -5.049095630645752,
+        "TSNE-1": -9.570476531982422,
+        "TSNE-2": -1.1341122388839722,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": -9.503960609436035,
+        "TSNE-2": -3.4211981296539307,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": -7.660496711730957,
+        "TSNE-2": -0.9748924374580383,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": -0.7948634624481201,
+        "TSNE-2": -2.8058462142944336,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": 0.30767422914505005,
+        "TSNE-2": -6.550480842590332,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": 11.490839004516602,
+        "TSNE-2": -8.63125991821289,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": 0.1994227021932602,
+        "TSNE-2": 1.7198190689086914,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": 16.546262741088867,
+        "TSNE-2": 4.130839824676514,
         "cluster": 1,
-        "keywords": "shot, approximately, every, innocent, number"
+        "keywords": "information, kill, document, number, federal"
       },
       {
-        "TSNE-1": 4.49242639541626,
-        "TSNE-2": 8.629664421081543,
+        "TSNE-1": -2.2311041355133057,
+        "TSNE-2": 4.151854991912842,
         "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
+        "keywords": "unarmed, black, people, suspect, white"
       },
       {
-        "TSNE-1": 4.857813358306885,
-        "TSNE-2": 2.4188358783721924,
+        "TSNE-1": -6.320581912994385,
+        "TSNE-2": -11.353519439697266,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": -11.27876091003418,
+        "TSNE-2": -2.8506226539611816,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": 9.42148208618164,
+        "TSNE-2": 4.214346885681152,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": -12.618813514709473,
+        "TSNE-2": -7.605850696563721,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": -2.2311041355133057,
+        "TSNE-2": 4.151854991912842,
         "cluster": 3,
-        "keywords": "kill, otherwise, suspect, white, majority"
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": 2.441983461380005,
+        "TSNE-2": 2.315077304840088,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": 8.403566360473633,
+        "TSNE-2": -2.803748846054077,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": -4.223867416381836,
+        "TSNE-2": -2.2041633129119873,
+        "cluster": 5,
+        "keywords": "report, shot, washington, case, fatal"
+      },
+      {
+        "TSNE-1": -6.488613605499268,
+        "TSNE-2": 11.966501235961914,
+        "cluster": 4,
+        "keywords": "situation, united, life, domestic, loss"
+      },
+      {
+        "TSNE-1": -1.0520881414413452,
+        "TSNE-2": 7.65662956237793,
+        "cluster": 3,
+        "keywords": "unarmed, black, people, suspect, white"
+      },
+      {
+        "TSNE-1": -14.619812965393066,
+        "TSNE-2": -1.555530309677124,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": 3.107948064804077,
+        "TSNE-2": -4.216676235198975,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
+      },
+      {
+        "TSNE-1": 6.06601619720459,
+        "TSNE-2": 4.554325103759766,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": 6.943718433380127,
+        "TSNE-2": 1.1240469217300415,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": -11.386496543884277,
+        "TSNE-2": 10.216343879699707,
+        "cluster": 4,
+        "keywords": "situation, united, life, domestic, loss"
+      },
+      {
+        "TSNE-1": -6.59649133682251,
+        "TSNE-2": 4.262319564819336,
+        "cluster": 0,
+        "keywords": "police, officer, innocent, data, victim"
+      },
+      {
+        "TSNE-1": 13.709272384643555,
+        "TSNE-2": -0.4817221462726593,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": 12.556622505187988,
+        "TSNE-2": 7.8956217765808105,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": 9.76675796508789,
+        "TSNE-2": 10.245800018310547,
+        "cluster": 1,
+        "keywords": "information, kill, document, number, federal"
+      },
+      {
+        "TSNE-1": 11.914385795593262,
+        "TSNE-2": -9.416312217712402,
+        "cluster": 2,
+        "keywords": "every, civilian, hour, otherwise, citizen"
       }
     ]
   },

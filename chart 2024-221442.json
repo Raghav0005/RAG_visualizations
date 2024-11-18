@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-acc0d78d635559f66a8dfba0d13a6b84"
+    "name": "data-03882c4ca0e0f2205b4f6701637d1a69"
   },
   "datasets": {
-    "data-acc0d78d635559f66a8dfba0d13a6b84": [
+    "data-03882c4ca0e0f2205b4f6701637d1a69": [
       {
-        "TSNE-1": 3.4111969470977783,
-        "TSNE-2": -8.278616905212402,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": 8.375011444091797,
-        "TSNE-2": -4.89680290222168,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": -5.331668376922607,
-        "TSNE-2": -3.438889980316162,
+        "TSNE-1": -5.968821048736572,
+        "TSNE-2": -6.645693778991699,
         "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
+        "keywords": "murderer, medium, woman, societal, male"
       },
       {
-        "TSNE-1": 3.429616689682007,
-        "TSNE-2": 6.246914386749268,
+        "TSNE-1": -1.4955973625183105,
+        "TSNE-2": -8.852741241455078,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -0.9816216826438904,
+        "TSNE-2": 11.62317943572998,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": 2.974689245223999,
+        "TSNE-2": -1.5279803276062012,
         "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
+        "keywords": "serial, female, killer, lack, less"
       },
       {
-        "TSNE-1": -5.331668376922607,
-        "TSNE-2": -3.438889980316162,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": -2.7576754093170166,
-        "TSNE-2": -5.96360445022583,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": -5.599536895751953,
-        "TSNE-2": -1.7116689682006836,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": 1.6924018859863281,
-        "TSNE-2": -1.3472039699554443,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": -5.099775314331055,
-        "TSNE-2": -6.964449405670166,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": 5.745326042175293,
-        "TSNE-2": -12.499323844909668,
+        "TSNE-1": -0.9816216826438904,
+        "TSNE-2": 11.62317943572998,
         "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
+        "keywords": "approximately, tend, homicide, different, sex"
       },
       {
-        "TSNE-1": 1.2503925561904907,
-        "TSNE-2": 1.3628742694854736,
+        "TSNE-1": 7.866940021514893,
+        "TSNE-2": 1.9912859201431274,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": 0.6671130657196045,
+        "TSNE-2": 11.20775032043457,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": -0.21878239512443542,
+        "TSNE-2": -3.1447675228118896,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 6.278515815734863,
-        "TSNE-2": 4.721566677093506,
+        "TSNE-1": -3.481616258621216,
+        "TSNE-2": 6.25615119934082,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": 11.95871353149414,
+        "TSNE-2": 9.290102005004883,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": 0.35583388805389404,
+        "TSNE-2": 1.047119140625,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": -0.5965785384178162,
+        "TSNE-2": 7.401795864105225,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": -1.9835511445999146,
+        "TSNE-2": -3.551237106323242,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -9.895122528076172,
+        "TSNE-2": -5.147909164428711,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -14.420848846435547,
+        "TSNE-2": -0.00442330539226532,
+        "cluster": 5,
+        "keywords": "psychopath, low, two, average, three"
+      },
+      {
+        "TSNE-1": -4.651440143585205,
+        "TSNE-2": -0.7808278799057007,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": 3.3576316833496094,
+        "TSNE-2": -4.954843521118164,
         "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
+        "keywords": "commit, murder, death, lower, hear"
       },
       {
-        "TSNE-1": 3.6386170387268066,
-        "TSNE-2": -1.6952720880508423,
+        "TSNE-1": -0.21878239512443542,
+        "TSNE-2": -3.1447675228118896,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": -12.95222282409668,
-        "TSNE-2": 4.177709579467773,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": -12.784161567687988,
-        "TSNE-2": -2.911090612411499,
+        "TSNE-1": -3.8625776767730713,
+        "TSNE-2": -9.068835258483887,
         "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
+        "keywords": "murderer, medium, woman, societal, male"
       },
       {
-        "TSNE-1": 7.191766262054443,
-        "TSNE-2": -0.5789822936058044,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": -4.801496982574463,
-        "TSNE-2": 8.108232498168945,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 1.6924018859863281,
-        "TSNE-2": -1.3472039699554443,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": 9.340958595275879,
-        "TSNE-2": -2.5797855854034424,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": -6.7873945236206055,
-        "TSNE-2": 1.5686148405075073,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": 2.694396495819092,
-        "TSNE-2": 7.185679912567139,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 4.819272041320801,
-        "TSNE-2": 0.93060702085495,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": 2.869342803955078,
-        "TSNE-2": 8.632891654968262,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 5.61367654800415,
-        "TSNE-2": -8.756916046142578,
+        "TSNE-1": 3.9429166316986084,
+        "TSNE-2": 11.500007629394531,
         "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
+        "keywords": "approximately, tend, homicide, different, sex"
       },
       {
-        "TSNE-1": 3.023542642593384,
-        "TSNE-2": 0.2361021637916565,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": 4.8215532302856445,
-        "TSNE-2": -1.41360604763031,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": 2.6869406700134277,
-        "TSNE-2": 5.778827667236328,
+        "TSNE-1": 3.9201443195343018,
+        "TSNE-2": -1.225267767906189,
         "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
+        "keywords": "serial, female, killer, lack, less"
       },
       {
-        "TSNE-1": -3.106950521469116,
-        "TSNE-2": -1.7384177446365356,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
+        "TSNE-1": -6.638585090637207,
+        "TSNE-2": 0.9734134674072266,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": -12.784161567687988,
-        "TSNE-2": -2.911090612411499,
+        "TSNE-1": 5.346520900726318,
+        "TSNE-2": -0.9792948365211487,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": -8.675705909729004,
+        "TSNE-2": -3.6538889408111572,
         "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
+        "keywords": "murderer, medium, woman, societal, male"
       },
       {
-        "TSNE-1": -2.5555970668792725,
-        "TSNE-2": 10.641419410705566,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": -1.0571743249893188,
-        "TSNE-2": -0.08058389276266098,
+        "TSNE-1": 0.39801129698753357,
+        "TSNE-2": -0.9323524832725525,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": -9.402545928955078,
-        "TSNE-2": 0.23414373397827148,
+        "TSNE-1": -2.267611026763916,
+        "TSNE-2": -4.7006049156188965,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": 2.5143938064575195,
+        "TSNE-2": -2.0886898040771484,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": 5.005424499511719,
+        "TSNE-2": 3.2674858570098877,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": -14.420848846435547,
+        "TSNE-2": -0.00442330539226532,
         "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
+        "keywords": "psychopath, low, two, average, three"
       },
       {
-        "TSNE-1": 3.607520818710327,
-        "TSNE-2": -3.526254415512085,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": 6.655852317810059,
-        "TSNE-2": -5.4598870277404785,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": 0.7141613960266113,
-        "TSNE-2": 9.491660118103027,
+        "TSNE-1": 10.072087287902832,
+        "TSNE-2": -0.8383400440216064,
         "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
+        "keywords": "serial, female, killer, lack, less"
       },
       {
-        "TSNE-1": 8.487587928771973,
-        "TSNE-2": 6.117003440856934,
+        "TSNE-1": -2.2847821712493896,
+        "TSNE-2": 5.8797607421875,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": 6.505470275878906,
+        "TSNE-2": 9.773643493652344,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": -3.8819327354431152,
+        "TSNE-2": -3.2270333766937256,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -0.30717718601226807,
+        "TSNE-2": -7.59608793258667,
         "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
+        "keywords": "commit, murder, death, lower, hear"
       },
       {
-        "TSNE-1": -1.0630401372909546,
-        "TSNE-2": 6.220615386962891,
+        "TSNE-1": 5.441376209259033,
+        "TSNE-2": 0.7277877926826477,
         "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
+        "keywords": "serial, female, killer, lack, less"
       },
       {
-        "TSNE-1": -2.7770113945007324,
-        "TSNE-2": 2.1908631324768066,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": -2.2438552379608154,
-        "TSNE-2": -9.008234977722168,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": 1.7877273559570312,
-        "TSNE-2": -6.640975475311279,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": -2.219282627105713,
-        "TSNE-2": -1.5577120780944824,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": 6.971673011779785,
-        "TSNE-2": 0.6568118929862976,
+        "TSNE-1": -0.7812758088111877,
+        "TSNE-2": 2.1626627445220947,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 3.309995412826538,
-        "TSNE-2": -4.635833740234375,
+        "TSNE-1": -2.7483479976654053,
+        "TSNE-2": 2.986313581466675,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 3.512338399887085,
-        "TSNE-2": 4.100440979003906,
+        "TSNE-1": 3.26432728767395,
+        "TSNE-2": 7.1578168869018555,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": -6.786486625671387,
+        "TSNE-2": -4.668761730194092,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -4.593048095703125,
+        "TSNE-2": -5.595915794372559,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": 3.892240285873413,
+        "TSNE-2": 3.230074644088745,
         "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
+        "keywords": "serial, female, killer, lack, less"
       },
       {
-        "TSNE-1": -0.49907511472702026,
-        "TSNE-2": -3.161224126815796,
+        "TSNE-1": -4.309113502502441,
+        "TSNE-2": 0.2864266037940979,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 7.52118444442749,
-        "TSNE-2": 3.418689012527466,
+        "TSNE-1": -5.220760822296143,
+        "TSNE-2": -2.7326250076293945,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": 2.116612195968628,
+        "TSNE-2": 0.9685069918632507,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": 8.409002304077148,
+        "TSNE-2": -2.814601182937622,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": 1.0552533864974976,
+        "TSNE-2": 6.317566871643066,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": 4.7215471267700195,
+        "TSNE-2": 10.638656616210938,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": -10.605504035949707,
+        "TSNE-2": -0.17087388038635254,
+        "cluster": 5,
+        "keywords": "psychopath, low, two, average, three"
+      },
+      {
+        "TSNE-1": 0.35583388805389404,
+        "TSNE-2": 1.047119140625,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": -1.8823951482772827,
+        "TSNE-2": 0.3110872209072113,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": 1.7861411571502686,
+        "TSNE-2": -7.148488521575928,
         "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
+        "keywords": "commit, murder, death, lower, hear"
       },
       {
-        "TSNE-1": -7.403786659240723,
-        "TSNE-2": 0.5085589289665222,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
+        "TSNE-1": 10.932454109191895,
+        "TSNE-2": 7.694633483886719,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
       },
       {
-        "TSNE-1": -10.421321868896484,
-        "TSNE-2": -6.448066234588623,
+        "TSNE-1": -4.684074878692627,
+        "TSNE-2": -3.4856760501861572,
         "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
+        "keywords": "murderer, medium, woman, societal, male"
       },
       {
-        "TSNE-1": 1.2503925561904907,
-        "TSNE-2": 1.3628742694854736,
+        "TSNE-1": -0.12004108726978302,
+        "TSNE-2": 5.571044921875,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 0.5080257058143616,
-        "TSNE-2": 6.016727924346924,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": -14.703879356384277,
-        "TSNE-2": -9.221343040466309,
+        "TSNE-1": -2.0864756107330322,
+        "TSNE-2": -6.38181734085083,
         "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
+        "keywords": "murderer, medium, woman, societal, male"
       },
       {
-        "TSNE-1": 7.759553909301758,
-        "TSNE-2": -12.931306838989258,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
+        "TSNE-1": 6.268529891967773,
+        "TSNE-2": -1.9002407789230347,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
       },
       {
-        "TSNE-1": 4.364899635314941,
-        "TSNE-2": -3.966235399246216,
+        "TSNE-1": -7.634249687194824,
+        "TSNE-2": -11.335058212280273,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -11.00143814086914,
+        "TSNE-2": 0.3974515199661255,
+        "cluster": 5,
+        "keywords": "psychopath, low, two, average, three"
+      },
+      {
+        "TSNE-1": -5.60897970199585,
+        "TSNE-2": 3.2055201530456543,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 5.589972972869873,
-        "TSNE-2": 3.783677339553833,
+        "TSNE-1": 2.3103044033050537,
+        "TSNE-2": -9.36060619354248,
         "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
+        "keywords": "commit, murder, death, lower, hear"
       },
       {
-        "TSNE-1": 6.494426727294922,
-        "TSNE-2": -2.6628494262695312,
+        "TSNE-1": 8.859302520751953,
+        "TSNE-2": 4.636417865753174,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": 9.096475601196289,
+        "TSNE-2": -6.744627952575684,
+        "cluster": 3,
+        "keywords": "commit, murder, death, lower, hear"
+      },
+      {
+        "TSNE-1": 7.955550670623779,
+        "TSNE-2": -7.3441572189331055,
+        "cluster": 3,
+        "keywords": "commit, murder, death, lower, hear"
+      },
+      {
+        "TSNE-1": -10.931526184082031,
+        "TSNE-2": -8.14852237701416,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -3.0196127891540527,
+        "TSNE-2": 1.8108118772506714,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 3.6321420669555664,
-        "TSNE-2": 9.873809814453125,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": -2.8532426357269287,
-        "TSNE-2": -4.047835350036621,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": -11.293872833251953,
-        "TSNE-2": -6.196868419647217,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": -4.069485664367676,
-        "TSNE-2": 3.9960367679595947,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": 1.8383288383483887,
-        "TSNE-2": 11.611337661743164,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 12.6902437210083,
-        "TSNE-2": 4.32003116607666,
-        "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
-      },
-      {
-        "TSNE-1": -7.831486701965332,
-        "TSNE-2": -7.884087085723877,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": -9.2205228805542,
-        "TSNE-2": 4.224098205566406,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": -11.123109817504883,
-        "TSNE-2": 0.8639146685600281,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": -1.586177945137024,
-        "TSNE-2": 7.280770778656006,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 1.4951186180114746,
-        "TSNE-2": -4.80846643447876,
+        "TSNE-1": -3.1488680839538574,
+        "TSNE-2": -2.048787832260132,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 1.1287237405776978,
-        "TSNE-2": 4.084076881408691,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 4.088675022125244,
-        "TSNE-2": -6.705759048461914,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": -8.791955947875977,
-        "TSNE-2": -3.01745867729187,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": 4.889983654022217,
-        "TSNE-2": 7.1786041259765625,
-        "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
-      },
-      {
-        "TSNE-1": -8.237836837768555,
-        "TSNE-2": -3.8819916248321533,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": -4.801496982574463,
-        "TSNE-2": 8.108232498168945,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": -3.6955342292785645,
-        "TSNE-2": 0.6424953937530518,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": -0.9695391654968262,
-        "TSNE-2": 1.7269648313522339,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 1.9733035564422607,
-        "TSNE-2": 3.469337224960327,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 0.6137852072715759,
-        "TSNE-2": 7.556640625,
-        "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
-      },
-      {
-        "TSNE-1": 0.1520281285047531,
-        "TSNE-2": -10.726526260375977,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": -3.6955342292785645,
-        "TSNE-2": 0.6424953937530518,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": -9.347119331359863,
-        "TSNE-2": 3.5291998386383057,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": 6.408757209777832,
-        "TSNE-2": -12.528553009033203,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": -0.22410252690315247,
-        "TSNE-2": -6.692842483520508,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": 8.565641403198242,
-        "TSNE-2": 3.2830212116241455,
-        "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
-      },
-      {
-        "TSNE-1": 12.769207954406738,
-        "TSNE-2": 4.781702041625977,
-        "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
-      },
-      {
-        "TSNE-1": 1.4296199083328247,
-        "TSNE-2": -8.471294403076172,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": 1.7877273559570312,
-        "TSNE-2": -6.640975475311279,
-        "cluster": 4,
-        "keywords": "commit, perception, gender, drug, different"
-      },
-      {
-        "TSNE-1": -12.505351066589355,
-        "TSNE-2": -6.258444786071777,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": 6.719512939453125,
-        "TSNE-2": 9.54796314239502,
-        "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
-      },
-      {
-        "TSNE-1": -14.757119178771973,
-        "TSNE-2": -5.951827526092529,
-        "cluster": 1,
-        "keywords": "psychopath, likely, rate, murderer, hear"
-      },
-      {
-        "TSNE-1": 7.9878740310668945,
-        "TSNE-2": -2.7438368797302246,
+        "TSNE-1": -0.9016120433807373,
+        "TSNE-2": 3.6532561779022217,
         "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
+        "keywords": "method, kill, crime, offender, likely"
       },
       {
-        "TSNE-1": 5.167299747467041,
-        "TSNE-2": 3.081528425216675,
+        "TSNE-1": -6.1564459800720215,
+        "TSNE-2": -8.238360404968262,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": 5.671402931213379,
+        "TSNE-2": -8.199069023132324,
         "cluster": 3,
-        "keywords": "men, motivation, among, sadistic, rare"
+        "keywords": "commit, murder, death, lower, hear"
       },
       {
-        "TSNE-1": 1.412756085395813,
-        "TSNE-2": -2.769230604171753,
-        "cluster": 2,
-        "keywords": "less, often, woman, societal, method"
-      },
-      {
-        "TSNE-1": -9.402545928955078,
-        "TSNE-2": 0.23414373397827148,
-        "cluster": 5,
-        "keywords": "murder, tend, use, crime, kill"
-      },
-      {
-        "TSNE-1": -1.143045425415039,
-        "TSNE-2": 4.08092737197876,
+        "TSNE-1": 4.169674396514893,
+        "TSNE-2": -2.932361602783203,
         "cluster": 0,
-        "keywords": "serial, female, killer, male, medium"
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": 4.620840549468994,
+        "TSNE-2": -8.123716354370117,
+        "cluster": 3,
+        "keywords": "commit, murder, death, lower, hear"
+      },
+      {
+        "TSNE-1": 3.3576316833496094,
+        "TSNE-2": -4.954843521118164,
+        "cluster": 3,
+        "keywords": "commit, murder, death, lower, hear"
+      },
+      {
+        "TSNE-1": 3.769601345062256,
+        "TSNE-2": 5.4897308349609375,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": -2.3640973567962646,
+        "TSNE-2": 8.80988597869873,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": 0.15995493531227112,
+        "TSNE-2": 3.791104316711426,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": 3.4442391395568848,
+        "TSNE-2": 0.5785202383995056,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": -3.4774043560028076,
+        "TSNE-2": -12.649383544921875,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": 3.769601345062256,
+        "TSNE-2": 5.4897308349609375,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": 7.443174362182617,
+        "TSNE-2": -7.745182514190674,
+        "cluster": 3,
+        "keywords": "commit, murder, death, lower, hear"
+      },
+      {
+        "TSNE-1": 11.66102123260498,
+        "TSNE-2": 8.822097778320312,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": -8.433882713317871,
+        "TSNE-2": -5.8538384437561035,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": 1.2227628231048584,
+        "TSNE-2": 7.552956581115723,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": 9.235017776489258,
+        "TSNE-2": 4.466045379638672,
+        "cluster": 0,
+        "keywords": "serial, female, killer, lack, less"
+      },
+      {
+        "TSNE-1": -0.13897693157196045,
+        "TSNE-2": -5.420472145080566,
+        "cluster": 3,
+        "keywords": "commit, murder, death, lower, hear"
+      },
+      {
+        "TSNE-1": -4.593048095703125,
+        "TSNE-2": -5.595915794372559,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -0.5449175834655762,
+        "TSNE-2": -11.757366180419922,
+        "cluster": 3,
+        "keywords": "commit, murder, death, lower, hear"
+      },
+      {
+        "TSNE-1": 10.882617950439453,
+        "TSNE-2": -9.687390327453613,
+        "cluster": 3,
+        "keywords": "commit, murder, death, lower, hear"
+      },
+      {
+        "TSNE-1": -10.092588424682617,
+        "TSNE-2": 2.943842649459839,
+        "cluster": 5,
+        "keywords": "psychopath, low, two, average, three"
+      },
+      {
+        "TSNE-1": -2.9264976978302,
+        "TSNE-2": -7.820234298706055,
+        "cluster": 1,
+        "keywords": "murderer, medium, woman, societal, male"
+      },
+      {
+        "TSNE-1": -0.7365327477455139,
+        "TSNE-2": 5.987478733062744,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": -1.2397891283035278,
+        "TSNE-2": -1.6309823989868164,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
+      },
+      {
+        "TSNE-1": 6.505470275878906,
+        "TSNE-2": 9.773643493652344,
+        "cluster": 4,
+        "keywords": "approximately, tend, homicide, different, sex"
+      },
+      {
+        "TSNE-1": -6.0512189865112305,
+        "TSNE-2": 6.509030342102051,
+        "cluster": 2,
+        "keywords": "method, kill, crime, offender, likely"
       }
     ]
   },

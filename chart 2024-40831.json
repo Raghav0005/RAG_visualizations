@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-cf0b67780fe5300a15628f1b6ebb83d1"
+    "name": "data-a965d62933f18468bc8abf9cc72d0f6a"
   },
   "datasets": {
-    "data-cf0b67780fe5300a15628f1b6ebb83d1": [
+    "data-a965d62933f18468bc8abf9cc72d0f6a": [
       {
-        "TSNE-1": 3.245213270187378,
-        "TSNE-2": -0.006349895149469376,
+        "TSNE-1": -8.767021179199219,
+        "TSNE-2": -4.661900997161865,
         "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
+        "keywords": "risk, pregnancy, birth, child, effect"
       },
       {
-        "TSNE-1": 4.343405246734619,
-        "TSNE-2": 6.5809855461120605,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": -0.6738028526306152,
-        "TSNE-2": 2.1826066970825195,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": -4.456670761108398,
-        "TSNE-2": -5.9872050285339355,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": -0.6718759536743164,
-        "TSNE-2": 2.1136538982391357,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 4.451639652252197,
-        "TSNE-2": 10.743907928466797,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": -0.8093788027763367,
-        "TSNE-2": 5.053418159484863,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 5.479222774505615,
-        "TSNE-2": 3.575410842895508,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 13.831171989440918,
-        "TSNE-2": -15.78341293334961,
+        "TSNE-1": -4.545098781585693,
+        "TSNE-2": -4.636739730834961,
         "cluster": 5,
-        "keywords": "nan, flow, failure, family, fat"
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
       },
       {
-        "TSNE-1": -2.310922622680664,
-        "TSNE-2": -6.222540378570557,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": -1.1904642581939697,
-        "TSNE-2": 7.636422157287598,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 3.9248647689819336,
-        "TSNE-2": -2.3404626846313477,
+        "TSNE-1": -6.346070766448975,
+        "TSNE-2": -3.3351263999938965,
         "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
+        "keywords": "risk, pregnancy, birth, child, effect"
       },
       {
-        "TSNE-1": 1.3369624614715576,
-        "TSNE-2": 3.4231045246124268,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 0.4419292211532593,
-        "TSNE-2": 0.9115946888923645,
-        "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
-      },
-      {
-        "TSNE-1": -2.9640021324157715,
-        "TSNE-2": -4.9470534324646,
+        "TSNE-1": -3.016289710998535,
+        "TSNE-2": 9.411050796508789,
         "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
+        "keywords": "mention, aresenic, text, greek, god"
       },
       {
-        "TSNE-1": 7.179795742034912,
-        "TSNE-2": 2.5433452129364014,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": -1.4174280166625977,
-        "TSNE-2": 9.62246036529541,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 5.479222774505615,
-        "TSNE-2": 3.575410842895508,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 8.375739097595215,
-        "TSNE-2": 2.4008305072784424,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 2.006690263748169,
-        "TSNE-2": -6.205928325653076,
+        "TSNE-1": -6.346070766448975,
+        "TSNE-2": -3.3351263999938965,
         "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
+        "keywords": "risk, pregnancy, birth, child, effect"
       },
       {
-        "TSNE-1": -6.948318958282471,
-        "TSNE-2": -6.816765785217285,
+        "TSNE-1": 0.49467259645462036,
+        "TSNE-2": -11.336363792419434,
+        "cluster": 4,
+        "keywords": "delay, caffeine, prenatal, function, increase"
+      },
+      {
+        "TSNE-1": 0.9763719439506531,
+        "TSNE-2": -2.2569892406463623,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -0.75783771276474,
+        "TSNE-2": -0.6044793128967285,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -0.7995628118515015,
+        "TSNE-2": 8.071675300598145,
         "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
+        "keywords": "mention, aresenic, text, greek, god"
       },
       {
-        "TSNE-1": -8.466309547424316,
-        "TSNE-2": 2.6250455379486084,
+        "TSNE-1": 0.22114670276641846,
+        "TSNE-2": -7.9420599937438965,
+        "cluster": 4,
+        "keywords": "delay, caffeine, prenatal, function, increase"
+      },
+      {
+        "TSNE-1": -8.314969062805176,
+        "TSNE-2": 0.49464279413223267,
+        "cluster": 2,
+        "keywords": "risk, pregnancy, birth, child, effect"
+      },
+      {
+        "TSNE-1": 0.36956965923309326,
+        "TSNE-2": -4.02511739730835,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": -7.579000949859619,
+        "TSNE-2": -2.366008996963501,
+        "cluster": 2,
+        "keywords": "risk, pregnancy, birth, child, effect"
+      },
+      {
+        "TSNE-1": -2.546495199203491,
+        "TSNE-2": 7.443857192993164,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -0.7127631902694702,
+        "TSNE-2": 2.055877208709717,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -1.486493468284607,
+        "TSNE-2": -9.643692016601562,
+        "cluster": 4,
+        "keywords": "delay, caffeine, prenatal, function, increase"
+      },
+      {
+        "TSNE-1": -0.75783771276474,
+        "TSNE-2": -0.6044793128967285,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": 0.28296446800231934,
+        "TSNE-2": 2.672022581100464,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": 2.8064544200897217,
+        "TSNE-2": 10.41981029510498,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -3.543070077896118,
+        "TSNE-2": 11.540251731872559,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": 7.277122974395752,
+        "TSNE-2": -2.122415542602539,
         "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
+        "keywords": "arsenic, development, human, environmental, impact"
       },
       {
-        "TSNE-1": -8.319748878479004,
-        "TSNE-2": -5.25391149520874,
+        "TSNE-1": -5.1959428787231445,
+        "TSNE-2": 10.55862808227539,
         "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
+        "keywords": "mention, aresenic, text, greek, god"
       },
       {
-        "TSNE-1": 10.614407539367676,
-        "TSNE-2": 1.9459010362625122,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 3.520728826522827,
-        "TSNE-2": 8.580026626586914,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 3.512453556060791,
-        "TSNE-2": 1.5865103006362915,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": -4.920530319213867,
-        "TSNE-2": -2.8206095695495605,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": -0.8985816240310669,
-        "TSNE-2": 4.458341598510742,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": -3.3606936931610107,
-        "TSNE-2": -4.174225330352783,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": 2.610243082046509,
-        "TSNE-2": -6.278582572937012,
+        "TSNE-1": -6.527914047241211,
+        "TSNE-2": -5.471689224243164,
         "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
+        "keywords": "risk, pregnancy, birth, child, effect"
       },
       {
-        "TSNE-1": 6.567173004150391,
-        "TSNE-2": -2.2137420177459717,
+        "TSNE-1": -1.973050832748413,
+        "TSNE-2": -6.507233142852783,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": -2.74147367477417,
+        "TSNE-2": -1.6573121547698975,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -0.40295255184173584,
+        "TSNE-2": 10.349908828735352,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": 1.215664267539978,
+        "TSNE-2": -1.9226852655410767,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -3.2971549034118652,
+        "TSNE-2": 7.440483093261719,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": 3.337312936782837,
+        "TSNE-2": 10.189220428466797,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -5.7684431076049805,
+        "TSNE-2": 1.337253212928772,
         "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
+        "keywords": "risk, pregnancy, birth, child, effect"
       },
       {
-        "TSNE-1": 0.44217967987060547,
-        "TSNE-2": -3.2768592834472656,
+        "TSNE-1": 11.487947463989258,
+        "TSNE-2": 0.561992883682251,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": -0.4647839069366455,
+        "TSNE-2": -4.77271032333374,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": 0.5693976283073425,
+        "TSNE-2": 1.10280179977417,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": 7.209234714508057,
+        "TSNE-2": -1.1009783744812012,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 5.305540561676025,
+        "TSNE-2": -1.0561062097549438,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 4.640653133392334,
+        "TSNE-2": -4.89389705657959,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 3.852640390396118,
+        "TSNE-2": 0.45368871092796326,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": -1.7498164176940918,
+        "TSNE-2": -4.6865458488464355,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": -3.4202840328216553,
+        "TSNE-2": -2.8969688415527344,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": -4.079806804656982,
+        "TSNE-2": -5.6094536781311035,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": 2.1889607906341553,
+        "TSNE-2": -7.821877479553223,
+        "cluster": 4,
+        "keywords": "delay, caffeine, prenatal, function, increase"
+      },
+      {
+        "TSNE-1": -0.7846188545227051,
+        "TSNE-2": -3.3135666847229004,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": -1.6056263446807861,
+        "TSNE-2": -1.786497950553894,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": 5.818670749664307,
+        "TSNE-2": -1.4241083860397339,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 7.117306232452393,
+        "TSNE-2": 6.376674652099609,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 3.1666102409362793,
+        "TSNE-2": 6.114270210266113,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -2.925638198852539,
+        "TSNE-2": 11.974377632141113,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": 0.22114670276641846,
+        "TSNE-2": -7.9420599937438965,
+        "cluster": 4,
+        "keywords": "delay, caffeine, prenatal, function, increase"
+      },
+      {
+        "TSNE-1": 5.866874694824219,
+        "TSNE-2": -2.109213352203369,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 11.107662200927734,
+        "TSNE-2": -4.941347599029541,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": -1.139434576034546,
+        "TSNE-2": 7.545980930328369,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -0.21772462129592896,
+        "TSNE-2": -4.037991046905518,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": -3.228126287460327,
+        "TSNE-2": -8.191421508789062,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": 1.3444788455963135,
+        "TSNE-2": 0.41019928455352783,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -5.349985599517822,
+        "TSNE-2": 10.429351806640625,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -2.8287198543548584,
+        "TSNE-2": 1.8614387512207031,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -2.7429676055908203,
+        "TSNE-2": 8.619657516479492,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -5.473928451538086,
+        "TSNE-2": -1.1747061014175415,
         "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
+        "keywords": "risk, pregnancy, birth, child, effect"
       },
       {
-        "TSNE-1": 1.5537227392196655,
-        "TSNE-2": 4.706475734710693,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 7.462073802947998,
-        "TSNE-2": 4.088250637054443,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": -8.520320892333984,
-        "TSNE-2": 3.670602321624756,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": -6.9350457191467285,
-        "TSNE-2": 3.9263272285461426,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": -4.24386739730835,
-        "TSNE-2": 4.719569206237793,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": -7.672664642333984,
-        "TSNE-2": 6.75436544418335,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": 2.909745216369629,
-        "TSNE-2": 5.216127395629883,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 4.845639228820801,
-        "TSNE-2": 1.777273178100586,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 2.8861734867095947,
-        "TSNE-2": 7.010404109954834,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 8.163857460021973,
-        "TSNE-2": 8.088261604309082,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 2.3582839965820312,
-        "TSNE-2": 3.345311164855957,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 4.812185764312744,
-        "TSNE-2": 4.909918785095215,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": -6.565668106079102,
-        "TSNE-2": 3.231482744216919,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": -3.729050874710083,
-        "TSNE-2": -9.827848434448242,
+        "TSNE-1": -1.8328498601913452,
+        "TSNE-2": 12.0902681350708,
         "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
+        "keywords": "mention, aresenic, text, greek, god"
       },
       {
-        "TSNE-1": -5.2264323234558105,
-        "TSNE-2": -0.6073511242866516,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": -6.602058410644531,
-        "TSNE-2": -7.196198463439941,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": -1.1904642581939697,
-        "TSNE-2": 7.636422157287598,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": -6.826930046081543,
-        "TSNE-2": 2.695563793182373,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": 7.287971496582031,
-        "TSNE-2": 12.000982284545898,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": -2.8292717933654785,
-        "TSNE-2": -6.817807197570801,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": 1.5539196729660034,
-        "TSNE-2": 3.9394726753234863,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 5.709033012390137,
-        "TSNE-2": 8.028822898864746,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 6.857250690460205,
-        "TSNE-2": 4.758762359619141,
+        "TSNE-1": -5.094780921936035,
+        "TSNE-2": 4.014692783355713,
         "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
+        "keywords": "exposure, developmental, health, childhood, early"
       },
       {
-        "TSNE-1": -8.595939636230469,
-        "TSNE-2": -5.478451728820801,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
+        "TSNE-1": 9.940546035766602,
+        "TSNE-2": -4.551326274871826,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
       },
       {
-        "TSNE-1": 8.832115173339844,
-        "TSNE-2": 5.304797649383545,
+        "TSNE-1": 7.756584644317627,
+        "TSNE-2": 2.9965386390686035,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 3.7443974018096924,
+        "TSNE-2": 3.074376344680786,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 5.18564510345459,
+        "TSNE-2": -4.1861090660095215,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 2.9353885650634766,
+        "TSNE-2": -3.4842946529388428,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": 5.774341583251953,
+        "TSNE-2": -4.601729869842529,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": -2.279386520385742,
+        "TSNE-2": 0.04901885986328125,
         "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
+        "keywords": "exposure, developmental, health, childhood, early"
       },
       {
-        "TSNE-1": -4.300633907318115,
-        "TSNE-2": -4.937294006347656,
+        "TSNE-1": 8.084624290466309,
+        "TSNE-2": 1.8288581371307373,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": -4.405454635620117,
+        "TSNE-2": 12.609655380249023,
         "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
+        "keywords": "mention, aresenic, text, greek, god"
       },
       {
-        "TSNE-1": 2.053001880645752,
-        "TSNE-2": 1.19951593875885,
+        "TSNE-1": 8.2139253616333,
+        "TSNE-2": 1.6021462678909302,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": -1.6713627576828003,
+        "TSNE-2": -10.3492431640625,
+        "cluster": 4,
+        "keywords": "delay, caffeine, prenatal, function, increase"
+      },
+      {
+        "TSNE-1": -5.624628067016602,
+        "TSNE-2": -7.264849662780762,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": 0.4626564085483551,
+        "TSNE-2": -6.073209762573242,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": 4.00139045715332,
+        "TSNE-2": -0.9759365916252136,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": -2.7597975730895996,
+        "TSNE-2": -4.805324077606201,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": -2.9343924522399902,
+        "TSNE-2": -6.569849014282227,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": -5.624628067016602,
+        "TSNE-2": -7.264849662780762,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": 9.916976928710938,
+        "TSNE-2": -4.58958101272583,
+        "cluster": 0,
+        "keywords": "arsenic, development, human, environmental, impact"
+      },
+      {
+        "TSNE-1": -0.5444959402084351,
+        "TSNE-2": 8.921650886535645,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -3.9272146224975586,
+        "TSNE-2": -0.5082654356956482,
         "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
+        "keywords": "risk, pregnancy, birth, child, effect"
       },
       {
-        "TSNE-1": -6.415542125701904,
-        "TSNE-2": -8.395709991455078,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": -1.7031257152557373,
-        "TSNE-2": -0.5235897302627563,
-        "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
-      },
-      {
-        "TSNE-1": -1.5064162015914917,
-        "TSNE-2": -12.697495460510254,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": 2.369579553604126,
-        "TSNE-2": -11.228285789489746,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": -4.133537292480469,
-        "TSNE-2": 2.421937942504883,
+        "TSNE-1": 7.045938968658447,
+        "TSNE-2": 6.60093355178833,
         "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
+        "keywords": "arsenic, development, human, environmental, impact"
       },
       {
-        "TSNE-1": -5.001770973205566,
-        "TSNE-2": 5.193548679351807,
+        "TSNE-1": -5.094780921936035,
+        "TSNE-2": 4.014692783355713,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -4.689802646636963,
+        "TSNE-2": -2.380661725997925,
+        "cluster": 2,
+        "keywords": "risk, pregnancy, birth, child, effect"
+      },
+      {
+        "TSNE-1": -3.4202840328216553,
+        "TSNE-2": -2.8969688415527344,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": 2.375990390777588,
+        "TSNE-2": 3.7483091354370117,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": 4.202617168426514,
+        "TSNE-2": 9.555709838867188,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -5.9532904624938965,
+        "TSNE-2": 12.957014083862305,
+        "cluster": 3,
+        "keywords": "mention, aresenic, text, greek, god"
+      },
+      {
+        "TSNE-1": -1.7292094230651855,
+        "TSNE-2": 1.4659782648086548,
+        "cluster": 1,
+        "keywords": "exposure, developmental, health, childhood, early"
+      },
+      {
+        "TSNE-1": -8.06352424621582,
+        "TSNE-2": 0.7111839652061462,
+        "cluster": 2,
+        "keywords": "risk, pregnancy, birth, child, effect"
+      },
+      {
+        "TSNE-1": -1.6430543661117554,
+        "TSNE-2": -3.261666774749756,
+        "cluster": 5,
+        "keywords": "cognitive, drinking, pregnant, particularly, water"
+      },
+      {
+        "TSNE-1": 11.487947463989258,
+        "TSNE-2": 0.561992883682251,
         "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
+        "keywords": "arsenic, development, human, environmental, impact"
       },
       {
-        "TSNE-1": 8.836160659790039,
-        "TSNE-2": -0.051319412887096405,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": -4.7682342529296875,
-        "TSNE-2": 5.882324695587158,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": 7.136597156524658,
-        "TSNE-2": 0.5851734280586243,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 2.9402456283569336,
-        "TSNE-2": -10.008917808532715,
-        "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
-      },
-      {
-        "TSNE-1": -6.8384623527526855,
-        "TSNE-2": -5.405638217926025,
+        "TSNE-1": -0.06480948626995087,
+        "TSNE-2": 7.777132987976074,
         "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": 3.147651195526123,
-        "TSNE-2": -9.790873527526855,
-        "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
-      },
-      {
-        "TSNE-1": -1.921374797821045,
-        "TSNE-2": 10.291143417358398,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 1.4329086542129517,
-        "TSNE-2": 9.222762107849121,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 0.3159061074256897,
-        "TSNE-2": 6.392725467681885,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": -6.682966709136963,
-        "TSNE-2": 5.588831901550293,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": 2.045318365097046,
-        "TSNE-2": 5.98950719833374,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 4.130449295043945,
-        "TSNE-2": 7.9366536140441895,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 1.4329086542129517,
-        "TSNE-2": 9.222762107849121,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": -1.4789730310440063,
-        "TSNE-2": -12.703258514404297,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": -1.4261717796325684,
-        "TSNE-2": -5.836195945739746,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": 5.263121604919434,
-        "TSNE-2": 0.3091837763786316,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": -3.8274552822113037,
-        "TSNE-2": -9.68210506439209,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": -1.7031257152557373,
-        "TSNE-2": -0.5235897302627563,
-        "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
-      },
-      {
-        "TSNE-1": 3.564408540725708,
-        "TSNE-2": 2.7137298583984375,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 4.845639228820801,
-        "TSNE-2": 1.777273178100586,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": -3.1206629276275635,
-        "TSNE-2": 1.5966445207595825,
-        "cluster": 0,
-        "keywords": "arsenic, development, human, toxin, exposure"
-      },
-      {
-        "TSNE-1": 3.6811540126800537,
-        "TSNE-2": -6.345704078674316,
-        "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
-      },
-      {
-        "TSNE-1": -8.221528053283691,
-        "TSNE-2": -3.628110408782959,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
-      },
-      {
-        "TSNE-1": 9.023704528808594,
-        "TSNE-2": 4.1660661697387695,
-        "cluster": 1,
-        "keywords": "developmental, health, particularly, environmental, adverse"
-      },
-      {
-        "TSNE-1": 4.1348114013671875,
-        "TSNE-2": -2.324082374572754,
-        "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
-      },
-      {
-        "TSNE-1": 3.3442227840423584,
-        "TSNE-2": 3.902799129486084,
-        "cluster": 4,
-        "keywords": "risk, early, birth, cognitive, child"
-      },
-      {
-        "TSNE-1": 0.44217967987060547,
-        "TSNE-2": -3.2768592834472656,
-        "cluster": 2,
-        "keywords": "impact, document, drug, negative, contamination"
-      },
-      {
-        "TSNE-1": -1.879725456237793,
-        "TSNE-2": -7.060746192932129,
-        "cluster": 3,
-        "keywords": "mention, aresenic, text, context, greek"
+        "keywords": "mention, aresenic, text, greek, god"
       }
     ]
   },

@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-b193430e0942300799ad65d02b1c9af8"
+    "name": "data-3f3257b041d186ece43711e07a905e64"
   },
   "datasets": {
-    "data-b193430e0942300799ad65d02b1c9af8": [
+    "data-3f3257b041d186ece43711e07a905e64": [
       {
-        "TSNE-1": 3.4752702713012695,
-        "TSNE-2": -2.478706121444702,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
+        "TSNE-1": 10.101829528808594,
+        "TSNE-2": -0.1490759253501892,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
       },
       {
-        "TSNE-1": 6.196070671081543,
-        "TSNE-2": -8.650443077087402,
+        "TSNE-1": -7.578475475311279,
+        "TSNE-2": -0.7707746028900146,
         "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
+        "keywords": "land, life, chris, unable, church"
       },
       {
-        "TSNE-1": -3.817927837371826,
-        "TSNE-2": -7.1391520500183105,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -3.5105676651000977,
-        "TSNE-2": 10.183361053466797,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -3.817927837371826,
-        "TSNE-2": -7.1391520500183105,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -3.5053391456604004,
-        "TSNE-2": 1.5931514501571655,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -2.3030662536621094,
-        "TSNE-2": -5.200191020965576,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 3.5875802040100098,
-        "TSNE-2": 1.239254117012024,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -8.575008392333984,
-        "TSNE-2": 1.7087855339050293,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": 6.346823692321777,
-        "TSNE-2": -14.127890586853027,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": 0.6292908787727356,
-        "TSNE-2": 2.9881484508514404,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": 2.3836944103240967,
-        "TSNE-2": 13.32582950592041,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": 10.221695899963379,
-        "TSNE-2": -2.006627082824707,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 2.646648406982422,
-        "TSNE-2": 4.519615650177002,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -5.80776834487915,
-        "TSNE-2": -11.83203125,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 5.847080230712891,
-        "TSNE-2": -1.6102790832519531,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -10.705753326416016,
-        "TSNE-2": 13.350004196166992,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": 3.5875802040100098,
-        "TSNE-2": 1.239254117012024,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 10.43308162689209,
-        "TSNE-2": 0.8931275010108948,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 3.778371572494507,
-        "TSNE-2": -6.1711745262146,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": 0.16658949851989746,
-        "TSNE-2": 6.904297828674316,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": 9.486342430114746,
-        "TSNE-2": -7.227603912353516,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": 0.16658949851989746,
-        "TSNE-2": 6.904297828674316,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": 9.83774185180664,
-        "TSNE-2": 4.945988178253174,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 4.922905445098877,
-        "TSNE-2": 2.7846202850341797,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 5.073470592498779,
-        "TSNE-2": 0.22263483703136444,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -4.661190509796143,
-        "TSNE-2": 9.637985229492188,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -3.467393636703491,
-        "TSNE-2": -4.6702423095703125,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 12.634135246276855,
-        "TSNE-2": -10.125743865966797,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": -11.13036060333252,
-        "TSNE-2": 8.475146293640137,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": -8.785636901855469,
-        "TSNE-2": 0.7659299373626709,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": -15.253571510314941,
-        "TSNE-2": 2.0894110202789307,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": 5.367016315460205,
-        "TSNE-2": -3.8990395069122314,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": 3.3345911502838135,
-        "TSNE-2": -9.422991752624512,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": 8.04730224609375,
-        "TSNE-2": 3.3328630924224854,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -3.082139015197754,
-        "TSNE-2": 3.6594924926757812,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -2.2324559688568115,
-        "TSNE-2": 1.5913926362991333,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -8.007434844970703,
-        "TSNE-2": 6.550244331359863,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": 2.471344470977783,
-        "TSNE-2": -0.6860010623931885,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 0.804850697517395,
-        "TSNE-2": -3.2496867179870605,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 6.143088340759277,
-        "TSNE-2": 6.655067443847656,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 5.770509243011475,
-        "TSNE-2": 4.507229804992676,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 7.094293117523193,
-        "TSNE-2": 0.5915918946266174,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -7.45629358291626,
-        "TSNE-2": -6.1458330154418945,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -5.001564979553223,
-        "TSNE-2": 0.5112905502319336,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -7.715930461883545,
-        "TSNE-2": -2.777331590652466,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -14.20962142944336,
-        "TSNE-2": -0.5787353515625,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": -5.67421293258667,
-        "TSNE-2": 11.839323997497559,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": 0.6292908787727356,
-        "TSNE-2": 2.9881484508514404,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -4.005545139312744,
-        "TSNE-2": 4.925088882446289,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -4.493274688720703,
-        "TSNE-2": 13.821356773376465,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": 6.888921737670898,
-        "TSNE-2": -13.5368070602417,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": 5.849995136260986,
-        "TSNE-2": -3.3128037452697754,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -7.715930461883545,
-        "TSNE-2": -2.777331590652466,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 8.736812591552734,
-        "TSNE-2": -0.4237692058086395,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -1.966607928276062,
-        "TSNE-2": 11.198783874511719,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": 2.0996203422546387,
-        "TSNE-2": -5.089751720428467,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": -5.617950916290283,
-        "TSNE-2": -12.767242431640625,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 2.9499659538269043,
-        "TSNE-2": 7.216978073120117,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -0.700493574142456,
-        "TSNE-2": 7.841147422790527,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -0.5199329853057861,
-        "TSNE-2": -10.069723129272461,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -1.9122538566589355,
-        "TSNE-2": 15.009904861450195,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -7.295746326446533,
-        "TSNE-2": 4.138099670410156,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": -15.253571510314941,
-        "TSNE-2": 2.0894110202789307,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": -3.0738236904144287,
-        "TSNE-2": 0.36683782935142517,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 0.2183489203453064,
-        "TSNE-2": -1.1111236810684204,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -5.295200824737549,
-        "TSNE-2": 2.517465353012085,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": 6.545627593994141,
-        "TSNE-2": -6.06422233581543,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": 8.47668743133545,
-        "TSNE-2": -4.025079250335693,
-        "cluster": 4,
-        "keywords": "context, mention, cultural, answer, trade"
-      },
-      {
-        "TSNE-1": -11.08906078338623,
-        "TSNE-2": -2.2719433307647705,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": 13.06845474243164,
-        "TSNE-2": 0.3049887716770172,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -10.705753326416016,
-        "TSNE-2": 13.350004196166992,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": -11.404181480407715,
-        "TSNE-2": -7.071951389312744,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 9.578523635864258,
-        "TSNE-2": 8.131607055664062,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -4.024947166442871,
-        "TSNE-2": -1.4212888479232788,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 4.40022087097168,
-        "TSNE-2": 9.354866981506348,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -14.516378402709961,
-        "TSNE-2": 5.416965961456299,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": -11.404181480407715,
-        "TSNE-2": -7.071951389312744,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -3.515029191970825,
-        "TSNE-2": 14.517351150512695,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -4.762960433959961,
-        "TSNE-2": 7.633640289306641,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": 11.891289710998535,
-        "TSNE-2": 3.6574363708496094,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 2.3836944103240967,
-        "TSNE-2": 13.32582950592041,
-        "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
-      },
-      {
-        "TSNE-1": -0.6013839840888977,
-        "TSNE-2": -9.229970932006836,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": 7.007180690765381,
-        "TSNE-2": 1.9717758893966675,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": 0.804850697517395,
-        "TSNE-2": -3.2496867179870605,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -4.576901435852051,
-        "TSNE-2": -13.51403522491455,
-        "cluster": 2,
-        "keywords": "new, growth, brought, feudal, also"
-      },
-      {
-        "TSNE-1": -10.48310661315918,
-        "TSNE-2": 2.8753597736358643,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": 20.721202850341797,
-        "TSNE-2": -16.699644088745117,
+        "TSNE-1": -4.972470760345459,
+        "TSNE-2": 12.165785789489746,
         "cluster": 3,
-        "keywords": "nan, zangi, feudalism, fervor, fellow"
+        "keywords": "ancient, goal, growth, achieve, primary"
       },
       {
-        "TSNE-1": 7.464073181152344,
-        "TSNE-2": -1.882705569267273,
+        "TSNE-1": -8.29538631439209,
+        "TSNE-2": 6.611350059509277,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": -4.972470760345459,
+        "TSNE-2": 12.165785789489746,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": 5.607729434967041,
+        "TSNE-2": 8.883346557617188,
         "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
+        "keywords": "christian, power, first, muslim, change"
       },
       {
-        "TSNE-1": -8.907698631286621,
-        "TSNE-2": 6.919230937957764,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
+        "TSNE-1": -5.985463619232178,
+        "TSNE-2": 9.301478385925293,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
       },
       {
-        "TSNE-1": 10.434940338134766,
-        "TSNE-2": -3.435382127761841,
-        "cluster": 5,
-        "keywords": "european, economic, often, military, primary"
-      },
-      {
-        "TSNE-1": -15.253571510314941,
-        "TSNE-2": 2.0894110202789307,
-        "cluster": 1,
-        "keywords": "successful, result, jerusalem, muslim, throughout"
-      },
-      {
-        "TSNE-1": -1.543609380722046,
-        "TSNE-2": 5.87142276763916,
+        "TSNE-1": -2.178255319595337,
+        "TSNE-2": -3.996774673461914,
         "cluster": 0,
-        "keywords": "crusade, failure, christian, holy, land"
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 14.85118293762207,
+        "TSNE-2": -5.226329803466797,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 12.499885559082031,
+        "TSNE-2": -2.6105549335479736,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 2.112793445587158,
+        "TSNE-2": 4.083600997924805,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": -6.6704206466674805,
+        "TSNE-2": 17.822063446044922,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": 2.9271273612976074,
+        "TSNE-2": -5.495934009552002,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": 5.217324733734131,
+        "TSNE-2": 3.102118968963623,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": -11.449235916137695,
+        "TSNE-2": -9.617067337036133,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": 8.5446138381958,
+        "TSNE-2": -3.0446786880493164,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 16.06583023071289,
+        "TSNE-2": 7.93115758895874,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": -2.178255319595337,
+        "TSNE-2": -3.996774673461914,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 15.530920028686523,
+        "TSNE-2": 0.42580610513687134,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 7.064735412597656,
+        "TSNE-2": -0.4205411672592163,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 0.061502762138843536,
+        "TSNE-2": 9.688261985778809,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": -0.8681581616401672,
+        "TSNE-2": 0.6653931736946106,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 0.061502762138843536,
+        "TSNE-2": 9.688261985778809,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": -4.072795391082764,
+        "TSNE-2": -8.73149585723877,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -3.1984055042266846,
+        "TSNE-2": -1.276094913482666,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": -0.7996444702148438,
+        "TSNE-2": -2.2948286533355713,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": -7.7230305671691895,
+        "TSNE-2": 5.17837381362915,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": -4.371628761291504,
+        "TSNE-2": 9.104423522949219,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": -13.458846092224121,
+        "TSNE-2": -8.729292869567871,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": 7.191097736358643,
+        "TSNE-2": 14.408099174499512,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 16.088420867919922,
+        "TSNE-2": -4.98618221282959,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 5.3982157707214355,
+        "TSNE-2": -14.364734649658203,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": 5.680984020233154,
+        "TSNE-2": -1.8070355653762817,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 8.208070755004883,
+        "TSNE-2": 1.767270565032959,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": -1.4652841091156006,
+        "TSNE-2": 2.8325393199920654,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 7.629776954650879,
+        "TSNE-2": 6.114389419555664,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 6.170050144195557,
+        "TSNE-2": 10.650945663452148,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": -12.903127670288086,
+        "TSNE-2": -1.3613288402557373,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": 3.4899795055389404,
+        "TSNE-2": 1.5311084985733032,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 0.8166872262954712,
+        "TSNE-2": -6.486654281616211,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -6.93009614944458,
+        "TSNE-2": -5.925477981567383,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": -4.439651966094971,
+        "TSNE-2": -5.0804057121276855,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 1.4899022579193115,
+        "TSNE-2": -2.6083006858825684,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 1.8112382888793945,
+        "TSNE-2": 14.141365051269531,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 4.686149597167969,
+        "TSNE-2": 7.112437725067139,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": -1.5801011323928833,
+        "TSNE-2": 17.911123275756836,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 1.7759557962417603,
+        "TSNE-2": -13.90550708770752,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -11.378432273864746,
+        "TSNE-2": 5.771352767944336,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": 2.112793445587158,
+        "TSNE-2": 4.083600997924805,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 9.474023818969727,
+        "TSNE-2": 5.276582717895508,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": -10.778740882873535,
+        "TSNE-2": 3.257093906402588,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": -5.197847366333008,
+        "TSNE-2": 1.8714978694915771,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 6.042303085327148,
+        "TSNE-2": -2.6633222103118896,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": -1.5801011323928833,
+        "TSNE-2": 17.911123275756836,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 7.966349124908447,
+        "TSNE-2": -7.193166732788086,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -15.128028869628906,
+        "TSNE-2": 5.749175548553467,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": -1.230292797088623,
+        "TSNE-2": -9.753778457641602,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -10.616851806640625,
+        "TSNE-2": -10.658337593078613,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": -0.2639303207397461,
+        "TSNE-2": 6.1871113777160645,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 0.061502762138843536,
+        "TSNE-2": 9.688261985778809,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": -17.89093780517578,
+        "TSNE-2": 2.09683895111084,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": -9.700567245483398,
+        "TSNE-2": -2.9904797077178955,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": 5.037342548370361,
+        "TSNE-2": 17.46345329284668,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 5.3982157707214355,
+        "TSNE-2": -14.364734649658203,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": 4.506145000457764,
+        "TSNE-2": 10.322702407836914,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 4.486461639404297,
+        "TSNE-2": -9.20665454864502,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": 8.596822738647461,
+        "TSNE-2": 8.85114860534668,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": 5.451226234436035,
+        "TSNE-2": -6.289056777954102,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": 3.326636791229248,
+        "TSNE-2": -0.905485212802887,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": -9.198114395141602,
+        "TSNE-2": 11.782232284545898,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": -5.321457386016846,
+        "TSNE-2": -2.8127591609954834,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 16.06583023071289,
+        "TSNE-2": 7.93115758895874,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": -4.025604724884033,
+        "TSNE-2": -13.893990516662598,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": 12.077757835388184,
+        "TSNE-2": 2.6995654106140137,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 8.953659057617188,
+        "TSNE-2": 11.43889331817627,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
+      },
+      {
+        "TSNE-1": -3.245894432067871,
+        "TSNE-2": 5.42984676361084,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 8.288333892822266,
+        "TSNE-2": -11.652968406677246,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -4.025604724884033,
+        "TSNE-2": -13.893990516662598,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -10.564504623413086,
+        "TSNE-2": 1.7287249565124512,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": -11.41067123413086,
+        "TSNE-2": 8.8726806640625,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": 1.6981747150421143,
+        "TSNE-2": -9.153120040893555,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -6.6704206466674805,
+        "TSNE-2": 17.822063446044922,
+        "cluster": 3,
+        "keywords": "ancient, goal, growth, achieve, primary"
+      },
+      {
+        "TSNE-1": -17.291156768798828,
+        "TSNE-2": 3.1292059421539307,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": 1.0361911058425903,
+        "TSNE-2": -0.6015760898590088,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 0.8166872262954712,
+        "TSNE-2": -6.486654281616211,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": -11.326416015625,
+        "TSNE-2": -12.222638130187988,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": 13.993855476379395,
+        "TSNE-2": -7.724032402038574,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": 9.243921279907227,
+        "TSNE-2": -5.363176345825195,
+        "cluster": 2,
+        "keywords": "cultural, successful, holy, jerusalem, military"
+      },
+      {
+        "TSNE-1": -13.716286659240723,
+        "TSNE-2": -2.16058087348938,
+        "cluster": 4,
+        "keywords": "land, life, chris, unable, church"
+      },
+      {
+        "TSNE-1": 3.6045444011688232,
+        "TSNE-2": -3.7849161624908447,
+        "cluster": 0,
+        "keywords": "crusade, european, western, religious, economic"
+      },
+      {
+        "TSNE-1": 5.3982157707214355,
+        "TSNE-2": -14.364734649658203,
+        "cluster": 1,
+        "keywords": "failure, new, middle, success, historian"
+      },
+      {
+        "TSNE-1": 1.4458037614822388,
+        "TSNE-2": 11.706146240234375,
+        "cluster": 5,
+        "keywords": "christian, power, first, muslim, change"
       }
     ]
   },

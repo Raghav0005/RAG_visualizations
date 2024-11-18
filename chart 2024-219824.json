@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-058d5480e5ee782dfa5dc677d0cfa13a"
+    "name": "data-c7e1eeb3e5ef306fe055dcf772ee7efc"
   },
   "datasets": {
-    "data-058d5480e5ee782dfa5dc677d0cfa13a": [
+    "data-c7e1eeb3e5ef306fe055dcf772ee7efc": [
       {
-        "TSNE-1": -3.6595215797424316,
-        "TSNE-2": -16.276466369628906,
+        "TSNE-1": 18.268497467041016,
+        "TSNE-2": 2.5634939670562744,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
+      },
+      {
+        "TSNE-1": -5.9061055183410645,
+        "TSNE-2": 22.638505935668945,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
+      },
+      {
+        "TSNE-1": 17.107357025146484,
+        "TSNE-2": 19.585126876831055,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
+      },
+      {
+        "TSNE-1": -7.3350324630737305,
+        "TSNE-2": 6.080463409423828,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 17.107357025146484,
+        "TSNE-2": 19.585126876831055,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
+      },
+      {
+        "TSNE-1": -3.106212615966797,
+        "TSNE-2": -4.650788307189941,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": -9.925361633300781,
+        "TSNE-2": 10.6218900680542,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
+      },
+      {
+        "TSNE-1": 4.733006954193115,
+        "TSNE-2": -8.843318939208984,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": 4.521813869476318,
+        "TSNE-2": -16.255191802978516,
         "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
+        "keywords": "individual, response, people, join, good"
       },
       {
-        "TSNE-1": -22.215242385864258,
-        "TSNE-2": -7.301546096801758,
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 5.469409942626953,
+        "TSNE-2": 15.996109008789062,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
+      },
+      {
+        "TSNE-1": -12.122836112976074,
+        "TSNE-2": -8.047694206237793,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 12.849517822265625,
+        "TSNE-2": 3.4075684547424316,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
+      },
+      {
+        "TSNE-1": 11.813374519348145,
+        "TSNE-2": 11.6193265914917,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
+      },
+      {
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 3.0162296295166016,
+        "TSNE-2": -2.604163646697998,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": -5.122893333435059,
+        "TSNE-2": -7.3142499923706055,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": 4.733006954193115,
+        "TSNE-2": -8.843318939208984,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": 7.210346221923828,
+        "TSNE-2": -4.4405717849731445,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": 2.6514484882354736,
+        "TSNE-2": -11.543716430664062,
         "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
+        "keywords": "individual, response, people, join, good"
       },
       {
-        "TSNE-1": -19.564186096191406,
-        "TSNE-2": 22.351112365722656,
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
         "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
+        "keywords": "put, pressure, involves, activity, violence"
       },
       {
-        "TSNE-1": -0.5823767781257629,
-        "TSNE-2": 5.670942306518555,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
+        "TSNE-1": 6.070456027984619,
+        "TSNE-2": 8.745588302612305,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
       },
       {
-        "TSNE-1": -19.564186096191406,
-        "TSNE-2": 22.351112365722656,
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
         "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
+        "keywords": "put, pressure, involves, activity, violence"
       },
       {
-        "TSNE-1": 12.497762680053711,
-        "TSNE-2": 2.74013352394104,
+        "TSNE-1": 8.005475044250488,
+        "TSNE-2": 9.879576683044434,
         "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
+        "keywords": "document, mutual, harmful, rather, lead"
       },
       {
-        "TSNE-1": 0.1602366417646408,
-        "TSNE-2": 11.152443885803223,
+        "TSNE-1": 0.22588573396205902,
+        "TSNE-2": -6.080063819885254,
         "cluster": 2,
-        "keywords": "put, place, member, form, solve"
+        "keywords": "form, unlikely, place, violent, severe"
       },
       {
-        "TSNE-1": 9.120278358459473,
-        "TSNE-2": -4.51693058013916,
+        "TSNE-1": 15.66577434539795,
+        "TSNE-2": 2.8932344913482666,
         "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
+        "keywords": "document, mutual, harmful, rather, lead"
       },
       {
-        "TSNE-1": 18.066923141479492,
-        "TSNE-2": 5.379311561584473,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
+        "TSNE-1": -1.8922770023345947,
+        "TSNE-2": 12.479747772216797,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
       },
       {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
+        "TSNE-1": -4.076380729675293,
+        "TSNE-2": 1.5978004932403564,
         "cluster": 2,
-        "keywords": "put, place, member, form, solve"
+        "keywords": "form, unlikely, place, violent, severe"
       },
       {
-        "TSNE-1": -21.7774600982666,
-        "TSNE-2": 9.107756614685059,
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
         "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
+        "keywords": "put, pressure, involves, activity, violence"
       },
       {
-        "TSNE-1": 9.737645149230957,
-        "TSNE-2": 19.723148345947266,
+        "TSNE-1": -11.106863021850586,
+        "TSNE-2": -13.39991283416748,
+        "cluster": 4,
+        "keywords": "individual, response, people, join, good"
+      },
+      {
+        "TSNE-1": 8.222577095031738,
+        "TSNE-2": -16.45953369140625,
+        "cluster": 4,
+        "keywords": "individual, response, people, join, good"
+      },
+      {
+        "TSNE-1": -2.8395302295684814,
+        "TSNE-2": 18.83648681640625,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
+      },
+      {
+        "TSNE-1": 9.205897331237793,
+        "TSNE-2": 3.7217562198638916,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
+      },
+      {
+        "TSNE-1": 5.073101997375488,
+        "TSNE-2": 2.7553060054779053,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": 21.858922958374023,
+        "TSNE-2": -6.865141868591309,
         "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
+        "keywords": "gang, healthy, friendship, engage, environment"
       },
       {
-        "TSNE-1": -1.6103588342666626,
-        "TSNE-2": -11.183396339416504,
-        "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
-      },
-      {
-        "TSNE-1": 14.955859184265137,
-        "TSNE-2": -15.476968765258789,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
+        "TSNE-1": -4.921873569488525,
+        "TSNE-2": -1.7807551622390747,
         "cluster": 2,
-        "keywords": "put, place, member, form, solve"
+        "keywords": "form, unlikely, place, violent, severe"
       },
       {
-        "TSNE-1": 1.6795779466629028,
-        "TSNE-2": -1.472678542137146,
-        "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
-      },
-      {
-        "TSNE-1": 9.24188232421875,
-        "TSNE-2": 1.886792778968811,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 9.120278358459473,
-        "TSNE-2": -4.51693058013916,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": 9.731313705444336,
-        "TSNE-2": -9.7666654586792,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": 12.18248176574707,
-        "TSNE-2": -6.93772554397583,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 13.51858901977539,
-        "TSNE-2": 13.903298377990723,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -16.219951629638672,
-        "TSNE-2": -3.240837335586548,
+        "TSNE-1": -0.884602963924408,
+        "TSNE-2": -9.703147888183594,
         "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
+        "keywords": "individual, response, people, join, good"
       },
       {
-        "TSNE-1": 12.292333602905273,
-        "TSNE-2": 6.6770830154418945,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -2.9240808486938477,
-        "TSNE-2": -13.697845458984375,
+        "TSNE-1": 3.283311367034912,
+        "TSNE-2": -22.171058654785156,
         "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
+        "keywords": "individual, response, people, join, good"
       },
       {
-        "TSNE-1": -6.1419878005981445,
-        "TSNE-2": -10.152471542358398,
+        "TSNE-1": 17.197372436523438,
+        "TSNE-2": -1.3432917594909668,
+        "cluster": 0,
+        "keywords": "gang, healthy, friendship, engage, environment"
+      },
+      {
+        "TSNE-1": 11.755317687988281,
+        "TSNE-2": -8.04675579071045,
+        "cluster": 0,
+        "keywords": "gang, healthy, friendship, engage, environment"
+      },
+      {
+        "TSNE-1": -6.428853511810303,
+        "TSNE-2": -17.425973892211914,
         "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
+        "keywords": "individual, response, people, join, good"
       },
       {
-        "TSNE-1": 2.393158197402954,
-        "TSNE-2": 4.832326889038086,
+        "TSNE-1": 2.6813271045684814,
+        "TSNE-2": 5.390652179718018,
         "cluster": 2,
-        "keywords": "put, place, member, form, solve"
+        "keywords": "form, unlikely, place, violent, severe"
       },
       {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 15.77918815612793,
-        "TSNE-2": 0.9012137055397034,
+        "TSNE-1": 11.82088565826416,
+        "TSNE-2": 6.019002914428711,
         "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
+        "keywords": "document, mutual, harmful, rather, lead"
       },
       {
-        "TSNE-1": -14.133875846862793,
-        "TSNE-2": 9.143038749694824,
+        "TSNE-1": 10.986369132995605,
+        "TSNE-2": -2.302539110183716,
+        "cluster": 0,
+        "keywords": "gang, healthy, friendship, engage, environment"
+      },
+      {
+        "TSNE-1": -15.826323509216309,
+        "TSNE-2": 11.804512023925781,
         "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
+        "keywords": "put, pressure, involves, activity, violence"
       },
       {
-        "TSNE-1": -7.5480146408081055,
-        "TSNE-2": 13.201082229614258,
-        "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
-      },
-      {
-        "TSNE-1": -1.118996024131775,
-        "TSNE-2": -8.26759147644043,
-        "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
-      },
-      {
-        "TSNE-1": 5.490345478057861,
-        "TSNE-2": -2.5269901752471924,
-        "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
-      },
-      {
-        "TSNE-1": -3.380798101425171,
-        "TSNE-2": 23.735321044921875,
-        "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
-      },
-      {
-        "TSNE-1": 3.7135608196258545,
-        "TSNE-2": -12.869203567504883,
-        "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
-      },
-      {
-        "TSNE-1": -11.188281059265137,
-        "TSNE-2": -13.876368522644043,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": -3.3758034706115723,
-        "TSNE-2": 18.253747940063477,
-        "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
-      },
-      {
-        "TSNE-1": 21.03091812133789,
-        "TSNE-2": -10.710986137390137,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": -3.6987876892089844,
-        "TSNE-2": -22.47389793395996,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": -10.225404739379883,
-        "TSNE-2": 17.987186431884766,
-        "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
-      },
-      {
-        "TSNE-1": 3.6609854698181152,
-        "TSNE-2": 1.497817039489746,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 1.8691095113754272,
-        "TSNE-2": -9.461724281311035,
-        "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
-      },
-      {
-        "TSNE-1": 2.7578718662261963,
-        "TSNE-2": -16.868377685546875,
-        "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
-      },
-      {
-        "TSNE-1": -9.427251815795898,
-        "TSNE-2": -17.580768585205078,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": -3.6148951053619385,
-        "TSNE-2": -1.7997875213623047,
-        "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
-      },
-      {
-        "TSNE-1": 1.3134089708328247,
-        "TSNE-2": 15.851463317871094,
-        "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
-      },
-      {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -21.7774600982666,
-        "TSNE-2": 9.107756614685059,
+        "TSNE-1": -16.61426544189453,
+        "TSNE-2": -4.068706035614014,
         "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
+        "keywords": "put, pressure, involves, activity, violence"
       },
       {
-        "TSNE-1": 8.407455444335938,
-        "TSNE-2": -13.720149993896484,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": 9.349629402160645,
-        "TSNE-2": 10.837320327758789,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -0.9512737989425659,
-        "TSNE-2": -6.301035404205322,
+        "TSNE-1": 2.1955227851867676,
+        "TSNE-2": 23.13965606689453,
         "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
+        "keywords": "unhealthy, member, may, conducive, toxic"
       },
       {
-        "TSNE-1": -3.6148951053619385,
-        "TSNE-2": -1.7997875213623047,
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 5.469409942626953,
+        "TSNE-2": 15.996109008789062,
         "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
+        "keywords": "unhealthy, member, may, conducive, toxic"
       },
       {
-        "TSNE-1": 15.359451293945312,
-        "TSNE-2": -4.304798603057861,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
+        "TSNE-1": 1.9282944202423096,
+        "TSNE-2": -16.33000373840332,
+        "cluster": 4,
+        "keywords": "individual, response, people, join, good"
       },
       {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 21.447113037109375,
-        "TSNE-2": -3.2838542461395264,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": -19.809690475463867,
-        "TSNE-2": 1.0805881023406982,
+        "TSNE-1": -21.916738510131836,
+        "TSNE-2": -0.8806001543998718,
         "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
+        "keywords": "put, pressure, involves, activity, violence"
       },
       {
-        "TSNE-1": 6.546406269073486,
-        "TSNE-2": -7.705206394195557,
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 9.555807113647461,
+        "TSNE-2": 1.7699635028839111,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
+      },
+      {
+        "TSNE-1": -16.61426544189453,
+        "TSNE-2": -4.068706035614014,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": -10.690752029418945,
+        "TSNE-2": 16.809019088745117,
         "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
+        "keywords": "unhealthy, member, may, conducive, toxic"
       },
       {
-        "TSNE-1": 2.555389404296875,
-        "TSNE-2": 9.017199516296387,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
       },
       {
-        "TSNE-1": 10.352574348449707,
-        "TSNE-2": -20.25727653503418,
+        "TSNE-1": 16.283714294433594,
+        "TSNE-2": 10.938236236572266,
         "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
+        "keywords": "document, mutual, harmful, rather, lead"
       },
       {
-        "TSNE-1": 5.750523090362549,
-        "TSNE-2": 10.364290237426758,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 8.304585456848145,
-        "TSNE-2": 6.377220153808594,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -7.5480146408081055,
-        "TSNE-2": 13.201082229614258,
-        "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
-      },
-      {
-        "TSNE-1": -11.722633361816406,
-        "TSNE-2": -17.81385040283203,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": -16.517099380493164,
-        "TSNE-2": -12.999398231506348,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": -36.288082122802734,
-        "TSNE-2": 7.699778079986572,
+        "TSNE-1": -20.630428314208984,
+        "TSNE-2": 5.726383209228516,
         "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
+        "keywords": "put, pressure, involves, activity, violence"
       },
       {
-        "TSNE-1": -13.770920753479004,
-        "TSNE-2": -8.384591102600098,
+        "TSNE-1": -7.254451274871826,
+        "TSNE-2": -10.361461639404297,
         "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
+        "keywords": "individual, response, people, join, good"
       },
       {
-        "TSNE-1": 6.782749176025391,
-        "TSNE-2": 4.41249942779541,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -6.152592658996582,
-        "TSNE-2": -7.51990270614624,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": 4.387053966522217,
-        "TSNE-2": 6.300328254699707,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 9.24188232421875,
-        "TSNE-2": 1.886792778968811,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 20.212066650390625,
-        "TSNE-2": 11.711264610290527,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -22.068357467651367,
-        "TSNE-2": 13.2621488571167,
-        "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
-      },
-      {
-        "TSNE-1": -11.13880443572998,
-        "TSNE-2": -21.40431022644043,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": 6.136689186096191,
-        "TSNE-2": 14.621356010437012,
-        "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
-      },
-      {
-        "TSNE-1": 16.03175163269043,
-        "TSNE-2": -9.778120040893555,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": 20.212066650390625,
-        "TSNE-2": 11.711264610290527,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": -6.449161052703857,
-        "TSNE-2": 4.071834564208984,
-        "cluster": 2,
-        "keywords": "put, place, member, form, solve"
-      },
-      {
-        "TSNE-1": 2.4159910678863525,
-        "TSNE-2": -21.659801483154297,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": 9.737645149230957,
-        "TSNE-2": 19.723148345947266,
-        "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
-      },
-      {
-        "TSNE-1": 10.352574348449707,
-        "TSNE-2": -20.25727653503418,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": 12.049356460571289,
-        "TSNE-2": -1.0167932510375977,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": -3.6987876892089844,
-        "TSNE-2": -22.47389793395996,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": -12.752649307250977,
-        "TSNE-2": 1.1767152547836304,
-        "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
-      },
-      {
-        "TSNE-1": -13.91508674621582,
-        "TSNE-2": 6.072436809539795,
-        "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
-      },
-      {
-        "TSNE-1": -14.339690208435059,
-        "TSNE-2": 11.641396522521973,
-        "cluster": 3,
-        "keywords": "document, answer, nan, lack, involve"
-      },
-      {
-        "TSNE-1": 3.2136247158050537,
-        "TSNE-2": -4.821885108947754,
+        "TSNE-1": -0.016740642488002777,
+        "TSNE-2": 8.762459754943848,
         "cluster": 1,
-        "keywords": "often, unlikely, within, violence, individual"
+        "keywords": "unhealthy, member, may, conducive, toxic"
       },
       {
-        "TSNE-1": 20.063735961914062,
-        "TSNE-2": 4.479226112365723,
-        "cluster": 5,
-        "keywords": "feel, illegal, behavior, join, good"
-      },
-      {
-        "TSNE-1": -9.90765380859375,
-        "TSNE-2": -10.773784637451172,
-        "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
-      },
-      {
-        "TSNE-1": -7.5480146408081055,
-        "TSNE-2": 13.201082229614258,
+        "TSNE-1": 17.599483489990234,
+        "TSNE-2": -12.45622730255127,
         "cluster": 0,
-        "keywords": "gang, may, pressure, healthy, friendship"
+        "keywords": "gang, healthy, friendship, engage, environment"
       },
       {
-        "TSNE-1": -9.662137031555176,
-        "TSNE-2": -4.720484733581543,
+        "TSNE-1": -12.000061988830566,
+        "TSNE-2": 7.308170318603516,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": -1.039671778678894,
+        "TSNE-2": 4.681884288787842,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": -2.8395302295684814,
+        "TSNE-2": 18.83648681640625,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
+      },
+      {
+        "TSNE-1": -17.545166015625,
+        "TSNE-2": 10.286120414733887,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 15.319035530090332,
+        "TSNE-2": -5.054394245147705,
+        "cluster": 0,
+        "keywords": "gang, healthy, friendship, engage, environment"
+      },
+      {
+        "TSNE-1": 22.438352584838867,
+        "TSNE-2": 1.341998815536499,
+        "cluster": 0,
+        "keywords": "gang, healthy, friendship, engage, environment"
+      },
+      {
+        "TSNE-1": -3.224776029586792,
+        "TSNE-2": 5.167293548583984,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": -3.9434943199157715,
+        "TSNE-2": 12.137016296386719,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
+      },
+      {
+        "TSNE-1": -5.595545768737793,
+        "TSNE-2": 3.4666552543640137,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": -5.122893333435059,
+        "TSNE-2": -7.3142499923706055,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": -6.2930755615234375,
+        "TSNE-2": -22.57037353515625,
         "cluster": 4,
-        "keywords": "environment, positive, conducive, activity, supportive"
+        "keywords": "individual, response, people, join, good"
+      },
+      {
+        "TSNE-1": 8.277390480041504,
+        "TSNE-2": 18.611125946044922,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
+      },
+      {
+        "TSNE-1": -1.128016471862793,
+        "TSNE-2": -1.3274445533752441,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": -17.79088020324707,
+        "TSNE-2": -9.82776165008545,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": -23.6243896484375,
+        "TSNE-2": -5.885296821594238,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": -6.2930755615234375,
+        "TSNE-2": -22.57037353515625,
+        "cluster": 4,
+        "keywords": "individual, response, people, join, good"
+      },
+      {
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": -11.042661666870117,
+        "TSNE-2": 0.22765591740608215,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 17.8577823638916,
+        "TSNE-2": 7.017757892608643,
+        "cluster": 5,
+        "keywords": "document, mutual, harmful, rather, lead"
+      },
+      {
+        "TSNE-1": -12.122836112976074,
+        "TSNE-2": -8.047694206237793,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 17.599483489990234,
+        "TSNE-2": -12.45622730255127,
+        "cluster": 0,
+        "keywords": "gang, healthy, friendship, engage, environment"
+      },
+      {
+        "TSNE-1": -3.93084454536438,
+        "TSNE-2": -12.496389389038086,
+        "cluster": 4,
+        "keywords": "individual, response, people, join, good"
+      },
+      {
+        "TSNE-1": 11.755317687988281,
+        "TSNE-2": -8.04675579071045,
+        "cluster": 0,
+        "keywords": "gang, healthy, friendship, engage, environment"
+      },
+      {
+        "TSNE-1": -17.164520263671875,
+        "TSNE-2": 3.227480411529541,
+        "cluster": 3,
+        "keywords": "put, pressure, involves, activity, violence"
+      },
+      {
+        "TSNE-1": 1.0744229555130005,
+        "TSNE-2": 1.1150686740875244,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": 9.641762733459473,
+        "TSNE-2": -18.329017639160156,
+        "cluster": 4,
+        "keywords": "individual, response, people, join, good"
+      },
+      {
+        "TSNE-1": 5.826220989227295,
+        "TSNE-2": -0.5090245008468628,
+        "cluster": 2,
+        "keywords": "form, unlikely, place, violent, severe"
+      },
+      {
+        "TSNE-1": -0.8019867539405823,
+        "TSNE-2": -17.645456314086914,
+        "cluster": 4,
+        "keywords": "individual, response, people, join, good"
+      },
+      {
+        "TSNE-1": 13.453972816467285,
+        "TSNE-2": 0.25400257110595703,
+        "cluster": 0,
+        "keywords": "gang, healthy, friendship, engage, environment"
+      },
+      {
+        "TSNE-1": -2.8395302295684814,
+        "TSNE-2": 18.83648681640625,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
+      },
+      {
+        "TSNE-1": -6.856765270233154,
+        "TSNE-2": 11.99341869354248,
+        "cluster": 1,
+        "keywords": "unhealthy, member, may, conducive, toxic"
       }
     ]
   },

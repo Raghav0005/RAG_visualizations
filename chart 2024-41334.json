@@ -7,567 +7,555 @@
     }
   },
   "data": {
-    "name": "data-08b71d77ca23a3e05d806fd584402566"
+    "name": "data-7e656111c6f650afcb25747b1d182097"
   },
   "datasets": {
-    "data-08b71d77ca23a3e05d806fd584402566": [
+    "data-7e656111c6f650afcb25747b1d182097": [
       {
-        "TSNE-1": -5.397549152374268,
-        "TSNE-2": -3.7353365421295166,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -1.8697255849838257,
-        "TSNE-2": 15.202255249023438,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": 11.7491455078125,
-        "TSNE-2": -1.502469778060913,
+        "TSNE-1": -2.7778451442718506,
+        "TSNE-2": 7.548155784606934,
         "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
+        "keywords": "economic, resource, united, new, state"
       },
       {
-        "TSNE-1": 1.6966617107391357,
-        "TSNE-2": 7.8892364501953125,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": 11.7491455078125,
-        "TSNE-2": -1.502469778060913,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": 12.981834411621094,
-        "TSNE-2": 11.04336166381836,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": 3.1990885734558105,
-        "TSNE-2": 15.289868354797363,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -0.18972836434841156,
-        "TSNE-2": 2.936882257461548,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": 3.872838020324707,
-        "TSNE-2": 12.036171913146973,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -8.50092601776123,
-        "TSNE-2": -1.527450680732727,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": 1.27059006690979,
-        "TSNE-2": -14.700434684753418,
+        "TSNE-1": 5.609230995178223,
+        "TSNE-2": 1.0693174600601196,
         "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
+        "keywords": "natural, vast, amount, array, fuel"
       },
       {
-        "TSNE-1": 15.510108947753906,
-        "TSNE-2": 5.466127395629883,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": 0.013212338089942932,
-        "TSNE-2": -2.4632625579833984,
+        "TSNE-1": 7.8212995529174805,
+        "TSNE-2": 7.178150653839111,
         "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
+        "keywords": "economic, resource, united, new, state"
       },
       {
-        "TSNE-1": -11.241808891296387,
-        "TSNE-2": 2.7687337398529053,
+        "TSNE-1": 6.713528633117676,
+        "TSNE-2": -4.599640369415283,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": 7.8212995529174805,
+        "TSNE-2": 7.178150653839111,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": 4.255395412445068,
+        "TSNE-2": 11.04089069366455,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": 13.01966381072998,
+        "TSNE-2": 3.6814117431640625,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": 0.42569500207901,
+        "TSNE-2": -3.464205026626587,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 9.210864067077637,
+        "TSNE-2": 3.493133544921875,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": -6.85386848449707,
+        "TSNE-2": -0.5427276492118835,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": 0.4794178009033203,
+        "TSNE-2": -16.918720245361328,
         "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
+        "keywords": "westward, land, transfer, public, service"
       },
       {
-        "TSNE-1": -10.852540016174316,
-        "TSNE-2": -1.441455364227295,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": 5.76275110244751,
-        "TSNE-2": -7.190727710723877,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -14.751102447509766,
-        "TSNE-2": -10.72232723236084,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -0.18972836434841156,
-        "TSNE-2": 2.936882257461548,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": 3.9830121994018555,
-        "TSNE-2": -2.574629306793213,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -5.127048969268799,
-        "TSNE-2": 2.949357271194458,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": 3.453795909881592,
-        "TSNE-2": 7.090607643127441,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": 3.6461687088012695,
-        "TSNE-2": -9.334489822387695,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": 8.461956024169922,
-        "TSNE-2": 4.960483074188232,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": 12.317716598510742,
-        "TSNE-2": -6.297205924987793,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -1.927891731262207,
-        "TSNE-2": 0.35525476932525635,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -1.0709388256072998,
-        "TSNE-2": 5.684188365936279,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -9.70297622680664,
-        "TSNE-2": -4.313003063201904,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -5.834650993347168,
-        "TSNE-2": -7.471177101135254,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": 10.591912269592285,
-        "TSNE-2": 6.121954441070557,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": 15.628500938415527,
-        "TSNE-2": 11.403165817260742,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": 1.9249563217163086,
-        "TSNE-2": 12.37199878692627,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -6.2701616287231445,
-        "TSNE-2": -12.809229850769043,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": -0.9716275930404663,
-        "TSNE-2": -1.2846788167953491,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": 7.176288604736328,
-        "TSNE-2": -8.885880470275879,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -17.799636840820312,
-        "TSNE-2": 5.6011881828308105,
+        "TSNE-1": -1.317793607711792,
+        "TSNE-2": -13.078662872314453,
         "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
+        "keywords": "westward, land, transfer, public, service"
       },
       {
-        "TSNE-1": -0.5396586656570435,
-        "TSNE-2": -10.630470275878906,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": -0.8865047097206116,
-        "TSNE-2": -5.209206581115723,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": -0.03523734211921692,
-        "TSNE-2": 11.417145729064941,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": 1.7612731456756592,
-        "TSNE-2": 4.56268310546875,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -6.038331985473633,
-        "TSNE-2": 0.2498900592327118,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": 9.256257057189941,
-        "TSNE-2": -5.574420928955078,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -3.9523203372955322,
-        "TSNE-2": -0.9451946020126343,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -1.3887968063354492,
-        "TSNE-2": -7.636847972869873,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": -8.701592445373535,
-        "TSNE-2": 2.330036163330078,
-        "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
-      },
-      {
-        "TSNE-1": 0.919274628162384,
-        "TSNE-2": -9.851131439208984,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": -4.976490020751953,
-        "TSNE-2": 12.737887382507324,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -7.654483318328857,
-        "TSNE-2": -9.993270874023438,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -13.843827247619629,
-        "TSNE-2": 2.199467897415161,
-        "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
-      },
-      {
-        "TSNE-1": 1.27059006690979,
-        "TSNE-2": -14.700434684753418,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": -3.806912899017334,
-        "TSNE-2": -7.116410732269287,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": 6.5177507400512695,
-        "TSNE-2": 0.017934095114469528,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": 9.448674201965332,
-        "TSNE-2": 5.444241523742676,
+        "TSNE-1": 0.3348560035228729,
+        "TSNE-2": 3.65107798576355,
         "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
       },
       {
-        "TSNE-1": -2.4977481365203857,
-        "TSNE-2": -2.7889182567596436,
+        "TSNE-1": 9.135882377624512,
+        "TSNE-2": -0.9634582996368408,
         "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
+        "keywords": "natural, vast, amount, array, fuel"
       },
       {
-        "TSNE-1": 15.321273803710938,
-        "TSNE-2": 4.3273773193359375,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": 4.622149467468262,
-        "TSNE-2": -5.316362380981445,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -14.756290435791016,
-        "TSNE-2": -2.608933925628662,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -6.362105846405029,
-        "TSNE-2": 7.924670696258545,
-        "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
-      },
-      {
-        "TSNE-1": -11.457945823669434,
-        "TSNE-2": -4.356092929840088,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -1.1094468832015991,
-        "TSNE-2": 9.46216869354248,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -14.969635963439941,
-        "TSNE-2": -1.3964334726333618,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": 6.747613430023193,
-        "TSNE-2": 8.117344856262207,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": 7.1328558921813965,
-        "TSNE-2": 1.7155241966247559,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": 2.2636494636535645,
-        "TSNE-2": 0.7569266557693481,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -8.46998119354248,
-        "TSNE-2": -11.486116409301758,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": 1.7886675596237183,
-        "TSNE-2": -4.699559211730957,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -3.9240670204162598,
-        "TSNE-2": 5.107731819152832,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -0.9106587171554565,
-        "TSNE-2": -6.5911946296691895,
+        "TSNE-1": 9.008503913879395,
+        "TSNE-2": -5.403156280517578,
         "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
+        "keywords": "natural, vast, amount, array, fuel"
       },
       {
-        "TSNE-1": -3.13925838470459,
-        "TSNE-2": 7.651573657989502,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -3.634841203689575,
-        "TSNE-2": 2.823251724243164,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": 3.6987953186035156,
-        "TSNE-2": 8.743348121643066,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -3.0194339752197266,
-        "TSNE-2": 1.5878311395645142,
-        "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
-      },
-      {
-        "TSNE-1": -14.751102447509766,
-        "TSNE-2": -10.72232723236084,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": 8.14705753326416,
-        "TSNE-2": 12.790178298950195,
+        "TSNE-1": 3.6921133995056152,
+        "TSNE-2": -1.3521678447723389,
         "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
       },
       {
-        "TSNE-1": 3.8887593746185303,
-        "TSNE-2": 1.636555790901184,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
+        "TSNE-1": -13.352067947387695,
+        "TSNE-2": 6.360433101654053,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
       },
       {
-        "TSNE-1": 1.432474136352539,
-        "TSNE-2": -6.260642051696777,
+        "TSNE-1": 0.42569500207901,
+        "TSNE-2": -3.464205026626587,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 3.1698758602142334,
+        "TSNE-2": 0.4363226890563965,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -8.586615562438965,
+        "TSNE-2": 1.4430991411209106,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": 7.400381565093994,
+        "TSNE-2": -3.0624940395355225,
         "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
+        "keywords": "natural, vast, amount, array, fuel"
       },
       {
-        "TSNE-1": 9.246111869812012,
-        "TSNE-2": 1.3041775226593018,
+        "TSNE-1": -0.10274553298950195,
+        "TSNE-2": 5.821972846984863,
         "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
+        "keywords": "economic, resource, united, new, state"
       },
       {
-        "TSNE-1": -2.0636699199676514,
-        "TSNE-2": -4.289931297302246,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": 8.14705753326416,
-        "TSNE-2": 12.790178298950195,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": 1.855441689491272,
-        "TSNE-2": -0.06831369549036026,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -13.151541709899902,
-        "TSNE-2": 6.717226028442383,
-        "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
-      },
-      {
-        "TSNE-1": -9.011322021484375,
-        "TSNE-2": 5.382942199707031,
-        "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
-      },
-      {
-        "TSNE-1": 16.980594635009766,
-        "TSNE-2": 4.489417552947998,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": -11.964893341064453,
-        "TSNE-2": 13.58941650390625,
-        "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
-      },
-      {
-        "TSNE-1": -4.757537364959717,
-        "TSNE-2": 10.983341217041016,
+        "TSNE-1": -8.35026741027832,
+        "TSNE-2": -11.529431343078613,
         "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
+        "keywords": "answer, control, california, mexican, ocean"
       },
       {
-        "TSNE-1": -6.038331985473633,
-        "TSNE-2": 0.2498900592327118,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -12.209548950195312,
-        "TSNE-2": 0.47962290048599243,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": 13.985280990600586,
-        "TSNE-2": 11.127181053161621,
-        "cluster": 4,
-        "keywords": "answer, control, transfer, service, ocean"
-      },
-      {
-        "TSNE-1": -11.032757759094238,
-        "TSNE-2": 13.438360214233398,
-        "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
-      },
-      {
-        "TSNE-1": 6.7875237464904785,
-        "TSNE-2": -4.779444694519043,
-        "cluster": 1,
-        "keywords": "gold, resource, state, agricultural, mine"
-      },
-      {
-        "TSNE-1": -10.592181205749512,
-        "TSNE-2": -8.0628080368042,
-        "cluster": 2,
-        "keywords": "west, mexico, natural, new, vast"
-      },
-      {
-        "TSNE-1": -6.801578521728516,
-        "TSNE-2": 5.034523010253906,
-        "cluster": 0,
-        "keywords": "nan, united, economic, territory, growth"
-      },
-      {
-        "TSNE-1": -6.2701616287231445,
-        "TSNE-2": -12.809229850769043,
-        "cluster": 5,
-        "keywords": "expansion, westward, like, california, oil"
-      },
-      {
-        "TSNE-1": 4.877875804901123,
-        "TSNE-2": 7.340100288391113,
+        "TSNE-1": -6.299499988555908,
+        "TSNE-2": -3.0927746295928955,
         "cluster": 3,
-        "keywords": "land, mexican, also, american, access"
+        "keywords": "answer, control, california, mexican, ocean"
+      },
+      {
+        "TSNE-1": -5.17803955078125,
+        "TSNE-2": 4.006213665008545,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -2.8667805194854736,
+        "TSNE-2": -4.014978408813477,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 8.136520385742188,
+        "TSNE-2": -7.295203685760498,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": 4.305636882781982,
+        "TSNE-2": -9.911797523498535,
+        "cluster": 0,
+        "keywords": "westward, land, transfer, public, service"
+      },
+      {
+        "TSNE-1": -6.604339122772217,
+        "TSNE-2": -11.764857292175293,
+        "cluster": 3,
+        "keywords": "answer, control, california, mexican, ocean"
+      },
+      {
+        "TSNE-1": 0.3574576675891876,
+        "TSNE-2": -9.373978614807129,
+        "cluster": 0,
+        "keywords": "westward, land, transfer, public, service"
+      },
+      {
+        "TSNE-1": -6.505245685577393,
+        "TSNE-2": -6.496770858764648,
+        "cluster": 3,
+        "keywords": "answer, control, california, mexican, ocean"
+      },
+      {
+        "TSNE-1": 0.2559974789619446,
+        "TSNE-2": 12.108271598815918,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": -1.8705934286117554,
+        "TSNE-2": 4.795375347137451,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": 3.493924617767334,
+        "TSNE-2": -3.1295723915100098,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 2.071589708328247,
+        "TSNE-2": -6.006239891052246,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -2.429798126220703,
+        "TSNE-2": -2.005910873413086,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -2.441239595413208,
+        "TSNE-2": 0.07296817004680634,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -4.697097301483154,
+        "TSNE-2": -7.080384731292725,
+        "cluster": 3,
+        "keywords": "answer, control, california, mexican, ocean"
+      },
+      {
+        "TSNE-1": 4.415080547332764,
+        "TSNE-2": 7.652342796325684,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": 3.164121150970459,
+        "TSNE-2": 2.783545970916748,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 6.100942611694336,
+        "TSNE-2": 2.8064327239990234,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": 1.85469651222229,
+        "TSNE-2": 1.4737153053283691,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -0.8420817852020264,
+        "TSNE-2": 4.7477264404296875,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": -9.326428413391113,
+        "TSNE-2": 4.131986618041992,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -1.317428469657898,
+        "TSNE-2": -1.7956937551498413,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 7.998656749725342,
+        "TSNE-2": 11.243264198303223,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": -2.743516683578491,
+        "TSNE-2": 12.866459846496582,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": 11.51247787475586,
+        "TSNE-2": -5.195406436920166,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": 0.4794178009033203,
+        "TSNE-2": -16.918720245361328,
+        "cluster": 0,
+        "keywords": "westward, land, transfer, public, service"
+      },
+      {
+        "TSNE-1": -3.9534337520599365,
+        "TSNE-2": -1.859560489654541,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -7.592743396759033,
+        "TSNE-2": 6.657362461090088,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -7.530223369598389,
+        "TSNE-2": -11.238333702087402,
+        "cluster": 3,
+        "keywords": "answer, control, california, mexican, ocean"
+      },
+      {
+        "TSNE-1": -0.8773319125175476,
+        "TSNE-2": 3.3800971508026123,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -1.1634005308151245,
+        "TSNE-2": -12.312745094299316,
+        "cluster": 0,
+        "keywords": "westward, land, transfer, public, service"
+      },
+      {
+        "TSNE-1": 1.1947541236877441,
+        "TSNE-2": -0.6352193355560303,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 12.33474063873291,
+        "TSNE-2": -2.0987088680267334,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": -2.839442729949951,
+        "TSNE-2": 3.3876452445983887,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 6.905681610107422,
+        "TSNE-2": -7.119194030761719,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": -3.284562826156616,
+        "TSNE-2": -6.44499397277832,
+        "cluster": 3,
+        "keywords": "answer, control, california, mexican, ocean"
+      },
+      {
+        "TSNE-1": 11.565629959106445,
+        "TSNE-2": -1.4727325439453125,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": 11.517524719238281,
+        "TSNE-2": 2.2638227939605713,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": -7.7226176261901855,
+        "TSNE-2": 7.7770514488220215,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -11.595739364624023,
+        "TSNE-2": 1.158023476600647,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -2.255495548248291,
+        "TSNE-2": 11.454107284545898,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": -0.5672005414962769,
+        "TSNE-2": -0.37662792205810547,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -0.5066184997558594,
+        "TSNE-2": 8.053498268127441,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": -2.7927422523498535,
+        "TSNE-2": -0.9473447203636169,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 0.7566574811935425,
+        "TSNE-2": 1.9706257581710815,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -4.574749946594238,
+        "TSNE-2": 5.873697280883789,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": 8.304533004760742,
+        "TSNE-2": -4.129847526550293,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": -4.117967128753662,
+        "TSNE-2": 5.00986385345459,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -13.352067947387695,
+        "TSNE-2": 6.360433101654053,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -10.3999605178833,
+        "TSNE-2": -5.283388137817383,
+        "cluster": 3,
+        "keywords": "answer, control, california, mexican, ocean"
+      },
+      {
+        "TSNE-1": 4.5782790184021,
+        "TSNE-2": 4.897719860076904,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": -4.284449577331543,
+        "TSNE-2": 0.23722979426383972,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -8.564613342285156,
+        "TSNE-2": 9.418996810913086,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -4.771965503692627,
+        "TSNE-2": 2.118258237838745,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -10.3999605178833,
+        "TSNE-2": -5.283388137817383,
+        "cluster": 3,
+        "keywords": "answer, control, california, mexican, ocean"
+      },
+      {
+        "TSNE-1": -11.96294116973877,
+        "TSNE-2": 0.28987917304039,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": -5.000007152557373,
+        "TSNE-2": 14.183395385742188,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": 2.052149534225464,
+        "TSNE-2": 6.794591903686523,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": 0.0774691253900528,
+        "TSNE-2": -12.739291191101074,
+        "cluster": 0,
+        "keywords": "westward, land, transfer, public, service"
+      },
+      {
+        "TSNE-1": -1.203993320465088,
+        "TSNE-2": -5.352545261383057,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 3.164121150970459,
+        "TSNE-2": 2.783545970916748,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": 10.516380310058594,
+        "TSNE-2": -3.53446626663208,
+        "cluster": 5,
+        "keywords": "natural, vast, amount, array, fuel"
+      },
+      {
+        "TSNE-1": 0.6264787912368774,
+        "TSNE-2": -8.169843673706055,
+        "cluster": 0,
+        "keywords": "westward, land, transfer, public, service"
+      },
+      {
+        "TSNE-1": 2.1176350116729736,
+        "TSNE-2": -1.681537389755249,
+        "cluster": 4,
+        "keywords": "gold, growth, expansion, acquisition, agricultural"
+      },
+      {
+        "TSNE-1": -12.695598602294922,
+        "TSNE-2": -1.0880831480026245,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
+      },
+      {
+        "TSNE-1": 1.632146954536438,
+        "TSNE-2": 5.002437591552734,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": 0.2559974789619446,
+        "TSNE-2": 12.108271598815918,
+        "cluster": 1,
+        "keywords": "economic, resource, united, new, state"
+      },
+      {
+        "TSNE-1": -7.523782730102539,
+        "TSNE-2": 3.4582905769348145,
+        "cluster": 2,
+        "keywords": "mexico, access, territory, west, mine"
       }
     ]
   },

@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-0a61fa12fe41b517abfbb7258e2d7695"
+    "name": "data-9d53e96b0bb83eca0733b3b4b78e0b11"
   },
   "datasets": {
-    "data-0a61fa12fe41b517abfbb7258e2d7695": [
+    "data-9d53e96b0bb83eca0733b3b4b78e0b11": [
       {
-        "TSNE-1": 2.8344810009002686,
-        "TSNE-2": -8.947871208190918,
+        "TSNE-1": 1.449916958808899,
+        "TSNE-2": 9.044856071472168,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": 9.375758171081543,
+        "TSNE-2": -1.0640898942947388,
         "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": 5.080732345581055,
-        "TSNE-2": 10.129053115844727,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
+        "TSNE-1": 2.488373279571533,
+        "TSNE-2": -10.73594856262207,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
       },
       {
-        "TSNE-1": -5.7158098220825195,
-        "TSNE-2": 9.275856018066406,
+        "TSNE-1": -1.591408371925354,
+        "TSNE-2": -7.762502670288086,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
+      },
+      {
+        "TSNE-1": 2.488373279571533,
+        "TSNE-2": -10.73594856262207,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
+      },
+      {
+        "TSNE-1": 7.464852333068848,
+        "TSNE-2": 9.431020736694336,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
+      },
+      {
+        "TSNE-1": -10.186653137207031,
+        "TSNE-2": -0.5762315988540649,
         "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
+        "keywords": "impact, little, modernist, challenge, social"
       },
       {
-        "TSNE-1": -6.031081676483154,
-        "TSNE-2": -2.6514852046966553,
+        "TSNE-1": 6.235247611999512,
+        "TSNE-2": -2.619141101837158,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": -11.01866340637207,
+        "TSNE-2": -4.234846591949463,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": -7.61842679977417,
+        "TSNE-2": -7.936041831970215,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": 0.21442700922489166,
+        "TSNE-2": 5.177883148193359,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -4.436778545379639,
+        "TSNE-2": 8.287442207336426,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -0.32945960760116577,
+        "TSNE-2": -0.42343729734420776,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 1.032505989074707,
+        "TSNE-2": -6.257101058959961,
         "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
+        "keywords": "universal, define, difficult, rejection, notion"
       },
       {
-        "TSNE-1": -5.7158098220825195,
-        "TSNE-2": 9.275856018066406,
+        "TSNE-1": 7.1044182777404785,
+        "TSNE-2": 7.0225138664245605,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
+      },
+      {
+        "TSNE-1": 3.4964234828948975,
+        "TSNE-2": 2.7292206287384033,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 12.688972473144531,
+        "TSNE-2": 5.560361862182617,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
+      },
+      {
+        "TSNE-1": 6.235247611999512,
+        "TSNE-2": -2.619141101837158,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 0.07460389286279678,
+        "TSNE-2": -3.647631883621216,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 4.181576728820801,
+        "TSNE-2": 6.325486660003662,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
+      },
+      {
+        "TSNE-1": -2.572265863418579,
+        "TSNE-2": -10.470017433166504,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
+      },
+      {
+        "TSNE-1": -0.2507690191268921,
+        "TSNE-2": 8.158867835998535,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -3.7924633026123047,
+        "TSNE-2": 3.0078811645507812,
         "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
+        "keywords": "impact, little, modernist, challenge, social"
       },
       {
-        "TSNE-1": -11.170757293701172,
-        "TSNE-2": -4.090770244598389,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": -3.928184747695923,
-        "TSNE-2": -7.281364917755127,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -2.5927574634552,
-        "TSNE-2": -1.454293966293335,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 10.929764747619629,
-        "TSNE-2": 3.4654295444488525,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
-      },
-      {
-        "TSNE-1": -12.235555648803711,
-        "TSNE-2": 4.212522029876709,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 5.630902290344238,
-        "TSNE-2": -3.175530433654785,
+        "TSNE-1": 6.857123374938965,
+        "TSNE-2": 0.2728498578071594,
         "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": -0.26342716813087463,
-        "TSNE-2": 11.627406120300293,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": 0.907788872718811,
-        "TSNE-2": -4.746516227722168,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -3.796205997467041,
-        "TSNE-2": -3.3967483043670654,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -9.45958137512207,
-        "TSNE-2": 0.19858069717884064,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 2.4175736904144287,
-        "TSNE-2": -0.20776158571243286,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 4.313493728637695,
-        "TSNE-2": -13.032100677490234,
+        "TSNE-1": -2.631767749786377,
+        "TSNE-2": -0.5783248543739319,
         "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": -2.5927574634552,
-        "TSNE-2": -1.454293966293335,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 1.4118620157241821,
-        "TSNE-2": -0.14995670318603516,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 8.175797462463379,
-        "TSNE-2": -3.936833620071411,
+        "TSNE-1": -0.26370561122894287,
+        "TSNE-2": -1.810560941696167,
         "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": -7.327116966247559,
-        "TSNE-2": -1.274031639099121,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 9.680046081542969,
-        "TSNE-2": -0.3913545310497284,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
-      },
-      {
-        "TSNE-1": -5.120315074920654,
-        "TSNE-2": 0.5258744955062866,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 10.564404487609863,
-        "TSNE-2": -3.2152135372161865,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": 3.254915714263916,
-        "TSNE-2": 3.1166579723358154,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": -0.6986460089683533,
-        "TSNE-2": -5.2269721031188965,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -4.688791275024414,
-        "TSNE-2": 0.8563263416290283,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 9.095001220703125,
-        "TSNE-2": -7.168871879577637,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": -12.588382720947266,
-        "TSNE-2": -0.311239629983902,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": -8.333370208740234,
-        "TSNE-2": 1.2103097438812256,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 10.678515434265137,
-        "TSNE-2": 3.5638880729675293,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
-      },
-      {
-        "TSNE-1": 7.337727069854736,
-        "TSNE-2": 7.2906904220581055,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
-      },
-      {
-        "TSNE-1": -0.24914580583572388,
-        "TSNE-2": -4.209131240844727,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 7.710148334503174,
-        "TSNE-2": -1.1464853286743164,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
-      },
-      {
-        "TSNE-1": 5.521083831787109,
-        "TSNE-2": 2.256561756134033,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
-      },
-      {
-        "TSNE-1": 3.0964879989624023,
-        "TSNE-2": -5.769281387329102,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": 2.7433159351348877,
-        "TSNE-2": -4.002833366394043,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -6.095335483551025,
-        "TSNE-2": 4.729025840759277,
+        "TSNE-1": -4.029882907867432,
+        "TSNE-2": 2.4994609355926514,
         "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
+        "keywords": "impact, little, modernist, challenge, social"
       },
       {
-        "TSNE-1": 2.5165274143218994,
-        "TSNE-2": -1.835925579071045,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 4.223010540008545,
-        "TSNE-2": -7.562337398529053,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": 4.29802131652832,
-        "TSNE-2": 9.656211853027344,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": 3.127469539642334,
-        "TSNE-2": 1.685121774673462,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 1.017812967300415,
-        "TSNE-2": -3.683640241622925,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -2.574460744857788,
-        "TSNE-2": 2.1691396236419678,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 7.446884632110596,
-        "TSNE-2": -4.994571208953857,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": -8.887882232666016,
-        "TSNE-2": 6.236997127532959,
+        "TSNE-1": -3.3589651584625244,
+        "TSNE-2": 1.3012051582336426,
         "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
+        "keywords": "impact, little, modernist, challenge, social"
       },
       {
-        "TSNE-1": 3.0466086864471436,
-        "TSNE-2": 5.850872039794922,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": -10.610334396362305,
-        "TSNE-2": -0.8856087923049927,
+        "TSNE-1": -3.501354455947876,
+        "TSNE-2": -10.887306213378906,
         "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
+        "keywords": "universal, define, difficult, rejection, notion"
       },
       {
-        "TSNE-1": 5.630902290344238,
-        "TSNE-2": -3.175530433654785,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": 0.7625885605812073,
-        "TSNE-2": -7.675019264221191,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": 0.8072819709777832,
-        "TSNE-2": 3.565725803375244,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": -12.582468032836914,
-        "TSNE-2": 4.30654239654541,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 0.1981191188097,
-        "TSNE-2": -3.062650680541992,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 1.752169132232666,
-        "TSNE-2": 11.553210258483887,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": 7.217742919921875,
-        "TSNE-2": -0.06279238313436508,
+        "TSNE-1": -0.16862747073173523,
+        "TSNE-2": 13.041815757751465,
         "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
+        "keywords": "educational, education, postmodern, government, postmodernism"
       },
       {
-        "TSNE-1": -3.939422607421875,
-        "TSNE-2": 2.0394399166107178,
+        "TSNE-1": -10.8154935836792,
+        "TSNE-2": -4.001694679260254,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": -7.245398998260498,
+        "TSNE-2": 4.934040069580078,
         "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
+        "keywords": "impact, little, modernist, challenge, social"
       },
       {
-        "TSNE-1": 0.45511552691459656,
-        "TSNE-2": 0.09023232758045197,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
+        "TSNE-1": -1.1990584135055542,
+        "TSNE-2": -1.2648241519927979,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": -10.16089916229248,
-        "TSNE-2": -1.3117163181304932,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": -1.1652777194976807,
-        "TSNE-2": 1.3187165260314941,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -2.8870608806610107,
-        "TSNE-2": 4.181350231170654,
+        "TSNE-1": -6.331930160522461,
+        "TSNE-2": 1.9443485736846924,
         "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
+        "keywords": "impact, little, modernist, challenge, social"
       },
       {
-        "TSNE-1": -5.176155090332031,
-        "TSNE-2": 6.18123722076416,
+        "TSNE-1": -2.0685319900512695,
+        "TSNE-2": 7.042140007019043,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -2.2275192737579346,
+        "TSNE-2": 4.570688247680664,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -0.7923500537872314,
+        "TSNE-2": 3.4643702507019043,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": 7.083785057067871,
+        "TSNE-2": -6.6091628074646,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
+      },
+      {
+        "TSNE-1": 1.43661367893219,
+        "TSNE-2": -2.442591905593872,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 1.3779678344726562,
+        "TSNE-2": 7.26841926574707,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -7.5578508377075195,
+        "TSNE-2": -1.7745003700256348,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": 4.522979259490967,
+        "TSNE-2": 1.348707675933838,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 0.6314824223518372,
+        "TSNE-2": -0.4909156262874603,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": -4.160538673400879,
+        "TSNE-2": -2.2559542655944824,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": 3.7741098403930664,
+        "TSNE-2": 7.743496417999268,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
+      },
+      {
+        "TSNE-1": -11.798436164855957,
+        "TSNE-2": 2.574373722076416,
         "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
+        "keywords": "impact, little, modernist, challenge, social"
       },
       {
-        "TSNE-1": 1.244512915611267,
-        "TSNE-2": 4.288205623626709,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
+        "TSNE-1": 5.296835899353027,
+        "TSNE-2": -4.660732269287109,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": 1.154970407485962,
-        "TSNE-2": 5.553127765655518,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
+        "TSNE-1": 8.640240669250488,
+        "TSNE-2": 6.473322868347168,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
       },
       {
-        "TSNE-1": 7.337727069854736,
-        "TSNE-2": 7.2906904220581055,
+        "TSNE-1": 0.21442700922489166,
+        "TSNE-2": 5.177883148193359,
         "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
+        "keywords": "educational, education, postmodern, government, postmodernism"
       },
       {
-        "TSNE-1": 4.157388687133789,
-        "TSNE-2": -0.0389302521944046,
+        "TSNE-1": 4.155855178833008,
+        "TSNE-2": 4.560279846191406,
         "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
+        "keywords": "mention, context, directly, reason, resource"
       },
       {
-        "TSNE-1": -0.3629799485206604,
-        "TSNE-2": -1.452793836593628,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 3.685887575149536,
-        "TSNE-2": -4.663786888122559,
+        "TSNE-1": -0.43146541714668274,
+        "TSNE-2": 1.2335951328277588,
         "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": 3.659621238708496,
-        "TSNE-2": -2.7350316047668457,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
+        "TSNE-1": -7.795335292816162,
+        "TSNE-2": -8.25246810913086,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
       },
       {
-        "TSNE-1": 1.2454928159713745,
-        "TSNE-2": 1.4076626300811768,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -6.408449172973633,
-        "TSNE-2": -2.6417341232299805,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 2.0064074993133545,
-        "TSNE-2": 1.7740979194641113,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 4.313493728637695,
-        "TSNE-2": -13.032100677490234,
+        "TSNE-1": 1.2217637300491333,
+        "TSNE-2": -0.9402596950531006,
         "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": -1.3764681816101074,
-        "TSNE-2": 7.354898452758789,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
+        "TSNE-1": -5.1163129806518555,
+        "TSNE-2": 9.793680191040039,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
       },
       {
-        "TSNE-1": 4.283656120300293,
-        "TSNE-2": -1.540151596069336,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 5.327295780181885,
-        "TSNE-2": -5.418641567230225,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": 2.7072055339813232,
-        "TSNE-2": 8.437592506408691,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": 5.3583526611328125,
-        "TSNE-2": -9.31387710571289,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": -1.3764681816101074,
-        "TSNE-2": 7.354898452758789,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": -0.021759264171123505,
-        "TSNE-2": 4.162790775299072,
-        "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
-      },
-      {
-        "TSNE-1": -9.700611114501953,
-        "TSNE-2": -2.5089030265808105,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": -2.2911109924316406,
-        "TSNE-2": -6.002931118011475,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": -8.977489471435547,
-        "TSNE-2": 6.468960285186768,
+        "TSNE-1": -6.241817951202393,
+        "TSNE-2": 0.9179492592811584,
         "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
+        "keywords": "impact, little, modernist, challenge, social"
       },
       {
-        "TSNE-1": -5.089981555938721,
-        "TSNE-2": 6.666878700256348,
-        "cluster": 4,
-        "keywords": "notion, clear, progress, lead, lack"
-      },
-      {
-        "TSNE-1": 0.9145499467849731,
-        "TSNE-2": -1.8805919885635376,
-        "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
-      },
-      {
-        "TSNE-1": 4.223010540008545,
-        "TSNE-2": -7.562337398529053,
-        "cluster": 3,
-        "keywords": "resistance, conflict, traditional, structure, approach"
-      },
-      {
-        "TSNE-1": -11.770442008972168,
-        "TSNE-2": 2.6503469944000244,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": -6.849115371704102,
-        "TSNE-2": -6.619460105895996,
-        "cluster": 2,
-        "keywords": "may, text, impact, mention, little"
-      },
-      {
-        "TSNE-1": 26.146846771240234,
-        "TSNE-2": 6.572418689727783,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
-      },
-      {
-        "TSNE-1": 5.641751289367676,
-        "TSNE-2": -0.15694695711135864,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
-      },
-      {
-        "TSNE-1": 0.14306668937206268,
-        "TSNE-2": 11.667478561401367,
+        "TSNE-1": -4.452591419219971,
+        "TSNE-2": -3.3239316940307617,
         "cluster": 1,
-        "keywords": "government, creativity, moral, scheme, focus"
+        "keywords": "postmodernist, text, may, idea, provide"
       },
       {
-        "TSNE-1": -1.731207013130188,
-        "TSNE-2": -3.513838529586792,
+        "TSNE-1": -0.23215247690677643,
+        "TSNE-2": -4.331275939941406,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 8.087483406066895,
+        "TSNE-2": 6.014242172241211,
         "cluster": 5,
-        "keywords": "often, emphasis, nature, postmodernist, within"
+        "keywords": "mention, context, directly, reason, resource"
       },
       {
-        "TSNE-1": 7.337727069854736,
-        "TSNE-2": 7.2906904220581055,
-        "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
+        "TSNE-1": 4.324241638183594,
+        "TSNE-2": -1.8953289985656738,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
       },
       {
-        "TSNE-1": 6.009426116943359,
-        "TSNE-2": 4.58995246887207,
+        "TSNE-1": 2.883265972137451,
+        "TSNE-2": -7.37117338180542,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
+      },
+      {
+        "TSNE-1": 4.685412406921387,
+        "TSNE-2": -8.82911491394043,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
+      },
+      {
+        "TSNE-1": 2.5536646842956543,
+        "TSNE-2": -3.8513073921203613,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 3.3713889122009277,
+        "TSNE-2": -4.782784938812256,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": -7.245398998260498,
+        "TSNE-2": 4.934040069580078,
+        "cluster": 4,
+        "keywords": "impact, little, modernist, challenge, social"
+      },
+      {
+        "TSNE-1": 0.3389400243759155,
+        "TSNE-2": 2.716383218765259,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 1.6587185859680176,
+        "TSNE-2": 1.1709370613098145,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": -1.4517914056777954,
+        "TSNE-2": 3.8171327114105225,
         "cluster": 0,
-        "keywords": "education, postmodern, educational, postmodernism, nan"
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": 1.990051031112671,
+        "TSNE-2": 2.778733015060425,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 3.8130130767822266,
+        "TSNE-2": -0.3336312472820282,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": -1.3264236450195312,
+        "TSNE-2": -8.194525718688965,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
+      },
+      {
+        "TSNE-1": 3.8715531826019287,
+        "TSNE-2": 0.5813916921615601,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 12.688972473144531,
+        "TSNE-2": 5.560361862182617,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
+      },
+      {
+        "TSNE-1": -8.936563491821289,
+        "TSNE-2": 7.940654277801514,
+        "cluster": 4,
+        "keywords": "impact, little, modernist, challenge, social"
+      },
+      {
+        "TSNE-1": -2.694624185562134,
+        "TSNE-2": -4.925685882568359,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": 2.1527926921844482,
+        "TSNE-2": 4.456045150756836,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -6.550153732299805,
+        "TSNE-2": -2.6292226314544678,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": 1.1093130111694336,
+        "TSNE-2": 10.653742790222168,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -8.936563491821289,
+        "TSNE-2": 7.940654277801514,
+        "cluster": 4,
+        "keywords": "impact, little, modernist, challenge, social"
+      },
+      {
+        "TSNE-1": -1.3924660682678223,
+        "TSNE-2": 1.0958032608032227,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 8.262054443359375,
+        "TSNE-2": 4.6774091720581055,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
+      },
+      {
+        "TSNE-1": -2.446899890899658,
+        "TSNE-2": -2.6602234840393066,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": -11.973931312561035,
+        "TSNE-2": 2.566993236541748,
+        "cluster": 4,
+        "keywords": "impact, little, modernist, challenge, social"
+      },
+      {
+        "TSNE-1": 4.934533596038818,
+        "TSNE-2": -9.13273811340332,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
+      },
+      {
+        "TSNE-1": 2.260957956314087,
+        "TSNE-2": 0.13248680531978607,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": 1.3779678344726562,
+        "TSNE-2": 7.26841926574707,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": -6.34791374206543,
+        "TSNE-2": -7.034672737121582,
+        "cluster": 1,
+        "keywords": "postmodernist, text, may, idea, provide"
+      },
+      {
+        "TSNE-1": 8.688307762145996,
+        "TSNE-2": 2.91778826713562,
+        "cluster": 5,
+        "keywords": "mention, context, directly, reason, resource"
+      },
+      {
+        "TSNE-1": -4.996809482574463,
+        "TSNE-2": -0.014650851488113403,
+        "cluster": 4,
+        "keywords": "impact, little, modernist, challenge, social"
+      },
+      {
+        "TSNE-1": -4.045935153961182,
+        "TSNE-2": 8.766916275024414,
+        "cluster": 0,
+        "keywords": "educational, education, postmodern, government, postmodernism"
+      },
+      {
+        "TSNE-1": 2.60056209564209,
+        "TSNE-2": -1.647693157196045,
+        "cluster": 3,
+        "keywords": "traditional, scheme, emphasis, individual, approach"
+      },
+      {
+        "TSNE-1": -7.245398998260498,
+        "TSNE-2": 4.934040069580078,
+        "cluster": 4,
+        "keywords": "impact, little, modernist, challenge, social"
+      },
+      {
+        "TSNE-1": -2.8960494995117188,
+        "TSNE-2": -7.849905014038086,
+        "cluster": 2,
+        "keywords": "universal, define, difficult, rejection, notion"
       }
     ]
   },

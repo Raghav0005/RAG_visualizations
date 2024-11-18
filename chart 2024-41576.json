@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-dabc975df7e66a44f782064c1dcf7bcc"
+    "name": "data-c3cf646e94c69eb278217844ba52218a"
   },
   "datasets": {
-    "data-dabc975df7e66a44f782064c1dcf7bcc": [
+    "data-c3cf646e94c69eb278217844ba52218a": [
       {
-        "TSNE-1": -3.4737319946289062,
-        "TSNE-2": -6.966739177703857,
+        "TSNE-1": 1.1770437955856323,
+        "TSNE-2": 2.287306785583496,
         "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
       },
       {
-        "TSNE-1": -4.6248579025268555,
-        "TSNE-2": -9.800585746765137,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
+        "TSNE-1": 6.147970199584961,
+        "TSNE-2": 1.9559335708618164,
+        "cluster": 5,
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": 7.421952724456787,
-        "TSNE-2": 0.24891173839569092,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
+        "TSNE-1": 10.326581001281738,
+        "TSNE-2": -3.295506238937378,
+        "cluster": 5,
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": 4.382144451141357,
-        "TSNE-2": 5.600010395050049,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": 7.421952724456787,
-        "TSNE-2": 0.24891173839569092,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": -26.6917724609375,
-        "TSNE-2": 3.673260450363159,
+        "TSNE-1": 4.3814778327941895,
+        "TSNE-2": 7.622565746307373,
         "cluster": 3,
-        "keywords": "organizational, nan, research, influence, social"
+        "keywords": "fair, contribution, equal, involves, respect"
       },
       {
-        "TSNE-1": 2.0370755195617676,
-        "TSNE-2": -5.164017200469971,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -5.848523139953613,
-        "TSNE-2": -4.3319830894470215,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 4.185255527496338,
-        "TSNE-2": 11.461798667907715,
+        "TSNE-1": 10.326581001281738,
+        "TSNE-2": -3.295506238937378,
         "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": 0.6675883531570435,
-        "TSNE-2": 8.66872501373291,
+        "TSNE-1": 0.47415661811828613,
+        "TSNE-2": -1.3549933433532715,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": -1.8934484720230103,
+        "TSNE-2": 0.09261340647935867,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": 2.9132916927337646,
+        "TSNE-2": 3.6835105419158936,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": -8.68297290802002,
+        "TSNE-2": -9.457801818847656,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": -5.12954044342041,
+        "TSNE-2": 0.774154782295227,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": 3.4178621768951416,
+        "TSNE-2": -10.460872650146484,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
+      },
+      {
+        "TSNE-1": 1.9941344261169434,
+        "TSNE-2": 0.8259329795837402,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": -0.5928636789321899,
+        "TSNE-2": -6.703331470489502,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
+      },
+      {
+        "TSNE-1": -9.028042793273926,
+        "TSNE-2": -2.280045747756958,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": 4.852425575256348,
+        "TSNE-2": -3.8934359550476074,
         "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": -5.032713413238525,
-        "TSNE-2": 0.22749334573745728,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -3.3818519115448,
-        "TSNE-2": 3.9888131618499756,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -1.2758783102035522,
-        "TSNE-2": -5.4656195640563965,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 1.1451668739318848,
-        "TSNE-2": 5.330621242523193,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": 8.46968936920166,
-        "TSNE-2": -6.777103424072266,
+        "TSNE-1": -2.0756943225860596,
+        "TSNE-2": 11.711692810058594,
         "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
+        "keywords": "social, relationship, organization, fairness, employer"
       },
       {
-        "TSNE-1": -0.6541746258735657,
-        "TSNE-2": -8.130269050598145,
+        "TSNE-1": -1.8934484720230103,
+        "TSNE-2": 0.09261340647935867,
         "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
       },
       {
-        "TSNE-1": 9.001605033874512,
-        "TSNE-2": 3.6374692916870117,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": -5.848523139953613,
-        "TSNE-2": -4.3319830894470215,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 1.0458934307098389,
-        "TSNE-2": -8.51046085357666,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 13.076639175415039,
-        "TSNE-2": 0.7570188641548157,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": 8.39576244354248,
-        "TSNE-2": -7.521042346954346,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": -4.511141777038574,
-        "TSNE-2": -5.6323628425598145,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 6.916718482971191,
-        "TSNE-2": 8.208063125610352,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": 6.331362724304199,
-        "TSNE-2": -2.503797769546509,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": 11.442072868347168,
-        "TSNE-2": -2.3725574016571045,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": -2.2941172122955322,
-        "TSNE-2": -6.238760948181152,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 4.990923881530762,
-        "TSNE-2": 5.614516258239746,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": 3.738264560699463,
-        "TSNE-2": -5.574501037597656,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 0.9198700189590454,
-        "TSNE-2": 9.062798500061035,
+        "TSNE-1": 6.4225969314575195,
+        "TSNE-2": -3.4895825386047363,
         "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": -1.5316989421844482,
-        "TSNE-2": 3.6368072032928467,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": 1.466090440750122,
-        "TSNE-2": -6.35882043838501,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 12.470100402832031,
-        "TSNE-2": -0.9910537004470825,
+        "TSNE-1": -8.24132251739502,
+        "TSNE-2": 8.306120872497559,
         "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
+        "keywords": "social, relationship, organization, fairness, employer"
       },
       {
-        "TSNE-1": -2.4671239852905273,
-        "TSNE-2": -5.100775718688965,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
+        "TSNE-1": -8.258039474487305,
+        "TSNE-2": -2.188596725463867,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
       },
       {
-        "TSNE-1": -3.6737377643585205,
-        "TSNE-2": -3.498706817626953,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -4.036064624786377,
-        "TSNE-2": 2.5008280277252197,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -2.6618993282318115,
-        "TSNE-2": -0.08299542963504791,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -1.2137924432754517,
-        "TSNE-2": -1.0378401279449463,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -6.08577823638916,
-        "TSNE-2": -2.414982557296753,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -1.0918797254562378,
-        "TSNE-2": 5.655836582183838,
+        "TSNE-1": 4.501791000366211,
+        "TSNE-2": 0.48210087418556213,
         "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": 4.347655773162842,
-        "TSNE-2": -3.0117993354797363,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": -2.785236358642578,
-        "TSNE-2": -9.015608787536621,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 0.6293179392814636,
-        "TSNE-2": -1.009318470954895,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -1.0078718662261963,
-        "TSNE-2": -4.549350738525391,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -7.527915000915527,
-        "TSNE-2": 3.2299842834472656,
+        "TSNE-1": 7.795204162597656,
+        "TSNE-2": 8.099560737609863,
         "cluster": 3,
-        "keywords": "organizational, nan, research, influence, social"
+        "keywords": "fair, contribution, equal, involves, respect"
       },
       {
-        "TSNE-1": -1.8965396881103516,
-        "TSNE-2": -2.3403866291046143,
+        "TSNE-1": 2.1761279106140137,
+        "TSNE-2": -7.072344779968262,
         "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
+        "keywords": "justice, procedural, employee, treatment, work"
       },
       {
-        "TSNE-1": -8.364906311035156,
-        "TSNE-2": 0.6450926661491394,
-        "cluster": 3,
-        "keywords": "organizational, nan, research, influence, social"
-      },
-      {
-        "TSNE-1": 13.960661888122559,
-        "TSNE-2": -0.6342412829399109,
+        "TSNE-1": -5.437203407287598,
+        "TSNE-2": 6.93619441986084,
         "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
+        "keywords": "social, relationship, organization, fairness, employer"
       },
       {
-        "TSNE-1": 5.745926380157471,
-        "TSNE-2": 6.6600823402404785,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": -5.032713413238525,
-        "TSNE-2": 0.22749334573745728,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -2.6835145950317383,
-        "TSNE-2": -1.4384427070617676,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -5.391145706176758,
-        "TSNE-2": 10.702178001403809,
+        "TSNE-1": 3.1818642616271973,
+        "TSNE-2": 0.37324002385139465,
         "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": 6.452992916107178,
-        "TSNE-2": 5.1501078605651855,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": -1.4244496822357178,
-        "TSNE-2": -4.141804218292236,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -9.896160125732422,
-        "TSNE-2": 2.842130422592163,
+        "TSNE-1": 4.754354000091553,
+        "TSNE-2": 7.081774711608887,
         "cluster": 3,
-        "keywords": "organizational, nan, research, influence, social"
+        "keywords": "fair, contribution, equal, involves, respect"
       },
       {
-        "TSNE-1": -3.905066728591919,
-        "TSNE-2": -4.012648582458496,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": 2.802236557006836,
-        "TSNE-2": 5.157681465148926,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": 0.6782362461090088,
-        "TSNE-2": -10.31500244140625,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -0.16749002039432526,
-        "TSNE-2": 10.201543807983398,
+        "TSNE-1": 7.470644950866699,
+        "TSNE-2": -0.9487820863723755,
         "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": 0.6511046290397644,
-        "TSNE-2": -4.989880561828613,
+        "TSNE-1": -8.676580429077148,
+        "TSNE-2": -9.925677299499512,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": 1.6399747133255005,
+        "TSNE-2": -12.942610740661621,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
+      },
+      {
+        "TSNE-1": -2.6644177436828613,
+        "TSNE-2": -1.8141331672668457,
         "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
       },
       {
-        "TSNE-1": 3.8506131172180176,
-        "TSNE-2": 7.244157791137695,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
+        "TSNE-1": -6.517602920532227,
+        "TSNE-2": 8.016694068908691,
+        "cluster": 1,
+        "keywords": "social, relationship, organization, fairness, employer"
       },
       {
-        "TSNE-1": 4.207756996154785,
-        "TSNE-2": 0.4584481418132782,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
+        "TSNE-1": 3.1014316082000732,
+        "TSNE-2": 1.9109623432159424,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
       },
       {
-        "TSNE-1": -5.546821117401123,
-        "TSNE-2": 9.792623519897461,
+        "TSNE-1": 2.5579729080200195,
+        "TSNE-2": -2.019352912902832,
         "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": 2.15505051612854,
-        "TSNE-2": -1.5614159107208252,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": 11.170499801635742,
-        "TSNE-2": -0.35288649797439575,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": -5.121443271636963,
-        "TSNE-2": 5.4932332038879395,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -7.401242733001709,
-        "TSNE-2": -5.9490156173706055,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -4.822342872619629,
-        "TSNE-2": 4.726146221160889,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": -4.319212913513184,
-        "TSNE-2": -2.0101776123046875,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": 0.9742786884307861,
-        "TSNE-2": 0.04510725289583206,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": 8.683300018310547,
-        "TSNE-2": -4.571338176727295,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": 1.237764596939087,
-        "TSNE-2": -0.6481683254241943,
-        "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
-      },
-      {
-        "TSNE-1": 9.001605033874512,
-        "TSNE-2": 3.6374692916870117,
+        "TSNE-1": -6.101632595062256,
+        "TSNE-2": -5.229897975921631,
         "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
+        "keywords": "equally, worth, cultural, without, regardless"
       },
       {
-        "TSNE-1": -8.628226280212402,
-        "TSNE-2": 6.093188762664795,
-        "cluster": 3,
-        "keywords": "organizational, nan, research, influence, social"
-      },
-      {
-        "TSNE-1": 2.640383243560791,
-        "TSNE-2": -4.329510688781738,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -5.100207805633545,
-        "TSNE-2": 3.530430555343628,
+        "TSNE-1": 2.9041073322296143,
+        "TSNE-2": -5.212562561035156,
         "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
+        "keywords": "justice, procedural, employee, treatment, work"
       },
       {
-        "TSNE-1": -1.133291244506836,
-        "TSNE-2": 1.505124568939209,
+        "TSNE-1": 0.8628701567649841,
+        "TSNE-2": -5.149585247039795,
         "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
+        "keywords": "justice, procedural, employee, treatment, work"
       },
       {
-        "TSNE-1": 0.7237492799758911,
-        "TSNE-2": -2.980602264404297,
+        "TSNE-1": -1.7938718795776367,
+        "TSNE-2": 1.8736162185668945,
         "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
       },
       {
-        "TSNE-1": -8.628226280212402,
-        "TSNE-2": 6.093188762664795,
-        "cluster": 3,
-        "keywords": "organizational, nan, research, influence, social"
+        "TSNE-1": -2.0273678302764893,
+        "TSNE-2": -5.193853378295898,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
       },
       {
-        "TSNE-1": -5.179030895233154,
-        "TSNE-2": 9.569215774536133,
+        "TSNE-1": -9.761883735656738,
+        "TSNE-2": 0.9375267028808594,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": 4.416722774505615,
+        "TSNE-2": -1.6229543685913086,
         "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "keywords": "individual, job, commitment, lead, focus"
       },
       {
-        "TSNE-1": -0.6287705898284912,
-        "TSNE-2": 10.741223335266113,
-        "cluster": 5,
-        "keywords": "decision, cultural, worth, regardless, news"
+        "TSNE-1": -0.8634229302406311,
+        "TSNE-2": 4.785409450531006,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
       },
       {
-        "TSNE-1": 1.8244802951812744,
-        "TSNE-2": 3.194298028945923,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
+        "TSNE-1": 1.3267080783843994,
+        "TSNE-2": -0.18275751173496246,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
       },
       {
-        "TSNE-1": -10.357505798339844,
-        "TSNE-2": 2.2123630046844482,
-        "cluster": 3,
-        "keywords": "organizational, nan, research, influence, social"
+        "TSNE-1": -1.3501863479614258,
+        "TSNE-2": 7.157029151916504,
+        "cluster": 1,
+        "keywords": "social, relationship, organization, fairness, employer"
       },
       {
-        "TSNE-1": 4.207756996154785,
-        "TSNE-2": 0.4584481418132782,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
-      },
-      {
-        "TSNE-1": -6.2708587646484375,
-        "TSNE-2": 1.1706619262695312,
+        "TSNE-1": 1.5034630298614502,
+        "TSNE-2": -3.6317124366760254,
         "cluster": 0,
-        "keywords": "justice, employee, procedural, workplace, fairness"
+        "keywords": "justice, procedural, employee, treatment, work"
       },
       {
-        "TSNE-1": 4.347655773162842,
-        "TSNE-2": -3.0117993354797363,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
+        "TSNE-1": 2.0935704708099365,
+        "TSNE-2": -12.25350284576416,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
       },
       {
-        "TSNE-1": 3.9036319255828857,
-        "TSNE-2": 3.8261237144470215,
-        "cluster": 2,
-        "keywords": "fair, respect, refers, involves, organization"
+        "TSNE-1": -0.9597417712211609,
+        "TSNE-2": -10.975441932678223,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
       },
       {
-        "TSNE-1": 13.208285331726074,
-        "TSNE-2": 2.94417667388916,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
-      },
-      {
-        "TSNE-1": 4.1908674240112305,
-        "TSNE-2": -8.178889274597168,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -0.44894784688949585,
-        "TSNE-2": -9.79455852508545,
-        "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
-      },
-      {
-        "TSNE-1": -8.511857032775879,
-        "TSNE-2": -2.943800926208496,
+        "TSNE-1": 5.931646347045898,
+        "TSNE-2": 7.347310543060303,
         "cluster": 3,
-        "keywords": "organizational, nan, research, influence, social"
+        "keywords": "fair, contribution, equal, involves, respect"
       },
       {
-        "TSNE-1": -5.210283279418945,
-        "TSNE-2": -7.275669574737549,
+        "TSNE-1": -5.12954044342041,
+        "TSNE-2": 0.774154782295227,
         "cluster": 4,
-        "keywords": "outcome, interactional, distributive, interpersonal, job"
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
       },
       {
-        "TSNE-1": 12.470100402832031,
-        "TSNE-2": -0.9910537004470825,
-        "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
+        "TSNE-1": 2.2813432216644287,
+        "TSNE-2": -4.208964824676514,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
       },
       {
-        "TSNE-1": 8.791389465332031,
-        "TSNE-2": -10.234994888305664,
+        "TSNE-1": 9.837400436401367,
+        "TSNE-2": 0.7410528659820557,
+        "cluster": 5,
+        "keywords": "individual, job, commitment, lead, focus"
+      },
+      {
+        "TSNE-1": 6.060136318206787,
+        "TSNE-2": 5.606773853302002,
+        "cluster": 3,
+        "keywords": "fair, contribution, equal, involves, respect"
+      },
+      {
+        "TSNE-1": 1.7870588302612305,
+        "TSNE-2": -0.06481052935123444,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": 4.314974308013916,
+        "TSNE-2": -10.741379737854004,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
+      },
+      {
+        "TSNE-1": 3.0959739685058594,
+        "TSNE-2": -1.8057283163070679,
+        "cluster": 5,
+        "keywords": "individual, job, commitment, lead, focus"
+      },
+      {
+        "TSNE-1": 2.832019567489624,
+        "TSNE-2": 8.689146995544434,
+        "cluster": 3,
+        "keywords": "fair, contribution, equal, involves, respect"
+      },
+      {
+        "TSNE-1": 6.364879608154297,
+        "TSNE-2": -6.170797348022461,
+        "cluster": 5,
+        "keywords": "individual, job, commitment, lead, focus"
+      },
+      {
+        "TSNE-1": -7.11543083190918,
+        "TSNE-2": -10.512443542480469,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": -0.4308561682701111,
+        "TSNE-2": -1.0473841428756714,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": 4.861252307891846,
+        "TSNE-2": 9.1558837890625,
+        "cluster": 3,
+        "keywords": "fair, contribution, equal, involves, respect"
+      },
+      {
+        "TSNE-1": -7.163292407989502,
+        "TSNE-2": 3.46543550491333,
         "cluster": 1,
-        "keywords": "interest, individual, equity, relationship, form"
+        "keywords": "social, relationship, organization, fairness, employer"
+      },
+      {
+        "TSNE-1": -2.8083982467651367,
+        "TSNE-2": -8.994471549987793,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
+      },
+      {
+        "TSNE-1": -3.2118330001831055,
+        "TSNE-2": 3.967298746109009,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": -6.127711772918701,
+        "TSNE-2": 9.351365089416504,
+        "cluster": 1,
+        "keywords": "social, relationship, organization, fairness, employer"
+      },
+      {
+        "TSNE-1": -4.295869827270508,
+        "TSNE-2": -6.385672092437744,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": -3.329885482788086,
+        "TSNE-2": -3.4055161476135254,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": -4.90372371673584,
+        "TSNE-2": -5.941826820373535,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": -0.21974487602710724,
+        "TSNE-2": -3.6594879627227783,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
+      },
+      {
+        "TSNE-1": -1.9082849025726318,
+        "TSNE-2": 4.609372615814209,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": 4.682487964630127,
+        "TSNE-2": 5.635888576507568,
+        "cluster": 3,
+        "keywords": "fair, contribution, equal, involves, respect"
+      },
+      {
+        "TSNE-1": -1.376167893409729,
+        "TSNE-2": 4.041719913482666,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": -2.0756943225860596,
+        "TSNE-2": 11.711692810058594,
+        "cluster": 1,
+        "keywords": "social, relationship, organization, fairness, employer"
+      },
+      {
+        "TSNE-1": 4.447155952453613,
+        "TSNE-2": 12.398648262023926,
+        "cluster": 3,
+        "keywords": "fair, contribution, equal, involves, respect"
+      },
+      {
+        "TSNE-1": 6.066650867462158,
+        "TSNE-2": -0.6016523838043213,
+        "cluster": 5,
+        "keywords": "individual, job, commitment, lead, focus"
+      },
+      {
+        "TSNE-1": -6.087089538574219,
+        "TSNE-2": -6.569456100463867,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": -3.37735652923584,
+        "TSNE-2": 1.9501111507415771,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": 0.786091685295105,
+        "TSNE-2": 4.125776290893555,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": 4.447155952453613,
+        "TSNE-2": 12.398648262023926,
+        "cluster": 3,
+        "keywords": "fair, contribution, equal, involves, respect"
+      },
+      {
+        "TSNE-1": -2.3600986003875732,
+        "TSNE-2": -9.190065383911133,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
+      },
+      {
+        "TSNE-1": -6.460079193115234,
+        "TSNE-2": -10.899438858032227,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": 0.9418685436248779,
+        "TSNE-2": 9.112072944641113,
+        "cluster": 3,
+        "keywords": "fair, contribution, equal, involves, respect"
+      },
+      {
+        "TSNE-1": 5.115862846374512,
+        "TSNE-2": -11.180734634399414,
+        "cluster": 0,
+        "keywords": "justice, procedural, employee, treatment, work"
+      },
+      {
+        "TSNE-1": -7.163292407989502,
+        "TSNE-2": 3.46543550491333,
+        "cluster": 1,
+        "keywords": "social, relationship, organization, fairness, employer"
+      },
+      {
+        "TSNE-1": -4.782932758331299,
+        "TSNE-2": -0.8040706515312195,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": -9.761883735656738,
+        "TSNE-2": 0.9375267028808594,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": 1.8760560750961304,
+        "TSNE-2": 6.983441352844238,
+        "cluster": 3,
+        "keywords": "fair, contribution, equal, involves, respect"
+      },
+      {
+        "TSNE-1": -9.699989318847656,
+        "TSNE-2": 7.202080249786377,
+        "cluster": 1,
+        "keywords": "social, relationship, organization, fairness, employer"
+      },
+      {
+        "TSNE-1": -10.23670768737793,
+        "TSNE-2": -6.090490341186523,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
+      },
+      {
+        "TSNE-1": 5.456166744232178,
+        "TSNE-2": -5.397942066192627,
+        "cluster": 5,
+        "keywords": "individual, job, commitment, lead, focus"
+      },
+      {
+        "TSNE-1": -1.1499884128570557,
+        "TSNE-2": -2.0920217037200928,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": 0.1506732553243637,
+        "TSNE-2": 1.4191858768463135,
+        "cluster": 4,
+        "keywords": "workplace, organizational, interactional, outcome, distributive"
+      },
+      {
+        "TSNE-1": -6.517602920532227,
+        "TSNE-2": 8.016694068908691,
+        "cluster": 1,
+        "keywords": "social, relationship, organization, fairness, employer"
+      },
+      {
+        "TSNE-1": -7.101431846618652,
+        "TSNE-2": -2.3112823963165283,
+        "cluster": 2,
+        "keywords": "equally, worth, cultural, without, regardless"
       }
     ]
   },

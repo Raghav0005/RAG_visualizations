@@ -7,561 +7,555 @@
     }
   },
   "data": {
-    "name": "data-4e78d16da8177f511412ca17b90d9c8b"
+    "name": "data-2daece9e9bca672b9e8f4da5a95925aa"
   },
   "datasets": {
-    "data-4e78d16da8177f511412ca17b90d9c8b": [
+    "data-2daece9e9bca672b9e8f4da5a95925aa": [
       {
-        "TSNE-1": 5.03647518157959,
-        "TSNE-2": -9.08749008178711,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": 1.1976182460784912,
-        "TSNE-2": -9.268266677856445,
+        "TSNE-1": 4.412044525146484,
+        "TSNE-2": -2.104625940322876,
         "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
+        "keywords": "drug, cartel, war, crack, cocaine"
       },
       {
-        "TSNE-1": 0.4023071527481079,
-        "TSNE-2": 10.462407112121582,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
+        "TSNE-1": -5.845673084259033,
+        "TSNE-2": -0.5948848128318787,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
       },
       {
-        "TSNE-1": -6.603789806365967,
-        "TSNE-2": -7.208602428436279,
+        "TSNE-1": -12.377480506896973,
+        "TSNE-2": -2.407498836517334,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
+      },
+      {
+        "TSNE-1": -7.250650405883789,
+        "TSNE-2": 11.198443412780762,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": 0.4023071527481079,
-        "TSNE-2": 10.462407112121582,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
+        "TSNE-1": -12.377480506896973,
+        "TSNE-2": -2.407498836517334,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
       },
       {
-        "TSNE-1": -9.502134323120117,
-        "TSNE-2": 7.839142799377441,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
+        "TSNE-1": -12.949787139892578,
+        "TSNE-2": -7.046518802642822,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
       },
       {
-        "TSNE-1": 0.5380048155784607,
-        "TSNE-2": 1.0676535367965698,
+        "TSNE-1": 1.4771326780319214,
+        "TSNE-2": 2.04117488861084,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 3.632652997970581,
+        "TSNE-2": -6.329612731933594,
         "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
+        "keywords": "drug, cartel, war, crack, cocaine"
       },
       {
-        "TSNE-1": 0.9395861625671387,
-        "TSNE-2": -13.52109146118164,
+        "TSNE-1": -9.036273956298828,
+        "TSNE-2": -6.473146438598633,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
+      },
+      {
+        "TSNE-1": -11.83253288269043,
+        "TSNE-2": 2.0799996852874756,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 0.5046809911727905,
+        "TSNE-2": -3.405109405517578,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": -2.2100961208343506,
+        "TSNE-2": 0.9368881583213806,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 0.5290436744689941,
+        "TSNE-2": 7.205118179321289,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": -9.994688034057617,
+        "TSNE-2": 6.460780620574951,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 2.0617990493774414,
+        "TSNE-2": 5.688118934631348,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 6.83664083480835,
+        "TSNE-2": 10.235097885131836,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 1.4771326780319214,
+        "TSNE-2": 2.04117488861084,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 3.544999361038208,
+        "TSNE-2": 3.5538182258605957,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 3.0918805599212646,
+        "TSNE-2": -10.195995330810547,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": -7.214865207672119,
+        "TSNE-2": 13.327836990356445,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": 9.4271879196167,
-        "TSNE-2": 9.694409370422363,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
-      },
-      {
-        "TSNE-1": -1.630780816078186,
-        "TSNE-2": 14.276565551757812,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": 2.1234426498413086,
-        "TSNE-2": 5.009134769439697,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": -1.694762945175171,
-        "TSNE-2": 0.12419208884239197,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 10.35989761352539,
-        "TSNE-2": -7.247268199920654,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": 12.316755294799805,
-        "TSNE-2": 9.12248706817627,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
-      },
-      {
-        "TSNE-1": 9.525289535522461,
-        "TSNE-2": -4.714688301086426,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": 14.802093505859375,
-        "TSNE-2": 0.6111990213394165,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": 0.5380048155784607,
-        "TSNE-2": 1.0676535367965698,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 7.414838790893555,
-        "TSNE-2": -2.661281108856201,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": -14.960335731506348,
-        "TSNE-2": -2.054426908493042,
+        "TSNE-1": 0.500622570514679,
+        "TSNE-2": 8.778121948242188,
         "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
+        "keywords": "cold, law, organization, end, combination"
       },
       {
-        "TSNE-1": -7.118384838104248,
-        "TSNE-2": -10.59805965423584,
+        "TSNE-1": -3.6895503997802734,
+        "TSNE-2": 12.34243392944336,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": 11.743598937988281,
-        "TSNE-2": -8.585168838500977,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
+        "TSNE-1": 2.7953295707702637,
+        "TSNE-2": 9.768584251403809,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
       },
       {
-        "TSNE-1": -4.8396687507629395,
-        "TSNE-2": -9.930594444274902,
+        "TSNE-1": 0.44143199920654297,
+        "TSNE-2": 4.0092244148254395,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 1.9276787042617798,
+        "TSNE-2": 0.32242339849472046,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": -5.815145015716553,
+        "TSNE-2": 12.648488998413086,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": 9.487983703613281,
-        "TSNE-2": -10.635139465332031,
+        "TSNE-1": -12.604697227478027,
+        "TSNE-2": -6.338291645050049,
         "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
+        "keywords": "big, use, medell\u00edn, less, dealer"
       },
       {
-        "TSNE-1": 0.8855465054512024,
-        "TSNE-2": -1.407185435295105,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
+        "TSNE-1": -6.578968524932861,
+        "TSNE-2": -11.071981430053711,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
       },
       {
-        "TSNE-1": 2.5351974964141846,
-        "TSNE-2": -0.344003826379776,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": -6.776334762573242,
-        "TSNE-2": -9.044022560119629,
+        "TSNE-1": -3.707430124282837,
+        "TSNE-2": 14.899206161499023,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": -8.61287784576416,
-        "TSNE-2": 7.918140888214111,
+        "TSNE-1": 3.5381879806518555,
+        "TSNE-2": -7.039648056030273,
         "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
+        "keywords": "pretext, cover, boost, corporate, story"
       },
       {
-        "TSNE-1": -1.6750046014785767,
-        "TSNE-2": 8.233383178710938,
+        "TSNE-1": 2.67434024810791,
+        "TSNE-2": -12.905405044555664,
         "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
+        "keywords": "pretext, cover, boost, corporate, story"
       },
       {
-        "TSNE-1": -10.357322692871094,
-        "TSNE-2": -7.992105960845947,
+        "TSNE-1": -1.3115280866622925,
+        "TSNE-2": 0.7788206934928894,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 6.261401653289795,
+        "TSNE-2": 2.6163597106933594,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 8.712417602539062,
+        "TSNE-2": 3.2514665126800537,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 10.57765007019043,
+        "TSNE-2": -2.8337666988372803,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": 6.543643474578857,
+        "TSNE-2": -2.8726136684417725,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": 6.53181266784668,
+        "TSNE-2": 6.07694149017334,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": -7.241340637207031,
+        "TSNE-2": 2.044172763824463,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": -3.9805057048797607,
+        "TSNE-2": -1.858019471168518,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": -1.5170722007751465,
+        "TSNE-2": -2.839170217514038,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 5.8883280754089355,
+        "TSNE-2": -14.588486671447754,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": -4.588307857513428,
+        "TSNE-2": 1.3612910509109497,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": -7.087053298950195,
+        "TSNE-2": -2.481184959411621,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
+      },
+      {
+        "TSNE-1": 9.008382797241211,
+        "TSNE-2": -2.491898775100708,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": 2.2332684993743896,
+        "TSNE-2": 15.150216102600098,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": 0.4441588521003723,
-        "TSNE-2": -12.797889709472656,
+        "TSNE-1": 2.987720012664795,
+        "TSNE-2": -15.097990989685059,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": -8.227561950683594,
+        "TSNE-2": -5.805171012878418,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
+      },
+      {
+        "TSNE-1": -11.83253288269043,
+        "TSNE-2": 2.0799996852874756,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 11.640633583068848,
+        "TSNE-2": -1.1485406160354614,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": -2.115118980407715,
+        "TSNE-2": -1.2745403051376343,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": -5.719183444976807,
+        "TSNE-2": -9.229783058166504,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
+      },
+      {
+        "TSNE-1": -3.4507522583007812,
+        "TSNE-2": 1.6346372365951538,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 0.4264334440231323,
+        "TSNE-2": -1.3152167797088623,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": 5.0576958656311035,
+        "TSNE-2": 3.628386974334717,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": -5.398838520050049,
+        "TSNE-2": 11.370820999145508,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": -14.24465560913086,
-        "TSNE-2": 3.0019209384918213,
+        "TSNE-1": 8.986353874206543,
+        "TSNE-2": 6.201352596282959,
         "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
+        "keywords": "cold, law, organization, end, combination"
       },
       {
-        "TSNE-1": -1.820839762687683,
-        "TSNE-2": -0.6257907152175903,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 9.256776809692383,
-        "TSNE-2": -1.1437641382217407,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": 7.999570846557617,
-        "TSNE-2": 13.38132381439209,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
-      },
-      {
-        "TSNE-1": -1.7807492017745972,
-        "TSNE-2": -5.278099536895752,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 2.9101569652557373,
-        "TSNE-2": -3.2901041507720947,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 1.671412706375122,
-        "TSNE-2": 7.2222700119018555,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": -4.885124206542969,
-        "TSNE-2": -1.5999788045883179,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 2.5817742347717285,
-        "TSNE-2": -7.364056587219238,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": -4.298915863037109,
-        "TSNE-2": 5.167040824890137,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": -10.591897964477539,
-        "TSNE-2": 2.8445420265197754,
+        "TSNE-1": -1.56265389919281,
+        "TSNE-2": 7.67230224609375,
         "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
+        "keywords": "cold, law, organization, end, combination"
       },
       {
-        "TSNE-1": -3.678190231323242,
-        "TSNE-2": 0.23528027534484863,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 3.6807093620300293,
-        "TSNE-2": 1.3230857849121094,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": -0.004285946488380432,
-        "TSNE-2": -4.886004447937012,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 10.573259353637695,
-        "TSNE-2": 5.803112983703613,
+        "TSNE-1": -0.8735965490341187,
+        "TSNE-2": 2.734874963760376,
         "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
+        "keywords": "mexican, route, colombian, effort, america"
       },
       {
-        "TSNE-1": -15.058401107788086,
-        "TSNE-2": 1.1818822622299194,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": 10.396525382995605,
-        "TSNE-2": 9.037267684936523,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
-      },
-      {
-        "TSNE-1": -1.630780816078186,
-        "TSNE-2": 14.276565551757812,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": -3.446160316467285,
-        "TSNE-2": -5.660467147827148,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 3.3986318111419678,
-        "TSNE-2": 3.3410284519195557,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
-      },
-      {
-        "TSNE-1": -3.6867551803588867,
-        "TSNE-2": 9.059329986572266,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": -2.304852247238159,
-        "TSNE-2": -0.48940011858940125,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 0.7007722854614258,
-        "TSNE-2": 3.9602913856506348,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": 6.866486549377441,
-        "TSNE-2": -1.5139191150665283,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": -8.387072563171387,
-        "TSNE-2": -8.112741470336914,
+        "TSNE-1": -6.473000526428223,
+        "TSNE-2": 14.26143741607666,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": 7.4118571281433105,
-        "TSNE-2": -6.028193950653076,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
+        "TSNE-1": -3.7766308784484863,
+        "TSNE-2": 5.320906639099121,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
       },
       {
-        "TSNE-1": 11.945087432861328,
-        "TSNE-2": -5.423342704772949,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": -5.5622429847717285,
-        "TSNE-2": 1.4934519529342651,
+        "TSNE-1": 6.993606090545654,
+        "TSNE-2": -13.12442398071289,
         "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
+        "keywords": "pretext, cover, boost, corporate, story"
       },
       {
-        "TSNE-1": -8.369982719421387,
-        "TSNE-2": -10.242579460144043,
+        "TSNE-1": 7.087475776672363,
+        "TSNE-2": -12.19039249420166,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": 3.4776642322540283,
+        "TSNE-2": -10.57002067565918,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": 7.83126974105835,
+        "TSNE-2": -4.017218112945557,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": 5.034879684448242,
+        "TSNE-2": 0.22955232858657837,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": 6.200676441192627,
+        "TSNE-2": -3.9694840908050537,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": -6.42214298248291,
+        "TSNE-2": 3.8301730155944824,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 9.964410781860352,
+        "TSNE-2": -14.082311630249023,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": 2.489006519317627,
+        "TSNE-2": -3.8881421089172363,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": 11.051828384399414,
+        "TSNE-2": -11.722189903259277,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": 6.82608699798584,
+        "TSNE-2": 10.964929580688477,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": -1.2852952480316162,
+        "TSNE-2": -7.833219051361084,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": -9.795246124267578,
+        "TSNE-2": 0.871557354927063,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 7.712192535400391,
+        "TSNE-2": -1.587810754776001,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
+      },
+      {
+        "TSNE-1": -2.8500607013702393,
+        "TSNE-2": -4.58707857131958,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
+      },
+      {
+        "TSNE-1": -8.731285095214844,
+        "TSNE-2": 0.6590408682823181,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": -1.2852952480316162,
+        "TSNE-2": -7.833219051361084,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": 8.761710166931152,
+        "TSNE-2": -12.3499755859375,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
+      },
+      {
+        "TSNE-1": -4.872602939605713,
+        "TSNE-2": -9.250402450561523,
+        "cluster": 2,
+        "keywords": "big, use, medell\u00edn, less, dealer"
+      },
+      {
+        "TSNE-1": 2.722381591796875,
+        "TSNE-2": 8.556901931762695,
+        "cluster": 1,
+        "keywords": "cold, law, organization, end, combination"
+      },
+      {
+        "TSNE-1": 2.8012890815734863,
+        "TSNE-2": 14.603744506835938,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
+        "keywords": "mention, context, impact, effect, discusses"
       },
       {
-        "TSNE-1": 6.0032572746276855,
-        "TSNE-2": 3.156379222869873,
+        "TSNE-1": -3.7766308784484863,
+        "TSNE-2": 5.320906639099121,
         "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
+        "keywords": "mexican, route, colombian, effort, america"
       },
       {
-        "TSNE-1": -9.911972999572754,
-        "TSNE-2": 1.009909987449646,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": -10.526384353637695,
-        "TSNE-2": 0.3011815845966339,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": -16.09847068786621,
-        "TSNE-2": -1.0512659549713135,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": 3.022062063217163,
-        "TSNE-2": -4.744318008422852,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 5.277658462524414,
-        "TSNE-2": -5.955722332000732,
+        "TSNE-1": -5.228151321411133,
+        "TSNE-2": -4.09904146194458,
         "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
+        "keywords": "big, use, medell\u00edn, less, dealer"
       },
       {
-        "TSNE-1": 4.119040489196777,
-        "TSNE-2": -3.3704452514648438,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
+        "TSNE-1": -3.9805057048797607,
+        "TSNE-2": -1.858019471168518,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
       },
       {
-        "TSNE-1": -1.7167344093322754,
-        "TSNE-2": 5.254012584686279,
+        "TSNE-1": -10.903815269470215,
+        "TSNE-2": 5.606945037841797,
+        "cluster": 3,
+        "keywords": "mexican, route, colombian, effort, america"
+      },
+      {
+        "TSNE-1": 8.65607738494873,
+        "TSNE-2": -9.594000816345215,
         "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
+        "keywords": "pretext, cover, boost, corporate, story"
       },
       {
-        "TSNE-1": -8.043909072875977,
-        "TSNE-2": -2.5081584453582764,
+        "TSNE-1": 4.70142126083374,
+        "TSNE-2": 4.787381172180176,
         "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
+        "keywords": "cold, law, organization, end, combination"
       },
       {
-        "TSNE-1": 11.522224426269531,
-        "TSNE-2": 3.172240734100342,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
+        "TSNE-1": 1.4126590490341187,
+        "TSNE-2": -14.467615127563477,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
       },
       {
-        "TSNE-1": -13.714612007141113,
-        "TSNE-2": 5.630751609802246,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
+        "TSNE-1": 9.196730613708496,
+        "TSNE-2": 0.41141608357429504,
+        "cluster": 0,
+        "keywords": "drug, cartel, war, crack, cocaine"
       },
       {
-        "TSNE-1": 14.15369987487793,
-        "TSNE-2": 0.08140420913696289,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
+        "TSNE-1": 2.67434024810791,
+        "TSNE-2": -12.905405044555664,
+        "cluster": 4,
+        "keywords": "pretext, cover, boost, corporate, story"
       },
       {
-        "TSNE-1": -2.997382640838623,
-        "TSNE-2": -14.874917030334473,
+        "TSNE-1": -9.143278121948242,
+        "TSNE-2": 11.629901885986328,
         "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
-      },
-      {
-        "TSNE-1": -4.950189113616943,
-        "TSNE-2": 13.643060684204102,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": 1.2232533693313599,
-        "TSNE-2": -4.170505523681641,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": -6.216228008270264,
-        "TSNE-2": 4.654757499694824,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": -5.83285665512085,
-        "TSNE-2": 12.724623680114746,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": -2.997382640838623,
-        "TSNE-2": -14.874917030334473,
-        "cluster": 5,
-        "keywords": "mention, context, impact, united, discusses"
-      },
-      {
-        "TSNE-1": -9.558119773864746,
-        "TSNE-2": -1.116126537322998,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": -4.637231826782227,
-        "TSNE-2": 8.984776496887207,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": 9.839028358459473,
-        "TSNE-2": -9.444046020507812,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": 8.67789077758789,
-        "TSNE-2": 6.37379789352417,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
-      },
-      {
-        "TSNE-1": 6.0032572746276855,
-        "TSNE-2": 3.156379222869873,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
-      },
-      {
-        "TSNE-1": -2.3884263038635254,
-        "TSNE-2": 2.5882327556610107,
-        "cluster": 4,
-        "keywords": "colombian, medell\u00edn, major, america, route"
-      },
-      {
-        "TSNE-1": 2.5817742347717285,
-        "TSNE-2": -7.364056587219238,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": 11.423728942871094,
-        "TSNE-2": 10.260189056396484,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
-      },
-      {
-        "TSNE-1": -11.442573547363281,
-        "TSNE-2": -2.805922508239746,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": -25.87562370300293,
-        "TSNE-2": 11.559515953063965,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": 6.255889415740967,
-        "TSNE-2": -1.1951042413711548,
-        "cluster": 2,
-        "keywords": "law, combination, latin, cold, environment"
-      },
-      {
-        "TSNE-1": -16.53984260559082,
-        "TSNE-2": 1.983298420906067,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": -0.6621176600456238,
-        "TSNE-2": -6.909930229187012,
-        "cluster": 0,
-        "keywords": "drug, cartel, war, cocaine, mexican"
-      },
-      {
-        "TSNE-1": -14.24465560913086,
-        "TSNE-2": 3.0019209384918213,
-        "cluster": 1,
-        "keywords": "pretext, corporate, cover, boost, story"
-      },
-      {
-        "TSNE-1": 4.251392364501953,
-        "TSNE-2": 8.790802001953125,
-        "cluster": 3,
-        "keywords": "big, thing, turn, cheaper, form"
+        "keywords": "mention, context, impact, effect, discusses"
       }
     ]
   },

@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-570e03c6d52090938acb51a301698976"
+    "name": "data-fce68ffbdbc7a8f6d21fa04474d6c054"
   },
   "datasets": {
-    "data-570e03c6d52090938acb51a301698976": [
+    "data-fce68ffbdbc7a8f6d21fa04474d6c054": [
       {
-        "TSNE-1": -1.9564948081970215,
-        "TSNE-2": 0.6208781003952026,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
+        "TSNE-1": -4.636380195617676,
+        "TSNE-2": 5.734030723571777,
+        "cluster": 4,
+        "keywords": "current, significant, increase, potential, coast"
       },
       {
-        "TSNE-1": 1.0775071382522583,
-        "TSNE-2": 9.370610237121582,
+        "TSNE-1": -7.208859443664551,
+        "TSNE-2": 9.903143882751465,
+        "cluster": 4,
+        "keywords": "current, significant, increase, potential, coast"
+      },
+      {
+        "TSNE-1": 10.572648048400879,
+        "TSNE-2": 1.5255552530288696,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": -2.35376238822937,
+        "TSNE-2": -13.279682159423828,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": -1.5881342887878418,
-        "TSNE-2": 11.848578453063965,
+        "TSNE-1": 10.572648048400879,
+        "TSNE-2": 1.5255552530288696,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": -2.358654499053955,
+        "TSNE-2": -17.410913467407227,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": 4.523284435272217,
-        "TSNE-2": -8.088233947753906,
+        "TSNE-1": -11.692488670349121,
+        "TSNE-2": 4.785078048706055,
+        "cluster": 4,
+        "keywords": "current, significant, increase, potential, coast"
+      },
+      {
+        "TSNE-1": -2.9863572120666504,
+        "TSNE-2": 4.558671951293945,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 9.120227813720703,
+        "TSNE-2": 11.522602081298828,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": 16.022035598754883,
+        "TSNE-2": -3.5554745197296143,
         "cluster": 3,
-        "keywords": "article, would, train, british, bring"
+        "keywords": "would, online, sector, level, record"
       },
       {
-        "TSNE-1": -1.5881342887878418,
-        "TSNE-2": 11.848578453063965,
+        "TSNE-1": 2.7884602546691895,
+        "TSNE-2": 12.52883243560791,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 3.7782022953033447,
+        "TSNE-2": -8.252001762390137,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": -6.503186225891113,
+        "TSNE-2": 0.038566917181015015,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 5.048221588134766,
+        "TSNE-2": 0.428628534078598,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": 16.934568405151367,
+        "TSNE-2": 4.280608177185059,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": -1.0252296924591064,
+        "TSNE-2": 10.105484962463379,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 10.377970695495605,
+        "TSNE-2": -11.030364036560059,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": -2.9863572120666504,
+        "TSNE-2": 4.558671951293945,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": -2.750516891479492,
+        "TSNE-2": 8.041014671325684,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": -11.562383651733398,
+        "TSNE-2": -0.745697557926178,
+        "cluster": 4,
+        "keywords": "current, significant, increase, potential, coast"
+      },
+      {
+        "TSNE-1": 2.729475736618042,
+        "TSNE-2": -14.695347785949707,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": -2.8365886211395264,
-        "TSNE-2": 7.220603942871094,
+        "TSNE-1": -0.18904173374176025,
+        "TSNE-2": -1.8395459651947021,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 2.729475736618042,
+        "TSNE-2": -14.695347785949707,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": 9.26368236541748,
-        "TSNE-2": 3.6300363540649414,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": -0.679269552230835,
-        "TSNE-2": -0.7230166792869568,
+        "TSNE-1": 5.120829105377197,
+        "TSNE-2": 3.2847254276275635,
         "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
+        "keywords": "price, fare, market, cost, normal"
       },
       {
-        "TSNE-1": 12.570666313171387,
-        "TSNE-2": 4.074045658111572,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": -16.70013427734375,
-        "TSNE-2": -0.28618180751800537,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": 7.036344051361084,
-        "TSNE-2": 9.79835319519043,
+        "TSNE-1": -6.49405574798584,
+        "TSNE-2": 2.6397082805633545,
         "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
+        "keywords": "current, significant, increase, potential, coast"
       },
       {
-        "TSNE-1": 13.310769081115723,
-        "TSNE-2": -1.2681937217712402,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": 0.880436360836029,
-        "TSNE-2": 3.492626190185547,
+        "TSNE-1": -8.599089622497559,
+        "TSNE-2": 1.0339276790618896,
         "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
+        "keywords": "current, significant, increase, potential, coast"
       },
       {
-        "TSNE-1": -9.847825050354004,
-        "TSNE-2": -3.1334996223449707,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 4.685784339904785,
-        "TSNE-2": -15.272626876831055,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": 4.717682361602783,
-        "TSNE-2": 3.5312044620513916,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": -10.40250015258789,
-        "TSNE-2": 9.138120651245117,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": -0.679269552230835,
-        "TSNE-2": -0.7230166792869568,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -2.1366405487060547,
-        "TSNE-2": -6.204232215881348,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 0.2887188196182251,
-        "TSNE-2": -4.399699687957764,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -10.592487335205078,
-        "TSNE-2": 4.843929290771484,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": -3.1434531211853027,
-        "TSNE-2": -0.6055570244789124,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -10.592487335205078,
-        "TSNE-2": 4.843929290771484,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": -9.845158576965332,
-        "TSNE-2": -6.252030849456787,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 2.4319746494293213,
-        "TSNE-2": 2.7248666286468506,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": -0.8684467077255249,
-        "TSNE-2": 2.400385618209839,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": 6.198115825653076,
-        "TSNE-2": -9.180941581726074,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": 5.4607672691345215,
-        "TSNE-2": 0.9535703659057617,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": -12.546330451965332,
-        "TSNE-2": -2.4642789363861084,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": 2.4507875442504883,
-        "TSNE-2": -5.640883445739746,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": 12.961688041687012,
-        "TSNE-2": 4.937800407409668,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": -4.0982136726379395,
-        "TSNE-2": -9.321823120117188,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": 0.7064359188079834,
-        "TSNE-2": 0.5891652703285217,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": -6.666319847106934,
-        "TSNE-2": -2.0141851902008057,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 8.493803977966309,
-        "TSNE-2": 0.3683180809020996,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": -3.113856077194214,
-        "TSNE-2": 3.013988733291626,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -6.39140510559082,
-        "TSNE-2": 3.552550792694092,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": 8.704144477844238,
-        "TSNE-2": 8.440582275390625,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": -4.958115577697754,
-        "TSNE-2": -0.9686844944953918,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -7.27431583404541,
-        "TSNE-2": -3.926832437515259,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 0.4251469671726227,
-        "TSNE-2": 7.213911056518555,
+        "TSNE-1": -3.451105833053589,
+        "TSNE-2": -11.609861373901367,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": 6.411303997039795,
-        "TSNE-2": 2.8112549781799316,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": 0.5970601439476013,
-        "TSNE-2": 1.9028818607330322,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": 5.656199932098389,
-        "TSNE-2": 5.947062969207764,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": -4.815310001373291,
-        "TSNE-2": 2.7434115409851074,
+        "TSNE-1": 8.06164836883545,
+        "TSNE-2": 5.284374713897705,
         "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
+        "keywords": "price, fare, market, cost, normal"
       },
       {
-        "TSNE-1": 10.802867889404297,
-        "TSNE-2": -2.4671740531921387,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
+        "TSNE-1": 16.02303123474121,
+        "TSNE-2": 3.2727320194244385,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
       },
       {
-        "TSNE-1": -6.215773582458496,
-        "TSNE-2": 11.452589988708496,
+        "TSNE-1": -0.8325093388557434,
+        "TSNE-2": -18.485124588012695,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": -9.65183162689209,
-        "TSNE-2": -10.718920707702637,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
+        "TSNE-1": 8.76170539855957,
+        "TSNE-2": 12.584538459777832,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
       },
       {
-        "TSNE-1": 7.036344051361084,
-        "TSNE-2": 9.79835319519043,
+        "TSNE-1": -14.655258178710938,
+        "TSNE-2": -4.043463706970215,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": -4.524572372436523,
+        "TSNE-2": 2.4038217067718506,
         "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
+        "keywords": "current, significant, increase, potential, coast"
       },
       {
-        "TSNE-1": -4.58781623840332,
-        "TSNE-2": 4.872825622558594,
+        "TSNE-1": -2.7884938716888428,
+        "TSNE-2": 12.84723949432373,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": -4.274482727050781,
+        "TSNE-2": -2.687014579772949,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": -3.0421879291534424,
+        "TSNE-2": -1.091361403465271,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": -1.7244575023651123,
+        "TSNE-2": -4.595839977264404,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 4.529940128326416,
+        "TSNE-2": 7.532556056976318,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": -0.8519539833068848,
+        "TSNE-2": 2.75449275970459,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 1.5549591779708862,
+        "TSNE-2": 2.7594664096832275,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": -7.655522346496582,
+        "TSNE-2": 7.2816596031188965,
+        "cluster": 4,
+        "keywords": "current, significant, increase, potential, coast"
+      },
+      {
+        "TSNE-1": 4.758006572723389,
+        "TSNE-2": 9.81869125366211,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": -4.919651031494141,
+        "TSNE-2": 0.49423134326934814,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": -5.579436302185059,
+        "TSNE-2": -5.084242820739746,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": -2.069559335708618,
+        "TSNE-2": -2.7227365970611572,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 0.9616969227790833,
+        "TSNE-2": -9.583502769470215,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": -7.633524417877197,
-        "TSNE-2": 5.6653618812561035,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": -16.72040367126465,
-        "TSNE-2": -0.9477344751358032,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": 1.929660677909851,
-        "TSNE-2": 0.9317373633384705,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": 10.802867889404297,
-        "TSNE-2": -2.4671740531921387,
+        "TSNE-1": -13.303712844848633,
+        "TSNE-2": -7.746838092803955,
         "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
+        "keywords": "railway, rail, ticket, public, plan"
       },
       {
-        "TSNE-1": -5.327154636383057,
-        "TSNE-2": -5.655872821807861,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -12.115255355834961,
-        "TSNE-2": 2.463043451309204,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": 0.1916041076183319,
-        "TSNE-2": 5.172609806060791,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": 5.560678958892822,
-        "TSNE-2": -7.922962665557861,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": 3.3965330123901367,
-        "TSNE-2": 7.75956392288208,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": 1.34739089012146,
-        "TSNE-2": -7.630005836486816,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": -1.351261019706726,
-        "TSNE-2": -14.132121086120605,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": 10.320155143737793,
-        "TSNE-2": -6.065574645996094,
+        "TSNE-1": -8.716769218444824,
+        "TSNE-2": -11.178400993347168,
         "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
+        "keywords": "railway, rail, ticket, public, plan"
       },
       {
-        "TSNE-1": -9.006430625915527,
-        "TSNE-2": 0.5813208222389221,
+        "TSNE-1": 2.7884602546691895,
+        "TSNE-2": 12.52883243560791,
         "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
+        "keywords": "financial, subsidy, structure, inefficiency, high"
       },
       {
-        "TSNE-1": -5.1686787605285645,
-        "TSNE-2": 11.013154029846191,
+        "TSNE-1": -8.452751159667969,
+        "TSNE-2": -4.89823579788208,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": -0.7372916340827942,
+        "TSNE-2": -6.447685718536377,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 15.36332893371582,
+        "TSNE-2": -4.202162265777588,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": -3.4112982749938965,
+        "TSNE-2": 1.4737590551376343,
+        "cluster": 4,
+        "keywords": "current, significant, increase, potential, coast"
+      },
+      {
+        "TSNE-1": 0.9616969227790833,
+        "TSNE-2": -9.583502769470215,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": -7.2041425704956055,
-        "TSNE-2": 0.7641160488128662,
+        "TSNE-1": -4.170416355133057,
+        "TSNE-2": 12.918455123901367,
         "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
+        "keywords": "financial, subsidy, structure, inefficiency, high"
       },
       {
-        "TSNE-1": -3.4958717823028564,
-        "TSNE-2": -2.820513963699341,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -3.7404210567474365,
-        "TSNE-2": 1.57904851436615,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -4.911477088928223,
-        "TSNE-2": -3.643339157104492,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 5.7498555183410645,
-        "TSNE-2": -2.893991470336914,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": 5.715498447418213,
-        "TSNE-2": -0.36534982919692993,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": 4.979115962982178,
-        "TSNE-2": -3.362058401107788,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": -10.40250015258789,
-        "TSNE-2": 9.138120651245117,
-        "cluster": 5,
-        "keywords": "online, bid, necessarily, whole, franchise"
-      },
-      {
-        "TSNE-1": 1.608151912689209,
-        "TSNE-2": -10.612103462219238,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": 2.7474377155303955,
-        "TSNE-2": 4.202775955200195,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": -2.185809373855591,
-        "TSNE-2": -3.9728894233703613,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 2.651273727416992,
-        "TSNE-2": -2.261228561401367,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 3.1201014518737793,
-        "TSNE-2": 6.181295394897461,
-        "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
-      },
-      {
-        "TSNE-1": 1.608151912689209,
-        "TSNE-2": -10.612103462219238,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": 9.764915466308594,
-        "TSNE-2": -6.85258674621582,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": -8.974671363830566,
-        "TSNE-2": -10.428564071655273,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": -9.330399513244629,
-        "TSNE-2": -4.986750602722168,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": 13.310769081115723,
-        "TSNE-2": -1.2681937217712402,
-        "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
-      },
-      {
-        "TSNE-1": -1.351261019706726,
-        "TSNE-2": -14.132121086120605,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
-      },
-      {
-        "TSNE-1": -1.962639331817627,
-        "TSNE-2": 5.756519794464111,
+        "TSNE-1": 5.310827732086182,
+        "TSNE-2": -14.556275367736816,
         "cluster": 2,
-        "keywords": "billion, cost, operating, policy, plan"
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": -7.27431583404541,
-        "TSNE-2": -3.926832437515259,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
+        "TSNE-1": -4.286390781402588,
+        "TSNE-2": 9.751638412475586,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
       },
       {
-        "TSNE-1": 4.4584879875183105,
-        "TSNE-2": -14.082426071166992,
-        "cluster": 3,
-        "keywords": "article, would, train, british, bring"
+        "TSNE-1": -3.6698389053344727,
+        "TSNE-2": -13.360468864440918,
+        "cluster": 2,
+        "keywords": "article, whole, state, stand, today"
       },
       {
-        "TSNE-1": 13.530073165893555,
-        "TSNE-2": 6.320119380950928,
+        "TSNE-1": -6.605100631713867,
+        "TSNE-2": -2.377244710922241,
         "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
+        "keywords": "railway, rail, ticket, public, plan"
       },
       {
-        "TSNE-1": -6.754839897155762,
-        "TSNE-2": -12.367583274841309,
+        "TSNE-1": 0.283172607421875,
+        "TSNE-2": -13.56244945526123,
+        "cluster": 2,
+        "keywords": "article, whole, state, stand, today"
+      },
+      {
+        "TSNE-1": 11.103392601013184,
+        "TSNE-2": -4.976931095123291,
         "cluster": 3,
-        "keywords": "article, would, train, british, bring"
+        "keywords": "would, online, sector, level, record"
       },
       {
-        "TSNE-1": 1.2835358381271362,
-        "TSNE-2": -1.2566169500350952,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
+        "TSNE-1": 6.3307719230651855,
+        "TSNE-2": -7.028802394866943,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
       },
       {
-        "TSNE-1": 12.897052764892578,
-        "TSNE-2": -3.632173538208008,
+        "TSNE-1": 4.480871677398682,
+        "TSNE-2": -2.9060516357421875,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": -12.758627891540527,
+        "TSNE-2": -6.514115810394287,
         "cluster": 0,
-        "keywords": "record, rail, railway, level, new"
+        "keywords": "railway, rail, ticket, public, plan"
       },
       {
-        "TSNE-1": -0.6380975246429443,
-        "TSNE-2": -2.533295154571533,
-        "cluster": 1,
-        "keywords": "fare, public, ticket, financial, price"
-      },
-      {
-        "TSNE-1": -4.0982136726379395,
-        "TSNE-2": -9.321823120117188,
+        "TSNE-1": 2.8353018760681152,
+        "TSNE-2": -1.6147063970565796,
         "cluster": 3,
-        "keywords": "article, would, train, british, bring"
+        "keywords": "would, online, sector, level, record"
       },
       {
-        "TSNE-1": 4.820755958557129,
-        "TSNE-2": 0.1379396617412567,
+        "TSNE-1": -0.7333853244781494,
+        "TSNE-2": 5.713741302490234,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": -1.589648723602295,
+        "TSNE-2": -0.5396748185157776,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 1.1638073921203613,
+        "TSNE-2": 5.397859573364258,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 0.7919730544090271,
+        "TSNE-2": 9.080011367797852,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 8.425183296203613,
+        "TSNE-2": 7.135288715362549,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": 1.5739972591400146,
+        "TSNE-2": 8.316561698913574,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 10.377970695495605,
+        "TSNE-2": -11.030364036560059,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": 8.519732475280762,
+        "TSNE-2": -1.1100212335586548,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": -8.930290222167969,
+        "TSNE-2": 3.4664196968078613,
         "cluster": 4,
-        "keywords": "wastage, may, inefficiency, since, nationalisation"
+        "keywords": "current, significant, increase, potential, coast"
+      },
+      {
+        "TSNE-1": 1.4212054014205933,
+        "TSNE-2": -0.6338734030723572,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 1.1830720901489258,
+        "TSNE-2": -4.815446376800537,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": -8.678760528564453,
+        "TSNE-2": -1.5314205884933472,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 8.519732475280762,
+        "TSNE-2": -1.1100212335586548,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": 7.179839134216309,
+        "TSNE-2": -6.213499069213867,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": -7.928420066833496,
+        "TSNE-2": -10.602835655212402,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 4.149482250213623,
+        "TSNE-2": 2.1638011932373047,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": 3.7782022953033447,
+        "TSNE-2": -8.252001762390137,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": 11.103392601013184,
+        "TSNE-2": -4.976931095123291,
+        "cluster": 3,
+        "keywords": "would, online, sector, level, record"
+      },
+      {
+        "TSNE-1": -4.42695951461792,
+        "TSNE-2": -7.220465660095215,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 1.5549591779708862,
+        "TSNE-2": 2.7594664096832275,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 17.421310424804688,
+        "TSNE-2": 2.8873207569122314,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": 8.360010147094727,
+        "TSNE-2": 14.264097213745117,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
+      },
+      {
+        "TSNE-1": -11.669127464294434,
+        "TSNE-2": 9.265270233154297,
+        "cluster": 4,
+        "keywords": "current, significant, increase, potential, coast"
+      },
+      {
+        "TSNE-1": -4.625835418701172,
+        "TSNE-2": 7.6693949699401855,
+        "cluster": 5,
+        "keywords": "financial, subsidy, structure, inefficiency, high"
+      },
+      {
+        "TSNE-1": 3.2613489627838135,
+        "TSNE-2": -10.710497856140137,
+        "cluster": 2,
+        "keywords": "article, whole, state, stand, today"
+      },
+      {
+        "TSNE-1": -6.685430526733398,
+        "TSNE-2": 4.830748081207275,
+        "cluster": 4,
+        "keywords": "current, significant, increase, potential, coast"
+      },
+      {
+        "TSNE-1": -14.655258178710938,
+        "TSNE-2": -4.043463706970215,
+        "cluster": 0,
+        "keywords": "railway, rail, ticket, public, plan"
+      },
+      {
+        "TSNE-1": 7.515023231506348,
+        "TSNE-2": 6.458959579467773,
+        "cluster": 1,
+        "keywords": "price, fare, market, cost, normal"
       }
     ]
   },

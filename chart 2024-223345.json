@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-1df0ce19811a7cc441c4bd395cea40ae"
+    "name": "data-786a50268c481fbcc42a6fc8f1c9c126"
   },
   "datasets": {
-    "data-1df0ce19811a7cc441c4bd395cea40ae": [
+    "data-786a50268c481fbcc42a6fc8f1c9c126": [
       {
-        "TSNE-1": -5.4088454246521,
-        "TSNE-2": 1.3209739923477173,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": -6.623644828796387,
-        "TSNE-2": -7.6568603515625,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": -11.034640312194824,
-        "TSNE-2": -2.236628532409668,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": 7.944258689880371,
-        "TSNE-2": 0.6542309522628784,
+        "TSNE-1": -2.8358559608459473,
+        "TSNE-2": 5.642364025115967,
         "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
+        "keywords": "complexity, economy, commission, modern, level"
       },
       {
-        "TSNE-1": -11.001646995544434,
-        "TSNE-2": -2.219130277633667,
+        "TSNE-1": 10.416285514831543,
+        "TSNE-2": 2.0056087970733643,
         "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
+        "keywords": "agency, federal, great, administrative, war"
       },
       {
-        "TSNE-1": -7.119002819061279,
-        "TSNE-2": 7.919660568237305,
+        "TSNE-1": 8.615994453430176,
+        "TSNE-2": 5.798267841339111,
         "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
+        "keywords": "number, regulation, since, growth, rule"
       },
       {
-        "TSNE-1": 3.142423152923584,
-        "TSNE-2": -3.051114320755005,
+        "TSNE-1": 0.03351984918117523,
+        "TSNE-2": -8.00109577178955,
         "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
+        "keywords": "advertising, discusses, context, employment, question"
       },
       {
-        "TSNE-1": -0.158057302236557,
-        "TSNE-2": 5.5727362632751465,
+        "TSNE-1": 8.108223915100098,
+        "TSNE-2": 5.591770172119141,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": -7.890727996826172,
+        "TSNE-2": -8.967238426208496,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
+      },
+      {
+        "TSNE-1": 2.445301055908203,
+        "TSNE-2": -4.59026575088501,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -4.112116813659668,
+        "TSNE-2": 7.131382465362549,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
+      },
+      {
+        "TSNE-1": 13.422898292541504,
+        "TSNE-2": 2.8032636642456055,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": -14.051856994628906,
+        "TSNE-2": 5.656992435455322,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
       },
       {
-        "TSNE-1": 6.196450233459473,
-        "TSNE-2": 4.507211208343506,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
+        "TSNE-1": 2.486698627471924,
+        "TSNE-2": 3.3882083892822266,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
       },
       {
-        "TSNE-1": 9.846720695495605,
-        "TSNE-2": 2.1351263523101807,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": 0.3837973177433014,
-        "TSNE-2": -3.2483866214752197,
+        "TSNE-1": -3.096532106399536,
+        "TSNE-2": -6.8968119621276855,
         "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
+        "keywords": "advertising, discusses, context, employment, question"
       },
       {
-        "TSNE-1": -5.890207767486572,
-        "TSNE-2": -3.2926018238067627,
+        "TSNE-1": -0.9252914786338806,
+        "TSNE-2": -2.702969551086426,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -0.3825012445449829,
+        "TSNE-2": 5.2248921394348145,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
+      },
+      {
+        "TSNE-1": -1.7756072282791138,
+        "TSNE-2": -12.387431144714355,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
+      },
+      {
+        "TSNE-1": 8.414165496826172,
+        "TSNE-2": 9.341358184814453,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": 9.142276763916016,
+        "TSNE-2": -5.482880115509033,
         "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
+        "keywords": "agency, federal, great, administrative, war"
       },
       {
-        "TSNE-1": 0.06279028207063675,
-        "TSNE-2": 1.1254699230194092,
+        "TSNE-1": -4.112116813659668,
+        "TSNE-2": 7.131382465362549,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
+      },
+      {
+        "TSNE-1": -4.640004634857178,
+        "TSNE-2": 1.097619891166687,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -5.325080394744873,
+        "TSNE-2": -2.435441255569458,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": 0.6668696403503418,
+        "TSNE-2": -13.434492111206055,
         "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
+        "keywords": "advertising, discusses, context, employment, question"
       },
       {
-        "TSNE-1": -3.107866048812866,
-        "TSNE-2": 0.1280602216720581,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": 10.812898635864258,
-        "TSNE-2": -2.615028142929077,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 5.641422271728516,
-        "TSNE-2": -2.4782745838165283,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": -11.17251968383789,
-        "TSNE-2": 4.547914981842041,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": -0.158057302236557,
-        "TSNE-2": 5.5727362632751465,
+        "TSNE-1": -8.218717575073242,
+        "TSNE-2": 3.3281614780426025,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
       },
       {
-        "TSNE-1": 2.5695765018463135,
-        "TSNE-2": -0.6856440305709839,
+        "TSNE-1": 1.1658129692077637,
+        "TSNE-2": -12.54023551940918,
         "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
+        "keywords": "advertising, discusses, context, employment, question"
       },
       {
-        "TSNE-1": 4.483644962310791,
-        "TSNE-2": 2.0295586585998535,
+        "TSNE-1": -0.7159920930862427,
+        "TSNE-2": 11.957844734191895,
         "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
+        "keywords": "complexity, economy, commission, modern, level"
       },
       {
-        "TSNE-1": -2.323395252227783,
-        "TSNE-2": 11.10097885131836,
+        "TSNE-1": 0.2621363401412964,
+        "TSNE-2": -1.463410496711731,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -3.6619105339050293,
+        "TSNE-2": 4.211889743804932,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
+      },
+      {
+        "TSNE-1": 4.388094425201416,
+        "TSNE-2": -11.39998722076416,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
+      },
+      {
+        "TSNE-1": 2.0945420265197754,
+        "TSNE-2": -5.1406569480896,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -0.9876307845115662,
+        "TSNE-2": -11.908026695251465,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
+      },
+      {
+        "TSNE-1": -7.087506294250488,
+        "TSNE-2": -7.752997398376465,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
+      },
+      {
+        "TSNE-1": 0.1167886033654213,
+        "TSNE-2": 8.97587776184082,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
+      },
+      {
+        "TSNE-1": -8.82005786895752,
+        "TSNE-2": -4.08626127243042,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -1.7719122171401978,
+        "TSNE-2": -1.573446273803711,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": 5.496516704559326,
+        "TSNE-2": 9.617751121520996,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": 8.056563377380371,
+        "TSNE-2": 0.4970337450504303,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 4.7186198234558105,
+        "TSNE-2": -6.148360252380371,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 4.502673625946045,
+        "TSNE-2": 2.653846263885498,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 4.533482074737549,
+        "TSNE-2": 0.27222466468811035,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 1.4092726707458496,
+        "TSNE-2": 1.5091651678085327,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -1.5423481464385986,
+        "TSNE-2": 3.0388877391815186,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": 9.566356658935547,
+        "TSNE-2": 2.904268264770508,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": -3.5021979808807373,
+        "TSNE-2": -3.4565789699554443,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -1.7747552394866943,
+        "TSNE-2": 0.3380546569824219,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": 4.404078006744385,
+        "TSNE-2": 4.8264360427856445,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": -7.196017265319824,
+        "TSNE-2": 2.7683205604553223,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
       },
       {
-        "TSNE-1": 1.3517392873764038,
-        "TSNE-2": -8.387207984924316,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": -1.5331132411956787,
-        "TSNE-2": 11.186105728149414,
+        "TSNE-1": -11.254378318786621,
+        "TSNE-2": -0.3471745252609253,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
       },
       {
-        "TSNE-1": -4.8947038650512695,
-        "TSNE-2": 3.010058641433716,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": 0.1582663357257843,
-        "TSNE-2": -0.27817559242248535,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": -1.7088227272033691,
-        "TSNE-2": 3.467172145843506,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": 1.8933717012405396,
-        "TSNE-2": -11.886388778686523,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": 3.278451442718506,
-        "TSNE-2": -2.978156805038452,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 10.266325950622559,
-        "TSNE-2": -2.713512897491455,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": -6.283833026885986,
-        "TSNE-2": 7.030074596405029,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": -2.7140767574310303,
-        "TSNE-2": 4.905645847320557,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": 6.174261569976807,
-        "TSNE-2": 9.710494041442871,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -0.8962966203689575,
-        "TSNE-2": 0.951495349407196,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 1.8575893640518188,
-        "TSNE-2": 1.4024357795715332,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": -8.81064224243164,
-        "TSNE-2": -3.3229408264160156,
+        "TSNE-1": 5.600411891937256,
+        "TSNE-2": -6.677058219909668,
         "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
+        "keywords": "agency, federal, great, administrative, war"
       },
       {
-        "TSNE-1": 7.1481499671936035,
-        "TSNE-2": 7.4161858558654785,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -1.9865509271621704,
-        "TSNE-2": -4.402840614318848,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": -9.525909423828125,
-        "TSNE-2": -0.08258706331253052,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": -3.810445547103882,
-        "TSNE-2": 5.634325981140137,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": 0.24921263754367828,
-        "TSNE-2": 3.2133820056915283,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -7.025955677032471,
-        "TSNE-2": -6.621803283691406,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": 3.362623453140259,
-        "TSNE-2": 1.3138562440872192,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -1.8247302770614624,
-        "TSNE-2": 1.914440631866455,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": -3.2356622219085693,
-        "TSNE-2": -3.8236682415008545,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": 0.9645789265632629,
-        "TSNE-2": -7.35169792175293,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": 7.280366897583008,
-        "TSNE-2": -7.448411464691162,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 7.412465572357178,
-        "TSNE-2": 6.820138931274414,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": 8.127232551574707,
-        "TSNE-2": 2.42901873588562,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": 0.3837973177433014,
-        "TSNE-2": -3.2483866214752197,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 1.3660452365875244,
-        "TSNE-2": -6.812905788421631,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": 1.9876829385757446,
-        "TSNE-2": -4.523254871368408,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 8.62503719329834,
-        "TSNE-2": 2.5108301639556885,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -1.1816635131835938,
-        "TSNE-2": 1.3667097091674805,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": -5.740997791290283,
-        "TSNE-2": -3.3120782375335693,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": 1.475104570388794,
-        "TSNE-2": 0.4864414930343628,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 2.115391731262207,
-        "TSNE-2": -11.981501579284668,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": 0.8399173021316528,
-        "TSNE-2": -1.4644474983215332,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": -7.833139896392822,
-        "TSNE-2": 3.393430233001709,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": -7.512024879455566,
-        "TSNE-2": -0.41061440110206604,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": -3.564542770385742,
-        "TSNE-2": 11.994359016418457,
+        "TSNE-1": -13.703263282775879,
+        "TSNE-2": 3.5014255046844482,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
       },
       {
-        "TSNE-1": -10.061593055725098,
-        "TSNE-2": -6.446760654449463,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
+        "TSNE-1": 2.486698627471924,
+        "TSNE-2": 3.3882083892822266,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
       },
       {
-        "TSNE-1": -0.409075528383255,
-        "TSNE-2": -4.757833480834961,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": 3.8160934448242188,
-        "TSNE-2": -5.32093620300293,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 4.955809593200684,
-        "TSNE-2": 1.4204516410827637,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -7.972021579742432,
-        "TSNE-2": -2.1916663646698,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": -4.957054138183594,
-        "TSNE-2": -0.6911218166351318,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": 3.036463499069214,
-        "TSNE-2": 4.280517578125,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -2.5507328510284424,
-        "TSNE-2": 6.451569080352783,
+        "TSNE-1": -6.993687152862549,
+        "TSNE-2": 1.7860976457595825,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
       },
       {
-        "TSNE-1": -8.472108840942383,
-        "TSNE-2": -0.6618677973747253,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
+        "TSNE-1": -2.4938251972198486,
+        "TSNE-2": 9.501704216003418,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
       },
       {
-        "TSNE-1": -2.715048313140869,
-        "TSNE-2": 10.629097938537598,
+        "TSNE-1": -13.25649356842041,
+        "TSNE-2": 4.22585916519165,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
       },
       {
-        "TSNE-1": -0.9093917608261108,
-        "TSNE-2": -0.6002663969993591,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": -11.17251968383789,
-        "TSNE-2": 4.547914981842041,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": -3.471719980239868,
-        "TSNE-2": -1.8990070819854736,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": -2.1575241088867188,
-        "TSNE-2": -7.773602485656738,
+        "TSNE-1": -2.245124578475952,
+        "TSNE-2": -0.8968325853347778,
         "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
       },
       {
-        "TSNE-1": 2.4028210639953613,
-        "TSNE-2": 4.405913829803467,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -6.477129936218262,
-        "TSNE-2": -5.632695198059082,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": -2.8432819843292236,
-        "TSNE-2": -7.599798202514648,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": -3.471719980239868,
-        "TSNE-2": -1.8990070819854736,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": -0.3779883086681366,
-        "TSNE-2": -6.8704962730407715,
-        "cluster": 4,
-        "keywords": "statutory, authority, rule, expertise, area"
-      },
-      {
-        "TSNE-1": 4.309795379638672,
-        "TSNE-2": 7.181735038757324,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -3.3790500164031982,
-        "TSNE-2": 3.0099568367004395,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": 7.264601707458496,
-        "TSNE-2": -7.492249965667725,
+        "TSNE-1": -3.208763599395752,
+        "TSNE-2": -6.267456531524658,
         "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
+        "keywords": "advertising, discusses, context, employment, question"
       },
       {
-        "TSNE-1": -10.061593055725098,
-        "TSNE-2": -6.446760654449463,
-        "cluster": 0,
-        "keywords": "federal, agency, since, great, war"
-      },
-      {
-        "TSNE-1": -1.3514662981033325,
-        "TSNE-2": -2.236207962036133,
-        "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
-      },
-      {
-        "TSNE-1": 0.24921263754367828,
-        "TSNE-2": 3.2133820056915283,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": -7.778830528259277,
-        "TSNE-2": 4.077310562133789,
+        "TSNE-1": 5.1023125648498535,
+        "TSNE-2": 8.422740936279297,
         "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
+        "keywords": "number, regulation, since, growth, rule"
       },
       {
-        "TSNE-1": -7.594096660614014,
-        "TSNE-2": 8.245530128479004,
-        "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
-      },
-      {
-        "TSNE-1": 4.734696388244629,
-        "TSNE-2": 5.032987117767334,
-        "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
-      },
-      {
-        "TSNE-1": 5.207385540008545,
-        "TSNE-2": -1.5717779397964478,
+        "TSNE-1": 3.689079999923706,
+        "TSNE-2": -11.356481552124023,
         "cluster": 2,
-        "keywords": "congress, regulatory, complexity, public, specialized"
+        "keywords": "advertising, discusses, context, employment, question"
       },
       {
-        "TSNE-1": 0.29038846492767334,
-        "TSNE-2": 7.132844924926758,
+        "TSNE-1": 4.177725315093994,
+        "TSNE-2": 6.825343132019043,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": -13.520904541015625,
+        "TSNE-2": 1.757103443145752,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
       },
       {
-        "TSNE-1": -3.262080192565918,
-        "TSNE-2": 1.2933965921401978,
+        "TSNE-1": 5.384274005889893,
+        "TSNE-2": -1.6157182455062866,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": -0.7478247284889221,
+        "TSNE-2": -14.717629432678223,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
+      },
+      {
+        "TSNE-1": 4.494148254394531,
+        "TSNE-2": 13.225170135498047,
         "cluster": 5,
-        "keywords": "act, legislative, kennedy, responsible, executive"
+        "keywords": "number, regulation, since, growth, rule"
       },
       {
-        "TSNE-1": 6.174261569976807,
-        "TSNE-2": 9.710494041442871,
+        "TSNE-1": 2.025125503540039,
+        "TSNE-2": -2.3845510482788086,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -3.89878249168396,
+        "TSNE-2": 10.872145652770996,
         "cluster": 1,
-        "keywords": "administrative, many, provide, people, regulation"
+        "keywords": "complexity, economy, commission, modern, level"
       },
       {
-        "TSNE-1": 2.5076000690460205,
-        "TSNE-2": 9.413711547851562,
+        "TSNE-1": -6.196902751922607,
+        "TSNE-2": -2.884056568145752,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": 7.443464279174805,
+        "TSNE-2": -0.8922088742256165,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 2.4224069118499756,
+        "TSNE-2": 9.97691535949707,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": 5.820536136627197,
+        "TSNE-2": 3.0919442176818848,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 0.16279348731040955,
+        "TSNE-2": 2.450423002243042,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": 5.607761859893799,
+        "TSNE-2": -0.41489729285240173,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 0.9586583375930786,
+        "TSNE-2": -14.261810302734375,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
+      },
+      {
+        "TSNE-1": -0.16362828016281128,
+        "TSNE-2": -0.4012904465198517,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": 9.142276763916016,
+        "TSNE-2": -5.482880115509033,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 1.6352977752685547,
+        "TSNE-2": 7.501064300537109,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": 11.203526496887207,
+        "TSNE-2": -1.8167128562927246,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 6.152198791503906,
+        "TSNE-2": 2.2090258598327637,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 8.17071533203125,
+        "TSNE-2": 3.3110759258270264,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 12.358121871948242,
+        "TSNE-2": -2.2986645698547363,
+        "cluster": 0,
+        "keywords": "agency, federal, great, administrative, war"
+      },
+      {
+        "TSNE-1": 1.6352977752685547,
+        "TSNE-2": 7.501064300537109,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": -7.002946376800537,
+        "TSNE-2": 4.5741987228393555,
         "cluster": 3,
-        "keywords": "advertising, employment, discusses, mention, context"
+        "keywords": "service, birth, provide, force, continuity"
+      },
+      {
+        "TSNE-1": -11.58411693572998,
+        "TSNE-2": 5.687975883483887,
+        "cluster": 3,
+        "keywords": "service, birth, provide, force, continuity"
+      },
+      {
+        "TSNE-1": -1.0783157348632812,
+        "TSNE-2": 6.457171440124512,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
+      },
+      {
+        "TSNE-1": -10.824220657348633,
+        "TSNE-2": -0.3967418968677521,
+        "cluster": 3,
+        "keywords": "service, birth, provide, force, continuity"
+      },
+      {
+        "TSNE-1": 4.494148254394531,
+        "TSNE-2": 13.225170135498047,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": 1.2751743793487549,
+        "TSNE-2": 5.163271427154541,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
+      },
+      {
+        "TSNE-1": -1.5423481464385986,
+        "TSNE-2": 3.0388877391815186,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -14.528037071228027,
+        "TSNE-2": 2.1791231632232666,
+        "cluster": 3,
+        "keywords": "service, birth, provide, force, continuity"
+      },
+      {
+        "TSNE-1": -8.367021560668945,
+        "TSNE-2": -9.60728931427002,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
+      },
+      {
+        "TSNE-1": 11.97911548614502,
+        "TSNE-2": 5.492914199829102,
+        "cluster": 5,
+        "keywords": "number, regulation, since, growth, rule"
+      },
+      {
+        "TSNE-1": -3.5950615406036377,
+        "TSNE-2": 2.2215962409973145,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -5.775046348571777,
+        "TSNE-2": 8.070096969604492,
+        "cluster": 1,
+        "keywords": "complexity, economy, commission, modern, level"
+      },
+      {
+        "TSNE-1": -3.746757745742798,
+        "TSNE-2": -0.46788209676742554,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": -8.82005786895752,
+        "TSNE-2": -4.08626127243042,
+        "cluster": 4,
+        "keywords": "congress, legislative, specialized, judicial, regulatory"
+      },
+      {
+        "TSNE-1": 0.17572733759880066,
+        "TSNE-2": -8.648329734802246,
+        "cluster": 2,
+        "keywords": "advertising, discusses, context, employment, question"
       }
     ]
   },

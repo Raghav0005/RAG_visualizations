@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-f8ec4a742e8ea2f653bbb697f9902333"
+    "name": "data-27699e2179a88b0d274904544a10d9b1"
   },
   "datasets": {
-    "data-f8ec4a742e8ea2f653bbb697f9902333": [
+    "data-27699e2179a88b0d274904544a10d9b1": [
       {
-        "TSNE-1": -10.014190673828125,
-        "TSNE-2": -12.480118751525879,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
+        "TSNE-1": -7.495997428894043,
+        "TSNE-2": -11.409697532653809,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
       },
       {
-        "TSNE-1": 14.777559280395508,
-        "TSNE-2": -7.23000955581665,
+        "TSNE-1": -12.038493156433105,
+        "TSNE-2": -6.235560894012451,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": 16.701677322387695,
+        "TSNE-2": 4.028756141662598,
         "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
+        "keywords": "document, people, extreme, support, together"
       },
       {
-        "TSNE-1": 2.694483518600464,
-        "TSNE-2": 16.006534576416016,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": 11.062481880187988,
-        "TSNE-2": -2.23856520652771,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": 2.694483518600464,
-        "TSNE-2": 16.006534576416016,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": -21.407941818237305,
-        "TSNE-2": -4.965486526489258,
+        "TSNE-1": -6.756312370300293,
+        "TSNE-2": 6.038313865661621,
         "cluster": 5,
-        "keywords": "nan, space, doc, sensitive, empathetic"
+        "keywords": "space, expectation, perceive, traditional, judgment"
       },
       {
-        "TSNE-1": 7.975394248962402,
-        "TSNE-2": 14.411304473876953,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": -3.946489095687866,
-        "TSNE-2": -0.953779935836792,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": 13.30045223236084,
-        "TSNE-2": 15.80179214477539,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": 18.818687438964844,
-        "TSNE-2": 10.982266426086426,
+        "TSNE-1": 16.701677322387695,
+        "TSNE-2": 4.028756141662598,
         "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
+        "keywords": "document, people, extreme, support, together"
       },
       {
-        "TSNE-1": -0.3122265934944153,
-        "TSNE-2": -1.6192898750305176,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": 15.423839569091797,
-        "TSNE-2": -15.26003360748291,
+        "TSNE-1": 10.456132888793945,
+        "TSNE-2": -2.910623788833618,
         "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
+        "keywords": "document, people, extreme, support, together"
       },
       {
-        "TSNE-1": -8.54694938659668,
-        "TSNE-2": -3.8740732669830322,
+        "TSNE-1": 18.73384666442871,
+        "TSNE-2": 0.3235622048377991,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": 2.151768922805786,
+        "TSNE-2": 2.1190125942230225,
         "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
+        "keywords": "male, perception, lead, stereotype, gender"
       },
       {
-        "TSNE-1": -19.06606101989746,
-        "TSNE-2": 1.11290442943573,
+        "TSNE-1": -10.588875770568848,
+        "TSNE-2": 7.4768877029418945,
         "cluster": 5,
-        "keywords": "nan, space, doc, sensitive, empathetic"
+        "keywords": "space, expectation, perceive, traditional, judgment"
       },
       {
-        "TSNE-1": -17.71702003479004,
-        "TSNE-2": -11.182690620422363,
+        "TSNE-1": -12.316730499267578,
+        "TSNE-2": -12.377467155456543,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": -1.0090610980987549,
+        "TSNE-2": -1.7967865467071533,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": 12.465131759643555,
+        "TSNE-2": 5.984964370727539,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": 5.813621520996094,
+        "TSNE-2": 4.039165019989014,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": 8.618143081665039,
+        "TSNE-2": 14.262738227844238,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": 4.718148231506348,
+        "TSNE-2": -5.308793067932129,
+        "cluster": 0,
+        "keywords": "men, may, feminist, feminism, much"
+      },
+      {
+        "TSNE-1": -12.838638305664062,
+        "TSNE-2": 2.488847017288208,
         "cluster": 5,
-        "keywords": "nan, space, doc, sensitive, empathetic"
+        "keywords": "space, expectation, perceive, traditional, judgment"
       },
       {
-        "TSNE-1": 2.2361903190612793,
-        "TSNE-2": -6.503313064575195,
+        "TSNE-1": 9.04701042175293,
+        "TSNE-2": -10.778613090515137,
         "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
+        "keywords": "men, may, feminist, feminism, much"
       },
       {
-        "TSNE-1": 6.761626720428467,
-        "TSNE-2": 20.268224716186523,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
+        "TSNE-1": 2.151768922805786,
+        "TSNE-2": 2.1190125942230225,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
       },
       {
-        "TSNE-1": -3.946489095687866,
-        "TSNE-2": -0.953779935836792,
+        "TSNE-1": -1.5058690309524536,
+        "TSNE-2": -6.34201192855835,
         "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
+        "keywords": "patriarchal, norm, harmful, predator, brain"
       },
       {
-        "TSNE-1": -6.600067615509033,
-        "TSNE-2": -0.7443662881851196,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
+        "TSNE-1": -3.2435457706451416,
+        "TSNE-2": -12.645873069763184,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
       },
       {
-        "TSNE-1": -7.632335186004639,
-        "TSNE-2": 13.231703758239746,
+        "TSNE-1": -2.442430019378662,
+        "TSNE-2": 13.936476707458496,
         "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
+        "keywords": "woman, judged, connotation, false, problem"
       },
       {
-        "TSNE-1": 9.012782096862793,
-        "TSNE-2": 9.172341346740723,
+        "TSNE-1": -1.0956239700317383,
+        "TSNE-2": 8.046880722045898,
         "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
+        "keywords": "woman, judged, connotation, false, problem"
       },
       {
-        "TSNE-1": -7.8696417808532715,
-        "TSNE-2": 3.318347454071045,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": 6.847910404205322,
-        "TSNE-2": 9.018533706665039,
+        "TSNE-1": -0.8578388690948486,
+        "TSNE-2": 14.830915451049805,
         "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
+        "keywords": "woman, judged, connotation, false, problem"
       },
       {
-        "TSNE-1": -12.000826835632324,
-        "TSNE-2": 7.497730255126953,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": 9.198744773864746,
-        "TSNE-2": 1.1329009532928467,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -7.602963447570801,
-        "TSNE-2": -5.546876430511475,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": 12.563089370727539,
-        "TSNE-2": -1.4162724018096924,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": 5.896605491638184,
-        "TSNE-2": 15.021965980529785,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": 18.21430206298828,
-        "TSNE-2": -1.546787142753601,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -13.172049522399902,
-        "TSNE-2": -16.237407684326172,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": 6.283745288848877,
-        "TSNE-2": 1.871448278427124,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -6.927177429199219,
-        "TSNE-2": 16.853666305541992,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": -10.923545837402344,
-        "TSNE-2": -2.1407768726348877,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": -14.339336395263672,
-        "TSNE-2": 3.867959976196289,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": -3.598320960998535,
-        "TSNE-2": -13.266209602355957,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": -14.57217025756836,
-        "TSNE-2": -3.9269375801086426,
+        "TSNE-1": -9.74560832977295,
+        "TSNE-2": 4.002877235412598,
         "cluster": 5,
-        "keywords": "nan, space, doc, sensitive, empathetic"
+        "keywords": "space, expectation, perceive, traditional, judgment"
       },
       {
-        "TSNE-1": 3.3512022495269775,
-        "TSNE-2": -0.9075050354003906,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": 0.6356839537620544,
-        "TSNE-2": 0.9463157653808594,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": -6.257345676422119,
-        "TSNE-2": -10.892643928527832,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": -2.2920608520507812,
-        "TSNE-2": -10.075092315673828,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": -5.234256744384766,
-        "TSNE-2": -16.695369720458984,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": -5.741153717041016,
-        "TSNE-2": -7.632260322570801,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": -9.175224304199219,
-        "TSNE-2": -1.7579991817474365,
+        "TSNE-1": -2.4999990463256836,
+        "TSNE-2": 5.8887505531311035,
         "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
+        "keywords": "male, perception, lead, stereotype, gender"
       },
       {
-        "TSNE-1": -10.138910293579102,
-        "TSNE-2": 0.7762397527694702,
+        "TSNE-1": 4.929966926574707,
+        "TSNE-2": -1.3817729949951172,
         "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
+        "keywords": "male, perception, lead, stereotype, gender"
       },
       {
-        "TSNE-1": -16.60651206970215,
-        "TSNE-2": -4.714401721954346,
+        "TSNE-1": -5.577282428741455,
+        "TSNE-2": 6.445702075958252,
         "cluster": 5,
-        "keywords": "nan, space, doc, sensitive, empathetic"
+        "keywords": "space, expectation, perceive, traditional, judgment"
       },
       {
-        "TSNE-1": 10.490848541259766,
-        "TSNE-2": -11.535951614379883,
+        "TSNE-1": 18.940486907958984,
+        "TSNE-2": 2.1456756591796875,
         "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
+        "keywords": "document, people, extreme, support, together"
       },
       {
-        "TSNE-1": -6.287474155426025,
-        "TSNE-2": 9.028711318969727,
+        "TSNE-1": -5.067516803741455,
+        "TSNE-2": 10.581049919128418,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": 12.891256332397461,
+        "TSNE-2": 0.8832585215568542,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": 6.677893161773682,
+        "TSNE-2": 9.13025951385498,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": -2.387094259262085,
+        "TSNE-2": -15.558704376220703,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": -2.683264970779419,
+        "TSNE-2": 2.12931752204895,
         "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
+        "keywords": "male, perception, lead, stereotype, gender"
       },
       {
-        "TSNE-1": 15.492525100708008,
-        "TSNE-2": 10.776725769042969,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -0.3122265934944153,
-        "TSNE-2": -1.6192898750305176,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": -2.5721890926361084,
-        "TSNE-2": -4.627741813659668,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": 0.5117891430854797,
-        "TSNE-2": -13.209787368774414,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": 18.818687438964844,
-        "TSNE-2": 10.982266426086426,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -10.96492862701416,
-        "TSNE-2": -3.985229015350342,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": 10.490848541259766,
-        "TSNE-2": -11.535951614379883,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -8.164554595947266,
-        "TSNE-2": 5.772673606872559,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": 7.891354084014893,
-        "TSNE-2": 6.701294422149658,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": 6.33974027633667,
-        "TSNE-2": -5.37588357925415,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": 16.065940856933594,
-        "TSNE-2": 2.107553243637085,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": 2.8130033016204834,
-        "TSNE-2": 10.374646186828613,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": 5.915097236633301,
-        "TSNE-2": 7.4613518714904785,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": -0.4500931203365326,
-        "TSNE-2": 8.834646224975586,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": 3.1096253395080566,
-        "TSNE-2": 2.807004690170288,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": 0.480653315782547,
-        "TSNE-2": 13.395490646362305,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": -5.237811088562012,
-        "TSNE-2": 11.127850532531738,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": 3.8977534770965576,
-        "TSNE-2": -2.6315290927886963,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": -12.958632469177246,
-        "TSNE-2": -8.378790855407715,
+        "TSNE-1": -10.031750679016113,
+        "TSNE-2": -2.3411693572998047,
         "cluster": 5,
-        "keywords": "nan, space, doc, sensitive, empathetic"
+        "keywords": "space, expectation, perceive, traditional, judgment"
       },
       {
-        "TSNE-1": -3.4858226776123047,
-        "TSNE-2": 5.96669864654541,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": -16.0103816986084,
-        "TSNE-2": 8.191661834716797,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": -8.74486255645752,
-        "TSNE-2": -8.476536750793457,
+        "TSNE-1": 3.853095531463623,
+        "TSNE-2": -7.692015647888184,
         "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
+        "keywords": "men, may, feminist, feminism, much"
       },
       {
-        "TSNE-1": 14.873412132263184,
-        "TSNE-2": 8.02314567565918,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -0.7704612612724304,
-        "TSNE-2": -6.877416610717773,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": 6.761626720428467,
-        "TSNE-2": 20.268224716186523,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": 5.836573123931885,
-        "TSNE-2": -18.551584243774414,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": -5.210086345672607,
-        "TSNE-2": 2.3521788120269775,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": 0.5816479921340942,
-        "TSNE-2": 4.623280048370361,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": -1.9441015720367432,
-        "TSNE-2": 2.3311283588409424,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": -15.879693984985352,
-        "TSNE-2": 1.8443394899368286,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": 5.836573123931885,
-        "TSNE-2": -18.551584243774414,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": 5.2613959312438965,
-        "TSNE-2": -11.51984977722168,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": 16.071611404418945,
-        "TSNE-2": 13.345847129821777,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": -11.16130542755127,
-        "TSNE-2": 4.950267314910889,
-        "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
-      },
-      {
-        "TSNE-1": 15.423839569091797,
-        "TSNE-2": -15.26003360748291,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -0.4500931203365326,
-        "TSNE-2": 8.834646224975586,
-        "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
-      },
-      {
-        "TSNE-1": -5.048953533172607,
-        "TSNE-2": -3.4535655975341797,
-        "cluster": 3,
-        "keywords": "negative, extreme, stereotype, misunderstood, male"
-      },
-      {
-        "TSNE-1": -2.2920608520507812,
-        "TSNE-2": -10.075092315673828,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
-      },
-      {
-        "TSNE-1": 10.585859298706055,
-        "TSNE-2": -5.185457706451416,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": 11.728594779968262,
-        "TSNE-2": 4.269659042358398,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -33.56796646118164,
-        "TSNE-2": 11.847711563110352,
+        "TSNE-1": -5.022871494293213,
+        "TSNE-2": 2.751974582672119,
         "cluster": 5,
-        "keywords": "nan, space, doc, sensitive, empathetic"
+        "keywords": "space, expectation, perceive, traditional, judgment"
       },
       {
-        "TSNE-1": 2.7780232429504395,
-        "TSNE-2": -8.503653526306152,
-        "cluster": 0,
-        "keywords": "men, feminist, feminism, feel, perception"
+        "TSNE-1": -5.767848014831543,
+        "TSNE-2": -2.039990186691284,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
       },
       {
-        "TSNE-1": 11.728594779968262,
-        "TSNE-2": 4.269659042358398,
-        "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
-      },
-      {
-        "TSNE-1": -13.309183120727539,
-        "TSNE-2": 0.09901617467403412,
+        "TSNE-1": -0.17998340725898743,
+        "TSNE-2": -3.9165291786193848,
         "cluster": 2,
-        "keywords": "lead, often, gender, within, due"
+        "keywords": "male, perception, lead, stereotype, gender"
       },
       {
-        "TSNE-1": -6.927177429199219,
-        "TSNE-2": 16.853666305541992,
+        "TSNE-1": -0.26591598987579346,
+        "TSNE-2": 2.32745623588562,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": -4.002060890197754,
+        "TSNE-2": -5.221282005310059,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": -7.159789085388184,
+        "TSNE-2": 15.391093254089355,
         "cluster": 1,
-        "keywords": "may, document, woman, judged, man"
+        "keywords": "woman, judged, connotation, false, problem"
       },
       {
-        "TSNE-1": 15.580190658569336,
-        "TSNE-2": -1.704685091972351,
+        "TSNE-1": 0.6517953872680664,
+        "TSNE-2": 19.617816925048828,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": -1.8962041139602661,
+        "TSNE-2": 3.2318687438964844,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": 3.109550714492798,
+        "TSNE-2": -3.7532529830932617,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": -6.131681442260742,
+        "TSNE-2": 1.1695741415023804,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
+      },
+      {
+        "TSNE-1": 12.69785213470459,
+        "TSNE-2": -6.962742328643799,
         "cluster": 4,
-        "keywords": "people, weak, reject, many, use"
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": -2.865206718444824,
+        "TSNE-2": -8.580632209777832,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": 9.401327133178711,
+        "TSNE-2": 0.6724602580070496,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": -1.0090610980987549,
+        "TSNE-2": -1.7967865467071533,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": -8.432820320129395,
+        "TSNE-2": -4.696162223815918,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": -6.566254615783691,
+        "TSNE-2": -6.773092746734619,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": -12.316730499267578,
+        "TSNE-2": -12.377467155456543,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": 3.612823247909546,
+        "TSNE-2": 4.412957191467285,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": 12.69785213470459,
+        "TSNE-2": -6.962742328643799,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": -3.2334814071655273,
+        "TSNE-2": 0.2800144553184509,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": -0.7255423069000244,
+        "TSNE-2": 12.504438400268555,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": -10.660112380981445,
+        "TSNE-2": 0.5301321148872375,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
+      },
+      {
+        "TSNE-1": -14.381468772888184,
+        "TSNE-2": 8.470545768737793,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
+      },
+      {
+        "TSNE-1": 0.975119948387146,
+        "TSNE-2": 5.58359432220459,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": 0.3673652112483978,
+        "TSNE-2": 13.9922513961792,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": 17.20726203918457,
+        "TSNE-2": -9.623835563659668,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": 4.043188571929932,
+        "TSNE-2": 10.138379096984863,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": 2.054034471511841,
+        "TSNE-2": 7.725440979003906,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": -4.621804237365723,
+        "TSNE-2": -9.528534889221191,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": -4.358296871185303,
+        "TSNE-2": -2.134498357772827,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": -12.843053817749023,
+        "TSNE-2": -2.3533458709716797,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
+      },
+      {
+        "TSNE-1": -7.467841148376465,
+        "TSNE-2": -1.2949271202087402,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
+      },
+      {
+        "TSNE-1": 3.6340436935424805,
+        "TSNE-2": -11.132281303405762,
+        "cluster": 0,
+        "keywords": "men, may, feminist, feminism, much"
+      },
+      {
+        "TSNE-1": 2.220791816711426,
+        "TSNE-2": 18.607099533081055,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": 0.15998519957065582,
+        "TSNE-2": -11.048007011413574,
+        "cluster": 0,
+        "keywords": "men, may, feminist, feminism, much"
+      },
+      {
+        "TSNE-1": 5.448297023773193,
+        "TSNE-2": 1.1979358196258545,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": 9.04701042175293,
+        "TSNE-2": -10.778613090515137,
+        "cluster": 0,
+        "keywords": "men, may, feminist, feminism, much"
+      },
+      {
+        "TSNE-1": 6.804266452789307,
+        "TSNE-2": -16.264299392700195,
+        "cluster": 0,
+        "keywords": "men, may, feminist, feminism, much"
+      },
+      {
+        "TSNE-1": 9.605348587036133,
+        "TSNE-2": 8.528335571289062,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": 2.005470037460327,
+        "TSNE-2": -1.8328880071640015,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": 5.370889186859131,
+        "TSNE-2": 7.188625812530518,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": 0.9987263679504395,
+        "TSNE-2": -7.848080635070801,
+        "cluster": 0,
+        "keywords": "men, may, feminist, feminism, much"
+      },
+      {
+        "TSNE-1": 6.804266452789307,
+        "TSNE-2": -16.264299392700195,
+        "cluster": 0,
+        "keywords": "men, may, feminist, feminism, much"
+      },
+      {
+        "TSNE-1": 5.366954803466797,
+        "TSNE-2": 12.314576148986816,
+        "cluster": 1,
+        "keywords": "woman, judged, connotation, false, problem"
+      },
+      {
+        "TSNE-1": 8.037537574768066,
+        "TSNE-2": 1.497916340827942,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": -8.583012580871582,
+        "TSNE-2": 2.5440526008605957,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
+      },
+      {
+        "TSNE-1": 12.465131759643555,
+        "TSNE-2": 5.984964370727539,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": 17.20726203918457,
+        "TSNE-2": -9.623835563659668,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": 0.6200928092002869,
+        "TSNE-2": -0.022957818582654,
+        "cluster": 2,
+        "keywords": "male, perception, lead, stereotype, gender"
+      },
+      {
+        "TSNE-1": -4.002060890197754,
+        "TSNE-2": -5.221282005310059,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": -8.796809196472168,
+        "TSNE-2": 10.722268104553223,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
+      },
+      {
+        "TSNE-1": 13.641671180725098,
+        "TSNE-2": -1.58931565284729,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": -14.513628959655762,
+        "TSNE-2": 2.7514731884002686,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
+      },
+      {
+        "TSNE-1": 13.641671180725098,
+        "TSNE-2": -1.58931565284729,
+        "cluster": 4,
+        "keywords": "document, people, extreme, support, together"
+      },
+      {
+        "TSNE-1": 7.421663284301758,
+        "TSNE-2": -4.893747329711914,
+        "cluster": 0,
+        "keywords": "men, may, feminist, feminism, much"
+      },
+      {
+        "TSNE-1": -2.387094259262085,
+        "TSNE-2": -15.558704376220703,
+        "cluster": 3,
+        "keywords": "patriarchal, norm, harmful, predator, brain"
+      },
+      {
+        "TSNE-1": -5.7675862312316895,
+        "TSNE-2": 8.76999282836914,
+        "cluster": 5,
+        "keywords": "space, expectation, perceive, traditional, judgment"
       }
     ]
   },

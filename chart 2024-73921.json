@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-3b222e5a8c8beb36585f506b6d19f4d9"
+    "name": "data-ef18a4fee955b0f8483fb0d80956b5e5"
   },
   "datasets": {
-    "data-3b222e5a8c8beb36585f506b6d19f4d9": [
+    "data-ef18a4fee955b0f8483fb0d80956b5e5": [
       {
-        "TSNE-1": 9.898409843444824,
-        "TSNE-2": -8.518895149230957,
-        "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
-      },
-      {
-        "TSNE-1": 13.781294822692871,
-        "TSNE-2": 0.28791680932044983,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": -3.7605299949645996,
-        "TSNE-2": -10.591558456420898,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": -6.341818809509277,
-        "TSNE-2": 3.116197347640991,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": -3.7605299949645996,
-        "TSNE-2": -10.591558456420898,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": -12.220973014831543,
-        "TSNE-2": 0.2048543095588684,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": -5.078422546386719,
-        "TSNE-2": -12.975430488586426,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": 5.409610271453857,
-        "TSNE-2": -5.6995158195495605,
-        "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
-      },
-      {
-        "TSNE-1": 5.020386695861816,
-        "TSNE-2": -7.986378192901611,
-        "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
-      },
-      {
-        "TSNE-1": -8.894184112548828,
-        "TSNE-2": -1.1279875040054321,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 7.2733869552612305,
-        "TSNE-2": 1.1400951147079468,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": -15.416918754577637,
-        "TSNE-2": 3.9266469478607178,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 4.519237995147705,
-        "TSNE-2": 3.495504856109619,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 3.471059560775757,
-        "TSNE-2": -13.101842880249023,
-        "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
-      },
-      {
-        "TSNE-1": -10.377887725830078,
-        "TSNE-2": -4.11130428314209,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": 2.2345738410949707,
-        "TSNE-2": -1.9734983444213867,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 12.999300003051758,
-        "TSNE-2": -6.571384906768799,
-        "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
-      },
-      {
-        "TSNE-1": 5.409610271453857,
-        "TSNE-2": -5.6995158195495605,
-        "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
-      },
-      {
-        "TSNE-1": 1.2358149290084839,
-        "TSNE-2": 0.12205249071121216,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 2.209901809692383,
-        "TSNE-2": 7.1108222007751465,
+        "TSNE-1": 4.2579193115234375,
+        "TSNE-2": -6.0119948387146,
         "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
+        "keywords": "food, time, healthy, meal, fast"
       },
       {
-        "TSNE-1": 1.7969229221343994,
-        "TSNE-2": 13.930426597595215,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
+        "TSNE-1": -5.0671844482421875,
+        "TSNE-2": -0.22256745398044586,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
       },
       {
-        "TSNE-1": -3.434969186782837,
-        "TSNE-2": 4.503536701202393,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 3.0961825847625732,
-        "TSNE-2": 14.324061393737793,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": 11.806880950927734,
-        "TSNE-2": -4.022932052612305,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": 11.628089904785156,
-        "TSNE-2": 6.52223539352417,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": 7.268746376037598,
-        "TSNE-2": -4.01106071472168,
+        "TSNE-1": -7.2447428703308105,
+        "TSNE-2": 9.587322235107422,
         "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
+        "keywords": "lack, adult, barrier, blame, lifestyle"
       },
       {
-        "TSNE-1": -9.0582914352417,
-        "TSNE-2": 3.338294506072998,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": -7.583230018615723,
-        "TSNE-2": -9.384248733520508,
+        "TSNE-1": -0.3734552562236786,
+        "TSNE-2": 6.565163612365723,
         "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
+        "keywords": "excuse, diet, healthier, people, individual"
       },
       {
-        "TSNE-1": -12.02380084991455,
-        "TSNE-2": -5.863331317901611,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": -12.71811580657959,
-        "TSNE-2": -1.0427453517913818,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 6.703792095184326,
-        "TSNE-2": 3.721464157104492,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": 1.205753207206726,
-        "TSNE-2": -9.979323387145996,
+        "TSNE-1": -7.2447428703308105,
+        "TSNE-2": 9.587322235107422,
         "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
+        "keywords": "lack, adult, barrier, blame, lifestyle"
       },
       {
-        "TSNE-1": 3.7320597171783447,
-        "TSNE-2": 2.5053844451904297,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 5.181027889251709,
-        "TSNE-2": -0.3721977174282074,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 2.232283115386963,
-        "TSNE-2": 8.960192680358887,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": 8.722192764282227,
-        "TSNE-2": 5.535240173339844,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": 8.010361671447754,
-        "TSNE-2": 8.543333053588867,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": 3.091733932495117,
-        "TSNE-2": -3.878554105758667,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 8.896780967712402,
-        "TSNE-2": -1.5719234943389893,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": 0.970251202583313,
-        "TSNE-2": -3.8645968437194824,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": -0.6444045305252075,
-        "TSNE-2": -1.5470504760742188,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": -1.1414480209350586,
-        "TSNE-2": -4.244236469268799,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 4.674228191375732,
-        "TSNE-2": 2.0764143466949463,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 2.660684823989868,
-        "TSNE-2": -13.62376594543457,
+        "TSNE-1": -8.205473899841309,
+        "TSNE-2": 3.339510202407837,
         "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
+        "keywords": "lack, adult, barrier, blame, lifestyle"
       },
       {
-        "TSNE-1": -2.2961537837982178,
-        "TSNE-2": 1.8577386140823364,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": -13.10007095336914,
-        "TSNE-2": 7.269636631011963,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 3.1669278144836426,
-        "TSNE-2": 5.930097579956055,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": -8.385100364685059,
-        "TSNE-2": -0.434872031211853,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 7.2733869552612305,
-        "TSNE-2": 1.1400951147079468,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": -1.4651477336883545,
-        "TSNE-2": 0.9733802080154419,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": -5.220198631286621,
-        "TSNE-2": -2.074418783187866,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": -12.739544868469238,
-        "TSNE-2": -6.154449939727783,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": 2.62870717048645,
-        "TSNE-2": 2.2473108768463135,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": -13.10007095336914,
-        "TSNE-2": 7.269636631011963,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 9.297805786132812,
-        "TSNE-2": 2.8585257530212402,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": 0.2905840575695038,
-        "TSNE-2": 13.643527030944824,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": 7.881256580352783,
-        "TSNE-2": -6.338862895965576,
+        "TSNE-1": -9.252421379089355,
+        "TSNE-2": 10.39472484588623,
         "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
+        "keywords": "lack, adult, barrier, blame, lifestyle"
       },
       {
-        "TSNE-1": -7.228947162628174,
-        "TSNE-2": 6.368261337280273,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
+        "TSNE-1": 0.1425548642873764,
+        "TSNE-2": -0.3599148690700531,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
       },
       {
-        "TSNE-1": 5.659207820892334,
-        "TSNE-2": -2.4221866130828857,
+        "TSNE-1": -1.2947204113006592,
+        "TSNE-2": -0.32333070039749146,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": -7.9166789054870605,
+        "TSNE-2": -0.15631552040576935,
         "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
+        "keywords": "eat, busy, reason, dietary, report"
       },
       {
-        "TSNE-1": 0.7239537835121155,
-        "TSNE-2": 15.01021957397461,
+        "TSNE-1": 2.01568341255188,
+        "TSNE-2": -1.859089970588684,
         "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
+        "keywords": "food, time, healthy, meal, fast"
       },
       {
-        "TSNE-1": -6.489194393157959,
-        "TSNE-2": -7.412887096405029,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": -3.8204667568206787,
-        "TSNE-2": -8.199721336364746,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": -5.254172325134277,
-        "TSNE-2": -3.1715500354766846,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": 1.5879188776016235,
-        "TSNE-2": 5.484837532043457,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": 0.2574872672557831,
-        "TSNE-2": 2.2703866958618164,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 10.732528686523438,
-        "TSNE-2": -0.6631794571876526,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": -1.5970081090927124,
-        "TSNE-2": 5.988600730895996,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": 11.578585624694824,
-        "TSNE-2": 2.5515880584716797,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": -3.3085968494415283,
-        "TSNE-2": -5.493309020996094,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
-      },
-      {
-        "TSNE-1": -7.789157867431641,
-        "TSNE-2": 2.6248726844787598,
+        "TSNE-1": 9.443655014038086,
+        "TSNE-2": -4.44704532623291,
         "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
+        "keywords": "weight, metabolism, research, discusses, calorie"
       },
       {
-        "TSNE-1": -6.767531871795654,
-        "TSNE-2": -5.439779758453369,
-        "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
+        "TSNE-1": -3.66496205329895,
+        "TSNE-2": -3.759580612182617,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
       },
       {
-        "TSNE-1": 12.999300003051758,
-        "TSNE-2": -6.571384906768799,
+        "TSNE-1": -2.6166412830352783,
+        "TSNE-2": 14.175066947937012,
         "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
+        "keywords": "lack, adult, barrier, blame, lifestyle"
       },
       {
-        "TSNE-1": -5.11814022064209,
-        "TSNE-2": 10.0330171585083,
+        "TSNE-1": 8.313726425170898,
+        "TSNE-2": -8.709392547607422,
         "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
+        "keywords": "weight, metabolism, research, discusses, calorie"
       },
       {
-        "TSNE-1": 6.404524803161621,
-        "TSNE-2": 6.59306001663208,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": -0.05747801065444946,
-        "TSNE-2": 3.94950532913208,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 1.9395004510879517,
-        "TSNE-2": -6.044569969177246,
-        "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
-      },
-      {
-        "TSNE-1": 5.244335651397705,
-        "TSNE-2": 6.5174031257629395,
-        "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
-      },
-      {
-        "TSNE-1": -5.11814022064209,
-        "TSNE-2": 10.0330171585083,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": -3.774489164352417,
-        "TSNE-2": -6.742367744445801,
+        "TSNE-1": -3.096665382385254,
+        "TSNE-2": 1.4147380590438843,
         "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
+        "keywords": "excuse, diet, healthier, people, individual"
       },
       {
-        "TSNE-1": -7.628714084625244,
-        "TSNE-2": 1.2039990425109863,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
+        "TSNE-1": -7.253377914428711,
+        "TSNE-2": -6.874002456665039,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
       },
       {
-        "TSNE-1": 9.189119338989258,
-        "TSNE-2": -3.494774580001831,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
-      },
-      {
-        "TSNE-1": -15.416918754577637,
-        "TSNE-2": 3.9266469478607178,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": -6.489194393157959,
-        "TSNE-2": -7.412887096405029,
+        "TSNE-1": 0.1425548642873764,
+        "TSNE-2": -0.3599148690700531,
         "cluster": 1,
-        "keywords": "time, adult, lack, barrier, behavior"
+        "keywords": "excuse, diet, healthier, people, individual"
       },
       {
-        "TSNE-1": 7.238288879394531,
-        "TSNE-2": -1.47471022605896,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
+        "TSNE-1": 0.3952666223049164,
+        "TSNE-2": 3.521320104598999,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
       },
       {
-        "TSNE-1": 0.970251202583313,
-        "TSNE-2": -3.8645968437194824,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": -8.131723403930664,
-        "TSNE-2": 6.077147483825684,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 7.683084964752197,
-        "TSNE-2": -11.23974609375,
-        "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
-      },
-      {
-        "TSNE-1": -20.153385162353516,
-        "TSNE-2": 16.25613021850586,
-        "cluster": 2,
-        "keywords": "blame, often, able, suggests, rather"
-      },
-      {
-        "TSNE-1": 3.9003944396972656,
-        "TSNE-2": -0.6723154783248901,
-        "cluster": 5,
-        "keywords": "healthier, unhealthy, excuse, many, reason"
-      },
-      {
-        "TSNE-1": 4.6026811599731445,
-        "TSNE-2": 8.85324764251709,
+        "TSNE-1": 0.12343327701091766,
+        "TSNE-2": -2.5457088947296143,
         "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
+        "keywords": "food, time, healthy, meal, fast"
       },
       {
-        "TSNE-1": 9.280101776123047,
-        "TSNE-2": 0.7594549059867859,
-        "cluster": 4,
-        "keywords": "meal, fast, poor, dietary, scarcity"
+        "TSNE-1": 13.932162284851074,
+        "TSNE-2": -8.000828742980957,
+        "cluster": 2,
+        "keywords": "weight, metabolism, research, discusses, calorie"
       },
       {
-        "TSNE-1": 1.205753207206726,
-        "TSNE-2": -9.979323387145996,
+        "TSNE-1": -3.2099103927612305,
+        "TSNE-2": 7.107479572296143,
         "cluster": 3,
-        "keywords": "healthy, poverty, busy, individual, schedule"
+        "keywords": "lack, adult, barrier, blame, lifestyle"
       },
       {
-        "TSNE-1": -1.2667279243469238,
-        "TSNE-2": 12.496966361999512,
+        "TSNE-1": 13.005060195922852,
+        "TSNE-2": -8.292327880859375,
+        "cluster": 2,
+        "keywords": "weight, metabolism, research, discusses, calorie"
+      },
+      {
+        "TSNE-1": -0.2386879175901413,
+        "TSNE-2": -10.21140193939209,
         "cluster": 0,
-        "keywords": "metabolism, diet, food, people, research"
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 5.496729373931885,
+        "TSNE-2": 8.321446418762207,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": 1.7645013332366943,
+        "TSNE-2": -4.832647323608398,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": -4.757751941680908,
+        "TSNE-2": 3.1872551441192627,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -0.9319778680801392,
+        "TSNE-2": 10.822283744812012,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": 6.897174835205078,
+        "TSNE-2": -8.574732780456543,
+        "cluster": 2,
+        "keywords": "weight, metabolism, research, discusses, calorie"
+      },
+      {
+        "TSNE-1": -8.92370319366455,
+        "TSNE-2": 2.68335223197937,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": 0.31908586621284485,
+        "TSNE-2": -5.879908561706543,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 12.218810081481934,
+        "TSNE-2": 1.543710708618164,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": -3.06719970703125,
+        "TSNE-2": -4.439723014831543,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": 5.40388822555542,
+        "TSNE-2": -1.3280551433563232,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": 2.697929859161377,
+        "TSNE-2": -8.929192543029785,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 4.403905868530273,
+        "TSNE-2": 4.450945854187012,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": 2.604116201400757,
+        "TSNE-2": 4.760018348693848,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": -0.9866411089897156,
+        "TSNE-2": 1.6354457139968872,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": 1.4312562942504883,
+        "TSNE-2": -3.5072598457336426,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": -1.5742828845977783,
+        "TSNE-2": 2.8971757888793945,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": -0.0073933787643909454,
+        "TSNE-2": -8.036176681518555,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": -2.3903231620788574,
+        "TSNE-2": 4.24500036239624,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": -3.9908320903778076,
+        "TSNE-2": -4.806434154510498,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": -2.903846502304077,
+        "TSNE-2": 13.639204978942871,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": 1.7471723556518555,
+        "TSNE-2": 2.208922863006592,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": 10.130842208862305,
+        "TSNE-2": -1.6102904081344604,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": -0.7530346512794495,
+        "TSNE-2": -2.951770782470703,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 6.932131767272949,
+        "TSNE-2": 1.7608375549316406,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": 2.01568341255188,
+        "TSNE-2": -1.859089970588684,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 1.903698444366455,
+        "TSNE-2": 1.4278206825256348,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": -6.8778486251831055,
+        "TSNE-2": 4.934518814086914,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": 6.420230865478516,
+        "TSNE-2": -8.530040740966797,
+        "cluster": 2,
+        "keywords": "weight, metabolism, research, discusses, calorie"
+      },
+      {
+        "TSNE-1": -2.7645249366760254,
+        "TSNE-2": -5.323226451873779,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": 10.130842208862305,
+        "TSNE-2": -1.6102904081344604,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": 5.391654968261719,
+        "TSNE-2": -3.4175901412963867,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 13.068460464477539,
+        "TSNE-2": -6.651232719421387,
+        "cluster": 2,
+        "keywords": "weight, metabolism, research, discusses, calorie"
+      },
+      {
+        "TSNE-1": -5.633430004119873,
+        "TSNE-2": -3.215444564819336,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": 8.657928466796875,
+        "TSNE-2": 4.383665561676025,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": 3.2814154624938965,
+        "TSNE-2": -4.128961086273193,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 14.276037216186523,
+        "TSNE-2": -6.999298572540283,
+        "cluster": 2,
+        "keywords": "weight, metabolism, research, discusses, calorie"
+      },
+      {
+        "TSNE-1": -2.8977866172790527,
+        "TSNE-2": 10.114700317382812,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -5.122404098510742,
+        "TSNE-2": 9.553613662719727,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -6.764257431030273,
+        "TSNE-2": 5.8388895988464355,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": 2.85085129737854,
+        "TSNE-2": 8.215110778808594,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": 2.9895365238189697,
+        "TSNE-2": 2.9743950366973877,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": 2.8245913982391357,
+        "TSNE-2": -0.4962467849254608,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": 2.017209053039551,
+        "TSNE-2": 5.952110767364502,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": -8.12145709991455,
+        "TSNE-2": -3.2620460987091064,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": -5.436615943908691,
+        "TSNE-2": 7.619350433349609,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -0.9841015934944153,
+        "TSNE-2": 5.825830936431885,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": -1.6078333854675293,
+        "TSNE-2": 8.997115135192871,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -7.253377914428711,
+        "TSNE-2": -6.874002456665039,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": -11.980568885803223,
+        "TSNE-2": 4.604869365692139,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -3.0449938774108887,
+        "TSNE-2": -1.4130173921585083,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": 4.040614128112793,
+        "TSNE-2": 2.6450753211975098,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": 6.729005813598633,
+        "TSNE-2": 6.316930770874023,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": -2.2208163738250732,
+        "TSNE-2": -2.0552523136138916,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": -11.980568885803223,
+        "TSNE-2": 4.604869365692139,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -4.434686183929443,
+        "TSNE-2": 8.26929759979248,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": 6.766088962554932,
+        "TSNE-2": 3.282881021499634,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": -0.4936242401599884,
+        "TSNE-2": -4.621246814727783,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 9.443655014038086,
+        "TSNE-2": -4.44704532623291,
+        "cluster": 2,
+        "keywords": "weight, metabolism, research, discusses, calorie"
+      },
+      {
+        "TSNE-1": -2.8977866172790527,
+        "TSNE-2": 10.114700317382812,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -2.144047260284424,
+        "TSNE-2": -7.355494499206543,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": -1.5742828845977783,
+        "TSNE-2": 2.8971757888793945,
+        "cluster": 1,
+        "keywords": "excuse, diet, healthier, people, individual"
+      },
+      {
+        "TSNE-1": -4.462237358093262,
+        "TSNE-2": 5.027977466583252,
+        "cluster": 3,
+        "keywords": "lack, adult, barrier, blame, lifestyle"
+      },
+      {
+        "TSNE-1": -3.330965757369995,
+        "TSNE-2": -8.779061317443848,
+        "cluster": 5,
+        "keywords": "eat, busy, reason, dietary, report"
+      },
+      {
+        "TSNE-1": 4.785479545593262,
+        "TSNE-2": -0.2517127990722656,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": 1.9157909154891968,
+        "TSNE-2": -7.115468978881836,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 3.622222423553467,
+        "TSNE-2": -2.3442296981811523,
+        "cluster": 0,
+        "keywords": "food, time, healthy, meal, fast"
+      },
+      {
+        "TSNE-1": 12.218810081481934,
+        "TSNE-2": 1.543710708618164,
+        "cluster": 4,
+        "keywords": "rather, poor, specific, may, appetite"
+      },
+      {
+        "TSNE-1": 12.498955726623535,
+        "TSNE-2": -5.515313625335693,
+        "cluster": 2,
+        "keywords": "weight, metabolism, research, discusses, calorie"
       }
     ]
   },

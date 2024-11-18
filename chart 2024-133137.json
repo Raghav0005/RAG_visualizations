@@ -7,567 +7,555 @@
     }
   },
   "data": {
-    "name": "data-56b2af316a1e542adc47b944dd4cfca8"
+    "name": "data-cb4e7983f5760e7f17d2949c0f5dd6e9"
   },
   "datasets": {
-    "data-56b2af316a1e542adc47b944dd4cfca8": [
+    "data-cb4e7983f5760e7f17d2949c0f5dd6e9": [
       {
-        "TSNE-1": 0.7389569282531738,
-        "TSNE-2": 0.9426816701889038,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -2.1501262187957764,
-        "TSNE-2": 2.2296316623687744,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": 0.6891729235649109,
-        "TSNE-2": 8.259786605834961,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": 6.130008220672607,
-        "TSNE-2": 0.8216111063957214,
-        "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
-      },
-      {
-        "TSNE-1": 0.6891729235649109,
-        "TSNE-2": 8.259786605834961,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": 16.024477005004883,
-        "TSNE-2": 3.5209555625915527,
-        "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
-      },
-      {
-        "TSNE-1": -9.993220329284668,
-        "TSNE-2": 7.923310279846191,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -4.392714500427246,
-        "TSNE-2": -0.20471744239330292,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": 8.609298706054688,
-        "TSNE-2": -9.391284942626953,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 5.760325908660889,
-        "TSNE-2": -6.277449607849121,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 2.9567391872406006,
-        "TSNE-2": 11.780077934265137,
+        "TSNE-1": -7.173277378082275,
+        "TSNE-2": -6.163021564483643,
         "cluster": 0,
-        "keywords": "school, belonging, likely, student, peer"
+        "keywords": "party, bonding, sense, mateship, australia"
       },
       {
-        "TSNE-1": -15.311356544494629,
-        "TSNE-2": -1.2839282751083374,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": 4.514323711395264,
-        "TSNE-2": 4.948301315307617,
+        "TSNE-1": 7.790002346038818,
+        "TSNE-2": 4.228794574737549,
         "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
+        "keywords": "refer, security, tenancy, social, term"
       },
       {
-        "TSNE-1": -3.4737279415130615,
-        "TSNE-2": 11.548089981079102,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": -9.263076782226562,
-        "TSNE-2": 3.0233020782470703,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -0.46992072463035583,
-        "TSNE-2": -2.5954678058624268,
+        "TSNE-1": -2.035224199295044,
+        "TSNE-2": -9.446639060974121,
         "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "keywords": "landlord, rental, rent, specific, belonging"
       },
       {
-        "TSNE-1": 9.481670379638672,
-        "TSNE-2": 6.079248905181885,
-        "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
-      },
-      {
-        "TSNE-1": -4.392714500427246,
-        "TSNE-2": -0.20471744239330292,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -0.5008646249771118,
-        "TSNE-2": -1.3553028106689453,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": 1.9903521537780762,
-        "TSNE-2": -11.599733352661133,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 8.144079208374023,
-        "TSNE-2": 2.7062973976135254,
-        "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
-      },
-      {
-        "TSNE-1": 2.823306083679199,
-        "TSNE-2": 8.405464172363281,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": 8.645127296447754,
-        "TSNE-2": 2.044245719909668,
-        "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
-      },
-      {
-        "TSNE-1": -3.8859124183654785,
-        "TSNE-2": 4.499756336212158,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -0.6423619389533997,
-        "TSNE-2": 11.142991065979004,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": -2.6381211280822754,
-        "TSNE-2": 0.6854696869850159,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": 8.036270141601562,
-        "TSNE-2": -1.8187583684921265,
-        "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
-      },
-      {
-        "TSNE-1": -8.58866024017334,
-        "TSNE-2": 8.092947959899902,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -9.218135833740234,
-        "TSNE-2": 4.087634086608887,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -13.62173843383789,
-        "TSNE-2": 2.7150747776031494,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": -9.91222858428955,
-        "TSNE-2": -4.411608695983887,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": -0.6023122072219849,
-        "TSNE-2": -10.477163314819336,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 3.1812264919281006,
-        "TSNE-2": 5.31382417678833,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": -1.6807773113250732,
-        "TSNE-2": -5.624894618988037,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 6.070805549621582,
-        "TSNE-2": 10.496517181396484,
+        "TSNE-1": -9.957035064697266,
+        "TSNE-2": 4.0760931968688965,
         "cluster": 0,
-        "keywords": "school, belonging, likely, student, peer"
+        "keywords": "party, bonding, sense, mateship, australia"
       },
       {
-        "TSNE-1": 2.1874148845672607,
-        "TSNE-2": -5.95459508895874,
+        "TSNE-1": -2.035224199295044,
+        "TSNE-2": -9.446639060974121,
         "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "keywords": "landlord, rental, rent, specific, belonging"
       },
       {
-        "TSNE-1": 3.0294535160064697,
-        "TSNE-2": -2.8687312602996826,
+        "TSNE-1": -2.8721110820770264,
+        "TSNE-2": -12.906129837036133,
         "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "keywords": "landlord, rental, rent, specific, belonging"
       },
       {
-        "TSNE-1": -5.3342814445495605,
-        "TSNE-2": 11.136428833007812,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": -1.7167447805404663,
-        "TSNE-2": 7.3231682777404785,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": -5.360295295715332,
-        "TSNE-2": -3.240110158920288,
+        "TSNE-1": 8.090163230895996,
+        "TSNE-2": 1.0461229085922241,
         "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
+        "keywords": "student, bond, university, academic, school"
       },
       {
-        "TSNE-1": -6.82984733581543,
-        "TSNE-2": -2.3462471961975098,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": 2.64047908782959,
-        "TSNE-2": -7.609318256378174,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 1.8693921566009521,
-        "TSNE-2": 5.510716438293457,
+        "TSNE-1": 2.118800640106201,
+        "TSNE-2": 12.671805381774902,
         "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
+        "keywords": "refer, security, tenancy, social, term"
       },
       {
-        "TSNE-1": -2.309051513671875,
-        "TSNE-2": -2.1710562705993652,
+        "TSNE-1": -4.753416061401367,
+        "TSNE-2": 5.816171646118164,
         "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
+        "keywords": "union, context, particularly, relationship, close"
       },
       {
-        "TSNE-1": 5.213981628417969,
-        "TSNE-2": -3.0444624423980713,
+        "TSNE-1": 1.6675114631652832,
+        "TSNE-2": -5.83987283706665,
         "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "keywords": "landlord, rental, rent, specific, belonging"
       },
       {
-        "TSNE-1": -12.959813117980957,
-        "TSNE-2": -1.709641456604004,
+        "TSNE-1": -2.9259817600250244,
+        "TSNE-2": 10.961786270141602,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 7.12645959854126,
+        "TSNE-2": 7.773258209228516,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": 10.45055103302002,
+        "TSNE-2": -5.808167457580566,
         "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
+        "keywords": "student, bond, university, academic, school"
       },
       {
-        "TSNE-1": -0.4639158248901367,
-        "TSNE-2": -12.66236400604248,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 8.224541664123535,
-        "TSNE-2": -5.78507661819458,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 2.9567391872406006,
-        "TSNE-2": 11.780077934265137,
+        "TSNE-1": -11.836456298828125,
+        "TSNE-2": 4.752898693084717,
         "cluster": 0,
-        "keywords": "school, belonging, likely, student, peer"
+        "keywords": "party, bonding, sense, mateship, australia"
       },
       {
-        "TSNE-1": 2.135281801223755,
-        "TSNE-2": -4.791554927825928,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": 5.271437168121338,
-        "TSNE-2": 3.6938464641571045,
+        "TSNE-1": 2.2941057682037354,
+        "TSNE-2": 0.07181146740913391,
         "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
+        "keywords": "australian, experience, strong, form, aspect"
       },
       {
-        "TSNE-1": 4.3516693115234375,
-        "TSNE-2": -4.738277912139893,
+        "TSNE-1": -6.2818756103515625,
+        "TSNE-2": 0.12284722179174423,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 8.090163230895996,
+        "TSNE-2": 1.0461229085922241,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": 2.7135868072509766,
+        "TSNE-2": 1.268701195716858,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": -5.8588738441467285,
+        "TSNE-2": -3.0617575645446777,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": -6.851916313171387,
+        "TSNE-2": 3.375284194946289,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": -4.0728535652160645,
+        "TSNE-2": -8.827908515930176,
         "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "keywords": "landlord, rental, rent, specific, belonging"
       },
       {
-        "TSNE-1": 3.1057894229888916,
-        "TSNE-2": 4.193068504333496,
+        "TSNE-1": -5.865405559539795,
+        "TSNE-2": 3.3983817100524902,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 7.730078220367432,
+        "TSNE-2": -5.172901153564453,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": -7.09736442565918,
+        "TSNE-2": 10.190558433532715,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 6.557714939117432,
+        "TSNE-2": 2.347459316253662,
         "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
+        "keywords": "refer, security, tenancy, social, term"
       },
       {
-        "TSNE-1": -12.959813117980957,
-        "TSNE-2": -1.709641456604004,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
+        "TSNE-1": -2.1219587326049805,
+        "TSNE-2": 1.6938990354537964,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
       },
       {
-        "TSNE-1": -0.37983259558677673,
-        "TSNE-2": -3.9319777488708496,
+        "TSNE-1": -1.8850923776626587,
+        "TSNE-2": -12.006657600402832,
         "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "keywords": "landlord, rental, rent, specific, belonging"
       },
       {
-        "TSNE-1": 10.547806739807129,
-        "TSNE-2": 2.260481119155884,
+        "TSNE-1": -11.836456298828125,
+        "TSNE-2": 4.752898693084717,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 12.691152572631836,
+        "TSNE-2": -0.4552008807659149,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": 1.8206931352615356,
+        "TSNE-2": -2.4888203144073486,
         "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
+        "keywords": "australian, experience, strong, form, aspect"
       },
       {
-        "TSNE-1": -3.3842012882232666,
-        "TSNE-2": -4.185033798217773,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
+        "TSNE-1": -3.709969997406006,
+        "TSNE-2": -3.633138656616211,
+        "cluster": 2,
+        "keywords": "landlord, rental, rent, specific, belonging"
       },
       {
-        "TSNE-1": 10.89185905456543,
-        "TSNE-2": -0.6765203475952148,
-        "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
-      },
-      {
-        "TSNE-1": 0.6165988445281982,
-        "TSNE-2": 4.1164960861206055,
+        "TSNE-1": 5.610661506652832,
+        "TSNE-2": 8.378924369812012,
         "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
+        "keywords": "refer, security, tenancy, social, term"
       },
       {
-        "TSNE-1": 7.422693252563477,
-        "TSNE-2": -5.077194690704346,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": -1.8635013103485107,
-        "TSNE-2": 14.293717384338379,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": -9.002889633178711,
-        "TSNE-2": -7.968499183654785,
+        "TSNE-1": 9.838955879211426,
+        "TSNE-2": -1.6018097400665283,
         "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
+        "keywords": "student, bond, university, academic, school"
       },
       {
-        "TSNE-1": -9.339727401733398,
-        "TSNE-2": -9.371912002563477,
+        "TSNE-1": 12.468297004699707,
+        "TSNE-2": 1.1111482381820679,
         "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
+        "keywords": "student, bond, university, academic, school"
       },
       {
-        "TSNE-1": -0.6023122072219849,
-        "TSNE-2": -10.477163314819336,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "TSNE-1": -12.814038276672363,
+        "TSNE-2": -1.4563190937042236,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
       },
       {
-        "TSNE-1": 3.668407678604126,
-        "TSNE-2": -1.6449590921401978,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "TSNE-1": -10.147607803344727,
+        "TSNE-2": -2.65315842628479,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
       },
       {
-        "TSNE-1": -6.115707874298096,
-        "TSNE-2": 1.395256757736206,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
+        "TSNE-1": 12.061758041381836,
+        "TSNE-2": -5.30580997467041,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
       },
       {
-        "TSNE-1": 3.4713971614837646,
-        "TSNE-2": -0.0231277197599411,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "TSNE-1": 5.549801349639893,
+        "TSNE-2": -6.443281173706055,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
       },
       {
-        "TSNE-1": -3.3467438220977783,
-        "TSNE-2": 7.134250640869141,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
+        "TSNE-1": 5.565175533294678,
+        "TSNE-2": -2.3230857849121094,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
       },
       {
-        "TSNE-1": 2.4649312496185303,
-        "TSNE-2": 6.920585632324219,
-        "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
-      },
-      {
-        "TSNE-1": 9.488679885864258,
-        "TSNE-2": -2.275001049041748,
+        "TSNE-1": 4.176824569702148,
+        "TSNE-2": -1.2701640129089355,
         "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
+        "keywords": "australian, experience, strong, form, aspect"
       },
       {
-        "TSNE-1": -8.456384658813477,
-        "TSNE-2": -3.3346028327941895,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
+        "TSNE-1": -13.924036026000977,
+        "TSNE-2": -3.1835458278656006,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
       },
       {
-        "TSNE-1": 9.481670379638672,
-        "TSNE-2": 6.079248905181885,
-        "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
-      },
-      {
-        "TSNE-1": -5.4260945320129395,
-        "TSNE-2": -6.66409158706665,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": -4.932511329650879,
-        "TSNE-2": -10.84594440460205,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": 2.399587392807007,
-        "TSNE-2": -1.194112777709961,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": -5.664979934692383,
-        "TSNE-2": 6.567838668823242,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -5.857133865356445,
-        "TSNE-2": -12.614233016967773,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": -5.4260945320129395,
-        "TSNE-2": -6.66409158706665,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": -8.433854103088379,
-        "TSNE-2": -6.77288818359375,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": 6.966457366943359,
-        "TSNE-2": -6.9771270751953125,
-        "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
-      },
-      {
-        "TSNE-1": -4.428006649017334,
-        "TSNE-2": 3.145486831665039,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -15.311356544494629,
-        "TSNE-2": -1.2839282751083374,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": -1.8635013103485107,
-        "TSNE-2": 14.293717384338379,
+        "TSNE-1": 4.314826965332031,
+        "TSNE-2": 7.9481658935546875,
         "cluster": 4,
-        "keywords": "rental, amount, refer, security, tenancy"
+        "keywords": "refer, security, tenancy, social, term"
       },
       {
-        "TSNE-1": -9.37374210357666,
-        "TSNE-2": -1.6121922731399536,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": -5.252548694610596,
-        "TSNE-2": -2.6216423511505127,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -10.373265266418457,
-        "TSNE-2": 3.549741744995117,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -13.695466995239258,
-        "TSNE-2": -4.774254322052002,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": 15.320029258728027,
-        "TSNE-2": 3.5359127521514893,
+        "TSNE-1": 0.8971224427223206,
+        "TSNE-2": 1.5131231546401978,
         "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
+        "keywords": "australian, experience, strong, form, aspect"
       },
       {
-        "TSNE-1": -0.8509105443954468,
-        "TSNE-2": 0.23505648970603943,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
+        "TSNE-1": -9.1725492477417,
+        "TSNE-2": -1.1026732921600342,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
       },
       {
-        "TSNE-1": -11.379290580749512,
-        "TSNE-2": -4.360363483428955,
-        "cluster": 1,
-        "keywords": "university, bond, experience, academic, study"
-      },
-      {
-        "TSNE-1": -7.243735313415527,
-        "TSNE-2": -0.3139491677284241,
-        "cluster": 3,
-        "keywords": "party, support, cultural, social, among"
-      },
-      {
-        "TSNE-1": -0.6023122072219849,
-        "TSNE-2": -10.477163314819336,
+        "TSNE-1": 2.8947324752807617,
+        "TSNE-2": -8.520005226135254,
         "cluster": 2,
-        "keywords": "bonding, australia, mateship, australian, family"
+        "keywords": "landlord, rental, rent, specific, belonging"
       },
       {
-        "TSNE-1": 10.180464744567871,
-        "TSNE-2": -2.796175241470337,
+        "TSNE-1": -3.0696218013763428,
+        "TSNE-2": -5.333937644958496,
+        "cluster": 2,
+        "keywords": "landlord, rental, rent, specific, belonging"
+      },
+      {
+        "TSNE-1": -2.6722660064697266,
+        "TSNE-2": 5.130575656890869,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 1.6675114631652832,
+        "TSNE-2": -5.83987283706665,
+        "cluster": 2,
+        "keywords": "landlord, rental, rent, specific, belonging"
+      },
+      {
+        "TSNE-1": -11.83008861541748,
+        "TSNE-2": -1.0311691761016846,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 8.006387710571289,
+        "TSNE-2": 9.326070785522461,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": -9.796276092529297,
+        "TSNE-2": 0.6830003261566162,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 5.7376861572265625,
+        "TSNE-2": 7.251041412353516,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": 2.8947324752807617,
+        "TSNE-2": -8.520005226135254,
+        "cluster": 2,
+        "keywords": "landlord, rental, rent, specific, belonging"
+      },
+      {
+        "TSNE-1": 1.0885627269744873,
+        "TSNE-2": -0.036985740065574646,
         "cluster": 5,
-        "keywords": "nan, sense, relationship, close, refers"
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": -4.195595741271973,
+        "TSNE-2": 1.6471824645996094,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": 7.686209201812744,
+        "TSNE-2": -3.094513177871704,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": -1.3503497838974,
+        "TSNE-2": -1.2378252744674683,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": 4.088216781616211,
+        "TSNE-2": 10.242356300354004,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": -3.4770865440368652,
+        "TSNE-2": 4.4842047691345215,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 13.077259063720703,
+        "TSNE-2": 6.311969757080078,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": 0.7222713828086853,
+        "TSNE-2": 4.339049816131592,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": 0.511886715888977,
+        "TSNE-2": 5.534261226654053,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": -3.709969997406006,
+        "TSNE-2": -3.633138656616211,
+        "cluster": 2,
+        "keywords": "landlord, rental, rent, specific, belonging"
+      },
+      {
+        "TSNE-1": -9.785781860351562,
+        "TSNE-2": -3.956658363342285,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 5.9831085205078125,
+        "TSNE-2": -0.004514120519161224,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": -11.107906341552734,
+        "TSNE-2": -4.887614727020264,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 6.6951093673706055,
+        "TSNE-2": -8.352753639221191,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": 3.0193417072296143,
+        "TSNE-2": 8.678178787231445,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": -2.4327709674835205,
+        "TSNE-2": 0.2726241946220398,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": 3.2277584075927734,
+        "TSNE-2": -3.047203302383423,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": -6.2818756103515625,
+        "TSNE-2": 0.12284722179174423,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 0.44730857014656067,
+        "TSNE-2": 8.415189743041992,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 3.137014150619507,
+        "TSNE-2": 5.037953853607178,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": -11.42968463897705,
+        "TSNE-2": -3.4172897338867188,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 10.290643692016602,
+        "TSNE-2": 2.9521422386169434,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": 4.975250244140625,
+        "TSNE-2": 4.580061435699463,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": 0.44730857014656067,
+        "TSNE-2": 8.415189743041992,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 1.4778112173080444,
+        "TSNE-2": 3.5692718029022217,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": -3.3548364639282227,
+        "TSNE-2": 6.524446487426758,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 5.154754638671875,
+        "TSNE-2": 2.964432716369629,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": -2.9259817600250244,
+        "TSNE-2": 10.961786270141602,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 13.077259063720703,
+        "TSNE-2": 6.311969757080078,
+        "cluster": 4,
+        "keywords": "refer, security, tenancy, social, term"
+      },
+      {
+        "TSNE-1": 4.35795783996582,
+        "TSNE-2": -4.00818395614624,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": 5.565175533294678,
+        "TSNE-2": -2.3230857849121094,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": -12.397796630859375,
+        "TSNE-2": 3.644580602645874,
+        "cluster": 0,
+        "keywords": "party, bonding, sense, mateship, australia"
+      },
+      {
+        "TSNE-1": 3.3800323009490967,
+        "TSNE-2": -10.6255464553833,
+        "cluster": 2,
+        "keywords": "landlord, rental, rent, specific, belonging"
+      },
+      {
+        "TSNE-1": 4.641643524169922,
+        "TSNE-2": 1.349668264389038,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
+      },
+      {
+        "TSNE-1": -7.504403114318848,
+        "TSNE-2": 7.102028846740723,
+        "cluster": 3,
+        "keywords": "union, context, particularly, relationship, close"
+      },
+      {
+        "TSNE-1": 7.280831813812256,
+        "TSNE-2": -1.0628516674041748,
+        "cluster": 1,
+        "keywords": "student, bond, university, academic, school"
+      },
+      {
+        "TSNE-1": -3.709969997406006,
+        "TSNE-2": -3.633138656616211,
+        "cluster": 2,
+        "keywords": "landlord, rental, rent, specific, belonging"
+      },
+      {
+        "TSNE-1": -3.066178560256958,
+        "TSNE-2": -0.20849256217479706,
+        "cluster": 5,
+        "keywords": "australian, experience, strong, form, aspect"
       }
     ]
   },

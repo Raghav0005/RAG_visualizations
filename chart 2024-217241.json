@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-ecb9b8f950f52331d203917975455011"
+    "name": "data-8827bd27ac76f10d64223b667696f8d7"
   },
   "datasets": {
-    "data-ecb9b8f950f52331d203917975455011": [
+    "data-8827bd27ac76f10d64223b667696f8d7": [
       {
-        "TSNE-1": -0.40944018959999084,
-        "TSNE-2": -6.698763847351074,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
+        "TSNE-1": -1.0210753679275513,
+        "TSNE-2": -4.385550022125244,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
       },
       {
-        "TSNE-1": 10.776572227478027,
-        "TSNE-2": 6.700580596923828,
+        "TSNE-1": 5.385138988494873,
+        "TSNE-2": -4.313765048980713,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 6.3896894454956055,
+        "TSNE-2": 2.3027122020721436,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": -6.657280921936035,
+        "TSNE-2": 6.317957401275635,
         "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
+        "keywords": "paris, question, begin, agrees, initially"
       },
       {
-        "TSNE-1": 6.7347893714904785,
-        "TSNE-2": -8.853506088256836,
+        "TSNE-1": 6.3896894454956055,
+        "TSNE-2": 2.3027122020721436,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": 7.839213848114014,
+        "TSNE-2": 2.2042760848999023,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": -1.09014892578125,
+        "TSNE-2": 0.0433441698551178,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 4.4815897941589355,
+        "TSNE-2": 11.976446151733398,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": -8.014886856079102,
-        "TSNE-2": -6.391945838928223,
+        "TSNE-1": -4.946971893310547,
+        "TSNE-2": -7.362595558166504,
+        "cluster": 1,
+        "keywords": "would, realizes, marry, parent, want"
+      },
+      {
+        "TSNE-1": -3.1805810928344727,
+        "TSNE-2": 8.395662307739258,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 10.772194862365723,
+        "TSNE-2": -1.130510926246643,
         "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
+        "keywords": "becomes, act, scene, confident, willing"
       },
       {
-        "TSNE-1": 6.7347893714904785,
-        "TSNE-2": -8.853506088256836,
+        "TSNE-1": -0.8307470083236694,
+        "TSNE-2": -1.5282084941864014,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -5.888169288635254,
+        "TSNE-2": 7.058490753173828,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": -8.483315467834473,
+        "TSNE-2": 0.4821840524673462,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": 3.0653133392333984,
+        "TSNE-2": -0.5659526586532593,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -4.941287517547607,
+        "TSNE-2": -0.14856991171836853,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": -1.09014892578125,
+        "TSNE-2": 0.0433441698551178,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 2.2066142559051514,
+        "TSNE-2": -0.6070152521133423,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -0.043145060539245605,
+        "TSNE-2": 1.9426628351211548,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": -5.00753927230835,
+        "TSNE-2": -5.457571506500244,
+        "cluster": 1,
+        "keywords": "would, realizes, marry, parent, want"
+      },
+      {
+        "TSNE-1": 4.537790298461914,
+        "TSNE-2": 2.175078868865967,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": -7.159678936004639,
+        "TSNE-2": 1.5398725271224976,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": -4.261291980743408,
+        "TSNE-2": -2.852963924407959,
+        "cluster": 1,
+        "keywords": "would, realizes, marry, parent, want"
+      },
+      {
+        "TSNE-1": 2.6660406589508057,
+        "TSNE-2": 1.290419340133667,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -2.277231216430664,
+        "TSNE-2": -3.552896499633789,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -6.541909217834473,
+        "TSNE-2": 4.1145758628845215,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": 5.831662178039551,
+        "TSNE-2": 3.5472850799560547,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": -5.344600677490234,
+        "TSNE-2": 1.9109429121017456,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": 9.983875274658203,
+        "TSNE-2": 6.299562931060791,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": 3.6564388275146484,
+        "TSNE-2": 11.791145324707031,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": -15.362627029418945,
-        "TSNE-2": 21.372270584106445,
+        "TSNE-1": -6.803222179412842,
+        "TSNE-2": -3.3203656673431396,
         "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
+        "keywords": "would, realizes, marry, parent, want"
       },
       {
-        "TSNE-1": 7.3168625831604,
-        "TSNE-2": -10.402786254882812,
+        "TSNE-1": -0.5343340635299683,
+        "TSNE-2": -2.1942059993743896,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 0.33089935779571533,
+        "TSNE-2": -6.390830039978027,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -2.8729944229125977,
+        "TSNE-2": 1.3567720651626587,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 1.7356135845184326,
+        "TSNE-2": 5.5244879722595215,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 0.9655293822288513,
+        "TSNE-2": 3.560826063156128,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": -1.4465084075927734,
+        "TSNE-2": 6.137427806854248,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 0.06362013518810272,
+        "TSNE-2": -3.3746538162231445,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 4.658514022827148,
+        "TSNE-2": -2.5968313217163086,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 3.202970504760742,
+        "TSNE-2": -5.368533134460449,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 5.1386799812316895,
+        "TSNE-2": 0.35785001516342163,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": -1.6130948066711426,
+        "TSNE-2": -1.6195205450057983,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -1.9957469701766968,
+        "TSNE-2": 3.1484999656677246,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 0.16881443560123444,
+        "TSNE-2": 5.767138957977295,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": -2.9505908489227295,
+        "TSNE-2": -10.698334693908691,
+        "cluster": 1,
+        "keywords": "would, realizes, marry, parent, want"
+      },
+      {
+        "TSNE-1": 3.2459828853607178,
+        "TSNE-2": 3.7127132415771484,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": -11.757345199584961,
+        "TSNE-2": 2.734295129776001,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": -3.1805810928344727,
+        "TSNE-2": 8.395662307739258,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 1.4597617387771606,
+        "TSNE-2": 2.424058198928833,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 6.173133850097656,
+        "TSNE-2": 7.124962329864502,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": 3.1340956687927246,
-        "TSNE-2": -9.023350715637207,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
+        "TSNE-1": -7.696107387542725,
+        "TSNE-2": -0.7702646851539612,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
       },
       {
-        "TSNE-1": 7.899641513824463,
-        "TSNE-2": -0.8221505880355835,
+        "TSNE-1": -2.327155113220215,
+        "TSNE-2": -0.2817610204219818,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 10.528508186340332,
+        "TSNE-2": -1.7370837926864624,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": 1.8374638557434082,
+        "TSNE-2": -2.1516268253326416,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -7.159678936004639,
+        "TSNE-2": 1.5398725271224976,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": 3.8873066902160645,
+        "TSNE-2": -0.9386993050575256,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -6.51020622253418,
+        "TSNE-2": 2.2050514221191406,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": 7.752511978149414,
+        "TSNE-2": 4.001002788543701,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": 2.3147308826446533,
+        "TSNE-2": -8.028050422668457,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 6.346809387207031,
+        "TSNE-2": 11.448153495788574,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": 7.5915656089782715,
-        "TSNE-2": 6.144185543060303,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": -5.015600681304932,
-        "TSNE-2": 6.088542938232422,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": -7.932666301727295,
-        "TSNE-2": -1.7229599952697754,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 1.6358487606048584,
-        "TSNE-2": -7.521261692047119,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": -7.04290246963501,
-        "TSNE-2": -7.139013767242432,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 5.331501483917236,
-        "TSNE-2": 8.48566722869873,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": 0.8124719262123108,
-        "TSNE-2": -0.4079125225543976,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 1.4003374576568604,
-        "TSNE-2": 11.574996948242188,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": 3.1340956687927246,
-        "TSNE-2": -9.023350715637207,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": 0.8960534930229187,
-        "TSNE-2": -1.4967772960662842,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": -1.127278447151184,
-        "TSNE-2": -2.76430344581604,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 5.956417083740234,
-        "TSNE-2": 7.036225318908691,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": 5.96820068359375,
-        "TSNE-2": -7.229966163635254,
+        "TSNE-1": 4.75700569152832,
+        "TSNE-2": 6.538603782653809,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": 3.8926563262939453,
-        "TSNE-2": 5.6907548904418945,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": -6.6704230308532715,
-        "TSNE-2": 8.892938613891602,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": -3.9760727882385254,
-        "TSNE-2": -5.149055004119873,
+        "TSNE-1": 8.552178382873535,
+        "TSNE-2": -4.240956783294678,
         "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
+        "keywords": "becomes, act, scene, confident, willing"
       },
       {
-        "TSNE-1": 3.8749351501464844,
-        "TSNE-2": -6.397302627563477,
+        "TSNE-1": -6.803222179412842,
+        "TSNE-2": -3.3203656673431396,
+        "cluster": 1,
+        "keywords": "would, realizes, marry, parent, want"
+      },
+      {
+        "TSNE-1": 1.2778263092041016,
+        "TSNE-2": 4.577989101409912,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 0.6325310468673706,
+        "TSNE-2": -1.0335876941680908,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -0.06330401450395584,
+        "TSNE-2": 3.948305606842041,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 0.6823986768722534,
+        "TSNE-2": -4.185032367706299,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": 3.4625096321105957,
+        "TSNE-2": -4.235437393188477,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -8.426108360290527,
+        "TSNE-2": -7.628299236297607,
+        "cluster": 1,
+        "keywords": "would, realizes, marry, parent, want"
+      },
+      {
+        "TSNE-1": 3.958930730819702,
+        "TSNE-2": 5.744842052459717,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": -7.163593292236328,
-        "TSNE-2": 0.9968653321266174,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 8.334904670715332,
-        "TSNE-2": -8.418347358703613,
+        "TSNE-1": -0.3636375963687897,
+        "TSNE-2": 9.852472305297852,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": 3.8141911029815674,
-        "TSNE-2": 7.680741786956787,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
+        "TSNE-1": 7.849514007568359,
+        "TSNE-2": -0.6557542681694031,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
       },
       {
-        "TSNE-1": 10.813638687133789,
-        "TSNE-2": 2.3091278076171875,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": -0.5924006104469299,
-        "TSNE-2": 7.02231502532959,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": 1.6602709293365479,
-        "TSNE-2": 2.6183314323425293,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 0.9812051653862,
-        "TSNE-2": -6.0841145515441895,
+        "TSNE-1": -3.3620734214782715,
+        "TSNE-2": 3.768625259399414,
         "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
+        "keywords": "loyalty, family, character, decision, ultimately"
       },
       {
-        "TSNE-1": -0.7297502756118774,
-        "TSNE-2": -10.037233352661133,
+        "TSNE-1": -0.6018711924552917,
+        "TSNE-2": 4.128936767578125,
         "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
+        "keywords": "loyalty, family, character, decision, ultimately"
       },
       {
-        "TSNE-1": 8.56583309173584,
-        "TSNE-2": -5.280906677246094,
+        "TSNE-1": -10.145439147949219,
+        "TSNE-2": -0.6179345846176147,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
+      },
+      {
+        "TSNE-1": -3.8218321800231934,
+        "TSNE-2": 5.282752513885498,
+        "cluster": 5,
+        "keywords": "loyalty, family, character, decision, ultimately"
+      },
+      {
+        "TSNE-1": 7.849514007568359,
+        "TSNE-2": -0.6557542681694031,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
+      },
+      {
+        "TSNE-1": 4.614587783813477,
+        "TSNE-2": 7.3667402267456055,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": -5.233805179595947,
-        "TSNE-2": -1.8374385833740234,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
+        "TSNE-1": -11.636617660522461,
+        "TSNE-2": 2.7247743606567383,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
       },
       {
-        "TSNE-1": -2.5587446689605713,
-        "TSNE-2": -1.8247501850128174,
+        "TSNE-1": 0.9950821399688721,
+        "TSNE-2": 0.47560620307922363,
         "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
+        "keywords": "passionate, shift, personal, nurse, societal"
       },
       {
-        "TSNE-1": -3.7706732749938965,
-        "TSNE-2": -10.582761764526367,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
+        "TSNE-1": 9.799863815307617,
+        "TSNE-2": -3.2977521419525146,
+        "cluster": 2,
+        "keywords": "becomes, act, scene, confident, willing"
       },
       {
-        "TSNE-1": 3.469273328781128,
-        "TSNE-2": -4.78827428817749,
+        "TSNE-1": 5.964702129364014,
+        "TSNE-2": 11.601975440979004,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": -1.4161401987075806,
-        "TSNE-2": -4.470347881317139,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
+        "TSNE-1": -8.793378829956055,
+        "TSNE-2": 4.434304237365723,
+        "cluster": 4,
+        "keywords": "paris, question, begin, agrees, initially"
       },
       {
-        "TSNE-1": -2.2635281085968018,
-        "TSNE-2": 4.549318790435791,
+        "TSNE-1": 4.658514022827148,
+        "TSNE-2": -2.5968313217163086,
+        "cluster": 3,
+        "keywords": "passionate, shift, personal, nurse, societal"
+      },
+      {
+        "TSNE-1": -4.348601818084717,
+        "TSNE-2": -6.9268951416015625,
         "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
+        "keywords": "would, realizes, marry, parent, want"
       },
       {
-        "TSNE-1": -3.0741372108459473,
-        "TSNE-2": 2.216346025466919,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 1.8498252630233765,
-        "TSNE-2": -6.666142463684082,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": 3.6772067546844482,
-        "TSNE-2": -2.1202523708343506,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": -3.8294498920440674,
-        "TSNE-2": -3.378906011581421,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 2.405235528945923,
-        "TSNE-2": -11.598276138305664,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": 0.1762562096118927,
-        "TSNE-2": 1.4768253564834595,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": -13.179778099060059,
-        "TSNE-2": 2.3512542247772217,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": -5.015600681304932,
-        "TSNE-2": 6.088542938232422,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": -1.001206398010254,
-        "TSNE-2": -0.8564054369926453,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 6.022369384765625,
-        "TSNE-2": 0.9671536087989807,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": 6.636889457702637,
-        "TSNE-2": 4.412253379821777,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": 3.0479493141174316,
-        "TSNE-2": -7.519521236419678,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": -7.685971736907959,
-        "TSNE-2": -2.466123580932617,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 1.9214692115783691,
-        "TSNE-2": -2.715829849243164,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 3.8926563262939453,
-        "TSNE-2": 5.6907548904418945,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": -0.6769188046455383,
-        "TSNE-2": 2.866278648376465,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 4.457968711853027,
-        "TSNE-2": 6.555113315582275,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": -4.856215476989746,
-        "TSNE-2": 0.6970452070236206,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 2.030550956726074,
-        "TSNE-2": 6.5823235511779785,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": 6.7151198387146,
-        "TSNE-2": -2.665283441543579,
+        "TSNE-1": 2.857421875,
+        "TSNE-2": 8.032880783081055,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": 4.542970180511475,
-        "TSNE-2": 1.052941083908081,
+        "TSNE-1": 3.8587331771850586,
+        "TSNE-2": -8.096084594726562,
         "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
+        "keywords": "passionate, shift, personal, nurse, societal"
       },
       {
-        "TSNE-1": -10.560831069946289,
-        "TSNE-2": -4.2519049644470215,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 1.6602709293365479,
-        "TSNE-2": 2.6183314323425293,
+        "TSNE-1": 2.3671600818634033,
+        "TSNE-2": -2.9500887393951416,
         "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
+        "keywords": "passionate, shift, personal, nurse, societal"
       },
       {
-        "TSNE-1": -4.023175239562988,
-        "TSNE-2": -1.9040945768356323,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 0.660983145236969,
-        "TSNE-2": -4.662240028381348,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": -2.8164169788360596,
-        "TSNE-2": -0.9217780232429504,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 2.104341506958008,
-        "TSNE-2": -4.813528537750244,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": -2.6685216426849365,
-        "TSNE-2": 3.0855515003204346,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": -9.480707168579102,
-        "TSNE-2": 1.3305174112319946,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 3.587153196334839,
-        "TSNE-2": 0.474482923746109,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 1.4766825437545776,
-        "TSNE-2": 11.767826080322266,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": -8.388359069824219,
-        "TSNE-2": 4.824014186859131,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": 4.913281440734863,
-        "TSNE-2": -13.296645164489746,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": -2.37115216255188,
-        "TSNE-2": -0.13883472979068756,
-        "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
-      },
-      {
-        "TSNE-1": 6.419657230377197,
-        "TSNE-2": 10.0264892578125,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": -5.038270473480225,
-        "TSNE-2": 2.884448528289795,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": -8.388359069824219,
-        "TSNE-2": 4.824014186859131,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": 4.6858415603637695,
-        "TSNE-2": 2.108865976333618,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": -12.870460510253906,
-        "TSNE-2": 2.1827354431152344,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": 5.614274501800537,
-        "TSNE-2": -5.141472816467285,
+        "TSNE-1": 2.409963369369507,
+        "TSNE-2": 11.185367584228516,
         "cluster": 0,
-        "keywords": "marriage, act, scene, love, juliet"
+        "keywords": "juliet, romeo, change, love, marriage"
       },
       {
-        "TSNE-1": -9.066849708557129,
-        "TSNE-2": -3.6652092933654785,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
-      },
-      {
-        "TSNE-1": -4.025198936462402,
-        "TSNE-2": -8.018022537231445,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": 1.384464144706726,
-        "TSNE-2": -9.656208038330078,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": -1.4161401987075806,
-        "TSNE-2": -4.470347881317139,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": 6.598527908325195,
-        "TSNE-2": 6.177195072174072,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": 11.023208618164062,
-        "TSNE-2": 1.9719158411026,
-        "cluster": 4,
-        "keywords": "would, question, initially, fall, agrees"
-      },
-      {
-        "TSNE-1": -1.4613611698150635,
-        "TSNE-2": 10.55373764038086,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": -2.2177114486694336,
-        "TSNE-2": -6.5253095626831055,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": -1.7472152709960938,
-        "TSNE-2": 7.590089321136475,
-        "cluster": 1,
-        "keywords": "romeo, nan, change, becomes, risk"
-      },
-      {
-        "TSNE-1": 0.03398674726486206,
-        "TSNE-2": -8.164740562438965,
-        "cluster": 5,
-        "keywords": "nurse, duty, passionate, societal, sense"
-      },
-      {
-        "TSNE-1": 1.6602709293365479,
-        "TSNE-2": 2.6183314323425293,
+        "TSNE-1": -2.6754610538482666,
+        "TSNE-2": -2.3606672286987305,
         "cluster": 3,
-        "keywords": "decision, parent, ultimately, obedient, express"
+        "keywords": "passionate, shift, personal, nurse, societal"
       },
       {
-        "TSNE-1": -9.456823348999023,
-        "TSNE-2": 1.1783634424209595,
-        "cluster": 2,
-        "keywords": "want, marry, realizes, chosen, paris"
+        "TSNE-1": -6.803222179412842,
+        "TSNE-2": -3.3203656673431396,
+        "cluster": 1,
+        "keywords": "would, realizes, marry, parent, want"
+      },
+      {
+        "TSNE-1": -8.426108360290527,
+        "TSNE-2": -7.628299236297607,
+        "cluster": 1,
+        "keywords": "would, realizes, marry, parent, want"
       }
     ]
   },

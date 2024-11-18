@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-112d1ee64ea6eb1f258fbd3e2ab71d99"
+    "name": "data-d035315091ea9cc8ff93b8844294beec"
   },
   "datasets": {
-    "data-112d1ee64ea6eb1f258fbd3e2ab71d99": [
+    "data-d035315091ea9cc8ff93b8844294beec": [
       {
-        "TSNE-1": 0.500542938709259,
-        "TSNE-2": -4.237670421600342,
+        "TSNE-1": 9.881434440612793,
+        "TSNE-2": -4.183705806732178,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": -0.7205299139022827,
+        "TSNE-2": 14.113253593444824,
         "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
+        "keywords": "president, factual, left, bias, decline"
       },
       {
-        "TSNE-1": -8.993012428283691,
-        "TSNE-2": -1.2764923572540283,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
+        "TSNE-1": -7.608154773712158,
+        "TSNE-2": -5.5437774658203125,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
       },
       {
-        "TSNE-1": 4.45405387878418,
-        "TSNE-2": -11.862669944763184,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": -5.5578083992004395,
-        "TSNE-2": -4.039175033569336,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": 4.45405387878418,
-        "TSNE-2": -11.862669944763184,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": -4.490517616271973,
-        "TSNE-2": 13.133252143859863,
+        "TSNE-1": -7.339724540710449,
+        "TSNE-2": 4.2118401527404785,
         "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
+        "keywords": "failure, correct, sensational, fact, match"
       },
       {
-        "TSNE-1": -5.383220672607422,
-        "TSNE-2": 12.869297981262207,
+        "TSNE-1": -7.608154773712158,
+        "TSNE-2": -5.5437774658203125,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -4.0031328201293945,
+        "TSNE-2": -11.450414657592773,
+        "cluster": 5,
+        "keywords": "percent, adult, news, credible, united"
+      },
+      {
+        "TSNE-1": -4.437597751617432,
+        "TSNE-2": -12.25127124786377,
+        "cluster": 5,
+        "keywords": "percent, adult, news, credible, united"
+      },
+      {
+        "TSNE-1": -0.46159765124320984,
+        "TSNE-2": 0.4669126272201538,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": 13.546905517578125,
+        "TSNE-2": 1.910868525505066,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": -5.75523567199707,
+        "TSNE-2": 9.224931716918945,
         "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
+        "keywords": "failure, correct, sensational, fact, match"
       },
       {
-        "TSNE-1": 2.539883613586426,
-        "TSNE-2": -3.9265120029449463,
+        "TSNE-1": -7.671298027038574,
+        "TSNE-2": -1.1852569580078125,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": 0.684345543384552,
+        "TSNE-2": 7.580228805541992,
         "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
+        "keywords": "president, factual, left, bias, decline"
       },
       {
-        "TSNE-1": -12.865060806274414,
-        "TSNE-2": 1.713704228401184,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": 4.864314556121826,
-        "TSNE-2": 6.799784183502197,
-        "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
-      },
-      {
-        "TSNE-1": 7.293586254119873,
-        "TSNE-2": 12.766349792480469,
-        "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
-      },
-      {
-        "TSNE-1": -11.894023895263672,
-        "TSNE-2": -5.737499713897705,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": 1.4717613458633423,
-        "TSNE-2": -6.566800594329834,
+        "TSNE-1": 1.17515230178833,
+        "TSNE-2": 2.097245454788208,
         "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
+        "keywords": "president, factual, left, bias, decline"
       },
       {
-        "TSNE-1": 7.954253673553467,
-        "TSNE-2": -4.924120903015137,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": 6.19410514831543,
-        "TSNE-2": 6.316495895385742,
-        "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
-      },
-      {
-        "TSNE-1": -0.05126603692770004,
-        "TSNE-2": -0.2867757976055145,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -4.778087615966797,
-        "TSNE-2": -9.907931327819824,
+        "TSNE-1": 2.40704345703125,
+        "TSNE-2": -10.2371244430542,
         "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
+        "keywords": "percent, adult, news, credible, united"
       },
       {
-        "TSNE-1": 2.539883613586426,
-        "TSNE-2": -3.9265120029449463,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": 5.492890357971191,
-        "TSNE-2": -0.34852057695388794,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": -7.633049488067627,
-        "TSNE-2": 2.307145357131958,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 2.5809359550476074,
-        "TSNE-2": 10.001314163208008,
-        "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
-      },
-      {
-        "TSNE-1": -2.8322861194610596,
-        "TSNE-2": 0.972769558429718,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -7.136296272277832,
-        "TSNE-2": -6.180693626403809,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": 10.168963432312012,
-        "TSNE-2": -3.262530565261841,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": -5.336408615112305,
-        "TSNE-2": 5.444248676300049,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 5.314774513244629,
-        "TSNE-2": -3.3603515625,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": -5.987117290496826,
-        "TSNE-2": -3.6755411624908447,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": -3.5387027263641357,
-        "TSNE-2": 3.956277370452881,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 7.292484283447266,
-        "TSNE-2": 8.68485164642334,
-        "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
-      },
-      {
-        "TSNE-1": -4.149503231048584,
-        "TSNE-2": 14.188664436340332,
+        "TSNE-1": -7.651742935180664,
+        "TSNE-2": 9.288080215454102,
         "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
+        "keywords": "failure, correct, sensational, fact, match"
       },
       {
-        "TSNE-1": -12.650494575500488,
-        "TSNE-2": 1.3594404458999634,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": -8.864263534545898,
-        "TSNE-2": 3.9695465564727783,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 2.9657692909240723,
-        "TSNE-2": -5.60580587387085,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": 0.33380842208862305,
-        "TSNE-2": 3.257885694503784,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -4.446498870849609,
-        "TSNE-2": -0.13488945364952087,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 4.92996072769165,
-        "TSNE-2": 1.9253175258636475,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": 3.2209043502807617,
-        "TSNE-2": 1.4588618278503418,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": -7.283808708190918,
-        "TSNE-2": 0.9165167212486267,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 0.6811756491661072,
-        "TSNE-2": -2.628512144088745,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": 8.121644973754883,
-        "TSNE-2": -1.0933094024658203,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": 3.979665994644165,
-        "TSNE-2": -1.7298479080200195,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": -2.1696813106536865,
-        "TSNE-2": 3.2523562908172607,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 4.065435886383057,
-        "TSNE-2": -4.143314838409424,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": -6.089479446411133,
-        "TSNE-2": -0.5186058282852173,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 3.1781694889068604,
-        "TSNE-2": 3.3110382556915283,
+        "TSNE-1": 6.545465469360352,
+        "TSNE-2": -6.557083606719971,
         "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
+        "keywords": "heavily, skewed, recent, meeting, push"
       },
       {
-        "TSNE-1": -10.907482147216797,
-        "TSNE-2": -7.191800594329834,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": -7.230737209320068,
-        "TSNE-2": 4.811992645263672,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -3.619086980819702,
-        "TSNE-2": -3.259850025177002,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": 7.293586254119873,
-        "TSNE-2": 12.766349792480469,
+        "TSNE-1": 11.93168830871582,
+        "TSNE-2": -7.074159145355225,
         "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
+        "keywords": "heavily, skewed, recent, meeting, push"
       },
       {
-        "TSNE-1": 4.81984281539917,
-        "TSNE-2": 3.6342573165893555,
+        "TSNE-1": -0.46159765124320984,
+        "TSNE-2": 0.4669126272201538,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": 3.8330159187316895,
+        "TSNE-2": -7.36293363571167,
         "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
+        "keywords": "heavily, skewed, recent, meeting, push"
       },
       {
-        "TSNE-1": -4.090524673461914,
-        "TSNE-2": 7.36769437789917,
+        "TSNE-1": -3.7535572052001953,
+        "TSNE-2": -4.321706771850586,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -9.647117614746094,
+        "TSNE-2": 4.025125026702881,
         "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
+        "keywords": "failure, correct, sensational, fact, match"
       },
       {
-        "TSNE-1": 6.065164566040039,
-        "TSNE-2": 7.7575225830078125,
-        "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
-      },
-      {
-        "TSNE-1": 2.3867342472076416,
-        "TSNE-2": -6.637803554534912,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": -12.471867561340332,
-        "TSNE-2": -4.2834320068359375,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": -1.3232964277267456,
-        "TSNE-2": -0.645683228969574,
+        "TSNE-1": 4.625417709350586,
+        "TSNE-2": -0.08091235905885696,
         "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
+        "keywords": "cnn, false, story, conspiracy, rating"
       },
       {
-        "TSNE-1": -5.822885990142822,
-        "TSNE-2": -5.791923999786377,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": 0.09492871165275574,
-        "TSNE-2": 1.6113605499267578,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -2.3489718437194824,
-        "TSNE-2": -3.6843819618225098,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": 1.050186276435852,
-        "TSNE-2": 5.482226371765137,
-        "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
-      },
-      {
-        "TSNE-1": -7.1162028312683105,
-        "TSNE-2": -3.5071444511413574,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": -2.501615047454834,
-        "TSNE-2": 6.936528205871582,
+        "TSNE-1": -9.533958435058594,
+        "TSNE-2": 6.277620315551758,
         "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
+        "keywords": "failure, correct, sensational, fact, match"
       },
       {
-        "TSNE-1": -2.0042307376861572,
-        "TSNE-2": 4.8708295822143555,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -0.6879342198371887,
-        "TSNE-2": 4.741363048553467,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -5.7417893409729,
-        "TSNE-2": 3.6723575592041016,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 2.06648850440979,
-        "TSNE-2": -0.9008364081382751,
+        "TSNE-1": -1.0637178421020508,
+        "TSNE-2": -3.853022336959839,
         "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
+        "keywords": "credibility, network, significant, trump, despite"
       },
       {
-        "TSNE-1": 0.5617225766181946,
-        "TSNE-2": -7.912247180938721,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": 3.065175771713257,
-        "TSNE-2": 0.6727626323699951,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": -0.4393126964569092,
-        "TSNE-2": -6.303780555725098,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": -3.071343183517456,
-        "TSNE-2": 2.5838539600372314,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 1.8334205150604248,
-        "TSNE-2": 10.650877952575684,
+        "TSNE-1": 3.12994122505188,
+        "TSNE-2": -3.5958199501037598,
         "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
+        "keywords": "heavily, skewed, recent, meeting, push"
       },
       {
-        "TSNE-1": -1.9180588722229004,
-        "TSNE-2": 2.7486443519592285,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -4.778087615966797,
-        "TSNE-2": -9.907931327819824,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": 10.996956825256348,
-        "TSNE-2": 3.80623197555542,
+        "TSNE-1": 0.9034957885742188,
+        "TSNE-2": -1.198242425918579,
         "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
+        "keywords": "credibility, network, significant, trump, despite"
       },
       {
-        "TSNE-1": -4.950127124786377,
-        "TSNE-2": 2.0105228424072266,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": 1.9078457355499268,
-        "TSNE-2": 2.2681586742401123,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -0.7051982879638672,
-        "TSNE-2": 7.934876441955566,
+        "TSNE-1": -8.060083389282227,
+        "TSNE-2": 4.093566417694092,
         "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
+        "keywords": "failure, correct, sensational, fact, match"
       },
       {
-        "TSNE-1": -0.11342501640319824,
-        "TSNE-2": -9.645758628845215,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": 10.878133773803711,
-        "TSNE-2": 3.524690628051758,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
-      },
-      {
-        "TSNE-1": -3.1282668113708496,
-        "TSNE-2": 5.373687744140625,
+        "TSNE-1": 5.795259952545166,
+        "TSNE-2": -1.1768654584884644,
         "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
+        "keywords": "cnn, false, story, conspiracy, rating"
       },
       {
-        "TSNE-1": 3.7789132595062256,
-        "TSNE-2": 6.755087375640869,
+        "TSNE-1": -10.668876647949219,
+        "TSNE-2": 9.45526123046875,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": -2.9208364486694336,
+        "TSNE-2": -11.374344825744629,
+        "cluster": 5,
+        "keywords": "percent, adult, news, credible, united"
+      },
+      {
+        "TSNE-1": 13.383386611938477,
+        "TSNE-2": 2.2631475925445557,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": -2.977336883544922,
+        "TSNE-2": -6.2135796546936035,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -0.3732345700263977,
+        "TSNE-2": 1.9197862148284912,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 7.377133846282959,
+        "TSNE-2": -4.340967178344727,
         "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
+        "keywords": "heavily, skewed, recent, meeting, push"
       },
       {
-        "TSNE-1": 8.652533531188965,
-        "TSNE-2": -3.2549750804901123,
-        "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
+        "TSNE-1": 10.130162239074707,
+        "TSNE-2": 0.24396750330924988,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
       },
       {
-        "TSNE-1": -11.59906005859375,
-        "TSNE-2": -5.56360387802124,
-        "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
-      },
-      {
-        "TSNE-1": -2.501615047454834,
-        "TSNE-2": 6.936528205871582,
-        "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
-      },
-      {
-        "TSNE-1": 4.990884304046631,
-        "TSNE-2": -6.34326171875,
+        "TSNE-1": 6.465509414672852,
+        "TSNE-2": 7.3663482666015625,
         "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
+        "keywords": "president, factual, left, bias, decline"
       },
       {
-        "TSNE-1": 8.121644973754883,
-        "TSNE-2": -1.0933094024658203,
+        "TSNE-1": 4.058250427246094,
+        "TSNE-2": 5.493183612823486,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": -4.902292251586914,
+        "TSNE-2": 1.431006669998169,
         "cluster": 1,
-        "keywords": "credibility, many, left, decline, trump"
+        "keywords": "credibility, network, significant, trump, despite"
       },
       {
-        "TSNE-1": 5.320467948913574,
-        "TSNE-2": 9.330699920654297,
+        "TSNE-1": -1.7946205139160156,
+        "TSNE-2": 3.511941432952881,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": -2.555720329284668,
+        "TSNE-2": -1.5774489641189575,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -0.34179913997650146,
+        "TSNE-2": 14.55807876586914,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 5.519468307495117,
+        "TSNE-2": -2.633816719055176,
         "cluster": 4,
-        "keywords": "sensational, due, inconsistent, headline, news"
+        "keywords": "heavily, skewed, recent, meeting, push"
       },
       {
-        "TSNE-1": -3.4245176315307617,
-        "TSNE-2": 12.99668025970459,
-        "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
+        "TSNE-1": 1.0073267221450806,
+        "TSNE-2": 0.16724680364131927,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
       },
       {
-        "TSNE-1": 5.681448459625244,
-        "TSNE-2": -10.256742477416992,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": -1.1655486822128296,
-        "TSNE-2": 1.0201876163482666,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -4.919168472290039,
-        "TSNE-2": 8.275840759277344,
-        "cluster": 3,
-        "keywords": "percent, right, probably, credible, bullshit"
-      },
-      {
-        "TSNE-1": 2.5418026447296143,
-        "TSNE-2": -8.711372375488281,
-        "cluster": 2,
-        "keywords": "also, president, fact, check, significant"
-      },
-      {
-        "TSNE-1": -8.864263534545898,
-        "TSNE-2": 3.9695465564727783,
-        "cluster": 0,
-        "keywords": "cnn, false, story, network, push"
-      },
-      {
-        "TSNE-1": -3.1242220401763916,
-        "TSNE-2": -5.271549224853516,
+        "TSNE-1": 0.2607417106628418,
+        "TSNE-2": -8.02558708190918,
         "cluster": 5,
-        "keywords": "failure, correct, bias, spread, even"
+        "keywords": "percent, adult, news, credible, united"
+      },
+      {
+        "TSNE-1": 7.607633590698242,
+        "TSNE-2": -2.391927480697632,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": 2.3370730876922607,
+        "TSNE-2": 9.726550102233887,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": -0.9008190631866455,
+        "TSNE-2": -5.906651973724365,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -7.026678085327148,
+        "TSNE-2": 7.7590131759643555,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": -7.671298027038574,
+        "TSNE-2": -1.1852569580078125,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": 7.301043510437012,
+        "TSNE-2": 5.625523090362549,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": 7.9782915115356445,
+        "TSNE-2": 1.643960952758789,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": -9.190011978149414,
+        "TSNE-2": 9.083494186401367,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": 0.570415735244751,
+        "TSNE-2": 2.991861581802368,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 2.3742551803588867,
+        "TSNE-2": 7.531497955322266,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 5.850139141082764,
+        "TSNE-2": -5.6931233406066895,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": -7.97249174118042,
+        "TSNE-2": 5.922560214996338,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": 4.038934230804443,
+        "TSNE-2": -5.875420570373535,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": -6.99595832824707,
+        "TSNE-2": 9.880379676818848,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": 1.5701104402542114,
+        "TSNE-2": -2.6505494117736816,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": -7.376997470855713,
+        "TSNE-2": 2.8661680221557617,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": 6.54898738861084,
+        "TSNE-2": 1.0304919481277466,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": 7.037230491638184,
+        "TSNE-2": -0.8826597929000854,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": 9.077171325683594,
+        "TSNE-2": -1.82732093334198,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": 3.161072254180908,
+        "TSNE-2": -1.1142452955245972,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": -3.070075035095215,
+        "TSNE-2": 2.315352201461792,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": 3.450118064880371,
+        "TSNE-2": 2.975886583328247,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 3.343625068664551,
+        "TSNE-2": 5.002387046813965,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": -10.188095092773438,
+        "TSNE-2": -3.4589197635650635,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": 4.2024126052856445,
+        "TSNE-2": -2.397683620452881,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": -10.415019035339355,
+        "TSNE-2": 3.2980427742004395,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": 5.134592533111572,
+        "TSNE-2": -2.596726179122925,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": 11.93168830871582,
+        "TSNE-2": -7.074159145355225,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": -3.3617401123046875,
+        "TSNE-2": 6.0780205726623535,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 1.7841883897781372,
+        "TSNE-2": -5.236229419708252,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": 7.806723117828369,
+        "TSNE-2": -8.426423072814941,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": 5.3559465408325195,
+        "TSNE-2": 2.393986463546753,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": 2.8017542362213135,
+        "TSNE-2": 1.7558844089508057,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": -3.409862756729126,
+        "TSNE-2": 6.414745330810547,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 8.227425575256348,
+        "TSNE-2": -0.4829466938972473,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": -4.475155353546143,
+        "TSNE-2": 9.405692100524902,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": -1.4213242530822754,
+        "TSNE-2": -2.7738990783691406,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": 0.5072290897369385,
+        "TSNE-2": 7.937262058258057,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 6.54898738861084,
+        "TSNE-2": 1.0304919481277466,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": -11.005949020385742,
+        "TSNE-2": -0.3148688077926636,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -2.555720329284668,
+        "TSNE-2": -1.5774489641189575,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -11.146392822265625,
+        "TSNE-2": 7.552011013031006,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
+      },
+      {
+        "TSNE-1": -4.194901943206787,
+        "TSNE-2": -10.44325065612793,
+        "cluster": 5,
+        "keywords": "percent, adult, news, credible, united"
+      },
+      {
+        "TSNE-1": -0.2548077404499054,
+        "TSNE-2": 11.16836166381836,
+        "cluster": 2,
+        "keywords": "president, factual, left, bias, decline"
+      },
+      {
+        "TSNE-1": 5.245764255523682,
+        "TSNE-2": -4.350593566894531,
+        "cluster": 4,
+        "keywords": "heavily, skewed, recent, meeting, push"
+      },
+      {
+        "TSNE-1": 8.441400527954102,
+        "TSNE-2": 2.66274356842041,
+        "cluster": 0,
+        "keywords": "cnn, false, story, conspiracy, rating"
+      },
+      {
+        "TSNE-1": -4.346377372741699,
+        "TSNE-2": -0.7596357464790344,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -2.977336883544922,
+        "TSNE-2": -6.2135796546936035,
+        "cluster": 1,
+        "keywords": "credibility, network, significant, trump, despite"
+      },
+      {
+        "TSNE-1": -7.727532386779785,
+        "TSNE-2": 11.181119918823242,
+        "cluster": 3,
+        "keywords": "failure, correct, sensational, fact, match"
       }
     ]
   },

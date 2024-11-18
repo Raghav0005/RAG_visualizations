@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-484c0630312cbd625e7c5e8bcf0a209a"
+    "name": "data-cbdb50f7f89634728b229e7db245eec9"
   },
   "datasets": {
-    "data-484c0630312cbd625e7c5e8bcf0a209a": [
+    "data-cbdb50f7f89634728b229e7db245eec9": [
       {
-        "TSNE-1": -0.6294585466384888,
-        "TSNE-2": -13.575630187988281,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 10.327576637268066,
-        "TSNE-2": -0.787670373916626,
-        "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
-      },
-      {
-        "TSNE-1": 11.073569297790527,
-        "TSNE-2": 9.770157814025879,
-        "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
-      },
-      {
-        "TSNE-1": -0.7185671925544739,
-        "TSNE-2": 4.5538201332092285,
+        "TSNE-1": -6.426934242248535,
+        "TSNE-2": 10.70510196685791,
         "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
+        "keywords": "data, create, element, technology, strategy"
       },
       {
-        "TSNE-1": 11.073569297790527,
-        "TSNE-2": 9.770157814025879,
-        "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
+        "TSNE-1": 1.293392539024353,
+        "TSNE-2": 12.136067390441895,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
       },
       {
-        "TSNE-1": -0.6901662349700928,
-        "TSNE-2": 15.23613452911377,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": -8.153131484985352,
-        "TSNE-2": 10.699975967407227,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": 1.7735406160354614,
-        "TSNE-2": -3.8292429447174072,
+        "TSNE-1": 9.032829284667969,
+        "TSNE-2": -13.006656646728516,
         "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
+        "keywords": "component, individual, complex, mean, relationship"
       },
       {
-        "TSNE-1": 10.597140312194824,
-        "TSNE-2": -11.322455406188965,
+        "TSNE-1": 2.9263954162597656,
+        "TSNE-2": -4.30623722076416,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 9.032829284667969,
+        "TSNE-2": -13.006656646728516,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": -7.645227432250977,
+        "TSNE-2": -10.232383728027344,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": 0.4201701283454895,
+        "TSNE-2": -10.091957092285156,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": -0.5036602020263672,
+        "TSNE-2": 8.811090469360352,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": -0.5202637910842896,
+        "TSNE-2": 16.07709503173828,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": 8.735387802124023,
+        "TSNE-2": -4.543978691101074,
         "cluster": 3,
-        "keywords": "user, various, leader, business, together"
+        "keywords": "human, positive, entire, ethical, social"
       },
       {
-        "TSNE-1": 0.9143553972244263,
-        "TSNE-2": 11.14695930480957,
+        "TSNE-1": -6.95094633102417,
+        "TSNE-2": 8.05636978149414,
         "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
+        "keywords": "data, create, element, technology, strategy"
       },
       {
-        "TSNE-1": -0.7416189312934875,
-        "TSNE-2": -7.358483791351318,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 14.998788833618164,
-        "TSNE-2": 3.8944931030273438,
-        "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
-      },
-      {
-        "TSNE-1": -0.6063131093978882,
-        "TSNE-2": -3.8800506591796875,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": 3.429959297180176,
-        "TSNE-2": 3.900512218475342,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -7.614955425262451,
-        "TSNE-2": 4.528979778289795,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": 3.142287254333496,
-        "TSNE-2": -11.092467308044434,
+        "TSNE-1": 16.96533966064453,
+        "TSNE-2": -7.229568004608154,
         "cluster": 3,
-        "keywords": "user, various, leader, business, together"
+        "keywords": "human, positive, entire, ethical, social"
       },
       {
-        "TSNE-1": 8.275056838989258,
-        "TSNE-2": 4.636584281921387,
-        "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
-      },
-      {
-        "TSNE-1": 1.7735406160354614,
-        "TSNE-2": -3.8292429447174072,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -3.407447338104248,
-        "TSNE-2": -8.185880661010742,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": -13.572437286376953,
-        "TSNE-2": 1.576654314994812,
+        "TSNE-1": 1.1667454242706299,
+        "TSNE-2": 6.8929290771484375,
         "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
+        "keywords": "business, across, responsible, organization, strategically"
       },
       {
-        "TSNE-1": -2.593545436859131,
-        "TSNE-2": 8.473299980163574,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": 7.429999351501465,
-        "TSNE-2": 1.523514747619629,
+        "TSNE-1": 3.3434228897094727,
+        "TSNE-2": 0.05775389075279236,
         "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
+        "keywords": "whole, would, context, rather, involve"
       },
       {
-        "TSNE-1": -6.114116668701172,
-        "TSNE-2": 12.15119743347168,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": -6.7821574211120605,
-        "TSNE-2": -13.03252124786377,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 3.307406187057495,
-        "TSNE-2": -15.190035820007324,
+        "TSNE-1": 12.108501434326172,
+        "TSNE-2": -2.596498966217041,
         "cluster": 3,
-        "keywords": "user, various, leader, business, together"
+        "keywords": "human, positive, entire, ethical, social"
       },
       {
-        "TSNE-1": 3.7646982669830322,
-        "TSNE-2": -7.567896842956543,
-        "cluster": 3,
-        "keywords": "user, various, leader, business, together"
-      },
-      {
-        "TSNE-1": 2.1595258712768555,
-        "TSNE-2": 5.432297706604004,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": -9.596319198608398,
-        "TSNE-2": 12.754061698913574,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": -8.068185806274414,
-        "TSNE-2": 3.6157970428466797,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": -13.495013236999512,
-        "TSNE-2": 9.574360847473145,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": 10.148186683654785,
-        "TSNE-2": -9.833634376525879,
-        "cluster": 3,
-        "keywords": "user, various, leader, business, together"
-      },
-      {
-        "TSNE-1": -14.637523651123047,
-        "TSNE-2": -2.097895860671997,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": 3.091252326965332,
-        "TSNE-2": -5.713883399963379,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -1.7286113500595093,
-        "TSNE-2": -10.129728317260742,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": -6.91478157043457,
-        "TSNE-2": -7.126582145690918,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 4.944417476654053,
-        "TSNE-2": -4.986464977264404,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -6.695201873779297,
-        "TSNE-2": -3.826314926147461,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": -11.063100814819336,
-        "TSNE-2": 9.060562133789062,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": 3.9514167308807373,
-        "TSNE-2": -2.394970655441284,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -6.2575225830078125,
-        "TSNE-2": 1.1508996486663818,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": -2.642240047454834,
-        "TSNE-2": -16.49033546447754,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 6.750799655914307,
-        "TSNE-2": -1.0679912567138672,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": 1.6508967876434326,
-        "TSNE-2": -5.8486647605896,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -1.6862107515335083,
-        "TSNE-2": 0.3059263527393341,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -3.625190258026123,
-        "TSNE-2": -5.235231399536133,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 13.779240608215332,
-        "TSNE-2": -2.940324306488037,
+        "TSNE-1": -3.8246588706970215,
+        "TSNE-2": -3.74589467048645,
         "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
+        "keywords": "whole, would, context, rather, involve"
       },
       {
-        "TSNE-1": -12.493400573730469,
-        "TSNE-2": 0.22993753850460052,
+        "TSNE-1": -12.494998931884766,
+        "TSNE-2": 3.858393430709839,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": -0.5036602020263672,
+        "TSNE-2": 8.811090469360352,
         "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
+        "keywords": "business, across, responsible, organization, strategically"
       },
       {
-        "TSNE-1": 2.63665509223938,
-        "TSNE-2": 8.19990348815918,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": -0.7416189312934875,
-        "TSNE-2": -7.358483791351318,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 0.5052986145019531,
-        "TSNE-2": -0.3279094696044922,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -4.168402671813965,
-        "TSNE-2": 5.236690521240234,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": 1.1033912897109985,
-        "TSNE-2": 14.177802085876465,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": 0.061994802206754684,
-        "TSNE-2": -2.7785160541534424,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": 13.779240608215332,
-        "TSNE-2": -2.940324306488037,
+        "TSNE-1": -3.1275951862335205,
+        "TSNE-2": 0.6803717017173767,
         "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
+        "keywords": "whole, would, context, rather, involve"
       },
       {
-        "TSNE-1": 0.36720141768455505,
-        "TSNE-2": -10.598777770996094,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
+        "TSNE-1": -2.998152494430542,
+        "TSNE-2": -15.962654113769531,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
       },
       {
-        "TSNE-1": 3.716696262359619,
-        "TSNE-2": 7.008584022521973,
+        "TSNE-1": 9.67647933959961,
+        "TSNE-2": -8.12447738647461,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": -0.10169078409671783,
+        "TSNE-2": -0.8136887550354004,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 4.116878986358643,
+        "TSNE-2": -8.648858070373535,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": 4.700803279876709,
+        "TSNE-2": 5.820594310760498,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": -9.498401641845703,
+        "TSNE-2": 10.848847389221191,
         "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
+        "keywords": "data, create, element, technology, strategy"
       },
       {
-        "TSNE-1": 6.270414352416992,
-        "TSNE-2": -10.573405265808105,
+        "TSNE-1": 1.765167474746704,
+        "TSNE-2": 9.993851661682129,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": 4.019968032836914,
+        "TSNE-2": -1.6012303829193115,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 9.343640327453613,
+        "TSNE-2": 7.578487873077393,
         "cluster": 3,
-        "keywords": "user, various, leader, business, together"
+        "keywords": "human, positive, entire, ethical, social"
       },
       {
-        "TSNE-1": -1.6777122020721436,
-        "TSNE-2": 9.749460220336914,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": -1.7970575094223022,
-        "TSNE-2": -2.42868971824646,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": 0.7602097988128662,
-        "TSNE-2": 5.36179256439209,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": -5.744663238525391,
-        "TSNE-2": 8.870923042297363,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": 17.213354110717773,
-        "TSNE-2": 0.05683694779872894,
-        "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
-      },
-      {
-        "TSNE-1": 8.109538078308105,
-        "TSNE-2": 7.279518127441406,
-        "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
-      },
-      {
-        "TSNE-1": -14.637523651123047,
-        "TSNE-2": -2.097895860671997,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": 9.261026382446289,
-        "TSNE-2": -4.065142631530762,
+        "TSNE-1": 11.337363243103027,
+        "TSNE-2": -3.123375177383423,
         "cluster": 3,
-        "keywords": "user, various, leader, business, together"
+        "keywords": "human, positive, entire, ethical, social"
       },
       {
-        "TSNE-1": -3.2992804050445557,
-        "TSNE-2": -12.068381309509277,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": -7.853580474853516,
-        "TSNE-2": -5.33851432800293,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": -10.082940101623535,
-        "TSNE-2": -10.830682754516602,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 4.883091449737549,
-        "TSNE-2": 0.14942070841789246,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": 1.4866000413894653,
-        "TSNE-2": 9.562491416931152,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": 5.675904750823975,
-        "TSNE-2": -2.4194955825805664,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": 8.275056838989258,
-        "TSNE-2": 4.636584281921387,
+        "TSNE-1": -5.142373561859131,
+        "TSNE-2": -9.774250984191895,
         "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
+        "keywords": "whole, would, context, rather, involve"
       },
       {
-        "TSNE-1": -8.835222244262695,
-        "TSNE-2": 8.049032211303711,
+        "TSNE-1": 0.655604898929596,
+        "TSNE-2": 15.117186546325684,
         "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
+        "keywords": "business, across, responsible, organization, strategically"
       },
       {
-        "TSNE-1": -4.744462013244629,
-        "TSNE-2": -2.0243520736694336,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -9.501368522644043,
-        "TSNE-2": -5.569060325622559,
-        "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
-      },
-      {
-        "TSNE-1": 6.9261474609375,
-        "TSNE-2": -5.930607795715332,
+        "TSNE-1": 11.71223258972168,
+        "TSNE-2": 2.9254915714263916,
         "cluster": 3,
-        "keywords": "user, various, leader, business, together"
+        "keywords": "human, positive, entire, ethical, social"
       },
       {
-        "TSNE-1": -3.8833861351013184,
-        "TSNE-2": -0.8540081977844238,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
+        "TSNE-1": -3.021341562271118,
+        "TSNE-2": 6.856814384460449,
+        "cluster": 2,
+        "keywords": "data, create, element, technology, strategy"
       },
       {
-        "TSNE-1": -8.835222244262695,
-        "TSNE-2": 8.049032211303711,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": 17.82779312133789,
-        "TSNE-2": -2.164372444152832,
+        "TSNE-1": -3.732252359390259,
+        "TSNE-2": -1.386711835861206,
         "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
+        "keywords": "whole, would, context, rather, involve"
       },
       {
-        "TSNE-1": 0.7444102168083191,
-        "TSNE-2": 7.459300518035889,
-        "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
-      },
-      {
-        "TSNE-1": -6.4530744552612305,
-        "TSNE-2": -10.293421745300293,
+        "TSNE-1": -13.41510009765625,
+        "TSNE-2": -2.751797676086426,
         "cluster": 0,
-        "keywords": "ai, holistic, system, approach, technology"
+        "keywords": "ai, system, holistic, approach, involves"
       },
       {
-        "TSNE-1": 14.998788833618164,
-        "TSNE-2": 3.8944931030273438,
+        "TSNE-1": -5.500107288360596,
+        "TSNE-2": 2.0402047634124756,
+        "cluster": 2,
+        "keywords": "data, create, element, technology, strategy"
+      },
+      {
+        "TSNE-1": -9.067251205444336,
+        "TSNE-2": -3.1855320930480957,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": -3.151850938796997,
+        "TSNE-2": -9.819185256958008,
         "cluster": 1,
-        "keywords": "human, produce, also, whole, involves"
+        "keywords": "whole, would, context, rather, involve"
       },
       {
-        "TSNE-1": -27.565338134765625,
-        "TSNE-2": 15.762085914611816,
+        "TSNE-1": 0.4359472692012787,
+        "TSNE-2": 4.766918182373047,
         "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
+        "keywords": "business, across, responsible, organization, strategically"
       },
       {
-        "TSNE-1": 2.6077983379364014,
-        "TSNE-2": 0.7080338597297668,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
+        "TSNE-1": -7.342685222625732,
+        "TSNE-2": -0.667516827583313,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
       },
       {
-        "TSNE-1": -6.2575225830078125,
-        "TSNE-2": 1.1508996486663818,
+        "TSNE-1": -1.1707078218460083,
+        "TSNE-2": 11.752967834472656,
         "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
+        "keywords": "business, across, responsible, organization, strategically"
       },
       {
-        "TSNE-1": -2.634575605392456,
-        "TSNE-2": 10.998688697814941,
+        "TSNE-1": -1.1513816118240356,
+        "TSNE-2": 2.408482313156128,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": -3.407809019088745,
+        "TSNE-2": 5.507129669189453,
         "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
+        "keywords": "data, create, element, technology, strategy"
       },
       {
-        "TSNE-1": -12.343740463256836,
-        "TSNE-2": 6.063763618469238,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": -17.8596134185791,
-        "TSNE-2": 2.7045438289642334,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": 1.7106398344039917,
-        "TSNE-2": -10.799110412597656,
-        "cluster": 3,
-        "keywords": "user, various, leader, business, together"
-      },
-      {
-        "TSNE-1": 10.159236907958984,
-        "TSNE-2": -8.20746898651123,
-        "cluster": 3,
-        "keywords": "user, various, leader, business, together"
-      },
-      {
-        "TSNE-1": 2.351922035217285,
-        "TSNE-2": -1.605656623840332,
-        "cluster": 4,
-        "keywords": "strategy, data, across, responsible, comprehensive"
-      },
-      {
-        "TSNE-1": -14.637523651123047,
-        "TSNE-2": -2.097895860671997,
-        "cluster": 5,
-        "keywords": "positive, account, mean, nan, ethical"
-      },
-      {
-        "TSNE-1": -5.0223588943481445,
-        "TSNE-2": 11.320857048034668,
+        "TSNE-1": -3.648183584213257,
+        "TSNE-2": 3.346115827560425,
         "cluster": 2,
-        "keywords": "social, complex, individual, entire, involve"
+        "keywords": "data, create, element, technology, strategy"
+      },
+      {
+        "TSNE-1": -6.293973445892334,
+        "TSNE-2": 3.970649242401123,
+        "cluster": 2,
+        "keywords": "data, create, element, technology, strategy"
+      },
+      {
+        "TSNE-1": 17.77722930908203,
+        "TSNE-2": -3.069159746170044,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": -1.7255030870437622,
+        "TSNE-2": -14.953843116760254,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": 6.6960954666137695,
+        "TSNE-2": -2.909193277359009,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": -6.95094633102417,
+        "TSNE-2": 8.05636978149414,
+        "cluster": 2,
+        "keywords": "data, create, element, technology, strategy"
+      },
+      {
+        "TSNE-1": -3.6761670112609863,
+        "TSNE-2": 10.123744010925293,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": -3.98414945602417,
+        "TSNE-2": -6.648418426513672,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 0.9643662571907043,
+        "TSNE-2": -4.723884582519531,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 0.015581369400024414,
+        "TSNE-2": 7.057208061218262,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": 17.77722930908203,
+        "TSNE-2": -3.069159746170044,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": -1.960622787475586,
+        "TSNE-2": -2.2795491218566895,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 6.191373825073242,
+        "TSNE-2": -1.4120750427246094,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": 3.9531562328338623,
+        "TSNE-2": 2.2628226280212402,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 8.360299110412598,
+        "TSNE-2": -7.56543493270874,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": -5.4080281257629395,
+        "TSNE-2": 6.010520935058594,
+        "cluster": 2,
+        "keywords": "data, create, element, technology, strategy"
+      },
+      {
+        "TSNE-1": 3.0538229942321777,
+        "TSNE-2": -2.5230557918548584,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 1.9116567373275757,
+        "TSNE-2": -8.146127700805664,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": 3.601588249206543,
+        "TSNE-2": -14.49753475189209,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": 5.3989949226379395,
+        "TSNE-2": 10.631568908691406,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": 11.71223258972168,
+        "TSNE-2": 2.9254915714263916,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": -9.066229820251465,
+        "TSNE-2": -5.047732830047607,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": -8.713067054748535,
+        "TSNE-2": 4.064675807952881,
+        "cluster": 2,
+        "keywords": "data, create, element, technology, strategy"
+      },
+      {
+        "TSNE-1": -10.809358596801758,
+        "TSNE-2": -3.629127025604248,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": 3.5307133197784424,
+        "TSNE-2": 8.320013046264648,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": -1.2562158107757568,
+        "TSNE-2": 5.657085418701172,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": 6.770389080047607,
+        "TSNE-2": -5.034440517425537,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": -1.5651633739471436,
+        "TSNE-2": 3.8562021255493164,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": -12.494998931884766,
+        "TSNE-2": 3.858393430709839,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": -1.7858822345733643,
+        "TSNE-2": -8.143182754516602,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": -12.046594619750977,
+        "TSNE-2": 7.916263580322266,
+        "cluster": 2,
+        "keywords": "data, create, element, technology, strategy"
+      },
+      {
+        "TSNE-1": -11.789846420288086,
+        "TSNE-2": -4.553264141082764,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": -4.530609130859375,
+        "TSNE-2": 13.350150108337402,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": -10.31644058227539,
+        "TSNE-2": 7.885152339935303,
+        "cluster": 2,
+        "keywords": "data, create, element, technology, strategy"
+      },
+      {
+        "TSNE-1": -1.7858822345733643,
+        "TSNE-2": -8.143182754516602,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 4.085400581359863,
+        "TSNE-2": -12.407654762268066,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": 5.1147966384887695,
+        "TSNE-2": -3.832156181335449,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": -10.336199760437012,
+        "TSNE-2": 1.2411108016967773,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": 16.96533966064453,
+        "TSNE-2": -7.229568004608154,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": 0.9729698300361633,
+        "TSNE-2": 2.924900770187378,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": -7.342685222625732,
+        "TSNE-2": -0.667516827583313,
+        "cluster": 0,
+        "keywords": "ai, system, holistic, approach, involves"
+      },
+      {
+        "TSNE-1": 7.096250057220459,
+        "TSNE-2": -8.507684707641602,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
+      },
+      {
+        "TSNE-1": 16.502552032470703,
+        "TSNE-2": 3.212625741958618,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": 7.867697715759277,
+        "TSNE-2": 1.534869909286499,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": -2.053226947784424,
+        "TSNE-2": -3.478888988494873,
+        "cluster": 1,
+        "keywords": "whole, would, context, rather, involve"
+      },
+      {
+        "TSNE-1": 2.205237627029419,
+        "TSNE-2": 15.013361930847168,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": -2.5868747234344482,
+        "TSNE-2": 8.889249801635742,
+        "cluster": 5,
+        "keywords": "business, across, responsible, organization, strategically"
+      },
+      {
+        "TSNE-1": 11.71223258972168,
+        "TSNE-2": 2.9254915714263916,
+        "cluster": 3,
+        "keywords": "human, positive, entire, ethical, social"
+      },
+      {
+        "TSNE-1": 4.809199810028076,
+        "TSNE-2": -7.61098051071167,
+        "cluster": 4,
+        "keywords": "component, individual, complex, mean, relationship"
       }
     ]
   },

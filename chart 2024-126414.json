@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-7d076269d05fb757f125f4c7e5960b0b"
+    "name": "data-47dfc073bc3ef8b373798f730134b7ee"
   },
   "datasets": {
-    "data-7d076269d05fb757f125f4c7e5960b0b": [
+    "data-47dfc073bc3ef8b373798f730134b7ee": [
       {
-        "TSNE-1": -0.27832046151161194,
-        "TSNE-2": -1.938278079032898,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": 3.846501111984253,
-        "TSNE-2": -7.438203811645508,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": -0.18097639083862305,
-        "TSNE-2": 15.0817289352417,
+        "TSNE-1": -0.7122397422790527,
+        "TSNE-2": -2.2584590911865234,
         "cluster": 2,
-        "keywords": "nan, document, marginal, usage, unit"
+        "keywords": "financial, program, payment, black, factor"
       },
       {
-        "TSNE-1": -0.4308164417743683,
-        "TSNE-2": 7.263288497924805,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": -0.18097639083862305,
-        "TSNE-2": 15.0817289352417,
+        "TSNE-1": -5.179258823394775,
+        "TSNE-2": 1.5009381771087646,
         "cluster": 2,
-        "keywords": "nan, document, marginal, usage, unit"
+        "keywords": "financial, program, payment, black, factor"
       },
       {
-        "TSNE-1": -1.240071177482605,
-        "TSNE-2": 29.143917083740234,
+        "TSNE-1": 8.22210693359375,
+        "TSNE-2": -8.095146179199219,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": 4.447393894195557,
+        "TSNE-2": 7.456230163574219,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": 8.22210693359375,
+        "TSNE-2": -8.095146179199219,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": 6.109930992126465,
+        "TSNE-2": 1.0483907461166382,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -1.8971296548843384,
+        "TSNE-2": 3.365626335144043,
         "cluster": 2,
-        "keywords": "nan, document, marginal, usage, unit"
+        "keywords": "financial, program, payment, black, factor"
       },
       {
-        "TSNE-1": 6.785870552062988,
-        "TSNE-2": -6.1467814445495605,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": 5.300623416900635,
-        "TSNE-2": -1.5514658689498901,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -8.007521629333496,
-        "TSNE-2": -7.334787845611572,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": -5.226830005645752,
-        "TSNE-2": 10.538089752197266,
+        "TSNE-1": 1.8262488842010498,
+        "TSNE-2": -12.05032730102539,
         "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
+        "keywords": "product, service, entity, exceptional, marginal"
       },
       {
-        "TSNE-1": -1.1301183700561523,
-        "TSNE-2": -0.48728883266448975,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
+        "TSNE-1": -3.1860992908477783,
+        "TSNE-2": 11.874387741088867,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
       },
       {
-        "TSNE-1": 5.241442680358887,
-        "TSNE-2": 13.637866973876953,
+        "TSNE-1": -1.0881333351135254,
+        "TSNE-2": -3.9924466609954834,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": 4.480653762817383,
+        "TSNE-2": -9.806609153747559,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": 1.1966091394424438,
+        "TSNE-2": -0.9406799077987671,
         "cluster": 2,
-        "keywords": "nan, document, marginal, usage, unit"
+        "keywords": "financial, program, payment, black, factor"
       },
       {
-        "TSNE-1": 1.3395698070526123,
-        "TSNE-2": -4.039752006530762,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": -3.0411267280578613,
-        "TSNE-2": 4.636682510375977,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": -1.8668473958969116,
-        "TSNE-2": 9.911049842834473,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 1.1802512407302856,
-        "TSNE-2": -1.114335060119629,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": -9.656750679016113,
-        "TSNE-2": 3.407095193862915,
+        "TSNE-1": 5.006414413452148,
+        "TSNE-2": 3.962841749191284,
         "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
+        "keywords": "pay, ability, affect, individual, energy"
       },
       {
-        "TSNE-1": 5.300623416900635,
-        "TSNE-2": -1.5514658689498901,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": 3.9635894298553467,
-        "TSNE-2": -3.694309711456299,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -4.2030534744262695,
-        "TSNE-2": -8.251546859741211,
+        "TSNE-1": -6.852651596069336,
+        "TSNE-2": 7.049489974975586,
         "cluster": 5,
-        "keywords": "may, service, company, impact, help"
+        "keywords": "willingness, affected, marital, health, education"
       },
       {
-        "TSNE-1": 3.898531436920166,
-        "TSNE-2": 7.878818511962891,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 4.4370927810668945,
-        "TSNE-2": -5.23518180847168,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": 3.7977888584136963,
-        "TSNE-2": 7.401212215423584,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": -2.2248165607452393,
-        "TSNE-2": 2.4567158222198486,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": -7.696044921875,
-        "TSNE-2": -5.144399166107178,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": 4.342349052429199,
-        "TSNE-2": -0.251242458820343,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": 6.355155944824219,
-        "TSNE-2": 9.355284690856934,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 7.671649932861328,
-        "TSNE-2": -4.569096088409424,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -4.1077351570129395,
-        "TSNE-2": 9.071175575256348,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 3.2117581367492676,
-        "TSNE-2": -10.907333374023438,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": -7.83076286315918,
-        "TSNE-2": -6.2755560874938965,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": -3.160288095474243,
-        "TSNE-2": -9.56155014038086,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": 6.737496852874756,
-        "TSNE-2": -2.7189056873321533,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": 1.4158555269241333,
-        "TSNE-2": 1.4872674942016602,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": 6.420097351074219,
-        "TSNE-2": -5.867069244384766,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -0.044883742928504944,
-        "TSNE-2": -5.957584857940674,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": -0.9659625291824341,
-        "TSNE-2": -5.170811176300049,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": -7.189550399780273,
-        "TSNE-2": 6.953352928161621,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": -6.079563140869141,
-        "TSNE-2": -0.24695348739624023,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": -3.962428569793701,
-        "TSNE-2": -0.07200253754854202,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": 4.359570026397705,
-        "TSNE-2": 2.3332903385162354,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -0.8518789410591125,
-        "TSNE-2": 1.4723190069198608,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": 2.4116129875183105,
-        "TSNE-2": -5.076732158660889,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": 6.143583297729492,
-        "TSNE-2": 0.255482941865921,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -2.776000738143921,
-        "TSNE-2": -2.8214211463928223,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": -1.3207881450653076,
-        "TSNE-2": -12.071512222290039,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": -4.272733688354492,
-        "TSNE-2": -2.2845640182495117,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": -0.5936558246612549,
-        "TSNE-2": 8.718188285827637,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": -1.1301183700561523,
-        "TSNE-2": -0.48728883266448975,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": 1.5437729358673096,
-        "TSNE-2": -6.315573215484619,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": -10.16198444366455,
-        "TSNE-2": -1.6175216436386108,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": -5.601632595062256,
-        "TSNE-2": 10.923112869262695,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 1.3872348070144653,
-        "TSNE-2": -3.3651649951934814,
-        "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
-      },
-      {
-        "TSNE-1": 5.254613399505615,
-        "TSNE-2": 13.37022876739502,
+        "TSNE-1": -1.5080591440200806,
+        "TSNE-2": -0.5593199729919434,
         "cluster": 2,
-        "keywords": "nan, document, marginal, usage, unit"
+        "keywords": "financial, program, payment, black, factor"
       },
       {
-        "TSNE-1": 2.3151872158050537,
-        "TSNE-2": 0.30461275577545166,
+        "TSNE-1": -1.0209020376205444,
+        "TSNE-2": 15.517681121826172,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
+      },
+      {
+        "TSNE-1": -1.8971296548843384,
+        "TSNE-2": 3.365626335144043,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": 2.2673799991607666,
+        "TSNE-2": 2.755985736846924,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": -8.75539493560791,
+        "TSNE-2": 0.9229191541671753,
         "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
+        "keywords": "credit, may, cost, higher, help"
       },
       {
-        "TSNE-1": 2.7917275428771973,
-        "TSNE-2": 8.154438972473145,
+        "TSNE-1": -0.6802768111228943,
+        "TSNE-2": -13.872447967529297,
         "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
+        "keywords": "product, service, entity, exceptional, marginal"
       },
       {
-        "TSNE-1": 3.613046884536743,
-        "TSNE-2": -2.1925926208496094,
+        "TSNE-1": 3.7500998973846436,
+        "TSNE-2": 1.1954400539398193,
         "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
+        "keywords": "utility, household, income, bill, assistance"
       },
       {
-        "TSNE-1": -2.250210762023926,
-        "TSNE-2": 5.957901954650879,
+        "TSNE-1": -0.5623158812522888,
+        "TSNE-2": -14.423205375671387,
         "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
+        "keywords": "product, service, entity, exceptional, marginal"
       },
       {
-        "TSNE-1": -3.186427354812622,
-        "TSNE-2": -6.147525787353516,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": 1.4864832162857056,
-        "TSNE-2": 7.755915641784668,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 10.06901741027832,
-        "TSNE-2": 1.3494772911071777,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": 6.511147975921631,
-        "TSNE-2": 3.9174904823303223,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": 8.302040100097656,
-        "TSNE-2": 2.9830498695373535,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -2.5156497955322266,
-        "TSNE-2": -7.530396461486816,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": -1.000145435333252,
-        "TSNE-2": -3.341344118118286,
+        "TSNE-1": -7.362032890319824,
+        "TSNE-2": -5.288249969482422,
         "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
+        "keywords": "credit, may, cost, higher, help"
       },
       {
-        "TSNE-1": -0.6017234325408936,
-        "TSNE-2": -8.084195137023926,
+        "TSNE-1": 0.1893005222082138,
+        "TSNE-2": -7.6670708656311035,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": -3.504291534423828,
+        "TSNE-2": 4.370793342590332,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": -3.924443244934082,
+        "TSNE-2": 8.271153450012207,
         "cluster": 5,
-        "keywords": "may, service, company, impact, help"
+        "keywords": "willingness, affected, marital, health, education"
       },
       {
-        "TSNE-1": -2.3315742015838623,
-        "TSNE-2": -4.742568492889404,
+        "TSNE-1": 7.592301845550537,
+        "TSNE-2": 0.007803957909345627,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -1.4664826393127441,
+        "TSNE-2": 11.080174446105957,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
+      },
+      {
+        "TSNE-1": -8.180749893188477,
+        "TSNE-2": 5.729053020477295,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
+      },
+      {
+        "TSNE-1": 1.155826449394226,
+        "TSNE-2": -7.786430358886719,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": -7.748833179473877,
+        "TSNE-2": -0.5663776993751526,
         "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
+        "keywords": "credit, may, cost, higher, help"
       },
       {
-        "TSNE-1": -5.848879814147949,
-        "TSNE-2": 1.9671357870101929,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
+        "TSNE-1": -1.2292195558547974,
+        "TSNE-2": 4.873138427734375,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
       },
       {
-        "TSNE-1": -5.5042314529418945,
-        "TSNE-2": -4.111177444458008,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": 6.725723743438721,
-        "TSNE-2": 9.195085525512695,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 7.227898597717285,
-        "TSNE-2": 2.3162379264831543,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -9.656750679016113,
-        "TSNE-2": 3.407095193862915,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": 10.592617988586426,
-        "TSNE-2": -3.2481234073638916,
-        "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
-      },
-      {
-        "TSNE-1": -0.7866978645324707,
-        "TSNE-2": 4.550200939178467,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": -0.18447893857955933,
-        "TSNE-2": -4.235058784484863,
+        "TSNE-1": -4.235013484954834,
+        "TSNE-2": -2.536558151245117,
         "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
+        "keywords": "credit, may, cost, higher, help"
       },
       {
-        "TSNE-1": 5.324009418487549,
-        "TSNE-2": 1.4678057432174683,
+        "TSNE-1": 5.842724800109863,
+        "TSNE-2": 0.648463785648346,
         "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
+        "keywords": "utility, household, income, bill, assistance"
       },
       {
-        "TSNE-1": -4.274430751800537,
-        "TSNE-2": 5.978912353515625,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 10.592617988586426,
-        "TSNE-2": -3.2481234073638916,
+        "TSNE-1": 3.688890218734741,
+        "TSNE-2": -2.387568473815918,
         "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
+        "keywords": "utility, household, income, bill, assistance"
       },
       {
-        "TSNE-1": -9.965516090393066,
-        "TSNE-2": -1.9582397937774658,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": -2.427739381790161,
-        "TSNE-2": 7.687870979309082,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": -3.2541439533233643,
-        "TSNE-2": 1.4390511512756348,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": 1.7038882970809937,
-        "TSNE-2": -11.325386047363281,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": 10.06901741027832,
-        "TSNE-2": 1.3494772911071777,
+        "TSNE-1": 2.6688148975372314,
+        "TSNE-2": -3.06536865234375,
         "cluster": 0,
-        "keywords": "utility, household, energy, income, assistance"
+        "keywords": "utility, household, income, bill, assistance"
       },
       {
-        "TSNE-1": -3.948723316192627,
-        "TSNE-2": 2.65567684173584,
+        "TSNE-1": 1.3391590118408203,
+        "TSNE-2": 11.047130584716797,
         "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
+        "keywords": "pay, ability, affect, individual, energy"
       },
       {
-        "TSNE-1": -3.962428569793701,
-        "TSNE-2": -0.07200253754854202,
-        "cluster": 1,
-        "keywords": "individual, pay, ability, financial, cost"
-      },
-      {
-        "TSNE-1": -1.9174858331680298,
-        "TSNE-2": 6.956023216247559,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": -2.0475356578826904,
-        "TSNE-2": 11.550446510314941,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 1.2613952159881592,
-        "TSNE-2": 4.362228870391846,
-        "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
-      },
-      {
-        "TSNE-1": 1.934981346130371,
-        "TSNE-2": -1.640354871749878,
+        "TSNE-1": -4.403781414031982,
+        "TSNE-2": -7.408915996551514,
         "cluster": 3,
-        "keywords": "payment, bill, program, history, credit"
+        "keywords": "credit, may, cost, higher, help"
       },
       {
-        "TSNE-1": -1.0460584163665771,
-        "TSNE-2": -11.547501564025879,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
+        "TSNE-1": -3.757411003112793,
+        "TSNE-2": -5.367091178894043,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
       },
       {
-        "TSNE-1": 0.36708366870880127,
-        "TSNE-2": -8.925857543945312,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
+        "TSNE-1": -4.161986351013184,
+        "TSNE-2": 0.31705212593078613,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
       },
       {
-        "TSNE-1": -3.160288095474243,
-        "TSNE-2": -9.56155014038086,
-        "cluster": 5,
-        "keywords": "may, service, company, impact, help"
-      },
-      {
-        "TSNE-1": 1.3049507141113281,
-        "TSNE-2": 10.330747604370117,
+        "TSNE-1": -2.229951858520508,
+        "TSNE-2": -7.024023532867432,
         "cluster": 4,
-        "keywords": "affect, factor, willingness, amount, money"
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": 2.463414192199707,
+        "TSNE-2": -0.16430506110191345,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -3.235778570175171,
+        "TSNE-2": 2.50156307220459,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": -2.4808297157287598,
+        "TSNE-2": -2.870232343673706,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": -10.873713493347168,
+        "TSNE-2": -2.4095144271850586,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": 0.629592776298523,
+        "TSNE-2": 2.2730209827423096,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": 6.889890670776367,
+        "TSNE-2": 7.200101852416992,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": -1.0881333351135254,
+        "TSNE-2": -3.9924466609954834,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": 3.8234140872955322,
+        "TSNE-2": -0.9577056765556335,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": 0.04582846164703369,
+        "TSNE-2": 7.999410152435303,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": -3.5096182823181152,
+        "TSNE-2": 12.307992935180664,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
+      },
+      {
+        "TSNE-1": 0.4304138422012329,
+        "TSNE-2": -0.9293408393859863,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": 3.407634973526001,
+        "TSNE-2": -9.904867172241211,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": -3.016392230987549,
+        "TSNE-2": -1.2728822231292725,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": 0.5358902812004089,
+        "TSNE-2": -13.898781776428223,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": -0.9052636027336121,
+        "TSNE-2": 2.057063579559326,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": 4.37171745300293,
+        "TSNE-2": 5.219806671142578,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": 0.8382107019424438,
+        "TSNE-2": 0.8710995316505432,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": 7.858963489532471,
+        "TSNE-2": 5.5781941413879395,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": 2.4226362705230713,
+        "TSNE-2": 9.601234436035156,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": 5.998577117919922,
+        "TSNE-2": -5.410399436950684,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": 1.0855567455291748,
+        "TSNE-2": 6.633019924163818,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": -7.326799392700195,
+        "TSNE-2": 1.1670396327972412,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": 1.0466638803482056,
+        "TSNE-2": -2.923212766647339,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": 1.7538937330245972,
+        "TSNE-2": -5.1815009117126465,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": 3.8307294845581055,
+        "TSNE-2": -4.056268692016602,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -6.270073413848877,
+        "TSNE-2": -7.436337947845459,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": 6.867728233337402,
+        "TSNE-2": -1.2717211246490479,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -3.7751669883728027,
+        "TSNE-2": 8.022961616516113,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
+      },
+      {
+        "TSNE-1": 1.2986373901367188,
+        "TSNE-2": 5.023036003112793,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": -1.0209020376205444,
+        "TSNE-2": 15.517681121826172,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
+      },
+      {
+        "TSNE-1": 9.449953079223633,
+        "TSNE-2": -3.6082375049591064,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -11.508243560791016,
+        "TSNE-2": 0.4210292100906372,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": 1.9579442739486694,
+        "TSNE-2": -2.1559104919433594,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -3.2583963871002197,
+        "TSNE-2": 1.2513285875320435,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": 5.975810527801514,
+        "TSNE-2": 9.2645845413208,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": 9.449953079223633,
+        "TSNE-2": -3.6082375049591064,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -0.22113239765167236,
+        "TSNE-2": 8.111286163330078,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": 5.623842716217041,
+        "TSNE-2": 6.300693035125732,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": -5.511104583740234,
+        "TSNE-2": -5.0630106925964355,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": -9.4408540725708,
+        "TSNE-2": 4.807879447937012,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
+      },
+      {
+        "TSNE-1": 2.4226362705230713,
+        "TSNE-2": 9.601234436035156,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": -6.210496425628662,
+        "TSNE-2": -3.9789459705352783,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": -3.757411003112793,
+        "TSNE-2": -5.367091178894043,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": 4.714552402496338,
+        "TSNE-2": 6.319159984588623,
+        "cluster": 1,
+        "keywords": "pay, ability, affect, individual, energy"
+      },
+      {
+        "TSNE-1": -7.422423362731934,
+        "TSNE-2": 8.520386695861816,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
+      },
+      {
+        "TSNE-1": 9.423905372619629,
+        "TSNE-2": 3.2521872520446777,
+        "cluster": 0,
+        "keywords": "utility, household, income, bill, assistance"
+      },
+      {
+        "TSNE-1": -1.1362712383270264,
+        "TSNE-2": 0.22137105464935303,
+        "cluster": 2,
+        "keywords": "financial, program, payment, black, factor"
+      },
+      {
+        "TSNE-1": -10.566730499267578,
+        "TSNE-2": -2.9115450382232666,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": 0.34100571274757385,
+        "TSNE-2": -5.606478214263916,
+        "cluster": 4,
+        "keywords": "product, service, entity, exceptional, marginal"
+      },
+      {
+        "TSNE-1": -7.748833179473877,
+        "TSNE-2": -0.5663776993751526,
+        "cluster": 3,
+        "keywords": "credit, may, cost, higher, help"
+      },
+      {
+        "TSNE-1": -4.442210674285889,
+        "TSNE-2": 10.116226196289062,
+        "cluster": 5,
+        "keywords": "willingness, affected, marital, health, education"
       }
     ]
   },

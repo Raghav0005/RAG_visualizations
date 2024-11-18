@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-f92b01d060f79a501c22396529e4e6dc"
+    "name": "data-68f2cb844e2a1f42cdcf383dd8044360"
   },
   "datasets": {
-    "data-f92b01d060f79a501c22396529e4e6dc": [
+    "data-68f2cb844e2a1f42cdcf383dd8044360": [
       {
-        "TSNE-1": -2.0982468128204346,
-        "TSNE-2": -8.308619499206543,
+        "TSNE-1": -8.435628890991211,
+        "TSNE-2": 6.063173770904541,
         "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
+        "keywords": "complex, struggle, tribe, strongly, trauma"
       },
       {
-        "TSNE-1": -5.136513710021973,
-        "TSNE-2": -6.3876142501831055,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
+        "TSNE-1": 6.894761562347412,
+        "TSNE-2": -1.0773414373397827,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
       },
       {
-        "TSNE-1": -11.553070068359375,
-        "TSNE-2": -5.881284713745117,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
+        "TSNE-1": -14.53412914276123,
+        "TSNE-2": -11.880675315856934,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
       },
       {
-        "TSNE-1": 3.3961801528930664,
-        "TSNE-2": -14.070589065551758,
+        "TSNE-1": -4.008548259735107,
+        "TSNE-2": -15.065327644348145,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": -14.53412914276123,
+        "TSNE-2": -11.880675315856934,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 19.09977149963379,
+        "TSNE-2": 6.628787517547607,
         "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
+        "keywords": "native, indian, american, term, part"
       },
       {
-        "TSNE-1": -11.553070068359375,
-        "TSNE-2": -5.881284713745117,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -3.136310577392578,
-        "TSNE-2": 12.326528549194336,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": 3.433037281036377,
-        "TSNE-2": 9.947303771972656,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": 0.8821141123771667,
-        "TSNE-2": -0.7442409992218018,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -11.756974220275879,
-        "TSNE-2": 3.4952595233917236,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -12.781681060791016,
-        "TSNE-2": 1.228380799293518,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -0.16082775592803955,
-        "TSNE-2": 0.9581027030944824,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 5.494545936584473,
-        "TSNE-2": 10.213353157043457,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": -2.8117642402648926,
-        "TSNE-2": -1.0191092491149902,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 3.287752866744995,
-        "TSNE-2": -0.7555965185165405,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -9.849751472473145,
-        "TSNE-2": 0.7684803009033203,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": 1.5261441469192505,
-        "TSNE-2": -5.2779765129089355,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 8.377906799316406,
-        "TSNE-2": 4.448380470275879,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": 0.8821141123771667,
-        "TSNE-2": -0.7442409992218018,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -1.109622597694397,
-        "TSNE-2": -5.359741687774658,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 9.497678756713867,
-        "TSNE-2": -6.955744743347168,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 4.24606466293335,
-        "TSNE-2": 5.896010398864746,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": 9.081589698791504,
-        "TSNE-2": 0.3091239333152771,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 4.792392730712891,
-        "TSNE-2": -1.8011435270309448,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 3.3819549083709717,
-        "TSNE-2": -3.168337345123291,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -8.560456275939941,
-        "TSNE-2": -2.226550340652466,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -1.2815899848937988,
-        "TSNE-2": -3.577997922897339,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 0.900833785533905,
-        "TSNE-2": -14.150758743286133,
+        "TSNE-1": 18.816476821899414,
+        "TSNE-2": 2.0208866596221924,
         "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
+        "keywords": "native, indian, american, term, part"
       },
       {
-        "TSNE-1": -7.170795917510986,
-        "TSNE-2": 7.134718418121338,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -9.422012329101562,
-        "TSNE-2": 1.0244991779327393,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -3.4870553016662598,
-        "TSNE-2": 9.704232215881348,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -10.976383209228516,
-        "TSNE-2": 4.6348347663879395,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": 11.664525985717773,
-        "TSNE-2": -6.681994438171387,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": -2.213819742202759,
-        "TSNE-2": -2.2493467330932617,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 1.24751877784729,
-        "TSNE-2": -7.168840408325195,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -3.796394109725952,
-        "TSNE-2": -10.379412651062012,
+        "TSNE-1": 5.056175231933594,
+        "TSNE-2": 7.015781402587891,
         "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
+        "keywords": "native, indian, american, term, part"
       },
       {
-        "TSNE-1": -2.3894898891448975,
-        "TSNE-2": 0.6824164390563965,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -5.279429912567139,
-        "TSNE-2": 3.390897274017334,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": 4.165712833404541,
-        "TSNE-2": -4.978477954864502,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": -5.174710750579834,
-        "TSNE-2": -1.7463752031326294,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -3.090985059738159,
-        "TSNE-2": -5.0545735359191895,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -3.622307538986206,
-        "TSNE-2": -6.971138954162598,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -5.066924095153809,
-        "TSNE-2": 8.775035858154297,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -0.6911802887916565,
-        "TSNE-2": -2.3324191570281982,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 2.121955394744873,
-        "TSNE-2": -1.8846051692962646,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -4.536120891571045,
-        "TSNE-2": 0.7565969228744507,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 1.5174390077590942,
-        "TSNE-2": 11.876809120178223,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": 11.942390441894531,
-        "TSNE-2": -4.798361778259277,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 4.243993282318115,
-        "TSNE-2": -11.764986038208008,
+        "TSNE-1": 11.577984809875488,
+        "TSNE-2": 1.4938549995422363,
         "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
+        "keywords": "native, indian, american, term, part"
       },
       {
-        "TSNE-1": -0.16082775592803955,
-        "TSNE-2": 0.9581027030944824,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": -5.6557841300964355,
-        "TSNE-2": 1.0408225059509277,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": 8.0576171875,
-        "TSNE-2": -2.4689674377441406,
+        "TSNE-1": -1.8595798015594482,
+        "TSNE-2": -9.06103801727295,
         "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
+        "keywords": "creator, nature, section, thing, universe"
       },
       {
-        "TSNE-1": -12.81141471862793,
-        "TSNE-2": 0.7166772484779358,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -1.2819461822509766,
-        "TSNE-2": -1.5679386854171753,
+        "TSNE-1": -0.060948021709918976,
+        "TSNE-2": 9.243481636047363,
         "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
+        "keywords": "complex, struggle, tribe, strongly, trauma"
       },
       {
-        "TSNE-1": 1.5174390077590942,
-        "TSNE-2": 11.876809120178223,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": 1.2230250835418701,
-        "TSNE-2": -4.1671247482299805,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 5.852749824523926,
-        "TSNE-2": 4.858974933624268,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": -0.3221195936203003,
-        "TSNE-2": -7.055721282958984,
-        "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
-      },
-      {
-        "TSNE-1": 1.6481140851974487,
-        "TSNE-2": -11.371268272399902,
+        "TSNE-1": 17.474334716796875,
+        "TSNE-2": -0.9295225143432617,
         "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
+        "keywords": "native, indian, american, term, part"
       },
       {
-        "TSNE-1": 3.156036138534546,
-        "TSNE-2": 1.2618893384933472,
+        "TSNE-1": 0.20325013995170593,
+        "TSNE-2": 2.096813917160034,
         "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
+        "keywords": "cultural, identity, sense, historical, strong"
       },
       {
-        "TSNE-1": 3.565269947052002,
-        "TSNE-2": 5.663547515869141,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": 1.8129206895828247,
-        "TSNE-2": 3.4262430667877197,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": 8.128414154052734,
-        "TSNE-2": -3.399601697921753,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 6.720367431640625,
-        "TSNE-2": 1.4066805839538574,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": -4.776208877563477,
-        "TSNE-2": 6.446822643280029,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -3.6633636951446533,
-        "TSNE-2": 4.30338716506958,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -5.765556812286377,
-        "TSNE-2": 10.082386016845703,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -3.157227039337158,
-        "TSNE-2": 3.6926651000976562,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -3.957749605178833,
-        "TSNE-2": -3.370878219604492,
+        "TSNE-1": -1.2909473180770874,
+        "TSNE-2": 7.234450817108154,
         "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
+        "keywords": "complex, struggle, tribe, strongly, trauma"
       },
       {
-        "TSNE-1": -4.8041839599609375,
-        "TSNE-2": 7.884335994720459,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": 1.5953495502471924,
-        "TSNE-2": -15.16423511505127,
-        "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
-      },
-      {
-        "TSNE-1": -2.338747262954712,
-        "TSNE-2": 7.042430400848389,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": 8.377906799316406,
-        "TSNE-2": 4.448380470275879,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": 5.208188533782959,
-        "TSNE-2": -7.916683673858643,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": -0.9125216603279114,
-        "TSNE-2": 4.469571113586426,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -4.091037273406982,
-        "TSNE-2": 2.8839263916015625,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -8.378795623779297,
-        "TSNE-2": 9.865893363952637,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": 6.096597194671631,
-        "TSNE-2": -0.20518656075000763,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 5.208188533782959,
-        "TSNE-2": -7.916683673858643,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 6.7158942222595215,
-        "TSNE-2": -2.931804895401001,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 4.121767044067383,
-        "TSNE-2": -13.15258502960205,
-        "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
-      },
-      {
-        "TSNE-1": -6.606051445007324,
-        "TSNE-2": -4.031026363372803,
+        "TSNE-1": 12.957151412963867,
+        "TSNE-2": -11.054460525512695,
         "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
+        "keywords": "taught, large, supportive, social, need"
       },
       {
-        "TSNE-1": 5.494545936584473,
-        "TSNE-2": 10.213353157043457,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": 1.690255045890808,
-        "TSNE-2": 3.8589065074920654,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": -7.786992073059082,
-        "TSNE-2": -7.442780017852783,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -3.090985059738159,
-        "TSNE-2": -5.0545735359191895,
+        "TSNE-1": -4.483953952789307,
+        "TSNE-2": 4.555218696594238,
         "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
+        "keywords": "complex, struggle, tribe, strongly, trauma"
       },
       {
-        "TSNE-1": 4.984942436218262,
-        "TSNE-2": 3.297917366027832,
-        "cluster": 1,
-        "keywords": "american, native, also, sense, identity"
-      },
-      {
-        "TSNE-1": -8.60181713104248,
-        "TSNE-2": -8.72006893157959,
-        "cluster": 5,
-        "keywords": "term, large, supportive, taught, social"
-      },
-      {
-        "TSNE-1": -6.992000102996826,
-        "TSNE-2": -27.935487747192383,
-        "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
-      },
-      {
-        "TSNE-1": 0.10156434774398804,
-        "TSNE-2": -5.159348487854004,
+        "TSNE-1": -5.327990531921387,
+        "TSNE-2": 16.386850357055664,
         "cluster": 2,
-        "keywords": "cultural, tribal, historical, many, community"
+        "keywords": "complex, struggle, tribe, strongly, trauma"
       },
       {
-        "TSNE-1": -9.155654907226562,
-        "TSNE-2": 6.4618635177612305,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": -1.650989294052124,
-        "TSNE-2": 2.5010175704956055,
-        "cluster": 3,
-        "keywords": "indian, among, health, people, mental"
-      },
-      {
-        "TSNE-1": 11.664525985717773,
-        "TSNE-2": -6.681994438171387,
-        "cluster": 4,
-        "keywords": "section, feel, displacement, tribe, trait"
-      },
-      {
-        "TSNE-1": 1.835012435913086,
-        "TSNE-2": -14.058597564697266,
+        "TSNE-1": 5.056175231933594,
+        "TSNE-2": 7.015781402587891,
         "cluster": 0,
-        "keywords": "creator, universe, nature, thing, nan"
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": -1.965075969696045,
+        "TSNE-2": 1.0527154207229614,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": -1.6377801895141602,
+        "TSNE-2": -22.09098243713379,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": -13.446882247924805,
+        "TSNE-2": -5.336654186248779,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 8.505948066711426,
+        "TSNE-2": -14.117222785949707,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": -4.367122650146484,
+        "TSNE-2": 10.580780982971191,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": -5.351872444152832,
+        "TSNE-2": 7.550173282623291,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": 5.801179885864258,
+        "TSNE-2": -9.852326393127441,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": -3.069859027862549,
+        "TSNE-2": -0.9662251472473145,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": -6.155887603759766,
+        "TSNE-2": -16.259765625,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": 4.280614852905273,
+        "TSNE-2": 10.983529090881348,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": 13.933242797851562,
+        "TSNE-2": -11.980128288269043,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": 6.33319091796875,
+        "TSNE-2": 13.517985343933105,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": 10.740072250366211,
+        "TSNE-2": 3.362079620361328,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": 1.6178120374679565,
+        "TSNE-2": -21.334150314331055,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": 2.3222250938415527,
+        "TSNE-2": 3.2142703533172607,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": -4.873262405395508,
+        "TSNE-2": 0.9760556817054749,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": 13.75438117980957,
+        "TSNE-2": 6.952841281890869,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": 6.7151875495910645,
+        "TSNE-2": 4.185708045959473,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": -15.496731758117676,
+        "TSNE-2": 4.450762748718262,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": -6.937061786651611,
+        "TSNE-2": -7.319894790649414,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": -10.640571594238281,
+        "TSNE-2": 3.367809295654297,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 2.979721784591675,
+        "TSNE-2": -1.42783522605896,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": 3.103102207183838,
+        "TSNE-2": 0.9328908920288086,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": 7.400548934936523,
+        "TSNE-2": 11.035835266113281,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": 2.6069462299346924,
+        "TSNE-2": 5.243420124053955,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": -2.835780143737793,
+        "TSNE-2": 6.77970552444458,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": 7.024801254272461,
+        "TSNE-2": -4.708888530731201,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": 18.245601654052734,
+        "TSNE-2": 11.074721336364746,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": 2.602642059326172,
+        "TSNE-2": -18.509605407714844,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": 9.953373908996582,
+        "TSNE-2": 7.318233966827393,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": -0.060948021709918976,
+        "TSNE-2": 9.243481636047363,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": 5.4137678146362305,
+        "TSNE-2": -5.340038299560547,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": -12.811854362487793,
+        "TSNE-2": 12.30235767364502,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": 10.914722442626953,
+        "TSNE-2": -7.856074333190918,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": 0.8139634728431702,
+        "TSNE-2": 4.4232072830200195,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": 18.245601654052734,
+        "TSNE-2": 11.074721336364746,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": -6.187893390655518,
+        "TSNE-2": 3.63606333732605,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": -7.520563125610352,
+        "TSNE-2": 13.926706314086914,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": -7.117141246795654,
+        "TSNE-2": 1.1165616512298584,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 4.005093097686768,
+        "TSNE-2": -14.13853931427002,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": 8.202733993530273,
+        "TSNE-2": -8.351547241210938,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": -11.933485984802246,
+        "TSNE-2": -5.858104228973389,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": -7.604242324829102,
+        "TSNE-2": -3.8419721126556396,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": -11.212307929992676,
+        "TSNE-2": 11.478955268859863,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": 0.03566088527441025,
+        "TSNE-2": -6.040195941925049,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": -18.310009002685547,
+        "TSNE-2": 11.88830852508545,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": -17.7591609954834,
+        "TSNE-2": 2.2479140758514404,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 9.214262962341309,
+        "TSNE-2": 13.26133918762207,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": -16.078899383544922,
+        "TSNE-2": 1.4879698753356934,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 5.932497978210449,
+        "TSNE-2": 1.6625771522521973,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": 0.018560780212283134,
+        "TSNE-2": -1.099117398262024,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": -8.065703392028809,
+        "TSNE-2": -15.766521453857422,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": 0.23957498371601105,
+        "TSNE-2": -3.8147759437561035,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": -5.327990531921387,
+        "TSNE-2": 16.386850357055664,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": 1.4058018922805786,
+        "TSNE-2": -10.523224830627441,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": -16.79578971862793,
+        "TSNE-2": -2.179314136505127,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": -14.270801544189453,
+        "TSNE-2": 2.3870604038238525,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 12.107120513916016,
+        "TSNE-2": 10.951744079589844,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": -3.595015287399292,
+        "TSNE-2": -4.990471363067627,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": 1.4058018922805786,
+        "TSNE-2": -10.523224830627441,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": -12.186516761779785,
+        "TSNE-2": 9.449576377868652,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": -2.7773423194885254,
+        "TSNE-2": -13.654133796691895,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": -7.2950897216796875,
+        "TSNE-2": 9.20628833770752,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": 17.474334716796875,
+        "TSNE-2": -0.9295225143432617,
+        "cluster": 0,
+        "keywords": "native, indian, american, term, part"
+      },
+      {
+        "TSNE-1": -8.496118545532227,
+        "TSNE-2": -2.8874430656433105,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 15.437897682189941,
+        "TSNE-2": -6.768486976623535,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": 2.979721784591675,
+        "TSNE-2": -1.42783522605896,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": -9.899568557739258,
+        "TSNE-2": 15.395002365112305,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": 17.86738395690918,
+        "TSNE-2": -6.7927093505859375,
+        "cluster": 5,
+        "keywords": "taught, large, supportive, social, need"
+      },
+      {
+        "TSNE-1": -3.0254111289978027,
+        "TSNE-2": 3.1405813694000244,
+        "cluster": 1,
+        "keywords": "cultural, identity, sense, historical, strong"
+      },
+      {
+        "TSNE-1": 3.002605676651001,
+        "TSNE-2": 14.87035846710205,
+        "cluster": 2,
+        "keywords": "complex, struggle, tribe, strongly, trauma"
+      },
+      {
+        "TSNE-1": -11.419583320617676,
+        "TSNE-2": 0.5467478632926941,
+        "cluster": 3,
+        "keywords": "health, challenge, face, high, lack"
+      },
+      {
+        "TSNE-1": 1.6178120374679565,
+        "TSNE-2": -21.334150314331055,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
+      },
+      {
+        "TSNE-1": -6.634419918060303,
+        "TSNE-2": -14.269774436950684,
+        "cluster": 4,
+        "keywords": "creator, nature, section, thing, universe"
       }
     ]
   },

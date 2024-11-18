@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-36a999e34deaf169db3e4467062811b2"
+    "name": "data-b6711d47560749870e4fe6a11befcbed"
   },
   "datasets": {
-    "data-36a999e34deaf169db3e4467062811b2": [
+    "data-b6711d47560749870e4fe6a11befcbed": [
       {
-        "TSNE-1": 6.557123184204102,
-        "TSNE-2": -1.7951589822769165,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": -11.073234558105469,
-        "TSNE-2": -2.663991689682007,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -10.89706039428711,
-        "TSNE-2": 3.6501708030700684,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -4.910556793212891,
-        "TSNE-2": -9.467033386230469,
+        "TSNE-1": -1.5456035137176514,
+        "TSNE-2": 5.840690612792969,
         "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
+        "keywords": "teacher, communication, document, every, small"
       },
       {
-        "TSNE-1": -10.89706039428711,
-        "TSNE-2": 3.6501708030700684,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": 0.8601362705230713,
-        "TSNE-2": 28.874269485473633,
+        "TSNE-1": -1.7277624607086182,
+        "TSNE-2": -13.937294006347656,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": -5.995742321014404,
-        "TSNE-2": -6.320351600646973,
+        "TSNE-1": -7.905854225158691,
+        "TSNE-2": 7.994153022766113,
         "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
+        "keywords": "teacher, communication, document, every, small"
       },
       {
-        "TSNE-1": 3.7672176361083984,
-        "TSNE-2": 1.779123306274414,
+        "TSNE-1": 7.5630083084106445,
+        "TSNE-2": 2.725757598876953,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": -7.905854225158691,
+        "TSNE-2": 7.994153022766113,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": -8.392557144165039,
+        "TSNE-2": 2.8631434440612793,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": -3.7367641925811768,
+        "TSNE-2": -0.40155065059661865,
         "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
+        "keywords": "feel, help, dynamic, inclusive, environment"
       },
       {
-        "TSNE-1": 2.4432313442230225,
-        "TSNE-2": 3.796100616455078,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": 5.116539478302002,
-        "TSNE-2": 13.049074172973633,
+        "TSNE-1": 1.4530912637710571,
+        "TSNE-2": -8.094812393188477,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": -2.4740843772888184,
-        "TSNE-2": 4.357290744781494,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": 14.404969215393066,
-        "TSNE-2": 2.0442333221435547,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": 1.376720905303955,
-        "TSNE-2": -1.4615708589553833,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": 0.9080106019973755,
-        "TSNE-2": -7.5906147956848145,
+        "TSNE-1": 14.896699905395508,
+        "TSNE-2": 4.9063568115234375,
         "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
+        "keywords": "may, heard, voice, background, opportunity"
       },
       {
-        "TSNE-1": 2.7390670776367188,
-        "TSNE-2": 13.632552146911621,
+        "TSNE-1": 3.8095285892486572,
+        "TSNE-2": -4.954670429229736,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": -11.961584091186523,
+        "TSNE-2": 6.166086673736572,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": 1.6958439350128174,
+        "TSNE-2": -1.2019728422164917,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": 8.085481643676758,
+        "TSNE-2": -2.193059206008911,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": 10.333818435668945,
+        "TSNE-2": -7.713660717010498,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": -0.9073407649993896,
+        "TSNE-2": 2.5442750453948975,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": -12.099700927734375,
+        "TSNE-2": -0.08335229754447937,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
+      },
+      {
+        "TSNE-1": -3.7367641925811768,
+        "TSNE-2": -0.40155065059661865,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": 0.8636957406997681,
+        "TSNE-2": 1.7551908493041992,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": 15.22901439666748,
+        "TSNE-2": -3.941343069076538,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": 10.010119438171387,
+        "TSNE-2": 9.971637725830078,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": 3.975168228149414,
+        "TSNE-2": 6.27903413772583,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": 8.73522663116455,
+        "TSNE-2": 9.150885581970215,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": 9.23228931427002,
+        "TSNE-2": -3.998171329498291,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": -4.281625747680664,
+        "TSNE-2": 6.100509166717529,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": 1.2353876829147339,
+        "TSNE-2": -4.345713138580322,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": 9.113372802734375,
+        "TSNE-2": 1.5776034593582153,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": -9.28593921661377,
+        "TSNE-2": 2.339905023574829,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": -10.282905578613281,
+        "TSNE-2": -11.503661155700684,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": -2.93984055519104,
-        "TSNE-2": 0.8983990550041199,
+        "TSNE-1": 7.293149471282959,
+        "TSNE-2": -5.743285179138184,
         "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
+        "keywords": "privileged, harder, learner, difficult, silence"
       },
       {
-        "TSNE-1": 2.8957173824310303,
-        "TSNE-2": -15.113619804382324,
-        "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
+        "TSNE-1": 14.933120727539062,
+        "TSNE-2": -11.090517044067383,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
       },
       {
-        "TSNE-1": 3.7672176361083984,
-        "TSNE-2": 1.779123306274414,
+        "TSNE-1": 12.3718843460083,
+        "TSNE-2": -4.327608108520508,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": -0.2931272089481354,
+        "TSNE-2": -0.39008113741874695,
         "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
+        "keywords": "feel, help, dynamic, inclusive, environment"
       },
       {
-        "TSNE-1": -2.003502607345581,
-        "TSNE-2": 1.956228494644165,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
+        "TSNE-1": 0.8363941311836243,
+        "TSNE-2": 6.000071048736572,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
       },
       {
-        "TSNE-1": -7.823001384735107,
-        "TSNE-2": 8.039992332458496,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -2.4994914531707764,
-        "TSNE-2": 14.696968078613281,
+        "TSNE-1": -4.231127738952637,
+        "TSNE-2": -12.611464500427246,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": 5.271974563598633,
-        "TSNE-2": -3.6974833011627197,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": -1.8960318565368652,
-        "TSNE-2": 13.290838241577148,
+        "TSNE-1": -2.777158737182617,
+        "TSNE-2": -11.351447105407715,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": 2.643068313598633,
-        "TSNE-2": -9.093485832214355,
-        "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
-      },
-      {
-        "TSNE-1": 7.751318454742432,
-        "TSNE-2": -4.098199844360352,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": 0.9477106332778931,
-        "TSNE-2": -3.7220869064331055,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -4.023543834686279,
-        "TSNE-2": -11.059905052185059,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": 8.992891311645508,
-        "TSNE-2": 1.1775516271591187,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": 11.306925773620605,
-        "TSNE-2": -5.913769245147705,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": -3.809988498687744,
-        "TSNE-2": 15.420259475708008,
+        "TSNE-1": -0.7913187742233276,
+        "TSNE-2": -8.5982666015625,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": 8.997654914855957,
-        "TSNE-2": 10.40965461730957,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": 5.769695281982422,
-        "TSNE-2": -9.175697326660156,
-        "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
-      },
-      {
-        "TSNE-1": 1.2542279958724976,
-        "TSNE-2": 0.2755090594291687,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": -3.7293291091918945,
-        "TSNE-2": -1.1596908569335938,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -0.5481275320053101,
-        "TSNE-2": 8.281559944152832,
+        "TSNE-1": -4.796651363372803,
+        "TSNE-2": -4.799810886383057,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": -0.3532782196998596,
-        "TSNE-2": 6.85183048248291,
+        "TSNE-1": 3.834726572036743,
+        "TSNE-2": 2.4881393909454346,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": -1.687666416168213,
+        "TSNE-2": -3.786461114883423,
         "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
+        "keywords": "feel, help, dynamic, inclusive, environment"
       },
       {
-        "TSNE-1": -4.17951774597168,
-        "TSNE-2": 8.843159675598145,
+        "TSNE-1": 1.4771486520767212,
+        "TSNE-2": -14.666210174560547,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": 5.8839311599731445,
-        "TSNE-2": 8.733616828918457,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": -6.262088775634766,
-        "TSNE-2": 2.7909064292907715,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -0.7512439489364624,
-        "TSNE-2": -1.099088430404663,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -0.6469331979751587,
-        "TSNE-2": -3.686920404434204,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": 9.676778793334961,
-        "TSNE-2": 6.78603982925415,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": 2.980426788330078,
-        "TSNE-2": -0.38757920265197754,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": -0.5157924890518188,
-        "TSNE-2": -6.331246376037598,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -0.24403247237205505,
-        "TSNE-2": 5.723755836486816,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": 15.075940132141113,
-        "TSNE-2": -0.9178266525268555,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": -9.46153450012207,
-        "TSNE-2": 9.779805183410645,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -2.0472702980041504,
-        "TSNE-2": -10.987704277038574,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -2.4740843772888184,
-        "TSNE-2": 4.357290744781494,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -3.0963597297668457,
-        "TSNE-2": -3.4829578399658203,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -10.644710540771484,
-        "TSNE-2": -6.779792308807373,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -7.444382667541504,
-        "TSNE-2": 5.09555721282959,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": 2.781132459640503,
-        "TSNE-2": -2.0995006561279297,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": 14.474105834960938,
-        "TSNE-2": 3.200303554534912,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": -5.476833343505859,
-        "TSNE-2": -0.7398083209991455,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -1.3484913110733032,
-        "TSNE-2": -8.448290824890137,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -4.696779727935791,
-        "TSNE-2": 5.250647068023682,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": 11.738423347473145,
-        "TSNE-2": -4.0158586502075195,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": 5.954896450042725,
-        "TSNE-2": 4.945888042449951,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": -1.8322746753692627,
-        "TSNE-2": -12.391928672790527,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": 8.172643661499023,
-        "TSNE-2": 5.017759799957275,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": -9.642016410827637,
-        "TSNE-2": -7.042557239532471,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": 10.515501022338867,
-        "TSNE-2": 1.800878882408142,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
-      },
-      {
-        "TSNE-1": 5.769695281982422,
-        "TSNE-2": -9.175697326660156,
+        "TSNE-1": 3.296341896057129,
+        "TSNE-2": 10.875129699707031,
         "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
+        "keywords": "may, heard, voice, background, opportunity"
       },
       {
-        "TSNE-1": -4.963367462158203,
-        "TSNE-2": -3.135002851486206,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -7.366326808929443,
-        "TSNE-2": -3.4183480739593506,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -8.281962394714355,
-        "TSNE-2": -0.7767305374145508,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": 3.0338778495788574,
-        "TSNE-2": -4.489542007446289,
-        "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
-      },
-      {
-        "TSNE-1": -14.292462348937988,
-        "TSNE-2": 4.981339931488037,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -3.0978875160217285,
-        "TSNE-2": -9.62349796295166,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": 0.37543365359306335,
-        "TSNE-2": 2.1473944187164307,
+        "TSNE-1": -1.0298608541488647,
+        "TSNE-2": -1.8052717447280884,
         "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
+        "keywords": "feel, help, dynamic, inclusive, environment"
       },
       {
-        "TSNE-1": 2.8957173824310303,
-        "TSNE-2": -15.113619804382324,
-        "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
+        "TSNE-1": 5.829758644104004,
+        "TSNE-2": -9.527634620666504,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
       },
       {
-        "TSNE-1": 3.7613303661346436,
-        "TSNE-2": 8.27775764465332,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": 0.51459139585495,
-        "TSNE-2": 10.071922302246094,
+        "TSNE-1": -2.8278582096099854,
+        "TSNE-2": -10.020170211791992,
         "cluster": 0,
-        "keywords": "privilege, nan, connect, heard, hold"
+        "keywords": "privilege, student, classroom, identity, essential"
       },
       {
-        "TSNE-1": -8.545378684997559,
-        "TSNE-2": 0.4094983637332916,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -2.4979844093322754,
-        "TSNE-2": -5.658262252807617,
+        "TSNE-1": -5.119227886199951,
+        "TSNE-2": 10.775428771972656,
         "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
+        "keywords": "teacher, communication, document, every, small"
       },
       {
-        "TSNE-1": 1.9892308712005615,
-        "TSNE-2": -10.910940170288086,
+        "TSNE-1": 13.945585250854492,
+        "TSNE-2": -6.259898662567139,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": 9.97030258178711,
+        "TSNE-2": 3.480508327484131,
         "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
+        "keywords": "may, heard, voice, background, opportunity"
       },
       {
-        "TSNE-1": 3.7613303661346436,
-        "TSNE-2": 8.27775764465332,
+        "TSNE-1": 3.8095285892486572,
+        "TSNE-2": -4.954670429229736,
         "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
+        "keywords": "feel, help, dynamic, inclusive, environment"
       },
       {
-        "TSNE-1": -9.077672004699707,
-        "TSNE-2": -9.954261779785156,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": -3.3447468280792236,
-        "TSNE-2": -12.584601402282715,
-        "cluster": 2,
-        "keywords": "voice, classroom, opportunity, barrier, face"
-      },
-      {
-        "TSNE-1": 2.9231245517730713,
-        "TSNE-2": -6.4854912757873535,
-        "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
-      },
-      {
-        "TSNE-1": -13.416821479797363,
-        "TSNE-2": 1.7117464542388916,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": 8.172643661499023,
-        "TSNE-2": 5.017759799957275,
+        "TSNE-1": 3.39501953125,
+        "TSNE-2": -2.5326895713806152,
         "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
+        "keywords": "feel, help, dynamic, inclusive, environment"
       },
       {
-        "TSNE-1": 2.842186689376831,
-        "TSNE-2": 5.997247695922852,
-        "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
-      },
-      {
-        "TSNE-1": -0.7512439489364624,
-        "TSNE-2": -1.099088430404663,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": 11.715314865112305,
-        "TSNE-2": -4.764638423919678,
+        "TSNE-1": -8.834484100341797,
+        "TSNE-2": -3.7988815307617188,
         "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
+        "keywords": "hearing, deaf, much, important, likely"
       },
       {
-        "TSNE-1": 15.851556777954102,
-        "TSNE-2": -5.945405006408691,
-        "cluster": 3,
-        "keywords": "teacher, connects, diverse, material, ability"
+        "TSNE-1": 11.296069145202637,
+        "TSNE-2": -1.2419993877410889,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
       },
       {
-        "TSNE-1": 12.909037590026855,
-        "TSNE-2": 10.915388107299805,
+        "TSNE-1": 0.6600521206855774,
+        "TSNE-2": -2.4188156127929688,
         "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
+        "keywords": "feel, help, dynamic, inclusive, environment"
       },
       {
-        "TSNE-1": -3.714756965637207,
-        "TSNE-2": 0.6124282479286194,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
+        "TSNE-1": -12.254812240600586,
+        "TSNE-2": 4.99514627456665,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
       },
       {
-        "TSNE-1": -13.429929733276367,
-        "TSNE-2": 3.7758846282958984,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": -4.961457252502441,
-        "TSNE-2": 1.6469870805740356,
-        "cluster": 4,
-        "keywords": "feel, help, every, foster, communication"
-      },
-      {
-        "TSNE-1": 5.769695281982422,
-        "TSNE-2": -9.175697326660156,
+        "TSNE-1": 0.04905366897583008,
+        "TSNE-2": 4.426727771759033,
         "cluster": 1,
-        "keywords": "student, may, privileged, much, background"
+        "keywords": "may, heard, voice, background, opportunity"
       },
       {
-        "TSNE-1": 6.113763332366943,
-        "TSNE-2": 1.245837688446045,
+        "TSNE-1": 8.066763877868652,
+        "TSNE-2": 6.100406646728516,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": 0.0022556446492671967,
+        "TSNE-2": 8.468831062316895,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": 15.159415245056152,
+        "TSNE-2": 0.4640316367149353,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": -10.67473030090332,
+        "TSNE-2": -6.721926212310791,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
+      },
+      {
+        "TSNE-1": 11.328791618347168,
+        "TSNE-2": 4.889106273651123,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": -12.65976619720459,
+        "TSNE-2": -4.90250301361084,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
+      },
+      {
+        "TSNE-1": -7.957579612731934,
+        "TSNE-2": -3.0219058990478516,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
+      },
+      {
+        "TSNE-1": -15.297699928283691,
+        "TSNE-2": 2.5515313148498535,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
+      },
+      {
+        "TSNE-1": 12.3718843460083,
+        "TSNE-2": -4.327608108520508,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": -0.5105977654457092,
+        "TSNE-2": -6.124417304992676,
         "cluster": 5,
-        "keywords": "hearing, deaf, environment, inclusive, often"
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": -2.939866065979004,
+        "TSNE-2": 7.98158073425293,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": 3.0120911598205566,
+        "TSNE-2": -11.542695045471191,
+        "cluster": 0,
+        "keywords": "privilege, student, classroom, identity, essential"
+      },
+      {
+        "TSNE-1": 4.145866870880127,
+        "TSNE-2": 0.4333153963088989,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": -10.62321662902832,
+        "TSNE-2": 11.206459045410156,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": 8.520882606506348,
+        "TSNE-2": 3.866258144378662,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": -4.676856994628906,
+        "TSNE-2": 2.3680717945098877,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": -12.099700927734375,
+        "TSNE-2": -0.08335229754447937,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
+      },
+      {
+        "TSNE-1": -5.752556324005127,
+        "TSNE-2": -7.151826858520508,
+        "cluster": 0,
+        "keywords": "privilege, student, classroom, identity, essential"
+      },
+      {
+        "TSNE-1": 0.3508458733558655,
+        "TSNE-2": 13.450838088989258,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": 1.6595497131347656,
+        "TSNE-2": -11.070436477661133,
+        "cluster": 0,
+        "keywords": "privilege, student, classroom, identity, essential"
+      },
+      {
+        "TSNE-1": 7.100286960601807,
+        "TSNE-2": -12.197809219360352,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": 7.011567115783691,
+        "TSNE-2": -0.3936612010002136,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": -5.752556324005127,
+        "TSNE-2": -7.151826858520508,
+        "cluster": 0,
+        "keywords": "privilege, student, classroom, identity, essential"
+      },
+      {
+        "TSNE-1": -16.277587890625,
+        "TSNE-2": -0.15343166887760162,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
+      },
+      {
+        "TSNE-1": 11.311091423034668,
+        "TSNE-2": 2.0896716117858887,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": 5.6324968338012695,
+        "TSNE-2": -1.7781884670257568,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": -6.913323879241943,
+        "TSNE-2": 11.049943923950195,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": -12.65976619720459,
+        "TSNE-2": -4.90250301361084,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
+      },
+      {
+        "TSNE-1": 3.757514476776123,
+        "TSNE-2": -7.848757743835449,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": -1.687666416168213,
+        "TSNE-2": -3.786461114883423,
+        "cluster": 5,
+        "keywords": "feel, help, dynamic, inclusive, environment"
+      },
+      {
+        "TSNE-1": -8.419574737548828,
+        "TSNE-2": -11.0582857131958,
+        "cluster": 0,
+        "keywords": "privilege, student, classroom, identity, essential"
+      },
+      {
+        "TSNE-1": 19.24616050720215,
+        "TSNE-2": 0.20695124566555023,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": 10.78167724609375,
+        "TSNE-2": 12.921652793884277,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": -1.8944835662841797,
+        "TSNE-2": 3.5893170833587646,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": -9.09721851348877,
+        "TSNE-2": 10.605062484741211,
+        "cluster": 2,
+        "keywords": "teacher, communication, document, every, small"
+      },
+      {
+        "TSNE-1": 1.7287460565567017,
+        "TSNE-2": 3.803816080093384,
+        "cluster": 1,
+        "keywords": "may, heard, voice, background, opportunity"
+      },
+      {
+        "TSNE-1": 12.3718843460083,
+        "TSNE-2": -4.327608108520508,
+        "cluster": 4,
+        "keywords": "privileged, harder, learner, difficult, silence"
+      },
+      {
+        "TSNE-1": -6.767673969268799,
+        "TSNE-2": -0.8981608152389526,
+        "cluster": 3,
+        "keywords": "hearing, deaf, much, important, likely"
       }
     ]
   },

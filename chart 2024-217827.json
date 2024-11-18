@@ -7,567 +7,555 @@
     }
   },
   "data": {
-    "name": "data-674e3540b022b6fd27b6681000c38be9"
+    "name": "data-98e3b9960e6e857b883a4d80e3a1dc62"
   },
   "datasets": {
-    "data-674e3540b022b6fd27b6681000c38be9": [
+    "data-98e3b9960e6e857b883a4d80e3a1dc62": [
       {
-        "TSNE-1": 0.4860876202583313,
-        "TSNE-2": -2.2323172092437744,
+        "TSNE-1": -1.0222846269607544,
+        "TSNE-2": -1.1200038194656372,
         "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
+        "keywords": "execution, death, state, nature, timing"
       },
       {
-        "TSNE-1": -2.114360809326172,
-        "TSNE-2": 8.929387092590332,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": 7.823144435882568,
-        "TSNE-2": -8.658637046813965,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": 5.695208549499512,
-        "TSNE-2": 5.379761219024658,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": 7.823144435882568,
-        "TSNE-2": -8.658637046813965,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": 4.896081447601318,
-        "TSNE-2": 0.7021976113319397,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": 7.677476406097412,
-        "TSNE-2": -10.646682739257812,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": -4.075107574462891,
-        "TSNE-2": -1.3000060319900513,
+        "TSNE-1": 0.016715645790100098,
+        "TSNE-2": -4.974815368652344,
         "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
+        "keywords": "execution, death, state, nature, timing"
       },
       {
-        "TSNE-1": 12.325483322143555,
-        "TSNE-2": 0.9570324420928955,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": 7.8539137840271,
-        "TSNE-2": -0.5587607026100159,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": 0.7748022079467773,
-        "TSNE-2": 6.391981601715088,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": 13.06924819946289,
-        "TSNE-2": -2.7405567169189453,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": -1.4602046012878418,
-        "TSNE-2": -1.895135760307312,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": -5.544915676116943,
-        "TSNE-2": -0.14375728368759155,
-        "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
-      },
-      {
-        "TSNE-1": 7.031947135925293,
-        "TSNE-2": -3.2232983112335205,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": -3.422257900238037,
-        "TSNE-2": 2.9438588619232178,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": -9.41197395324707,
-        "TSNE-2": -7.697977542877197,
+        "TSNE-1": -4.77651309967041,
+        "TSNE-2": -13.113390922546387,
         "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": -4.075107574462891,
-        "TSNE-2": -1.3000060319900513,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": -5.620561122894287,
-        "TSNE-2": 4.685191631317139,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": 3.983588218688965,
-        "TSNE-2": 3.0551598072052,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": 7.593514442443848,
-        "TSNE-2": 3.50498366355896,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": -3.4597411155700684,
-        "TSNE-2": 1.3875505924224854,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": 8.001503944396973,
-        "TSNE-2": 3.164844036102295,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": 0.7659299969673157,
-        "TSNE-2": -4.259676456451416,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": -7.439704418182373,
-        "TSNE-2": 4.16989278793335,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": -0.3416355848312378,
-        "TSNE-2": -0.42023682594299316,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": 10.018369674682617,
-        "TSNE-2": 0.8824190497398376,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": -2.607409954071045,
-        "TSNE-2": 7.254687309265137,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": 7.289309024810791,
-        "TSNE-2": -2.8574395179748535,
+        "TSNE-1": -2.990443468093872,
+        "TSNE-2": 10.596768379211426,
         "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
+        "keywords": "severity, may, explicitly, remorse, mention"
       },
       {
-        "TSNE-1": -11.342626571655273,
-        "TSNE-2": 5.025982856750488,
-        "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
-      },
-      {
-        "TSNE-1": -12.750639915466309,
-        "TSNE-2": -1.2985979318618774,
-        "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
-      },
-      {
-        "TSNE-1": -5.314572334289551,
-        "TSNE-2": -7.6684889793396,
+        "TSNE-1": -4.77651309967041,
+        "TSNE-2": -13.113390922546387,
         "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": -1.9251476526260376,
-        "TSNE-2": -1.4475643634796143,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": -3.3482487201690674,
-        "TSNE-2": 4.6606950759887695,
+        "TSNE-1": 11.439820289611816,
+        "TSNE-2": 3.6538989543914795,
         "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
+        "keywords": "capital, law, others, judicial, rehabilitation"
       },
       {
-        "TSNE-1": -10.117591857910156,
-        "TSNE-2": -0.632752001285553,
-        "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
-      },
-      {
-        "TSNE-1": 2.752645492553711,
-        "TSNE-2": -0.4222829341888428,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": -9.168153762817383,
-        "TSNE-2": -1.4059544801712036,
-        "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
-      },
-      {
-        "TSNE-1": 3.18062162399292,
-        "TSNE-2": -10.417016983032227,
+        "TSNE-1": -5.2710700035095215,
+        "TSNE-2": 5.795740127563477,
         "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
+        "keywords": "severity, may, explicitly, remorse, mention"
       },
       {
-        "TSNE-1": 0.7505568861961365,
-        "TSNE-2": -9.70483112335205,
+        "TSNE-1": -1.5351182222366333,
+        "TSNE-2": 2.6387877464294434,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": -10.85440444946289,
+        "TSNE-2": -3.431417465209961,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": -7.692683219909668,
+        "TSNE-2": 10.110124588012695,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -2.4327375888824463,
+        "TSNE-2": -7.289247989654541,
         "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": -6.123650550842285,
-        "TSNE-2": 2.751685857772827,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": -5.273118019104004,
-        "TSNE-2": 6.486436367034912,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": 7.920717239379883,
-        "TSNE-2": -6.900096893310547,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": -1.6094504594802856,
-        "TSNE-2": -0.01397012174129486,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": -3.954251766204834,
-        "TSNE-2": -3.140918016433716,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": 2.0443274974823,
-        "TSNE-2": 1.0038831233978271,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": -4.205162048339844,
-        "TSNE-2": 11.734429359436035,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": -1.1310477256774902,
-        "TSNE-2": 5.082192420959473,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": 6.424646854400635,
-        "TSNE-2": 0.9038448929786682,
+        "TSNE-1": 5.69840145111084,
+        "TSNE-2": 10.660368919372559,
         "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
+        "keywords": "author, fame, celebrity, historic, article"
       },
       {
-        "TSNE-1": 0.7748022079467773,
-        "TSNE-2": 6.391981601715088,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": 2.8069868087768555,
-        "TSNE-2": -1.141892433166504,
+        "TSNE-1": -4.218240737915039,
+        "TSNE-2": -3.266819477081299,
         "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
+        "keywords": "execution, death, state, nature, timing"
       },
       {
-        "TSNE-1": -6.044521808624268,
-        "TSNE-2": -1.9938380718231201,
+        "TSNE-1": 5.268523216247559,
+        "TSNE-2": 2.212644100189209,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": 1.6891378164291382,
+        "TSNE-2": 8.445154190063477,
+        "cluster": 1,
+        "keywords": "author, fame, celebrity, historic, article"
+      },
+      {
+        "TSNE-1": -0.20912767946720123,
+        "TSNE-2": -2.8441433906555176,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": 4.203052043914795,
+        "TSNE-2": 6.153675556182861,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": -1.5351182222366333,
+        "TSNE-2": 2.6387877464294434,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": 1.6479493379592896,
+        "TSNE-2": 0.7004902958869934,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": -6.907567977905273,
+        "TSNE-2": 5.570727348327637,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -1.5160702466964722,
+        "TSNE-2": 7.00889778137207,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -1.9621816873550415,
+        "TSNE-2": -3.620191812515259,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": -1.8098317384719849,
+        "TSNE-2": 6.444840908050537,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -5.753440856933594,
+        "TSNE-2": 1.541212797164917,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": 4.138215065002441,
+        "TSNE-2": -0.9110973477363586,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": -5.727496147155762,
+        "TSNE-2": -1.8288449048995972,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": -2.990184783935547,
+        "TSNE-2": 14.081037521362305,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": 12.2096586227417,
+        "TSNE-2": 0.6906031370162964,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": 1.1115949153900146,
+        "TSNE-2": 8.138813972473145,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": 9.212828636169434,
+        "TSNE-2": 5.21720552444458,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": 7.3192901611328125,
+        "TSNE-2": -10.437501907348633,
         "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
+        "keywords": "killer, serial, found, legal, crime"
       },
       {
-        "TSNE-1": -0.7925841212272644,
-        "TSNE-2": -12.831480979919434,
-        "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "TSNE-1": 9.649643898010254,
+        "TSNE-2": 12.266497611999512,
+        "cluster": 1,
+        "keywords": "author, fame, celebrity, historic, article"
       },
       {
-        "TSNE-1": -2.674607276916504,
-        "TSNE-2": -0.03607586771249771,
+        "TSNE-1": -3.593153715133667,
+        "TSNE-2": -2.4690914154052734,
         "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
+        "keywords": "execution, death, state, nature, timing"
       },
       {
-        "TSNE-1": -4.205162048339844,
-        "TSNE-2": 11.734429359436035,
+        "TSNE-1": 1.1963826417922974,
+        "TSNE-2": 2.8102877140045166,
         "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
+        "keywords": "capital, law, others, judicial, rehabilitation"
       },
       {
-        "TSNE-1": -4.275729656219482,
-        "TSNE-2": 3.5476233959198,
-        "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
-      },
-      {
-        "TSNE-1": 6.1511077880859375,
-        "TSNE-2": 7.828520774841309,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": -7.649715900421143,
-        "TSNE-2": 1.730305790901184,
+        "TSNE-1": 4.212734699249268,
+        "TSNE-2": -8.31057071685791,
         "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
+        "keywords": "killer, serial, found, legal, crime"
       },
       {
-        "TSNE-1": 10.978797912597656,
-        "TSNE-2": 4.9411516189575195,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": -11.54259967803955,
-        "TSNE-2": 0.32978346943855286,
+        "TSNE-1": 10.568275451660156,
+        "TSNE-2": -2.4792377948760986,
         "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
+        "keywords": "killer, serial, found, legal, crime"
       },
       {
-        "TSNE-1": 7.506413459777832,
-        "TSNE-2": 4.857990264892578,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
+        "TSNE-1": 4.558835506439209,
+        "TSNE-2": -7.185229778289795,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
       },
       {
-        "TSNE-1": 5.024977207183838,
-        "TSNE-2": -6.353745460510254,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": -6.100903511047363,
-        "TSNE-2": -4.532595157623291,
+        "TSNE-1": -8.737175941467285,
+        "TSNE-2": -10.217947006225586,
         "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": 2.127406597137451,
-        "TSNE-2": 4.7375874519348145,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
+        "TSNE-1": -5.108250617980957,
+        "TSNE-2": -6.109117031097412,
+        "cluster": 4,
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": -5.906513690948486,
-        "TSNE-2": 8.686934471130371,
+        "TSNE-1": 2.2158961296081543,
+        "TSNE-2": -1.279402494430542,
         "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
+        "keywords": "capital, law, others, judicial, rehabilitation"
       },
       {
-        "TSNE-1": 1.0530250072479248,
-        "TSNE-2": 1.7842367887496948,
+        "TSNE-1": 3.2026023864746094,
+        "TSNE-2": 0.8969733715057373,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": -2.9920618534088135,
+        "TSNE-2": -12.292832374572754,
+        "cluster": 4,
+        "keywords": "appeal, process, year, lengthy, delay"
+      },
+      {
+        "TSNE-1": -4.013596534729004,
+        "TSNE-2": -0.9496815800666809,
         "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
+        "keywords": "execution, death, state, nature, timing"
       },
       {
-        "TSNE-1": 0.05677790939807892,
-        "TSNE-2": 3.462930679321289,
+        "TSNE-1": -1.5430876016616821,
+        "TSNE-2": 1.2086786031723022,
         "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
+        "keywords": "execution, death, state, nature, timing"
       },
       {
-        "TSNE-1": -9.48908805847168,
-        "TSNE-2": -2.8095545768737793,
+        "TSNE-1": 8.921788215637207,
+        "TSNE-2": -2.5421805381774902,
         "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
+        "keywords": "killer, serial, found, legal, crime"
       },
       {
-        "TSNE-1": -1.6919186115264893,
-        "TSNE-2": -9.489348411560059,
+        "TSNE-1": 11.026134490966797,
+        "TSNE-2": 7.402458667755127,
+        "cluster": 1,
+        "keywords": "author, fame, celebrity, historic, article"
+      },
+      {
+        "TSNE-1": -8.461058616638184,
+        "TSNE-2": 6.3766703605651855,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -5.9984941482543945,
+        "TSNE-2": 9.106973648071289,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -2.4327375888824463,
+        "TSNE-2": -7.289247989654541,
         "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": -9.291004180908203,
-        "TSNE-2": 7.0299272537231445,
+        "TSNE-1": 11.23071575164795,
+        "TSNE-2": -3.193185329437256,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": 6.765486240386963,
+        "TSNE-2": 1.9363518953323364,
         "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
+        "keywords": "capital, law, others, judicial, rehabilitation"
       },
       {
-        "TSNE-1": 7.916330337524414,
-        "TSNE-2": 7.241664886474609,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": 2.971118211746216,
-        "TSNE-2": 8.025956153869629,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": -9.41197395324707,
-        "TSNE-2": -7.697977542877197,
-        "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
-      },
-      {
-        "TSNE-1": 3.258443832397461,
-        "TSNE-2": -6.446694850921631,
+        "TSNE-1": -7.549755573272705,
+        "TSNE-2": 11.961949348449707,
         "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
+        "keywords": "severity, may, explicitly, remorse, mention"
       },
       {
-        "TSNE-1": 4.023512363433838,
-        "TSNE-2": -9.467344284057617,
+        "TSNE-1": -2.883366107940674,
+        "TSNE-2": -0.3246266841888428,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": 11.026134490966797,
+        "TSNE-2": 7.402458667755127,
+        "cluster": 1,
+        "keywords": "author, fame, celebrity, historic, article"
+      },
+      {
+        "TSNE-1": 0.9688199758529663,
+        "TSNE-2": -2.9428248405456543,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": -1.2043583393096924,
+        "TSNE-2": 12.832478523254395,
         "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
+        "keywords": "severity, may, explicitly, remorse, mention"
       },
       {
-        "TSNE-1": -8.109041213989258,
-        "TSNE-2": -1.0073884725570679,
+        "TSNE-1": 3.2193782329559326,
+        "TSNE-2": -3.4612224102020264,
         "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
+        "keywords": "killer, serial, found, legal, crime"
       },
       {
-        "TSNE-1": -7.3100128173828125,
-        "TSNE-2": 6.394007682800293,
+        "TSNE-1": 2.4160447120666504,
+        "TSNE-2": 13.612167358398438,
+        "cluster": 1,
+        "keywords": "author, fame, celebrity, historic, article"
+      },
+      {
+        "TSNE-1": 5.228872776031494,
+        "TSNE-2": -10.547039031982422,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": -2.0934934616088867,
+        "TSNE-2": 8.455129623413086,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -4.640084743499756,
+        "TSNE-2": -10.446041107177734,
+        "cluster": 4,
+        "keywords": "appeal, process, year, lengthy, delay"
+      },
+      {
+        "TSNE-1": 8.463130950927734,
+        "TSNE-2": 1.1612167358398438,
         "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
+        "keywords": "capital, law, others, judicial, rehabilitation"
       },
       {
-        "TSNE-1": 3.147136688232422,
-        "TSNE-2": -7.904865264892578,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": 3.258443832397461,
-        "TSNE-2": -6.446694850921631,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": 0.03625364229083061,
-        "TSNE-2": 1.7107805013656616,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": 7.045551300048828,
-        "TSNE-2": 0.46654653549194336,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": -0.8711623549461365,
-        "TSNE-2": -3.6407454013824463,
-        "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
-      },
-      {
-        "TSNE-1": 13.06924819946289,
-        "TSNE-2": -2.7405567169189453,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": -1.768096685409546,
-        "TSNE-2": -6.6936469078063965,
+        "TSNE-1": 0.07750585675239563,
+        "TSNE-2": -10.147573471069336,
         "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": -1.5462336540222168,
-        "TSNE-2": 2.315934658050537,
+        "TSNE-1": 11.180100440979004,
+        "TSNE-2": -6.869123935699463,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": 7.330195903778076,
+        "TSNE-2": -1.886310338973999,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": -7.803321361541748,
+        "TSNE-2": -0.7136573195457458,
         "cluster": 3,
-        "keywords": "execution, state, due, nature, public"
+        "keywords": "execution, death, state, nature, timing"
       },
       {
-        "TSNE-1": -6.123650550842285,
-        "TSNE-2": 2.751685857772827,
+        "TSNE-1": 6.26841402053833,
+        "TSNE-2": -7.0926713943481445,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": -12.439726829528809,
+        "TSNE-2": 0.22632920742034912,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": 6.443786144256592,
+        "TSNE-2": -4.450969696044922,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": -0.364091157913208,
+        "TSNE-2": 10.663616180419922,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -6.652414321899414,
+        "TSNE-2": -3.7331182956695557,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": 4.203052043914795,
+        "TSNE-2": 6.153675556182861,
         "cluster": 5,
-        "keywords": "timing, penalty, medium, attention, delay"
+        "keywords": "capital, law, others, judicial, rehabilitation"
       },
       {
-        "TSNE-1": 9.972014427185059,
-        "TSNE-2": 4.82417631149292,
-        "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
-      },
-      {
-        "TSNE-1": 10.268951416015625,
-        "TSNE-2": -6.452356815338135,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": -1.5911450386047363,
-        "TSNE-2": -6.9462995529174805,
+        "TSNE-1": -7.329253196716309,
+        "TSNE-2": -8.108145713806152,
         "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": -8.693260192871094,
-        "TSNE-2": 2.2454428672790527,
-        "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
-      },
-      {
-        "TSNE-1": -11.95076847076416,
-        "TSNE-2": 1.1625500917434692,
-        "cluster": 0,
-        "keywords": "killer, serial, found, death, life"
-      },
-      {
-        "TSNE-1": 6.006796360015869,
-        "TSNE-2": -9.219412803649902,
-        "cluster": 2,
-        "keywords": "appeal, inmate, lengthy, year, process"
-      },
-      {
-        "TSNE-1": -5.314572334289551,
-        "TSNE-2": -7.6684889793396,
+        "TSNE-1": -7.442192554473877,
+        "TSNE-2": -10.862196922302246,
         "cluster": 4,
-        "keywords": "nan, difference, law, progress, dna"
+        "keywords": "appeal, process, year, lengthy, delay"
       },
       {
-        "TSNE-1": 7.180588245391846,
-        "TSNE-2": 6.876202583312988,
+        "TSNE-1": 3.2632851600646973,
+        "TSNE-2": -6.6777753829956055,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": 3.7350566387176514,
+        "TSNE-2": 2.9156606197357178,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": -5.889993667602539,
+        "TSNE-2": -9.278633117675781,
+        "cluster": 4,
+        "keywords": "appeal, process, year, lengthy, delay"
+      },
+      {
+        "TSNE-1": -7.329253196716309,
+        "TSNE-2": -8.108145713806152,
+        "cluster": 4,
+        "keywords": "appeal, process, year, lengthy, delay"
+      },
+      {
+        "TSNE-1": 6.931875228881836,
+        "TSNE-2": -0.6623150110244751,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": -6.895927429199219,
+        "TSNE-2": 8.7022066116333,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
+      },
+      {
+        "TSNE-1": -6.02605676651001,
+        "TSNE-2": -0.20944152772426605,
+        "cluster": 3,
+        "keywords": "execution, death, state, nature, timing"
+      },
+      {
+        "TSNE-1": 5.69840145111084,
+        "TSNE-2": 10.660368919372559,
         "cluster": 1,
-        "keywords": "severity, may, explicitly, legal, others"
+        "keywords": "author, fame, celebrity, historic, article"
+      },
+      {
+        "TSNE-1": 5.9003777503967285,
+        "TSNE-2": -2.870988368988037,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": 2.2158961296081543,
+        "TSNE-2": -1.279402494430542,
+        "cluster": 5,
+        "keywords": "capital, law, others, judicial, rehabilitation"
+      },
+      {
+        "TSNE-1": 1.341164469718933,
+        "TSNE-2": 13.04096794128418,
+        "cluster": 1,
+        "keywords": "author, fame, celebrity, historic, article"
+      },
+      {
+        "TSNE-1": 7.103466510772705,
+        "TSNE-2": 7.390174865722656,
+        "cluster": 1,
+        "keywords": "author, fame, celebrity, historic, article"
+      },
+      {
+        "TSNE-1": 2.5718390941619873,
+        "TSNE-2": -4.540706157684326,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": 3.961367130279541,
+        "TSNE-2": -10.38278579711914,
+        "cluster": 0,
+        "keywords": "killer, serial, found, legal, crime"
+      },
+      {
+        "TSNE-1": -9.824995994567871,
+        "TSNE-2": -7.597213268280029,
+        "cluster": 4,
+        "keywords": "appeal, process, year, lengthy, delay"
+      },
+      {
+        "TSNE-1": 9.649643898010254,
+        "TSNE-2": 12.266497611999512,
+        "cluster": 1,
+        "keywords": "author, fame, celebrity, historic, article"
+      },
+      {
+        "TSNE-1": -1.1570137739181519,
+        "TSNE-2": 11.24499797821045,
+        "cluster": 2,
+        "keywords": "severity, may, explicitly, remorse, mention"
       }
     ]
   },

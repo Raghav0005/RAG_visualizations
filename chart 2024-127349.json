@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-871ba9e58da3cc470ef2b58250a6846b"
+    "name": "data-e8e62b409fa8505948f117f29df4f345"
   },
   "datasets": {
-    "data-871ba9e58da3cc470ef2b58250a6846b": [
+    "data-e8e62b409fa8505948f117f29df4f345": [
       {
-        "TSNE-1": -0.390533447265625,
-        "TSNE-2": -5.323601722717285,
+        "TSNE-1": 4.245863437652588,
+        "TSNE-2": -1.4305682182312012,
         "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
+        "keywords": "method, organization, source, story, help"
       },
       {
-        "TSNE-1": -4.212233543395996,
-        "TSNE-2": -6.421420574188232,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
+        "TSNE-1": -9.367679595947266,
+        "TSNE-2": 0.15917807817459106,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
       },
       {
-        "TSNE-1": 11.87460708618164,
-        "TSNE-2": -3.711834192276001,
+        "TSNE-1": 12.943761825561523,
+        "TSNE-2": 4.01807975769043,
         "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
+        "keywords": "bias, document, news, view, medium"
       },
       {
-        "TSNE-1": -9.862339973449707,
-        "TSNE-2": 0.35426872968673706,
+        "TSNE-1": -0.5902309417724609,
+        "TSNE-2": 8.896629333496094,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": 11.87460708618164,
-        "TSNE-2": -3.711834192276001,
+        "TSNE-1": 12.943761825561523,
+        "TSNE-2": 4.01807975769043,
         "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
+        "keywords": "bias, document, news, view, medium"
       },
       {
-        "TSNE-1": -10.887690544128418,
-        "TSNE-2": 1.5647356510162354,
+        "TSNE-1": 0.6123636960983276,
+        "TSNE-2": 10.08940601348877,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": -8.879605293273926,
-        "TSNE-2": -5.154326438903809,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": -2.7238080501556396,
-        "TSNE-2": -5.85121488571167,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": -4.378222465515137,
-        "TSNE-2": 3.4434685707092285,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": 2.8421471118927,
-        "TSNE-2": 9.300183296203613,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
-      },
-      {
-        "TSNE-1": -7.701786994934082,
-        "TSNE-2": 2.601989269256592,
+        "TSNE-1": -5.23565149307251,
+        "TSNE-2": 6.803774833679199,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": -1.418912649154663,
-        "TSNE-2": 4.394327163696289,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
+        "TSNE-1": 8.655112266540527,
+        "TSNE-2": -1.8170634508132935,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
       },
       {
-        "TSNE-1": -0.2536661922931671,
-        "TSNE-2": -3.324070930480957,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": 4.3364577293396,
-        "TSNE-2": 2.347155809402466,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": 5.158699035644531,
-        "TSNE-2": 8.283862113952637,
+        "TSNE-1": -1.5571895837783813,
+        "TSNE-2": 2.4425621032714844,
         "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
+        "keywords": "station, possible, limit, consumer, certain"
       },
       {
-        "TSNE-1": -2.8679120540618896,
-        "TSNE-2": -3.3220884799957275,
+        "TSNE-1": -9.994575500488281,
+        "TSNE-2": -8.238688468933105,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": -7.752299785614014,
+        "TSNE-2": -3.404233455657959,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": -1.3947240114212036,
+        "TSNE-2": -4.312249183654785,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": 2.8367063999176025,
+        "TSNE-2": 0.9465634822845459,
         "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
+        "keywords": "method, organization, source, story, help"
       },
       {
-        "TSNE-1": -7.49592399597168,
-        "TSNE-2": 7.380704879760742,
+        "TSNE-1": -0.1832418292760849,
+        "TSNE-2": -9.014094352722168,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": -7.300928115844727,
+        "TSNE-2": -7.936782360076904,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": 0.2872057557106018,
+        "TSNE-2": 5.078189849853516,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": 1.7406971454620361,
-        "TSNE-2": -2.766270160675049,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": -0.018251532688736916,
-        "TSNE-2": -0.03506746143102646,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -2.7416586875915527,
-        "TSNE-2": -1.72642183303833,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": -9.31760311126709,
-        "TSNE-2": -2.5087220668792725,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 0.7258758544921875,
-        "TSNE-2": -6.836615085601807,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": -9.81766128540039,
-        "TSNE-2": -2.2227845191955566,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 5.06857442855835,
-        "TSNE-2": 3.214573621749878,
+        "TSNE-1": -5.368383884429932,
+        "TSNE-2": -1.410260796546936,
         "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
+        "keywords": "station, possible, limit, consumer, certain"
       },
       {
-        "TSNE-1": -8.10759162902832,
-        "TSNE-2": -7.938211917877197,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 2.6392977237701416,
-        "TSNE-2": -2.1343493461608887,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": -8.77216911315918,
-        "TSNE-2": -0.6779216527938843,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": -7.85284948348999,
-        "TSNE-2": -6.387829780578613,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 5.721675395965576,
-        "TSNE-2": 8.048043251037598,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
-      },
-      {
-        "TSNE-1": 11.517782211303711,
-        "TSNE-2": -4.657622814178467,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": -4.408710479736328,
-        "TSNE-2": 4.578965187072754,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -4.5002312660217285,
-        "TSNE-2": -2.201873540878296,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 0.7020199298858643,
-        "TSNE-2": -3.5986411571502686,
+        "TSNE-1": 5.462754726409912,
+        "TSNE-2": -0.4826565682888031,
         "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
+        "keywords": "method, organization, source, story, help"
       },
       {
-        "TSNE-1": -1.5564407110214233,
-        "TSNE-2": -8.54714584350586,
+        "TSNE-1": 1.3571367263793945,
+        "TSNE-2": -0.7482420206069946,
         "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
+        "keywords": "method, organization, source, story, help"
       },
       {
-        "TSNE-1": 6.041674613952637,
-        "TSNE-2": -3.777100086212158,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": 6.800166130065918,
-        "TSNE-2": -0.08516408503055573,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": 7.51641321182251,
-        "TSNE-2": 1.1778324842453003,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": -3.874112367630005,
-        "TSNE-2": 7.506479263305664,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": 2.975710868835449,
-        "TSNE-2": 1.0690068006515503,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": 3.61928653717041,
-        "TSNE-2": -3.7933242321014404,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": -2.857259511947632,
-        "TSNE-2": -6.265049457550049,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": -0.8209354281425476,
-        "TSNE-2": 3.0188515186309814,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -0.15113189816474915,
-        "TSNE-2": -2.3964591026306152,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": 0.32812240719795227,
-        "TSNE-2": 1.9315717220306396,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": 7.103239059448242,
-        "TSNE-2": -1.652275562286377,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": 2.3562307357788086,
-        "TSNE-2": 4.588179588317871,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -3.4933700561523438,
-        "TSNE-2": -1.0865399837493896,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 2.8553733825683594,
-        "TSNE-2": 8.421792984008789,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
-      },
-      {
-        "TSNE-1": -7.595729827880859,
-        "TSNE-2": 2.5426836013793945,
+        "TSNE-1": 1.9845671653747559,
+        "TSNE-2": 4.917011737823486,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": 5.083124160766602,
-        "TSNE-2": 0.06178584694862366,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": -6.927004814147949,
-        "TSNE-2": -4.827470302581787,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 5.988336086273193,
-        "TSNE-2": 10.153223037719727,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
-      },
-      {
-        "TSNE-1": -0.4498461186885834,
-        "TSNE-2": -2.3428664207458496,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": 8.250222206115723,
-        "TSNE-2": 4.399431228637695,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
-      },
-      {
-        "TSNE-1": -0.8864265084266663,
-        "TSNE-2": -5.964419841766357,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": -10.94890022277832,
-        "TSNE-2": -2.0957391262054443,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 2.6187777519226074,
-        "TSNE-2": -7.776053428649902,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": 3.8912038803100586,
-        "TSNE-2": 9.02486801147461,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
-      },
-      {
-        "TSNE-1": -1.8563544750213623,
-        "TSNE-2": 0.7117716670036316,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -10.724957466125488,
-        "TSNE-2": -3.4625847339630127,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": -6.052656173706055,
-        "TSNE-2": 4.540660381317139,
+        "TSNE-1": -3.5599944591522217,
+        "TSNE-2": 8.209539413452148,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": -7.253169059753418,
-        "TSNE-2": -3.8494153022766113,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": -3.3782806396484375,
-        "TSNE-2": 4.042964458465576,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -4.550182819366455,
-        "TSNE-2": -0.3851684331893921,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": 5.661015510559082,
-        "TSNE-2": -0.8486237525939941,
+        "TSNE-1": 6.7370476722717285,
+        "TSNE-2": 1.6930351257324219,
         "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
+        "keywords": "bias, document, news, view, medium"
       },
       {
-        "TSNE-1": 7.95558500289917,
-        "TSNE-2": -5.652560710906982,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": 4.433389186859131,
-        "TSNE-2": -0.7881584167480469,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": 0.7197818756103516,
-        "TSNE-2": -8.688611030578613,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": -1.4725884199142456,
-        "TSNE-2": 2.612860679626465,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -7.52376651763916,
-        "TSNE-2": -1.2272793054580688,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
-      },
-      {
-        "TSNE-1": -0.7121602296829224,
-        "TSNE-2": 2.9736011028289795,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -7.509403228759766,
-        "TSNE-2": 7.355941295623779,
+        "TSNE-1": -4.3066511154174805,
+        "TSNE-2": 8.602002143859863,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": -3.019538164138794,
-        "TSNE-2": 8.532967567443848,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": 6.092861175537109,
-        "TSNE-2": -5.625199794769287,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": 6.287227153778076,
-        "TSNE-2": -1.0416451692581177,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": 1.315708041191101,
-        "TSNE-2": -0.7658393383026123,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": 8.731622695922852,
-        "TSNE-2": -2.3436779975891113,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": -3.019538164138794,
-        "TSNE-2": 8.532967567443848,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": -7.028236389160156,
-        "TSNE-2": -3.6169207096099854,
+        "TSNE-1": 0.301727831363678,
+        "TSNE-2": -10.622965812683105,
         "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
+        "keywords": "reporting, diverse, interest, aim, additionally"
       },
       {
-        "TSNE-1": 6.217782974243164,
-        "TSNE-2": 9.191710472106934,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
-      },
-      {
-        "TSNE-1": 3.649482488632202,
-        "TSNE-2": 1.8275171518325806,
-        "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
-      },
-      {
-        "TSNE-1": 3.56256103515625,
-        "TSNE-2": -6.122187614440918,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
-      },
-      {
-        "TSNE-1": -6.052656173706055,
-        "TSNE-2": 4.540660381317139,
+        "TSNE-1": -6.824429988861084,
+        "TSNE-2": 4.448095798492432,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": 3.1991941928863525,
-        "TSNE-2": 4.186689853668213,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
+        "TSNE-1": 6.464867115020752,
+        "TSNE-2": -0.7849578261375427,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
       },
       {
-        "TSNE-1": 3.61928653717041,
-        "TSNE-2": -3.7933242321014404,
-        "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
-      },
-      {
-        "TSNE-1": 2.9566640853881836,
-        "TSNE-2": 10.07754898071289,
-        "cluster": 3,
-        "keywords": "mention, tip, detect, medium, way"
-      },
-      {
-        "TSNE-1": -12.080314636230469,
-        "TSNE-2": 2.5237791538238525,
+        "TSNE-1": -1.6179779767990112,
+        "TSNE-2": 7.944891452789307,
         "cluster": 2,
-        "keywords": "view, format, adversarial, try, airtime"
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": 2.084625244140625,
-        "TSNE-2": -11.423346519470215,
-        "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
+        "TSNE-1": -5.301846981048584,
+        "TSNE-2": 4.868940353393555,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
       },
       {
-        "TSNE-1": -0.1607021540403366,
-        "TSNE-2": -0.7580032348632812,
+        "TSNE-1": -6.676257610321045,
+        "TSNE-2": -7.844642162322998,
         "cluster": 1,
-        "keywords": "source, station, technique, information, consumer"
+        "keywords": "mention, tip, detect, way, quality"
       },
       {
-        "TSNE-1": 5.752465724945068,
-        "TSNE-2": -5.279014587402344,
+        "TSNE-1": 12.301485061645508,
+        "TSNE-2": 5.341042995452881,
         "cluster": 0,
-        "keywords": "news, bias, document, avoid, reporting"
+        "keywords": "bias, document, news, view, medium"
       },
       {
-        "TSNE-1": 1.7910641431808472,
-        "TSNE-2": -4.54635763168335,
+        "TSNE-1": -1.4502818584442139,
+        "TSNE-2": 2.293759822845459,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": 4.213797569274902,
+        "TSNE-2": 6.2005839347839355,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": 4.078325271606445,
+        "TSNE-2": 0.8779265284538269,
         "cluster": 4,
-        "keywords": "also, story, journalist, organization, audience"
+        "keywords": "method, organization, source, story, help"
       },
       {
-        "TSNE-1": -4.5002312660217285,
-        "TSNE-2": -2.201873540878296,
-        "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
+        "TSNE-1": 2.033188819885254,
+        "TSNE-2": -2.725285768508911,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
       },
       {
-        "TSNE-1": -7.74302339553833,
-        "TSNE-2": -1.760087490081787,
+        "TSNE-1": 9.088295936584473,
+        "TSNE-2": 2.583979606628418,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": 3.180440902709961,
+        "TSNE-2": -6.921573638916016,
         "cluster": 5,
-        "keywords": "side, much, analysis, possible, least"
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": 0.9143487811088562,
+        "TSNE-2": -4.655693054199219,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": -3.922292470932007,
+        "TSNE-2": -0.09790552407503128,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": -1.9088058471679688,
+        "TSNE-2": -9.907333374023438,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": 5.6070556640625,
+        "TSNE-2": -3.138171672821045,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": 9.222110748291016,
+        "TSNE-2": -2.1835873126983643,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": -0.7996399998664856,
+        "TSNE-2": -2.5866804122924805,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": 2.7515172958374023,
+        "TSNE-2": 1.6989617347717285,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": -1.4124701023101807,
+        "TSNE-2": -0.1609240621328354,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": 4.81667423248291,
+        "TSNE-2": -6.804901123046875,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": -7.01813268661499,
+        "TSNE-2": 1.5263841152191162,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": 2.4705867767333984,
+        "TSNE-2": 5.8349151611328125,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": -9.742056846618652,
+        "TSNE-2": -7.307200908660889,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": -7.719331741333008,
+        "TSNE-2": -3.436143398284912,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": 2.3495705127716064,
+        "TSNE-2": -5.509267330169678,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": -3.205653667449951,
+        "TSNE-2": 3.9485666751861572,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": -7.194593906402588,
+        "TSNE-2": -10.15163516998291,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": 3.0613341331481934,
+        "TSNE-2": 2.154111862182617,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": 8.309697151184082,
+        "TSNE-2": -8.08975601196289,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": 3.628389358520508,
+        "TSNE-2": -2.3904173374176025,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": -2.9750454425811768,
+        "TSNE-2": 9.492347717285156,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": 6.661718845367432,
+        "TSNE-2": 6.432762145996094,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": -8.755871772766113,
+        "TSNE-2": -8.074912071228027,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": 1.2810126543045044,
+        "TSNE-2": 2.7389345169067383,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": -4.059676170349121,
+        "TSNE-2": 10.19971752166748,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": 5.8929243087768555,
+        "TSNE-2": 3.9485864639282227,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": -3.172978639602661,
+        "TSNE-2": 4.923928260803223,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": -3.058044672012329,
+        "TSNE-2": -1.778863549232483,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": 2.767462968826294,
+        "TSNE-2": 7.139756202697754,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": 3.540170669555664,
+        "TSNE-2": -5.313416957855225,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": 7.268335342407227,
+        "TSNE-2": -3.70528244972229,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": 1.9760252237319946,
+        "TSNE-2": -6.465558052062988,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": -10.475595474243164,
+        "TSNE-2": -3.8456168174743652,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": -1.3654357194900513,
+        "TSNE-2": -2.041461944580078,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": -2.0078611373901367,
+        "TSNE-2": 6.530029773712158,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": -0.43637892603874207,
+        "TSNE-2": -2.352790355682373,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": -5.307497024536133,
+        "TSNE-2": -1.437913417816162,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": -4.066746234893799,
+        "TSNE-2": -4.076721668243408,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": 10.267300605773926,
+        "TSNE-2": 0.22688406705856323,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": 3.8491783142089844,
+        "TSNE-2": -6.169993877410889,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": 0.889604389667511,
+        "TSNE-2": 0.44175612926483154,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": 7.047033786773682,
+        "TSNE-2": -5.729127407073975,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": -4.066746234893799,
+        "TSNE-2": -4.076721668243408,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": -3.665952444076538,
+        "TSNE-2": 5.223235130310059,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": -6.698003768920898,
+        "TSNE-2": -9.21053695678711,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": -0.852861225605011,
+        "TSNE-2": -9.89257526397705,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": -7.205440521240234,
+        "TSNE-2": 1.7846680879592896,
+        "cluster": 3,
+        "keywords": "station, possible, limit, consumer, certain"
+      },
+      {
+        "TSNE-1": 5.8929243087768555,
+        "TSNE-2": 3.9485864639282227,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": -0.1986662596464157,
+        "TSNE-2": -6.890029430389404,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": 5.6070556640625,
+        "TSNE-2": -3.138171672821045,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": -9.885128021240234,
+        "TSNE-2": -9.089595794677734,
+        "cluster": 1,
+        "keywords": "mention, tip, detect, way, quality"
+      },
+      {
+        "TSNE-1": 1.2580088376998901,
+        "TSNE-2": 11.51293659210205,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
+      },
+      {
+        "TSNE-1": 3.8529982566833496,
+        "TSNE-2": -10.147542953491211,
+        "cluster": 5,
+        "keywords": "reporting, diverse, interest, aim, additionally"
+      },
+      {
+        "TSNE-1": 2.261284351348877,
+        "TSNE-2": -1.268777847290039,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": 10.118159294128418,
+        "TSNE-2": 0.8287302851676941,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": 5.337223052978516,
+        "TSNE-2": 1.007149338722229,
+        "cluster": 4,
+        "keywords": "method, organization, source, story, help"
+      },
+      {
+        "TSNE-1": 4.213797569274902,
+        "TSNE-2": 6.2005839347839355,
+        "cluster": 0,
+        "keywords": "bias, document, news, view, medium"
+      },
+      {
+        "TSNE-1": -2.644322395324707,
+        "TSNE-2": 6.8280205726623535,
+        "cluster": 2,
+        "keywords": "side, much, least, two, analysis"
       }
     ]
   },

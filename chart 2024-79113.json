@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-c16fce0ef73c1a4f46a00dd5463e4b23"
+    "name": "data-d8f896ef07091456fcd9828bc105dc20"
   },
   "datasets": {
-    "data-c16fce0ef73c1a4f46a00dd5463e4b23": [
+    "data-d8f896ef07091456fcd9828bc105dc20": [
       {
-        "TSNE-1": 1.6044018268585205,
-        "TSNE-2": -11.682321548461914,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
+        "TSNE-1": 0.7495110630989075,
+        "TSNE-2": 0.7889586091041565,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
       },
       {
-        "TSNE-1": -15.31567668914795,
-        "TSNE-2": 4.023967742919922,
+        "TSNE-1": -10.31668472290039,
+        "TSNE-2": -7.292947292327881,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
+      },
+      {
+        "TSNE-1": 6.404998779296875,
+        "TSNE-2": 9.755374908447266,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": -0.2772369980812073,
+        "TSNE-2": -6.421762943267822,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": -15.377708435058594,
-        "TSNE-2": 8.427343368530273,
+        "TSNE-1": 6.404998779296875,
+        "TSNE-2": 9.755374908447266,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": 12.606269836425781,
+        "TSNE-2": 0.1307476907968521,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -4.920403003692627,
+        "TSNE-2": -2.3651115894317627,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
+      },
+      {
+        "TSNE-1": -0.5434288382530212,
+        "TSNE-2": 2.4392621517181396,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": -3.7692973613739014,
+        "TSNE-2": -9.197403907775879,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": 2.2105135917663574,
-        "TSNE-2": 0.15215268731117249,
+        "TSNE-1": 7.135777950286865,
+        "TSNE-2": -4.6802449226379395,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -1.5529392957687378,
+        "TSNE-2": -3.9346365928649902,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": 8.77010440826416,
+        "TSNE-2": -3.3895466327667236,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -1.9064377546310425,
+        "TSNE-2": 1.7428436279296875,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": -9.0894136428833,
+        "TSNE-2": -7.882290840148926,
         "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
+        "keywords": "manage, market, sample, decision, better"
       },
       {
-        "TSNE-1": -15.377708435058594,
-        "TSNE-2": 8.427343368530273,
+        "TSNE-1": 5.8152995109558105,
+        "TSNE-2": 1.2472951412200928,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": -0.3242301344871521,
+        "TSNE-2": -0.6721988916397095,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": 2.8361940383911133,
+        "TSNE-2": 10.938587188720703,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": -0.5434288382530212,
+        "TSNE-2": 2.4392621517181396,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": 4.638627052307129,
+        "TSNE-2": 6.420621395111084,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": -4.68341588973999,
+        "TSNE-2": 14.799458503723145,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": 8.728500366210938,
+        "TSNE-2": 0.4052104353904724,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": 0.67659991979599,
+        "TSNE-2": 4.437499046325684,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": 8.666093826293945,
+        "TSNE-2": 0.5680480003356934,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": 6.357842445373535,
+        "TSNE-2": -1.5235633850097656,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -10.977591514587402,
+        "TSNE-2": -1.0956095457077026,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
+      },
+      {
+        "TSNE-1": -4.868260860443115,
+        "TSNE-2": 0.6368660926818848,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
+      },
+      {
+        "TSNE-1": 0.7419222593307495,
+        "TSNE-2": -5.548967361450195,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": 2.0818889141082764,
+        "TSNE-2": 7.334780693054199,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": -10.333085060119629,
+        "TSNE-2": 6.5716023445129395,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": 13.03303050994873,
+        "TSNE-2": 1.7116336822509766,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -3.9653522968292236,
+        "TSNE-2": -9.828962326049805,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": 4.993288516998291,
-        "TSNE-2": -11.504732131958008,
+        "TSNE-1": -3.329385757446289,
+        "TSNE-2": 13.208620071411133,
         "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
+        "keywords": "confidence, business, interval, estimate, consumer"
       },
       {
-        "TSNE-1": -11.335716247558594,
-        "TSNE-2": 3.6415297985076904,
+        "TSNE-1": -3.1522624492645264,
+        "TSNE-2": 0.28923705220222473,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": -9.147856712341309,
+        "TSNE-2": -3.5255119800567627,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
+      },
+      {
+        "TSNE-1": -5.061509609222412,
+        "TSNE-2": 4.93825101852417,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": 4.571537494659424,
+        "TSNE-2": -4.432082653045654,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": 4.193690776824951,
+        "TSNE-2": -0.6947737336158752,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": -5.781397819519043,
+        "TSNE-2": -15.893134117126465,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": -2.516512870788574,
-        "TSNE-2": 1.861227035522461,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
+        "TSNE-1": -2.811814308166504,
+        "TSNE-2": 4.089941024780273,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
       },
       {
-        "TSNE-1": 9.755319595336914,
-        "TSNE-2": 6.5151262283325195,
+        "TSNE-1": -2.950871706008911,
+        "TSNE-2": -1.2003322839736938,
         "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
+        "keywords": "financial, million, budget, company, prepare"
       },
       {
-        "TSNE-1": -0.8468351364135742,
-        "TSNE-2": 15.611274719238281,
+        "TSNE-1": -9.266878128051758,
+        "TSNE-2": 3.721668243408203,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
+      },
+      {
+        "TSNE-1": -8.613268852233887,
+        "TSNE-2": 1.0737979412078857,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
+      },
+      {
+        "TSNE-1": -3.216898202896118,
+        "TSNE-2": 1.6341885328292847,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": -3.807549238204956,
+        "TSNE-2": 5.897076606750488,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": 10.955692291259766,
+        "TSNE-2": -6.289936065673828,
         "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
+        "keywords": "value, range, percentage, possible, probability"
       },
       {
-        "TSNE-1": 5.313302040100098,
-        "TSNE-2": 5.52534818649292,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -0.7254880666732788,
-        "TSNE-2": -3.6939501762390137,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -2.7173101902008057,
-        "TSNE-2": 4.16444730758667,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -0.3966562747955322,
-        "TSNE-2": -17.23118782043457,
+        "TSNE-1": -0.044081978499889374,
+        "TSNE-2": 7.755371570587158,
         "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
+        "keywords": "confidence, business, interval, estimate, consumer"
       },
       {
-        "TSNE-1": -4.113544464111328,
-        "TSNE-2": -15.64393424987793,
+        "TSNE-1": -4.9547624588012695,
+        "TSNE-2": 13.5335054397583,
         "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
+        "keywords": "confidence, business, interval, estimate, consumer"
       },
       {
-        "TSNE-1": 9.665562629699707,
-        "TSNE-2": 2.8905014991760254,
+        "TSNE-1": -3.748994827270508,
+        "TSNE-2": 9.826735496520996,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": -1.5529392957687378,
+        "TSNE-2": -3.9346365928649902,
         "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
+        "keywords": "financial, million, budget, company, prepare"
       },
       {
-        "TSNE-1": 19.049480438232422,
-        "TSNE-2": -0.7324422597885132,
+        "TSNE-1": 3.801295518875122,
+        "TSNE-2": -2.36576509475708,
         "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
+        "keywords": "financial, million, budget, company, prepare"
       },
       {
-        "TSNE-1": -2.516512870788574,
-        "TSNE-2": 1.861227035522461,
+        "TSNE-1": -5.869997501373291,
+        "TSNE-2": -4.3402581214904785,
         "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
+        "keywords": "manage, market, sample, decision, better"
       },
       {
-        "TSNE-1": 6.701744079589844,
-        "TSNE-2": 2.5730276107788086,
+        "TSNE-1": 8.306421279907227,
+        "TSNE-2": -5.6534342765808105,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -2.7957170009613037,
+        "TSNE-2": 2.7470269203186035,
         "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
+        "keywords": "financial, million, budget, company, prepare"
       },
       {
-        "TSNE-1": -7.894262790679932,
-        "TSNE-2": 8.984551429748535,
+        "TSNE-1": -0.044081978499889374,
+        "TSNE-2": 7.755371570587158,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": -2.858677387237549,
+        "TSNE-2": -6.1272358894348145,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": -5.798305988311768,
-        "TSNE-2": -7.209333419799805,
+        "TSNE-1": 1.1990420818328857,
+        "TSNE-2": -4.633824825286865,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": 3.5181541442871094,
+        "TSNE-2": 4.898722171783447,
         "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
+        "keywords": "sale, affect, prediction, likely, future"
       },
       {
-        "TSNE-1": -15.206119537353516,
-        "TSNE-2": -3.752425193786621,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": -5.25648307800293,
-        "TSNE-2": 0.06099383533000946,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": 1.0621074438095093,
-        "TSNE-2": -17.41838836669922,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": 10.350117683410645,
-        "TSNE-2": -8.018397331237793,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": -3.3116652965545654,
-        "TSNE-2": 7.535606384277344,
+        "TSNE-1": 7.882401466369629,
+        "TSNE-2": -6.7080793380737305,
         "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
+        "keywords": "value, range, percentage, possible, probability"
       },
       {
-        "TSNE-1": 0.6162859797477722,
-        "TSNE-2": -0.629930317401886,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -10.352652549743652,
-        "TSNE-2": 2.312574625015259,
+        "TSNE-1": 2.8890578746795654,
+        "TSNE-2": -7.406750202178955,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": 8.780414581298828,
-        "TSNE-2": -1.8180521726608276,
+        "TSNE-1": 1.859119176864624,
+        "TSNE-2": -3.1478452682495117,
         "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
+        "keywords": "financial, million, budget, company, prepare"
       },
       {
-        "TSNE-1": -8.30431079864502,
-        "TSNE-2": 14.586417198181152,
+        "TSNE-1": -6.85203218460083,
+        "TSNE-2": -1.8325779438018799,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
+      },
+      {
+        "TSNE-1": -5.607964038848877,
+        "TSNE-2": -6.6447529792785645,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": 8.669782638549805,
-        "TSNE-2": 6.01369047164917,
-        "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
-      },
-      {
-        "TSNE-1": -10.384033203125,
-        "TSNE-2": -11.027311325073242,
+        "TSNE-1": 4.862061977386475,
+        "TSNE-2": 2.821636915206909,
         "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
+        "keywords": "sale, affect, prediction, likely, future"
       },
       {
-        "TSNE-1": 3.580780267715454,
-        "TSNE-2": 2.5227248668670654,
+        "TSNE-1": -9.30546760559082,
+        "TSNE-2": -1.7242690324783325,
         "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
+        "keywords": "manage, market, sample, decision, better"
       },
       {
-        "TSNE-1": 5.015966415405273,
-        "TSNE-2": 9.106075286865234,
+        "TSNE-1": 4.548833847045898,
+        "TSNE-2": -3.000366449356079,
         "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
+        "keywords": "value, range, percentage, possible, probability"
       },
       {
-        "TSNE-1": 6.260350704193115,
-        "TSNE-2": -6.366076469421387,
+        "TSNE-1": 1.212607502937317,
+        "TSNE-2": 2.4348251819610596,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": -1.588842749595642,
+        "TSNE-2": 6.444389343261719,
         "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
+        "keywords": "confidence, business, interval, estimate, consumer"
       },
       {
-        "TSNE-1": 8.448427200317383,
-        "TSNE-2": 12.532999038696289,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
+        "TSNE-1": -0.8997991681098938,
+        "TSNE-2": 4.52008581161499,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
       },
       {
-        "TSNE-1": 2.088435411453247,
-        "TSNE-2": -4.156628131866455,
+        "TSNE-1": -5.809093475341797,
+        "TSNE-2": 2.5027644634246826,
         "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
+        "keywords": "manage, market, sample, decision, better"
       },
       {
-        "TSNE-1": -18.685054779052734,
-        "TSNE-2": 2.599106550216675,
+        "TSNE-1": 9.328147888183594,
+        "TSNE-2": 2.2374651432037354,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -6.689814567565918,
+        "TSNE-2": 3.627412796020508,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": 0.7673101425170898,
+        "TSNE-2": -9.536026954650879,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": -12.059616088867188,
-        "TSNE-2": -5.351765155792236,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": -0.2860848307609558,
-        "TSNE-2": 6.828973293304443,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": 2.655437707901001,
-        "TSNE-2": 9.567938804626465,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": 1.8868597745895386,
-        "TSNE-2": 13.737772941589355,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": 0.4244186282157898,
-        "TSNE-2": 4.080923557281494,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -1.3912960290908813,
-        "TSNE-2": -5.98162841796875,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": 13.456575393676758,
-        "TSNE-2": 1.5776793956756592,
-        "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
-      },
-      {
-        "TSNE-1": -0.5558634996414185,
-        "TSNE-2": -8.366673469543457,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": -12.514280319213867,
-        "TSNE-2": -9.5233793258667,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": 12.229365348815918,
-        "TSNE-2": -2.8726389408111572,
-        "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
-      },
-      {
-        "TSNE-1": 5.313302040100098,
-        "TSNE-2": 5.52534818649292,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": 2.499988317489624,
-        "TSNE-2": -7.032230377197266,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": -3.7823030948638916,
-        "TSNE-2": -2.6796810626983643,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": 4.020227909088135,
-        "TSNE-2": -1.9219694137573242,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -1.1002893447875977,
-        "TSNE-2": 4.261669635772705,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -0.5558634996414185,
-        "TSNE-2": -8.366673469543457,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": 11.798392295837402,
-        "TSNE-2": 10.006401062011719,
-        "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
-      },
-      {
-        "TSNE-1": -0.961156964302063,
-        "TSNE-2": -0.8239724636077881,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -4.901934623718262,
-        "TSNE-2": 5.0017313957214355,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": 5.825040340423584,
-        "TSNE-2": -1.0165456533432007,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -0.9556534290313721,
-        "TSNE-2": -11.068943977355957,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": -7.92622184753418,
-        "TSNE-2": -0.6422175765037537,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": -6.398715972900391,
-        "TSNE-2": -2.7300121784210205,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": -7.806596279144287,
-        "TSNE-2": -5.7079620361328125,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": -9.605433464050293,
-        "TSNE-2": -2.185471773147583,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": 6.862931728363037,
-        "TSNE-2": 8.38332462310791,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": 3.0126307010650635,
-        "TSNE-2": -5.6220879554748535,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": 6.076975345611572,
-        "TSNE-2": -3.411109447479248,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": 3.6203012466430664,
-        "TSNE-2": -9.481618881225586,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": -13.416239738464355,
-        "TSNE-2": -0.23658882081508636,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": -0.13727429509162903,
-        "TSNE-2": 10.58189582824707,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": -6.769365310668945,
-        "TSNE-2": 1.6902447938919067,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": -2.0092785358428955,
-        "TSNE-2": 11.035563468933105,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": 18.807676315307617,
-        "TSNE-2": 0.2667429745197296,
-        "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
-      },
-      {
-        "TSNE-1": -11.603904724121094,
-        "TSNE-2": 11.139721870422363,
+        "TSNE-1": 1.543519139289856,
+        "TSNE-2": -12.466570854187012,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": 2.1996939182281494,
-        "TSNE-2": 3.9588701725006104,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
+        "TSNE-1": 3.6489458084106445,
+        "TSNE-2": 1.4075767993927002,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
       },
       {
-        "TSNE-1": -3.2554991245269775,
-        "TSNE-2": -10.715215682983398,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": 14.487075805664062,
-        "TSNE-2": -7.020323753356934,
-        "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
-      },
-      {
-        "TSNE-1": -4.7150163650512695,
-        "TSNE-2": 11.702637672424316,
+        "TSNE-1": 7.37635612487793,
+        "TSNE-2": -8.780189514160156,
         "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
+        "keywords": "value, range, percentage, possible, probability"
       },
       {
-        "TSNE-1": -11.603904724121094,
-        "TSNE-2": 11.139721870422363,
+        "TSNE-1": 7.138458728790283,
+        "TSNE-2": 5.900715351104736,
+        "cluster": 3,
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": -6.933033466339111,
+        "TSNE-2": 7.659067153930664,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": 1.543519139289856,
+        "TSNE-2": -12.466570854187012,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": -9.831402778625488,
-        "TSNE-2": -3.656259536743164,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": 11.193833351135254,
-        "TSNE-2": -3.4741430282592773,
+        "TSNE-1": 2.5000693798065186,
+        "TSNE-2": -0.5802433490753174,
         "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
+        "keywords": "financial, million, budget, company, prepare"
       },
       {
-        "TSNE-1": 3.9213521480560303,
-        "TSNE-2": -17.21184539794922,
+        "TSNE-1": -3.233978033065796,
+        "TSNE-2": 9.6350679397583,
         "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
+        "keywords": "confidence, business, interval, estimate, consumer"
       },
       {
-        "TSNE-1": -0.7254880666732788,
-        "TSNE-2": -3.6939501762390137,
-        "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
-      },
-      {
-        "TSNE-1": -6.398715972900391,
-        "TSNE-2": -2.7300121784210205,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
-      },
-      {
-        "TSNE-1": 2.4849283695220947,
-        "TSNE-2": 7.045148849487305,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": -0.2860848307609558,
-        "TSNE-2": 6.828973293304443,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": 13.25110149383545,
-        "TSNE-2": -5.340276718139648,
-        "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
-      },
-      {
-        "TSNE-1": 6.195999622344971,
-        "TSNE-2": -11.985397338867188,
-        "cluster": 0,
-        "keywords": "confidence, interval, business, estimate, range"
-      },
-      {
-        "TSNE-1": 4.068933010101318,
-        "TSNE-2": 17.928194046020508,
-        "cluster": 1,
-        "keywords": "help, sale, within, risk, market"
-      },
-      {
-        "TSNE-1": 12.580499649047852,
-        "TSNE-2": 6.525665760040283,
-        "cluster": 5,
-        "keywords": "particular, result, change, act, whether"
-      },
-      {
-        "TSNE-1": -7.816607475280762,
-        "TSNE-2": 5.535351753234863,
+        "TSNE-1": -3.8829100131988525,
+        "TSNE-2": -11.741443634033203,
         "cluster": 2,
-        "keywords": "population, sample, value, level, reliability"
+        "keywords": "risk, population, help, ci, reliability"
       },
       {
-        "TSNE-1": 0.09062810242176056,
-        "TSNE-2": 2.175995111465454,
+        "TSNE-1": 8.77010440826416,
+        "TSNE-2": -3.3895466327667236,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -6.85203218460083,
+        "TSNE-2": -1.8325779438018799,
         "cluster": 4,
-        "keywords": "budget, future, actual, company, likely"
+        "keywords": "manage, market, sample, decision, better"
       },
       {
-        "TSNE-1": -10.384033203125,
-        "TSNE-2": -11.027311325073242,
-        "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
+        "TSNE-1": -3.1530394554138184,
+        "TSNE-2": -2.846296787261963,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
       },
       {
-        "TSNE-1": -4.434711933135986,
-        "TSNE-2": -4.605663299560547,
+        "TSNE-1": -2.950871706008911,
+        "TSNE-2": -1.2003322839736938,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": -1.4713679552078247,
+        "TSNE-2": 10.509223937988281,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": 12.521221160888672,
+        "TSNE-2": -0.799065113067627,
+        "cluster": 1,
+        "keywords": "value, range, percentage, possible, probability"
+      },
+      {
+        "TSNE-1": -10.161993980407715,
+        "TSNE-2": -9.403220176696777,
+        "cluster": 2,
+        "keywords": "risk, population, help, ci, reliability"
+      },
+      {
+        "TSNE-1": -0.43119052052497864,
+        "TSNE-2": -2.149636745452881,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": 2.2624287605285645,
+        "TSNE-2": 3.6370339393615723,
         "cluster": 3,
-        "keywords": "possible, manage, affect, evaluate, financial"
+        "keywords": "sale, affect, prediction, likely, future"
+      },
+      {
+        "TSNE-1": -1.223227620124817,
+        "TSNE-2": 0.43220555782318115,
+        "cluster": 5,
+        "keywords": "financial, million, budget, company, prepare"
+      },
+      {
+        "TSNE-1": -3.329385757446289,
+        "TSNE-2": 13.208620071411133,
+        "cluster": 0,
+        "keywords": "confidence, business, interval, estimate, consumer"
+      },
+      {
+        "TSNE-1": -4.967381000518799,
+        "TSNE-2": -5.253095626831055,
+        "cluster": 4,
+        "keywords": "manage, market, sample, decision, better"
       }
     ]
   },

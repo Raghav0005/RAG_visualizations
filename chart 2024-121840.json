@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-b6f0b0520c699a0ec789826ef951b904"
+    "name": "data-1e8201f7152cbc576c060ae0e1848257"
   },
   "datasets": {
-    "data-b6f0b0520c699a0ec789826ef951b904": [
+    "data-1e8201f7152cbc576c060ae0e1848257": [
       {
-        "TSNE-1": 2.2895755767822266,
-        "TSNE-2": 10.761569023132324,
+        "TSNE-1": 0.07965396344661713,
+        "TSNE-2": -2.7790613174438477,
         "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
+        "keywords": "student, support, educational, academic, document"
       },
       {
-        "TSNE-1": 1.4080544710159302,
-        "TSNE-2": 15.629332542419434,
+        "TSNE-1": -8.2427396774292,
+        "TSNE-2": 0.8930692672729492,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": 8.153316497802734,
+        "TSNE-2": -8.261534690856934,
         "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
+        "keywords": "student, support, educational, academic, document"
       },
       {
-        "TSNE-1": -1.2898026704788208,
-        "TSNE-2": -11.054473876953125,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": -15.782968521118164,
-        "TSNE-2": -4.261701583862305,
+        "TSNE-1": -6.877925395965576,
+        "TSNE-2": 7.940992832183838,
         "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
+        "keywords": "review, extra, choose, strength, assist"
       },
       {
-        "TSNE-1": -1.2898026704788208,
-        "TSNE-2": -11.054473876953125,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": 9.85933780670166,
-        "TSNE-2": -0.2194269895553589,
-        "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
-      },
-      {
-        "TSNE-1": 9.759428977966309,
-        "TSNE-2": -4.73715877532959,
-        "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
-      },
-      {
-        "TSNE-1": -0.021048378199338913,
-        "TSNE-2": 5.472804546356201,
+        "TSNE-1": 8.153316497802734,
+        "TSNE-2": -8.261534690856934,
         "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
+        "keywords": "student, support, educational, academic, document"
       },
       {
-        "TSNE-1": -7.483326435089111,
-        "TSNE-2": -9.536293029785156,
+        "TSNE-1": 9.435890197753906,
+        "TSNE-2": -1.4947476387023926,
         "cluster": 1,
-        "keywords": "consequence, law, possible, amount, well"
+        "keywords": "school, inform, notify, certification, annual"
       },
       {
-        "TSNE-1": -11.431659698486328,
-        "TSNE-2": -2.020366907119751,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": 1.3951175212860107,
-        "TSNE-2": 0.30559682846069336,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": 7.654460906982422,
-        "TSNE-2": -6.652707099914551,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": -4.110876083374023,
-        "TSNE-2": 7.054933547973633,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": -6.802555084228516,
-        "TSNE-2": 8.183709144592285,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 14.621247291564941,
-        "TSNE-2": -1.3969329595565796,
-        "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
-      },
-      {
-        "TSNE-1": 2.3314054012298584,
-        "TSNE-2": 8.806902885437012,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": -0.18468941748142242,
-        "TSNE-2": -6.366145610809326,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -0.021048378199338913,
-        "TSNE-2": 5.472804546356201,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 2.1351351737976074,
-        "TSNE-2": 6.148362159729004,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 8.777377128601074,
-        "TSNE-2": -1.7789620161056519,
-        "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
-      },
-      {
-        "TSNE-1": 4.502505302429199,
-        "TSNE-2": -14.078330993652344,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": 6.771327018737793,
-        "TSNE-2": -0.9916723370552063,
-        "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
-      },
-      {
-        "TSNE-1": 4.026119709014893,
-        "TSNE-2": -12.955241203308105,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": 8.736059188842773,
-        "TSNE-2": 10.143993377685547,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": -8.693532943725586,
-        "TSNE-2": 9.984395980834961,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 3.549431800842285,
-        "TSNE-2": 4.27681827545166,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": -14.510623931884766,
-        "TSNE-2": -4.2060346603393555,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": -3.059547185897827,
-        "TSNE-2": 1.3904389142990112,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": 15.73914623260498,
-        "TSNE-2": -1.475557804107666,
-        "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
-      },
-      {
-        "TSNE-1": 12.20228385925293,
-        "TSNE-2": -7.497679233551025,
-        "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
-      },
-      {
-        "TSNE-1": -5.650515556335449,
-        "TSNE-2": -9.695575714111328,
+        "TSNE-1": 6.394409656524658,
+        "TSNE-2": -3.39477276802063,
         "cluster": 1,
-        "keywords": "consequence, law, possible, amount, well"
+        "keywords": "school, inform, notify, certification, annual"
       },
       {
-        "TSNE-1": -15.871358871459961,
-        "TSNE-2": -10.281665802001953,
-        "cluster": 1,
-        "keywords": "consequence, law, possible, amount, well"
-      },
-      {
-        "TSNE-1": -3.106441020965576,
-        "TSNE-2": 5.292789936065674,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 4.008676052093506,
-        "TSNE-2": 11.480676651000977,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 2.980555534362793,
-        "TSNE-2": -1.655718445777893,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -0.2686600685119629,
-        "TSNE-2": 2.856285572052002,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -0.7340492010116577,
-        "TSNE-2": 13.408548355102539,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 3.5342278480529785,
-        "TSNE-2": -0.08349975943565369,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": 5.413197994232178,
-        "TSNE-2": 10.112116813659668,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 6.1596293449401855,
-        "TSNE-2": 6.4526143074035645,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 8.208741188049316,
-        "TSNE-2": 13.628227233886719,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": -5.354426860809326,
-        "TSNE-2": 1.7098090648651123,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": -2.497035503387451,
-        "TSNE-2": 7.364367961883545,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 3.0211338996887207,
-        "TSNE-2": 2.455338478088379,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -1.3839668035507202,
-        "TSNE-2": 9.879746437072754,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 10.429949760437012,
-        "TSNE-2": -8.834074020385742,
+        "TSNE-1": 1.7203716039657593,
+        "TSNE-2": 2.335515260696411,
         "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
+        "keywords": "assessment, communication, proficiency, report, purpose"
       },
       {
-        "TSNE-1": 9.330625534057617,
-        "TSNE-2": -3.8696982860565186,
+        "TSNE-1": -5.65332555770874,
+        "TSNE-2": -6.296482563018799,
         "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
+        "keywords": "exam, provide, consequence, additional, intent"
       },
       {
-        "TSNE-1": -13.584373474121094,
-        "TSNE-2": -0.8816587924957275,
+        "TSNE-1": -3.568861246109009,
+        "TSNE-2": 9.592086791992188,
         "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
+        "keywords": "review, extra, choose, strength, assist"
       },
       {
-        "TSNE-1": 1.3951175212860107,
-        "TSNE-2": 0.30559682846069336,
+        "TSNE-1": -2.278440475463867,
+        "TSNE-2": -0.1709427684545517,
         "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
+        "keywords": "parent, state, teacher, result, test"
       },
       {
-        "TSNE-1": -1.883154273033142,
-        "TSNE-2": 3.184154748916626,
+        "TSNE-1": 9.392932891845703,
+        "TSNE-2": -4.0012526512146,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": -0.017244495451450348,
+        "TSNE-2": 0.37924131751060486,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": -3.6537926197052,
+        "TSNE-2": 3.821561813354492,
         "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
+        "keywords": "parent, state, teacher, result, test"
       },
       {
-        "TSNE-1": -5.274139881134033,
-        "TSNE-2": -3.056978702545166,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": -9.950018882751465,
-        "TSNE-2": -1.5266400575637817,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": -1.6075795888900757,
-        "TSNE-2": 6.304925441741943,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 10.429949760437012,
-        "TSNE-2": -8.834074020385742,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": 0.4625052809715271,
-        "TSNE-2": 9.180440902709961,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 5.764113903045654,
-        "TSNE-2": -12.914300918579102,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": 6.103216648101807,
-        "TSNE-2": 3.625854015350342,
+        "TSNE-1": -6.845068454742432,
+        "TSNE-2": -10.362147331237793,
         "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
+        "keywords": "exam, provide, consequence, additional, intent"
       },
       {
-        "TSNE-1": 9.120755195617676,
-        "TSNE-2": 5.456096172332764,
+        "TSNE-1": -1.6681236028671265,
+        "TSNE-2": -2.8755364418029785,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -4.260879993438721,
+        "TSNE-2": -2.839364767074585,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": 1.7203716039657593,
+        "TSNE-2": 2.335515260696411,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 3.448659658432007,
+        "TSNE-2": -0.29481393098831177,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 3.3551697731018066,
+        "TSNE-2": -6.809269905090332,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": -10.91724681854248,
+        "TSNE-2": -4.322721004486084,
         "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
+        "keywords": "exam, provide, consequence, additional, intent"
       },
       {
-        "TSNE-1": 1.7185741662979126,
-        "TSNE-2": -4.262961387634277,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": 3.025336980819702,
-        "TSNE-2": -13.890739440917969,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": -1.4592818021774292,
-        "TSNE-2": -3.5965466499328613,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -4.574717044830322,
-        "TSNE-2": -4.036840438842773,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -5.590475559234619,
-        "TSNE-2": -5.4309306144714355,
+        "TSNE-1": 8.47504997253418,
+        "TSNE-2": -1.252457618713379,
         "cluster": 1,
-        "keywords": "consequence, law, possible, amount, well"
+        "keywords": "school, inform, notify, certification, annual"
       },
       {
-        "TSNE-1": -1.9352593421936035,
-        "TSNE-2": -1.0248332023620605,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -1.806647777557373,
-        "TSNE-2": 12.214690208435059,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 3.1969597339630127,
-        "TSNE-2": 6.9243597984313965,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": -5.008784770965576,
-        "TSNE-2": 11.588953971862793,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 3.1005382537841797,
-        "TSNE-2": 13.025846481323242,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": -7.355766773223877,
-        "TSNE-2": -10.836665153503418,
-        "cluster": 1,
-        "keywords": "consequence, law, possible, amount, well"
-      },
-      {
-        "TSNE-1": -9.112954139709473,
-        "TSNE-2": 1.055215835571289,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": -6.033362865447998,
-        "TSNE-2": 0.8893386125564575,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": -0.18468941748142242,
-        "TSNE-2": -6.366145610809326,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -7.812131404876709,
-        "TSNE-2": 4.467816352844238,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": -0.6468409299850464,
-        "TSNE-2": 1.1909222602844238,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -2.656568765640259,
-        "TSNE-2": 11.105963706970215,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 7.543699264526367,
-        "TSNE-2": 1.4143880605697632,
+        "TSNE-1": -10.401494026184082,
+        "TSNE-2": -3.91713809967041,
         "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
+        "keywords": "exam, provide, consequence, additional, intent"
       },
       {
-        "TSNE-1": -3.3861281871795654,
-        "TSNE-2": 3.4111082553863525,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -7.812131404876709,
-        "TSNE-2": 4.467816352844238,
+        "TSNE-1": -1.4904841184616089,
+        "TSNE-2": 5.72461462020874,
         "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
+        "keywords": "review, extra, choose, strength, assist"
       },
       {
-        "TSNE-1": -7.943216800689697,
-        "TSNE-2": -12.07239818572998,
-        "cluster": 1,
-        "keywords": "consequence, law, possible, amount, well"
-      },
-      {
-        "TSNE-1": -11.768242835998535,
-        "TSNE-2": 0.25619301199913025,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": 7.950098991394043,
-        "TSNE-2": 8.659130096435547,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
-      },
-      {
-        "TSNE-1": 7.654460906982422,
-        "TSNE-2": -6.652707099914551,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": -0.5045563578605652,
-        "TSNE-2": -3.2174954414367676,
+        "TSNE-1": -5.162635326385498,
+        "TSNE-2": 4.302145957946777,
         "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
+        "keywords": "parent, state, teacher, result, test"
       },
       {
-        "TSNE-1": 3.7804276943206787,
-        "TSNE-2": -6.291885852813721,
+        "TSNE-1": 0.7403058409690857,
+        "TSNE-2": 3.727447986602783,
         "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
+        "keywords": "assessment, communication, proficiency, report, purpose"
       },
       {
-        "TSNE-1": 6.1596293449401855,
-        "TSNE-2": 6.4526143074035645,
-        "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
+        "TSNE-1": -6.052980422973633,
+        "TSNE-2": 8.468465805053711,
+        "cluster": 4,
+        "keywords": "review, extra, choose, strength, assist"
       },
       {
-        "TSNE-1": 15.162055969238281,
-        "TSNE-2": -0.12262605130672455,
+        "TSNE-1": 4.494792461395264,
+        "TSNE-2": 5.993876934051514,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": -7.296517848968506,
+        "TSNE-2": -10.266359329223633,
         "cluster": 2,
-        "keywords": "exam, teacher, additional, provide, whether"
+        "keywords": "exam, provide, consequence, additional, intent"
       },
       {
-        "TSNE-1": 3.941488265991211,
-        "TSNE-2": -6.320989608764648,
-        "cluster": 5,
-        "keywords": "intent, document, public, notify, must"
-      },
-      {
-        "TSNE-1": -16.176156997680664,
-        "TSNE-2": -6.090530872344971,
-        "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
-      },
-      {
-        "TSNE-1": 0.8671289086341858,
-        "TSNE-2": 3.465045690536499,
-        "cluster": 0,
-        "keywords": "parent, state, school, result, assessment"
-      },
-      {
-        "TSNE-1": -3.1314334869384766,
-        "TSNE-2": -6.573564052581787,
+        "TSNE-1": 11.492506980895996,
+        "TSNE-2": 0.7756807804107666,
         "cluster": 1,
-        "keywords": "consequence, law, possible, amount, well"
+        "keywords": "school, inform, notify, certification, annual"
       },
       {
-        "TSNE-1": 5.744860649108887,
-        "TSNE-2": 8.321087837219238,
+        "TSNE-1": -5.027681827545166,
+        "TSNE-2": -5.382894992828369,
+        "cluster": 2,
+        "keywords": "exam, provide, consequence, additional, intent"
+      },
+      {
+        "TSNE-1": 3.6464641094207764,
+        "TSNE-2": -9.012791633605957,
         "cluster": 3,
-        "keywords": "student, communication, help, support, academic"
+        "keywords": "student, support, educational, academic, document"
       },
       {
-        "TSNE-1": -15.871358871459961,
-        "TSNE-2": -10.281665802001953,
+        "TSNE-1": -0.29544636607170105,
+        "TSNE-2": 2.5370376110076904,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 0.04324235022068024,
+        "TSNE-2": -1.4613542556762695,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": -5.2320756912231445,
+        "TSNE-2": 1.8102673292160034,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": 3.322089195251465,
+        "TSNE-2": 2.0423200130462646,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 1.1736396551132202,
+        "TSNE-2": -6.770291328430176,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": -4.131052017211914,
+        "TSNE-2": 0.11560359597206116,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": 1.5355314016342163,
+        "TSNE-2": -3.141122579574585,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": 2.8487515449523926,
+        "TSNE-2": -2.494619131088257,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": 0.5621193647384644,
+        "TSNE-2": 5.021048069000244,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 3.0119853019714355,
+        "TSNE-2": 4.036313056945801,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 0.3329678177833557,
+        "TSNE-2": 1.1647582054138184,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 4.619509220123291,
+        "TSNE-2": 3.128629446029663,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 0.09655558317899704,
+        "TSNE-2": -4.4672064781188965,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": 10.757454872131348,
+        "TSNE-2": 1.991457223892212,
         "cluster": 1,
-        "keywords": "consequence, law, possible, amount, well"
+        "keywords": "school, inform, notify, certification, annual"
       },
       {
-        "TSNE-1": -11.431659698486328,
-        "TSNE-2": -2.020366907119751,
+        "TSNE-1": 6.2648844718933105,
+        "TSNE-2": -2.781090497970581,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": -4.563033103942871,
+        "TSNE-2": 11.069710731506348,
         "cluster": 4,
-        "keywords": "review, area, test, choose, extra"
+        "keywords": "review, extra, choose, strength, assist"
+      },
+      {
+        "TSNE-1": -2.278440475463867,
+        "TSNE-2": -0.1709427684545517,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -1.6258420944213867,
+        "TSNE-2": 1.9163784980773926,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": 6.384109020233154,
+        "TSNE-2": 1.6943278312683105,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": -4.289203643798828,
+        "TSNE-2": 9.845781326293945,
+        "cluster": 4,
+        "keywords": "review, extra, choose, strength, assist"
+      },
+      {
+        "TSNE-1": 0.595600962638855,
+        "TSNE-2": 1.9036157131195068,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 10.757454872131348,
+        "TSNE-2": 1.991457223892212,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": -1.2874207496643066,
+        "TSNE-2": -1.435066819190979,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -11.186385154724121,
+        "TSNE-2": -3.2733259201049805,
+        "cluster": 2,
+        "keywords": "exam, provide, consequence, additional, intent"
+      },
+      {
+        "TSNE-1": 1.5428181886672974,
+        "TSNE-2": 0.061048299074172974,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": -0.008605793118476868,
+        "TSNE-2": -8.722129821777344,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": 1.9005030393600464,
+        "TSNE-2": 6.12428092956543,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": -10.012337684631348,
+        "TSNE-2": -4.547567367553711,
+        "cluster": 2,
+        "keywords": "exam, provide, consequence, additional, intent"
+      },
+      {
+        "TSNE-1": 7.277740955352783,
+        "TSNE-2": 5.138900279998779,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": 6.648555755615234,
+        "TSNE-2": 2.4555201530456543,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": 7.6909942626953125,
+        "TSNE-2": 1.8226778507232666,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": -3.38981032371521,
+        "TSNE-2": 1.519076943397522,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -0.01229376345872879,
+        "TSNE-2": -6.199570178985596,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": 4.012645244598389,
+        "TSNE-2": -0.8166566491127014,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": -1.8343850374221802,
+        "TSNE-2": -4.577198505401611,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": 2.3179590702056885,
+        "TSNE-2": -4.376021385192871,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": -4.862622261047363,
+        "TSNE-2": -6.710139274597168,
+        "cluster": 2,
+        "keywords": "exam, provide, consequence, additional, intent"
+      },
+      {
+        "TSNE-1": -2.0342769622802734,
+        "TSNE-2": 8.784302711486816,
+        "cluster": 4,
+        "keywords": "review, extra, choose, strength, assist"
+      },
+      {
+        "TSNE-1": 3.4063427448272705,
+        "TSNE-2": 4.5042643547058105,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": -4.260879993438721,
+        "TSNE-2": -2.839364767074585,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -5.872168064117432,
+        "TSNE-2": -0.6192991733551025,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -1.881117820739746,
+        "TSNE-2": 3.0166072845458984,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -0.5862556099891663,
+        "TSNE-2": -5.767379283905029,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": 6.0418548583984375,
+        "TSNE-2": -1.3492437601089478,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": -1.600779414176941,
+        "TSNE-2": 1.189083456993103,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -5.872168064117432,
+        "TSNE-2": -0.6192991733551025,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": -4.433937072753906,
+        "TSNE-2": -7.372890472412109,
+        "cluster": 2,
+        "keywords": "exam, provide, consequence, additional, intent"
+      },
+      {
+        "TSNE-1": -2.685906171798706,
+        "TSNE-2": 10.593629837036133,
+        "cluster": 4,
+        "keywords": "review, extra, choose, strength, assist"
+      },
+      {
+        "TSNE-1": -2.3518059253692627,
+        "TSNE-2": 5.00496244430542,
+        "cluster": 4,
+        "keywords": "review, extra, choose, strength, assist"
+      },
+      {
+        "TSNE-1": 9.392932891845703,
+        "TSNE-2": -4.0012526512146,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": 7.634015083312988,
+        "TSNE-2": 5.428666114807129,
+        "cluster": 1,
+        "keywords": "school, inform, notify, certification, annual"
+      },
+      {
+        "TSNE-1": -7.174100399017334,
+        "TSNE-2": 3.4187445640563965,
+        "cluster": 0,
+        "keywords": "parent, state, teacher, result, test"
+      },
+      {
+        "TSNE-1": 2.8487515449523926,
+        "TSNE-2": -2.494619131088257,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": -6.904848575592041,
+        "TSNE-2": -9.612464904785156,
+        "cluster": 2,
+        "keywords": "exam, provide, consequence, additional, intent"
+      },
+      {
+        "TSNE-1": 5.340287685394287,
+        "TSNE-2": -5.740227222442627,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": -7.484780788421631,
+        "TSNE-2": 7.358423709869385,
+        "cluster": 4,
+        "keywords": "review, extra, choose, strength, assist"
+      },
+      {
+        "TSNE-1": 2.6044740676879883,
+        "TSNE-2": 1.0396952629089355,
+        "cluster": 5,
+        "keywords": "assessment, communication, proficiency, report, purpose"
+      },
+      {
+        "TSNE-1": 1.7041220664978027,
+        "TSNE-2": 8.07030200958252,
+        "cluster": 4,
+        "keywords": "review, extra, choose, strength, assist"
+      },
+      {
+        "TSNE-1": 1.7068909406661987,
+        "TSNE-2": -1.8259180784225464,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": 3.6464641094207764,
+        "TSNE-2": -9.012791633605957,
+        "cluster": 3,
+        "keywords": "student, support, educational, academic, document"
+      },
+      {
+        "TSNE-1": -3.568861246109009,
+        "TSNE-2": 9.592086791992188,
+        "cluster": 4,
+        "keywords": "review, extra, choose, strength, assist"
       }
     ]
   },

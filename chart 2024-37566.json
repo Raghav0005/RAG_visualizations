@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-bac10c0454cbd0b65c15fa705e37ac5a"
+    "name": "data-7f8751a714d3c2acb7fb0c423e9b4bf7"
   },
   "datasets": {
-    "data-bac10c0454cbd0b65c15fa705e37ac5a": [
+    "data-7f8751a714d3c2acb7fb0c423e9b4bf7": [
       {
-        "TSNE-1": 1.7310816049575806,
-        "TSNE-2": -4.308859348297119,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 0.08688002824783325,
-        "TSNE-2": -5.4414286613464355,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 3.3433032035827637,
-        "TSNE-2": 14.912558555603027,
+        "TSNE-1": -0.5470600128173828,
+        "TSNE-2": -2.7682292461395264,
         "cluster": 2,
-        "keywords": "document, castration, cause, animal, chemical"
+        "keywords": "factor, mental, assessment, male, pathway"
       },
       {
-        "TSNE-1": -8.42002010345459,
-        "TSNE-2": -3.841076374053955,
+        "TSNE-1": 3.1355481147766113,
+        "TSNE-2": -5.0492706298828125,
+        "cluster": 0,
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": -10.130249977111816,
+        "TSNE-2": 5.765417098999023,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": -2.4322926998138428,
+        "TSNE-2": 6.1168670654296875,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": -10.130249977111816,
+        "TSNE-2": 5.765417098999023,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": 2.320596218109131,
+        "TSNE-2": -0.6134999990463257,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -1.532667875289917,
+        "TSNE-2": 2.7109615802764893,
         "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
+        "keywords": "victim, relationship, sex, random, teenager"
       },
       {
-        "TSNE-1": 3.3433032035827637,
-        "TSNE-2": 14.912558555603027,
+        "TSNE-1": -0.42704740166664124,
+        "TSNE-2": -0.058730609714984894,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -2.3767073154449463,
+        "TSNE-2": -1.8511192798614502,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": -1.6594820022583008,
+        "TSNE-2": 5.35964822769165,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": 0.7092651724815369,
+        "TSNE-2": -0.10457684844732285,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -5.4885172843933105,
+        "TSNE-2": -6.335188388824463,
         "cluster": 2,
-        "keywords": "document, castration, cause, animal, chemical"
+        "keywords": "factor, mental, assessment, male, pathway"
       },
       {
-        "TSNE-1": -4.153681755065918,
-        "TSNE-2": -2.514545202255249,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 2.268791913986206,
-        "TSNE-2": 8.028886795043945,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": -2.884063482284546,
-        "TSNE-2": -5.063090801239014,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 3.0597615242004395,
-        "TSNE-2": 2.8606197834014893,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 2.5514402389526367,
-        "TSNE-2": 4.817444801330566,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": -1.346540927886963,
-        "TSNE-2": 1.704161524772644,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -6.3390889167785645,
-        "TSNE-2": 9.354314804077148,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": 1.4506065845489502,
-        "TSNE-2": -2.921377182006836,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -3.1122279167175293,
-        "TSNE-2": -3.079653263092041,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -8.681642532348633,
-        "TSNE-2": -6.2686381340026855,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": 0.06506753712892532,
-        "TSNE-2": -0.41970810294151306,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -8.292917251586914,
-        "TSNE-2": 3.778817892074585,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -0.6146196126937866,
-        "TSNE-2": -1.9188027381896973,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -1.5371572971343994,
-        "TSNE-2": -0.07252620160579681,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 7.5113844871521,
-        "TSNE-2": -4.829969882965088,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": -3.4082746505737305,
-        "TSNE-2": 3.4647319316864014,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -0.23720228672027588,
-        "TSNE-2": -3.5199732780456543,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 9.84587287902832,
-        "TSNE-2": -1.4580605030059814,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": 9.848393440246582,
-        "TSNE-2": 2.3262441158294678,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 4.637701511383057,
-        "TSNE-2": 3.7863593101501465,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": -0.014592224732041359,
-        "TSNE-2": -2.1837947368621826,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 8.63615608215332,
-        "TSNE-2": -0.8572671413421631,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": 6.54359769821167,
-        "TSNE-2": 3.9886951446533203,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": -9.62823486328125,
-        "TSNE-2": -7.001784324645996,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": 1.3614145517349243,
-        "TSNE-2": 12.454280853271484,
+        "TSNE-1": 0.7096831202507019,
+        "TSNE-2": -3.193352699279785,
         "cluster": 2,
-        "keywords": "document, castration, cause, animal, chemical"
+        "keywords": "factor, mental, assessment, male, pathway"
       },
       {
-        "TSNE-1": 6.200996398925781,
-        "TSNE-2": 6.076319217681885,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 6.900980472564697,
-        "TSNE-2": -6.093360424041748,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": 1.9613505601882935,
-        "TSNE-2": -1.4217963218688965,
+        "TSNE-1": 3.1256237030029297,
+        "TSNE-2": -0.6261511445045471,
         "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
+        "keywords": "child, abuse, behavior, may, history"
       },
       {
-        "TSNE-1": 2.1207895278930664,
-        "TSNE-2": -6.434326171875,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 6.201852321624756,
-        "TSNE-2": -2.2555766105651855,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": -5.323536396026611,
-        "TSNE-2": 5.839125633239746,
+        "TSNE-1": 3.1537060737609863,
+        "TSNE-2": 6.577033042907715,
         "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
+        "keywords": "manipulate, likely, less, important, others"
       },
       {
-        "TSNE-1": 1.3411526679992676,
-        "TSNE-2": 2.3112964630126953,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": -5.463953495025635,
-        "TSNE-2": 1.9359465837478638,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": 2.793445110321045,
-        "TSNE-2": 0.9359349608421326,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 4.619169235229492,
-        "TSNE-2": -2.2659618854522705,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": -0.7487912178039551,
-        "TSNE-2": -7.045351505279541,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 0.28902825713157654,
-        "TSNE-2": 6.290163993835449,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": 1.3215503692626953,
-        "TSNE-2": -1.6937693357467651,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 3.92423152923584,
-        "TSNE-2": -0.5305944681167603,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 3.665050745010376,
-        "TSNE-2": 2.4645423889160156,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 1.8884363174438477,
-        "TSNE-2": -9.361124992370605,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 5.373118877410889,
-        "TSNE-2": -6.721020221710205,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": -8.529012680053711,
-        "TSNE-2": -8.26729965209961,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": -1.2658671140670776,
-        "TSNE-2": 1.7162775993347168,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -4.207926273345947,
-        "TSNE-2": -0.0479857474565506,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -0.29486972093582153,
-        "TSNE-2": 9.009817123413086,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -10.23401927947998,
-        "TSNE-2": -5.997039318084717,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": 1.080731749534607,
-        "TSNE-2": -2.740931987762451,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -6.1248626708984375,
-        "TSNE-2": 9.29237174987793,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -1.8447407484054565,
-        "TSNE-2": -1.8180177211761475,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -7.962848663330078,
-        "TSNE-2": -7.268994331359863,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": -2.9155726432800293,
-        "TSNE-2": -1.1283286809921265,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -6.437841892242432,
-        "TSNE-2": -8.011444091796875,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": 5.841001510620117,
-        "TSNE-2": 4.390185832977295,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": -6.273068428039551,
-        "TSNE-2": -6.57927942276001,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": -6.945901393890381,
-        "TSNE-2": -1.3462597131729126,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": 0.43924885988235474,
-        "TSNE-2": 8.78944206237793,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -5.116782188415527,
-        "TSNE-2": 6.424520969390869,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": 5.363274097442627,
-        "TSNE-2": -5.834592342376709,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": 0.7925851345062256,
-        "TSNE-2": 1.0325901508331299,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 3.1431808471679688,
-        "TSNE-2": -2.6904914379119873,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": 1.9508260488510132,
-        "TSNE-2": 0.0720369815826416,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 3.505812168121338,
-        "TSNE-2": -4.281285285949707,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": 0.1640523374080658,
-        "TSNE-2": 7.446070671081543,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -8.365657806396484,
-        "TSNE-2": -4.476483345031738,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": 0.9413353204727173,
-        "TSNE-2": 7.476994514465332,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -8.292917251586914,
-        "TSNE-2": 3.778817892074585,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -2.704355478286743,
-        "TSNE-2": 6.306136608123779,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -1.0687592029571533,
-        "TSNE-2": 3.650386095046997,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": 1.5779904127120972,
-        "TSNE-2": 1.2864956855773926,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 7.331550598144531,
-        "TSNE-2": 3.1339502334594727,
-        "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
-      },
-      {
-        "TSNE-1": 0.07324402034282684,
-        "TSNE-2": 3.609467029571533,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -2.704355478286743,
-        "TSNE-2": 6.306136608123779,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -0.6565240025520325,
-        "TSNE-2": 8.220586776733398,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": -7.061582565307617,
-        "TSNE-2": -5.939839839935303,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": -1.411297082901001,
-        "TSNE-2": -4.218422889709473,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": 1.6638387441635132,
-        "TSNE-2": -9.325591087341309,
-        "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
-      },
-      {
-        "TSNE-1": -7.120311737060547,
-        "TSNE-2": -1.714348554611206,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": -3.012050151824951,
-        "TSNE-2": 1.5086395740509033,
-        "cluster": 3,
-        "keywords": "often, victim, child, rarely, abuse"
-      },
-      {
-        "TSNE-1": 4.619169235229492,
-        "TSNE-2": -2.2659618854522705,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
-      },
-      {
-        "TSNE-1": -6.832204341888428,
-        "TSNE-2": -8.165998458862305,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
-      },
-      {
-        "TSNE-1": 1.4042013883590698,
-        "TSNE-2": 12.159224510192871,
+        "TSNE-1": -0.4067554175853729,
+        "TSNE-2": -5.161705493927002,
         "cluster": 2,
-        "keywords": "document, castration, cause, animal, chemical"
+        "keywords": "factor, mental, assessment, male, pathway"
       },
       {
-        "TSNE-1": 10.924349784851074,
-        "TSNE-2": -1.8865087032318115,
+        "TSNE-1": 5.933943748474121,
+        "TSNE-2": -8.111881256103516,
         "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
+        "keywords": "female, risk, offender, tool, criminal"
       },
       {
-        "TSNE-1": -0.735107421875,
-        "TSNE-2": -0.2272748351097107,
+        "TSNE-1": 1.9865082502365112,
+        "TSNE-2": -2.450413227081299,
         "cluster": 4,
-        "keywords": "male, factor, less, relational, woman"
+        "keywords": "child, abuse, behavior, may, history"
       },
       {
-        "TSNE-1": -7.8483567237854,
-        "TSNE-2": 1.1242828369140625,
-        "cluster": 1,
-        "keywords": "manipulate, gain, relationship, aggression, weapon"
+        "TSNE-1": -2.250030279159546,
+        "TSNE-2": -5.441214561462402,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
       },
       {
-        "TSNE-1": 4.628190994262695,
-        "TSNE-2": 1.1676522493362427,
+        "TSNE-1": 1.616986632347107,
+        "TSNE-2": 3.4893951416015625,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": 1.3103591203689575,
+        "TSNE-2": -9.7478666305542,
+        "cluster": 0,
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": 0.4524479806423187,
+        "TSNE-2": -1.7683525085449219,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -6.531622886657715,
+        "TSNE-2": 4.461150646209717,
         "cluster": 5,
-        "keywords": "victimization, likely, criminal, sexual, among"
+        "keywords": "use, document, tend, aggression, manipulation"
       },
       {
-        "TSNE-1": 6.900980472564697,
-        "TSNE-2": -6.093360424041748,
-        "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
+        "TSNE-1": 4.687200546264648,
+        "TSNE-2": -0.8678942322731018,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
       },
       {
-        "TSNE-1": 7.415804386138916,
-        "TSNE-2": -0.07198427617549896,
+        "TSNE-1": -0.27406930923461914,
+        "TSNE-2": 7.608627796173096,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": 2.0498580932617188,
+        "TSNE-2": -2.7736754417419434,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -3.064112424850464,
+        "TSNE-2": 5.245569229125977,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": -3.0617616176605225,
+        "TSNE-2": 9.09322452545166,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": 2.828516721725464,
+        "TSNE-2": 9.105225563049316,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": -10.416769981384277,
+        "TSNE-2": -0.5116416811943054,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": -4.6735310554504395,
+        "TSNE-2": 7.844534873962402,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": 1.0644570589065552,
+        "TSNE-2": 4.473735332489014,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": 1.0870003700256348,
+        "TSNE-2": -4.48412561416626,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": 4.674083232879639,
+        "TSNE-2": -3.3234310150146484,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": 4.220559120178223,
+        "TSNE-2": -9.069609642028809,
         "cluster": 0,
-        "keywords": "female, offender, sex, risk, use"
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": 5.8448486328125,
+        "TSNE-2": 2.3692171573638916,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": 0.9805266857147217,
+        "TSNE-2": -7.929399013519287,
+        "cluster": 0,
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": -3.6095807552337646,
+        "TSNE-2": 3.420142650604248,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": 2.5177528858184814,
+        "TSNE-2": -7.196058750152588,
+        "cluster": 0,
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": -1.2882397174835205,
+        "TSNE-2": -8.231884002685547,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": 4.46157169342041,
+        "TSNE-2": -5.212618350982666,
+        "cluster": 0,
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": -1.936283826828003,
+        "TSNE-2": 2.0880541801452637,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": 1.3640146255493164,
+        "TSNE-2": -4.165322303771973,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": -4.066027641296387,
+        "TSNE-2": -5.0583176612854,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": -2.721035957336426,
+        "TSNE-2": -2.4039487838745117,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": -6.070567607879639,
+        "TSNE-2": -0.6712231636047363,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": 0.7841471433639526,
+        "TSNE-2": 5.663904190063477,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": 4.913059234619141,
+        "TSNE-2": 8.902127265930176,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": 0.7092651724815369,
+        "TSNE-2": -0.10457684844732285,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": 1.7425099611282349,
+        "TSNE-2": 0.3622790575027466,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -3.785257577896118,
+        "TSNE-2": 0.7582648992538452,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": -5.003922939300537,
+        "TSNE-2": 2.6171414852142334,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": 0.7088485360145569,
+        "TSNE-2": -3.3550050258636475,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": -5.435834884643555,
+        "TSNE-2": -6.330075740814209,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": 3.271777391433716,
+        "TSNE-2": -3.1935760974884033,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": 4.232758045196533,
+        "TSNE-2": 8.240605354309082,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": -0.8174511790275574,
+        "TSNE-2": -4.164726257324219,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": 5.06462287902832,
+        "TSNE-2": 6.996096134185791,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": -2.1298632621765137,
+        "TSNE-2": 8.713082313537598,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": 3.884733200073242,
+        "TSNE-2": 7.503005504608154,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": -4.8596272468566895,
+        "TSNE-2": 5.264438152313232,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": -3.3884520530700684,
+        "TSNE-2": 1.1942464113235474,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": 5.687772274017334,
+        "TSNE-2": 2.513195753097534,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": 0.46023285388946533,
+        "TSNE-2": 6.332184314727783,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": 1.840635895729065,
+        "TSNE-2": -6.2379231452941895,
+        "cluster": 0,
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": -0.8123531341552734,
+        "TSNE-2": -6.618396759033203,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": 0.5280142426490784,
+        "TSNE-2": -6.4253621101379395,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": -2.816969394683838,
+        "TSNE-2": -7.101703643798828,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": -2.629363536834717,
+        "TSNE-2": 1.6033680438995361,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": -1.9378297328948975,
+        "TSNE-2": 6.348519325256348,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": -2.2475051879882812,
+        "TSNE-2": 0.7201497554779053,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": 5.933943748474121,
+        "TSNE-2": -8.111881256103516,
+        "cluster": 0,
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": 7.391314506530762,
+        "TSNE-2": -1.0044326782226562,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": 3.518584966659546,
+        "TSNE-2": 1.3335689306259155,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": 1.2269313335418701,
+        "TSNE-2": -6.801880359649658,
+        "cluster": 0,
+        "keywords": "female, risk, offender, tool, criminal"
+      },
+      {
+        "TSNE-1": -4.362682342529297,
+        "TSNE-2": 9.61622428894043,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": 2.26051664352417,
+        "TSNE-2": 1.6192160844802856,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": 7.391314506530762,
+        "TSNE-2": -1.0044326782226562,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -2.9191479682922363,
+        "TSNE-2": 0.5822445154190063,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": 2.912029504776001,
+        "TSNE-2": 7.667760372161865,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": 3.6871371269226074,
+        "TSNE-2": -1.8743691444396973,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -6.041043758392334,
+        "TSNE-2": -0.6562281250953674,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": -4.791204452514648,
+        "TSNE-2": 5.459151744842529,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": 0.2531396746635437,
+        "TSNE-2": 1.4873899221420288,
+        "cluster": 4,
+        "keywords": "child, abuse, behavior, may, history"
+      },
+      {
+        "TSNE-1": -1.2882397174835205,
+        "TSNE-2": -8.231884002685547,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": 5.000960826873779,
+        "TSNE-2": 6.944220066070557,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": -10.445436477661133,
+        "TSNE-2": -0.5762388110160828,
+        "cluster": 1,
+        "keywords": "victim, relationship, sex, random, teenager"
+      },
+      {
+        "TSNE-1": -7.008998394012451,
+        "TSNE-2": 5.0545454025268555,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
+      },
+      {
+        "TSNE-1": -1.5579534769058228,
+        "TSNE-2": -5.367380142211914,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": -0.7730588316917419,
+        "TSNE-2": 10.715079307556152,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": -3.1894712448120117,
+        "TSNE-2": -3.2866744995117188,
+        "cluster": 2,
+        "keywords": "factor, mental, assessment, male, pathway"
+      },
+      {
+        "TSNE-1": 1.0644570589065552,
+        "TSNE-2": 4.473735332489014,
+        "cluster": 3,
+        "keywords": "manipulate, likely, less, important, others"
+      },
+      {
+        "TSNE-1": -2.966139554977417,
+        "TSNE-2": 6.271435737609863,
+        "cluster": 5,
+        "keywords": "use, document, tend, aggression, manipulation"
       }
     ]
   },

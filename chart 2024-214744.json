@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-42b59bd2ded80942626f12c9005f36a1"
+    "name": "data-f8bf4cb6b41e7500629f52d27464ca4d"
   },
   "datasets": {
-    "data-42b59bd2ded80942626f12c9005f36a1": [
+    "data-f8bf4cb6b41e7500629f52d27464ca4d": [
       {
-        "TSNE-1": -1.8660554885864258,
-        "TSNE-2": 1.6765114068984985,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": -11.289389610290527,
-        "TSNE-2": -10.23648738861084,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": -14.481541633605957,
-        "TSNE-2": 16.977739334106445,
+        "TSNE-1": 0.2520900368690491,
+        "TSNE-2": -16.978971481323242,
         "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": 2.4266114234924316,
-        "TSNE-2": -8.282999992370605,
+        "TSNE-1": -6.92476224899292,
+        "TSNE-2": -18.143077850341797,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
+      },
+      {
+        "TSNE-1": -1.8677741289138794,
+        "TSNE-2": 25.35501480102539,
         "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
+        "keywords": "time, relationship, contain, indicate, result"
       },
       {
-        "TSNE-1": -14.481541633605957,
-        "TSNE-2": 16.977739334106445,
+        "TSNE-1": -4.208993434906006,
+        "TSNE-2": 3.4879183769226074,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -1.8677741289138794,
+        "TSNE-2": 25.35501480102539,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": 0.7839785814285278,
+        "TSNE-2": 14.362293243408203,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": -4.822622299194336,
+        "TSNE-2": 8.574024200439453,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -0.4073043167591095,
+        "TSNE-2": 10.920024871826172,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": 11.376575469970703,
+        "TSNE-2": -11.151378631591797,
         "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": -5.24504280090332,
-        "TSNE-2": 7.538475036621094,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 1.3942281007766724,
-        "TSNE-2": -13.099785804748535,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": -13.38467025756836,
-        "TSNE-2": -6.332464218139648,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 16.71451187133789,
-        "TSNE-2": 1.8852970600128174,
+        "TSNE-1": -11.066360473632812,
+        "TSNE-2": 6.54087495803833,
         "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
+        "keywords": "vary, single, point, repeatable, different"
       },
       {
-        "TSNE-1": 8.357525825500488,
-        "TSNE-2": -12.430858612060547,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
-      },
-      {
-        "TSNE-1": -16.62211036682129,
-        "TSNE-2": -0.030971825122833252,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 1.3836984634399414,
-        "TSNE-2": 18.207128524780273,
+        "TSNE-1": 14.238056182861328,
+        "TSNE-2": -7.285264015197754,
         "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": 7.478562831878662,
-        "TSNE-2": 1.087573528289795,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": 19.786638259887695,
-        "TSNE-2": 10.579020500183105,
-        "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
-      },
-      {
-        "TSNE-1": 8.357525825500488,
-        "TSNE-2": -12.430858612060547,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
-      },
-      {
-        "TSNE-1": 2.8296425342559814,
-        "TSNE-2": -1.5586761236190796,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": 6.004302978515625,
-        "TSNE-2": 12.551809310913086,
-        "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
-      },
-      {
-        "TSNE-1": 1.777025818824768,
-        "TSNE-2": 5.269223690032959,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": 17.04303741455078,
-        "TSNE-2": -10.505207061767578,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
-      },
-      {
-        "TSNE-1": -0.7729470133781433,
-        "TSNE-2": -23.70995330810547,
+        "TSNE-1": 9.718086242675781,
+        "TSNE-2": 20.574939727783203,
         "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
+        "keywords": "time, relationship, contain, indicate, result"
       },
       {
-        "TSNE-1": 8.357525825500488,
-        "TSNE-2": -12.430858612060547,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
+        "TSNE-1": -0.7963510751724243,
+        "TSNE-2": -5.097012042999268,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
       },
       {
-        "TSNE-1": -11.986434936523438,
-        "TSNE-2": -2.0152580738067627,
+        "TSNE-1": 14.353228569030762,
+        "TSNE-2": 5.134929656982422,
         "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
+        "keywords": "star, answer, method, hypothesis, observation"
       },
       {
-        "TSNE-1": 8.357525825500488,
-        "TSNE-2": -12.430858612060547,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
+        "TSNE-1": -11.066360473632812,
+        "TSNE-2": 6.54087495803833,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
       },
       {
-        "TSNE-1": 16.72466468811035,
-        "TSNE-2": 7.092405319213867,
+        "TSNE-1": -7.610339164733887,
+        "TSNE-2": -12.598007202148438,
         "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
+        "keywords": "mean, nature, bias, replicate, subjective"
       },
       {
-        "TSNE-1": 11.565703392028809,
-        "TSNE-2": -0.1305653303861618,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": -0.6885313987731934,
-        "TSNE-2": 4.220332622528076,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": 2.4266114234924316,
-        "TSNE-2": -8.282999992370605,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": -3.8016300201416016,
-        "TSNE-2": -18.51296615600586,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": 8.357525825500488,
-        "TSNE-2": -12.430858612060547,
+        "TSNE-1": -17.11739730834961,
+        "TSNE-2": -2.640255928039551,
         "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
+        "keywords": "descriptive, investigation, statistically, may, analyze"
       },
       {
-        "TSNE-1": -25.144926071166992,
-        "TSNE-2": 5.457512378692627,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 0.9808515906333923,
-        "TSNE-2": 12.116683959960938,
+        "TSNE-1": 1.5285546779632568,
+        "TSNE-2": -11.985795974731445,
         "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": -14.177268028259277,
-        "TSNE-2": -17.439584732055664,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": 4.475557327270508,
-        "TSNE-2": 4.994095325469971,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": 23.293399810791016,
-        "TSNE-2": 2.948000907897949,
+        "TSNE-1": -5.232619285583496,
+        "TSNE-2": -6.55795955657959,
         "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
+        "keywords": "mean, nature, bias, replicate, subjective"
       },
       {
-        "TSNE-1": 6.753472328186035,
-        "TSNE-2": -20.580495834350586,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
-      },
-      {
-        "TSNE-1": -8.395319938659668,
-        "TSNE-2": -1.4659234285354614,
+        "TSNE-1": 20.325471878051758,
+        "TSNE-2": -6.230156421661377,
         "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
+        "keywords": "star, answer, method, hypothesis, observation"
       },
       {
-        "TSNE-1": -5.889703750610352,
-        "TSNE-2": -3.018784284591675,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 11.954327583312988,
-        "TSNE-2": 13.568657875061035,
-        "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
-      },
-      {
-        "TSNE-1": 1.8015233278274536,
-        "TSNE-2": 1.3745293617248535,
+        "TSNE-1": -11.066360473632812,
+        "TSNE-2": 6.54087495803833,
         "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
+        "keywords": "vary, single, point, repeatable, different"
       },
       {
-        "TSNE-1": -21.091346740722656,
-        "TSNE-2": -3.818197727203369,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 22.574466705322266,
-        "TSNE-2": -3.7761354446411133,
+        "TSNE-1": 3.147552728652954,
+        "TSNE-2": 3.738239288330078,
         "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
+        "keywords": "vary, single, point, repeatable, different"
       },
       {
-        "TSNE-1": 6.705226898193359,
-        "TSNE-2": -1.4820172786712646,
+        "TSNE-1": -11.066360473632812,
+        "TSNE-2": 6.54087495803833,
         "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
+        "keywords": "vary, single, point, repeatable, different"
       },
       {
-        "TSNE-1": 7.154047012329102,
-        "TSNE-2": 5.814181327819824,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": -6.5097198486328125,
-        "TSNE-2": -10.15833568572998,
+        "TSNE-1": -5.344482898712158,
+        "TSNE-2": 19.266407012939453,
         "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
+        "keywords": "time, relationship, contain, indicate, result"
       },
       {
-        "TSNE-1": 14.300017356872559,
-        "TSNE-2": -3.378937005996704,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": -11.054210662841797,
-        "TSNE-2": 11.15732479095459,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 14.761067390441895,
-        "TSNE-2": -17.95887565612793,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
-      },
-      {
-        "TSNE-1": 2.1518404483795166,
-        "TSNE-2": -17.224090576171875,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": -15.455564498901367,
-        "TSNE-2": 1.6149795055389404,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": -9.942914009094238,
-        "TSNE-2": 6.795815467834473,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": -7.657833576202393,
-        "TSNE-2": 2.9932806491851807,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 8.357525825500488,
-        "TSNE-2": -12.430858612060547,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
-      },
-      {
-        "TSNE-1": 4.379326820373535,
-        "TSNE-2": 2.953856945037842,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": -11.054210662841797,
-        "TSNE-2": 11.15732479095459,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": -4.393022537231445,
-        "TSNE-2": -14.139636993408203,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": 2.4266114234924316,
-        "TSNE-2": -8.282999992370605,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": 12.65616512298584,
-        "TSNE-2": -7.356284141540527,
-        "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
-      },
-      {
-        "TSNE-1": 2.4266114234924316,
-        "TSNE-2": -8.282999992370605,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": 11.359550476074219,
-        "TSNE-2": 10.083309173583984,
-        "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
-      },
-      {
-        "TSNE-1": 2.4266114234924316,
-        "TSNE-2": -8.282999992370605,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": 1.3942281007766724,
-        "TSNE-2": -13.099785804748535,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": -7.657833576202393,
-        "TSNE-2": 2.9932806491851807,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": -7.657833576202393,
-        "TSNE-2": 2.9932806491851807,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 12.027888298034668,
-        "TSNE-2": 21.583675384521484,
-        "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
-      },
-      {
-        "TSNE-1": -15.046215057373047,
-        "TSNE-2": 6.77177095413208,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": 10.354662895202637,
-        "TSNE-2": 4.432093620300293,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": -12.126185417175293,
-        "TSNE-2": 3.9047296047210693,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
-      },
-      {
-        "TSNE-1": -0.9704662561416626,
-        "TSNE-2": 8.44782829284668,
+        "TSNE-1": 7.5298614501953125,
+        "TSNE-2": -16.97527313232422,
         "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": -3.307703971862793,
-        "TSNE-2": -9.871847152709961,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
+        "TSNE-1": -0.8138647675514221,
+        "TSNE-2": -14.194561958312988,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
       },
       {
-        "TSNE-1": 8.357525825500488,
-        "TSNE-2": -12.430858612060547,
+        "TSNE-1": -4.208993434906006,
+        "TSNE-2": 3.4879183769226074,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -7.27484130859375,
+        "TSNE-2": 13.359964370727539,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -11.066360473632812,
+        "TSNE-2": 6.54087495803833,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -11.32097053527832,
+        "TSNE-2": 16.8941650390625,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": 8.924270629882812,
+        "TSNE-2": 8.782259941101074,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": 16.930782318115234,
+        "TSNE-2": -20.197595596313477,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": 1.4170448780059814,
+        "TSNE-2": -9.042972564697266,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": -5.529115676879883,
+        "TSNE-2": -10.259174346923828,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
+      },
+      {
+        "TSNE-1": -18.78241729736328,
+        "TSNE-2": 9.3566255569458,
         "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
+        "keywords": "descriptive, investigation, statistically, may, analyze"
       },
       {
-        "TSNE-1": 8.592649459838867,
-        "TSNE-2": -4.9591193199157715,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
+        "TSNE-1": 9.051762580871582,
+        "TSNE-2": 14.26555061340332,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
       },
       {
-        "TSNE-1": 6.004302978515625,
-        "TSNE-2": 12.551809310913086,
-        "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
-      },
-      {
-        "TSNE-1": 16.94586944580078,
-        "TSNE-2": 13.882600784301758,
-        "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
-      },
-      {
-        "TSNE-1": 9.026776313781738,
-        "TSNE-2": 16.07101058959961,
-        "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
-      },
-      {
-        "TSNE-1": -18.420316696166992,
-        "TSNE-2": 5.080205917358398,
+        "TSNE-1": 14.345401763916016,
+        "TSNE-2": 12.904755592346191,
         "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
+        "keywords": "star, answer, method, hypothesis, observation"
       },
       {
-        "TSNE-1": 18.740591049194336,
-        "TSNE-2": -1.6100069284439087,
-        "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
-      },
-      {
-        "TSNE-1": -4.684473991394043,
-        "TSNE-2": 13.66186237335205,
+        "TSNE-1": 16.265111923217773,
+        "TSNE-2": -12.644940376281738,
         "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": 16.94586944580078,
-        "TSNE-2": 13.882600784301758,
+        "TSNE-1": -3.955458641052246,
+        "TSNE-2": -16.79723358154297,
         "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
+        "keywords": "mean, nature, bias, replicate, subjective"
       },
       {
-        "TSNE-1": -7.657833576202393,
-        "TSNE-2": 2.9932806491851807,
-        "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
+        "TSNE-1": 9.50368595123291,
+        "TSNE-2": -3.6355371475219727,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": 2.4266114234924316,
-        "TSNE-2": -8.282999992370605,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": 14.593238830566406,
-        "TSNE-2": 6.1737494468688965,
+        "TSNE-1": -3.3891844749450684,
+        "TSNE-2": -20.663818359375,
         "cluster": 5,
-        "keywords": "often, collection, cannot, data, exactly"
+        "keywords": "mean, nature, bias, replicate, subjective"
       },
       {
-        "TSNE-1": 1.3836984634399414,
-        "TSNE-2": 18.207128524780273,
+        "TSNE-1": -0.36997103691101074,
+        "TSNE-2": -2.4894442558288574,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
+      },
+      {
+        "TSNE-1": 3.201834201812744,
+        "TSNE-2": -5.930649757385254,
         "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": 1.3942281007766724,
-        "TSNE-2": -13.099785804748535,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
+        "TSNE-1": -10.009899139404297,
+        "TSNE-2": -5.163111209869385,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
       },
       {
-        "TSNE-1": -5.0659260749816895,
-        "TSNE-2": -6.183431625366211,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": -21.091346740722656,
-        "TSNE-2": -3.818197727203369,
+        "TSNE-1": 12.416666984558105,
+        "TSNE-2": 10.383528709411621,
         "cluster": 4,
-        "keywords": "relationship, point, different, hypothesis, condition"
+        "keywords": "star, answer, method, hypothesis, observation"
       },
       {
-        "TSNE-1": 2.4266114234924316,
-        "TSNE-2": -8.282999992370605,
+        "TSNE-1": 4.519341468811035,
+        "TSNE-2": 16.4412841796875,
         "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
+        "keywords": "time, relationship, contain, indicate, result"
       },
       {
-        "TSNE-1": -4.3130598068237305,
-        "TSNE-2": 23.29220962524414,
+        "TSNE-1": 7.508049964904785,
+        "TSNE-2": -21.803701400756836,
         "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
+        "keywords": "study, lack, research, condition, observational"
       },
       {
-        "TSNE-1": 2.4266114234924316,
-        "TSNE-2": -8.282999992370605,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": -0.6385365128517151,
-        "TSNE-2": -3.638004779815674,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": -2.6803393363952637,
-        "TSNE-2": 24.130525588989258,
-        "cluster": 1,
-        "keywords": "star, time, study, answer, gathering"
-      },
-      {
-        "TSNE-1": 3.228731155395508,
-        "TSNE-2": 8.1802339553833,
+        "TSNE-1": -8.159215927124023,
+        "TSNE-2": -0.230171337723732,
         "cluster": 3,
-        "keywords": "mean, lack, research, observational, observation"
+        "keywords": "vary, single, point, repeatable, different"
       },
       {
-        "TSNE-1": -14.177268028259277,
-        "TSNE-2": -17.439584732055664,
-        "cluster": 2,
-        "keywords": "contain, indicate, variable, result, repeatable"
-      },
-      {
-        "TSNE-1": 8.357525825500488,
-        "TSNE-2": -12.430858612060547,
+        "TSNE-1": -17.205015182495117,
+        "TSNE-2": 15.260132789611816,
         "cluster": 0,
-        "keywords": "investigation, descriptive, may, vary, single"
+        "keywords": "descriptive, investigation, statistically, may, analyze"
+      },
+      {
+        "TSNE-1": 19.583372116088867,
+        "TSNE-2": 2.031770706176758,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": 3.6103692054748535,
+        "TSNE-2": 9.016496658325195,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": -11.066360473632812,
+        "TSNE-2": 6.54087495803833,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -0.6191202402114868,
+        "TSNE-2": -9.534758567810059,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
+      },
+      {
+        "TSNE-1": 4.519341468811035,
+        "TSNE-2": 16.4412841796875,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": -14.070544242858887,
+        "TSNE-2": -7.782930850982666,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
+      },
+      {
+        "TSNE-1": -4.208993434906006,
+        "TSNE-2": 3.4879183769226074,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -13.91491413116455,
+        "TSNE-2": -14.136992454528809,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
+      },
+      {
+        "TSNE-1": -4.208993434906006,
+        "TSNE-2": 3.4879183769226074,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": 11.12551212310791,
+        "TSNE-2": -16.187341690063477,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": -4.208993434906006,
+        "TSNE-2": 3.4879183769226074,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -4.822622299194336,
+        "TSNE-2": 8.574024200439453,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": 3.6103692054748535,
+        "TSNE-2": 9.016496658325195,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": 3.6103692054748535,
+        "TSNE-2": 9.016496658325195,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": -18.684782028198242,
+        "TSNE-2": 3.7765953540802,
+        "cluster": 0,
+        "keywords": "descriptive, investigation, statistically, may, analyze"
+      },
+      {
+        "TSNE-1": 17.629623413085938,
+        "TSNE-2": -3.5093164443969727,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": 5.393113136291504,
+        "TSNE-2": -13.132594108581543,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": 18.529935836791992,
+        "TSNE-2": 9.505086898803711,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": 7.57684850692749,
+        "TSNE-2": -7.9404802322387695,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": -7.594552040100098,
+        "TSNE-2": -3.1208109855651855,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
+      },
+      {
+        "TSNE-1": -11.066360473632812,
+        "TSNE-2": 6.54087495803833,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -11.769671440124512,
+        "TSNE-2": -0.9431220889091492,
+        "cluster": 0,
+        "keywords": "descriptive, investigation, statistically, may, analyze"
+      },
+      {
+        "TSNE-1": -17.11739730834961,
+        "TSNE-2": -2.640255928039551,
+        "cluster": 0,
+        "keywords": "descriptive, investigation, statistically, may, analyze"
+      },
+      {
+        "TSNE-1": 12.946807861328125,
+        "TSNE-2": 1.3899521827697754,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": -21.256807327270508,
+        "TSNE-2": -5.4967803955078125,
+        "cluster": 0,
+        "keywords": "descriptive, investigation, statistically, may, analyze"
+      },
+      {
+        "TSNE-1": 19.455970764160156,
+        "TSNE-2": 5.383506774902344,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": 1.5055005550384521,
+        "TSNE-2": -22.933773040771484,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": 25.709850311279297,
+        "TSNE-2": 5.240817070007324,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": 12.946807861328125,
+        "TSNE-2": 1.3899521827697754,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": 3.6103692054748535,
+        "TSNE-2": 9.016496658325195,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": -4.208993434906006,
+        "TSNE-2": 3.4879183769226074,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -3.48313307762146,
+        "TSNE-2": 18.107860565185547,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": 9.718086242675781,
+        "TSNE-2": 20.574939727783203,
+        "cluster": 2,
+        "keywords": "time, relationship, contain, indicate, result"
+      },
+      {
+        "TSNE-1": -4.822622299194336,
+        "TSNE-2": 8.574024200439453,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": 3.768979549407959,
+        "TSNE-2": -0.8275555372238159,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": 9.50368595123291,
+        "TSNE-2": -3.6355371475219727,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": -4.208993434906006,
+        "TSNE-2": 3.4879183769226074,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": 8.035950660705566,
+        "TSNE-2": 3.718614339828491,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": -4.208993434906006,
+        "TSNE-2": 3.4879183769226074,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
+      },
+      {
+        "TSNE-1": -9.863195419311523,
+        "TSNE-2": -9.693721771240234,
+        "cluster": 5,
+        "keywords": "mean, nature, bias, replicate, subjective"
+      },
+      {
+        "TSNE-1": 9.281023979187012,
+        "TSNE-2": 5.131979465484619,
+        "cluster": 4,
+        "keywords": "star, answer, method, hypothesis, observation"
+      },
+      {
+        "TSNE-1": 4.697384834289551,
+        "TSNE-2": -9.398402214050293,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": 16.930782318115234,
+        "TSNE-2": -20.197595596313477,
+        "cluster": 1,
+        "keywords": "study, lack, research, condition, observational"
+      },
+      {
+        "TSNE-1": -11.066360473632812,
+        "TSNE-2": 6.54087495803833,
+        "cluster": 3,
+        "keywords": "vary, single, point, repeatable, different"
       }
     ]
   },

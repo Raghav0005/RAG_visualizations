@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-20698c8116c05bc0dc15f298a95b84dd"
+    "name": "data-14900a206a4020f88114f9bfe67db309"
   },
   "datasets": {
-    "data-20698c8116c05bc0dc15f298a95b84dd": [
+    "data-14900a206a4020f88114f9bfe67db309": [
       {
-        "TSNE-1": 3.0244596004486084,
-        "TSNE-2": 3.802518606185913,
+        "TSNE-1": -2.543947458267212,
+        "TSNE-2": -6.7320756912231445,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
+      },
+      {
+        "TSNE-1": 6.325872898101807,
+        "TSNE-2": 0.49364763498306274,
         "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
+        "keywords": "patient, edi, healthcare, data, nurse"
       },
       {
-        "TSNE-1": -8.976057052612305,
-        "TSNE-2": 0.6143695116043091,
-        "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
-      },
-      {
-        "TSNE-1": -2.526369333267212,
-        "TSNE-2": -11.123202323913574,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -2.7588987350463867,
-        "TSNE-2": -7.144078731536865,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -2.526369333267212,
-        "TSNE-2": -11.123202323913574,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -5.632724285125732,
-        "TSNE-2": -5.849008083343506,
-        "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
-      },
-      {
-        "TSNE-1": -8.910470962524414,
-        "TSNE-2": 5.187182426452637,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": -3.399404525756836,
-        "TSNE-2": 1.2734586000442505,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": 12.514663696289062,
-        "TSNE-2": 0.19950377941131592,
-        "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
-      },
-      {
-        "TSNE-1": 2.027010202407837,
-        "TSNE-2": -7.294266223907471,
+        "TSNE-1": -9.224757194519043,
+        "TSNE-2": 2.4470064640045166,
         "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
+        "keywords": "informatics, mention, nursing, ehrs, medical"
       },
       {
-        "TSNE-1": -4.991161823272705,
-        "TSNE-2": 4.014125347137451,
+        "TSNE-1": -3.0898702144622803,
+        "TSNE-2": 6.749954700469971,
         "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "keywords": "help, provider, better, communication, impact"
       },
       {
-        "TSNE-1": 4.810589790344238,
-        "TSNE-2": -5.212432384490967,
+        "TSNE-1": -9.224757194519043,
+        "TSNE-2": 2.4470064640045166,
         "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
+        "keywords": "informatics, mention, nursing, ehrs, medical"
       },
       {
-        "TSNE-1": 2.984731435775757,
-        "TSNE-2": -2.3278040885925293,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -5.0200018882751465,
-        "TSNE-2": -2.3706047534942627,
-        "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
-      },
-      {
-        "TSNE-1": -1.4952539205551147,
-        "TSNE-2": -5.478707790374756,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -0.3775981664657593,
-        "TSNE-2": 8.252754211425781,
+        "TSNE-1": -3.752535104751587,
+        "TSNE-2": 4.1646528244018555,
         "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "keywords": "help, provider, better, communication, impact"
       },
       {
-        "TSNE-1": -10.293272972106934,
-        "TSNE-2": -3.5679774284362793,
+        "TSNE-1": 9.898465156555176,
+        "TSNE-2": 3.0570430755615234,
+        "cluster": 0,
+        "keywords": "patient, edi, healthcare, data, nurse"
+      },
+      {
+        "TSNE-1": 1.8697584867477417,
+        "TSNE-2": -1.9339079856872559,
         "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
+        "keywords": "care, reduces, accuracy, manual, electronic"
       },
       {
-        "TSNE-1": -3.399404525756836,
-        "TSNE-2": 1.2734586000442505,
+        "TSNE-1": 8.084656715393066,
+        "TSNE-2": 8.09733772277832,
+        "cluster": 0,
+        "keywords": "patient, edi, healthcare, data, nurse"
+      },
+      {
+        "TSNE-1": 1.8656202554702759,
+        "TSNE-2": 9.086851119995117,
         "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "keywords": "help, provider, better, communication, impact"
       },
       {
-        "TSNE-1": 1.837857961654663,
-        "TSNE-2": 0.7719153761863708,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": 6.784420013427734,
-        "TSNE-2": 4.054178237915039,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": -2.186784505844116,
-        "TSNE-2": -2.9062654972076416,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": 3.491426944732666,
-        "TSNE-2": 2.0845510959625244,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": -4.288249969482422,
-        "TSNE-2": -3.51613187789917,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -2.067704677581787,
-        "TSNE-2": 6.009669780731201,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": -4.684763431549072,
-        "TSNE-2": 0.15129564702510834,
-        "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
-      },
-      {
-        "TSNE-1": -0.5117018222808838,
-        "TSNE-2": 2.397083282470703,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": -6.585179328918457,
-        "TSNE-2": -3.4805984497070312,
-        "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
-      },
-      {
-        "TSNE-1": -4.187144756317139,
-        "TSNE-2": -9.826895713806152,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": 9.281614303588867,
-        "TSNE-2": 6.848662853240967,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": 11.572096824645996,
-        "TSNE-2": 4.724513530731201,
+        "TSNE-1": 4.835185527801514,
+        "TSNE-2": -6.763010025024414,
         "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
+        "keywords": "information, error, efficiency, claim, improves"
       },
       {
-        "TSNE-1": 12.107266426086426,
-        "TSNE-2": 0.17048919200897217,
-        "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
-      },
-      {
-        "TSNE-1": 6.118161678314209,
-        "TSNE-2": 7.501905918121338,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": 2.570112705230713,
-        "TSNE-2": -1.8104100227355957,
+        "TSNE-1": -8.274020195007324,
+        "TSNE-2": -8.76944351196289,
         "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
+        "keywords": "document, digital, significant, enables, risk"
       },
       {
-        "TSNE-1": 0.3864140808582306,
-        "TSNE-2": 5.7446770668029785,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": 4.619794845581055,
-        "TSNE-2": 4.21554708480835,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": -2.1117312908172607,
-        "TSNE-2": 11.36624526977539,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": 2.026549816131592,
-        "TSNE-2": 7.248946666717529,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": 8.95251750946045,
-        "TSNE-2": -5.493653297424316,
-        "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
-      },
-      {
-        "TSNE-1": 3.2000460624694824,
-        "TSNE-2": 5.282814025878906,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": 0.946857750415802,
-        "TSNE-2": 3.445510149002075,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": -8.617338180541992,
-        "TSNE-2": 1.3100612163543701,
+        "TSNE-1": -1.5448170900344849,
+        "TSNE-2": -1.5004271268844604,
         "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
+        "keywords": "care, reduces, accuracy, manual, electronic"
       },
       {
-        "TSNE-1": -5.283149719238281,
-        "TSNE-2": 2.1263535022735596,
+        "TSNE-1": -2.230285882949829,
+        "TSNE-2": 1.4857513904571533,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": -0.2095833569765091,
+        "TSNE-2": 6.530291557312012,
         "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "keywords": "help, provider, better, communication, impact"
       },
       {
-        "TSNE-1": -1.5779833793640137,
-        "TSNE-2": 4.003272533416748,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "TSNE-1": 5.577932357788086,
+        "TSNE-2": 3.3722176551818848,
+        "cluster": 0,
+        "keywords": "patient, edi, healthcare, data, nurse"
       },
       {
-        "TSNE-1": 0.46986645460128784,
-        "TSNE-2": -4.769880294799805,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -2.4643871784210205,
-        "TSNE-2": 10.518420219421387,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": 5.616223335266113,
-        "TSNE-2": -14.057887077331543,
+        "TSNE-1": -6.065301895141602,
+        "TSNE-2": 2.0504062175750732,
         "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
+        "keywords": "informatics, mention, nursing, ehrs, medical"
       },
       {
-        "TSNE-1": 6.837080955505371,
-        "TSNE-2": 1.1620267629623413,
-        "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
-      },
-      {
-        "TSNE-1": -1.6132863759994507,
-        "TSNE-2": -4.3221211433410645,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -4.991161823272705,
-        "TSNE-2": 4.014125347137451,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": -5.521080493927002,
-        "TSNE-2": 6.110430717468262,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": -8.202872276306152,
-        "TSNE-2": -9.088517189025879,
+        "TSNE-1": 1.8697584867477417,
+        "TSNE-2": -1.9339079856872559,
         "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
+        "keywords": "care, reduces, accuracy, manual, electronic"
       },
       {
-        "TSNE-1": 2.490039110183716,
-        "TSNE-2": -7.528934478759766,
-        "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
+        "TSNE-1": 3.280524253845215,
+        "TSNE-2": 1.3246575593948364,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
       },
       {
-        "TSNE-1": -1.8808687925338745,
-        "TSNE-2": 4.6236724853515625,
+        "TSNE-1": 10.537161827087402,
+        "TSNE-2": -10.61225414276123,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": 0.7852075695991516,
+        "TSNE-2": 4.1401495933532715,
         "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "keywords": "help, provider, better, communication, impact"
       },
       {
-        "TSNE-1": 5.616223335266113,
-        "TSNE-2": -14.057887077331543,
-        "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
+        "TSNE-1": -4.235222339630127,
+        "TSNE-2": -5.769543170928955,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
       },
       {
-        "TSNE-1": 1.1232993602752686,
-        "TSNE-2": 5.69875955581665,
+        "TSNE-1": -2.458763599395752,
+        "TSNE-2": 3.105903387069702,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": 7.63504695892334,
+        "TSNE-2": -1.5090429782867432,
         "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
+        "keywords": "patient, edi, healthcare, data, nurse"
       },
       {
-        "TSNE-1": -4.93546199798584,
-        "TSNE-2": -4.643993377685547,
+        "TSNE-1": 3.8541035652160645,
+        "TSNE-2": -2.719792127609253,
         "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
+        "keywords": "care, reduces, accuracy, manual, electronic"
       },
       {
-        "TSNE-1": 0.2817774713039398,
-        "TSNE-2": 9.504655838012695,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": -3.6836013793945312,
-        "TSNE-2": -5.5283379554748535,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -0.18803048133850098,
-        "TSNE-2": -7.931809902191162,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -2.960639476776123,
-        "TSNE-2": -2.0362212657928467,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": 10.109453201293945,
-        "TSNE-2": -4.333269119262695,
-        "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
-      },
-      {
-        "TSNE-1": 5.833483695983887,
-        "TSNE-2": -2.281682014465332,
-        "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
-      },
-      {
-        "TSNE-1": -9.215179443359375,
-        "TSNE-2": -7.117038249969482,
+        "TSNE-1": 0.8116825222969055,
+        "TSNE-2": -4.619210243225098,
         "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
+        "keywords": "care, reduces, accuracy, manual, electronic"
       },
       {
-        "TSNE-1": 6.118161678314209,
-        "TSNE-2": 7.501905918121338,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": -4.298046112060547,
-        "TSNE-2": 7.171818733215332,
+        "TSNE-1": 1.5766433477401733,
+        "TSNE-2": 5.919212341308594,
         "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "keywords": "help, provider, better, communication, impact"
       },
       {
-        "TSNE-1": -0.14860525727272034,
-        "TSNE-2": 0.9061282277107239,
-        "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
-      },
-      {
-        "TSNE-1": -3.4316678047180176,
-        "TSNE-2": 8.181283950805664,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": -2.0197949409484863,
-        "TSNE-2": 2.1543054580688477,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": 0.2197238653898239,
-        "TSNE-2": -0.3532164990901947,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": 3.8563690185546875,
-        "TSNE-2": -10.331713676452637,
+        "TSNE-1": -8.107597351074219,
+        "TSNE-2": 4.501471519470215,
         "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
+        "keywords": "informatics, mention, nursing, ehrs, medical"
       },
       {
-        "TSNE-1": -5.904623985290527,
-        "TSNE-2": -0.12054863572120667,
-        "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
-      },
-      {
-        "TSNE-1": -10.293272972106934,
-        "TSNE-2": -3.5679774284362793,
-        "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
-      },
-      {
-        "TSNE-1": 9.4744291305542,
-        "TSNE-2": 3.6798155307769775,
-        "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
-      },
-      {
-        "TSNE-1": -7.4473795890808105,
-        "TSNE-2": 3.997157573699951,
+        "TSNE-1": -0.19348587095737457,
+        "TSNE-2": 8.341981887817383,
         "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "keywords": "help, provider, better, communication, impact"
       },
       {
-        "TSNE-1": -5.474637031555176,
-        "TSNE-2": 8.221392631530762,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
+        "TSNE-1": -9.772770881652832,
+        "TSNE-2": -3.8490684032440186,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
       },
       {
-        "TSNE-1": 5.766829967498779,
-        "TSNE-2": -10.120637893676758,
-        "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
-      },
-      {
-        "TSNE-1": 3.9394211769104004,
-        "TSNE-2": -0.4987584054470062,
+        "TSNE-1": 7.581541538238525,
+        "TSNE-2": 7.9522175788879395,
         "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
+        "keywords": "patient, edi, healthcare, data, nurse"
       },
       {
-        "TSNE-1": 9.4744291305542,
-        "TSNE-2": 3.6798155307769775,
+        "TSNE-1": 8.513789176940918,
+        "TSNE-2": -10.401988983154297,
         "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
+        "keywords": "information, error, efficiency, claim, improves"
       },
       {
-        "TSNE-1": -8.581624031066895,
-        "TSNE-2": -8.435822486877441,
+        "TSNE-1": -1.0437493324279785,
+        "TSNE-2": -2.0304791927337646,
         "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
+        "keywords": "care, reduces, accuracy, manual, electronic"
       },
       {
-        "TSNE-1": -3.4629855155944824,
-        "TSNE-2": -3.9942989349365234,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": -1.3505468368530273,
-        "TSNE-2": -1.243984580039978,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": 4.810589790344238,
-        "TSNE-2": -5.212432384490967,
-        "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
-      },
-      {
-        "TSNE-1": 10.433772087097168,
-        "TSNE-2": -4.116458892822266,
+        "TSNE-1": -0.4598439931869507,
+        "TSNE-2": -7.774919033050537,
         "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
+        "keywords": "information, error, efficiency, claim, improves"
       },
       {
-        "TSNE-1": 1.3486037254333496,
-        "TSNE-2": -2.49717378616333,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
-      },
-      {
-        "TSNE-1": 0.946857750415802,
-        "TSNE-2": 3.445510149002075,
+        "TSNE-1": 11.62131118774414,
+        "TSNE-2": -2.6098742485046387,
         "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
+        "keywords": "patient, edi, healthcare, data, nurse"
       },
       {
-        "TSNE-1": -2.4789066314697266,
-        "TSNE-2": -4.872994422912598,
-        "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
+        "TSNE-1": -0.383849173784256,
+        "TSNE-2": -12.117300033569336,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
       },
       {
-        "TSNE-1": 7.768593788146973,
-        "TSNE-2": -6.653610706329346,
+        "TSNE-1": 1.192400336265564,
+        "TSNE-2": -8.346664428710938,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": -13.159252166748047,
+        "TSNE-2": 2.192310333251953,
         "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
+        "keywords": "informatics, mention, nursing, ehrs, medical"
       },
       {
-        "TSNE-1": -13.116168975830078,
-        "TSNE-2": 1.499424695968628,
+        "TSNE-1": -3.5690817832946777,
+        "TSNE-2": -8.4623384475708,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
+      },
+      {
+        "TSNE-1": -0.8394713401794434,
+        "TSNE-2": -5.475197792053223,
         "cluster": 2,
-        "keywords": "claim, nursing, exchange, secure, provider"
+        "keywords": "care, reduces, accuracy, manual, electronic"
       },
       {
-        "TSNE-1": -0.6393152475357056,
-        "TSNE-2": 7.18255090713501,
-        "cluster": 3,
-        "keywords": "care, information, electronic, error, manual"
-      },
-      {
-        "TSNE-1": 8.668112754821777,
-        "TSNE-2": -0.04507569968700409,
+        "TSNE-1": 2.683492660522461,
+        "TSNE-2": -5.898284435272217,
         "cluster": 4,
-        "keywords": "informatics, document, transaction, ehrs, role"
+        "keywords": "information, error, efficiency, claim, improves"
       },
       {
-        "TSNE-1": -1.884930968284607,
-        "TSNE-2": 0.3881576657295227,
+        "TSNE-1": -3.1039810180664062,
+        "TSNE-2": -3.38038969039917,
         "cluster": 5,
-        "keywords": "potential, enables, better, reduces, impact"
+        "keywords": "document, digital, significant, enables, risk"
       },
       {
-        "TSNE-1": 6.118161678314209,
-        "TSNE-2": 7.501905918121338,
+        "TSNE-1": 5.027362823486328,
+        "TSNE-2": -1.1686698198318481,
         "cluster": 0,
-        "keywords": "patient, edi, data, healthcare, nurse"
+        "keywords": "patient, edi, healthcare, data, nurse"
       },
       {
-        "TSNE-1": 4.373884677886963,
-        "TSNE-2": -10.29874038696289,
+        "TSNE-1": -4.035338878631592,
+        "TSNE-2": 0.07983264327049255,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": 0.11732237786054611,
+        "TSNE-2": -11.247550010681152,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": 5.005129337310791,
+        "TSNE-2": 12.647624015808105,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": 9.976922988891602,
+        "TSNE-2": -7.837883949279785,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": -0.2695116102695465,
+        "TSNE-2": 5.426199436187744,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": 4.835185527801514,
+        "TSNE-2": -6.763010025024414,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": 6.043015003204346,
+        "TSNE-2": -8.099154472351074,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": -1.882656216621399,
+        "TSNE-2": 12.883432388305664,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": 2.2540457248687744,
+        "TSNE-2": 9.62474536895752,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": 5.7557220458984375,
+        "TSNE-2": -1.6537539958953857,
+        "cluster": 0,
+        "keywords": "patient, edi, healthcare, data, nurse"
+      },
+      {
+        "TSNE-1": 5.005129337310791,
+        "TSNE-2": 12.647624015808105,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": -0.947474479675293,
+        "TSNE-2": -8.41828727722168,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": -0.45848315954208374,
+        "TSNE-2": 2.243654489517212,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": 6.581155776977539,
+        "TSNE-2": 4.3418192863464355,
+        "cluster": 0,
+        "keywords": "patient, edi, healthcare, data, nurse"
+      },
+      {
+        "TSNE-1": -2.210584878921509,
+        "TSNE-2": 4.685800075531006,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": -5.774059772491455,
+        "TSNE-2": -5.163616180419922,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
+      },
+      {
+        "TSNE-1": 1.3698999881744385,
+        "TSNE-2": 3.2064759731292725,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": -12.849274635314941,
+        "TSNE-2": 4.018036365509033,
         "cluster": 1,
-        "keywords": "context, mention, edis, help, relation"
+        "keywords": "informatics, mention, nursing, ehrs, medical"
+      },
+      {
+        "TSNE-1": -4.43877649307251,
+        "TSNE-2": -2.6225976943969727,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
+      },
+      {
+        "TSNE-1": -3.108478546142578,
+        "TSNE-2": 10.994872093200684,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": 8.513789176940918,
+        "TSNE-2": -10.401988983154297,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": 3.4760055541992188,
+        "TSNE-2": -8.78196907043457,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": 3.176133632659912,
+        "TSNE-2": -4.2187418937683105,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": 2.664020538330078,
+        "TSNE-2": -9.936603546142578,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": 3.2235631942749023,
+        "TSNE-2": -0.7666481137275696,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": 4.541688919067383,
+        "TSNE-2": -4.381705284118652,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": -8.479803085327148,
+        "TSNE-2": 8.946538925170898,
+        "cluster": 1,
+        "keywords": "informatics, mention, nursing, ehrs, medical"
+      },
+      {
+        "TSNE-1": 6.2055344581604,
+        "TSNE-2": -3.7543883323669434,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": -6.065301895141602,
+        "TSNE-2": 2.0504062175750732,
+        "cluster": 1,
+        "keywords": "informatics, mention, nursing, ehrs, medical"
+      },
+      {
+        "TSNE-1": -7.990001201629639,
+        "TSNE-2": -2.0444395542144775,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
+      },
+      {
+        "TSNE-1": 1.6224584579467773,
+        "TSNE-2": 0.20067331194877625,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": 4.673393726348877,
+        "TSNE-2": -10.097451210021973,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": -7.384818077087402,
+        "TSNE-2": 10.648368835449219,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": 9.158317565917969,
+        "TSNE-2": 0.6089500188827515,
+        "cluster": 0,
+        "keywords": "patient, edi, healthcare, data, nurse"
+      },
+      {
+        "TSNE-1": -7.990001201629639,
+        "TSNE-2": -2.0444395542144775,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
+      },
+      {
+        "TSNE-1": -2.425196647644043,
+        "TSNE-2": 12.272784233093262,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": -1.1920831203460693,
+        "TSNE-2": 3.522792339324951,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": 3.079868793487549,
+        "TSNE-2": 3.1394150257110596,
+        "cluster": 0,
+        "keywords": "patient, edi, healthcare, data, nurse"
+      },
+      {
+        "TSNE-1": -8.274020195007324,
+        "TSNE-2": -8.76944351196289,
+        "cluster": 5,
+        "keywords": "document, digital, significant, enables, risk"
+      },
+      {
+        "TSNE-1": -13.036096572875977,
+        "TSNE-2": 4.467283725738525,
+        "cluster": 1,
+        "keywords": "informatics, mention, nursing, ehrs, medical"
+      },
+      {
+        "TSNE-1": -0.16035763919353485,
+        "TSNE-2": -0.9107452630996704,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": -0.8394713401794434,
+        "TSNE-2": -5.475197792053223,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": -1.1096653938293457,
+        "TSNE-2": 5.2901177406311035,
+        "cluster": 3,
+        "keywords": "help, provider, better, communication, impact"
+      },
+      {
+        "TSNE-1": -13.560982704162598,
+        "TSNE-2": 0.5308150053024292,
+        "cluster": 1,
+        "keywords": "informatics, mention, nursing, ehrs, medical"
+      },
+      {
+        "TSNE-1": -14.030556678771973,
+        "TSNE-2": -0.9671896696090698,
+        "cluster": 1,
+        "keywords": "informatics, mention, nursing, ehrs, medical"
+      },
+      {
+        "TSNE-1": 5.01491117477417,
+        "TSNE-2": 2.3475170135498047,
+        "cluster": 0,
+        "keywords": "patient, edi, healthcare, data, nurse"
+      },
+      {
+        "TSNE-1": 9.257278442382812,
+        "TSNE-2": -6.06906270980835,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": 0.47753429412841797,
+        "TSNE-2": -2.6932265758514404,
+        "cluster": 2,
+        "keywords": "care, reduces, accuracy, manual, electronic"
+      },
+      {
+        "TSNE-1": 8.513789176940918,
+        "TSNE-2": -10.401988983154297,
+        "cluster": 4,
+        "keywords": "information, error, efficiency, claim, improves"
+      },
+      {
+        "TSNE-1": -8.142502784729004,
+        "TSNE-2": 9.401934623718262,
+        "cluster": 1,
+        "keywords": "informatics, mention, nursing, ehrs, medical"
       }
     ]
   },

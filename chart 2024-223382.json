@@ -7,567 +7,555 @@
     }
   },
   "data": {
-    "name": "data-c7172f1cfe787c2a335f7b64d0f094ad"
+    "name": "data-f29bc4380bad8b346cf660aaea7f8439"
   },
   "datasets": {
-    "data-c7172f1cfe787c2a335f7b64d0f094ad": [
+    "data-f29bc4380bad8b346cf660aaea7f8439": [
       {
-        "TSNE-1": -4.778292179107666,
-        "TSNE-2": -2.265080213546753,
+        "TSNE-1": 11.460654258728027,
+        "TSNE-2": -9.96234130859375,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": -32.670196533203125,
+        "TSNE-2": 10.255180358886719,
         "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
+        "keywords": "mithila, part, weak, charity, main"
       },
       {
-        "TSNE-1": -10.972320556640625,
-        "TSNE-2": 9.041214942932129,
-        "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
-      },
-      {
-        "TSNE-1": -4.673079967498779,
-        "TSNE-2": 9.079001426696777,
-        "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
-      },
-      {
-        "TSNE-1": 14.906585693359375,
-        "TSNE-2": -0.05942677706480026,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -4.673079967498779,
-        "TSNE-2": 9.079001426696777,
-        "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
-      },
-      {
-        "TSNE-1": 10.038237571716309,
-        "TSNE-2": 2.448850631713867,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -4.204107284545898,
-        "TSNE-2": 10.961125373840332,
-        "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
-      },
-      {
-        "TSNE-1": -0.12287213653326035,
-        "TSNE-2": 3.109466314315796,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": -11.481374740600586,
-        "TSNE-2": -11.579279899597168,
+        "TSNE-1": -5.101250648498535,
+        "TSNE-2": -18.608049392700195,
         "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": 12.37186050415039,
-        "TSNE-2": -1.8074865341186523,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -15.286630630493164,
-        "TSNE-2": 9.036637306213379,
+        "TSNE-1": 14.809520721435547,
+        "TSNE-2": 9.743952751159668,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": 1.771994948387146,
-        "TSNE-2": -10.482501983642578,
+        "TSNE-1": -5.101250648498535,
+        "TSNE-2": -18.608049392700195,
         "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": 5.826237201690674,
-        "TSNE-2": -7.392319679260254,
+        "TSNE-1": -1.3504852056503296,
+        "TSNE-2": -21.619213104248047,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -3.4992542266845703,
+        "TSNE-2": 3.542470693588257,
         "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
+        "keywords": "charitable, economic, cultural, lack, political"
       },
       {
-        "TSNE-1": -2.539541721343994,
-        "TSNE-2": -12.16882610321045,
-        "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
+        "TSNE-1": -14.582307815551758,
+        "TSNE-2": 22.995168685913086,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
       },
       {
-        "TSNE-1": 12.204185485839844,
-        "TSNE-2": -6.111487865447998,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -7.993244171142578,
-        "TSNE-2": 6.964934825897217,
-        "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
-      },
-      {
-        "TSNE-1": -7.1509833335876465,
-        "TSNE-2": -6.710669040679932,
-        "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
-      },
-      {
-        "TSNE-1": 0.6961347460746765,
-        "TSNE-2": 3.850637197494507,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": -4.950377464294434,
-        "TSNE-2": 17.410043716430664,
+        "TSNE-1": 14.776546478271484,
+        "TSNE-2": 15.442442893981934,
         "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
+        "keywords": "context, query, characteristic, provide, importance"
       },
       {
-        "TSNE-1": -10.49207592010498,
-        "TSNE-2": 1.6972684860229492,
+        "TSNE-1": -18.19590187072754,
+        "TSNE-2": 14.063932418823242,
         "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
+        "keywords": "mithila, part, weak, charity, main"
       },
       {
-        "TSNE-1": 16.980941772460938,
-        "TSNE-2": -7.11969518661499,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -4.402920246124268,
-        "TSNE-2": 0.03195511922240257,
+        "TSNE-1": -30.960283279418945,
+        "TSNE-2": -10.455840110778809,
         "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
+        "keywords": "mithila, part, weak, charity, main"
       },
       {
-        "TSNE-1": 14.51986026763916,
-        "TSNE-2": -6.819582462310791,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
+        "TSNE-1": 23.07559585571289,
+        "TSNE-2": 27.214433670043945,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
       },
       {
-        "TSNE-1": -6.942285537719727,
-        "TSNE-2": -10.103757858276367,
+        "TSNE-1": -17.2862491607666,
+        "TSNE-2": -33.82645797729492,
         "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": -11.55908489227295,
-        "TSNE-2": 13.088319778442383,
+        "TSNE-1": 28.566265106201172,
+        "TSNE-2": 14.872426986694336,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": 3.4480676651000977,
-        "TSNE-2": 10.212377548217773,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
+        "TSNE-1": 14.660884857177734,
+        "TSNE-2": -22.170164108276367,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": 17.785470962524414,
-        "TSNE-2": -4.424927711486816,
+        "TSNE-1": 4.695641994476318,
+        "TSNE-2": -31.113624572753906,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -3.4992542266845703,
+        "TSNE-2": 3.542470693588257,
         "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
+        "keywords": "charitable, economic, cultural, lack, political"
       },
       {
-        "TSNE-1": -4.688244342803955,
-        "TSNE-2": 7.224526882171631,
+        "TSNE-1": 14.720298767089844,
+        "TSNE-2": -28.90068244934082,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -6.878225326538086,
+        "TSNE-2": -6.078604698181152,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": 26.681640625,
+        "TSNE-2": 5.953668594360352,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": 12.011706352233887,
-        "TSNE-2": -8.240009307861328,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -8.559667587280273,
-        "TSNE-2": -3.5197300910949707,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": 13.326311111450195,
-        "TSNE-2": 6.694566249847412,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -6.273364067077637,
-        "TSNE-2": -14.696061134338379,
-        "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
-      },
-      {
-        "TSNE-1": -0.678534746170044,
-        "TSNE-2": 6.3855156898498535,
+        "TSNE-1": 828.6184692382812,
+        "TSNE-2": 214.3917236328125,
         "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
+        "keywords": "yves, famous, facility, factor, faith"
       },
       {
-        "TSNE-1": -5.594168186187744,
-        "TSNE-2": 4.230777740478516,
+        "TSNE-1": 24.41791343688965,
+        "TSNE-2": 11.228205680847168,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": -10.900972366333008,
-        "TSNE-2": -1.9293171167373657,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": -0.8151890635490417,
-        "TSNE-2": -6.349411964416504,
-        "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
-      },
-      {
-        "TSNE-1": 9.24581527709961,
-        "TSNE-2": 1.6405500173568726,
+        "TSNE-1": 8.269807815551758,
+        "TSNE-2": 7.8621015548706055,
         "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
+        "keywords": "charitable, economic, cultural, lack, political"
       },
       {
-        "TSNE-1": 6.765322208404541,
-        "TSNE-2": 4.554741859436035,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
+        "TSNE-1": -24.672033309936523,
+        "TSNE-2": -23.363916397094727,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": -12.911772727966309,
-        "TSNE-2": 4.5366106033325195,
+        "TSNE-1": 2.2583212852478027,
+        "TSNE-2": 3.143514633178711,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": 21.278244018554688,
+        "TSNE-2": 5.584270000457764,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": 0.3918111026287079,
-        "TSNE-2": 9.411478996276855,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
+        "TSNE-1": -7.649259090423584,
+        "TSNE-2": -14.939207077026367,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": -8.035365104675293,
-        "TSNE-2": 14.607622146606445,
+        "TSNE-1": 26.803865432739258,
+        "TSNE-2": 18.918190002441406,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": -2.4495553970336914,
-        "TSNE-2": -2.136401891708374,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
+        "TSNE-1": 5.855794429779053,
+        "TSNE-2": 14.090715408325195,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
       },
       {
-        "TSNE-1": 0.5115501880645752,
-        "TSNE-2": 6.279286861419678,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": 9.392858505249023,
-        "TSNE-2": 6.755744457244873,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": 7.870082855224609,
-        "TSNE-2": -9.40017318725586,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": 2.056830883026123,
-        "TSNE-2": -14.190168380737305,
-        "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
-      },
-      {
-        "TSNE-1": -7.715121269226074,
-        "TSNE-2": 2.50270938873291,
+        "TSNE-1": -20.41239356994629,
+        "TSNE-2": 24.381881713867188,
         "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
+        "keywords": "mithila, part, weak, charity, main"
       },
       {
-        "TSNE-1": 13.428873062133789,
-        "TSNE-2": -4.209330081939697,
+        "TSNE-1": 10.549980163574219,
+        "TSNE-2": 31.82305145263672,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": -2.0427474975585938,
+        "TSNE-2": -2.7391300201416016,
         "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
+        "keywords": "charitable, economic, cultural, lack, political"
       },
       {
-        "TSNE-1": -15.286630630493164,
-        "TSNE-2": 9.036637306213379,
+        "TSNE-1": 10.409514427185059,
+        "TSNE-2": -16.440383911132812,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -4.171112537384033,
+        "TSNE-2": 11.857992172241211,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": -19.605241775512695,
+        "TSNE-2": 6.460216522216797,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": 26.562376022338867,
+        "TSNE-2": -19.935169219970703,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": 6.8536200523376465,
-        "TSNE-2": -12.050581932067871,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": 1.650160789489746,
-        "TSNE-2": -4.618086338043213,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": 16.62310218811035,
-        "TSNE-2": 2.1470947265625,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -1.7482935190200806,
-        "TSNE-2": 4.60786771774292,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": -0.43361178040504456,
-        "TSNE-2": -1.2590034008026123,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": -3.254335403442383,
-        "TSNE-2": 2.087394952774048,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": 14.871138572692871,
-        "TSNE-2": -9.999185562133789,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -8.16579818725586,
-        "TSNE-2": 10.455339431762695,
+        "TSNE-1": 34.28330993652344,
+        "TSNE-2": -2.3875885009765625,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": 8.751107215881348,
-        "TSNE-2": -2.753554105758667,
+        "TSNE-1": 3.0709424018859863,
+        "TSNE-2": -3.656303882598877,
         "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
+        "keywords": "charitable, economic, cultural, lack, political"
       },
       {
-        "TSNE-1": 4.174703121185303,
-        "TSNE-2": 3.728503942489624,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
+        "TSNE-1": -13.646148681640625,
+        "TSNE-2": 2.9674527645111084,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
       },
       {
-        "TSNE-1": 14.171562194824219,
-        "TSNE-2": -1.4785678386688232,
+        "TSNE-1": -14.426919937133789,
+        "TSNE-2": -19.505361557006836,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": 5.40297794342041,
+        "TSNE-2": -8.015918731689453,
         "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
+        "keywords": "charitable, economic, cultural, lack, political"
       },
       {
-        "TSNE-1": -12.129365921020508,
-        "TSNE-2": -7.258447170257568,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": 2.6517438888549805,
-        "TSNE-2": -3.2620739936828613,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": 4.252391338348389,
-        "TSNE-2": -3.6210203170776367,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": -8.715216636657715,
-        "TSNE-2": 0.45892050862312317,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": -3.374595880508423,
-        "TSNE-2": -5.32647180557251,
+        "TSNE-1": 3.4219202995300293,
+        "TSNE-2": -17.205917358398438,
         "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": -0.5330424904823303,
-        "TSNE-2": 12.295042037963867,
+        "TSNE-1": 5.19539213180542,
+        "TSNE-2": 23.7579345703125,
         "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
+        "keywords": "context, query, characteristic, provide, importance"
       },
       {
-        "TSNE-1": 0.017429083585739136,
-        "TSNE-2": 16.03071403503418,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
-      },
-      {
-        "TSNE-1": -3.4362053871154785,
-        "TSNE-2": 13.95882511138916,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
-      },
-      {
-        "TSNE-1": 3.3302929401397705,
-        "TSNE-2": 1.211925745010376,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": 14.51986026763916,
-        "TSNE-2": -6.819582462310791,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": 4.562554359436035,
-        "TSNE-2": 0.6067003011703491,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": -7.1509833335876465,
-        "TSNE-2": -6.710669040679932,
-        "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
-      },
-      {
-        "TSNE-1": 6.811609745025635,
-        "TSNE-2": 8.87346363067627,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
-      },
-      {
-        "TSNE-1": 8.407917976379395,
-        "TSNE-2": 12.758706092834473,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
-      },
-      {
-        "TSNE-1": -3.2362189292907715,
-        "TSNE-2": -8.166041374206543,
-        "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
-      },
-      {
-        "TSNE-1": -14.709531784057617,
-        "TSNE-2": 1.3803976774215698,
+        "TSNE-1": -33.436710357666016,
+        "TSNE-2": -2.300004005432129,
         "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
+        "keywords": "mithila, part, weak, charity, main"
       },
       {
-        "TSNE-1": 4.45175838470459,
-        "TSNE-2": 16.563861846923828,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
-      },
-      {
-        "TSNE-1": 6.811609745025635,
-        "TSNE-2": 8.87346363067627,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
-      },
-      {
-        "TSNE-1": 3.9777538776397705,
-        "TSNE-2": -1.9566411972045898,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": -5.227118015289307,
-        "TSNE-2": 1.4257338047027588,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": 2.8487026691436768,
-        "TSNE-2": 13.18063735961914,
-        "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
-      },
-      {
-        "TSNE-1": 1.771994948387146,
-        "TSNE-2": -10.482501983642578,
+        "TSNE-1": -3.425041437149048,
+        "TSNE-2": -9.982084274291992,
         "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": -12.129365921020508,
-        "TSNE-2": -7.258447170257568,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": -9.481858253479004,
-        "TSNE-2": 4.9618072509765625,
+        "TSNE-1": 21.537952423095703,
+        "TSNE-2": 16.42475700378418,
         "cluster": 5,
-        "keywords": "poverty, people, weak, proper, poorest"
+        "keywords": "possible, answer, question, information, mention"
       },
       {
-        "TSNE-1": 0.3918111026287079,
-        "TSNE-2": 9.411478996276855,
+        "TSNE-1": -18.19590187072754,
+        "TSNE-2": 14.063932418823242,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": 1.40159010887146,
+        "TSNE-2": 18.87980842590332,
         "cluster": 3,
-        "keywords": "cultural, mithila, charitable, region, act"
+        "keywords": "context, query, characteristic, provide, importance"
       },
       {
-        "TSNE-1": 8.914266586303711,
-        "TSNE-2": -5.549831867218018,
-        "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
-      },
-      {
-        "TSNE-1": -15.681307792663574,
-        "TSNE-2": -5.704674243927002,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": -14.841602325439453,
-        "TSNE-2": -2.1591007709503174,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": -6.605856418609619,
-        "TSNE-2": -0.7129589319229126,
-        "cluster": 0,
-        "keywords": "charity, specific, access, mention, basic"
-      },
-      {
-        "TSNE-1": 1.188855528831482,
-        "TSNE-2": -0.4752800464630127,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": 2.8231024742126465,
-        "TSNE-2": 6.465626239776611,
-        "cluster": 1,
-        "keywords": "economy, economic, part, educational, lack"
-      },
-      {
-        "TSNE-1": -6.273364067077637,
-        "TSNE-2": -14.696061134338379,
+        "TSNE-1": -21.964662551879883,
+        "TSNE-2": -15.851880073547363,
         "cluster": 4,
-        "keywords": "tzedakah, shri, da, need, justice"
+        "keywords": "region, economy, poverty, poorest, one"
       },
       {
-        "TSNE-1": 15.379018783569336,
-        "TSNE-2": -5.183043956756592,
+        "TSNE-1": 9.915956497192383,
+        "TSNE-2": 19.025266647338867,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": -7.214200496673584,
+        "TSNE-2": 0.24546465277671814,
         "cluster": 2,
-        "keywords": "possible, context, answer, provide, question"
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": -26.630165100097656,
+        "TSNE-2": -2.3930137157440186,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": -6.069075584411621,
+        "TSNE-2": -26.460716247558594,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": 31.89793586730957,
+        "TSNE-2": 9.3634672164917,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": 8.663745880126953,
+        "TSNE-2": -23.036191940307617,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": 12.83697509765625,
+        "TSNE-2": 23.159889221191406,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": -19.84917640686035,
+        "TSNE-2": -1.1855334043502808,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": 17.480819702148438,
+        "TSNE-2": 12.515663146972656,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": 27.380964279174805,
+        "TSNE-2": -8.082207679748535,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": -18.856082916259766,
+        "TSNE-2": -13.552776336669922,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -19.03913116455078,
+        "TSNE-2": -9.320905685424805,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": -8.597020149230957,
+        "TSNE-2": 30.34279441833496,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": 18.957847595214844,
+        "TSNE-2": -3.2752323150634766,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": 7.883651256561279,
+        "TSNE-2": 1.5733455419540405,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": 18.518030166625977,
+        "TSNE-2": -9.298920631408691,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": -2.06192946434021,
+        "TSNE-2": 25.90277099609375,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": -13.618935585021973,
+        "TSNE-2": -3.8165090084075928,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": 24.41791343688965,
+        "TSNE-2": 11.228205680847168,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": -13.43416976928711,
+        "TSNE-2": -7.063261985778809,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": 4.695641994476318,
+        "TSNE-2": -31.113624572753906,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -5.87607479095459,
+        "TSNE-2": -34.11802673339844,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -15.949657440185547,
+        "TSNE-2": -25.634695053100586,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": 1.7590113878250122,
+        "TSNE-2": 9.854373931884766,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": 0.4667550325393677,
+        "TSNE-2": 35.36753463745117,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": 11.80642032623291,
+        "TSNE-2": -3.40621280670166,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": -5.87607479095459,
+        "TSNE-2": -34.11802673339844,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -14.984993934631348,
+        "TSNE-2": -12.796825408935547,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": -4.7788987159729,
+        "TSNE-2": 19.990299224853516,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": -9.650269508361816,
+        "TSNE-2": 15.08823013305664,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": -30.960283279418945,
+        "TSNE-2": -10.455840110778809,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": 27.380964279174805,
+        "TSNE-2": -8.082207679748535,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": 17.632766723632812,
+        "TSNE-2": -16.107606887817383,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": 3.0709424018859863,
+        "TSNE-2": -3.656303882598877,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": 18.41840934753418,
+        "TSNE-2": 22.31816864013672,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": 14.418595314025879,
+        "TSNE-2": 2.6087188720703125,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
+      },
+      {
+        "TSNE-1": -26.39417266845703,
+        "TSNE-2": 7.468325614929199,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": -10.109399795532227,
+        "TSNE-2": 7.967445373535156,
+        "cluster": 2,
+        "keywords": "charitable, economic, cultural, lack, political"
+      },
+      {
+        "TSNE-1": -23.210289001464844,
+        "TSNE-2": -6.028378963470459,
+        "cluster": 0,
+        "keywords": "mithila, part, weak, charity, main"
+      },
+      {
+        "TSNE-1": 1.8930203914642334,
+        "TSNE-2": -11.323105812072754,
+        "cluster": 4,
+        "keywords": "region, economy, poverty, poorest, one"
+      },
+      {
+        "TSNE-1": 10.549980163574219,
+        "TSNE-2": 31.82305145263672,
+        "cluster": 3,
+        "keywords": "context, query, characteristic, provide, importance"
+      },
+      {
+        "TSNE-1": 24.41791343688965,
+        "TSNE-2": 11.228205680847168,
+        "cluster": 5,
+        "keywords": "possible, answer, question, information, mention"
       }
     ]
   },

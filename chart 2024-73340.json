@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-369d25682dd47c49a8337925259670de"
+    "name": "data-66c921dd9b43aeb70c5343be3cdb3d51"
   },
   "datasets": {
-    "data-369d25682dd47c49a8337925259670de": [
+    "data-66c921dd9b43aeb70c5343be3cdb3d51": [
       {
-        "TSNE-1": 0.10939666628837585,
-        "TSNE-2": 1.3712769746780396,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
-      },
-      {
-        "TSNE-1": 4.524970054626465,
-        "TSNE-2": -0.3975001275539398,
+        "TSNE-1": 9.65847396850586,
+        "TSNE-2": -5.956086158752441,
         "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
+        "keywords": "vote, patriot, house, representative, senate"
       },
       {
-        "TSNE-1": -11.400142669677734,
-        "TSNE-2": 5.503763675689697,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
+        "TSNE-1": 2.099222183227539,
+        "TSNE-2": -6.95481538772583,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
       },
       {
-        "TSNE-1": -6.8617424964904785,
-        "TSNE-2": -1.390105128288269,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -11.400142669677734,
-        "TSNE-2": 5.503763675689697,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -19.81268882751465,
-        "TSNE-2": 19.729019165039062,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -12.118745803833008,
-        "TSNE-2": 3.378939390182495,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": 2.2442421913146973,
-        "TSNE-2": 0.6057136058807373,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
-      },
-      {
-        "TSNE-1": -5.63073205947876,
-        "TSNE-2": 4.503620624542236,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -9.973541259765625,
-        "TSNE-2": -8.262090682983398,
+        "TSNE-1": 0.7699973583221436,
+        "TSNE-2": 7.519975662231445,
         "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
+        "keywords": "voting, one, bipartisan, usa, measure"
       },
       {
-        "TSNE-1": 3.3264355659484863,
-        "TSNE-2": 16.20515251159668,
+        "TSNE-1": -4.4465742111206055,
+        "TSNE-2": 12.581438064575195,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": 0.7699973583221436,
+        "TSNE-2": 7.519975662231445,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": 2.586315155029297,
+        "TSNE-2": 8.864312171936035,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": 3.3048596382141113,
+        "TSNE-2": -0.32792675495147705,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": -10.504877090454102,
+        "TSNE-2": -3.038045644760132,
         "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
+        "keywords": "civil, security, october, national, bill"
       },
       {
-        "TSNE-1": -6.214168548583984,
-        "TSNE-2": -8.848213195800781,
+        "TSNE-1": 1.4736649990081787,
+        "TSNE-2": -17.653160095214844,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -14.263997077941895,
+        "TSNE-2": 3.097879409790039,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
+      },
+      {
+        "TSNE-1": 11.154831886291504,
+        "TSNE-2": 0.10723014175891876,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": 6.604526042938232,
+        "TSNE-2": -4.257816791534424,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": 0.06907016783952713,
+        "TSNE-2": 0.34874027967453003,
         "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
+        "keywords": "voting, one, bipartisan, usa, measure"
       },
       {
-        "TSNE-1": -0.9153658747673035,
-        "TSNE-2": 0.335679292678833,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
+        "TSNE-1": 5.1678667068481445,
+        "TSNE-2": 3.4601540565490723,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
       },
       {
-        "TSNE-1": 7.644739627838135,
-        "TSNE-2": 5.909095764160156,
+        "TSNE-1": -5.987708568572998,
+        "TSNE-2": -2.6050667762756348,
         "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
+        "keywords": "civil, security, october, national, bill"
       },
       {
-        "TSNE-1": -7.50227689743042,
-        "TSNE-2": -13.13271713256836,
+        "TSNE-1": -10.837350845336914,
+        "TSNE-2": 7.601925849914551,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
+      },
+      {
+        "TSNE-1": 3.3048596382141113,
+        "TSNE-2": -0.32792675495147705,
         "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
+        "keywords": "voting, one, bipartisan, usa, measure"
       },
       {
-        "TSNE-1": 5.548158645629883,
-        "TSNE-2": 7.100294589996338,
+        "TSNE-1": 4.079854965209961,
+        "TSNE-2": 13.028048515319824,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": 9.897017478942871,
+        "TSNE-2": 0.8355153203010559,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": -1.9973278045654297,
+        "TSNE-2": 14.6318941116333,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": 0.6442492008209229,
+        "TSNE-2": -4.692164897918701,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -1.6222964525222778,
+        "TSNE-2": 16.016231536865234,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": -9.348739624023438,
+        "TSNE-2": -8.463260650634766,
         "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
+        "keywords": "civil, security, october, national, bill"
       },
       {
-        "TSNE-1": 9.270889282226562,
-        "TSNE-2": -7.295130729675293,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 2.2442421913146973,
-        "TSNE-2": 0.6057136058807373,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
-      },
-      {
-        "TSNE-1": 7.61799955368042,
-        "TSNE-2": 8.716293334960938,
+        "TSNE-1": -3.3611953258514404,
+        "TSNE-2": -5.817788600921631,
         "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
+        "keywords": "civil, security, october, national, bill"
       },
       {
-        "TSNE-1": -6.662113666534424,
-        "TSNE-2": 6.539515018463135,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -9.525485038757324,
-        "TSNE-2": -0.03419917821884155,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -3.8794002532958984,
-        "TSNE-2": -5.402710914611816,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": -10.32429313659668,
-        "TSNE-2": 0.856740415096283,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": 1.8705674409866333,
-        "TSNE-2": 4.013086318969727,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": -2.877110242843628,
-        "TSNE-2": -7.8116044998168945,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": 2.3654680252075195,
-        "TSNE-2": 6.982174396514893,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": -2.042696952819824,
-        "TSNE-2": -6.062040328979492,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": -12.86719799041748,
-        "TSNE-2": 4.69606351852417,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -7.50227689743042,
-        "TSNE-2": -13.13271713256836,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": -6.734923362731934,
-        "TSNE-2": -6.524127006530762,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": -5.037376403808594,
-        "TSNE-2": 4.004353046417236,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -0.37036585807800293,
-        "TSNE-2": 10.991181373596191,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": -1.8353222608566284,
-        "TSNE-2": -0.6415471434593201,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
-      },
-      {
-        "TSNE-1": 4.3869733810424805,
-        "TSNE-2": 4.1222004890441895,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": -7.791347503662109,
-        "TSNE-2": 1.687781810760498,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": 3.381612777709961,
-        "TSNE-2": -4.989923477172852,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 6.26099967956543,
-        "TSNE-2": -5.003223419189453,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 2.329859733581543,
-        "TSNE-2": -6.484424591064453,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 6.56046199798584,
-        "TSNE-2": 2.1072299480438232,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": -0.8246883153915405,
-        "TSNE-2": 6.370566368103027,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": 2.0165135860443115,
-        "TSNE-2": -9.26500415802002,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": 0.3522849977016449,
-        "TSNE-2": -3.1057300567626953,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
-      },
-      {
-        "TSNE-1": -2.878909111022949,
-        "TSNE-2": -2.5851941108703613,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
-      },
-      {
-        "TSNE-1": 6.782001972198486,
-        "TSNE-2": -9.943283081054688,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 4.316047191619873,
-        "TSNE-2": -2.7951042652130127,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": -9.05174732208252,
-        "TSNE-2": -4.132044792175293,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": -4.88216495513916,
-        "TSNE-2": 7.043752670288086,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": 0.3647822439670563,
-        "TSNE-2": -13.845590591430664,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": 3.3264355659484863,
-        "TSNE-2": 16.20515251159668,
+        "TSNE-1": -2.2215144634246826,
+        "TSNE-2": -0.5141255855560303,
         "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
+        "keywords": "civil, security, october, national, bill"
       },
       {
-        "TSNE-1": 5.008920192718506,
-        "TSNE-2": -6.519046306610107,
+        "TSNE-1": -1.0992333889007568,
+        "TSNE-2": -6.079998016357422,
         "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
+        "keywords": "vote, patriot, house, representative, senate"
       },
       {
-        "TSNE-1": -4.82498836517334,
-        "TSNE-2": 0.9147118330001831,
+        "TSNE-1": 1.1327292919158936,
+        "TSNE-2": 9.274229049682617,
         "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
+        "keywords": "favor, rus, significant, feingold, bush"
       },
       {
-        "TSNE-1": -9.973541259765625,
-        "TSNE-2": -8.262090682983398,
+        "TSNE-1": 5.1678667068481445,
+        "TSNE-2": 3.4601540565490723,
         "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
+        "keywords": "voting, one, bipartisan, usa, measure"
       },
       {
-        "TSNE-1": -1.949408769607544,
-        "TSNE-2": -1.302962064743042,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
+        "TSNE-1": 7.3752851486206055,
+        "TSNE-2": -15.610730171203613,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
       },
       {
-        "TSNE-1": -2.4958746433258057,
-        "TSNE-2": 7.7727370262146,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": 3.9356353282928467,
-        "TSNE-2": 5.527247905731201,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": -7.201807022094727,
-        "TSNE-2": 0.09690116345882416,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": 5.500786781311035,
-        "TSNE-2": 8.868280410766602,
+        "TSNE-1": -9.53400707244873,
+        "TSNE-2": -3.829404830932617,
         "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
+        "keywords": "civil, security, october, national, bill"
       },
       {
-        "TSNE-1": -0.5302955508232117,
-        "TSNE-2": -8.982903480529785,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": -1.4390910863876343,
-        "TSNE-2": 13.599055290222168,
+        "TSNE-1": 12.849309921264648,
+        "TSNE-2": 4.656756401062012,
         "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
+        "keywords": "provision, liberty, extension, argue, certain"
       },
       {
-        "TSNE-1": -8.335236549377441,
-        "TSNE-2": -0.5445489883422852,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": 10.494232177734375,
-        "TSNE-2": -1.1636372804641724,
+        "TSNE-1": 4.817986011505127,
+        "TSNE-2": -4.720430850982666,
         "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
+        "keywords": "vote, patriot, house, representative, senate"
       },
       {
-        "TSNE-1": -11.14806842803955,
-        "TSNE-2": -2.1695780754089355,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -4.411902904510498,
-        "TSNE-2": 0.3294186294078827,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
-      },
-      {
-        "TSNE-1": -0.37036585807800293,
-        "TSNE-2": 10.991181373596191,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": 4.608898639678955,
-        "TSNE-2": -3.972569465637207,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 4.1243577003479,
-        "TSNE-2": 1.4775946140289307,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
-      },
-      {
-        "TSNE-1": 3.584799289703369,
-        "TSNE-2": 10.403340339660645,
+        "TSNE-1": -12.286840438842773,
+        "TSNE-2": -5.998485565185547,
         "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
+        "keywords": "civil, security, october, national, bill"
       },
       {
-        "TSNE-1": -1.9712944030761719,
-        "TSNE-2": 3.7374966144561768,
+        "TSNE-1": -1.2489625215530396,
+        "TSNE-2": 12.020682334899902,
         "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
+        "keywords": "favor, rus, significant, feingold, bush"
       },
       {
-        "TSNE-1": -0.5141077041625977,
-        "TSNE-2": -4.681951522827148,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
+        "TSNE-1": -4.74366569519043,
+        "TSNE-2": 5.46626615524292,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
       },
       {
-        "TSNE-1": -2.042696952819824,
-        "TSNE-2": -6.062040328979492,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
+        "TSNE-1": -8.89393424987793,
+        "TSNE-2": 4.1461181640625,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
       },
       {
-        "TSNE-1": 0.3522849977016449,
-        "TSNE-2": -3.1057300567626953,
-        "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
+        "TSNE-1": -5.164168357849121,
+        "TSNE-2": 7.245498180389404,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
       },
       {
-        "TSNE-1": 9.270889282226562,
-        "TSNE-2": -7.295130729675293,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 7.590531349182129,
-        "TSNE-2": -1.5943965911865234,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 5.039706230163574,
-        "TSNE-2": 12.660380363464355,
+        "TSNE-1": -6.204622745513916,
+        "TSNE-2": -10.79214859008789,
         "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
+        "keywords": "civil, security, october, national, bill"
       },
       {
-        "TSNE-1": 7.217934608459473,
-        "TSNE-2": -5.104945659637451,
+        "TSNE-1": 5.644462585449219,
+        "TSNE-2": -9.16096019744873,
         "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
+        "keywords": "vote, patriot, house, representative, senate"
       },
       {
-        "TSNE-1": 10.632284164428711,
-        "TSNE-2": 0.9043396711349487,
+        "TSNE-1": 0.7276389598846436,
+        "TSNE-2": -11.614502906799316,
         "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
+        "keywords": "vote, patriot, house, representative, senate"
       },
       {
-        "TSNE-1": -4.981462001800537,
-        "TSNE-2": -4.063198566436768,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": 7.590531349182129,
-        "TSNE-2": -1.5943965911865234,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": -11.810590744018555,
-        "TSNE-2": -1.2759546041488647,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -0.3687542974948883,
-        "TSNE-2": -13.550458908081055,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": 1.2007676362991333,
-        "TSNE-2": 4.938092231750488,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": -8.579115867614746,
-        "TSNE-2": 10.15827751159668,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": 10.494232177734375,
-        "TSNE-2": -1.1636372804641724,
-        "cluster": 1,
-        "keywords": "member, bipartisan, support, senate, house"
-      },
-      {
-        "TSNE-1": 2.9011383056640625,
-        "TSNE-2": 8.868430137634277,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": -0.8246883153915405,
-        "TSNE-2": 6.370566368103027,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": 0.5188431739807129,
-        "TSNE-2": -12.03453254699707,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": -8.127439498901367,
-        "TSNE-2": 7.317869663238525,
-        "cluster": 0,
-        "keywords": "voting, favor, rus, act, patriot"
-      },
-      {
-        "TSNE-1": -2.937948703765869,
-        "TSNE-2": 14.318488121032715,
-        "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
-      },
-      {
-        "TSNE-1": 4.590847015380859,
-        "TSNE-2": 7.877755165100098,
-        "cluster": 2,
-        "keywords": "civil, poll, liberty, despite, public"
-      },
-      {
-        "TSNE-1": -3.6528139114379883,
-        "TSNE-2": -10.705991744995117,
-        "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
-      },
-      {
-        "TSNE-1": -1.526511549949646,
-        "TSNE-2": 1.9014544486999512,
+        "TSNE-1": -3.526303768157959,
+        "TSNE-2": 9.638324737548828,
         "cluster": 5,
-        "keywords": "bill, october, strong, george, bush"
+        "keywords": "favor, rus, significant, feingold, bush"
       },
       {
-        "TSNE-1": -0.37036585807800293,
-        "TSNE-2": 10.991181373596191,
+        "TSNE-1": 2.901127338409424,
+        "TSNE-2": -4.844838619232178,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": 8.317248344421387,
+        "TSNE-2": -3.3744001388549805,
         "cluster": 4,
-        "keywords": "security, provision, due, terrorist, national"
+        "keywords": "provision, liberty, extension, argue, certain"
       },
       {
-        "TSNE-1": -0.4743821918964386,
-        "TSNE-2": -7.66416072845459,
+        "TSNE-1": -5.09469747543335,
+        "TSNE-2": 3.3707380294799805,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
+      },
+      {
+        "TSNE-1": 9.249066352844238,
+        "TSNE-2": 10.74707317352295,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": 8.477763175964355,
+        "TSNE-2": -0.831498384475708,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": 0.2787243127822876,
+        "TSNE-2": -13.586820602416992,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -14.263997077941895,
+        "TSNE-2": 3.097879409790039,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
+      },
+      {
+        "TSNE-1": -7.746697425842285,
+        "TSNE-2": 2.0931787490844727,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
+      },
+      {
+        "TSNE-1": -5.775628089904785,
+        "TSNE-2": -8.263699531555176,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": 1.4736649990081787,
+        "TSNE-2": -17.653160095214844,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": 4.167333126068115,
+        "TSNE-2": -3.8662190437316895,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": 5.048813343048096,
+        "TSNE-2": -11.35657024383545,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -8.143657684326172,
+        "TSNE-2": -1.135715126991272,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": -2.982454538345337,
+        "TSNE-2": 12.681694030761719,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": -5.699324131011963,
+        "TSNE-2": -0.7338348627090454,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": -1.56404709815979,
+        "TSNE-2": -9.487600326538086,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -1.598966121673584,
+        "TSNE-2": 1.6840341091156006,
         "cluster": 3,
-        "keywords": "vote, ron, representative, unanimous, usa"
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": -3.446488618850708,
+        "TSNE-2": 14.331313133239746,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": 2.6065216064453125,
+        "TSNE-2": 5.356710433959961,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": -6.9687581062316895,
+        "TSNE-2": 11.690858840942383,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": -5.100186347961426,
+        "TSNE-2": -8.932830810546875,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": 12.849309921264648,
+        "TSNE-2": 4.656756401062012,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": -6.247463226318359,
+        "TSNE-2": 4.412746906280518,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
+      },
+      {
+        "TSNE-1": 4.011160373687744,
+        "TSNE-2": -6.978585720062256,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -3.7281274795532227,
+        "TSNE-2": 0.48417848348617554,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": 6.980709552764893,
+        "TSNE-2": -6.856363296508789,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -1.3978480100631714,
+        "TSNE-2": -3.655064582824707,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": -1.0992333889007568,
+        "TSNE-2": -6.079998016357422,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -3.526303768157959,
+        "TSNE-2": 9.638324737548828,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": -10.837350845336914,
+        "TSNE-2": 7.601925849914551,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
+      },
+      {
+        "TSNE-1": -0.38227835297584534,
+        "TSNE-2": 4.976489543914795,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": 14.763651847839355,
+        "TSNE-2": 2.2250123023986816,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": -10.038015365600586,
+        "TSNE-2": 3.820281744003296,
+        "cluster": 0,
+        "keywords": "act, member, republican, support, margin"
+      },
+      {
+        "TSNE-1": 4.656862735748291,
+        "TSNE-2": 6.357980728149414,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": 1.1492892503738403,
+        "TSNE-2": -2.674786329269409,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -0.38227835297584534,
+        "TSNE-2": 4.976489543914795,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": -7.267334461212158,
+        "TSNE-2": 13.006658554077148,
+        "cluster": 5,
+        "keywords": "favor, rus, significant, feingold, bush"
+      },
+      {
+        "TSNE-1": 0.8129103183746338,
+        "TSNE-2": -14.557635307312012,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -9.060257911682129,
+        "TSNE-2": -6.981167316436768,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": 8.565055847167969,
+        "TSNE-2": 10.17022705078125,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": 2.6065216064453125,
+        "TSNE-2": 5.356710433959961,
+        "cluster": 3,
+        "keywords": "voting, one, bipartisan, usa, measure"
+      },
+      {
+        "TSNE-1": -3.445413827896118,
+        "TSNE-2": -1.9873541593551636,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": 5.644462585449219,
+        "TSNE-2": -9.16096019744873,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": -2.140057325363159,
+        "TSNE-2": -14.07375717163086,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": 8.10827922821045,
+        "TSNE-2": 2.1635961532592773,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": 8.194348335266113,
+        "TSNE-2": 5.974409103393555,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": -4.915612697601318,
+        "TSNE-2": -1.6254456043243408,
+        "cluster": 2,
+        "keywords": "civil, security, october, national, bill"
+      },
+      {
+        "TSNE-1": 2.272341728210449,
+        "TSNE-2": -9.349810600280762,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": 5.435723304748535,
+        "TSNE-2": -2.120000123977661,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
+      },
+      {
+        "TSNE-1": 12.849309921264648,
+        "TSNE-2": 4.656756401062012,
+        "cluster": 4,
+        "keywords": "provision, liberty, extension, argue, certain"
+      },
+      {
+        "TSNE-1": -0.8659583926200867,
+        "TSNE-2": -8.236376762390137,
+        "cluster": 1,
+        "keywords": "vote, patriot, house, representative, senate"
       }
     ]
   },

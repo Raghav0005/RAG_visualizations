@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-388cbdec59e98c0eba4e7effd7312935"
+    "name": "data-4043c5776378c664ce454d8c4ccaf6cf"
   },
   "datasets": {
-    "data-388cbdec59e98c0eba4e7effd7312935": [
+    "data-4043c5776378c664ce454d8c4ccaf6cf": [
       {
-        "TSNE-1": 3.4433910846710205,
-        "TSNE-2": 0.16622969508171082,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "TSNE-1": 1.6224796772003174,
+        "TSNE-2": -1.792446255683899,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
       },
       {
-        "TSNE-1": 5.440110683441162,
-        "TSNE-2": -5.163848876953125,
+        "TSNE-1": -11.425555229187012,
+        "TSNE-2": -2.977015733718872,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 6.413542747497559,
+        "TSNE-2": -12.341586112976074,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": 5.942854881286621,
+        "TSNE-2": 7.506752967834473,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": -9.545825004577637,
-        "TSNE-2": -8.78396224975586,
+        "TSNE-1": 6.1242146492004395,
+        "TSNE-2": -11.88768482208252,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": 12.751629829406738,
+        "TSNE-2": -3.570401430130005,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": 4.649688720703125,
+        "TSNE-2": -13.096559524536133,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": 0.6890772581100464,
+        "TSNE-2": 2.1462273597717285,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -8.999306678771973,
+        "TSNE-2": -10.899396896362305,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": -7.757824420928955,
+        "TSNE-2": 10.759895324707031,
         "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
+        "keywords": "directly, art, court, case, endowment"
       },
       {
-        "TSNE-1": 6.330849647521973,
-        "TSNE-2": -10.202995300292969,
+        "TSNE-1": -8.414355278015137,
+        "TSNE-2": 0.7164846062660217,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 1.1506675481796265,
+        "TSNE-2": -8.0504150390625,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": -0.3039238750934601,
+        "TSNE-2": 3.5049517154693604,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -3.293971061706543,
+        "TSNE-2": -3.9326350688934326,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": -3.307461977005005,
+        "TSNE-2": 11.355972290039062,
+        "cluster": 3,
+        "keywords": "directly, art, court, case, endowment"
+      },
+      {
+        "TSNE-1": -0.7712410092353821,
+        "TSNE-2": -2.290252923965454,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": 10.702402114868164,
+        "TSNE-2": -9.072587013244629,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": 0.6890772581100464,
+        "TSNE-2": 2.1462273597717285,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -6.808783531188965,
+        "TSNE-2": 2.809739112854004,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 6.1917948722839355,
+        "TSNE-2": 5.6485395431518555,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": -9.51272201538086,
-        "TSNE-2": -8.748696327209473,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": -5.3426432609558105,
-        "TSNE-2": -0.6670472621917725,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": -8.213950157165527,
-        "TSNE-2": -9.723689079284668,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": 3.6795971393585205,
-        "TSNE-2": -2.2167160511016846,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": -5.73305606842041,
-        "TSNE-2": 7.333373069763184,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
-      },
-      {
-        "TSNE-1": 9.56334114074707,
-        "TSNE-2": -5.226572036743164,
+        "TSNE-1": 3.1565937995910645,
+        "TSNE-2": 11.516185760498047,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": -1.7839394807815552,
-        "TSNE-2": -6.367570400238037,
+        "TSNE-1": -3.488204002380371,
+        "TSNE-2": -10.809718132019043,
         "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
+        "keywords": "primary, focus, teacher, professional, organization"
       },
       {
-        "TSNE-1": 6.467496395111084,
-        "TSNE-2": 6.720157146453857,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 4.206535339355469,
-        "TSNE-2": -3.647247791290283,
+        "TSNE-1": 2.7383642196655273,
+        "TSNE-2": 12.081277847290039,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": -1.1367559432983398,
-        "TSNE-2": -4.066715240478516,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": -8.107741355895996,
-        "TSNE-2": -1.4979952573776245,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": 4.934422969818115,
-        "TSNE-2": -1.0490905046463013,
+        "TSNE-1": -5.260794162750244,
+        "TSNE-2": 3.8036305904388428,
         "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "keywords": "legal, nea, judicial, education, action"
       },
       {
-        "TSNE-1": -4.974549770355225,
-        "TSNE-2": 10.407054901123047,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
-      },
-      {
-        "TSNE-1": 3.6795971393585205,
-        "TSNE-2": -2.2167160511016846,
+        "TSNE-1": -2.0379116535186768,
+        "TSNE-2": 3.8130531311035156,
         "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "keywords": "legal, nea, judicial, education, action"
       },
       {
-        "TSNE-1": 0.7063100337982178,
-        "TSNE-2": -10.056913375854492,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": -1.3701308965682983,
-        "TSNE-2": 5.964190483093262,
+        "TSNE-1": -0.4829683005809784,
+        "TSNE-2": 0.5051661133766174,
         "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
+        "keywords": "political, influence, branch, candidate, lobbying"
       },
       {
-        "TSNE-1": -8.63193416595459,
-        "TSNE-2": -4.595677852630615,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": -10.369742393493652,
-        "TSNE-2": 4.161259651184082,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": -8.083029747009277,
-        "TSNE-2": -4.642975330352783,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": 3.6951048374176025,
-        "TSNE-2": -7.1589813232421875,
+        "TSNE-1": 2.644185781478882,
+        "TSNE-2": 6.266656398773193,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": 3.0887060165405273,
-        "TSNE-2": -5.662594318389893,
+        "TSNE-1": 7.651032447814941,
+        "TSNE-2": 5.396892547607422,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": 2.071289300918579,
-        "TSNE-2": -1.8206777572631836,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "TSNE-1": -3.307461977005005,
+        "TSNE-2": 11.355972290039062,
+        "cluster": 3,
+        "keywords": "directly, art, court, case, endowment"
       },
       {
-        "TSNE-1": 6.869446754455566,
-        "TSNE-2": -8.049111366271973,
+        "TSNE-1": 10.411101341247559,
+        "TSNE-2": 6.1623711585998535,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": -2.1243464946746826,
-        "TSNE-2": 6.9051513671875,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
-      },
-      {
-        "TSNE-1": -8.107741355895996,
-        "TSNE-2": -1.4979952573776245,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": -0.07025755941867828,
-        "TSNE-2": 7.268685340881348,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
-      },
-      {
-        "TSNE-1": 7.283424377441406,
-        "TSNE-2": 4.284883499145508,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": -2.022700309753418,
-        "TSNE-2": 1.5445126295089722,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": 2.3107845783233643,
-        "TSNE-2": -2.856029510498047,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": -0.9964268207550049,
-        "TSNE-2": -8.388229370117188,
+        "TSNE-1": 4.19157075881958,
+        "TSNE-2": -7.23471212387085,
         "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
+        "keywords": "primary, focus, teacher, professional, organization"
       },
       {
-        "TSNE-1": -0.6831425428390503,
-        "TSNE-2": -2.1292004585266113,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": 2.9848642349243164,
-        "TSNE-2": 4.018096446990967,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 1.4600352048873901,
-        "TSNE-2": 2.87106990814209,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": 3.704392910003662,
-        "TSNE-2": 6.094568252563477,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 1.461033582687378,
-        "TSNE-2": -0.5570571422576904,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": 7.816323757171631,
-        "TSNE-2": 0.4210871756076813,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 9.983046531677246,
-        "TSNE-2": -1.2989469766616821,
+        "TSNE-1": 9.44367504119873,
+        "TSNE-2": 11.00129222869873,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": -3.1360023021698,
-        "TSNE-2": 5.685805797576904,
+        "TSNE-1": -1.1668213605880737,
+        "TSNE-2": -0.35386422276496887,
         "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
+        "keywords": "political, influence, branch, candidate, lobbying"
       },
       {
-        "TSNE-1": 2.253260850906372,
-        "TSNE-2": -4.013144493103027,
+        "TSNE-1": -6.697577953338623,
+        "TSNE-2": -0.45735859870910645,
         "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "keywords": "legal, nea, judicial, education, action"
       },
       {
-        "TSNE-1": 6.110121726989746,
-        "TSNE-2": 2.5330307483673096,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 3.0449063777923584,
-        "TSNE-2": 1.7625212669372559,
+        "TSNE-1": -3.6434762477874756,
+        "TSNE-2": -1.9344068765640259,
         "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "keywords": "legal, nea, judicial, education, action"
       },
       {
-        "TSNE-1": -4.9823899269104,
-        "TSNE-2": 0.6778289675712585,
+        "TSNE-1": 5.181629657745361,
+        "TSNE-2": -0.5839438438415527,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": 2.9389634132385254,
+        "TSNE-2": -5.034906387329102,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -5.582549571990967,
+        "TSNE-2": -3.5107035636901855,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 0.9561440348625183,
+        "TSNE-2": -0.5274244546890259,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -8.192877769470215,
+        "TSNE-2": 5.695615291595459,
         "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
+        "keywords": "directly, art, court, case, endowment"
       },
       {
-        "TSNE-1": -3.2442948818206787,
-        "TSNE-2": 3.222299814224243,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
+        "TSNE-1": -5.203585147857666,
+        "TSNE-2": 7.223840713500977,
+        "cluster": 3,
+        "keywords": "directly, art, court, case, endowment"
       },
       {
-        "TSNE-1": 9.070174217224121,
-        "TSNE-2": -3.7599411010742188,
+        "TSNE-1": 7.655092239379883,
+        "TSNE-2": 7.5011372566223145,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": -1.7839394807815552,
-        "TSNE-2": -6.367570400238037,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": 0.1931331902742386,
-        "TSNE-2": 0.5714332461357117,
+        "TSNE-1": -2.391066551208496,
+        "TSNE-2": 0.9554843902587891,
         "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "keywords": "legal, nea, judicial, education, action"
       },
       {
-        "TSNE-1": -12.265661239624023,
-        "TSNE-2": -2.4413349628448486,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
+        "TSNE-1": 2.6125447750091553,
+        "TSNE-2": 0.781284749507904,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
       },
       {
-        "TSNE-1": -10.392759323120117,
-        "TSNE-2": -3.765732765197754,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
+        "TSNE-1": 3.7172305583953857,
+        "TSNE-2": -2.7353739738464355,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
       },
       {
-        "TSNE-1": 3.3231325149536133,
-        "TSNE-2": -4.177984714508057,
+        "TSNE-1": 14.19344425201416,
+        "TSNE-2": -2.3113372325897217,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": -1.6001684665679932,
+        "TSNE-2": -6.201577663421631,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": -7.2475457191467285,
+        "TSNE-2": -7.207394123077393,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": -8.414355278015137,
+        "TSNE-2": 0.7164846062660217,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 4.116868019104004,
+        "TSNE-2": 1.9372349977493286,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": 8.905028343200684,
+        "TSNE-2": -3.544489860534668,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": 3.761709213256836,
+        "TSNE-2": 9.658056259155273,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": 6.463779926300049,
-        "TSNE-2": 7.034660339355469,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 0.821980357170105,
-        "TSNE-2": -7.486547470092773,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": -7.856500148773193,
-        "TSNE-2": 2.467207908630371,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": 0.9894705414772034,
-        "TSNE-2": -8.505389213562012,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": -2.4168202877044678,
-        "TSNE-2": -1.2231740951538086,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": 5.238532066345215,
-        "TSNE-2": 2.3595528602600098,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": -9.060259819030762,
-        "TSNE-2": 2.7682929039001465,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": 2.623044013977051,
-        "TSNE-2": 10.978836059570312,
+        "TSNE-1": -1.493430733680725,
+        "TSNE-2": 2.1504311561584473,
         "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
+        "keywords": "political, influence, branch, candidate, lobbying"
       },
       {
-        "TSNE-1": -12.959733009338379,
-        "TSNE-2": -0.5761792063713074,
+        "TSNE-1": 1.7430827617645264,
+        "TSNE-2": -7.547261714935303,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": -5.668258190155029,
+        "TSNE-2": 0.9319931268692017,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": -6.498851776123047,
+        "TSNE-2": -9.101040840148926,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": -5.19167947769165,
+        "TSNE-2": 2.0558221340179443,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": -9.27598762512207,
+        "TSNE-2": 10.171687126159668,
         "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
+        "keywords": "directly, art, court, case, endowment"
       },
       {
-        "TSNE-1": -3.8957953453063965,
-        "TSNE-2": -4.624960899353027,
+        "TSNE-1": 2.8644871711730957,
+        "TSNE-2": -0.3161478042602539,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -4.887604713439941,
+        "TSNE-2": -8.787199974060059,
         "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
+        "keywords": "primary, focus, teacher, professional, organization"
       },
       {
-        "TSNE-1": -1.762404203414917,
-        "TSNE-2": -3.1933693885803223,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": 2.0345585346221924,
-        "TSNE-2": 1.5036576986312866,
+        "TSNE-1": -13.227814674377441,
+        "TSNE-2": 0.40845710039138794,
         "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "keywords": "legal, nea, judicial, education, action"
       },
       {
-        "TSNE-1": 2.762077808380127,
-        "TSNE-2": -8.844902992248535,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
+        "TSNE-1": 8.91052532196045,
+        "TSNE-2": -5.872859001159668,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
       },
       {
-        "TSNE-1": 2.0419859886169434,
-        "TSNE-2": 2.665459632873535,
+        "TSNE-1": -8.934179306030273,
+        "TSNE-2": -2.3353683948516846,
         "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "keywords": "legal, nea, judicial, education, action"
       },
       {
-        "TSNE-1": 0.8764258623123169,
-        "TSNE-2": -2.564846992492676,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": -0.10498965531587601,
-        "TSNE-2": -6.460910320281982,
+        "TSNE-1": -3.201932907104492,
+        "TSNE-2": -5.093728542327881,
         "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
+        "keywords": "primary, focus, teacher, professional, organization"
       },
       {
-        "TSNE-1": -8.9649076461792,
-        "TSNE-2": -0.17172300815582275,
+        "TSNE-1": 4.9709858894348145,
+        "TSNE-2": -3.7881886959075928,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -3.6084797382354736,
+        "TSNE-2": 2.3249399662017822,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 3.7089571952819824,
+        "TSNE-2": -4.524518013000488,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -2.205371141433716,
+        "TSNE-2": -0.8910613059997559,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": -2.461327075958252,
+        "TSNE-2": 5.971744537353516,
         "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
+        "keywords": "directly, art, court, case, endowment"
       },
       {
-        "TSNE-1": 5.728092670440674,
-        "TSNE-2": -2.8241465091705322,
+        "TSNE-1": -1.4273157119750977,
+        "TSNE-2": 10.87431812286377,
+        "cluster": 3,
+        "keywords": "directly, art, court, case, endowment"
+      },
+      {
+        "TSNE-1": -7.713107585906982,
+        "TSNE-2": -2.8380167484283447,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 11.012033462524414,
+        "TSNE-2": -9.500290870666504,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": 9.266667366027832,
+        "TSNE-2": 4.021355628967285,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": -5.126353740692139,
-        "TSNE-2": 10.567802429199219,
+        "TSNE-1": 0.4247668981552124,
+        "TSNE-2": -3.399284839630127,
         "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
+        "keywords": "political, influence, branch, candidate, lobbying"
       },
       {
-        "TSNE-1": -1.4161676168441772,
-        "TSNE-2": 8.629470825195312,
+        "TSNE-1": 5.1981048583984375,
+        "TSNE-2": -1.8084800243377686,
         "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
+        "keywords": "political, influence, branch, candidate, lobbying"
       },
       {
-        "TSNE-1": 5.051797389984131,
-        "TSNE-2": 0.25325995683670044,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 3.723024606704712,
-        "TSNE-2": 3.5684807300567627,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": -4.456663131713867,
-        "TSNE-2": -7.926277160644531,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": 0.480411171913147,
-        "TSNE-2": 3.8711395263671875,
-        "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
-      },
-      {
-        "TSNE-1": -1.4161676168441772,
-        "TSNE-2": 8.629470825195312,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
-      },
-      {
-        "TSNE-1": -12.787124633789062,
-        "TSNE-2": -1.0542521476745605,
+        "TSNE-1": -6.769245147705078,
+        "TSNE-2": 7.0469231605529785,
         "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
+        "keywords": "directly, art, court, case, endowment"
       },
       {
-        "TSNE-1": 8.07358169555664,
-        "TSNE-2": -3.858124256134033,
+        "TSNE-1": 1.099293828010559,
+        "TSNE-2": -5.17315673828125,
+        "cluster": 1,
+        "keywords": "political, influence, branch, candidate, lobbying"
+      },
+      {
+        "TSNE-1": 9.266667366027832,
+        "TSNE-2": 4.021355628967285,
         "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
+        "keywords": "power, executive, law, legislative, supreme"
       },
       {
-        "TSNE-1": 1.9962186813354492,
-        "TSNE-2": -6.246800899505615,
+        "TSNE-1": 8.914244651794434,
+        "TSNE-2": -5.158517360687256,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": -5.869007587432861,
+        "TSNE-2": -6.8803863525390625,
         "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
+        "keywords": "primary, focus, teacher, professional, organization"
       },
       {
-        "TSNE-1": -5.504982948303223,
-        "TSNE-2": 1.5482197999954224,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": 2.623044013977051,
-        "TSNE-2": 10.978836059570312,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
-      },
-      {
-        "TSNE-1": -5.408600330352783,
-        "TSNE-2": 0.3569152057170868,
-        "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
-      },
-      {
-        "TSNE-1": 7.816323757171631,
-        "TSNE-2": 0.4210871756076813,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 8.096512794494629,
-        "TSNE-2": -4.508596897125244,
-        "cluster": 2,
-        "keywords": "influence, law, action, teacher, union"
-      },
-      {
-        "TSNE-1": -2.9504661560058594,
-        "TSNE-2": 7.894649982452393,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
-      },
-      {
-        "TSNE-1": 6.799925804138184,
-        "TSNE-2": 8.52376651763916,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": 1.0492727756500244,
-        "TSNE-2": -4.84548807144165,
-        "cluster": 5,
-        "keywords": "court, educational, case, amicus, curia"
-      },
-      {
-        "TSNE-1": -6.922665119171143,
-        "TSNE-2": 5.418585300445557,
-        "cluster": 1,
-        "keywords": "power, branch, executive, federal, congress"
-      },
-      {
-        "TSNE-1": 9.623653411865234,
-        "TSNE-2": 1.3794087171554565,
-        "cluster": 4,
-        "keywords": "local, policy, state, representative, lobbying"
-      },
-      {
-        "TSNE-1": -2.022700309753418,
-        "TSNE-2": 1.5445126295089722,
+        "TSNE-1": -3.651625156402588,
+        "TSNE-2": 4.072996616363525,
         "cluster": 0,
-        "keywords": "education, judicial, nea, political, legal"
+        "keywords": "legal, nea, judicial, education, action"
       },
       {
-        "TSNE-1": -8.843192100524902,
-        "TSNE-2": 1.9820863008499146,
+        "TSNE-1": 15.374520301818848,
+        "TSNE-2": -2.765778064727783,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": -13.227814674377441,
+        "TSNE-2": 0.40845710039138794,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 13.499361991882324,
+        "TSNE-2": -3.034919500350952,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": -8.192877769470215,
+        "TSNE-2": 5.695615291595459,
         "cluster": 3,
-        "keywords": "directly, national, emergency, president, directive"
+        "keywords": "directly, art, court, case, endowment"
+      },
+      {
+        "TSNE-1": -6.324309825897217,
+        "TSNE-2": -5.999514102935791,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": 7.3386640548706055,
+        "TSNE-2": 4.1003851890563965,
+        "cluster": 2,
+        "keywords": "power, executive, law, legislative, supreme"
+      },
+      {
+        "TSNE-1": 9.686217308044434,
+        "TSNE-2": -0.028173279017210007,
+        "cluster": 4,
+        "keywords": "emergency, president, directive, congress, united"
+      },
+      {
+        "TSNE-1": -4.029710292816162,
+        "TSNE-2": -0.09486301243305206,
+        "cluster": 0,
+        "keywords": "legal, nea, judicial, education, action"
+      },
+      {
+        "TSNE-1": 1.4087669849395752,
+        "TSNE-2": -11.269681930541992,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
+      },
+      {
+        "TSNE-1": -10.223240852355957,
+        "TSNE-2": 5.454994201660156,
+        "cluster": 3,
+        "keywords": "directly, art, court, case, endowment"
+      },
+      {
+        "TSNE-1": 9.44367504119873,
+        "TSNE-2": 11.00129222869873,
+        "cluster": 2,
+        "keywords": "power, executive, law, legislative, supreme"
+      },
+      {
+        "TSNE-1": -5.593429088592529,
+        "TSNE-2": -9.861148834228516,
+        "cluster": 5,
+        "keywords": "primary, focus, teacher, professional, organization"
       }
     ]
   },

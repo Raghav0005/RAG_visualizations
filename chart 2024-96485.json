@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-59d954df41e4f0853c5e5c66fe92f62f"
+    "name": "data-a99b18b688fa0842d24da5a757397f27"
   },
   "datasets": {
-    "data-59d954df41e4f0853c5e5c66fe92f62f": [
+    "data-a99b18b688fa0842d24da5a757397f27": [
       {
-        "TSNE-1": 0.4721215069293976,
-        "TSNE-2": -5.973398685455322,
+        "TSNE-1": -4.073523998260498,
+        "TSNE-2": 7.039867877960205,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": -1.3309288024902344,
+        "TSNE-2": 14.138928413391113,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": -0.04990558326244354,
+        "TSNE-2": -6.182343006134033,
         "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
+        "keywords": "document, technology, ability, impact, may"
       },
       {
-        "TSNE-1": 2.8483331203460693,
-        "TSNE-2": -11.784646987915039,
+        "TSNE-1": -4.965356826782227,
+        "TSNE-2": 1.1732628345489502,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
+      },
+      {
+        "TSNE-1": 0.3805236220359802,
+        "TSNE-2": -6.596579551696777,
         "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
+        "keywords": "document, technology, ability, impact, may"
       },
       {
-        "TSNE-1": 11.963817596435547,
-        "TSNE-2": -1.6486412286758423,
-        "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "TSNE-1": -12.470183372497559,
+        "TSNE-2": -1.679414987564087,
+        "cluster": 0,
+        "keywords": "electronics, electrical, course, student, would"
       },
       {
-        "TSNE-1": -4.997856140136719,
-        "TSNE-2": 4.158808708190918,
+        "TSNE-1": -12.660890579223633,
+        "TSNE-2": -6.097602367401123,
         "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
+        "keywords": "advance, circuit, primary, electronic, logic"
       },
       {
-        "TSNE-1": 11.747498512268066,
-        "TSNE-2": -2.227370500564575,
+        "TSNE-1": -0.09795459359884262,
+        "TSNE-2": 2.9430418014526367,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
+      },
+      {
+        "TSNE-1": 9.948324203491211,
+        "TSNE-2": 5.82826566696167,
         "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "keywords": "necessary, skill, advanced, engineering, learn"
       },
       {
-        "TSNE-1": 9.090371131896973,
-        "TSNE-2": 7.532107353210449,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": 6.876295566558838,
-        "TSNE-2": -2.7488510608673096,
+        "TSNE-1": 7.293045520782471,
+        "TSNE-2": -0.2643430531024933,
         "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "keywords": "necessary, skill, advanced, engineering, learn"
       },
       {
-        "TSNE-1": -2.493677854537964,
-        "TSNE-2": -2.988834857940674,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": 11.785890579223633,
-        "TSNE-2": 9.10254192352295,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": -1.6716256141662598,
-        "TSNE-2": 8.276623725891113,
+        "TSNE-1": -8.448619842529297,
+        "TSNE-2": -8.136171340942383,
         "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
+        "keywords": "advance, circuit, primary, electronic, logic"
       },
       {
-        "TSNE-1": 3.404402017593384,
-        "TSNE-2": 1.6443383693695068,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": 10.959399223327637,
-        "TSNE-2": 3.0609278678894043,
-        "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
-      },
-      {
-        "TSNE-1": -4.119787216186523,
-        "TSNE-2": -4.788830280303955,
+        "TSNE-1": -0.48121869564056396,
+        "TSNE-2": -14.3284330368042,
         "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
+        "keywords": "document, technology, ability, impact, may"
       },
       {
-        "TSNE-1": 0.07961010187864304,
-        "TSNE-2": -3.3001933097839355,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": 7.063788414001465,
-        "TSNE-2": 1.7806086540222168,
-        "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
-      },
-      {
-        "TSNE-1": -7.685341835021973,
-        "TSNE-2": -2.259101390838623,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": 7.864086151123047,
-        "TSNE-2": 14.162566184997559,
+        "TSNE-1": -1.305540919303894,
+        "TSNE-2": 5.880218505859375,
         "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
+        "keywords": "practical, theoretical, career, complex, essential"
       },
       {
-        "TSNE-1": -2.493677854537964,
-        "TSNE-2": -2.988834857940674,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
+        "TSNE-1": -2.3770298957824707,
+        "TSNE-2": 0.663550853729248,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
       },
       {
-        "TSNE-1": -8.366403579711914,
-        "TSNE-2": -4.266289234161377,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": -9.501529693603516,
-        "TSNE-2": 2.9421486854553223,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": -4.401997089385986,
-        "TSNE-2": 5.968279838562012,
+        "TSNE-1": -4.698732376098633,
+        "TSNE-2": -10.548002243041992,
         "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
+        "keywords": "advance, circuit, primary, electronic, logic"
       },
       {
-        "TSNE-1": 2.826575517654419,
-        "TSNE-2": -2.4217007160186768,
+        "TSNE-1": 2.772836923599243,
+        "TSNE-2": 3.3242733478546143,
         "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
+        "keywords": "professional, deeper, field, specialized, critical"
       },
       {
-        "TSNE-1": -7.972741603851318,
-        "TSNE-2": 5.316951274871826,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": 14.625690460205078,
-        "TSNE-2": 2.0257859230041504,
+        "TSNE-1": 10.566723823547363,
+        "TSNE-2": 11.713837623596191,
         "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "keywords": "necessary, skill, advanced, engineering, learn"
       },
       {
-        "TSNE-1": -5.61388635635376,
-        "TSNE-2": -7.0667877197265625,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": -2.7286460399627686,
-        "TSNE-2": -5.037082672119141,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": 0.9560364484786987,
-        "TSNE-2": 0.5523812174797058,
+        "TSNE-1": -0.09795459359884262,
+        "TSNE-2": 2.9430418014526367,
         "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
+        "keywords": "professional, deeper, field, specialized, critical"
       },
       {
-        "TSNE-1": -1.3911957740783691,
-        "TSNE-2": -9.849881172180176,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": -1.4258601665496826,
-        "TSNE-2": 9.480286598205566,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": 15.119483947753906,
-        "TSNE-2": -3.6927995681762695,
+        "TSNE-1": 5.471007823944092,
+        "TSNE-2": 6.186476230621338,
         "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "keywords": "necessary, skill, advanced, engineering, learn"
       },
       {
-        "TSNE-1": 12.600004196166992,
-        "TSNE-2": 9.794597625732422,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": 1.762953758239746,
-        "TSNE-2": 12.828668594360352,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": -5.723277568817139,
-        "TSNE-2": -2.8813586235046387,
+        "TSNE-1": -8.192693710327148,
+        "TSNE-2": 3.3731820583343506,
         "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
+        "keywords": "electronics, electrical, course, student, would"
       },
       {
-        "TSNE-1": -10.011664390563965,
-        "TSNE-2": -0.7866874933242798,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": -13.052912712097168,
-        "TSNE-2": -3.282334327697754,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": 3.994288682937622,
-        "TSNE-2": 11.987565994262695,
+        "TSNE-1": -8.675395965576172,
+        "TSNE-2": 11.608084678649902,
         "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
+        "keywords": "practical, theoretical, career, complex, essential"
       },
       {
-        "TSNE-1": 5.635025501251221,
-        "TSNE-2": -5.753514289855957,
+        "TSNE-1": -1.7047927379608154,
+        "TSNE-2": -2.5998988151550293,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
+      },
+      {
+        "TSNE-1": -10.55334758758545,
+        "TSNE-2": 4.107637882232666,
+        "cluster": 0,
+        "keywords": "electronics, electrical, course, student, would"
+      },
+      {
+        "TSNE-1": -1.4102928638458252,
+        "TSNE-2": 10.467879295349121,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": 2.1981821060180664,
+        "TSNE-2": 8.053936004638672,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": -1.2981672286987305,
+        "TSNE-2": 7.533447742462158,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": -4.87451171875,
+        "TSNE-2": -4.6427812576293945,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": 5.525320529937744,
+        "TSNE-2": 11.592864036560059,
         "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "keywords": "necessary, skill, advanced, engineering, learn"
       },
       {
-        "TSNE-1": 0.9369974136352539,
-        "TSNE-2": 5.774260520935059,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": -4.137542247772217,
-        "TSNE-2": -1.4762810468673706,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": 2.093827962875366,
-        "TSNE-2": 8.47065544128418,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": -1.8145339488983154,
-        "TSNE-2": -1.143120288848877,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": -3.6576459407806396,
-        "TSNE-2": 0.8101187348365784,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": -5.5710835456848145,
-        "TSNE-2": -4.414473056793213,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": 0.22970768809318542,
-        "TSNE-2": -8.367754936218262,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": -6.1162848472595215,
-        "TSNE-2": -11.120189666748047,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": -9.246814727783203,
-        "TSNE-2": 12.799657821655273,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": 7.534940242767334,
-        "TSNE-2": 4.011425971984863,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": -1.4888545274734497,
-        "TSNE-2": 2.201781988143921,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": 3.1914288997650146,
-        "TSNE-2": 0.3536783456802368,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": -8.8580322265625,
-        "TSNE-2": -9.260249137878418,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": 0.4883173108100891,
-        "TSNE-2": -9.88546371459961,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": -1.6716256141662598,
-        "TSNE-2": 8.276623725891113,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": -4.843246936798096,
-        "TSNE-2": -3.4458584785461426,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": -9.246814727783203,
-        "TSNE-2": 12.799657821655273,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": -6.650599479675293,
-        "TSNE-2": -0.718610405921936,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": -0.16372443735599518,
-        "TSNE-2": 2.5323846340179443,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": -9.111345291137695,
-        "TSNE-2": -2.267688035964966,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": 4.720974922180176,
-        "TSNE-2": 2.768692970275879,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": 3.4653234481811523,
-        "TSNE-2": -5.129283905029297,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": 0.6294493079185486,
-        "TSNE-2": -1.600739598274231,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": -5.21523904800415,
-        "TSNE-2": 11.011133193969727,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": 4.077615261077881,
-        "TSNE-2": 5.552078723907471,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": 2.7305383682250977,
-        "TSNE-2": 4.448553562164307,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": 4.302242755889893,
-        "TSNE-2": -8.524374008178711,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": 7.971733093261719,
-        "TSNE-2": -6.456060886383057,
+        "TSNE-1": 8.003928184509277,
+        "TSNE-2": 0.8719779253005981,
         "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "keywords": "necessary, skill, advanced, engineering, learn"
       },
       {
-        "TSNE-1": -9.287550926208496,
-        "TSNE-2": -6.308920860290527,
+        "TSNE-1": -8.156237602233887,
+        "TSNE-2": -2.8770484924316406,
         "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
+        "keywords": "electronics, electrical, course, student, would"
       },
       {
-        "TSNE-1": 6.56535530090332,
-        "TSNE-2": -6.379850387573242,
+        "TSNE-1": 9.757627487182617,
+        "TSNE-2": 4.523684501647949,
         "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "keywords": "necessary, skill, advanced, engineering, learn"
       },
       {
-        "TSNE-1": -7.056446075439453,
-        "TSNE-2": -5.6875786781311035,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": -1.1795259714126587,
-        "TSNE-2": -8.383077621459961,
+        "TSNE-1": 8.959823608398438,
+        "TSNE-2": -8.849029541015625,
         "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
+        "keywords": "document, technology, ability, impact, may"
       },
       {
-        "TSNE-1": -4.200500965118408,
-        "TSNE-2": 8.032247543334961,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": -5.3057541847229,
-        "TSNE-2": -8.599518775939941,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": 7.864086151123047,
-        "TSNE-2": 14.162566184997559,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": 8.230008125305176,
-        "TSNE-2": -1.3495615720748901,
-        "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
-      },
-      {
-        "TSNE-1": 5.816028118133545,
-        "TSNE-2": 7.251091003417969,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": -1.6450645923614502,
-        "TSNE-2": 4.386915683746338,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": 6.035815715789795,
-        "TSNE-2": 9.91124439239502,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": -6.063448905944824,
-        "TSNE-2": 0.8816547989845276,
-        "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
-      },
-      {
-        "TSNE-1": 8.230008125305176,
-        "TSNE-2": -1.3495615720748901,
-        "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
-      },
-      {
-        "TSNE-1": 5.256382942199707,
-        "TSNE-2": 5.940621376037598,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": 5.554139137268066,
-        "TSNE-2": 0.5225680470466614,
+        "TSNE-1": -3.2524917125701904,
+        "TSNE-2": 3.7084362506866455,
         "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
+        "keywords": "professional, deeper, field, specialized, critical"
       },
       {
-        "TSNE-1": -3.3650922775268555,
-        "TSNE-2": -6.931004047393799,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": 10.959399223327637,
-        "TSNE-2": 3.0609278678894043,
+        "TSNE-1": 11.911089897155762,
+        "TSNE-2": 0.08983303606510162,
         "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
+        "keywords": "necessary, skill, advanced, engineering, learn"
       },
       {
-        "TSNE-1": -5.21523904800415,
-        "TSNE-2": 11.011133193969727,
-        "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
-      },
-      {
-        "TSNE-1": -1.2419942617416382,
-        "TSNE-2": -5.446903705596924,
-        "cluster": 2,
-        "keywords": "circuit, career, design, also, use"
-      },
-      {
-        "TSNE-1": 2.093827962875366,
-        "TSNE-2": 8.47065544128418,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": 5.532526016235352,
-        "TSNE-2": 2.3288097381591797,
-        "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
-      },
-      {
-        "TSNE-1": 14.977560997009277,
-        "TSNE-2": -4.748235702514648,
-        "cluster": 1,
-        "keywords": "document, advance, may, engineering, electronic"
-      },
-      {
-        "TSNE-1": 8.113747596740723,
-        "TSNE-2": 6.83310604095459,
-        "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
-      },
-      {
-        "TSNE-1": -9.874070167541504,
-        "TSNE-2": -3.3930585384368896,
+        "TSNE-1": -13.097795486450195,
+        "TSNE-2": 1.8539998531341553,
         "cluster": 0,
-        "keywords": "student, course, electronics, advanced, practical"
+        "keywords": "electronics, electrical, course, student, would"
       },
       {
-        "TSNE-1": 9.84494686126709,
-        "TSNE-2": 7.414436340332031,
+        "TSNE-1": 10.2742280960083,
+        "TSNE-2": -6.5322442054748535,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": 3.964365243911743,
+        "TSNE-2": -3.838538408279419,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": -10.887995719909668,
+        "TSNE-2": -0.508575975894928,
+        "cluster": 0,
+        "keywords": "electronics, electrical, course, student, would"
+      },
+      {
+        "TSNE-1": 0.31104132533073425,
+        "TSNE-2": 4.90469217300415,
         "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
+        "keywords": "practical, theoretical, career, complex, essential"
       },
       {
-        "TSNE-1": -0.22478055953979492,
-        "TSNE-2": 0.16381379961967468,
+        "TSNE-1": 3.108485460281372,
+        "TSNE-2": 0.3391481935977936,
         "cluster": 5,
-        "keywords": "likely, complex, critical, build, primary"
+        "keywords": "professional, deeper, field, specialized, critical"
       },
       {
-        "TSNE-1": 1.762953758239746,
-        "TSNE-2": 12.828668594360352,
+        "TSNE-1": 1.2821742296218872,
+        "TSNE-2": 13.21403694152832,
         "cluster": 4,
-        "keywords": "electrical, professional, field, computer, online"
+        "keywords": "practical, theoretical, career, complex, essential"
       },
       {
-        "TSNE-1": -6.002662181854248,
-        "TSNE-2": 4.296323299407959,
+        "TSNE-1": -3.8635189533233643,
+        "TSNE-2": 11.875651359558105,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": -3.1540541648864746,
+        "TSNE-2": 5.5565080642700195,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": 3.770526170730591,
+        "TSNE-2": 11.227592468261719,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": 7.032319068908691,
+        "TSNE-2": -3.68658709526062,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": 4.987336158752441,
+        "TSNE-2": -13.469816207885742,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": 8.242374420166016,
+        "TSNE-2": -6.2942585945129395,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": -7.245213508605957,
+        "TSNE-2": 0.13298943638801575,
+        "cluster": 0,
+        "keywords": "electronics, electrical, course, student, would"
+      },
+      {
+        "TSNE-1": -8.284510612487793,
+        "TSNE-2": -8.910112380981445,
         "cluster": 3,
-        "keywords": "would, skill, necessary, provide, resource"
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": -0.2911264896392822,
+        "TSNE-2": 0.12052115797996521,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
+      },
+      {
+        "TSNE-1": 5.9258036613464355,
+        "TSNE-2": 9.568288803100586,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": 7.293045520782471,
+        "TSNE-2": -0.2643430531024933,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": -2.3195369243621826,
+        "TSNE-2": 4.65410852432251,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": 4.987336158752441,
+        "TSNE-2": -13.469816207885742,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": -6.023460865020752,
+        "TSNE-2": 5.662835121154785,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": -6.627185344696045,
+        "TSNE-2": -1.0933022499084473,
+        "cluster": 0,
+        "keywords": "electronics, electrical, course, student, would"
+      },
+      {
+        "TSNE-1": 4.344400405883789,
+        "TSNE-2": 4.028115749359131,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": -5.180211544036865,
+        "TSNE-2": -7.31329870223999,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": 1.3586453199386597,
+        "TSNE-2": -1.7138371467590332,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
+      },
+      {
+        "TSNE-1": -3.73799729347229,
+        "TSNE-2": -0.8558745384216309,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
+      },
+      {
+        "TSNE-1": -7.032827854156494,
+        "TSNE-2": -14.28972053527832,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": 0.9030641317367554,
+        "TSNE-2": -10.437707901000977,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": -2.714696168899536,
+        "TSNE-2": -7.082358360290527,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": 6.811413764953613,
+        "TSNE-2": -8.670010566711426,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": 2.2780251502990723,
+        "TSNE-2": -4.892595291137695,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": -3.0107309818267822,
+        "TSNE-2": 8.667451858520508,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": 3.005140781402588,
+        "TSNE-2": -3.376077651977539,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": 3.52006196975708,
+        "TSNE-2": 6.127776622772217,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": 4.2845025062561035,
+        "TSNE-2": 9.877022743225098,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": -10.591712951660156,
+        "TSNE-2": -13.059380531311035,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": 1.2951914072036743,
+        "TSNE-2": 9.697649955749512,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": 10.566723823547363,
+        "TSNE-2": 11.713837623596191,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": -10.303630828857422,
+        "TSNE-2": -5.103359222412109,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": -1.2409086227416992,
+        "TSNE-2": -9.769014358520508,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": 4.333384990692139,
+        "TSNE-2": -5.6667656898498535,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": 9.802412033081055,
+        "TSNE-2": 1.5080525875091553,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": -7.3783979415893555,
+        "TSNE-2": 8.32516098022461,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": -10.303630828857422,
+        "TSNE-2": -5.103359222412109,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": -0.1765182614326477,
+        "TSNE-2": -11.05522346496582,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": -10.837404251098633,
+        "TSNE-2": -9.883349418640137,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": 1.8519200086593628,
+        "TSNE-2": 5.578023910522461,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": -0.48121869564056396,
+        "TSNE-2": -14.3284330368042,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": -7.032827854156494,
+        "TSNE-2": -14.28972053527832,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": 0.37412384152412415,
+        "TSNE-2": 7.474684238433838,
+        "cluster": 4,
+        "keywords": "practical, theoretical, career, complex, essential"
+      },
+      {
+        "TSNE-1": 3.108485460281372,
+        "TSNE-2": 0.3391481935977936,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
+      },
+      {
+        "TSNE-1": -5.1937713623046875,
+        "TSNE-2": -8.562374114990234,
+        "cluster": 3,
+        "keywords": "advance, circuit, primary, electronic, logic"
+      },
+      {
+        "TSNE-1": 14.885139465332031,
+        "TSNE-2": 3.4449260234832764,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": -14.085500717163086,
+        "TSNE-2": -2.5210049152374268,
+        "cluster": 0,
+        "keywords": "electronics, electrical, course, student, would"
+      },
+      {
+        "TSNE-1": 5.692843437194824,
+        "TSNE-2": 4.136874198913574,
+        "cluster": 1,
+        "keywords": "necessary, skill, advanced, engineering, learn"
+      },
+      {
+        "TSNE-1": -13.124414443969727,
+        "TSNE-2": -0.9467751979827881,
+        "cluster": 0,
+        "keywords": "electronics, electrical, course, student, would"
+      },
+      {
+        "TSNE-1": -4.326441764831543,
+        "TSNE-2": -3.3149094581604004,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
+      },
+      {
+        "TSNE-1": 8.959823608398438,
+        "TSNE-2": -8.849029541015625,
+        "cluster": 2,
+        "keywords": "document, technology, ability, impact, may"
+      },
+      {
+        "TSNE-1": -5.745741844177246,
+        "TSNE-2": 2.0058350563049316,
+        "cluster": 5,
+        "keywords": "professional, deeper, field, specialized, critical"
       }
     ]
   },

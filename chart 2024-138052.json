@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-2ccb4c90013d580748f633cb54233236"
+    "name": "data-075c77c1c2576ba7c7f39b0228ebaf8b"
   },
   "datasets": {
-    "data-2ccb4c90013d580748f633cb54233236": [
+    "data-075c77c1c2576ba7c7f39b0228ebaf8b": [
       {
-        "TSNE-1": -2.3201403617858887,
-        "TSNE-2": -1.6820496320724487,
+        "TSNE-1": 2.436354637145996,
+        "TSNE-2": 2.320781946182251,
         "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
+        "keywords": "family, home, woman, economic, people"
       },
       {
-        "TSNE-1": 0.6957100033760071,
-        "TSNE-2": 1.6747902631759644,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": 1.283856987953186,
-        "TSNE-2": 10.58232307434082,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 1.952178716659546,
-        "TSNE-2": -4.689103603363037,
+        "TSNE-1": 1.9955401420593262,
+        "TSNE-2": -7.3465986251831055,
         "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
+        "keywords": "factory, system, social, worker, society"
       },
       {
-        "TSNE-1": 1.283856987953186,
-        "TSNE-2": 10.58232307434082,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 7.9339423179626465,
-        "TSNE-2": -5.2621612548828125,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": 7.127996921539307,
-        "TSNE-2": 6.831757545471191,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -2.83616042137146,
-        "TSNE-2": 5.593672275543213,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 0.7684465646743774,
-        "TSNE-2": -5.087069511413574,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": -10.5719633102417,
-        "TSNE-2": -2.3091931343078613,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": 0.011754995211958885,
-        "TSNE-2": -11.739197731018066,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": -1.749674916267395,
-        "TSNE-2": -5.225263595581055,
+        "TSNE-1": -8.160921096801758,
+        "TSNE-2": 6.859555721282959,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": -0.91649329662323,
-        "TSNE-2": 3.818767547607422,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 0.9417200088500977,
-        "TSNE-2": -1.1959547996520996,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": -2.3259191513061523,
-        "TSNE-2": -9.206063270568848,
-        "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
-      },
-      {
-        "TSNE-1": 2.3001651763916016,
-        "TSNE-2": 3.9020867347717285,
+        "TSNE-1": 7.7551374435424805,
+        "TSNE-2": 2.117262125015259,
         "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
+        "keywords": "change, individual, political, cultural, crime"
       },
       {
-        "TSNE-1": -6.243597030639648,
-        "TSNE-2": -10.675934791564941,
+        "TSNE-1": -8.160921096801758,
+        "TSNE-2": 6.859555721282959,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": -2.83616042137146,
-        "TSNE-2": 5.593672275543213,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 2.4457688331604004,
-        "TSNE-2": 3.034724473953247,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -6.827174186706543,
-        "TSNE-2": -2.4924559593200684,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": -9.61230182647705,
-        "TSNE-2": -5.058983325958252,
+        "TSNE-1": -5.4581780433654785,
+        "TSNE-2": 2.250998020172119,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": 4.2091827392578125,
-        "TSNE-2": 2.761768341064453,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": 3.996666669845581,
-        "TSNE-2": -5.979543209075928,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": 14.667360305786133,
-        "TSNE-2": 20.05803871154785,
+        "TSNE-1": -5.103927135467529,
+        "TSNE-2": 6.561007499694824,
         "cluster": 5,
-        "keywords": "nan, young, event, eventual, eventually"
+        "keywords": "new, credit, development, growth, way"
       },
       {
-        "TSNE-1": 1.5865339040756226,
-        "TSNE-2": 5.465756893157959,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -2.015532970428467,
-        "TSNE-2": 2.5545480251312256,
+        "TSNE-1": -1.2579679489135742,
+        "TSNE-2": -1.088592767715454,
         "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
+        "keywords": "family, home, woman, economic, people"
       },
       {
-        "TSNE-1": -7.362320423126221,
-        "TSNE-2": -6.877468585968018,
+        "TSNE-1": 9.139822959899902,
+        "TSNE-2": 1.9943193197250366,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": -10.54455852508545,
+        "TSNE-2": 0.6309401988983154,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": 5.410931587219238,
-        "TSNE-2": 7.550825595855713,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
+        "TSNE-1": 4.1893720626831055,
+        "TSNE-2": 4.147407054901123,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
       },
       {
-        "TSNE-1": -1.7574567794799805,
-        "TSNE-2": -8.746630668640137,
+        "TSNE-1": -2.0818371772766113,
+        "TSNE-2": 10.333047866821289,
+        "cluster": 5,
+        "keywords": "new, credit, development, growth, way"
+      },
+      {
+        "TSNE-1": 0.08101648837327957,
+        "TSNE-2": -4.081648826599121,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 0.2609902024269104,
+        "TSNE-2": 4.4892497062683105,
+        "cluster": 5,
+        "keywords": "new, credit, development, growth, way"
+      },
+      {
+        "TSNE-1": -12.323593139648438,
+        "TSNE-2": -4.843707084655762,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": 8.327274322509766,
-        "TSNE-2": -5.374233245849609,
+        "TSNE-1": -1.0294723510742188,
+        "TSNE-2": -6.801448822021484,
         "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
+        "keywords": "factory, system, social, worker, society"
       },
       {
-        "TSNE-1": -6.744725227355957,
-        "TSNE-2": 6.98098611831665,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 4.917781829833984,
-        "TSNE-2": -8.968689918518066,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": -1.9305226802825928,
-        "TSNE-2": 4.40084171295166,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 2.944023370742798,
-        "TSNE-2": 5.19455099105835,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -1.6817175149917603,
-        "TSNE-2": 8.512823104858398,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 5.543413162231445,
-        "TSNE-2": -14.41650390625,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": -4.307227611541748,
-        "TSNE-2": 4.118144989013672,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 5.1144843101501465,
-        "TSNE-2": 0.37201642990112305,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -4.664674282073975,
-        "TSNE-2": -3.4789199829101562,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": 2.665055513381958,
-        "TSNE-2": 0.654629647731781,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": 0.6485621929168701,
-        "TSNE-2": 0.697468638420105,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": -4.765490531921387,
-        "TSNE-2": -1.7134343385696411,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": -0.5526291728019714,
-        "TSNE-2": 3.351548910140991,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 0.5126004219055176,
-        "TSNE-2": -1.7884997129440308,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": 4.767002105712891,
-        "TSNE-2": -14.624327659606934,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": 0.6635674238204956,
-        "TSNE-2": -7.698495388031006,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": 6.432409286499023,
-        "TSNE-2": -9.022940635681152,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": -6.402573585510254,
-        "TSNE-2": -5.828903675079346,
+        "TSNE-1": -11.764266014099121,
+        "TSNE-2": 4.198336601257324,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": 0.011754995211958885,
-        "TSNE-2": -11.739197731018066,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": 4.365396499633789,
-        "TSNE-2": -14.29244613647461,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": 7.535282611846924,
-        "TSNE-2": 4.673203468322754,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": 0.10783694684505463,
-        "TSNE-2": -2.9463250637054443,
+        "TSNE-1": -1.2579679489135742,
+        "TSNE-2": -1.088592767715454,
         "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
+        "keywords": "family, home, woman, economic, people"
       },
       {
-        "TSNE-1": -1.440882682800293,
-        "TSNE-2": 5.0876030921936035,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": -1.7176733016967773,
-        "TSNE-2": -5.506019592285156,
-        "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
-      },
-      {
-        "TSNE-1": 0.3328116536140442,
-        "TSNE-2": 5.205228328704834,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": -9.961853981018066,
-        "TSNE-2": -4.5358099937438965,
-        "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
-      },
-      {
-        "TSNE-1": 1.272583246231079,
-        "TSNE-2": 6.842440128326416,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 2.67571759223938,
-        "TSNE-2": -9.337087631225586,
+        "TSNE-1": -0.17956344783306122,
+        "TSNE-2": -6.537238121032715,
         "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
+        "keywords": "factory, system, social, worker, society"
       },
       {
-        "TSNE-1": -1.210282802581787,
-        "TSNE-2": 6.542793273925781,
+        "TSNE-1": 6.453728675842285,
+        "TSNE-2": 1.073508858680725,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": 9.716775894165039,
+        "TSNE-2": 4.7927751541137695,
         "cluster": 0,
-        "keywords": "factory, system, social, society, people"
+        "keywords": "evaluation, factor, physical, promotion, biological"
       },
       {
-        "TSNE-1": -8.019245147705078,
-        "TSNE-2": -6.176711082458496,
-        "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
-      },
-      {
-        "TSNE-1": 8.183035850524902,
-        "TSNE-2": 0.15437886118888855,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -1.2152564525604248,
-        "TSNE-2": -1.0010788440704346,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": 6.618907451629639,
-        "TSNE-2": 2.208782434463501,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": 5.156106472015381,
-        "TSNE-2": -10.323408126831055,
+        "TSNE-1": -3.7047555446624756,
+        "TSNE-2": -5.324545383453369,
         "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
+        "keywords": "factory, system, social, worker, society"
       },
       {
-        "TSNE-1": -3.640997886657715,
-        "TSNE-2": 3.1485941410064697,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": -7.534687042236328,
-        "TSNE-2": 3.217716932296753,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": -5.451800346374512,
-        "TSNE-2": 5.009731292724609,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": -4.135388374328613,
-        "TSNE-2": -4.586892127990723,
+        "TSNE-1": -13.433255195617676,
+        "TSNE-2": -2.54550838470459,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": 3.2511534690856934,
-        "TSNE-2": 8.538092613220215,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": 2.5907626152038574,
-        "TSNE-2": -4.399661540985107,
+        "TSNE-1": -4.006943225860596,
+        "TSNE-2": -4.052127361297607,
         "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
+        "keywords": "factory, system, social, worker, society"
       },
       {
-        "TSNE-1": 3.335878372192383,
-        "TSNE-2": 7.30397367477417,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -6.243597030639648,
-        "TSNE-2": -10.675934791564941,
-        "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
-      },
-      {
-        "TSNE-1": 5.332093715667725,
-        "TSNE-2": 5.204861164093018,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -1.6246709823608398,
-        "TSNE-2": 0.8545189499855042,
+        "TSNE-1": -2.630087375640869,
+        "TSNE-2": -1.8933219909667969,
         "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
+        "keywords": "family, home, woman, economic, people"
       },
       {
-        "TSNE-1": -4.862873077392578,
-        "TSNE-2": 5.880413055419922,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 0.0535469651222229,
-        "TSNE-2": 8.452235221862793,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": -3.693229913711548,
-        "TSNE-2": 0.9775775074958801,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": 5.2709455490112305,
-        "TSNE-2": 5.110121726989746,
+        "TSNE-1": 10.325540542602539,
+        "TSNE-2": -4.330901622772217,
         "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
+        "keywords": "change, individual, political, cultural, crime"
       },
       {
-        "TSNE-1": -3.0518274307250977,
-        "TSNE-2": -13.09520435333252,
+        "TSNE-1": -7.661134243011475,
+        "TSNE-2": 0.6689074635505676,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": -10.41994857788086,
-        "TSNE-2": -2.0213844776153564,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": 7.031615257263184,
-        "TSNE-2": -5.062103271484375,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": 0.5988628268241882,
-        "TSNE-2": -7.945277690887451,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": 8.183035850524902,
-        "TSNE-2": 0.15437886118888855,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -5.369937896728516,
-        "TSNE-2": 1.8831957578659058,
-        "cluster": 3,
-        "keywords": "new, labor, also, industrial, family"
-      },
-      {
-        "TSNE-1": 2.665055513381958,
-        "TSNE-2": 0.654629647731781,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -2.6865594387054443,
-        "TSNE-2": -8.341920852661133,
+        "TSNE-1": -12.563765525817871,
+        "TSNE-2": -3.879302501678467,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
       },
       {
-        "TSNE-1": 4.504902362823486,
-        "TSNE-2": -4.401054859161377,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": -2.6889705657958984,
-        "TSNE-2": 10.340506553649902,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 1.081594467163086,
-        "TSNE-2": 3.3507485389709473,
-        "cluster": 4,
-        "keywords": "class, worker, shift, work, condition"
-      },
-      {
-        "TSNE-1": -4.270092010498047,
-        "TSNE-2": 8.880949020385742,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": -2.8769428730010986,
-        "TSNE-2": 8.24887752532959,
-        "cluster": 0,
-        "keywords": "factory, system, social, society, people"
-      },
-      {
-        "TSNE-1": 4.917781829833984,
-        "TSNE-2": -8.968689918518066,
-        "cluster": 1,
-        "keywords": "factor, individual, change, native, crime"
-      },
-      {
-        "TSNE-1": -5.373688697814941,
-        "TSNE-2": -5.187358856201172,
+        "TSNE-1": -5.801369667053223,
+        "TSNE-2": 1.739536166191101,
         "cluster": 2,
-        "keywords": "impact, cultural, political, credit, economic"
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": -9.082988739013672,
+        "TSNE-2": -5.811004638671875,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 11.944475173950195,
+        "TSNE-2": -0.5420548319816589,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": -0.5254812836647034,
+        "TSNE-2": -2.5882773399353027,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": -1.331227421760559,
+        "TSNE-2": -8.34012222290039,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": -6.359249114990234,
+        "TSNE-2": -4.232885837554932,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 14.188727378845215,
+        "TSNE-2": 5.8166093826293945,
+        "cluster": 0,
+        "keywords": "evaluation, factor, physical, promotion, biological"
+      },
+      {
+        "TSNE-1": 1.1776078939437866,
+        "TSNE-2": -1.9582527875900269,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": -4.904524326324463,
+        "TSNE-2": -1.1709506511688232,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": 7.892327785491943,
+        "TSNE-2": -0.9219168424606323,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": 1.0263770818710327,
+        "TSNE-2": 0.29173117876052856,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": -13.469094276428223,
+        "TSNE-2": 0.5546392202377319,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": 6.135134696960449,
+        "TSNE-2": -1.7645121812820435,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": -0.7328699827194214,
+        "TSNE-2": -4.214199542999268,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 0.5399448871612549,
+        "TSNE-2": 5.25400972366333,
+        "cluster": 5,
+        "keywords": "new, credit, development, growth, way"
+      },
+      {
+        "TSNE-1": 13.933895111083984,
+        "TSNE-2": 6.692586421966553,
+        "cluster": 0,
+        "keywords": "evaluation, factor, physical, promotion, biological"
+      },
+      {
+        "TSNE-1": 0.46521079540252686,
+        "TSNE-2": -12.233610153198242,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 13.673048973083496,
+        "TSNE-2": -0.3027195334434509,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": 9.161048889160156,
+        "TSNE-2": -2.9572341442108154,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": 4.1893720626831055,
+        "TSNE-2": 4.147407054901123,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": 13.289102554321289,
+        "TSNE-2": 6.762185573577881,
+        "cluster": 0,
+        "keywords": "evaluation, factor, physical, promotion, biological"
+      },
+      {
+        "TSNE-1": -8.56371021270752,
+        "TSNE-2": -0.9251375198364258,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": 1.137270450592041,
+        "TSNE-2": 6.260103225708008,
+        "cluster": 5,
+        "keywords": "new, credit, development, growth, way"
+      },
+      {
+        "TSNE-1": -1.4344463348388672,
+        "TSNE-2": -2.6826224327087402,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": -1.7291901111602783,
+        "TSNE-2": 10.402626037597656,
+        "cluster": 5,
+        "keywords": "new, credit, development, growth, way"
+      },
+      {
+        "TSNE-1": -2.170384168624878,
+        "TSNE-2": -4.579848289489746,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 9.545278549194336,
+        "TSNE-2": 5.260365009307861,
+        "cluster": 0,
+        "keywords": "evaluation, factor, physical, promotion, biological"
+      },
+      {
+        "TSNE-1": -2.695140838623047,
+        "TSNE-2": -6.5477118492126465,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 13.102170944213867,
+        "TSNE-2": -2.7812042236328125,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": -2.985760450363159,
+        "TSNE-2": -0.10330410301685333,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": 10.744452476501465,
+        "TSNE-2": -3.4279942512512207,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": -7.983352184295654,
+        "TSNE-2": 3.856294870376587,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": 0.7727888226509094,
+        "TSNE-2": 2.702232599258423,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": -5.139420509338379,
+        "TSNE-2": -9.820669174194336,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 12.221869468688965,
+        "TSNE-2": 0.9437732696533203,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": 1.479395866394043,
+        "TSNE-2": -3.2804627418518066,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": 4.018028736114502,
+        "TSNE-2": 7.420297145843506,
+        "cluster": 5,
+        "keywords": "new, credit, development, growth, way"
+      },
+      {
+        "TSNE-1": 2.861314296722412,
+        "TSNE-2": -1.2459522485733032,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": 9.003215789794922,
+        "TSNE-2": -0.1866018921136856,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": -4.368556022644043,
+        "TSNE-2": -8.185674667358398,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 7.225561141967773,
+        "TSNE-2": 2.607893466949463,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": -5.125849723815918,
+        "TSNE-2": -6.869410037994385,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": -11.764266014099121,
+        "TSNE-2": 4.198336601257324,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": -6.755947589874268,
+        "TSNE-2": -1.7684473991394043,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": -0.6286988258361816,
+        "TSNE-2": 1.0211318731307983,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": 2.9440624713897705,
+        "TSNE-2": -2.365795612335205,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": -7.086203575134277,
+        "TSNE-2": -6.41920804977417,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 3.747767448425293,
+        "TSNE-2": -4.1216654777526855,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": -6.755947589874268,
+        "TSNE-2": -1.7684473991394043,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": -8.5410795211792,
+        "TSNE-2": -3.179346799850464,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": 6.825140953063965,
+        "TSNE-2": -6.109971523284912,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": -5.173391819000244,
+        "TSNE-2": 3.159649133682251,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": 0.7348576188087463,
+        "TSNE-2": -11.910367012023926,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": -7.983352184295654,
+        "TSNE-2": 3.856294870376587,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": -4.712820053100586,
+        "TSNE-2": -3.1935360431671143,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": 1.0263770818710327,
+        "TSNE-2": 0.29173117876052856,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": -11.350860595703125,
+        "TSNE-2": -4.5166215896606445,
+        "cluster": 2,
+        "keywords": "poor, class, work, impact, child"
+      },
+      {
+        "TSNE-1": 2.4852631092071533,
+        "TSNE-2": 11.077176094055176,
+        "cluster": 5,
+        "keywords": "new, credit, development, growth, way"
+      },
+      {
+        "TSNE-1": -2.0076565742492676,
+        "TSNE-2": 3.015923023223877,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": 1.0904744863510132,
+        "TSNE-2": -5.979343891143799,
+        "cluster": 1,
+        "keywords": "factory, system, social, worker, society"
+      },
+      {
+        "TSNE-1": -3.558396816253662,
+        "TSNE-2": 4.71569299697876,
+        "cluster": 5,
+        "keywords": "new, credit, development, growth, way"
+      },
+      {
+        "TSNE-1": -2.6384360790252686,
+        "TSNE-2": 1.6969022750854492,
+        "cluster": 3,
+        "keywords": "family, home, woman, economic, people"
+      },
+      {
+        "TSNE-1": 11.944475173950195,
+        "TSNE-2": -0.5420548319816589,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
+      },
+      {
+        "TSNE-1": 9.29865550994873,
+        "TSNE-2": -1.7161492109298706,
+        "cluster": 4,
+        "keywords": "change, individual, political, cultural, crime"
       }
     ]
   },

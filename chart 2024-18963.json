@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-014834f721d45e0983708bad682c018e"
+    "name": "data-f06c642d891e19fdb6b99d1d97e3c9b1"
   },
   "datasets": {
-    "data-014834f721d45e0983708bad682c018e": [
+    "data-f06c642d891e19fdb6b99d1d97e3c9b1": [
       {
-        "TSNE-1": -2.350654363632202,
-        "TSNE-2": -8.653021812438965,
+        "TSNE-1": -14.129996299743652,
+        "TSNE-2": 3.540966033935547,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": -1.4928401708602905,
-        "TSNE-2": -1.7794713973999023,
+        "TSNE-1": -4.094382286071777,
+        "TSNE-2": -7.181469440460205,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -15.361172676086426,
+        "TSNE-2": -0.8808136582374573,
+        "cluster": 2,
+        "keywords": "university, professor, research, methodology, widespread"
+      },
+      {
+        "TSNE-1": 1.2749474048614502,
+        "TSNE-2": -14.338587760925293,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -15.361172676086426,
+        "TSNE-2": -0.8808136582374573,
+        "cluster": 2,
+        "keywords": "university, professor, research, methodology, widespread"
+      },
+      {
+        "TSNE-1": 9.520785331726074,
+        "TSNE-2": -10.549118995666504,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -0.1176883801817894,
+        "TSNE-2": -8.70767593383789,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -3.049147129058838,
+        "TSNE-2": -13.059450149536133,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -3.231826066970825,
+        "TSNE-2": 0.5822293758392334,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -3.825585126876831,
+        "TSNE-2": 13.580974578857422,
         "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "keywords": "statement, false, suggest, appropriately, support"
       },
       {
-        "TSNE-1": 4.755612850189209,
-        "TSNE-2": -11.168218612670898,
+        "TSNE-1": -1.4143376350402832,
+        "TSNE-2": -11.518261909484863,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -9.001810073852539,
+        "TSNE-2": -0.3798350393772125,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": -2.7018988132476807,
-        "TSNE-2": 11.308443069458008,
+        "TSNE-1": -4.729736804962158,
+        "TSNE-2": -2.186121702194214,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -8.180741310119629,
+        "TSNE-2": 4.552987098693848,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
+      },
+      {
+        "TSNE-1": 0.756228506565094,
+        "TSNE-2": 13.420095443725586,
         "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "keywords": "voter, music, old, study, evidence"
       },
       {
-        "TSNE-1": 4.755612850189209,
-        "TSNE-2": -11.168218612670898,
-        "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
-      },
-      {
-        "TSNE-1": 28.245229721069336,
-        "TSNE-2": 6.544525623321533,
+        "TSNE-1": 13.169198036193848,
+        "TSNE-2": -0.17302843928337097,
         "cluster": 5,
-        "keywords": "nan, york, expert, exceptionally, exceedingly"
+        "keywords": "american, thinker, vote, involvement, debunked"
       },
       {
-        "TSNE-1": 13.45374584197998,
-        "TSNE-2": 1.8137041330337524,
+        "TSNE-1": -0.1176883801817894,
+        "TSNE-2": -8.70767593383789,
         "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": -2.5118205547332764,
-        "TSNE-2": -3.7043256759643555,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "TSNE-1": 2.704366445541382,
+        "TSNE-2": 13.241147994995117,
+        "cluster": 1,
+        "keywords": "voter, music, old, study, evidence"
       },
       {
-        "TSNE-1": -5.857213020324707,
-        "TSNE-2": -7.779666900634766,
+        "TSNE-1": -1.1215859651565552,
+        "TSNE-2": 0.06327148526906967,
         "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "keywords": "dominion, voting, claim, fraud, system"
       },
       {
-        "TSNE-1": -8.177216529846191,
-        "TSNE-2": 3.7289228439331055,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "TSNE-1": 5.134964942932129,
+        "TSNE-2": -13.709235191345215,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": -5.138452529907227,
-        "TSNE-2": -11.548344612121582,
+        "TSNE-1": 7.724366188049316,
+        "TSNE-2": -8.609094619750977,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": 4.986682891845703,
+        "TSNE-2": -12.926218032836914,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -10.761775970458984,
+        "TSNE-2": 2.758805751800537,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": -5.082942008972168,
-        "TSNE-2": -6.1131463050842285,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "TSNE-1": 5.296722412109375,
+        "TSNE-2": 4.728368759155273,
+        "cluster": 1,
+        "keywords": "voter, music, old, study, evidence"
       },
       {
-        "TSNE-1": 6.412275791168213,
-        "TSNE-2": 0.14031484723091125,
+        "TSNE-1": -2.104928970336914,
+        "TSNE-2": -8.781846046447754,
         "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": 0.9635810852050781,
-        "TSNE-2": -4.137455940246582,
+        "TSNE-1": 2.4702651500701904,
+        "TSNE-2": 6.993570327758789,
+        "cluster": 1,
+        "keywords": "voter, music, old, study, evidence"
+      },
+      {
+        "TSNE-1": 8.410758972167969,
+        "TSNE-2": -9.27818775177002,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -7.900569438934326,
+        "TSNE-2": 3.837322235107422,
         "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "keywords": "statement, false, suggest, appropriately, support"
       },
       {
-        "TSNE-1": 4.323328495025635,
-        "TSNE-2": -7.357737064361572,
+        "TSNE-1": 7.288928985595703,
+        "TSNE-2": -4.020702838897705,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
+      },
+      {
+        "TSNE-1": -3.927816152572632,
+        "TSNE-2": -12.592124938964844,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": 0.006398680619895458,
+        "TSNE-2": 2.618659257888794,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -10.13525104522705,
+        "TSNE-2": -0.8189260363578796,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": 9.780410766601562,
-        "TSNE-2": -1.6712303161621094,
+        "TSNE-1": 5.380130767822266,
+        "TSNE-2": 10.680826187133789,
+        "cluster": 1,
+        "keywords": "voter, music, old, study, evidence"
+      },
+      {
+        "TSNE-1": 4.274721145629883,
+        "TSNE-2": -6.515288829803467,
         "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": 7.944027423858643,
-        "TSNE-2": -7.742007732391357,
+        "TSNE-1": 0.964705765247345,
+        "TSNE-2": -0.7833034992218018,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": 2.1176276206970215,
+        "TSNE-2": -4.747201442718506,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -12.158864974975586,
+        "TSNE-2": -2.5985090732574463,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": -2.5118205547332764,
-        "TSNE-2": -3.7043256759643555,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": 8.44925308227539,
-        "TSNE-2": -1.5845544338226318,
+        "TSNE-1": -3.581674337387085,
+        "TSNE-2": -10.175788879394531,
         "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": -8.66629695892334,
-        "TSNE-2": -1.479081153869629,
+        "TSNE-1": 3.5926403999328613,
+        "TSNE-2": -1.9092915058135986,
         "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "keywords": "dominion, voting, claim, fraud, system"
       },
       {
-        "TSNE-1": -13.14069938659668,
-        "TSNE-2": -7.901575565338135,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": 12.760008811950684,
-        "TSNE-2": -0.3778391480445862,
+        "TSNE-1": -6.072579860687256,
+        "TSNE-2": -7.699688911437988,
         "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": -13.372055053710938,
-        "TSNE-2": -7.354873180389404,
+        "TSNE-1": -1.6509864330291748,
+        "TSNE-2": -4.693334579467773,
         "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "keywords": "dominion, voting, claim, fraud, system"
       },
       {
-        "TSNE-1": 1.5614935159683228,
-        "TSNE-2": -6.08908748626709,
+        "TSNE-1": -8.64168930053711,
+        "TSNE-2": -2.04764986038208,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": 2.3623037338256836,
-        "TSNE-2": 4.650362968444824,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": -2.925602912902832,
-        "TSNE-2": -5.179225444793701,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": -4.00887393951416,
-        "TSNE-2": 9.611937522888184,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": 13.050325393676758,
-        "TSNE-2": 0.28437235951423645,
+        "TSNE-1": 0.27010172605514526,
+        "TSNE-2": -6.9456987380981445,
         "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": 4.103775501251221,
-        "TSNE-2": -6.874645709991455,
+        "TSNE-1": 0.16471943259239197,
+        "TSNE-2": -1.8365058898925781,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": 9.360879898071289,
+        "TSNE-2": 2.9906997680664062,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
+      },
+      {
+        "TSNE-1": 6.376408100128174,
+        "TSNE-2": -1.7420598268508911,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
+      },
+      {
+        "TSNE-1": -4.474120616912842,
+        "TSNE-2": 6.405926704406738,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
+      },
+      {
+        "TSNE-1": -3.825585126876831,
+        "TSNE-2": 13.580974578857422,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
+      },
+      {
+        "TSNE-1": 1.41945219039917,
+        "TSNE-2": -3.203157663345337,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -0.5353281497955322,
+        "TSNE-2": 6.400684356689453,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
+      },
+      {
+        "TSNE-1": -6.595226764678955,
+        "TSNE-2": 7.228031158447266,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
+      },
+      {
+        "TSNE-1": -9.711700439453125,
+        "TSNE-2": -2.6795125007629395,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": -7.252659320831299,
-        "TSNE-2": -3.751070499420166,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "TSNE-1": 8.5364408493042,
+        "TSNE-2": 0.12436825782060623,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
       },
       {
-        "TSNE-1": -6.408939838409424,
-        "TSNE-2": -7.250760078430176,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": -10.54538345336914,
-        "TSNE-2": -3.3528640270233154,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": 7.124582767486572,
-        "TSNE-2": 0.9165562987327576,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
-      },
-      {
-        "TSNE-1": 5.6548380851745605,
-        "TSNE-2": -2.9755849838256836,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
-      },
-      {
-        "TSNE-1": -10.656683921813965,
-        "TSNE-2": 0.2270856499671936,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": -4.584538459777832,
-        "TSNE-2": 5.476778984069824,
+        "TSNE-1": 3.9886860847473145,
+        "TSNE-2": 10.05188274383545,
         "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "keywords": "voter, music, old, study, evidence"
       },
       {
-        "TSNE-1": -6.945748329162598,
-        "TSNE-2": 5.585746765136719,
+        "TSNE-1": -2.6604771614074707,
+        "TSNE-2": 8.93959903717041,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
+      },
+      {
+        "TSNE-1": 1.5180240869522095,
+        "TSNE-2": 12.08954906463623,
         "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "keywords": "voter, music, old, study, evidence"
       },
       {
-        "TSNE-1": 10.647921562194824,
-        "TSNE-2": -4.621906280517578,
+        "TSNE-1": -6.504906177520752,
+        "TSNE-2": 9.812455177307129,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
+      },
+      {
+        "TSNE-1": 2.1267571449279785,
+        "TSNE-2": -7.2003960609436035,
         "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": -3.1636500358581543,
-        "TSNE-2": -6.895112991333008,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": -2.0925509929656982,
-        "TSNE-2": 1.5251567363739014,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": -6.174910545349121,
-        "TSNE-2": -1.8542722463607788,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": -6.884995937347412,
-        "TSNE-2": -0.4419373869895935,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": 5.413331508636475,
-        "TSNE-2": 1.6858775615692139,
+        "TSNE-1": 2.398632526397705,
+        "TSNE-2": -10.024792671203613,
         "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "keywords": "election, error, report, data, systemic"
       },
       {
-        "TSNE-1": -1.0221093893051147,
-        "TSNE-2": -4.588724613189697,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": -5.115171432495117,
-        "TSNE-2": 4.561192512512207,
+        "TSNE-1": 10.766703605651855,
+        "TSNE-2": 8.682602882385254,
         "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "keywords": "voter, music, old, study, evidence"
       },
       {
-        "TSNE-1": 2.9962449073791504,
-        "TSNE-2": -1.592783808708191,
+        "TSNE-1": -0.5353281497955322,
+        "TSNE-2": 6.400684356689453,
         "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "keywords": "statement, false, suggest, appropriately, support"
       },
       {
-        "TSNE-1": -1.0001221895217896,
-        "TSNE-2": 0.19585168361663818,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "TSNE-1": 11.178439140319824,
+        "TSNE-2": -4.028433322906494,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
       },
       {
-        "TSNE-1": 1.075545310974121,
-        "TSNE-2": 9.180619239807129,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "TSNE-1": 0.006398680619895458,
+        "TSNE-2": 2.618659257888794,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
       },
       {
-        "TSNE-1": -5.138452529907227,
-        "TSNE-2": -11.548344612121582,
+        "TSNE-1": -2.0171594619750977,
+        "TSNE-2": -2.3620285987854004,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -1.8212586641311646,
+        "TSNE-2": -6.738275527954102,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": -0.10601511597633362,
+        "TSNE-2": -3.5286448001861572,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -5.890645980834961,
+        "TSNE-2": 0.35648196935653687,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": -3.1255457401275635,
-        "TSNE-2": 4.265965938568115,
+        "TSNE-1": 4.957045078277588,
+        "TSNE-2": 3.309255361557007,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
+      },
+      {
+        "TSNE-1": 2.2524635791778564,
+        "TSNE-2": 6.096665382385254,
         "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "keywords": "voter, music, old, study, evidence"
       },
       {
-        "TSNE-1": 4.733487606048584,
-        "TSNE-2": 7.683644771575928,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": 2.4037795066833496,
-        "TSNE-2": 10.547882080078125,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": 6.41057014465332,
-        "TSNE-2": 2.2460334300994873,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
-      },
-      {
-        "TSNE-1": -0.6665998697280884,
-        "TSNE-2": 4.590177536010742,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": 6.727846622467041,
-        "TSNE-2": -3.8166282176971436,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
-      },
-      {
-        "TSNE-1": -1.2418689727783203,
-        "TSNE-2": 7.898306846618652,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": 8.83742904663086,
-        "TSNE-2": -2.6670613288879395,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
-      },
-      {
-        "TSNE-1": -9.447113990783691,
-        "TSNE-2": -7.919712543487549,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": -4.625938415527344,
-        "TSNE-2": -3.6324257850646973,
+        "TSNE-1": -2.5447566509246826,
+        "TSNE-2": 4.931463718414307,
         "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "keywords": "statement, false, suggest, appropriately, support"
       },
       {
-        "TSNE-1": -0.3861384689807892,
-        "TSNE-2": 10.51308536529541,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "TSNE-1": 13.169198036193848,
+        "TSNE-2": -0.17302843928337097,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
       },
       {
-        "TSNE-1": 0.08826922625303268,
-        "TSNE-2": -13.29198169708252,
+        "TSNE-1": -11.133758544921875,
+        "TSNE-2": -6.132214069366455,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": 4.733487606048584,
-        "TSNE-2": 7.683644771575928,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": 5.878138542175293,
-        "TSNE-2": 9.021492958068848,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": -10.54538345336914,
-        "TSNE-2": -3.3528640270233154,
+        "TSNE-1": 3.087331533432007,
+        "TSNE-2": 1.634688138961792,
         "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "keywords": "dominion, voting, claim, fraud, system"
       },
       {
-        "TSNE-1": -6.307849407196045,
-        "TSNE-2": 3.105783700942993,
+        "TSNE-1": -3.5278360843658447,
+        "TSNE-2": -4.259091854095459,
         "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "keywords": "dominion, voting, claim, fraud, system"
       },
       {
-        "TSNE-1": -3.3227827548980713,
-        "TSNE-2": -1.966317892074585,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": -4.362376689910889,
-        "TSNE-2": 3.143948554992676,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": -5.724315643310547,
-        "TSNE-2": 0.8812666535377502,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": 1.8635454177856445,
-        "TSNE-2": 3.555344343185425,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": -3.8676598072052,
-        "TSNE-2": 8.819868087768555,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": 2.680569648742676,
-        "TSNE-2": 6.682539939880371,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": 7.944027423858643,
-        "TSNE-2": -7.742007732391357,
+        "TSNE-1": -5.745144844055176,
+        "TSNE-2": -4.4346418380737305,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": 9.068343162536621,
-        "TSNE-2": 3.4343323707580566,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "TSNE-1": 4.849539756774902,
+        "TSNE-2": 1.2988905906677246,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
       },
       {
-        "TSNE-1": 1.4341169595718384,
-        "TSNE-2": 0.33971261978149414,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": -8.667314529418945,
-        "TSNE-2": 2.0640881061553955,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": -10.736804962158203,
-        "TSNE-2": 2.9346745014190674,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": 0.7635866403579712,
-        "TSNE-2": 1.6222355365753174,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": 9.068343162536621,
-        "TSNE-2": 3.4343323707580566,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
-      },
-      {
-        "TSNE-1": -6.590658187866211,
-        "TSNE-2": 1.906577706336975,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": 1.3515502214431763,
-        "TSNE-2": 8.571808815002441,
-        "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
-      },
-      {
-        "TSNE-1": -4.303407192230225,
-        "TSNE-2": -0.2805033028125763,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": 2.514920949935913,
-        "TSNE-2": -1.8938406705856323,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
-      },
-      {
-        "TSNE-1": 0.08826922625303268,
-        "TSNE-2": -13.29198169708252,
+        "TSNE-1": -11.133758544921875,
+        "TSNE-2": -6.132214069366455,
         "cluster": 2,
-        "keywords": "suggest, music, country, study, congressional"
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": -3.727280616760254,
-        "TSNE-2": 1.7058161497116089,
+        "TSNE-1": -4.010200500488281,
+        "TSNE-2": -0.3663884401321411,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -4.624815940856934,
+        "TSNE-2": 7.1960062980651855,
         "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "keywords": "statement, false, suggest, appropriately, support"
       },
       {
-        "TSNE-1": -2.0925509929656982,
-        "TSNE-2": 1.5251567363739014,
-        "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "TSNE-1": -6.145685195922852,
+        "TSNE-2": -1.3213603496551514,
+        "cluster": 2,
+        "keywords": "university, professor, research, methodology, widespread"
       },
       {
-        "TSNE-1": 0.18864472210407257,
-        "TSNE-2": 7.765161991119385,
+        "TSNE-1": 9.790270805358887,
+        "TSNE-2": 3.697678565979004,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
+      },
+      {
+        "TSNE-1": 10.766703605651855,
+        "TSNE-2": 8.682602882385254,
         "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "keywords": "voter, music, old, study, evidence"
       },
       {
-        "TSNE-1": 12.659896850585938,
-        "TSNE-2": -2.5177793502807617,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
+        "TSNE-1": 4.9366559982299805,
+        "TSNE-2": -4.102904796600342,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
       },
       {
-        "TSNE-1": -9.442115783691406,
-        "TSNE-2": 6.957149028778076,
+        "TSNE-1": 3.5926403999328613,
+        "TSNE-2": -1.9092915058135986,
         "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "keywords": "dominion, voting, claim, fraud, system"
       },
       {
-        "TSNE-1": 7.393777847290039,
-        "TSNE-2": -1.8601511716842651,
-        "cluster": 4,
-        "keywords": "university, old, professor, may, research"
-      },
-      {
-        "TSNE-1": -13.622140884399414,
-        "TSNE-2": -2.9189305305480957,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
-      },
-      {
-        "TSNE-1": -0.21669548749923706,
-        "TSNE-2": 2.4542975425720215,
+        "TSNE-1": -4.556529521942139,
+        "TSNE-2": 8.759459495544434,
         "cluster": 3,
-        "keywords": "election, claim, vote, american, multiple"
+        "keywords": "statement, false, suggest, appropriately, support"
       },
       {
-        "TSNE-1": -10.54538345336914,
-        "TSNE-2": -3.3528640270233154,
-        "cluster": 0,
-        "keywords": "dominion, voting, system, fraud, voter"
+        "TSNE-1": -4.911026954650879,
+        "TSNE-2": 2.9013240337371826,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
       },
       {
-        "TSNE-1": -2.2714619636535645,
-        "TSNE-2": 8.389960289001465,
+        "TSNE-1": 6.965651512145996,
+        "TSNE-2": -5.728858470916748,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
+      },
+      {
+        "TSNE-1": 3.0356483459472656,
+        "TSNE-2": 12.016739845275879,
         "cluster": 1,
-        "keywords": "statement, support, appropriately, false, evidence"
+        "keywords": "voter, music, old, study, evidence"
+      },
+      {
+        "TSNE-1": -5.393709182739258,
+        "TSNE-2": -12.905082702636719,
+        "cluster": 4,
+        "keywords": "election, error, report, data, systemic"
+      },
+      {
+        "TSNE-1": 4.804686069488525,
+        "TSNE-2": -0.0664009228348732,
+        "cluster": 5,
+        "keywords": "american, thinker, vote, involvement, debunked"
+      },
+      {
+        "TSNE-1": 0.006398680619895458,
+        "TSNE-2": 2.618659257888794,
+        "cluster": 0,
+        "keywords": "dominion, voting, claim, fraud, system"
+      },
+      {
+        "TSNE-1": -1.1622098684310913,
+        "TSNE-2": 8.820158958435059,
+        "cluster": 3,
+        "keywords": "statement, false, suggest, appropriately, support"
       }
     ]
   },

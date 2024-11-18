@@ -7,566 +7,560 @@
     }
   },
   "data": {
-    "name": "data-c35234ad5981527e25cf6e6f5ec3a26e"
+    "name": "data-d51a729ede7ac5a079aff57a5087360e"
   },
   "datasets": {
-    "data-c35234ad5981527e25cf6e6f5ec3a26e": [
+    "data-d51a729ede7ac5a079aff57a5087360e": [
       {
-        "TSNE-1": -0.5161910057067871,
-        "TSNE-2": 3.185553550720215,
+        "TSNE-1": 3.2105088233947754,
+        "TSNE-2": -3.206808090209961,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -4.085142612457275,
+        "TSNE-2": -9.12246322631836,
+        "cluster": 2,
+        "keywords": "grow, reflective, continue, learn, approach"
+      },
+      {
+        "TSNE-1": 8.806365013122559,
+        "TSNE-2": 2.591219902038574,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -6.939269542694092,
+        "TSNE-2": 11.96959114074707,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": 8.806365013122559,
+        "TSNE-2": 2.591219902038574,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": 10.310271263122559,
+        "TSNE-2": 2.083441734313965,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -3.3321337699890137,
+        "TSNE-2": 0.5725078582763672,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -0.47517305612564087,
+        "TSNE-2": -9.036935806274414,
+        "cluster": 2,
+        "keywords": "grow, reflective, continue, learn, approach"
+      },
+      {
+        "TSNE-1": 6.442798137664795,
+        "TSNE-2": -10.841389656066895,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": 6.199150562286377,
-        "TSNE-2": 0.39285483956336975,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 4.805870532989502,
-        "TSNE-2": -8.306753158569336,
+        "TSNE-1": 1.6418988704681396,
+        "TSNE-2": -1.9021501541137695,
         "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
+        "keywords": "document, time, reflect, gain, timing"
       },
       {
-        "TSNE-1": 11.531994819641113,
-        "TSNE-2": -2.11003041267395,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": 4.805870532989502,
-        "TSNE-2": -8.306753158569336,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": -17.4119873046875,
-        "TSNE-2": -18.6102352142334,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": -3.9621376991271973,
-        "TSNE-2": -8.503324508666992,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": 4.634251594543457,
-        "TSNE-2": 1.3095686435699463,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 3.1050541400909424,
-        "TSNE-2": -5.864813804626465,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": -8.2887544631958,
-        "TSNE-2": 9.35110855102539,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": -1.446557641029358,
-        "TSNE-2": -0.5394144654273987,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -3.9611213207244873,
-        "TSNE-2": 6.699662208557129,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": 0.280225932598114,
-        "TSNE-2": -1.9547580480575562,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 3.220672130584717,
-        "TSNE-2": 3.6681952476501465,
+        "TSNE-1": 8.450371742248535,
+        "TSNE-2": -5.326531410217285,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": -1.7389216423034668,
-        "TSNE-2": 12.11595344543457,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": -3.614427089691162,
-        "TSNE-2": -0.7500529885292053,
+        "TSNE-1": -0.3563844561576843,
+        "TSNE-2": 0.8117270469665527,
         "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
+        "keywords": "teacher, student, reflection, change, may"
       },
       {
-        "TSNE-1": 5.253182888031006,
-        "TSNE-2": 9.285860061645508,
+        "TSNE-1": -0.3827698528766632,
+        "TSNE-2": 3.2866086959838867,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -6.327646732330322,
+        "TSNE-2": -13.144699096679688,
+        "cluster": 2,
+        "keywords": "grow, reflective, continue, learn, approach"
+      },
+      {
+        "TSNE-1": 1.7737635374069214,
+        "TSNE-2": 4.603189468383789,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": 12.93254280090332,
+        "TSNE-2": -2.4167139530181885,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -3.3321337699890137,
+        "TSNE-2": 0.5725078582763672,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": 2.858102321624756,
+        "TSNE-2": 6.119918346405029,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -7.826601028442383,
+        "TSNE-2": -0.7841562032699585,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -4.263023853302002,
+        "TSNE-2": 11.664911270141602,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": -5.837245464324951,
+        "TSNE-2": 4.218770980834961,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -4.025022029876709,
+        "TSNE-2": 12.621780395507812,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": 3.396071434020996,
+        "TSNE-2": 1.8546929359436035,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -3.711986541748047,
+        "TSNE-2": -6.924729824066162,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": 2.9202027320861816,
+        "TSNE-2": -0.6499812006950378,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -7.804598331451416,
+        "TSNE-2": 9.826420783996582,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": 7.415187835693359,
+        "TSNE-2": 1.3537501096725464,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -6.327646732330322,
+        "TSNE-2": -13.144699096679688,
+        "cluster": 2,
+        "keywords": "grow, reflective, continue, learn, approach"
+      },
+      {
+        "TSNE-1": -3.8000431060791016,
+        "TSNE-2": -5.027950286865234,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": 2.8686044216156006,
+        "TSNE-2": -6.553440570831299,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": 4.634251594543457,
-        "TSNE-2": 1.3095686435699463,
+        "TSNE-1": -10.654525756835938,
+        "TSNE-2": -2.0288822650909424,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -1.8066914081573486,
+        "TSNE-2": -0.2838330864906311,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": 0.09331640601158142,
+        "TSNE-2": 6.5398359298706055,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -7.847699165344238,
+        "TSNE-2": -3.1811771392822266,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -1.930880069732666,
+        "TSNE-2": 4.9197916984558105,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": 4.917169094085693,
+        "TSNE-2": -1.6210755109786987,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -6.583092212677002,
+        "TSNE-2": -1.6301699876785278,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -0.281161367893219,
+        "TSNE-2": -0.9755743145942688,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": 1.229602336883545,
+        "TSNE-2": -4.765899658203125,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": 5.573856353759766,
+        "TSNE-2": 4.751373291015625,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -1.0092976093292236,
+        "TSNE-2": -6.517185211181641,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": 0.709473192691803,
+        "TSNE-2": 0.35569459199905396,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -3.870633602142334,
+        "TSNE-2": 8.533019065856934,
         "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
+        "keywords": "potentially, second, repetitive, longer, professor"
       },
       {
-        "TSNE-1": 1.2084375619888306,
-        "TSNE-2": 4.53847599029541,
+        "TSNE-1": -2.0131824016571045,
+        "TSNE-2": 2.6336593627929688,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": 8.004624366760254,
+        "TSNE-2": -1.5327805280685425,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -9.313952445983887,
+        "TSNE-2": -0.32604342699050903,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": 6.317205429077148,
+        "TSNE-2": -9.754842758178711,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": -7.126526832580566,
-        "TSNE-2": -3.2963688373565674,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
+        "TSNE-1": 1.6418988704681396,
+        "TSNE-2": -1.9021501541137695,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
       },
       {
-        "TSNE-1": 12.222586631774902,
-        "TSNE-2": 0.7995310425758362,
-        "cluster": 2,
+        "TSNE-1": -6.512449741363525,
+        "TSNE-2": 7.642300605773926,
+        "cluster": 5,
         "keywords": "potentially, second, repetitive, longer, professor"
       },
       {
-        "TSNE-1": 4.244389057159424,
-        "TSNE-2": 5.36574649810791,
+        "TSNE-1": 4.92940092086792,
+        "TSNE-2": -4.230844974517822,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": 5.433907985687256,
+        "TSNE-2": -10.608803749084473,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": 12.813477516174316,
-        "TSNE-2": 1.3320379257202148,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": -0.4965111017227173,
-        "TSNE-2": -7.703927040100098,
+        "TSNE-1": 2.0684406757354736,
+        "TSNE-2": 1.1281505823135376,
         "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
+        "keywords": "document, time, reflect, gain, timing"
       },
       {
-        "TSNE-1": 2.5233700275421143,
-        "TSNE-2": 1.881758451461792,
+        "TSNE-1": 8.481446266174316,
+        "TSNE-2": -3.3592355251312256,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -5.496582508087158,
+        "TSNE-2": -3.7824409008026123,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -5.817355632781982,
+        "TSNE-2": 10.908327102661133,
         "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -1.4283783435821533,
-        "TSNE-2": -2.454514503479004,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 13.818754196166992,
-        "TSNE-2": -1.4761887788772583,
-        "cluster": 2,
         "keywords": "potentially, second, repetitive, longer, professor"
       },
       {
-        "TSNE-1": -4.470756530761719,
-        "TSNE-2": 1.255957007408142,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
+        "TSNE-1": -6.638795375823975,
+        "TSNE-2": -7.801893711090088,
+        "cluster": 2,
+        "keywords": "grow, reflective, continue, learn, approach"
       },
       {
-        "TSNE-1": -1.6971964836120605,
-        "TSNE-2": 12.071290016174316,
+        "TSNE-1": 2.9151358604431152,
+        "TSNE-2": 10.085533142089844,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": -7.158501148223877,
+        "TSNE-2": 1.9449735879898071,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -5.346176624298096,
+        "TSNE-2": 12.806689262390137,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": -0.7072916030883789,
+        "TSNE-2": -13.612049102783203,
+        "cluster": 2,
+        "keywords": "grow, reflective, continue, learn, approach"
+      },
+      {
+        "TSNE-1": 5.785305976867676,
+        "TSNE-2": -1.0694819688796997,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -2.2357676029205322,
+        "TSNE-2": 10.724262237548828,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": -6.1835150718688965,
+        "TSNE-2": -5.186629772186279,
         "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
+        "keywords": "practice, process, classroom, help, need"
       },
       {
-        "TSNE-1": -6.2690958976745605,
-        "TSNE-2": -6.176368713378906,
+        "TSNE-1": -3.8620777130126953,
+        "TSNE-2": 2.904694080352783,
         "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
+        "keywords": "teacher, student, reflection, change, may"
       },
       {
-        "TSNE-1": -0.5557383298873901,
-        "TSNE-2": 7.48390531539917,
+        "TSNE-1": -2.200613021850586,
+        "TSNE-2": -1.5201606750488281,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -5.543611526489258,
+        "TSNE-2": 1.3407764434814453,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": 0.013634700328111649,
+        "TSNE-2": -2.596881151199341,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -1.1789807081222534,
+        "TSNE-2": -7.5648193359375,
+        "cluster": 2,
+        "keywords": "grow, reflective, continue, learn, approach"
+      },
+      {
+        "TSNE-1": -8.157824516296387,
+        "TSNE-2": 10.882006645202637,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": 0.8288002610206604,
+        "TSNE-2": -7.766645908355713,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": -7.142819881439209,
-        "TSNE-2": -0.914250373840332,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": 3.7574002742767334,
-        "TSNE-2": -0.922443151473999,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -1.9678966999053955,
-        "TSNE-2": -9.531438827514648,
+        "TSNE-1": 12.93254280090332,
+        "TSNE-2": -2.4167139530181885,
         "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
+        "keywords": "document, time, reflect, gain, timing"
       },
       {
-        "TSNE-1": -4.687617301940918,
-        "TSNE-2": -3.9295272827148438,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": 6.271536350250244,
-        "TSNE-2": -2.560190200805664,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -3.44223952293396,
-        "TSNE-2": 3.140303611755371,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": -6.341989040374756,
-        "TSNE-2": -4.701633453369141,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": 2.899789810180664,
-        "TSNE-2": -3.140270948410034,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 0.5684667825698853,
-        "TSNE-2": -4.641473293304443,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": 5.621394157409668,
-        "TSNE-2": 2.818235397338867,
+        "TSNE-1": 4.053379535675049,
+        "TSNE-2": -14.334598541259766,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": 0.6012976169586182,
-        "TSNE-2": 1.3766077756881714,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -0.025281835347414017,
-        "TSNE-2": -2.760941982269287,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 9.50380802154541,
-        "TSNE-2": -2.5487637519836426,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": 0.08494333922863007,
-        "TSNE-2": -0.10237804800271988,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -5.678668975830078,
-        "TSNE-2": 3.3744876384735107,
+        "TSNE-1": -8.676190376281738,
+        "TSNE-2": -5.697725296020508,
         "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
+        "keywords": "practice, process, classroom, help, need"
       },
       {
-        "TSNE-1": -5.826543807983398,
-        "TSNE-2": -2.027930974960327,
+        "TSNE-1": -3.4458351135253906,
+        "TSNE-2": 4.630671977996826,
         "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
+        "keywords": "teacher, student, reflection, change, may"
       },
       {
-        "TSNE-1": -7.353247165679932,
-        "TSNE-2": 9.33890151977539,
+        "TSNE-1": -8.002782821655273,
+        "TSNE-2": 6.12449836730957,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -3.543001174926758,
+        "TSNE-2": -3.040424346923828,
         "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
+        "keywords": "practice, process, classroom, help, need"
       },
       {
-        "TSNE-1": -1.446557641029358,
-        "TSNE-2": -0.5394144654273987,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 9.73383617401123,
-        "TSNE-2": -0.22078973054885864,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": -9.134525299072266,
-        "TSNE-2": -5.455484867095947,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": -7.940654277801514,
-        "TSNE-2": 10.080904960632324,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": 1.421694278717041,
-        "TSNE-2": -2.6776340007781982,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -5.426273822784424,
-        "TSNE-2": 5.531342506408691,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": -2.3838181495666504,
-        "TSNE-2": -3.4555294513702393,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": 12.319437026977539,
-        "TSNE-2": -0.9080480337142944,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": -3.6596736907958984,
-        "TSNE-2": -1.711949110031128,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": -11.024888038635254,
-        "TSNE-2": -0.1252051442861557,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": -1.6210633516311646,
-        "TSNE-2": 4.856396198272705,
+        "TSNE-1": 4.053379535675049,
+        "TSNE-2": -14.334598541259766,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": 13.405487060546875,
-        "TSNE-2": 0.28201451897621155,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": -9.784461975097656,
-        "TSNE-2": 3.9517624378204346,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": -3.639369010925293,
-        "TSNE-2": 3.9703924655914307,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": 11.648781776428223,
-        "TSNE-2": -4.079867362976074,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": -2.8975720405578613,
-        "TSNE-2": -5.061151504516602,
+        "TSNE-1": -11.314207077026367,
+        "TSNE-2": 2.2466742992401123,
         "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
+        "keywords": "teacher, student, reflection, change, may"
       },
       {
-        "TSNE-1": -1.3573325872421265,
-        "TSNE-2": 1.5260549783706665,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 2.803652048110962,
-        "TSNE-2": -1.527622103691101,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -2.939467668533325,
-        "TSNE-2": 1.4585230350494385,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 1.7908810377120972,
-        "TSNE-2": 0.1813962161540985,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 0.8007819652557373,
-        "TSNE-2": 1.966259479522705,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 13.25484848022461,
-        "TSNE-2": -2.244405746459961,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": -0.8466635942459106,
-        "TSNE-2": -5.921403884887695,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": 5.253182888031006,
-        "TSNE-2": 9.285860061645508,
+        "TSNE-1": 4.600986003875732,
+        "TSNE-2": -9.360174179077148,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": 3.976227283477783,
-        "TSNE-2": -12.176934242248535,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": 7.698765277862549,
-        "TSNE-2": 2.868927001953125,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": 6.801131725311279,
-        "TSNE-2": -1.452278733253479,
-        "cluster": 2,
-        "keywords": "potentially, second, repetitive, longer, professor"
-      },
-      {
-        "TSNE-1": 1.826234221458435,
-        "TSNE-2": -7.687413692474365,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": 4.992136001586914,
-        "TSNE-2": -4.058543682098389,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": 3.976227283477783,
-        "TSNE-2": -12.176934242248535,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": 7.421814441680908,
-        "TSNE-2": -6.404809474945068,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": -6.832819938659668,
-        "TSNE-2": 10.941926956176758,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": 2.202317237854004,
-        "TSNE-2": -4.12936544418335,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": -3.9611213207244873,
-        "TSNE-2": 6.699662208557129,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": -9.784461975097656,
-        "TSNE-2": 3.9517624378204346,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": 1.2919046878814697,
-        "TSNE-2": -1.18227219581604,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": 0.5684667825698853,
-        "TSNE-2": -4.641473293304443,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": -11.447083473205566,
-        "TSNE-2": -0.11729701608419418,
+        "TSNE-1": 0.9841656684875488,
+        "TSNE-2": 2.146925687789917,
         "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
+        "keywords": "teacher, student, reflection, change, may"
       },
       {
-        "TSNE-1": -2.1155929565429688,
-        "TSNE-2": 8.601018905639648,
-        "cluster": 3,
-        "keywords": "author, grow, learn, continue, lesson"
-      },
-      {
-        "TSNE-1": -12.887529373168945,
-        "TSNE-2": -0.05162547528743744,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": 1.3174675703048706,
-        "TSNE-2": 5.873447895050049,
+        "TSNE-1": 8.450371742248535,
+        "TSNE-2": -5.326531410217285,
         "cluster": 1,
-        "keywords": "student, practice, may, time, become"
+        "keywords": "lesson, author, never, plan, look"
       },
       {
-        "TSNE-1": 1.8821539878845215,
-        "TSNE-2": -9.32451343536377,
-        "cluster": 4,
-        "keywords": "positive, reflective, reflect, professional, immediately"
-      },
-      {
-        "TSNE-1": 3.1534085273742676,
-        "TSNE-2": 0.2465435117483139,
-        "cluster": 5,
-        "keywords": "help, educational, method, classroom, process"
-      },
-      {
-        "TSNE-1": -7.142819881439209,
-        "TSNE-2": -0.914250373840332,
-        "cluster": 0,
-        "keywords": "teacher, reflection, text, document, change"
-      },
-      {
-        "TSNE-1": 11.566864013671875,
-        "TSNE-2": -0.789250910282135,
+        "TSNE-1": -0.7072916030883789,
+        "TSNE-2": -13.612049102783203,
         "cluster": 2,
+        "keywords": "grow, reflective, continue, learn, approach"
+      },
+      {
+        "TSNE-1": -1.4530370235443115,
+        "TSNE-2": -3.636162757873535,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": 1.229602336883545,
+        "TSNE-2": -4.765899658203125,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": 3.49084210395813,
+        "TSNE-2": 10.28739070892334,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": 9.275321960449219,
+        "TSNE-2": -7.728760242462158,
+        "cluster": 1,
+        "keywords": "lesson, author, never, plan, look"
+      },
+      {
+        "TSNE-1": 4.854928493499756,
+        "TSNE-2": 11.077035903930664,
+        "cluster": 5,
+        "keywords": "potentially, second, repetitive, longer, professor"
+      },
+      {
+        "TSNE-1": 2.8629095554351807,
+        "TSNE-2": 4.40313720703125,
+        "cluster": 4,
+        "keywords": "document, time, reflect, gain, timing"
+      },
+      {
+        "TSNE-1": -9.248915672302246,
+        "TSNE-2": 4.910947799682617,
+        "cluster": 0,
+        "keywords": "teacher, student, reflection, change, may"
+      },
+      {
+        "TSNE-1": -4.220917701721191,
+        "TSNE-2": -1.5471738576889038,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -10.654525756835938,
+        "TSNE-2": -2.0288822650909424,
+        "cluster": 3,
+        "keywords": "practice, process, classroom, help, need"
+      },
+      {
+        "TSNE-1": -6.107726573944092,
+        "TSNE-2": 10.054665565490723,
+        "cluster": 5,
         "keywords": "potentially, second, repetitive, longer, professor"
       }
     ]

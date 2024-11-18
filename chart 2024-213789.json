@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-c83a6b2b4ca8201406dd1cdb0c4876b3"
+    "name": "data-ece4c04a01ff3ba233dd76131ad788ce"
   },
   "datasets": {
-    "data-c83a6b2b4ca8201406dd1cdb0c4876b3": [
+    "data-ece4c04a01ff3ba233dd76131ad788ce": [
       {
-        "TSNE-1": -7.161532878875732,
-        "TSNE-2": 2.193330764770508,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
+        "TSNE-1": -0.6401414275169373,
+        "TSNE-2": -7.24495267868042,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
       },
       {
-        "TSNE-1": -3.284115791320801,
-        "TSNE-2": 10.111083984375,
+        "TSNE-1": -8.346029281616211,
+        "TSNE-2": -7.785006999969482,
         "cluster": 4,
-        "keywords": "rate, due, well, access, high"
+        "keywords": "health, diabetes, condition, healthcare, factor"
       },
       {
-        "TSNE-1": 2.1641857624053955,
-        "TSNE-2": -0.023734021931886673,
+        "TSNE-1": -5.484374046325684,
+        "TSNE-2": 1.654834270477295,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": -0.4707217514514923,
-        "TSNE-2": -5.703094005584717,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
+        "TSNE-1": -0.9855033755302429,
+        "TSNE-2": 6.655983924865723,
+        "cluster": 3,
+        "keywords": "individual, disease, may, high, blood"
       },
       {
-        "TSNE-1": 2.1641857624053955,
-        "TSNE-2": -0.023734021931886673,
+        "TSNE-1": -5.484374046325684,
+        "TSNE-2": 1.654834270477295,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": 25.508726119995117,
-        "TSNE-2": -13.435635566711426,
+        "TSNE-1": -9.6198148727417,
+        "TSNE-2": 0.4912306070327759,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": -0.2747545540332794,
+        "TSNE-2": -3.802712917327881,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 3.1863186359405518,
+        "TSNE-2": -2.417362928390503,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -0.9882631897926331,
+        "TSNE-2": 4.525000095367432,
+        "cluster": 0,
+        "keywords": "kidney, african, american, failure, higher"
+      },
+      {
+        "TSNE-1": 3.1849756240844727,
+        "TSNE-2": 11.964550971984863,
         "cluster": 2,
-        "keywords": "nan, younger, genomic, face, extra"
+        "keywords": "increase, rate, heart, limited, combination"
       },
       {
-        "TSNE-1": 4.259458541870117,
-        "TSNE-2": 1.8387680053710938,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
+        "TSNE-1": 7.888792514801025,
+        "TSNE-2": 0.0025954470038414,
+        "cluster": 5,
+        "keywords": "hispanic, latino, group, quality, receive"
       },
       {
-        "TSNE-1": -4.735581398010254,
-        "TSNE-2": 3.870347499847412,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 0.5815606713294983,
-        "TSNE-2": -2.8741564750671387,
+        "TSNE-1": -1.8033678531646729,
+        "TSNE-2": -2.1021058559417725,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": 3.980778694152832,
-        "TSNE-2": -1.69936203956604,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
+        "TSNE-1": 2.5736589431762695,
+        "TSNE-2": 4.454355716705322,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
       },
       {
-        "TSNE-1": 7.531219005584717,
-        "TSNE-2": -9.204078674316406,
+        "TSNE-1": 6.244548797607422,
+        "TSNE-2": 8.527314186096191,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": -2.096608877182007,
+        "TSNE-2": 12.118289947509766,
+        "cluster": 3,
+        "keywords": "individual, disease, may, high, blood"
+      },
+      {
+        "TSNE-1": 9.651777267456055,
+        "TSNE-2": 3.4016268253326416,
         "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
+        "keywords": "hispanic, latino, group, quality, receive"
       },
       {
-        "TSNE-1": -8.885159492492676,
-        "TSNE-2": -3.8913486003875732,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": -4.191048622131348,
-        "TSNE-2": 2.1333467960357666,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 7.309002876281738,
-        "TSNE-2": 2.6671316623687744,
+        "TSNE-1": -0.2747545540332794,
+        "TSNE-2": -3.802712917327881,
         "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
+        "keywords": "black, risk, organ, likely, socioeconomic"
       },
       {
-        "TSNE-1": 4.144962310791016,
-        "TSNE-2": 10.63869571685791,
+        "TSNE-1": -4.124082088470459,
+        "TSNE-2": -7.1241135597229,
         "cluster": 4,
-        "keywords": "rate, due, well, access, high"
+        "keywords": "health, diabetes, condition, healthcare, factor"
       },
       {
-        "TSNE-1": 9.743178367614746,
-        "TSNE-2": -4.746164798736572,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 10.233314514160156,
-        "TSNE-2": 5.383484363555908,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": -4.735581398010254,
-        "TSNE-2": 3.870347499847412,
+        "TSNE-1": -7.175570964813232,
+        "TSNE-2": 11.220778465270996,
         "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
+        "keywords": "individual, disease, may, high, blood"
       },
       {
-        "TSNE-1": -5.357223987579346,
-        "TSNE-2": 7.376132965087891,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
+        "TSNE-1": 5.215935707092285,
+        "TSNE-2": 8.6143217086792,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
       },
       {
-        "TSNE-1": 3.821591854095459,
-        "TSNE-2": -9.967741966247559,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": 4.101512432098389,
-        "TSNE-2": 9.613669395446777,
+        "TSNE-1": -3.647306442260742,
+        "TSNE-2": -4.808722019195557,
         "cluster": 4,
-        "keywords": "rate, due, well, access, high"
+        "keywords": "health, diabetes, condition, healthcare, factor"
       },
       {
-        "TSNE-1": -7.113460540771484,
-        "TSNE-2": -0.8449811339378357,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 1.275767207145691,
-        "TSNE-2": -1.1103497743606567,
+        "TSNE-1": -4.7399678230285645,
+        "TSNE-2": -0.03309307247400284,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": 11.852704048156738,
-        "TSNE-2": -0.9764907360076904,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": -7.997694492340088,
-        "TSNE-2": 7.1621809005737305,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": -2.7781777381896973,
-        "TSNE-2": 3.0506107807159424,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 7.840222358703613,
-        "TSNE-2": 0.3743610978126526,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 9.528702735900879,
-        "TSNE-2": 1.4476721286773682,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 4.123411655426025,
-        "TSNE-2": 12.040079116821289,
+        "TSNE-1": -11.101656913757324,
+        "TSNE-2": -2.934842109680176,
         "cluster": 4,
-        "keywords": "rate, due, well, access, high"
+        "keywords": "health, diabetes, condition, healthcare, factor"
       },
       {
-        "TSNE-1": -9.571000099182129,
-        "TSNE-2": 4.51257848739624,
+        "TSNE-1": -2.721586227416992,
+        "TSNE-2": 6.885252475738525,
         "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
+        "keywords": "individual, disease, may, high, blood"
       },
       {
-        "TSNE-1": 0.08660727739334106,
-        "TSNE-2": -2.826761484146118,
+        "TSNE-1": -0.8563120365142822,
+        "TSNE-2": -5.372097969055176,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 1.5424093008041382,
+        "TSNE-2": 5.501720905303955,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": 6.789347171783447,
+        "TSNE-2": 3.9239165782928467,
+        "cluster": 5,
+        "keywords": "hispanic, latino, group, quality, receive"
+      },
+      {
+        "TSNE-1": 7.547967433929443,
+        "TSNE-2": 8.617650032043457,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": 6.189599514007568,
+        "TSNE-2": -5.104951858520508,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 3.4748775959014893,
+        "TSNE-2": -2.338521957397461,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 5.60365104675293,
+        "TSNE-2": -9.939080238342285,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 1.1558781862258911,
+        "TSNE-2": -3.889965057373047,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -1.7339677810668945,
+        "TSNE-2": 11.089895248413086,
+        "cluster": 3,
+        "keywords": "individual, disease, may, high, blood"
+      },
+      {
+        "TSNE-1": -5.7133283615112305,
+        "TSNE-2": 3.6293258666992188,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": -7.595536231994629,
-        "TSNE-2": -9.231539726257324,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": -3.9902923107147217,
-        "TSNE-2": 4.945611000061035,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 11.03981876373291,
-        "TSNE-2": -4.433747291564941,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": -1.5484369993209839,
-        "TSNE-2": -2.6439473628997803,
+        "TSNE-1": -1.899748682975769,
+        "TSNE-2": 2.2534661293029785,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": -1.2583694458007812,
-        "TSNE-2": -0.6141567230224609,
+        "TSNE-1": -3.2359652519226074,
+        "TSNE-2": 0.5755957365036011,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": -0.9256634712219238,
-        "TSNE-2": 1.5109155178070068,
+        "TSNE-1": -8.58651065826416,
+        "TSNE-2": 0.40308964252471924,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": -8.478901863098145,
+        "TSNE-2": -4.011096477508545,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": -3.2960987091064453,
+        "TSNE-2": -3.2439897060394287,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": -8.956311225891113,
+        "TSNE-2": -7.983535289764404,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": 3.0756800174713135,
+        "TSNE-2": -6.067890167236328,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -0.3152209520339966,
+        "TSNE-2": -2.2934463024139404,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -4.029412269592285,
+        "TSNE-2": 3.2392282485961914,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": 4.302257537841797,
-        "TSNE-2": 0.6838377714157104,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": -9.426356315612793,
-        "TSNE-2": 1.468840479850769,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": -4.275232315063477,
-        "TSNE-2": 0.3983415365219116,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": -4.006209850311279,
-        "TSNE-2": 10.381747245788574,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": 1.7548936605453491,
-        "TSNE-2": -7.181379318237305,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": -5.809247970581055,
-        "TSNE-2": 2.7576963901519775,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 0.10224074870347977,
-        "TSNE-2": 0.025477688759565353,
+        "TSNE-1": -2.39646315574646,
+        "TSNE-2": 1.810514211654663,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": -1.6284314393997192,
-        "TSNE-2": 0.0807051733136177,
+        "TSNE-1": 7.724583625793457,
+        "TSNE-2": -1.7924224138259888,
+        "cluster": 5,
+        "keywords": "hispanic, latino, group, quality, receive"
+      },
+      {
+        "TSNE-1": 4.379762649536133,
+        "TSNE-2": -8.870606422424316,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -2.3923165798187256,
+        "TSNE-2": 4.6081647872924805,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": -6.964615821838379,
-        "TSNE-2": -4.310832500457764,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
+        "TSNE-1": 3.1849756240844727,
+        "TSNE-2": 11.964550971984863,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
       },
       {
-        "TSNE-1": -9.490676879882812,
-        "TSNE-2": -8.954100608825684,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": 2.9687674045562744,
-        "TSNE-2": -3.6277856826782227,
+        "TSNE-1": -0.5756257176399231,
+        "TSNE-2": 0.23882220685482025,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": 7.531219005584717,
-        "TSNE-2": -9.204078674316406,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": 0.8374345302581787,
-        "TSNE-2": 3.303968667984009,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": -2.6493184566497803,
-        "TSNE-2": -7.95725154876709,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": 3.9756643772125244,
-        "TSNE-2": 9.000264167785645,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": -5.338503360748291,
-        "TSNE-2": 5.036924362182617,
+        "TSNE-1": -5.612063407897949,
+        "TSNE-2": 6.054821014404297,
         "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
+        "keywords": "individual, disease, may, high, blood"
       },
       {
-        "TSNE-1": 3.124849319458008,
-        "TSNE-2": 4.6805853843688965,
+        "TSNE-1": 4.643855094909668,
+        "TSNE-2": 8.835076332092285,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": 0.59148770570755,
+        "TSNE-2": -3.0201897621154785,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 5.183549880981445,
+        "TSNE-2": 1.7491799592971802,
+        "cluster": 5,
+        "keywords": "hispanic, latino, group, quality, receive"
+      },
+      {
+        "TSNE-1": -5.439208507537842,
+        "TSNE-2": -2.9710536003112793,
         "cluster": 4,
-        "keywords": "rate, due, well, access, high"
+        "keywords": "health, diabetes, condition, healthcare, factor"
       },
       {
-        "TSNE-1": -3.996189832687378,
-        "TSNE-2": -2.4380195140838623,
+        "TSNE-1": 1.070417881011963,
+        "TSNE-2": 5.391552448272705,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": -2.513216733932495,
+        "TSNE-2": -7.296593189239502,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 2.2770721912384033,
+        "TSNE-2": 7.8004937171936035,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": -4.525155067443848,
+        "TSNE-2": 9.266497611999512,
+        "cluster": 3,
+        "keywords": "individual, disease, may, high, blood"
+      },
+      {
+        "TSNE-1": -0.4745445251464844,
+        "TSNE-2": 5.775197982788086,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": 2.0778331756591797,
+        "TSNE-2": 2.156350612640381,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": 7.411516189575195,
-        "TSNE-2": 0.889621376991272,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 8.334915161132812,
-        "TSNE-2": -3.331542730331421,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 5.639430999755859,
-        "TSNE-2": -4.427195072174072,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 12.31153678894043,
-        "TSNE-2": 2.346794366836548,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 4.793394088745117,
-        "TSNE-2": -2.477895975112915,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 2.173474073410034,
-        "TSNE-2": -13.41750717163086,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": -2.407452344894409,
-        "TSNE-2": -9.024904251098633,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": -1.6617892980575562,
-        "TSNE-2": -8.866486549377441,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": -8.688156127929688,
-        "TSNE-2": -7.587086200714111,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": 1.5911593437194824,
-        "TSNE-2": 2.8880865573883057,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": -5.175332546234131,
-        "TSNE-2": -1.0440393686294556,
+        "TSNE-1": -6.591427803039551,
+        "TSNE-2": 6.3767523765563965,
         "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
+        "keywords": "individual, disease, may, high, blood"
       },
       {
-        "TSNE-1": 0.21794070303440094,
-        "TSNE-2": 1.621848225593567,
+        "TSNE-1": -6.333868980407715,
+        "TSNE-2": 6.923044681549072,
+        "cluster": 3,
+        "keywords": "individual, disease, may, high, blood"
+      },
+      {
+        "TSNE-1": 6.0636138916015625,
+        "TSNE-2": -8.213974952697754,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -0.4499558210372925,
+        "TSNE-2": 1.2883222103118896,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": -9.230222702026367,
-        "TSNE-2": -0.39183688163757324,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 1.5189149379730225,
-        "TSNE-2": -7.598217010498047,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": -3.7353336811065674,
-        "TSNE-2": -11.698171615600586,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": 1.1006369590759277,
-        "TSNE-2": -5.619818210601807,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": 10.233314514160156,
-        "TSNE-2": 5.383484363555908,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 5.340053081512451,
-        "TSNE-2": 5.780704021453857,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": -0.6795921921730042,
-        "TSNE-2": 5.130838871002197,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": -2.5363519191741943,
-        "TSNE-2": -1.0533066987991333,
+        "TSNE-1": -4.214574813842773,
+        "TSNE-2": -1.5238730907440186,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": 0.7803097367286682,
-        "TSNE-2": 7.346573352813721,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": -1.42300546169281,
-        "TSNE-2": 4.662348747253418,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": 5.340053081512451,
-        "TSNE-2": 5.780704021453857,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": -4.36516809463501,
-        "TSNE-2": -5.858177661895752,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": 4.695137023925781,
-        "TSNE-2": -4.5964837074279785,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": -3.043846607208252,
-        "TSNE-2": 6.861611366271973,
-        "cluster": 4,
-        "keywords": "rate, due, well, access, high"
-      },
-      {
-        "TSNE-1": -8.09228801727295,
-        "TSNE-2": -4.123510837554932,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 2.173474073410034,
-        "TSNE-2": -13.41750717163086,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": -7.066990852355957,
-        "TSNE-2": 4.254123687744141,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": -4.275232315063477,
-        "TSNE-2": 0.3983415365219116,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 4.260128498077393,
-        "TSNE-2": -5.945523262023926,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
-      },
-      {
-        "TSNE-1": -11.351479530334473,
-        "TSNE-2": 6.939672470092773,
-        "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
-      },
-      {
-        "TSNE-1": 5.572333335876465,
-        "TSNE-2": -0.5129013061523438,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": 9.781268119812012,
-        "TSNE-2": -5.510037899017334,
-        "cluster": 1,
-        "keywords": "black, risk, increase, likely, blood"
-      },
-      {
-        "TSNE-1": -1.8110439777374268,
-        "TSNE-2": -3.71575665473938,
+        "TSNE-1": -2.4646987915039062,
+        "TSNE-2": 0.037997398525476456,
         "cluster": 0,
         "keywords": "kidney, african, american, failure, higher"
       },
       {
-        "TSNE-1": -6.233098983764648,
-        "TSNE-2": 0.7276968359947205,
+        "TSNE-1": -7.084595203399658,
+        "TSNE-2": -2.859088659286499,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": 2.972977876663208,
+        "TSNE-2": -6.279363632202148,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -1.444740891456604,
+        "TSNE-2": -10.783768653869629,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 1.1708306074142456,
+        "TSNE-2": -5.900713920593262,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 9.651777267456055,
+        "TSNE-2": 3.4016268253326416,
+        "cluster": 5,
+        "keywords": "hispanic, latino, group, quality, receive"
+      },
+      {
+        "TSNE-1": -8.622262001037598,
+        "TSNE-2": 3.9652557373046875,
         "cluster": 3,
-        "keywords": "organ, diabetes, less, condition, healthcare"
+        "keywords": "individual, disease, may, high, blood"
       },
       {
-        "TSNE-1": -7.595536231994629,
-        "TSNE-2": -9.231539726257324,
-        "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
+        "TSNE-1": -6.283689022064209,
+        "TSNE-2": -5.346968173980713,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
       },
       {
-        "TSNE-1": -3.553596019744873,
-        "TSNE-2": -11.124201774597168,
+        "TSNE-1": -3.463357925415039,
+        "TSNE-2": 2.022627115249634,
+        "cluster": 0,
+        "keywords": "kidney, african, american, failure, higher"
+      },
+      {
+        "TSNE-1": -6.888973236083984,
+        "TSNE-2": -0.5251152515411377,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": -5.544261455535889,
+        "TSNE-2": -5.223233222961426,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": -8.622262001037598,
+        "TSNE-2": 3.9652557373046875,
+        "cluster": 3,
+        "keywords": "individual, disease, may, high, blood"
+      },
+      {
+        "TSNE-1": 4.583697319030762,
+        "TSNE-2": 3.782942771911621,
         "cluster": 5,
-        "keywords": "may, disease, also, socioeconomic, heart"
+        "keywords": "hispanic, latino, group, quality, receive"
+      },
+      {
+        "TSNE-1": 1.7309894561767578,
+        "TSNE-2": 8.34779167175293,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": 2.7491469383239746,
+        "TSNE-2": -0.02330542542040348,
+        "cluster": 5,
+        "keywords": "hispanic, latino, group, quality, receive"
+      },
+      {
+        "TSNE-1": 8.058465957641602,
+        "TSNE-2": -0.7386347651481628,
+        "cluster": 5,
+        "keywords": "hispanic, latino, group, quality, receive"
+      },
+      {
+        "TSNE-1": 2.0778331756591797,
+        "TSNE-2": 2.156350612640381,
+        "cluster": 0,
+        "keywords": "kidney, african, american, failure, higher"
+      },
+      {
+        "TSNE-1": 1.114179015159607,
+        "TSNE-2": -1.4051575660705566,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -3.2960987091064453,
+        "TSNE-2": -3.2439897060394287,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": -0.14617374539375305,
+        "TSNE-2": 7.825783729553223,
+        "cluster": 2,
+        "keywords": "increase, rate, heart, limited, combination"
+      },
+      {
+        "TSNE-1": 5.085936069488525,
+        "TSNE-2": -0.39264169335365295,
+        "cluster": 5,
+        "keywords": "hispanic, latino, group, quality, receive"
+      },
+      {
+        "TSNE-1": -6.020834922790527,
+        "TSNE-2": -10.388072967529297,
+        "cluster": 4,
+        "keywords": "health, diabetes, condition, healthcare, factor"
+      },
+      {
+        "TSNE-1": -2.102890729904175,
+        "TSNE-2": 12.68497371673584,
+        "cluster": 3,
+        "keywords": "individual, disease, may, high, blood"
+      },
+      {
+        "TSNE-1": 4.998586654663086,
+        "TSNE-2": -2.894042491912842,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -1.9899402856826782,
+        "TSNE-2": -4.253046989440918,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": 5.60365104675293,
+        "TSNE-2": -9.939080238342285,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
+      },
+      {
+        "TSNE-1": -1.3873521089553833,
+        "TSNE-2": -10.37129020690918,
+        "cluster": 1,
+        "keywords": "black, risk, organ, likely, socioeconomic"
       }
     ]
   },

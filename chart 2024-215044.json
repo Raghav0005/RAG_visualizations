@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-2bf21a1ba46e3fd90f07edff78c1a990"
+    "name": "data-f4fdf9847570fd323938f51a7b76d910"
   },
   "datasets": {
-    "data-2bf21a1ba46e3fd90f07edff78c1a990": [
+    "data-f4fdf9847570fd323938f51a7b76d910": [
       {
-        "TSNE-1": -5.880247592926025,
-        "TSNE-2": 0.6077690124511719,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": -11.41732406616211,
-        "TSNE-2": -3.9884183406829834,
+        "TSNE-1": 0.627865195274353,
+        "TSNE-2": -7.929062366485596,
         "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
+        "keywords": "dollar, loss, financial, store, company"
       },
       {
-        "TSNE-1": 4.584869861602783,
-        "TSNE-2": 11.582551956176758,
-        "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
-      },
-      {
-        "TSNE-1": 7.075666904449463,
-        "TSNE-2": -7.675384044647217,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": 4.584869861602783,
-        "TSNE-2": 11.582551956176758,
-        "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
-      },
-      {
-        "TSNE-1": -26.823123931884766,
-        "TSNE-2": 12.924331665039062,
+        "TSNE-1": -9.979000091552734,
+        "TSNE-2": -5.6413116455078125,
         "cluster": 5,
-        "keywords": "nan, year, exists, face, extremely"
+        "keywords": "million, struggle, retail, effort, quarter"
       },
       {
-        "TSNE-1": -5.6942009925842285,
-        "TSNE-2": 6.329107284545898,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
+        "TSNE-1": 8.172890663146973,
+        "TSNE-2": -3.86289119720459,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
       },
       {
-        "TSNE-1": -6.386782646179199,
-        "TSNE-2": -1.2172825336456299,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
+        "TSNE-1": 11.3054838180542,
+        "TSNE-2": 9.59509563446045,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
       },
       {
-        "TSNE-1": -4.866104602813721,
-        "TSNE-2": 10.934225082397461,
+        "TSNE-1": 8.172890663146973,
+        "TSNE-2": -3.86289119720459,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": 0.39262381196022034,
+        "TSNE-2": -0.4010601341724396,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": -6.89951229095459,
+        "TSNE-2": -5.20231294631958,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": 7.141930103302002,
+        "TSNE-2": -8.961287498474121,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": 9.603464126586914,
+        "TSNE-2": 5.536384582519531,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": -6.150064468383789,
+        "TSNE-2": 9.297043800354004,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": 5.759897708892822,
-        "TSNE-2": -12.049396514892578,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
+        "TSNE-1": -0.5363712906837463,
+        "TSNE-2": 2.8784844875335693,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
       },
       {
-        "TSNE-1": 6.449678421020508,
-        "TSNE-2": 7.443583011627197,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
+        "TSNE-1": -1.495164155960083,
+        "TSNE-2": 6.622377395629883,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
       },
       {
-        "TSNE-1": 10.708925247192383,
-        "TSNE-2": 1.4259768724441528,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -2.476628065109253,
-        "TSNE-2": 5.558653831481934,
+        "TSNE-1": -5.962497711181641,
+        "TSNE-2": 2.5080878734588623,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": -10.039872169494629,
-        "TSNE-2": 4.8712077140808105,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": 7.789730548858643,
-        "TSNE-2": -11.997724533081055,
-        "cluster": 3,
+        "TSNE-1": 11.579252243041992,
+        "TSNE-2": 6.313745975494385,
+        "cluster": 2,
         "keywords": "mention, state, text, still, grown"
       },
       {
-        "TSNE-1": -8.498579025268555,
-        "TSNE-2": 0.49967214465141296,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
+        "TSNE-1": -6.896233558654785,
+        "TSNE-2": -2.8842504024505615,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
       },
       {
-        "TSNE-1": -4.512092590332031,
-        "TSNE-2": 15.128108978271484,
+        "TSNE-1": -10.836564064025879,
+        "TSNE-2": 4.485901355743408,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": -6.386782646179199,
-        "TSNE-2": -1.2172825336456299,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
+        "TSNE-1": -6.89951229095459,
+        "TSNE-2": -5.20231294631958,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
       },
       {
-        "TSNE-1": -7.911742210388184,
-        "TSNE-2": 2.1063268184661865,
+        "TSNE-1": -5.632731914520264,
+        "TSNE-2": -1.9952080249786377,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": 4.381159782409668,
+        "TSNE-2": 5.997673034667969,
         "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
+        "keywords": "price, cent, product, january, gold"
       },
       {
-        "TSNE-1": 0.5610045790672302,
-        "TSNE-2": 7.892279148101807,
+        "TSNE-1": 12.994653701782227,
+        "TSNE-2": 8.809935569763184,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": 1.419849157333374,
+        "TSNE-2": 9.067826271057129,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": 10.008275985717773,
+        "TSNE-2": 10.136219024658203,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": -4.112344264984131,
+        "TSNE-2": 2.948667287826538,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": 5.286805629730225,
-        "TSNE-2": -8.552263259887695,
-        "cluster": 3,
+        "TSNE-1": 1.9301869869232178,
+        "TSNE-2": 3.5362696647644043,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": -8.264250755310059,
+        "TSNE-2": -3.298588991165161,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": 12.111279487609863,
+        "TSNE-2": 5.046721458435059,
+        "cluster": 2,
         "keywords": "mention, state, text, still, grown"
       },
       {
-        "TSNE-1": -0.2486756592988968,
-        "TSNE-2": 2.523406505584717,
+        "TSNE-1": 2.1906206607818604,
+        "TSNE-2": -3.762968063354492,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": 11.076905250549316,
+        "TSNE-2": 5.513635158538818,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": 7.9382004737854,
+        "TSNE-2": 10.718356132507324,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": 7.300331115722656,
+        "TSNE-2": -8.432879447937012,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": 6.502715587615967,
+        "TSNE-2": 2.602243661880493,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": -0.84760582447052,
+        "TSNE-2": 7.0527567863464355,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": -1.0971221923828125,
+        "TSNE-2": -9.440731048583984,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": -2.7505016326904297,
+        "TSNE-2": 8.821951866149902,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": -2.3569910526275635,
+        "TSNE-2": -5.821910381317139,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": -4.0225510597229,
+        "TSNE-2": -3.725313663482666,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": -1.8865468502044678,
+        "TSNE-2": -0.7869302034378052,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": -2.6930744647979736,
+        "TSNE-2": 1.292830228805542,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": 7.595285415649414,
-        "TSNE-2": -6.520450592041016,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
+        "TSNE-1": -8.877099990844727,
+        "TSNE-2": 0.1939791440963745,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
       },
       {
-        "TSNE-1": -11.997444152832031,
-        "TSNE-2": 4.673771381378174,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
+        "TSNE-1": -8.621074676513672,
+        "TSNE-2": -7.321181297302246,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
       },
       {
-        "TSNE-1": -12.964790344238281,
-        "TSNE-2": 6.187229156494141,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": -8.890920639038086,
-        "TSNE-2": -1.046754002571106,
+        "TSNE-1": -3.2870471477508545,
+        "TSNE-2": -7.7576189041137695,
         "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
+        "keywords": "dollar, loss, financial, store, company"
       },
       {
-        "TSNE-1": 7.992477893829346,
-        "TSNE-2": -10.24687671661377,
+        "TSNE-1": 0.5136297941207886,
+        "TSNE-2": 7.759951591491699,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": -9.88887882232666,
+        "TSNE-2": -3.2279255390167236,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": -5.440608978271484,
+        "TSNE-2": -7.356568336486816,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 3.779761552810669,
+        "TSNE-2": 0.8253527879714966,
         "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
+        "keywords": "retailer, discount, decline, competition, significant"
       },
       {
-        "TSNE-1": 4.948853492736816,
-        "TSNE-2": 4.1529974937438965,
+        "TSNE-1": 2.4176390171051025,
+        "TSNE-2": 5.791985988616943,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": 9.664713859558105,
+        "TSNE-2": 7.064798355102539,
         "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": 7.010746479034424,
-        "TSNE-2": -10.975144386291504,
-        "cluster": 3,
         "keywords": "mention, state, text, still, grown"
       },
       {
-        "TSNE-1": 8.420276641845703,
-        "TSNE-2": -4.7585320472717285,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": -4.681018829345703,
-        "TSNE-2": 10.37108039855957,
+        "TSNE-1": -6.150064468383789,
+        "TSNE-2": 9.297043800354004,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": 2.8816416263580322,
-        "TSNE-2": 6.695094108581543,
+        "TSNE-1": -2.080617666244507,
+        "TSNE-2": -4.7065629959106445,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 1.2200255393981934,
+        "TSNE-2": -5.732483386993408,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": 12.857925415039062,
+        "TSNE-2": 1.974972128868103,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": -0.675205647945404,
+        "TSNE-2": 8.415839195251465,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": -0.08124040812253952,
+        "TSNE-2": 2.5300240516662598,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": -4.49849271774292,
+        "TSNE-2": -12.077880859375,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 12.994653701782227,
+        "TSNE-2": 8.809935569763184,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": -2.0837182998657227,
+        "TSNE-2": -12.12605094909668,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 10.715280532836914,
+        "TSNE-2": 3.2720112800598145,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": 0.006194699555635452,
+        "TSNE-2": 5.5779709815979,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": 13.663169860839844,
+        "TSNE-2": 7.138329982757568,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": 4.09827184677124,
+        "TSNE-2": -2.8788721561431885,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": -5.047541618347168,
+        "TSNE-2": -9.609942436218262,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": -7.09524393081665,
+        "TSNE-2": -9.800524711608887,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 3.079989194869995,
+        "TSNE-2": 10.372184753417969,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": -3.582029104232788,
+        "TSNE-2": -5.993168830871582,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": -3.634397506713867,
+        "TSNE-2": -1.1950807571411133,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": -2.7724080085754395,
+        "TSNE-2": -3.5651726722717285,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": 4.567228317260742,
+        "TSNE-2": -5.484274864196777,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": -3.192946434020996,
+        "TSNE-2": -8.186665534973145,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 10.185236930847168,
+        "TSNE-2": 11.588132858276367,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": -4.87294340133667,
+        "TSNE-2": -5.633304595947266,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": -10.836564064025879,
+        "TSNE-2": 4.485901355743408,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": -2.006054162979126,
-        "TSNE-2": 4.73020601272583,
+        "TSNE-1": 0.15971389412879944,
+        "TSNE-2": -2.649254322052002,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": -6.073924541473389,
+        "TSNE-2": -0.34606990218162537,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": -4.985744953155518,
+        "TSNE-2": -4.520007610321045,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": -11.511679649353027,
+        "TSNE-2": -0.5448045134544373,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
+      },
+      {
+        "TSNE-1": 2.142828941345215,
+        "TSNE-2": -10.093254089355469,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 0.15971389412879944,
+        "TSNE-2": -2.649254322052002,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": -0.18288259208202362,
+        "TSNE-2": -6.126967430114746,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 8.404995918273926,
+        "TSNE-2": 6.995351791381836,
+        "cluster": 2,
+        "keywords": "mention, state, text, still, grown"
+      },
+      {
+        "TSNE-1": -4.453641891479492,
+        "TSNE-2": 2.2896885871887207,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": -7.706889629364014,
-        "TSNE-2": 4.500341892242432,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
+        "TSNE-1": 3.3322250843048096,
+        "TSNE-2": 0.5719756484031677,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
       },
       {
-        "TSNE-1": -8.63674259185791,
-        "TSNE-2": -9.448697090148926,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
+        "TSNE-1": 4.09827184677124,
+        "TSNE-2": -2.8788721561431885,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
       },
       {
-        "TSNE-1": -4.032459259033203,
-        "TSNE-2": -2.64628005027771,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": -1.0772162675857544,
-        "TSNE-2": -2.1382980346679688,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 1.8483123779296875,
-        "TSNE-2": 2.648526906967163,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -12.58989143371582,
-        "TSNE-2": 1.7217292785644531,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": -8.732352256774902,
-        "TSNE-2": -5.205176830291748,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 7.266957759857178,
-        "TSNE-2": -1.3399252891540527,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -0.5757112503051758,
-        "TSNE-2": -5.593768119812012,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": -1.0471407175064087,
-        "TSNE-2": 3.500232696533203,
+        "TSNE-1": -3.5754847526550293,
+        "TSNE-2": 5.747360706329346,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       },
       {
-        "TSNE-1": -9.95776081085205,
-        "TSNE-2": -2.125209331512451,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
+        "TSNE-1": -8.877099990844727,
+        "TSNE-2": 0.1939791440963745,
+        "cluster": 5,
+        "keywords": "million, struggle, retail, effort, quarter"
       },
       {
-        "TSNE-1": -2.5830039978027344,
-        "TSNE-2": -5.111453056335449,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 10.891357421875,
-        "TSNE-2": 5.99448299407959,
+        "TSNE-1": 12.386762619018555,
+        "TSNE-2": 3.1534125804901123,
         "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
+        "keywords": "mention, state, text, still, grown"
       },
       {
-        "TSNE-1": 1.2036683559417725,
-        "TSNE-2": 4.857326984405518,
+        "TSNE-1": 4.326575756072998,
+        "TSNE-2": -8.66649341583252,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": 4.588832378387451,
+        "TSNE-2": 4.940426349639893,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": -2.1106529235839844,
+        "TSNE-2": -10.390686988830566,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 3.4228148460388184,
+        "TSNE-2": 7.965872287750244,
+        "cluster": 1,
+        "keywords": "price, cent, product, january, gold"
+      },
+      {
+        "TSNE-1": 0.8719739317893982,
+        "TSNE-2": -10.21158218383789,
+        "cluster": 0,
+        "keywords": "dollar, loss, financial, store, company"
+      },
+      {
+        "TSNE-1": 6.502715587615967,
+        "TSNE-2": 2.602243661880493,
+        "cluster": 3,
+        "keywords": "retailer, discount, decline, competition, significant"
+      },
+      {
+        "TSNE-1": -6.991070747375488,
+        "TSNE-2": 6.188985824584961,
         "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
-      },
-      {
-        "TSNE-1": 6.010390281677246,
-        "TSNE-2": -13.28322696685791,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": 6.449678421020508,
-        "TSNE-2": 7.443583011627197,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -2.5626413822174072,
-        "TSNE-2": -1.3744686841964722,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 2.2907090187072754,
-        "TSNE-2": -1.5154576301574707,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": 11.516851425170898,
-        "TSNE-2": -8.542951583862305,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": -0.9328672289848328,
-        "TSNE-2": 5.19287109375,
-        "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
-      },
-      {
-        "TSNE-1": 10.003169059753418,
-        "TSNE-2": 1.412018895149231,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -5.7904229164123535,
-        "TSNE-2": 3.5339443683624268,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": 5.286805629730225,
-        "TSNE-2": -8.552263259887695,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": -3.828746795654297,
-        "TSNE-2": 1.6150933504104614,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": 9.999671936035156,
-        "TSNE-2": -11.069354057312012,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": -6.269402980804443,
-        "TSNE-2": -8.090991973876953,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 4.371771812438965,
-        "TSNE-2": -10.053864479064941,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": 6.3511505126953125,
-        "TSNE-2": 2.7324910163879395,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": 0.525493860244751,
-        "TSNE-2": 0.3665981590747833,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -0.37278956174850464,
-        "TSNE-2": -8.323111534118652,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 5.201024055480957,
-        "TSNE-2": 0.42192256450653076,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -3.839742660522461,
-        "TSNE-2": -3.9305026531219482,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": -7.110915660858154,
-        "TSNE-2": -3.1036155223846436,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": -1.1399985551834106,
-        "TSNE-2": -1.0025111436843872,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": -13.517245292663574,
-        "TSNE-2": 0.9390604496002197,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": -0.5311869978904724,
-        "TSNE-2": -6.252082824707031,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 9.367677688598633,
-        "TSNE-2": -6.77354097366333,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": -2.6375694274902344,
-        "TSNE-2": -3.084068775177002,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": -4.512092590332031,
-        "TSNE-2": 15.128108978271484,
-        "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
-      },
-      {
-        "TSNE-1": 2.582235097885132,
-        "TSNE-2": -4.190590858459473,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": -3.9282262325286865,
-        "TSNE-2": -0.4801034927368164,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": -1.4611839056015015,
-        "TSNE-2": -3.5209410190582275,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 3.0638062953948975,
-        "TSNE-2": 1.0543034076690674,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -4.781964302062988,
-        "TSNE-2": -6.379672527313232,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 2.582235097885132,
-        "TSNE-2": -4.190590858459473,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": 1.8400884866714478,
-        "TSNE-2": -0.5931843519210815,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -8.164185523986816,
-        "TSNE-2": 7.854189872741699,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": -11.45020580291748,
-        "TSNE-2": 3.948446750640869,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": 11.285968780517578,
-        "TSNE-2": 6.469302177429199,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": 6.3511505126953125,
-        "TSNE-2": 2.7324910163879395,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -3.5683557987213135,
-        "TSNE-2": 3.442246913909912,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": -8.732352256774902,
-        "TSNE-2": -5.205176830291748,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 10.182543754577637,
-        "TSNE-2": -9.311230659484863,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
-      },
-      {
-        "TSNE-1": -7.56210994720459,
-        "TSNE-2": 11.482403755187988,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": 0.1298154890537262,
-        "TSNE-2": 9.130745887756348,
-        "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
-      },
-      {
-        "TSNE-1": -7.072638988494873,
-        "TSNE-2": 2.641681671142578,
-        "cluster": 1,
-        "keywords": "store, cent, consumer, product, significant"
-      },
-      {
-        "TSNE-1": 5.035421848297119,
-        "TSNE-2": -2.314297676086426,
-        "cluster": 2,
-        "keywords": "due, competition, retailer, price, space"
-      },
-      {
-        "TSNE-1": -5.745147228240967,
-        "TSNE-2": -5.142078876495361,
-        "cluster": 0,
-        "keywords": "financial, company, loss, dollar, million"
-      },
-      {
-        "TSNE-1": 2.8816416263580322,
-        "TSNE-2": 6.695094108581543,
-        "cluster": 4,
-        "keywords": "gold, january, competitive, retail, dave"
-      },
-      {
-        "TSNE-1": 12.051512718200684,
-        "TSNE-2": -6.79777193069458,
-        "cluster": 3,
-        "keywords": "mention, state, text, still, grown"
+        "keywords": "bankruptcy, consumer, unable, texas, compete"
       }
     ]
   },

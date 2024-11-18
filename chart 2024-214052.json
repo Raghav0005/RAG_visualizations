@@ -7,561 +7,543 @@
     }
   },
   "data": {
-    "name": "data-f598cb9073ca99d3292bc7225701d6f5"
+    "name": "data-9cc8c73506353c21613f903e81463dbd"
   },
   "datasets": {
-    "data-f598cb9073ca99d3292bc7225701d6f5": [
+    "data-9cc8c73506353c21613f903e81463dbd": [
       {
-        "TSNE-1": 0.5042932629585266,
-        "TSNE-2": 4.220765590667725,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
+        "TSNE-1": 2.1607096195220947,
+        "TSNE-2": 10.444327354431152,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
       },
       {
-        "TSNE-1": 5.806285381317139,
-        "TSNE-2": 3.4760184288024902,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 1.8407297134399414,
-        "TSNE-2": 12.533966064453125,
+        "TSNE-1": 27.356441497802734,
+        "TSNE-2": -0.7152955532073975,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": -9.044629096984863,
-        "TSNE-2": -4.023759365081787,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
+        "TSNE-1": -25.387311935424805,
+        "TSNE-2": 3.7936689853668213,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
       },
       {
-        "TSNE-1": 1.8407297134399414,
-        "TSNE-2": 12.533966064453125,
+        "TSNE-1": 18.232364654541016,
+        "TSNE-2": -0.9862857460975647,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": 3.2862918376922607,
-        "TSNE-2": 11.746706008911133,
+        "TSNE-1": -25.387311935424805,
+        "TSNE-2": 3.7936689853668213,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
+      },
+      {
+        "TSNE-1": -24.79733657836914,
+        "TSNE-2": 1.4831455945968628,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
+      },
+      {
+        "TSNE-1": 15.933606147766113,
+        "TSNE-2": -13.318395614624023,
+        "cluster": 5,
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
+      },
+      {
+        "TSNE-1": -7.575669288635254,
+        "TSNE-2": 5.555238723754883,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 16.805789947509766,
+        "TSNE-2": 4.2271552085876465,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": 13.271233558654785,
-        "TSNE-2": -1.6644458770751953,
+        "TSNE-1": -4.390162467956543,
+        "TSNE-2": 1.5215948820114136,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 10.369757652282715,
+        "TSNE-2": -7.41609525680542,
+        "cluster": 5,
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
+      },
+      {
+        "TSNE-1": -6.91671085357666,
+        "TSNE-2": -9.912224769592285,
         "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
+        "keywords": "church, insurance, may, policy, cancel"
       },
       {
-        "TSNE-1": 6.803668022155762,
-        "TSNE-2": 6.481548309326172,
+        "TSNE-1": 5.6251726150512695,
+        "TSNE-2": -13.684085845947266,
+        "cluster": 5,
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
+      },
+      {
+        "TSNE-1": 11.113533020019531,
+        "TSNE-2": 20.021684646606445,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -4.127575397491455,
+        "TSNE-2": -4.914524555206299,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": -14.210173606872559,
+        "TSNE-2": 12.680883407592773,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
+      },
+      {
+        "TSNE-1": 15.933606147766113,
+        "TSNE-2": -13.318395614624023,
+        "cluster": 5,
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
+      },
+      {
+        "TSNE-1": 7.043562412261963,
+        "TSNE-2": 8.356257438659668,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -3.4031779766082764,
+        "TSNE-2": 9.126051902770996,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 16.431320190429688,
+        "TSNE-2": -5.28727388381958,
+        "cluster": 5,
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
+      },
+      {
+        "TSNE-1": -1.4769368171691895,
+        "TSNE-2": -6.068014144897461,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": 18.858997344970703,
+        "TSNE-2": 2.335935592651367,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": -10.817326545715332,
-        "TSNE-2": -5.091075897216797,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": -0.5452918410301208,
-        "TSNE-2": -4.815664768218994,
+        "TSNE-1": -6.227464199066162,
+        "TSNE-2": -15.392251014709473,
         "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
+        "keywords": "lead, insurer, significant, financial, higher"
       },
       {
-        "TSNE-1": 7.024265766143799,
-        "TSNE-2": 1.2240315675735474,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 5.408230304718018,
-        "TSNE-2": -2.9590563774108887,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 11.845337867736816,
-        "TSNE-2": 5.45999002456665,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": -13.629897117614746,
-        "TSNE-2": -5.365790367126465,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 2.083099365234375,
-        "TSNE-2": -0.2066085934638977,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": -3.110041618347168,
-        "TSNE-2": 9.58193588256836,
+        "TSNE-1": -11.71988296508789,
+        "TSNE-2": 5.730592250823975,
         "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
+        "keywords": "change, material, situation, false, maintenance"
       },
       {
-        "TSNE-1": 13.271233558654785,
-        "TSNE-2": -1.6644458770751953,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": -2.926220655441284,
-        "TSNE-2": 0.36867955327033997,
+        "TSNE-1": -3.7942757606506348,
+        "TSNE-2": -12.192687034606934,
         "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
+        "keywords": "lead, insurer, significant, financial, higher"
       },
       {
-        "TSNE-1": 2.1621644496917725,
-        "TSNE-2": 4.433972358703613,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": -5.647502899169922,
-        "TSNE-2": -4.479996681213379,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 2.371915817260742,
-        "TSNE-2": 1.39875066280365,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": -8.906614303588867,
-        "TSNE-2": -5.564509868621826,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 0.12673625349998474,
-        "TSNE-2": -7.432638645172119,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
-      },
-      {
-        "TSNE-1": 10.478729248046875,
-        "TSNE-2": 1.8910387754440308,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 8.288375854492188,
-        "TSNE-2": 3.6307499408721924,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": -8.086408615112305,
-        "TSNE-2": -4.715234279632568,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 2.5243163108825684,
-        "TSNE-2": 10.718067169189453,
+        "TSNE-1": 16.800100326538086,
+        "TSNE-2": 0.831824541091919,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": -1.8032405376434326,
-        "TSNE-2": -14.580162048339844,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
+        "TSNE-1": -24.83608055114746,
+        "TSNE-2": -0.6425905227661133,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
       },
       {
-        "TSNE-1": -3.2200589179992676,
-        "TSNE-2": -6.404837608337402,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": 6.243447303771973,
-        "TSNE-2": 6.042346954345703,
+        "TSNE-1": 10.666816711425781,
+        "TSNE-2": 2.444289445877075,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": 6.476410388946533,
-        "TSNE-2": -10.441082000732422,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
+        "TSNE-1": 7.526266098022461,
+        "TSNE-2": 15.782669067382812,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
       },
       {
-        "TSNE-1": 5.0099382400512695,
-        "TSNE-2": -1.5106664896011353,
+        "TSNE-1": -6.897564888000488,
+        "TSNE-2": 6.995542049407959,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 5.341470718383789,
+        "TSNE-2": 4.4609599113464355,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -6.549954414367676,
+        "TSNE-2": -6.786458969116211,
         "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
+        "keywords": "church, insurance, may, policy, cancel"
       },
       {
-        "TSNE-1": 1.509966254234314,
-        "TSNE-2": 2.029711961746216,
+        "TSNE-1": -8.905738830566406,
+        "TSNE-2": 11.069411277770996,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -12.66497802734375,
+        "TSNE-2": -5.225317001342773,
+        "cluster": 0,
+        "keywords": "church, insurance, may, policy, cancel"
+      },
+      {
+        "TSNE-1": 2.4870734214782715,
+        "TSNE-2": -10.790193557739258,
         "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
+        "keywords": "lead, insurer, significant, financial, higher"
       },
       {
-        "TSNE-1": 12.676919937133789,
-        "TSNE-2": 1.928412675857544,
+        "TSNE-1": -24.80438995361328,
+        "TSNE-2": 6.3032636642456055,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
+      },
+      {
+        "TSNE-1": -5.973446846008301,
+        "TSNE-2": 19.180646896362305,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 4.448046684265137,
+        "TSNE-2": -0.7059282660484314,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -16.144826889038086,
+        "TSNE-2": -10.089278221130371,
         "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
+        "keywords": "church, insurance, may, policy, cancel"
       },
       {
-        "TSNE-1": 8.968526840209961,
-        "TSNE-2": -2.4135031700134277,
+        "TSNE-1": 8.883993148803711,
+        "TSNE-2": 11.42241096496582,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -8.940468788146973,
+        "TSNE-2": -6.227573394775391,
         "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
+        "keywords": "church, insurance, may, policy, cancel"
       },
       {
-        "TSNE-1": 1.8751554489135742,
-        "TSNE-2": -11.34795093536377,
+        "TSNE-1": 8.51250171661377,
+        "TSNE-2": -17.276962280273438,
         "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
       },
       {
-        "TSNE-1": 3.3712759017944336,
-        "TSNE-2": 13.154088973999023,
+        "TSNE-1": 1.2674834728240967,
+        "TSNE-2": -6.6078691482543945,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": 9.361809730529785,
+        "TSNE-2": -11.39159870147705,
+        "cluster": 5,
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
+      },
+      {
+        "TSNE-1": 2.799445390701294,
+        "TSNE-2": 6.031579971313477,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 15.03348445892334,
+        "TSNE-2": 8.202207565307617,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": -2.7063519954681396,
-        "TSNE-2": -9.031007766723633,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
+        "TSNE-1": -4.390162467956543,
+        "TSNE-2": 1.5215948820114136,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
       },
       {
-        "TSNE-1": 2.3198142051696777,
-        "TSNE-2": -3.58784556388855,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": 8.342130661010742,
-        "TSNE-2": -7.021204471588135,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 5.152496814727783,
-        "TSNE-2": -4.877455234527588,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 6.668426990509033,
-        "TSNE-2": -1.6546454429626465,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 9.405644416809082,
-        "TSNE-2": 7.497467041015625,
+        "TSNE-1": 13.372087478637695,
+        "TSNE-2": 13.580761909484863,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": 7.786811351776123,
-        "TSNE-2": -3.616889476776123,
+        "TSNE-1": -8.150156021118164,
+        "TSNE-2": -2.1466643810272217,
         "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
+        "keywords": "church, insurance, may, policy, cancel"
       },
       {
-        "TSNE-1": -3.439497232437134,
-        "TSNE-2": 5.327517986297607,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": -7.580657958984375,
-        "TSNE-2": 7.0246453285217285,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": -10.522355079650879,
-        "TSNE-2": -0.7461981177330017,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": -0.5452918410301208,
-        "TSNE-2": -4.815664768218994,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": 9.640073776245117,
-        "TSNE-2": -1.212663173675537,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 9.993409156799316,
-        "TSNE-2": -4.703744888305664,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": -11.571011543273926,
-        "TSNE-2": -3.0325748920440674,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 6.0099382400512695,
-        "TSNE-2": -1.7846578359603882,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 6.550207614898682,
-        "TSNE-2": 1.7061103582382202,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 1.2800722122192383,
-        "TSNE-2": -0.9837114214897156,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": -6.14113712310791,
-        "TSNE-2": -3.1551644802093506,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": -0.6838703155517578,
-        "TSNE-2": -0.4149581789970398,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": -8.116423606872559,
-        "TSNE-2": -1.6097583770751953,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 3.417813301086426,
-        "TSNE-2": 3.2883286476135254,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": -8.497151374816895,
-        "TSNE-2": -6.67386531829834,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 6.497699737548828,
-        "TSNE-2": 9.318333625793457,
+        "TSNE-1": 19.541460037231445,
+        "TSNE-2": 8.346813201904297,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": 3.871056318283081,
-        "TSNE-2": 7.609320163726807,
+        "TSNE-1": -8.66299057006836,
+        "TSNE-2": -8.130715370178223,
+        "cluster": 0,
+        "keywords": "church, insurance, may, policy, cancel"
+      },
+      {
+        "TSNE-1": 10.625384330749512,
+        "TSNE-2": -9.157747268676758,
+        "cluster": 5,
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
+      },
+      {
+        "TSNE-1": -1.9628822803497314,
+        "TSNE-2": -4.206462860107422,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": 14.294916152954102,
+        "TSNE-2": -3.3934106826782227,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": 9.665118217468262,
-        "TSNE-2": 1.3814975023269653,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": -6.737457275390625,
-        "TSNE-2": 5.750507354736328,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": 1.8751554489135742,
-        "TSNE-2": -11.34795093536377,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
-      },
-      {
-        "TSNE-1": -0.29395318031311035,
-        "TSNE-2": 2.530040979385376,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": 2.177359104156494,
-        "TSNE-2": 5.504611015319824,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": -2.4582982063293457,
-        "TSNE-2": 2.159611225128174,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": 3.402365207672119,
-        "TSNE-2": -1.3460133075714111,
+        "TSNE-1": 1.5391418933868408,
+        "TSNE-2": -14.81814193725586,
         "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
+        "keywords": "lead, insurer, significant, financial, higher"
       },
       {
-        "TSNE-1": -7.507219314575195,
-        "TSNE-2": -3.503209352493286,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 4.523305892944336,
-        "TSNE-2": -0.011074230074882507,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": -3.110041618347168,
-        "TSNE-2": 9.58193588256836,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": -2.88116455078125,
-        "TSNE-2": -2.5184316635131836,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": 3.7407546043395996,
-        "TSNE-2": 1.4651228189468384,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": -0.19330757856369019,
-        "TSNE-2": -2.486565113067627,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": -9.312335968017578,
-        "TSNE-2": -8.672908782958984,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 5.09514045715332,
-        "TSNE-2": -7.012782096862793,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
-      },
-      {
-        "TSNE-1": -2.88116455078125,
-        "TSNE-2": -2.5184316635131836,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": 2.457082986831665,
-        "TSNE-2": -6.548250675201416,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
-      },
-      {
-        "TSNE-1": -10.528301239013672,
-        "TSNE-2": -2.79880428314209,
-        "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
-      },
-      {
-        "TSNE-1": 0.3765255808830261,
-        "TSNE-2": 1.0043258666992188,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": -4.5856523513793945,
-        "TSNE-2": 3.829965829849243,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": 1.8751554489135742,
-        "TSNE-2": -11.34795093536377,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
-      },
-      {
-        "TSNE-1": -1.2876495122909546,
-        "TSNE-2": 5.928364276885986,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": 2.3198142051696777,
-        "TSNE-2": -3.58784556388855,
-        "cluster": 3,
-        "keywords": "risk, liability, need, insurer, face"
-      },
-      {
-        "TSNE-1": -0.9912545680999756,
-        "TSNE-2": -15.091703414916992,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
-      },
-      {
-        "TSNE-1": -4.083152770996094,
-        "TSNE-2": -12.245304107666016,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
-      },
-      {
-        "TSNE-1": 11.688663482666016,
-        "TSNE-2": -8.27696704864502,
-        "cluster": 0,
-        "keywords": "church, insurance, policy, cancel, may"
-      },
-      {
-        "TSNE-1": 0.6961501836776733,
-        "TSNE-2": 7.064173698425293,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": 3.8352906703948975,
-        "TSNE-2": 5.299665451049805,
+        "TSNE-1": 13.054943084716797,
+        "TSNE-2": 1.925184965133667,
         "cluster": 2,
-        "keywords": "change, material, many, situation, home"
+        "keywords": "mention, context, discusses, reason, home"
       },
       {
-        "TSNE-1": -1.1186307668685913,
-        "TSNE-2": 3.946718454360962,
-        "cluster": 4,
-        "keywords": "coverage, property, unique, cover, often"
-      },
-      {
-        "TSNE-1": 6.476410388946533,
-        "TSNE-2": -10.441082000732422,
-        "cluster": 5,
-        "keywords": "nan, possibility, consequence, claim, limit"
-      },
-      {
-        "TSNE-1": -6.815513610839844,
-        "TSNE-2": -6.855140209197998,
+        "TSNE-1": -4.558502674102783,
+        "TSNE-2": 13.281517028808594,
         "cluster": 1,
-        "keywords": "mention, context, discusses, company, reason"
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 21.016643524169922,
+        "TSNE-2": 0.708299994468689,
+        "cluster": 2,
+        "keywords": "mention, context, discusses, reason, home"
+      },
+      {
+        "TSNE-1": -4.743223190307617,
+        "TSNE-2": -2.3453938961029053,
+        "cluster": 0,
+        "keywords": "church, insurance, may, policy, cancel"
+      },
+      {
+        "TSNE-1": -11.129799842834473,
+        "TSNE-2": -10.8035249710083,
+        "cluster": 0,
+        "keywords": "church, insurance, may, policy, cancel"
+      },
+      {
+        "TSNE-1": 3.742257833480835,
+        "TSNE-2": -4.839148998260498,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": -11.664297103881836,
+        "TSNE-2": -1.4776843786239624,
+        "cluster": 0,
+        "keywords": "church, insurance, may, policy, cancel"
+      },
+      {
+        "TSNE-1": 1.0330830812454224,
+        "TSNE-2": 2.1536760330200195,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -1.6759960651397705,
+        "TSNE-2": 10.836423873901367,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -10.54080581665039,
+        "TSNE-2": -15.682402610778809,
+        "cluster": 0,
+        "keywords": "church, insurance, may, policy, cancel"
+      },
+      {
+        "TSNE-1": -3.7991693019866943,
+        "TSNE-2": -8.66769790649414,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": 14.991047859191895,
+        "TSNE-2": -0.9171962141990662,
+        "cluster": 2,
+        "keywords": "mention, context, discusses, reason, home"
+      },
+      {
+        "TSNE-1": -0.9566909074783325,
+        "TSNE-2": -10.645060539245605,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": -14.210173606872559,
+        "TSNE-2": 12.680883407592773,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
+      },
+      {
+        "TSNE-1": -16.123233795166016,
+        "TSNE-2": 1.7977070808410645,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
+      },
+      {
+        "TSNE-1": -1.8180763721466064,
+        "TSNE-2": -15.591094970703125,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": -3.195077657699585,
+        "TSNE-2": 4.977724075317383,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 22.649503707885742,
+        "TSNE-2": 4.108465671539307,
+        "cluster": 2,
+        "keywords": "mention, context, discusses, reason, home"
+      },
+      {
+        "TSNE-1": -4.022072792053223,
+        "TSNE-2": -19.974855422973633,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": -16.123233795166016,
+        "TSNE-2": 1.7977070808410645,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
+      },
+      {
+        "TSNE-1": -1.5044636726379395,
+        "TSNE-2": -0.38607171177864075,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 18.101829528808594,
+        "TSNE-2": 6.692790985107422,
+        "cluster": 2,
+        "keywords": "mention, context, discusses, reason, home"
+      },
+      {
+        "TSNE-1": 0.5282829999923706,
+        "TSNE-2": -2.565737724304199,
+        "cluster": 3,
+        "keywords": "lead, insurer, significant, financial, higher"
+      },
+      {
+        "TSNE-1": -17.403764724731445,
+        "TSNE-2": -4.962764739990234,
+        "cluster": 0,
+        "keywords": "church, insurance, may, policy, cancel"
+      },
+      {
+        "TSNE-1": 5.720993518829346,
+        "TSNE-2": -7.8085808753967285,
+        "cluster": 5,
+        "keywords": "vehicle, mutual, brotherhood, provide, use"
+      },
+      {
+        "TSNE-1": 4.448046684265137,
+        "TSNE-2": -0.7059282660484314,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 11.429359436035156,
+        "TSNE-2": 4.3338494300842285,
+        "cluster": 2,
+        "keywords": "mention, context, discusses, reason, home"
+      },
+      {
+        "TSNE-1": -15.983857154846191,
+        "TSNE-2": -15.573049545288086,
+        "cluster": 0,
+        "keywords": "church, insurance, may, policy, cancel"
+      },
+      {
+        "TSNE-1": -10.40705394744873,
+        "TSNE-2": 1.8320618867874146,
+        "cluster": 4,
+        "keywords": "change, material, situation, false, maintenance"
+      },
+      {
+        "TSNE-1": -0.5281974077224731,
+        "TSNE-2": 16.390907287597656,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": -0.8833791017532349,
+        "TSNE-2": 7.76043701171875,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 3.1123945713043213,
+        "TSNE-2": 13.65449047088623,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 5.341470718383789,
+        "TSNE-2": 4.4609599113464355,
+        "cluster": 1,
+        "keywords": "liability, coverage, company, risk, claim"
+      },
+      {
+        "TSNE-1": 20.80510139465332,
+        "TSNE-2": -2.4907450675964355,
+        "cluster": 2,
+        "keywords": "mention, context, discusses, reason, home"
       }
     ]
   },

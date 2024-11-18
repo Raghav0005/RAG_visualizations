@@ -7,567 +7,561 @@
     }
   },
   "data": {
-    "name": "data-5296df30c325a69e291049cc83f694f6"
+    "name": "data-60a7f70d2ea10636837da756412ee8a7"
   },
   "datasets": {
-    "data-5296df30c325a69e291049cc83f694f6": [
+    "data-60a7f70d2ea10636837da756412ee8a7": [
       {
-        "TSNE-1": 8.820725440979004,
-        "TSNE-2": -1.4472686052322388,
-        "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "TSNE-1": 0.0403067022562027,
+        "TSNE-2": -15.556038856506348,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
       },
       {
-        "TSNE-1": 4.212648868560791,
-        "TSNE-2": 8.562735557556152,
+        "TSNE-1": 0.08138532936573029,
+        "TSNE-2": 13.822746276855469,
         "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
+        "keywords": "support, electoral, clear, candidate, specific"
       },
       {
-        "TSNE-1": -7.206977844238281,
-        "TSNE-2": 16.03707504272461,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
+        "TSNE-1": 20.98749542236328,
+        "TSNE-2": 7.6646409034729,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
       },
       {
-        "TSNE-1": -4.507047653198242,
-        "TSNE-2": 4.599208354949951,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
+        "TSNE-1": 2.4799044132232666,
+        "TSNE-2": -5.2176337242126465,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
       },
       {
-        "TSNE-1": -7.206977844238281,
-        "TSNE-2": 16.03707504272461,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
+        "TSNE-1": 20.98749542236328,
+        "TSNE-2": 7.6646409034729,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
       },
       {
-        "TSNE-1": -29.873262405395508,
-        "TSNE-2": -3.4021449089050293,
+        "TSNE-1": 2.9098434448242188,
+        "TSNE-2": -12.820429801940918,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 7.691376686096191,
+        "TSNE-2": 2.2966978549957275,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
+      },
+      {
+        "TSNE-1": -11.405519485473633,
+        "TSNE-2": 11.374598503112793,
         "cluster": 5,
-        "keywords": "nan, youngberg, existence, exercise, executive"
+        "keywords": "answer, three, kind, attempt, may"
       },
       {
-        "TSNE-1": -12.181581497192383,
-        "TSNE-2": 3.230116605758667,
+        "TSNE-1": -16.10051155090332,
+        "TSNE-2": 5.8936896324157715,
+        "cluster": 5,
+        "keywords": "answer, three, kind, attempt, may"
+      },
+      {
+        "TSNE-1": 2.554999828338623,
+        "TSNE-2": 19.383865356445312,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": -7.9310078620910645,
+        "TSNE-2": -13.335342407226562,
         "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
+        "keywords": "people, president, prefer, representative, special"
       },
       {
-        "TSNE-1": 8.219956398010254,
-        "TSNE-2": -9.584610939025879,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": -13.047786712646484,
-        "TSNE-2": -1.9837751388549805,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 16.831525802612305,
-        "TSNE-2": -1.4959096908569336,
+        "TSNE-1": -1.2333271503448486,
+        "TSNE-2": 2.7174949645996094,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": -8.865771293640137,
-        "TSNE-2": -12.662556648254395,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": -9.567802429199219,
-        "TSNE-2": -5.404845237731934,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 7.22822380065918,
-        "TSNE-2": -3.009427309036255,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": 1.719225525856018,
-        "TSNE-2": -4.977322578430176,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": 16.831525802612305,
-        "TSNE-2": -1.4959096908569336,
+        "TSNE-1": -5.682374477386475,
+        "TSNE-2": 5.881030559539795,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": 5.196446418762207,
-        "TSNE-2": -2.803339719772339,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
+        "TSNE-1": -16.10051155090332,
+        "TSNE-2": 5.8936896324157715,
+        "cluster": 5,
+        "keywords": "answer, three, kind, attempt, may"
       },
       {
-        "TSNE-1": 1.1164968013763428,
-        "TSNE-2": 15.675230026245117,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 8.219956398010254,
-        "TSNE-2": -9.584610939025879,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": -4.4916276931762695,
-        "TSNE-2": -11.500795364379883,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": -6.8165740966796875,
-        "TSNE-2": -7.199334144592285,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 17.198686599731445,
-        "TSNE-2": 0.959263265132904,
+        "TSNE-1": 0.9268969297409058,
+        "TSNE-2": 6.648344039916992,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": -6.5867815017700195,
-        "TSNE-2": -3.537480115890503,
+        "TSNE-1": 15.922186851501465,
+        "TSNE-2": 4.635928153991699,
         "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
+        "keywords": "mandate, presidential, policy, voter, election"
       },
       {
-        "TSNE-1": -18.060977935791016,
-        "TSNE-2": 2.1588306427001953,
+        "TSNE-1": 7.691376686096191,
+        "TSNE-2": 2.2966978549957275,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
+      },
+      {
+        "TSNE-1": 3.261019229888916,
+        "TSNE-2": 12.775227546691895,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": -11.634896278381348,
+        "TSNE-2": -8.930011749267578,
         "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
+        "keywords": "people, president, prefer, representative, special"
       },
       {
-        "TSNE-1": 10.852974891662598,
-        "TSNE-2": 3.0208048820495605,
+        "TSNE-1": -16.576229095458984,
+        "TSNE-2": 8.804008483886719,
+        "cluster": 5,
+        "keywords": "answer, three, kind, attempt, may"
+      },
+      {
+        "TSNE-1": 9.541220664978027,
+        "TSNE-2": -16.283039093017578,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": -19.731523513793945,
+        "TSNE-2": 5.810399532318115,
+        "cluster": 5,
+        "keywords": "answer, three, kind, attempt, may"
+      },
+      {
+        "TSNE-1": -7.316668510437012,
+        "TSNE-2": 8.505471229553223,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": 4.943728446960449,
-        "TSNE-2": -4.699132919311523,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": 10.746257781982422,
-        "TSNE-2": -4.657887935638428,
+        "TSNE-1": -2.4676895141601562,
+        "TSNE-2": 5.006840229034424,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": -2.595248222351074,
-        "TSNE-2": 1.7694029808044434,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": -6.722177505493164,
-        "TSNE-2": 8.21951675415039,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": 16.831525802612305,
-        "TSNE-2": -1.4959096908569336,
+        "TSNE-1": 4.208488941192627,
+        "TSNE-2": 3.890711545944214,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": -13.949907302856445,
-        "TSNE-2": -6.0315117835998535,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": -10.495336532592773,
-        "TSNE-2": -1.3330856561660767,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 5.570601940155029,
-        "TSNE-2": 0.7250455617904663,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 8.239880561828613,
-        "TSNE-2": -4.262846946716309,
+        "TSNE-1": 2.7628259658813477,
+        "TSNE-2": -7.220681667327881,
         "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
+        "keywords": "majority, article, lofty, never, state"
       },
       {
-        "TSNE-1": 1.234449028968811,
-        "TSNE-2": -1.6596744060516357,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": -3.521383285522461,
-        "TSNE-2": -0.989298939704895,
+        "TSNE-1": 14.986961364746094,
+        "TSNE-2": -7.144110202789307,
         "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
+        "keywords": "mandate, presidential, policy, voter, election"
       },
       {
-        "TSNE-1": 2.8151776790618896,
-        "TSNE-2": -7.949780464172363,
+        "TSNE-1": -16.10051155090332,
+        "TSNE-2": 5.8936896324157715,
+        "cluster": 5,
+        "keywords": "answer, three, kind, attempt, may"
+      },
+      {
+        "TSNE-1": 4.350034236907959,
+        "TSNE-2": -16.22935676574707,
         "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
+        "keywords": "majority, article, lofty, never, state"
       },
       {
-        "TSNE-1": -2.8935513496398926,
-        "TSNE-2": -7.8579487800598145,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 0.22140194475650787,
-        "TSNE-2": 8.59956169128418,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": -0.5027788877487183,
-        "TSNE-2": -14.640148162841797,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": 7.988204002380371,
-        "TSNE-2": 9.445778846740723,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 10.168292045593262,
-        "TSNE-2": 5.820708274841309,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 4.652781963348389,
-        "TSNE-2": 4.313712120056152,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 8.449854850769043,
-        "TSNE-2": -5.322070121765137,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": 4.241058349609375,
-        "TSNE-2": -10.921473503112793,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": -1.652863621711731,
-        "TSNE-2": -9.031262397766113,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": -3.069533109664917,
-        "TSNE-2": -3.2064127922058105,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 2.7167627811431885,
-        "TSNE-2": -14.995667457580566,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": -5.408595085144043,
-        "TSNE-2": 1.0534183979034424,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": -8.865771293640137,
-        "TSNE-2": -12.662556648254395,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 1.2530046701431274,
-        "TSNE-2": -8.2438325881958,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": -11.646920204162598,
-        "TSNE-2": 9.49694538116455,
+        "TSNE-1": -4.0338945388793945,
+        "TSNE-2": -10.748069763183594,
         "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
+        "keywords": "people, president, prefer, representative, special"
       },
       {
-        "TSNE-1": 16.831525802612305,
-        "TSNE-2": -1.4959096908569336,
+        "TSNE-1": -13.617687225341797,
+        "TSNE-2": -5.0771660804748535,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": 0.7809401750564575,
+        "TSNE-2": 3.0612995624542236,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": 6.959374904632568,
-        "TSNE-2": -6.761111736297607,
+        "TSNE-1": 3.908262252807617,
+        "TSNE-2": 10.214532852172852,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": 8.77336311340332,
+        "TSNE-2": -10.000547409057617,
         "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
+        "keywords": "majority, article, lofty, never, state"
       },
       {
-        "TSNE-1": -3.069533109664917,
-        "TSNE-2": -3.2064127922058105,
+        "TSNE-1": 8.360974311828613,
+        "TSNE-2": 8.435492515563965,
         "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
+        "keywords": "mandate, presidential, policy, voter, election"
       },
       {
-        "TSNE-1": 2.9891116619110107,
-        "TSNE-2": -3.1141557693481445,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
+        "TSNE-1": 10.682452201843262,
+        "TSNE-2": -2.9993393421173096,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
       },
       {
-        "TSNE-1": -4.27832555770874,
-        "TSNE-2": 2.5484917163848877,
+        "TSNE-1": -5.940920352935791,
+        "TSNE-2": -2.762033462524414,
         "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
+        "keywords": "people, president, prefer, representative, special"
       },
       {
-        "TSNE-1": 2.150132179260254,
-        "TSNE-2": -0.30800187587738037,
+        "TSNE-1": -2.684844970703125,
+        "TSNE-2": 10.348450660705566,
         "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
+        "keywords": "support, electoral, clear, candidate, specific"
       },
       {
-        "TSNE-1": -3.6459763050079346,
-        "TSNE-2": 6.346772193908691,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": 1.4027167558670044,
-        "TSNE-2": 2.5757699012756348,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 11.680244445800781,
-        "TSNE-2": 0.036247000098228455,
+        "TSNE-1": -5.856083393096924,
+        "TSNE-2": 1.5153816938400269,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": -4.617650508880615,
-        "TSNE-2": 10.408166885375977,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": -12.164413452148438,
-        "TSNE-2": 10.396758079528809,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": -7.209502696990967,
-        "TSNE-2": 4.0766754150390625,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": -6.306961536407471,
-        "TSNE-2": -1.6774094104766846,
+        "TSNE-1": 21.46809959411621,
+        "TSNE-2": -2.172752618789673,
         "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
+        "keywords": "mandate, presidential, policy, voter, election"
       },
       {
-        "TSNE-1": -1.580112338066101,
-        "TSNE-2": -6.2981648445129395,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 6.899408340454102,
-        "TSNE-2": -12.601685523986816,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": -9.445785522460938,
-        "TSNE-2": 5.482918739318848,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": 10.74465560913086,
-        "TSNE-2": -7.613376140594482,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": 6.331234455108643,
-        "TSNE-2": 5.485309600830078,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": -3.6681878566741943,
-        "TSNE-2": 0.9302207231521606,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 5.779408931732178,
-        "TSNE-2": 3.8646605014801025,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 1.1164968013763428,
-        "TSNE-2": 15.675230026245117,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 1.1301624774932861,
-        "TSNE-2": 5.354535102844238,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": -9.933186531066895,
-        "TSNE-2": 10.291377067565918,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": -4.530985355377197,
-        "TSNE-2": -5.641241073608398,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 0.9322595596313477,
-        "TSNE-2": 10.349781036376953,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 9.493870735168457,
-        "TSNE-2": 12.868186950683594,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": 1.1301624774932861,
-        "TSNE-2": 5.354535102844238,
-        "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
-      },
-      {
-        "TSNE-1": -6.847476959228516,
-        "TSNE-2": 2.7298483848571777,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": -6.850821495056152,
-        "TSNE-2": 0.41947752237319946,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 8.926190376281738,
-        "TSNE-2": 2.364879846572876,
+        "TSNE-1": 3.0866360664367676,
+        "TSNE-2": -0.7575386762619019,
         "cluster": 2,
-        "keywords": "electoral, real, article, political, victory"
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": -9.567802429199219,
-        "TSNE-2": -5.404845237731934,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
+        "TSNE-1": 1.6122645139694214,
+        "TSNE-2": 4.161320209503174,
+        "cluster": 2,
+        "keywords": "political, idea, perception, concept, rather"
       },
       {
-        "TSNE-1": -4.617650508880615,
-        "TSNE-2": 10.408166885375977,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": 5.1770501136779785,
-        "TSNE-2": -7.141308307647705,
+        "TSNE-1": 6.383388996124268,
+        "TSNE-2": -1.7140893936157227,
         "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
+        "keywords": "majority, article, lofty, never, state"
       },
       {
-        "TSNE-1": 7.988204002380371,
-        "TSNE-2": 9.445778846740723,
+        "TSNE-1": 11.058834075927734,
+        "TSNE-2": -0.9506943821907043,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
+      },
+      {
+        "TSNE-1": -5.633355140686035,
+        "TSNE-2": -7.310697555541992,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": -13.964611053466797,
+        "TSNE-2": -9.240720748901367,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": 5.672352313995361,
+        "TSNE-2": -9.441981315612793,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 2.554999828338623,
+        "TSNE-2": 19.383865356445312,
         "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
+        "keywords": "support, electoral, clear, candidate, specific"
       },
       {
-        "TSNE-1": -2.57908296585083,
-        "TSNE-2": 5.457693099975586,
-        "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
-      },
-      {
-        "TSNE-1": -12.382952690124512,
-        "TSNE-2": -0.2765876352787018,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 0.5104079842567444,
-        "TSNE-2": -11.425329208374023,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": 3.583984613418579,
-        "TSNE-2": -1.6804537773132324,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": -8.452628135681152,
-        "TSNE-2": -2.086663007736206,
-        "cluster": 0,
-        "keywords": "presidential, mandate, prefer, president, policy"
-      },
-      {
-        "TSNE-1": 10.645553588867188,
-        "TSNE-2": -11.099560737609863,
-        "cluster": 3,
-        "keywords": "often, support, idea, rather, myth"
-      },
-      {
-        "TSNE-1": 5.570601940155029,
-        "TSNE-2": 0.7250455617904663,
+        "TSNE-1": 7.96422815322876,
+        "TSNE-2": 10.361714363098145,
         "cluster": 4,
-        "keywords": "candidate, concept, congress, specific, pas"
+        "keywords": "support, electoral, clear, candidate, specific"
       },
       {
-        "TSNE-1": -8.851149559020996,
-        "TSNE-2": 2.1630361080169678,
+        "TSNE-1": -9.997881889343262,
+        "TSNE-2": -1.5720829963684082,
         "cluster": 1,
-        "keywords": "voter, majority, never, document, election"
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": -16.10051155090332,
+        "TSNE-2": 5.8936896324157715,
+        "cluster": 5,
+        "keywords": "answer, three, kind, attempt, may"
+      },
+      {
+        "TSNE-1": -2.872842311859131,
+        "TSNE-2": -2.77097487449646,
+        "cluster": 2,
+        "keywords": "political, idea, perception, concept, rather"
+      },
+      {
+        "TSNE-1": -5.633355140686035,
+        "TSNE-2": -7.310697555541992,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": -1.3561272621154785,
+        "TSNE-2": 7.813259601593018,
+        "cluster": 2,
+        "keywords": "political, idea, perception, concept, rather"
+      },
+      {
+        "TSNE-1": 2.5612876415252686,
+        "TSNE-2": -8.9866304397583,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 1.799932837486267,
+        "TSNE-2": 10.747283935546875,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": 0.9977605938911438,
+        "TSNE-2": -4.251622200012207,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 5.688782691955566,
+        "TSNE-2": 15.161849021911621,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": 0.6160948872566223,
+        "TSNE-2": -7.615789890289307,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 15.615431785583496,
+        "TSNE-2": -2.998573064804077,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
+      },
+      {
+        "TSNE-1": -11.295462608337402,
+        "TSNE-2": -1.3222099542617798,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": 6.054689884185791,
+        "TSNE-2": -5.498685359954834,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 0.008843066170811653,
+        "TSNE-2": -10.52328109741211,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 10.896363258361816,
+        "TSNE-2": -5.812934875488281,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 5.008391857147217,
+        "TSNE-2": 7.000117778778076,
+        "cluster": 2,
+        "keywords": "political, idea, perception, concept, rather"
+      },
+      {
+        "TSNE-1": 12.577075958251953,
+        "TSNE-2": 7.665364742279053,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
+      },
+      {
+        "TSNE-1": -5.050732135772705,
+        "TSNE-2": 12.425371170043945,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": 0.20917010307312012,
+        "TSNE-2": -0.2538403868675232,
+        "cluster": 2,
+        "keywords": "political, idea, perception, concept, rather"
+      },
+      {
+        "TSNE-1": 4.179553985595703,
+        "TSNE-2": -7.094526290893555,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 1.9638134241104126,
+        "TSNE-2": 0.13788434863090515,
+        "cluster": 2,
+        "keywords": "political, idea, perception, concept, rather"
+      },
+      {
+        "TSNE-1": 15.922186851501465,
+        "TSNE-2": 4.635928153991699,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
+      },
+      {
+        "TSNE-1": -6.167459487915039,
+        "TSNE-2": 16.82775115966797,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": -9.554046630859375,
+        "TSNE-2": -3.7154674530029297,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": -8.040143966674805,
+        "TSNE-2": -9.528961181640625,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": -9.530424118041992,
+        "TSNE-2": 2.9718680381774902,
+        "cluster": 5,
+        "keywords": "answer, three, kind, attempt, may"
+      },
+      {
+        "TSNE-1": -14.435745239257812,
+        "TSNE-2": -0.8761923313140869,
+        "cluster": 5,
+        "keywords": "answer, three, kind, attempt, may"
+      },
+      {
+        "TSNE-1": -6.167459487915039,
+        "TSNE-2": 16.82775115966797,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": 6.728190898895264,
+        "TSNE-2": -7.2305169105529785,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 3.977566957473755,
+        "TSNE-2": -10.448400497436523,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": -4.984956741333008,
+        "TSNE-2": 8.405091285705566,
+        "cluster": 2,
+        "keywords": "political, idea, perception, concept, rather"
+      },
+      {
+        "TSNE-1": -7.9310078620910645,
+        "TSNE-2": -13.335342407226562,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": 15.615431785583496,
+        "TSNE-2": -2.998573064804077,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
+      },
+      {
+        "TSNE-1": 6.833471775054932,
+        "TSNE-2": -13.071881294250488,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": -5.856083393096924,
+        "TSNE-2": 1.5153816938400269,
+        "cluster": 2,
+        "keywords": "political, idea, perception, concept, rather"
+      },
+      {
+        "TSNE-1": -0.1624416708946228,
+        "TSNE-2": -3.383690118789673,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": -2.204592227935791,
+        "TSNE-2": -12.548006057739258,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": -4.369678497314453,
+        "TSNE-2": -17.55535316467285,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 0.8203303813934326,
+        "TSNE-2": 8.853754043579102,
+        "cluster": 4,
+        "keywords": "support, electoral, clear, candidate, specific"
+      },
+      {
+        "TSNE-1": -2.815326452255249,
+        "TSNE-2": -8.75379467010498,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
+      },
+      {
+        "TSNE-1": 10.447173118591309,
+        "TSNE-2": 3.2110655307769775,
+        "cluster": 0,
+        "keywords": "mandate, presidential, policy, voter, election"
+      },
+      {
+        "TSNE-1": -13.617687225341797,
+        "TSNE-2": -5.0771660804748535,
+        "cluster": 1,
+        "keywords": "people, president, prefer, representative, special"
+      },
+      {
+        "TSNE-1": 8.060249328613281,
+        "TSNE-2": -5.338456153869629,
+        "cluster": 3,
+        "keywords": "majority, article, lofty, never, state"
       }
     ]
   },

@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-823c20718886f517a39f0089677bfad1"
+    "name": "data-a5f17ed8bdb266b7c314974fa5206f52"
   },
   "datasets": {
-    "data-823c20718886f517a39f0089677bfad1": [
+    "data-a5f17ed8bdb266b7c314974fa5206f52": [
       {
-        "TSNE-1": -6.364948749542236,
-        "TSNE-2": -3.8934340476989746,
+        "TSNE-1": 4.701888561248779,
+        "TSNE-2": -8.185379981994629,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": 1.1627336740493774,
+        "TSNE-2": 7.471368789672852,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": -10.01491928100586,
+        "TSNE-2": 1.8223876953125,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": -17.045740127563477,
+        "TSNE-2": -1.2989625930786133,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": -10.01491928100586,
+        "TSNE-2": 1.8223876953125,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": -3.2696361541748047,
+        "TSNE-2": -3.300394296646118,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -11.818001747131348,
+        "TSNE-2": 2.245332717895508,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": 13.78995132446289,
+        "TSNE-2": 8.463958740234375,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": 15.291668891906738,
+        "TSNE-2": -6.213456630706787,
         "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
+        "keywords": "document, upload, design, online, option"
       },
       {
-        "TSNE-1": -9.765169143676758,
-        "TSNE-2": 3.860154867172241,
+        "TSNE-1": -17.004615783691406,
+        "TSNE-2": 5.366512775421143,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": 1.8740971088409424,
+        "TSNE-2": 12.005248069763184,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": -9.561138153076172,
+        "TSNE-2": -10.29613208770752,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": 5.991608619689941,
+        "TSNE-2": 3.5940394401550293,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": 6.892160415649414,
+        "TSNE-2": 10.173478126525879,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": -2.4223411083221436,
+        "TSNE-2": 10.76601505279541,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": -8.470589637756348,
+        "TSNE-2": 9.340194702148438,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": 10.445890426635742,
+        "TSNE-2": 14.720582962036133,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": 13.78995132446289,
+        "TSNE-2": 8.463958740234375,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": -12.221495628356934,
+        "TSNE-2": -14.501076698303223,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -0.950944721698761,
+        "TSNE-2": 14.772859573364258,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": 10.542808532714844,
+        "TSNE-2": 7.562736988067627,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": 3.288621187210083,
+        "TSNE-2": -12.877643585205078,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": 11.531126022338867,
+        "TSNE-2": 6.714351177215576,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": 2.815786838531494,
+        "TSNE-2": -17.53227424621582,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": -4.5173468589782715,
+        "TSNE-2": -0.36146482825279236,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": 6.811097145080566,
+        "TSNE-2": -9.364312171936035,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": -15.207462310791016,
+        "TSNE-2": -2.2407655715942383,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": 10.847302436828613,
+        "TSNE-2": -0.5424493551254272,
         "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
+        "keywords": "document, upload, design, online, option"
       },
       {
-        "TSNE-1": 4.063913345336914,
-        "TSNE-2": 7.1466593742370605,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -3.669623374938965,
-        "TSNE-2": 4.360849380493164,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": 4.063913345336914,
-        "TSNE-2": 7.1466593742370605,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": 12.225163459777832,
-        "TSNE-2": 1.5159399509429932,
+        "TSNE-1": -19.915729522705078,
+        "TSNE-2": -1.026271104812622,
         "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
+        "keywords": "multimedia, information, provide, element, allows"
       },
       {
-        "TSNE-1": 4.852775573730469,
-        "TSNE-2": 6.378427028656006,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -3.292293071746826,
-        "TSNE-2": -2.658799886703491,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -3.7214484214782715,
-        "TSNE-2": 12.24788761138916,
+        "TSNE-1": 6.470670700073242,
+        "TSNE-2": 17.88648796081543,
         "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
+        "keywords": "question, include, enhance, engagement, link"
       },
       {
-        "TSNE-1": 9.241268157958984,
-        "TSNE-2": -0.13767167925834656,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": -7.584031105041504,
-        "TSNE-2": -7.477936267852783,
-        "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
-      },
-      {
-        "TSNE-1": -7.565460205078125,
-        "TSNE-2": 6.890246868133545,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": -2.5257790088653564,
-        "TSNE-2": -6.281433582305908,
-        "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
-      },
-      {
-        "TSNE-1": -2.147218942642212,
-        "TSNE-2": 5.299353122711182,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": 8.590893745422363,
-        "TSNE-2": 5.908574104309082,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": 3.255889892578125,
-        "TSNE-2": -5.926992893218994,
-        "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
-      },
-      {
-        "TSNE-1": 8.365157127380371,
-        "TSNE-2": -5.535055160522461,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": -3.292293071746826,
-        "TSNE-2": -2.658799886703491,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 1.1466907262802124,
-        "TSNE-2": -6.971797466278076,
-        "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
-      },
-      {
-        "TSNE-1": -4.276607036590576,
-        "TSNE-2": -7.681996822357178,
-        "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
-      },
-      {
-        "TSNE-1": -7.781544208526611,
-        "TSNE-2": 1.6502187252044678,
+        "TSNE-1": 12.451142311096191,
+        "TSNE-2": -9.145370483398438,
         "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
+        "keywords": "document, upload, design, online, option"
       },
       {
-        "TSNE-1": -0.7970787286758423,
-        "TSNE-2": -0.6342257857322693,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -7.399253845214844,
-        "TSNE-2": 1.9637107849121094,
-        "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
-      },
-      {
-        "TSNE-1": -4.970477104187012,
-        "TSNE-2": 2.9850592613220215,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": -2.39107608795166,
-        "TSNE-2": 1.7683026790618896,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -2.112990617752075,
-        "TSNE-2": -3.7003464698791504,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 6.149095058441162,
-        "TSNE-2": 3.3335864543914795,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": 6.006962299346924,
-        "TSNE-2": 13.279967308044434,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": 10.706169128417969,
-        "TSNE-2": -2.572524070739746,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": 11.017960548400879,
-        "TSNE-2": 3.479595422744751,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": -11.00058650970459,
-        "TSNE-2": 0.881883978843689,
-        "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
-      },
-      {
-        "TSNE-1": 1.2482248544692993,
-        "TSNE-2": -11.095232963562012,
+        "TSNE-1": 9.73749828338623,
+        "TSNE-2": 3.122999668121338,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": -4.533124923706055,
-        "TSNE-2": -5.102807998657227,
+        "TSNE-1": 4.7234344482421875,
+        "TSNE-2": -0.5649192333221436,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": -1.3388851881027222,
-        "TSNE-2": -2.2009713649749756,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
+        "TSNE-1": -5.474454879760742,
+        "TSNE-2": 5.714109420776367,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
       },
       {
-        "TSNE-1": -3.4751479625701904,
-        "TSNE-2": -10.171045303344727,
+        "TSNE-1": 3.4805092811584473,
+        "TSNE-2": 5.316823482513428,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": 3.272616386413574,
-        "TSNE-2": 2.9546966552734375,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": 0.6716964244842529,
-        "TSNE-2": -0.1478540301322937,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 0.7670380473136902,
-        "TSNE-2": 12.517003059387207,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -1.2082959413528442,
-        "TSNE-2": -8.084290504455566,
+        "TSNE-1": 1.628608226776123,
+        "TSNE-2": -1.4550185203552246,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": -2.7391788959503174,
-        "TSNE-2": -0.04631664976477623,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -6.802553176879883,
-        "TSNE-2": -1.7332652807235718,
-        "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
-      },
-      {
-        "TSNE-1": -4.691462993621826,
-        "TSNE-2": 0.755560576915741,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -3.358405590057373,
-        "TSNE-2": -5.014071464538574,
+        "TSNE-1": 0.24006247520446777,
+        "TSNE-2": 5.2601704597473145,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": 2.4684560298919678,
-        "TSNE-2": -1.402763843536377,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 1.2669755220413208,
-        "TSNE-2": 2.3275604248046875,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -13.73736572265625,
-        "TSNE-2": 1.8612583875656128,
+        "TSNE-1": 8.22844409942627,
+        "TSNE-2": -5.4872636795043945,
         "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
+        "keywords": "document, upload, design, online, option"
       },
       {
-        "TSNE-1": 6.154976844787598,
-        "TSNE-2": 7.828519344329834,
+        "TSNE-1": 8.145726203918457,
+        "TSNE-2": -11.603574752807617,
         "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
+        "keywords": "assignment, platform, tool, page, approach"
       },
       {
-        "TSNE-1": -4.744729042053223,
-        "TSNE-2": 5.613830089569092,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": -7.584031105041504,
-        "TSNE-2": -7.477936267852783,
+        "TSNE-1": -2.868558645248413,
+        "TSNE-2": 2.6437978744506836,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": 1.1077451705932617,
-        "TSNE-2": 1.4530131816864014,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -4.367393493652344,
-        "TSNE-2": 8.442231178283691,
+        "TSNE-1": -3.864149332046509,
+        "TSNE-2": 17.796600341796875,
         "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
+        "keywords": "question, include, enhance, engagement, link"
       },
       {
-        "TSNE-1": 9.233702659606934,
-        "TSNE-2": 0.9530965685844421,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
+        "TSNE-1": -4.207890510559082,
+        "TSNE-2": -17.034423828125,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
       },
       {
-        "TSNE-1": -2.2064568996429443,
-        "TSNE-2": -5.483860492706299,
+        "TSNE-1": 4.08327579498291,
+        "TSNE-2": 1.682662844657898,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": -13.73736572265625,
-        "TSNE-2": 1.8612583875656128,
-        "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
+        "TSNE-1": -6.324182033538818,
+        "TSNE-2": 2.461578130722046,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
       },
       {
-        "TSNE-1": 1.2047219276428223,
-        "TSNE-2": -5.748050689697266,
+        "TSNE-1": 0.3734787702560425,
+        "TSNE-2": 0.8001403212547302,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": 4.262609004974365,
-        "TSNE-2": -0.19484639167785645,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": 3.0789198875427246,
-        "TSNE-2": -3.695075273513794,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 0.583762526512146,
-        "TSNE-2": 5.581564426422119,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -9.590478897094727,
-        "TSNE-2": -6.969012260437012,
+        "TSNE-1": 17.26816177368164,
+        "TSNE-2": -10.393599510192871,
         "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
+        "keywords": "document, upload, design, online, option"
       },
       {
-        "TSNE-1": 6.358282089233398,
-        "TSNE-2": -2.4773709774017334,
+        "TSNE-1": -9.617645263671875,
+        "TSNE-2": 5.23505163192749,
         "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
+        "keywords": "multimedia, information, provide, element, allows"
       },
       {
-        "TSNE-1": 0.6375535130500793,
-        "TSNE-2": 8.57105541229248,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -2.8823673725128174,
-        "TSNE-2": 9.3184814453125,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": -2.8823673725128174,
-        "TSNE-2": 9.3184814453125,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": -5.838027000427246,
-        "TSNE-2": 10.278669357299805,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": 2.9341611862182617,
-        "TSNE-2": 4.63464879989624,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": 0.1332600712776184,
-        "TSNE-2": -3.95188570022583,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 2.749263048171997,
-        "TSNE-2": 1.5708922147750854,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 0.5580549240112305,
-        "TSNE-2": -2.3996310234069824,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -8.909333229064941,
-        "TSNE-2": -3.094850540161133,
-        "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
-      },
-      {
-        "TSNE-1": 7.250007152557373,
-        "TSNE-2": 2.031773090362549,
+        "TSNE-1": -16.472532272338867,
+        "TSNE-2": -4.16445255279541,
         "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
+        "keywords": "multimedia, information, provide, element, allows"
       },
       {
-        "TSNE-1": -8.647987365722656,
-        "TSNE-2": -3.6673531532287598,
-        "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
-      },
-      {
-        "TSNE-1": 8.365157127380371,
-        "TSNE-2": -5.535055160522461,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": 3.1028807163238525,
-        "TSNE-2": 12.371077537536621,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -4.710268974304199,
-        "TSNE-2": -1.6368632316589355,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 1.9730260372161865,
-        "TSNE-2": 3.2557451725006104,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -10.596699714660645,
-        "TSNE-2": -2.283081293106079,
-        "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
-      },
-      {
-        "TSNE-1": 4.913666725158691,
-        "TSNE-2": 10.16982364654541,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": 3.1028807163238525,
-        "TSNE-2": 12.371077537536621,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -2.8823673725128174,
-        "TSNE-2": 9.3184814453125,
+        "TSNE-1": 1.8740971088409424,
+        "TSNE-2": 12.005248069763184,
         "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
+        "keywords": "question, include, enhance, engagement, link"
       },
       {
-        "TSNE-1": 7.586560249328613,
-        "TSNE-2": -1.1493396759033203,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": -1.912226915359497,
-        "TSNE-2": 4.558394908905029,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": -7.565460205078125,
-        "TSNE-2": 6.890246868133545,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": 0.3082787096500397,
-        "TSNE-2": 9.143065452575684,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": -1.2198445796966553,
-        "TSNE-2": 1.6860074996948242,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -2.7391788959503174,
-        "TSNE-2": -0.04631664976477623,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": 0.5168439149856567,
-        "TSNE-2": 4.975284099578857,
-        "cluster": 1,
-        "keywords": "instructor, design, question, related, platform"
-      },
-      {
-        "TSNE-1": 13.55811595916748,
-        "TSNE-2": 0.446350634098053,
-        "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
-      },
-      {
-        "TSNE-1": -4.14179801940918,
-        "TSNE-2": 14.61445426940918,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": 3.2310328483581543,
-        "TSNE-2": -4.560553550720215,
-        "cluster": 5,
-        "keywords": "enhance, engagement, tool, also, experience"
-      },
-      {
-        "TSNE-1": -2.778862714767456,
-        "TSNE-2": 12.670992851257324,
-        "cluster": 3,
-        "keywords": "example, feel, information, help, technology"
-      },
-      {
-        "TSNE-1": -9.456750869750977,
-        "TSNE-2": -1.551491379737854,
-        "cluster": 4,
-        "keywords": "canvas, assignment, html, page, like"
-      },
-      {
-        "TSNE-1": 1.2482248544692993,
-        "TSNE-2": -11.095232963562012,
+        "TSNE-1": 0.7418254613876343,
+        "TSNE-2": 2.4945459365844727,
         "cluster": 0,
-        "keywords": "syllabus, interactive, student, course, include"
+        "keywords": "interactive, syllabus, student, course, instructor"
       },
       {
-        "TSNE-1": 7.742239952087402,
-        "TSNE-2": 1.1839128732681274,
+        "TSNE-1": -9.463486671447754,
+        "TSNE-2": -5.207408428192139,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -18.407358169555664,
+        "TSNE-2": 4.191587448120117,
         "cluster": 2,
-        "keywords": "multimedia, digital, deliver, element, hiding"
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": 5.784263610839844,
+        "TSNE-2": 1.872556209564209,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": 17.26816177368164,
+        "TSNE-2": -10.393599510192871,
+        "cluster": 4,
+        "keywords": "document, upload, design, online, option"
+      },
+      {
+        "TSNE-1": -13.965582847595215,
+        "TSNE-2": -12.29690170288086,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": 13.574896812438965,
+        "TSNE-2": 4.723908424377441,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": -7.6613945960998535,
+        "TSNE-2": 12.72584056854248,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": -3.699625253677368,
+        "TSNE-2": 8.182088851928711,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": 4.661679744720459,
+        "TSNE-2": 14.173039436340332,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": 15.837141990661621,
+        "TSNE-2": 1.1264275312423706,
+        "cluster": 4,
+        "keywords": "document, upload, design, online, option"
+      },
+      {
+        "TSNE-1": -5.790460586547852,
+        "TSNE-2": -7.337506294250488,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -7.087703704833984,
+        "TSNE-2": -3.366809844970703,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -7.087703704833984,
+        "TSNE-2": -3.366809844970703,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -10.641685485839844,
+        "TSNE-2": -2.396446466445923,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -2.9259588718414307,
+        "TSNE-2": -9.313777923583984,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": -2.221269369125366,
+        "TSNE-2": -13.507895469665527,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": -1.5425752401351929,
+        "TSNE-2": 0.01125100627541542,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": 0.16679933667182922,
+        "TSNE-2": -12.245071411132812,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": 1.9991307258605957,
+        "TSNE-2": -7.684423446655273,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": -15.598859786987305,
+        "TSNE-2": 1.1193044185638428,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": 0.9434622526168823,
+        "TSNE-2": -8.5630464553833,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": 10.445890426635742,
+        "TSNE-2": 14.720582962036133,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": 8.750844955444336,
+        "TSNE-2": -2.702019691467285,
+        "cluster": 4,
+        "keywords": "document, upload, design, online, option"
+      },
+      {
+        "TSNE-1": -12.641050338745117,
+        "TSNE-2": 11.768942832946777,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": -0.21665054559707642,
+        "TSNE-2": -1.7906320095062256,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": 2.0104386806488037,
+        "TSNE-2": -5.333227634429932,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": -2.581334114074707,
+        "TSNE-2": -5.725649356842041,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": 8.750844955444336,
+        "TSNE-2": -2.702019691467285,
+        "cluster": 4,
+        "keywords": "document, upload, design, online, option"
+      },
+      {
+        "TSNE-1": -7.087703704833984,
+        "TSNE-2": -3.366809844970703,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -14.567856788635254,
+        "TSNE-2": 5.593967914581299,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
+      },
+      {
+        "TSNE-1": 6.217336654663086,
+        "TSNE-2": 8.82654857635498,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": -9.561138153076172,
+        "TSNE-2": -10.29613208770752,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": -6.963136196136475,
+        "TSNE-2": -7.947324752807617,
+        "cluster": 5,
+        "keywords": "example, help, technology, way, presence"
+      },
+      {
+        "TSNE-1": 2.2967257499694824,
+        "TSNE-2": 17.212337493896484,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": -2.868558645248413,
+        "TSNE-2": 2.6437978744506836,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": -2.6216561794281006,
+        "TSNE-2": 7.356638431549072,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": 8.657371520996094,
+        "TSNE-2": -17.183528900146484,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": 14.100203514099121,
+        "TSNE-2": -3.917189121246338,
+        "cluster": 4,
+        "keywords": "document, upload, design, online, option"
+      },
+      {
+        "TSNE-1": -7.155294418334961,
+        "TSNE-2": 10.957822799682617,
+        "cluster": 3,
+        "keywords": "question, include, enhance, engagement, link"
+      },
+      {
+        "TSNE-1": 13.616923332214355,
+        "TSNE-2": -6.907638072967529,
+        "cluster": 4,
+        "keywords": "document, upload, design, online, option"
+      },
+      {
+        "TSNE-1": 4.013075828552246,
+        "TSNE-2": -5.398575305938721,
+        "cluster": 1,
+        "keywords": "assignment, platform, tool, page, approach"
+      },
+      {
+        "TSNE-1": 9.73749828338623,
+        "TSNE-2": 3.122999668121338,
+        "cluster": 0,
+        "keywords": "interactive, syllabus, student, course, instructor"
+      },
+      {
+        "TSNE-1": -17.1884822845459,
+        "TSNE-2": 1.9019067287445068,
+        "cluster": 2,
+        "keywords": "multimedia, information, provide, element, allows"
       }
     ]
   },

@@ -7,567 +7,567 @@
     }
   },
   "data": {
-    "name": "data-c519cc2fb79444e2ec3c13b6ac95bae3"
+    "name": "data-0715c9c89e1657db352f5ab52d06d5d1"
   },
   "datasets": {
-    "data-c519cc2fb79444e2ec3c13b6ac95bae3": [
+    "data-0715c9c89e1657db352f5ab52d06d5d1": [
       {
-        "TSNE-1": 6.028365135192871,
-        "TSNE-2": -0.6183102130889893,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -4.495322227478027,
-        "TSNE-2": -1.2507405281066895,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": -7.915745735168457,
-        "TSNE-2": -11.017109870910645,
+        "TSNE-1": 1.81544828414917,
+        "TSNE-2": 5.297270774841309,
         "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
+        "keywords": "societal, social, fashion, standard, public"
       },
       {
-        "TSNE-1": 2.5766825675964355,
-        "TSNE-2": 6.729111194610596,
+        "TSNE-1": 0.9235300421714783,
+        "TSNE-2": -3.8831286430358887,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": -6.699617862701416,
+        "TSNE-2": 14.412147521972656,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": 6.258663177490234,
+        "TSNE-2": -11.899181365966797,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": -6.699617862701416,
+        "TSNE-2": 14.412147521972656,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": -14.431163787841797,
+        "TSNE-2": -1.8794528245925903,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": 1.20366632938385,
+        "TSNE-2": 11.904205322265625,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": -5.429748058319092,
+        "TSNE-2": 1.1062862873077393,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": 14.196873664855957,
+        "TSNE-2": -3.646747589111328,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 1.8666082620620728,
+        "TSNE-2": -13.614753723144531,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": 5.074055194854736,
+        "TSNE-2": 6.609348773956299,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -15.3623628616333,
+        "TSNE-2": 5.913893222808838,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": 2.9082372188568115,
+        "TSNE-2": 3.2103705406188965,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": 5.6215667724609375,
+        "TSNE-2": 10.804769515991211,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": 1.6957855224609375,
+        "TSNE-2": -15.882983207702637,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": -2.7392992973327637,
+        "TSNE-2": 2.3868660926818848,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": -3.7704970836639404,
+        "TSNE-2": -17.57405662536621,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": -5.429748058319092,
+        "TSNE-2": 1.1062862873077393,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": -2.0702805519104004,
+        "TSNE-2": -0.11740834265947342,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": -3.030242919921875,
+        "TSNE-2": -3.990605115890503,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": -10.855804443359375,
+        "TSNE-2": -13.3543701171875,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": -1.5247069597244263,
+        "TSNE-2": -3.1257331371307373,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": -9.378328323364258,
+        "TSNE-2": -14.418076515197754,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": 10.16535758972168,
+        "TSNE-2": -0.625797688961029,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 9.056010246276855,
+        "TSNE-2": -5.510477066040039,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 1.2641764879226685,
+        "TSNE-2": 1.7453210353851318,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -11.816751480102539,
+        "TSNE-2": -10.423700332641602,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": 0.3153311610221863,
+        "TSNE-2": 13.12922477722168,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": -2.58607816696167,
+        "TSNE-2": -9.896469116210938,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": -10.71033000946045,
+        "TSNE-2": 7.713696002960205,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": 14.66405963897705,
+        "TSNE-2": -2.081805467605591,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": -6.605151176452637,
+        "TSNE-2": -3.8159244060516357,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": 2.5621838569641113,
+        "TSNE-2": 0.10807846486568451,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -1.5382144451141357,
+        "TSNE-2": 6.816596508026123,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": 5.0254435539245605,
+        "TSNE-2": -8.329407691955566,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 3.107550859451294,
+        "TSNE-2": -3.48380970954895,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 9.191267967224121,
+        "TSNE-2": 5.006320953369141,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": 12.013136863708496,
+        "TSNE-2": 6.489431858062744,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": 11.676812171936035,
+        "TSNE-2": 2.7792351245880127,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": 7.872342109680176,
+        "TSNE-2": 2.2387638092041016,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -4.576891899108887,
+        "TSNE-2": 4.78539514541626,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": -7.782819747924805,
+        "TSNE-2": 3.7884957790374756,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": 3.906923532485962,
+        "TSNE-2": 1.3671826124191284,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": 4.121304988861084,
+        "TSNE-2": 9.850899696350098,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": 6.090356826782227,
+        "TSNE-2": -4.05355167388916,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": -12.330574989318848,
+        "TSNE-2": 1.872401475906372,
+        "cluster": 5,
+        "keywords": "acceptable, context, fame, western, particularly"
+      },
+      {
+        "TSNE-1": -4.2282233238220215,
+        "TSNE-2": -5.560977458953857,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": -11.646000862121582,
+        "TSNE-2": -8.802943229675293,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": 5.074055194854736,
+        "TSNE-2": 6.609348773956299,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": 114.43575286865234,
+        "TSNE-2": -129.375,
         "cluster": 1,
-        "keywords": "author, text, suggests, able, part"
+        "keywords": "influence, desire, reinforcement, acceptance, wealth"
       },
       {
-        "TSNE-1": -7.915745735168457,
-        "TSNE-2": -11.017109870910645,
+        "TSNE-1": 12.515158653259277,
+        "TSNE-2": -10.780624389648438,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": -6.859257698059082,
+        "TSNE-2": -10.858898162841797,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": 2.0546581745147705,
+        "TSNE-2": -0.8913971185684204,
         "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
+        "keywords": "societal, social, fashion, standard, public"
       },
       {
-        "TSNE-1": -7.92660665512085,
-        "TSNE-2": 0.784630537033081,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": 10.20737361907959,
-        "TSNE-2": -1.1715277433395386,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 6.141528129577637,
-        "TSNE-2": -3.1008846759796143,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -2.600126028060913,
-        "TSNE-2": 15.932805061340332,
+        "TSNE-1": -12.330574989318848,
+        "TSNE-2": 1.872401475906372,
         "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
+        "keywords": "acceptable, context, fame, western, particularly"
       },
       {
-        "TSNE-1": -4.479306697845459,
-        "TSNE-2": 8.379352569580078,
-        "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
-      },
-      {
-        "TSNE-1": -5.0253190994262695,
-        "TSNE-2": -5.030379295349121,
+        "TSNE-1": -0.700157880783081,
+        "TSNE-2": 4.77263069152832,
         "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
+        "keywords": "societal, social, fashion, standard, public"
       },
       {
-        "TSNE-1": -8.45526123046875,
-        "TSNE-2": 3.060548782348633,
+        "TSNE-1": -9.759346961975098,
+        "TSNE-2": -11.17016315460205,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": -0.9077518582344055,
+        "TSNE-2": 3.2362897396087646,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -2.7302510738372803,
+        "TSNE-2": -8.87042236328125,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": 3.0953197479248047,
+        "TSNE-2": 14.71900463104248,
         "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
+        "keywords": "woman, body, may, cleavage, culture"
       },
       {
-        "TSNE-1": 1.1396939754486084,
-        "TSNE-2": -4.488765239715576,
+        "TSNE-1": -8.407764434814453,
+        "TSNE-2": -12.630122184753418,
         "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
+        "keywords": "author, text, suggests, explicitly, socially"
       },
       {
-        "TSNE-1": -2.570586919784546,
-        "TSNE-2": -6.765774726867676,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": -3.130002498626709,
-        "TSNE-2": 7.3558759689331055,
+        "TSNE-1": -17.879444122314453,
+        "TSNE-2": 1.3842791318893433,
         "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
+        "keywords": "acceptable, context, fame, western, particularly"
       },
       {
-        "TSNE-1": -0.07160301506519318,
-        "TSNE-2": 4.094666481018066,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 12.573266983032227,
-        "TSNE-2": -5.6747660636901855,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 6.141528129577637,
-        "TSNE-2": -3.1008846759796143,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 2.5505123138427734,
-        "TSNE-2": 3.9200000762939453,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 3.3519933223724365,
-        "TSNE-2": -9.842657089233398,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -2.403695821762085,
-        "TSNE-2": 11.203046798706055,
+        "TSNE-1": -8.297489166259766,
+        "TSNE-2": 0.6931008100509644,
         "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
+        "keywords": "acceptable, context, fame, western, particularly"
       },
       {
-        "TSNE-1": 4.365846633911133,
-        "TSNE-2": -8.52785873413086,
+        "TSNE-1": 13.23580265045166,
+        "TSNE-2": -9.878610610961914,
         "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
       },
       {
-        "TSNE-1": -2.2155022621154785,
-        "TSNE-2": 12.388672828674316,
+        "TSNE-1": -2.1165881156921387,
+        "TSNE-2": 16.992538452148438,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": 1.5184186697006226,
+        "TSNE-2": -8.897688865661621,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": 7.8373188972473145,
+        "TSNE-2": -1.9269468784332275,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 4.168604850769043,
+        "TSNE-2": -6.377786159515381,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 4.842240810394287,
+        "TSNE-2": -1.7318328619003296,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -3.0690181255340576,
+        "TSNE-2": 10.805115699768066,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": 0.5803990364074707,
+        "TSNE-2": -14.598936080932617,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": -3.847102403640747,
+        "TSNE-2": 9.793212890625,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": -3.7704970836639404,
+        "TSNE-2": -17.57405662536621,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": -8.403080940246582,
+        "TSNE-2": 9.636653900146484,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": 7.945082664489746,
+        "TSNE-2": 7.891557693481445,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": 1.4855186939239502,
+        "TSNE-2": -7.5905680656433105,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": -8.248308181762695,
+        "TSNE-2": 5.034255027770996,
         "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
+        "keywords": "acceptable, context, fame, western, particularly"
       },
       {
-        "TSNE-1": 5.4630961418151855,
-        "TSNE-2": 2.229398488998413,
+        "TSNE-1": 9.517127990722656,
+        "TSNE-2": 9.654414176940918,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -8.403080940246582,
+        "TSNE-2": 9.636653900146484,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": 4.127706050872803,
+        "TSNE-2": 16.472890853881836,
+        "cluster": 2,
+        "keywords": "woman, body, may, cleavage, culture"
+      },
+      {
+        "TSNE-1": -9.538554191589355,
+        "TSNE-2": -8.522700309753418,
         "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
+        "keywords": "author, text, suggests, explicitly, socially"
       },
       {
-        "TSNE-1": 3.9186806678771973,
-        "TSNE-2": 1.2559587955474854,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
+        "TSNE-1": 5.569919586181641,
+        "TSNE-2": 3.4203195571899414,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
       },
       {
-        "TSNE-1": 1.014153242111206,
-        "TSNE-2": -2.378492593765259,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 0.5472898483276367,
-        "TSNE-2": 10.26859188079834,
+        "TSNE-1": -15.3623628616333,
+        "TSNE-2": 5.913893222808838,
         "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
+        "keywords": "acceptable, context, fame, western, particularly"
       },
       {
-        "TSNE-1": 10.84405517578125,
-        "TSNE-2": -0.4294569492340088,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -0.15518906712532043,
-        "TSNE-2": 18.941362380981445,
+        "TSNE-1": -18.904653549194336,
+        "TSNE-2": 0.9610259532928467,
         "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
+        "keywords": "acceptable, context, fame, western, particularly"
       },
       {
-        "TSNE-1": -11.400172233581543,
-        "TSNE-2": -0.36044085025787354,
+        "TSNE-1": 0.991061270236969,
+        "TSNE-2": 8.524128913879395,
         "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
+        "keywords": "woman, body, may, cleavage, culture"
       },
       {
-        "TSNE-1": -0.9765738248825073,
-        "TSNE-2": 15.950606346130371,
+        "TSNE-1": 7.872342109680176,
+        "TSNE-2": 2.2387638092041016,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -9.258016586303711,
+        "TSNE-2": -7.319372177124023,
+        "cluster": 3,
+        "keywords": "author, text, suggests, explicitly, socially"
+      },
+      {
+        "TSNE-1": 19.634159088134766,
+        "TSNE-2": -3.830695629119873,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 9.312912940979004,
+        "TSNE-2": -7.580723285675049,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": -1.0515309572219849,
+        "TSNE-2": 0.8945067524909973,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": 15.477018356323242,
+        "TSNE-2": -0.6073037981987,
+        "cluster": 0,
+        "keywords": "celebrity, behavior, medium, immodest, immodesty"
+      },
+      {
+        "TSNE-1": 6.291190147399902,
+        "TSNE-2": 0.02143215388059616,
+        "cluster": 4,
+        "keywords": "societal, social, fashion, standard, public"
+      },
+      {
+        "TSNE-1": -6.605151176452637,
+        "TSNE-2": -3.8159244060516357,
         "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
+        "keywords": "acceptable, context, fame, western, particularly"
       },
       {
-        "TSNE-1": 4.055239677429199,
-        "TSNE-2": -13.587143898010254,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -0.9106276631355286,
-        "TSNE-2": -1.879764199256897,
+        "TSNE-1": -1.0714203119277954,
+        "TSNE-2": -14.39279842376709,
         "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 1.814469575881958,
-        "TSNE-2": -5.877873420715332,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 6.745195388793945,
-        "TSNE-2": -7.628839492797852,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -0.87481689453125,
-        "TSNE-2": -8.369344711303711,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 1.655160665512085,
-        "TSNE-2": -8.385085105895996,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -8.095709800720215,
-        "TSNE-2": 7.127931118011475,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": -0.5743094682693481,
-        "TSNE-2": -5.866844654083252,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 2.886857032775879,
-        "TSNE-2": -2.480236053466797,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 8.466519355773926,
-        "TSNE-2": -3.8676443099975586,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -3.995048999786377,
-        "TSNE-2": 3.330002784729004,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": -0.4165264964103699,
-        "TSNE-2": -3.3598692417144775,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -2.522096872329712,
-        "TSNE-2": -5.569098472595215,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": -2.740718364715576,
-        "TSNE-2": 1.184000015258789,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -8.331320762634277,
-        "TSNE-2": -2.48557710647583,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": 3.050544500350952,
-        "TSNE-2": -11.536537170410156,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 0.7931316494941711,
-        "TSNE-2": 9.323442459106445,
-        "cluster": 1,
-        "keywords": "author, text, suggests, able, part"
-      },
-      {
-        "TSNE-1": -5.0253190994262695,
-        "TSNE-2": -5.030379295349121,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 2.6717405319213867,
-        "TSNE-2": -0.5622774362564087,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -10.897831916809082,
-        "TSNE-2": -7.256491184234619,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 1.8730058670043945,
-        "TSNE-2": 11.944422721862793,
-        "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
-      },
-      {
-        "TSNE-1": -0.17480793595314026,
-        "TSNE-2": -1.58794367313385,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -8.331320762634277,
-        "TSNE-2": -2.48557710647583,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": -0.21895205974578857,
-        "TSNE-2": 1.374374270439148,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -1.4673371315002441,
-        "TSNE-2": 10.010590553283691,
-        "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
-      },
-      {
-        "TSNE-1": -0.5285437107086182,
-        "TSNE-2": 2.493983268737793,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 0.5036098957061768,
-        "TSNE-2": 18.906177520751953,
-        "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
-      },
-      {
-        "TSNE-1": 11.432623863220215,
-        "TSNE-2": 1.9092044830322266,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -0.5418688654899597,
-        "TSNE-2": 11.558995246887207,
-        "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
-      },
-      {
-        "TSNE-1": -12.308417320251465,
-        "TSNE-2": 5.840500354766846,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": 6.71797513961792,
-        "TSNE-2": -5.225618839263916,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -10.549373626708984,
-        "TSNE-2": -6.691141605377197,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 6.026575088500977,
-        "TSNE-2": -11.860758781433105,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": -0.39046117663383484,
-        "TSNE-2": -11.700550079345703,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 1.8794013261795044,
-        "TSNE-2": 0.24793338775634766,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 4.085781097412109,
-        "TSNE-2": -6.278107166290283,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 3.3392980098724365,
-        "TSNE-2": -4.41475772857666,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 7.422137260437012,
-        "TSNE-2": 6.148036956787109,
-        "cluster": 1,
-        "keywords": "author, text, suggests, able, part"
-      },
-      {
-        "TSNE-1": 3.8077073097229004,
-        "TSNE-2": 9.687835693359375,
-        "cluster": 1,
-        "keywords": "author, text, suggests, able, part"
-      },
-      {
-        "TSNE-1": 8.265545845031738,
-        "TSNE-2": 6.482093334197998,
-        "cluster": 1,
-        "keywords": "author, text, suggests, able, part"
-      },
-      {
-        "TSNE-1": 12.573266983032227,
-        "TSNE-2": -5.6747660636901855,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 8.845608711242676,
-        "TSNE-2": 2.2788257598876953,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -5.037289619445801,
-        "TSNE-2": -7.719583988189697,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 0.027803633362054825,
-        "TSNE-2": -10.811766624450684,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": -4.454966068267822,
-        "TSNE-2": 4.021078109741211,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": -4.20512056350708,
-        "TSNE-2": -9.05014705657959,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 8.845608711242676,
-        "TSNE-2": 2.2788257598876953,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 12.999515533447266,
-        "TSNE-2": 1.984043836593628,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 0.5474576950073242,
-        "TSNE-2": 7.93607759475708,
-        "cluster": 1,
-        "keywords": "author, text, suggests, able, part"
-      },
-      {
-        "TSNE-1": -2.0486013889312744,
-        "TSNE-2": -0.7268705368041992,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -7.875061511993408,
-        "TSNE-2": 3.0909013748168945,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": -12.632458686828613,
-        "TSNE-2": 5.32885217666626,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": -2.498616933822632,
-        "TSNE-2": -2.959019660949707,
-        "cluster": 4,
-        "keywords": "body, culture, feel, influence, attention"
-      },
-      {
-        "TSNE-1": 2.886857032775879,
-        "TSNE-2": -2.480236053466797,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": -0.22404387593269348,
-        "TSNE-2": 7.517557144165039,
-        "cluster": 1,
-        "keywords": "author, text, suggests, able, part"
-      },
-      {
-        "TSNE-1": -12.749444007873535,
-        "TSNE-2": 0.3036477565765381,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": -13.60264778137207,
-        "TSNE-2": -4.129460334777832,
-        "cluster": 2,
-        "keywords": "accepted, social, like, fame, navel"
-      },
-      {
-        "TSNE-1": 1.601645588874817,
-        "TSNE-2": 3.188838243484497,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 0.3118993043899536,
-        "TSNE-2": 15.061110496520996,
-        "cluster": 5,
-        "keywords": "argues, bare, skin, girl, others"
-      },
-      {
-        "TSNE-1": 0.9437534809112549,
-        "TSNE-2": 0.03554004430770874,
-        "cluster": 3,
-        "keywords": "immodesty, societal, immodest, among, modesty"
-      },
-      {
-        "TSNE-1": 4.055239677429199,
-        "TSNE-2": -13.587143898010254,
-        "cluster": 0,
-        "keywords": "celebrity, often, role, medium, behavior"
-      },
-      {
-        "TSNE-1": 4.800578594207764,
-        "TSNE-2": 10.156136512756348,
-        "cluster": 1,
-        "keywords": "author, text, suggests, able, part"
+        "keywords": "author, text, suggests, explicitly, socially"
       }
     ]
   },
